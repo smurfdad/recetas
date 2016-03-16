@@ -23,3 +23,18 @@ layout: default
     </ul>
     {% endcomment%}
 </article>
+
+
+  <div class="clearfix"></div>
+  <nav class="row">
+    <ul class="pager">
+    {% if page.previous.url %}
+      <li class="pull-left"><a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}"><i class="glyphicon glyphicon-chevron-left"></i> {{page.previous.title}}</a></li>
+    {% endif %}
+
+    {% if page.next.url %}
+      <li class="pull-right"><a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}">{{page.next.title}} <i class="glyphicon glyphicon-chevron-right"></i></a></li>
+    {% endif %}
+    </ul>
+  </nav>
+
