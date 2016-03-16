@@ -1,0 +1,26 @@
+<header>
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+                    <span class="sr-only"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">{{ site.title }} <small>by @{{site.author}}</small></a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                  {% include navigations.html %}
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="page-header page-header-smurfdad">
+        <div class="container">
+            <h1>{{ site.subtitle }}</h1>
+        </div>
+    </div>
+</header>

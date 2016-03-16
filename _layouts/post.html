@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article>
+    <a href="{{ page.url | prepend: site.baseurl }}">
+    <h2>{{ page.title }}</h2>
+</a>
+<small>{{ page.date | date: "%-d/%-m/%Y" }}</small>
+<ul class="cloud-tag-list">
+    {% for category in page.categories %}
+    <li class="cloud-tag-list-item cloud-tag-list-item-primary">{{category | capitalize}}</li>
+    {% endfor%}
+</ul>
+<ul class="cloud-tag-list">
+    {% for tag in page.tags %}
+    <li class="cloud-tag-list-item cloud-tag-list-item-primary">{{tag | capitalize}}</li>
+    {% endfor%}
+</ul>
+<div class="bs-callout bs-callout-primary text-justify">
+    {{ content }}
+</div>
+</article>

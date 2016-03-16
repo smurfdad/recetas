@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{%assign first_post_id = site.posts.first.id%}
+{% for post in paginator.posts %}
+  <article>
+    <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+    <small>{{ post.date | date_to_string }}</small>
+    <div class="bs-callout bs-callout-primary text-justify">
+      {% if first_post_id == post.id %}
+        {{ post.content }}
+      {% else %}
+        {{ post.excerpt }}
+      {% endif %}
+    </div>
+  </article>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+  <nav>
+    <ul class="pager">
+    {% if paginator.previous_page %}
+      <li class="pull-left"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="glyphicon glyphicon-chevron-left"></i> Entradas recientes</a></li>
+    {% endif %}
+
+    {% if paginator.next_page %}
+      <li class="pull-right"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Entradas antiguas <i class="glyphicon glyphicon-chevron-right"></i></a></li>
+    {% endif %}
+    </ul>
+  </nav>
+{% endif %}
