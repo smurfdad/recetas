@@ -1,6 +1,7 @@
 ---
 title: Historico de Publicaciones
 layout: page
+permalink: /historial/
 ---
 {% for post in site.posts %}
   <div class="row">
