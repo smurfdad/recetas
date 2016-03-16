@@ -10,4 +10,22 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-38127371887360235
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/ensalada-princesa.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 apio picado<br />50 grs. de nueces picadas<br />2 manzanas<br />1 col pequeña picada<br />1 yogur natural<br />1/4 taza de leche sal y pimienta.<br /><h3>Preparación</h3>Lavar las manzanas y sin pelarlas cortarlas en cuadrito. Lavar la col y remojarla, luego cortarla finamente.   Mezclar todo muy bien, y agregar el yogur que se habrá diluido en la leche.<br />Sazonar con sal y pimienta, espolvoreando con la nuez picada.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 apio picado
+
+50 grs. de nueces picadas
+
+2 manzanas
+
+1 col pequeña picada
+
+1 yogur natural
+
+1/4 taza de leche sal y pimienta.
+
+<h3>Preparación</h3>
+Lavar las manzanas y sin pelarlas cortarlas en cuadrito. Lavar la col y remojarla, luego cortarla finamente.   Mezclar todo muy bien, y agregar el yogur que se habrá diluido en la leche.
+
+Sazonar con sal y pimienta, espolvoreando con la nuez picada.

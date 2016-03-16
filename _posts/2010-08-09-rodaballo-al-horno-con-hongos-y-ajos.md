@@ -11,4 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-20740583668369018
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/rodaballo-al-horno-con-hongos-y-ajos.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>Rodaballo 2 kg<br />Hongo 250 gr<br />Cebolla 0,45 kg<br />Bacon 0,20 kg<br />Nata 0,15 l<br />Ajo 10 dientes<br />Cebolla 0,20 kg<br />Curry<br />Cebollino<br />Tempura<br />Muselina de ajo<br /><h3>Preparación</h3>Limpiar y espinar el rodaballo, racionarlo, marcarlo a la plancha y acabar al horno. Emplatarlo sobre una cama de carbonara (cebolla pochada en juliana mas bacon y nata) y hongos salteados. Alrededor añadir una muselina de ajo, aros de cebolla en tempúra de cúrcuma y decorar el plato con unos ajos confitados y cebollino finamente picado.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+Rodaballo 2 kg
+
+Hongo 250 gr
+
+Cebolla 0,45 kg
+
+Bacon 0,20 kg
+
+Nata 0,15 l
+
+Ajo 10 dientes
+
+Cebolla 0,20 kg
+
+Curry
+
+Cebollino
+
+Tempura
+
+Muselina de ajo
+
+<h3>Preparación</h3>
+Limpiar y espinar el rodaballo, racionarlo, marcarlo a la plancha y acabar al horno. Emplatarlo sobre una cama de carbonara (cebolla pochada en juliana mas bacon y nata) y hongos salteados. Alrededor añadir una muselina de ajo, aros de cebolla en tempúra de cúrcuma y decorar el plato con unos ajos confitados y cebollino finamente picado.

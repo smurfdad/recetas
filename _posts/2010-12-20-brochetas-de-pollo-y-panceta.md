@@ -10,4 +10,28 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-88060523702188205
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/12/brochetas-de-pollo-y-panceta.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1/2 kg de pechugas en cubos<br />1/4 kg de panceta ahumada en cubos<br />2 pimientos asado y sin piel cortado en cuadrados<br />200cc de vino blanco<br />Aceite<br />Sal y pimienta<br /><h3>Preparación</h3>Sellar los cubitos de pechugas. Tomar un pincho de brocheta colocar un trozo de pollo, luego uno de panceta y luego un trozo de pimiento, repetimos la acción y dejamos como último un trozo de pollo.<br /><br />Poner un poco de aceite en una fuente de horno y colocar las brochettes y salpimentarlas a gusto. Cocerlas a horno y cada tanto rociarlas con un poco de vino.<br /><br />Se las puede servir sobre colchón de arroz blanco.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1/2 kg de pechugas en cubos
+
+1/4 kg de panceta ahumada en cubos
+
+2 pimientos asado y sin piel cortado en cuadrados
+
+200cc de vino blanco
+
+Aceite
+
+Sal y pimienta
+
+<h3>Preparación</h3>
+Sellar los cubitos de pechugas. Tomar un pincho de brocheta colocar un trozo de pollo, luego uno de panceta y luego un trozo de pimiento, repetimos la acción y dejamos como último un trozo de pollo.
+
+
+
+Poner un poco de aceite en una fuente de horno y colocar las brochettes y salpimentarlas a gusto. Cocerlas a horno y cada tanto rociarlas con un poco de vino.
+
+
+
+Se las puede servir sobre colchón de arroz blanco.

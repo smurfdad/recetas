@@ -11,4 +11,28 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-63343711962010637
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-bogavante.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 lechuga<br />1 kilo de bogavante<br />2 dientes de ajo<br />vinagre de estragón<br />aceite de oliva<br /><br /><h3>Preparación</h3>Picar la lechuga en juliana fina.<br />Añadir el ajo finamente picado.<br />Aliñar la lechuga con el aceite y el vinagre.<br />Disponerlo sobre una fuente y colocar encima el bogavante ya cocido y cortado en rodajas finas.<br />Acompañar esta ensalada con salsa rosa y mayonesa.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 lechuga
+
+1 kilo de bogavante
+
+2 dientes de ajo
+
+vinagre de estragón
+
+aceite de oliva
+
+
+
+<h3>Preparación</h3>
+Picar la lechuga en juliana fina.
+
+Añadir el ajo finamente picado.
+
+Aliñar la lechuga con el aceite y el vinagre.
+
+Disponerlo sobre una fuente y colocar encima el bogavante ya cocido y cortado en rodajas finas.
+
+Acompañar esta ensalada con salsa rosa y mayonesa.

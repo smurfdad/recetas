@@ -11,4 +11,40 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-16459657370344715
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pasta-con-hongos.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>350 gr. de pasta fresca<br />250 gr. de hongos frescos o dos botes de hongos desecados<br />100 gr. de panceta o tocino entreverado<br />8 cucharaditas de aceite<br />1 cebolla pequeña<br />1 diente de ajo<br />1 cucharadita de harina<br />1 cucharadita de salsa de tomate<br />1 vaso de vino tinto<br />1 vaso de caldo<br />sal<br />pimienta<br /><h3>Preparación</h3>Cortar la panceta en dados y saltearla un poco y retirarla.<br />Freír lentamente la cebolla y el diente de ajo picados, y antes de que tomen color, saltear los hongos (si son desecados hay que ponerlos previamente a remojo) y sazonarlos con sal y pimienta.<br />Espolvorear la harina, tostar al fuego y añadir la salsa de tomate, el vino tinto y el tocino entreverado.<br />Añadir el caldo y cocer con cuidado de que no se agarre.<br />Por ultimo, cocer la pasta los minutos que se indique en el envoltorio, escurrir bien y servirla  inmediatamente con la salsa.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+350 gr. de pasta fresca
+
+250 gr. de hongos frescos o dos botes de hongos desecados
+
+100 gr. de panceta o tocino entreverado
+
+8 cucharaditas de aceite
+
+1 cebolla pequeña
+
+1 diente de ajo
+
+1 cucharadita de harina
+
+1 cucharadita de salsa de tomate
+
+1 vaso de vino tinto
+
+1 vaso de caldo
+
+sal
+
+pimienta
+
+<h3>Preparación</h3>
+Cortar la panceta en dados y saltearla un poco y retirarla.
+
+Freír lentamente la cebolla y el diente de ajo picados, y antes de que tomen color, saltear los hongos (si son desecados hay que ponerlos previamente a remojo) y sazonarlos con sal y pimienta.
+
+Espolvorear la harina, tostar al fuego y añadir la salsa de tomate, el vino tinto y el tocino entreverado.
+
+Añadir el caldo y cocer con cuidado de que no se agarre.
+
+Por ultimo, cocer la pasta los minutos que se indique en el envoltorio, escurrir bien y servirla  inmediatamente con la salsa.

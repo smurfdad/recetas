@@ -10,4 +10,33 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-36571453075212494
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/chuletas-de-cerdo-al-horno.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>6 chuletas de cerdo<br/>6 lonchas de queso<br/>6 lonchas de bacon<br/>un poco de aceite<br/>sal</p><h2>Preparaci&oacute;n</h2><p>Untar una fuente de horno con aceite.<br/>Colocar las chuletas en la fuente y echarles sal.<br/>Tapar cada una con una loncha de queso y encima otra de bac&oacute;n.<br/>Meter al horno, precalentado y fuerte (250&ordm;) durante 15 minutos.<br/>Vigilar por si se hacen antes y en ese caso apagar el fuego<br/>hasta que se sirvan a la mesa.<br/>Se pueden acompa&ntilde;ar de unas patatas fritas o ensalada de lechuga.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+6 chuletas de cerdo
+
+6 lonchas de queso
+
+6 lonchas de bacon
+
+un poco de aceite
+
+sal
+
+<h3>Preparaci&oacute;n</h3>
+
+Untar una fuente de horno con aceite.
+
+Colocar las chuletas en la fuente y echarles sal.
+
+Tapar cada una con una loncha de queso y encima otra de bac&oacute;n.
+
+Meter al horno, precalentado y fuerte (250&ordm;) durante 15 minutos.
+
+Vigilar por si se hacen antes y en ese caso apagar el fuego
+
+hasta que se sirvan a la mesa.
+
+Se pueden acompa&ntilde;ar de unas patatas fritas o ensalada de lechuga.
+

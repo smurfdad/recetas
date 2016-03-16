@@ -10,4 +10,27 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-40135543789484189
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/relleno-para-canelones-de-carne.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1/4 carne picada<br/>1 lata de pat&eacute;<br/>1/2 cebolla<br/>sal, pimienta</p><h3>Preparaci&oacute;n</h3><p>Rehogar la cebolla en un poco de aceite y a continuaci&oacute;n echar la carne a fre&iacute;r.<br/>Condimentarla con la sal y pimienta y a&ntilde;adirle el pat&eacute; mezcl&aacute;ndolo todo ello muy bien.<br/>Con ello rellenar los canelones como en la receta anterior, colocarlos en una fuente refractaria y cubrirlos con una capa de bechamel ligera.<br/>Espolvorearlo con queso rallado y meterlo al horno a gratinar.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1/4 carne picada
+
+1 lata de pat&eacute;
+
+1/2 cebolla
+
+sal, pimienta
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Rehogar la cebolla en un poco de aceite y a continuaci&oacute;n echar la carne a fre&iacute;r.
+
+Condimentarla con la sal y pimienta y a&ntilde;adirle el pat&eacute; mezcl&aacute;ndolo todo ello muy bien.
+
+Con ello rellenar los canelones como en la receta anterior, colocarlos en una fuente refractaria y cubrirlos con una capa de bechamel ligera.
+
+Espolvorearlo con queso rallado y meterlo al horno a gratinar.
+

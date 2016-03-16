@@ -10,4 +10,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-29430224963516351
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/turbante-de-chocolate.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>4 huevos<br />125 gr. de azúcar<br />100 gr. de harina<br />1 sobre de levadura<br />75 gr. de chocolate polvo<br />Leche condensada<br />Confites para adornar<br /><h3>Preparación</h3>Batir los huevos con el azúcar hasta que quede una pasta cremosa, a continuación añadir la harina tamizada y el chocolate en polvo junto con la levadura.<br /><br />Poner la pasta en un molde tipo cake, previamente engrasado e introducir en el microondas 6 minutos a máxima potencia. Adornar con la leche condensada y los confites.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+4 huevos
+
+125 gr. de azúcar
+
+100 gr. de harina
+
+1 sobre de levadura
+
+75 gr. de chocolate polvo
+
+Leche condensada
+
+Confites para adornar
+
+<h3>Preparación</h3>
+Batir los huevos con el azúcar hasta que quede una pasta cremosa, a continuación añadir la harina tamizada y el chocolate en polvo junto con la levadura.
+
+
+
+Poner la pasta en un molde tipo cake, previamente engrasado e introducir en el microondas 6 minutos a máxima potencia. Adornar con la leche condensada y los confites.

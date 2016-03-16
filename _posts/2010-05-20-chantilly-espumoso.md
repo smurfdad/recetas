@@ -9,4 +9,27 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-48737457197789680
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/chantilly-espumoso.html
 ---
 
-<h2>Ingredientes</h2><p>1 vaso de agua de nata<br/>1/2 vaso de agua<br/>1 vaso de az&uacute;car<br/>3 claras de huevo<br/>1 palito de canela</p><h2>Preparaci&oacute;n</h2><p>Cocer el agua, az&uacute;car y canela hasta que se haga un alm&iacute;bar a hebra fuerte.<br/>Montar las claras a punto de nieve y echar sobre ellas y a la vez que se sigue batiendo, el alm&iacute;bar en chorrito delgado.<br/>Dejar enfriar en la nevera.<br/>Batir la nata.<br/>Cuando el merengue est&eacute; completamente fr&iacute;o mezclarlo con la nata, bati&eacute;ndolo ligeramente.</p>
+<h3>Ingredientes</h3>
+
+1 vaso de agua de nata
+
+1/2 vaso de agua
+
+1 vaso de az&uacute;car
+
+3 claras de huevo
+
+1 palito de canela
+
+<h3>Preparaci&oacute;n</h3>
+
+Cocer el agua, az&uacute;car y canela hasta que se haga un alm&iacute;bar a hebra fuerte.
+
+Montar las claras a punto de nieve y echar sobre ellas y a la vez que se sigue batiendo, el alm&iacute;bar en chorrito delgado.
+
+Dejar enfriar en la nevera.
+
+Batir la nata.
+
+Cuando el merengue est&eacute; completamente fr&iacute;o mezclarlo con la nata, bati&eacute;ndolo ligeramente.
+

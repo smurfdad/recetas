@@ -9,4 +9,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-34006316592520288
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/verdel-o-chicharro-ahumados.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>300 grs. de verdel o chicharro en filetes<br />1/2 ajo picado muy menudo<br />vinagre<br />aceite de oliva<br /><h3>Preparación</h3>Colocar los filetes en un plato o fuente.<br />Espolvorear por encima ajo picado menudísimo. (Si no gusta se puede apartar en el plato).<br />Rociar con unas gotas de vinagre.<br />Echar sobre los filetes aceite de oliva.<br />Se pueden servir al natural, simplemente rociados con un poco de aceite.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+300 grs. de verdel o chicharro en filetes
+
+1/2 ajo picado muy menudo
+
+vinagre
+
+aceite de oliva
+
+<h3>Preparación</h3>
+Colocar los filetes en un plato o fuente.
+
+Espolvorear por encima ajo picado menudísimo. (Si no gusta se puede apartar en el plato).
+
+Rociar con unas gotas de vinagre.
+
+Echar sobre los filetes aceite de oliva.
+
+Se pueden servir al natural, simplemente rociados con un poco de aceite.

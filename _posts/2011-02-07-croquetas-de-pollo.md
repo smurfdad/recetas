@@ -11,4 +11,32 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-80413632736081861
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/croquetas-de-pollo.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>2 vasos de leche<br />60 gr. de harina<br />60 gr. de mantequilla<br />1 cebolla pequeña<br />1 pizca de nuez moscada<br />2 huevos<br />50 gr. de pan rallado<br />aceite<br />sal<br />300 gr. de pollo asado o cocido<br /><h3>Preparación</h3>Pelar y picar finamente la cebolla. Fundir la mantequilla, añadir la cebolla y freírla 5 minutos, sin que se dore. Añadir la harina, remover, dejar dorar y verter la leche caliente. Sazonar con sal, pimienta y nuez moscada y cocer hasta que espese, añadir el pollo picado, mezclar.<br /><br />Formar las croquetas, pasar por huevo batido y pan rallado. Freír en abundante aceite, escurrir y servir calientes.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+2 vasos de leche
+
+60 gr. de harina
+
+60 gr. de mantequilla
+
+1 cebolla pequeña
+
+1 pizca de nuez moscada
+
+2 huevos
+
+50 gr. de pan rallado
+
+aceite
+
+sal
+
+300 gr. de pollo asado o cocido
+
+<h3>Preparación</h3>
+Pelar y picar finamente la cebolla. Fundir la mantequilla, añadir la cebolla y freírla 5 minutos, sin que se dore. Añadir la harina, remover, dejar dorar y verter la leche caliente. Sazonar con sal, pimienta y nuez moscada y cocer hasta que espese, añadir el pollo picado, mezclar.
+
+
+
+Formar las croquetas, pasar por huevo batido y pan rallado. Freír en abundante aceite, escurrir y servir calientes.

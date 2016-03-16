@@ -10,4 +10,28 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-39608698320188691
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/patatas-al-ajillo-para-ensalada.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>6 patatas medianas<br />4 ajos<br />un chorro aceite de oliva<br />sal<br />un chorrito pequeño de vinagre (opcional)<br /><h3>Preparación</h3>Pelar y cortar en rodajas más bien gruesas las patatas.<br />Poner a cocer, con sal, en la olla rápida, al vapor (con la rejilla y agua en el fondo) durante 10 minutos.<br />Dorar los ajos fileteados en el aceite, a fuego medio.<br />Retirar la sartén del fuego, añadirle el vinagre poco a poco y dejar reducir unos instantes.<br />Rociar con el refrito las patatas, colocadas en una bandeja.<br />Sacar a la mesa con una ensaladera de lechuga.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+6 patatas medianas
+
+4 ajos
+
+un chorro aceite de oliva
+
+sal
+
+un chorrito pequeño de vinagre (opcional)
+
+<h3>Preparación</h3>
+Pelar y cortar en rodajas más bien gruesas las patatas.
+
+Poner a cocer, con sal, en la olla rápida, al vapor (con la rejilla y agua en el fondo) durante 10 minutos.
+
+Dorar los ajos fileteados en el aceite, a fuego medio.
+
+Retirar la sartén del fuego, añadirle el vinagre poco a poco y dejar reducir unos instantes.
+
+Rociar con el refrito las patatas, colocadas en una bandeja.
+
+Sacar a la mesa con una ensaladera de lechuga.

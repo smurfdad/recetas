@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-85880145727405317
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-queso.html
 ---
 
-<h3>Ingredientes</h3>1 lechuga mediana<br />100 gr jamón york<br />50 gr mozzarella rallada<br />50 gr queso roquefort<br />1 zanahoria<br />1 lata pequeña de maíz dulce<br /><br /><h3>Preparación</h3>Lavar y picar la lechuga en juliana fina.<br />Cortar el jamón en dados finos, añadir el maíz y la zanahoria, pelada y rallada.<br />Espolvorear por encima con la mozzarella.<br />El sazonamiento lo haremos con cuatro cucharaditas de aceite de oliva, 1/2 de vinagre y el roquefort desmenuzado.<br />Mezclar bien y aderezar la ensalada.<br />Servir bien fría.
+<h3>Ingredientes</h3>
+1 lechuga mediana
+
+100 gr jamón york
+
+50 gr mozzarella rallada
+
+50 gr queso roquefort
+
+1 zanahoria
+
+1 lata pequeña de maíz dulce
+
+
+
+<h3>Preparación</h3>
+Lavar y picar la lechuga en juliana fina.
+
+Cortar el jamón en dados finos, añadir el maíz y la zanahoria, pelada y rallada.
+
+Espolvorear por encima con la mozzarella.
+
+El sazonamiento lo haremos con cuatro cucharaditas de aceite de oliva, 1/2 de vinagre y el roquefort desmenuzado.
+
+Mezclar bien y aderezar la ensalada.
+
+Servir bien fría.

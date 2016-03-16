@@ -11,4 +11,20 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-23208287969854040
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/ensalada-de-patatas-y-atun-al-perejil.html
 ---
 
-<h3>Ingredientes</h3>4 patatas hervidas en cubitos<br />2 cebollas<br />2 latas de atún<br />4 cucharadas de mayonesa<br />1 cebolla de verdeo<br />Perejil picado<br /><h3>Preparación</h3>Cortar las cebollas en medios aros bien finitos y cocinar en una sartén con un poco de aceite hasta que estén blandas. Cortar la parte verde de la cebolla de verdeo bien fino. Colocar las patatas junto con las cebollas cocidas, el verdeo y el atún. Condimentar con la sal y la mayonesa, y si se quiere con un poco de vinagre.<br />Finalizar agregando el perejil picado.
+<h3>Ingredientes</h3>
+4 patatas hervidas en cubitos
+
+2 cebollas
+
+2 latas de atún
+
+4 cucharadas de mayonesa
+
+1 cebolla de verdeo
+
+Perejil picado
+
+<h3>Preparación</h3>
+Cortar las cebollas en medios aros bien finitos y cocinar en una sartén con un poco de aceite hasta que estén blandas. Cortar la parte verde de la cebolla de verdeo bien fino. Colocar las patatas junto con las cebollas cocidas, el verdeo y el atún. Condimentar con la sal y la mayonesa, y si se quiere con un poco de vinagre.
+
+Finalizar agregando el perejil picado.

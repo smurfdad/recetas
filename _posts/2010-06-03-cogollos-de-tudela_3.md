@@ -10,4 +10,22 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-67743062793206544
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/cogollos-de-tudela_3.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 cogollos<br />3 dientes de ajo<br />aceite de oliva<br />vinagre<br /><br /><h3>Preparación</h3>Lavar bien los cogollos y cortar cada cogollo en cuatro.<br />Ponerlos sobre una fuente, añadiendo por encima el ajo picado fino.<br />Aderezar con el aceite y el vinagre.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 cogollos
+
+3 dientes de ajo
+
+aceite de oliva
+
+vinagre
+
+
+
+<h3>Preparación</h3>
+Lavar bien los cogollos y cortar cada cogollo en cuatro.
+
+Ponerlos sobre una fuente, añadiendo por encima el ajo picado fino.
+
+Aderezar con el aceite y el vinagre.

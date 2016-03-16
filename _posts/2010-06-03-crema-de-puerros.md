@@ -11,4 +11,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-26607590963132313
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/crema-de-puerros.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>agua<br />8 puerros(blanco)<br />400 ml nata liquida<br />100 gr queso rallado<br /><br /><h3>Preparación</h3>Lavar y cortar los puerros.<br />Ponerlos en una cazuela y cubrirlos de agua, dejar hervir hasta que los puerros estén cocidos.<br />Después añadir la nata y el queso y pasarla por la batidora.<br />Servir en taza.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+agua
+
+8 puerros(blanco)
+
+400 ml nata liquida
+
+100 gr queso rallado
+
+
+
+<h3>Preparación</h3>
+Lavar y cortar los puerros.
+
+Ponerlos en una cazuela y cubrirlos de agua, dejar hervir hasta que los puerros estén cocidos.
+
+Después añadir la nata y el queso y pasarla por la batidora.
+
+Servir en taza.

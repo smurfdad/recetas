@@ -11,4 +11,36 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-43720857118404434
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rabo-de-buey-con-habones-de-sanabria.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 kg. de rabo de buey<br />1 ó 2 cebollas<br />1 ó 2 dientes de ajo<br />1 tomate<br />4 hojas de laurel<br />150 cc. de vino blanco ó 50 cc. de vinagre<br />1 cucharada de pimentón dulce<br />150 cc. de aceite<br />1 cucharada sopera de sal<br />1/2 kg. de habones de Sanabria<br />112 gr. de cachelos<br />sal gorda<br />1/2 l. de agua<br /><h3>Preparación</h3>Se ponen en remojo los habones en agua tibia y sal gorda entre 12 y 14 horas. Se echa el aceite en una cazuela con la cebolla troceada. Cuando esté rehogada la cebolla se echa el rabo de buey, también troceado, se añade el tomate y dos hojas de laurel, se sigue rehogando diez minutos más, se echan los ajos troceados y el pimentón, el vaso de vino blanco y el vinagre, 1/2 litro de agua y se deja hervir durante media hora.<br />A continuación se echan los habones de Sanabria y se deja hervir durante una hora más con las dos hojas de laurel. Cuando estén tiernos los habones se echa la sal y los cachelos cocidos. Preferible comer en cazuela de barro.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 kg. de rabo de buey
+
+1 ó 2 cebollas
+
+1 ó 2 dientes de ajo
+
+1 tomate
+
+4 hojas de laurel
+
+150 cc. de vino blanco ó 50 cc. de vinagre
+
+1 cucharada de pimentón dulce
+
+150 cc. de aceite
+
+1 cucharada sopera de sal
+
+1/2 kg. de habones de Sanabria
+
+112 gr. de cachelos
+
+sal gorda
+
+1/2 l. de agua
+
+<h3>Preparación</h3>
+Se ponen en remojo los habones en agua tibia y sal gorda entre 12 y 14 horas. Se echa el aceite en una cazuela con la cebolla troceada. Cuando esté rehogada la cebolla se echa el rabo de buey, también troceado, se añade el tomate y dos hojas de laurel, se sigue rehogando diez minutos más, se echan los ajos troceados y el pimentón, el vaso de vino blanco y el vinagre, 1/2 litro de agua y se deja hervir durante media hora.
+
+A continuación se echan los habones de Sanabria y se deja hervir durante una hora más con las dos hojas de laurel. Cuando estén tiernos los habones se echa la sal y los cachelos cocidos. Preferible comer en cazuela de barro.

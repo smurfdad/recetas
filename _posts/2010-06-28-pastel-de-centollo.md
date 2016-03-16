@@ -10,4 +10,22 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-69344121816436071
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pastel-de-centollo.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>Un centollo del cantábrico como de un kilo de peso<br />una pizca de pimienta<br />4 huevos<br />200 gr. de pasta de tomate natural<br />200 c.c. de nata líquida<br /><h3>Preparación</h3>Cocer el centollo en agua hirviendo con sal durante 15 minutos. Cuando esté frio se escoge la carne del cuerpo y de las patas.<br />Aparte, en un bol batimos los huevos y añadimos la pasta de tomate, la nata líquida y la carne del centollo, mezclando bien.<br />Lo pasamos todo a un molde untado con mantequilla y lo metemos al horno al baño María durante 45 minutos mas o menos a 180 grados de temperatura.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+Un centollo del cantábrico como de un kilo de peso
+
+una pizca de pimienta
+
+4 huevos
+
+200 gr. de pasta de tomate natural
+
+200 c.c. de nata líquida
+
+<h3>Preparación</h3>
+Cocer el centollo en agua hirviendo con sal durante 15 minutos. Cuando esté frio se escoge la carne del cuerpo y de las patas.
+
+Aparte, en un bol batimos los huevos y añadimos la pasta de tomate, la nata líquida y la carne del centollo, mezclando bien.
+
+Lo pasamos todo a un molde untado con mantequilla y lo metemos al horno al baño María durante 45 minutos mas o menos a 180 grados de temperatura.

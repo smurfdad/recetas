@@ -10,4 +10,39 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-30571348885186991
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/sardinas-al-horno.html
 ---
 
-Para 8 personas.<br><h3>Ingredientes</h3><p>1 kg. de sardinas<br/>2 ajos grandes<br/>1 rama de perejil<br/>pan rallado<br/>sal, aceite</p><h3>Preparaci&oacute;n</h3><p>Quitar la cabeza y tripas a las sardinas.<br/>Lavarlas, quit&aacute;ndoles las escamas y echarles sal.<br/>Picar los ajos y perejil en trozos menudos.<br/>Rebozar cada sardina en pan rallado y colocarlas en una fuente resistente al horno.<br/>Echar por encima los ajos y perejil picados y rociarlos con un poquito de aceite.<br/>Meter al horno fuerte precalentado.<br/>Se har&aacute;n en unos 10 minutos.<br/>Tienen que quedar doradas.<br/>Servirlas junto con una ensalada de lechuga.</p>
+Para 8 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 kg. de sardinas
+
+2 ajos grandes
+
+1 rama de perejil
+
+pan rallado
+
+sal, aceite
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Quitar la cabeza y tripas a las sardinas.
+
+Lavarlas, quit&aacute;ndoles las escamas y echarles sal.
+
+Picar los ajos y perejil en trozos menudos.
+
+Rebozar cada sardina en pan rallado y colocarlas en una fuente resistente al horno.
+
+Echar por encima los ajos y perejil picados y rociarlos con un poquito de aceite.
+
+Meter al horno fuerte precalentado.
+
+Se har&aacute;n en unos 10 minutos.
+
+Tienen que quedar doradas.
+
+Servirlas junto con una ensalada de lechuga.
+

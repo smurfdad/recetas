@@ -10,4 +10,31 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-34087878509309560
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/garbanzos-de-vigilia.html
 ---
 
-Para 6 personas.<br /><a name='more'></a><br /><h2>Ingredientes</h2><p>1/2 kg. garbanzos<br />1/2 cebolla<br />2 ajos con la piel<br />piment&oacute;n, 4 granos de pimienta<br />1 huevo cocido<br />1/4 espinacas (opcional)</p><h2>Preparaci&oacute;n</h2><p>Se ponen los garbanzos a remojar de v&iacute;spera.<br />Se ponen a cocer con agua hirviendo y se les echa un trozo de cebolla y los ajos.<br />Se dejan hasta que est&eacute;n cocidos (unas cuatro horas en puchero normal, en la olla r&aacute;pida 20 minutos).<br />Cuando est&eacute;n cocidos se les a&ntilde;ade la clara picada del huevo y las espinacas y se deja cocer un rato m&aacute;s. Mientras tanto rehogar el resto de la cebolla en un poco de aceite de oliva y luego a&ntilde;adirle el piment&oacute;n, la yema y unos pocos garbanzos y caldo, tritur&aacute;ndolo para a&ntilde;ad&iacute;rselo luego al puchero de los garbanzos, dej&aacute;ndolo cocer otro poquito para que engorde el caldo.</p>
+Para 6 personas.
+
+<a name='more'></a>
+
+<h3>Ingredientes</h3>
+
+1/2 kg. garbanzos
+
+1/2 cebolla
+
+2 ajos con la piel
+
+piment&oacute;n, 4 granos de pimienta
+
+1 huevo cocido
+
+1/4 espinacas (opcional)
+
+<h3>Preparaci&oacute;n</h3>
+
+Se ponen los garbanzos a remojar de v&iacute;spera.
+
+Se ponen a cocer con agua hirviendo y se les echa un trozo de cebolla y los ajos.
+
+Se dejan hasta que est&eacute;n cocidos (unas cuatro horas en puchero normal, en la olla r&aacute;pida 20 minutos).
+
+Cuando est&eacute;n cocidos se les a&ntilde;ade la clara picada del huevo y las espinacas y se deja cocer un rato m&aacute;s. Mientras tanto rehogar el resto de la cebolla en un poco de aceite de oliva y luego a&ntilde;adirle el piment&oacute;n, la yema y unos pocos garbanzos y caldo, tritur&aacute;ndolo para a&ntilde;ad&iacute;rselo luego al puchero de los garbanzos, dej&aacute;ndolo cocer otro poquito para que engorde el caldo.
+

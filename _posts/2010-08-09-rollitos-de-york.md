@@ -12,4 +12,16 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-85356149160071651
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/rollitos-de-york.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 lonchas de jamon York no demasiado finas<br />Queso de extender<br />Zanahoria rallada<br /><br /><h3>Preparación</h3>Se unta bien extendido el queso en la loncha de jamón, se pone la zanahoria rallada a lo largo y se enrrolla bien apretado . Meter en la nevera y servir despues como entrante.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 lonchas de jamon York no demasiado finas
+
+Queso de extender
+
+Zanahoria rallada
+
+
+
+<h3>Preparación</h3>
+Se unta bien extendido el queso en la loncha de jamón, se pone la zanahoria rallada a lo largo y se enrrolla bien apretado . Meter en la nevera y servir despues como entrante.

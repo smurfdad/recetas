@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-29599835474015330
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/sopa-de-ajo.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>6 dientes de ajo<br />4 pimientos choriceros<br />1/4 de barra de pan<br />aceite de oliva<br />sal<br />1 litro de agua<br /><br /><h3>Preparación</h3>Pelar y picar los ajos y freírlos con un poco de aceite de oliva.<br />Agregar los pimientos troceados y rehogar bien. Después añadir el pan troceado y freírlo un poco.<br />Añadir el agua y dejar hervir cinco minutos.<br />Pasar por la batidora.<br />Servir en cazuela de barro individual.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+6 dientes de ajo
+
+4 pimientos choriceros
+
+1/4 de barra de pan
+
+aceite de oliva
+
+sal
+
+1 litro de agua
+
+
+
+<h3>Preparación</h3>
+Pelar y picar los ajos y freírlos con un poco de aceite de oliva.
+
+Agregar los pimientos troceados y rehogar bien. Después añadir el pan troceado y freírlo un poco.
+
+Añadir el agua y dejar hervir cinco minutos.
+
+Pasar por la batidora.
+
+Servir en cazuela de barro individual.

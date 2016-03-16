@@ -10,4 +10,18 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-77839809104822522
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/macarrones-con-pate.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>500 gr. de macarrones (tipo plumas)<br />1 lata de paté de anchoas<br /><h3>Preparación</h3>En una cazuela sofreir con el aceite los ajos picaditos y la mitad del perejil picado muy finito.<br />Cuando los ajos empiecen a dorarse, apartar la cazuela del fuego, añadir el paté y el pan rallado removiendo todo bien.<br />Cocer los macarrones en abundante agua hirviendo con un chorrito de leche y ligeramente salada, removiendo de vez en cuando. Escurrir, verter en una fuente de servir y condimentar con la salsa de paté de anchoas y el resto del perejil, espolvoreando por encima.<br />Servir muy caliente y poner la pimienta aparte para el que lo desee.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+500 gr. de macarrones (tipo plumas)
+
+1 lata de paté de anchoas
+
+<h3>Preparación</h3>
+En una cazuela sofreir con el aceite los ajos picaditos y la mitad del perejil picado muy finito.
+
+Cuando los ajos empiecen a dorarse, apartar la cazuela del fuego, añadir el paté y el pan rallado removiendo todo bien.
+
+Cocer los macarrones en abundante agua hirviendo con un chorrito de leche y ligeramente salada, removiendo de vez en cuando. Escurrir, verter en una fuente de servir y condimentar con la salsa de paté de anchoas y el resto del perejil, espolvoreando por encima.
+
+Servir muy caliente y poner la pimienta aparte para el que lo desee.

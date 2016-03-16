@@ -10,4 +10,35 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-78754686315068883
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/merluza-frita-la-bilbaina.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 1/2 kg. merluza (en filetes, sin piel ni espinas)<br/>3 huevos<br/>harina<br/>aceite<br/>sal<br/>lim&oacute;n</p><h3>Preparaci&oacute;n</h3><p>Lavar, secar y echar sal a los filetes.<br/>Poner una sart&eacute;n a fuego medio con bastante aceite.<br/>Se empezar&aacute; a fre&iacute;r cuando el aceite humee.<br/>Pasar los filetes por la harina, aplast&aacute;ndolos con la palma de la mano. Sacudir la harina sobrante y pasar por el huevo batido. Escurrir e ir friendo, dor&aacute;ndolos por ambos lados.<br/>Pasar a una fuente de servir.<br/>Colocar a su alrededor cuartos de lim&oacute;n por si alguien quiere rociar la merluza con ellos.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 1/2 kg. merluza (en filetes, sin piel ni espinas)
+
+3 huevos
+
+harina
+
+aceite
+
+sal
+
+lim&oacute;n
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Lavar, secar y echar sal a los filetes.
+
+Poner una sart&eacute;n a fuego medio con bastante aceite.
+
+Se empezar&aacute; a fre&iacute;r cuando el aceite humee.
+
+Pasar los filetes por la harina, aplast&aacute;ndolos con la palma de la mano. Sacudir la harina sobrante y pasar por el huevo batido. Escurrir e ir friendo, dor&aacute;ndolos por ambos lados.
+
+Pasar a una fuente de servir.
+
+Colocar a su alrededor cuartos de lim&oacute;n por si alguien quiere rociar la merluza con ellos.
+

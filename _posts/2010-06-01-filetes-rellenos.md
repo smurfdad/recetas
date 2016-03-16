@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-23267227435417221
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/filetes-rellenos.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>8 filetes de contra<br />Para el relleno:<br />8 pimientos de piquillo<br />8 lonchas de jamon<br />pan rallado<br /><br />Para la guarnicion:<br />1 pimiento verde<br />2 patatas cortadas en paja<br /><br />aceite y sal<br /><h3>Preparación</h3>Rellenamos los filetes, los pasamos por pan rallado y los freimos en una sarten,<br />y una vez hecho los colocamos en un plato, al lado de la guarnicion que llevará<br />los pimientos verdes (cortados en aros)fritos y las patatas fritas.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+8 filetes de contra
+
+Para el relleno:
+
+8 pimientos de piquillo
+
+8 lonchas de jamon
+
+pan rallado
+
+
+
+Para la guarnicion:
+
+1 pimiento verde
+
+2 patatas cortadas en paja
+
+
+
+aceite y sal
+
+<h3>Preparación</h3>
+Rellenamos los filetes, los pasamos por pan rallado y los freimos en una sarten,
+
+y una vez hecho los colocamos en un plato, al lado de la guarnicion que llevará
+
+los pimientos verdes (cortados en aros)fritos y las patatas fritas.

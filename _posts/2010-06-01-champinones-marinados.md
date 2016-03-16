@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-79546547714428999
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/champinones-marinados.html
 ---
 
-<h3>Ingredientes</h3>500g. de champiñones<br />1/2 taza de agua<br />1/2 taza de vinagre<br />1 cebolla pequeña picada<br />1 diente de ajo pequeño pelado<br />1 hoja de laurel<br />2 cucharadas de aceite<br />2 cucharadas de tomate<br /><h3>Preparación</h3>Se calientan los champiñones e una cacerola conagua y limón durante 5 min. Se escurren y se ponen en un cuenco.<br />En un cazo se mezcla el vinagre, la cebolla y el diente de ajo, y se pone a fuego suave hasta que la cebolla esté tierna entonces<br />se le añaden las dos cucharadas de aceite y el tomate,<br />Esta marinada se vierte por encima de los champiñones, se tapan y<br />se dejan macerar toda la noche.
+<h3>Ingredientes</h3>
+500g. de champiñones
+
+1/2 taza de agua
+
+1/2 taza de vinagre
+
+1 cebolla pequeña picada
+
+1 diente de ajo pequeño pelado
+
+1 hoja de laurel
+
+2 cucharadas de aceite
+
+2 cucharadas de tomate
+
+<h3>Preparación</h3>
+Se calientan los champiñones e una cacerola conagua y limón durante 5 min. Se escurren y se ponen en un cuenco.
+
+En un cazo se mezcla el vinagre, la cebolla y el diente de ajo, y se pone a fuego suave hasta que la cebolla esté tierna entonces
+
+se le añaden las dos cucharadas de aceite y el tomate,
+
+Esta marinada se vierte por encima de los champiñones, se tapan y
+
+se dejan macerar toda la noche.

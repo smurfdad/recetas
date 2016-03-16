@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-59922721733997730
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-tomate-especial.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>2 tomates de ensalada grandes<br />1 queso crema de 6 onzas<br />2 cucharadas de cebolla blanca picadita<br />2 cucharadas de catsup<br />6 aceitunas rellenas<br />unas hojas de lechuga<br />unas ramitas de perejil o apio<br />unas rueditas de limón<br /><h3>Preparación</h3>Corte 6 ruedas de tomates más bien anchas.<br />Mexcle el queso crema con la cebolla y el catsup.<br />Coloque esta pasta por cucharadas sobre las ruedas de tomate.<br />Adorne cada rueda con una aceituna rellena, una ramita de perejil o apio y una tajadita de limón.<br />Sírvalos sobre las hojas de lechuga.<br />Esta especial ensalada de tomate puede ser utilizada como entrante.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+2 tomates de ensalada grandes
+
+1 queso crema de 6 onzas
+
+2 cucharadas de cebolla blanca picadita
+
+2 cucharadas de catsup
+
+6 aceitunas rellenas
+
+unas hojas de lechuga
+
+unas ramitas de perejil o apio
+
+unas rueditas de limón
+
+<h3>Preparación</h3>
+Corte 6 ruedas de tomates más bien anchas.
+
+Mexcle el queso crema con la cebolla y el catsup.
+
+Coloque esta pasta por cucharadas sobre las ruedas de tomate.
+
+Adorne cada rueda con una aceituna rellena, una ramita de perejil o apio y una tajadita de limón.
+
+Sírvalos sobre las hojas de lechuga.
+
+Esta especial ensalada de tomate puede ser utilizada como entrante.

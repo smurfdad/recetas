@@ -10,4 +10,25 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-27250714192919014
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/espaguetis-al-parmesano-con-pimienta-y.html
 ---
 
-Para 4 personas.<br><h3>Ingredientes</h3><p>500 g. de espaguetis<br/>25 g. de mantequilla<br/>2 dl. de nata l&iacute;quida<br/>50 g. de queso parmesano<br/>Pimienta negra, curry y sal</p><h3>Preparaci&oacute;n</h3><p>Poner un cazo a fuego lento con la mantequilla, la nata l&iacute;quida y el parmesano rallado; dejar hacer pausadamente y revolviendo con una cuchara de madera hasta que se convierta en crema. Mientras, colocar una cazuela con abundante agua, sal y un chorret&oacute;n de aceite a fuego vivo.<br/><br/>Plet&oacute;ricos los borbotones, se introduce la pasta, que tendremos hasta que est&eacute; al dente: para dar con el punto, habr&aacute; que probar. Echar los espaguetis al cazo en el que se encuentra la crema de parmesano e impregnarlos de salsa. Servir en cuatro platos. Espolvorear por encima pimienta y curry, mitad y mitad, sin que se mezclen.</p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+
+500 g. de espaguetis
+
+25 g. de mantequilla
+
+2 dl. de nata l&iacute;quida
+
+50 g. de queso parmesano
+
+Pimienta negra, curry y sal
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Poner un cazo a fuego lento con la mantequilla, la nata l&iacute;quida y el parmesano rallado; dejar hacer pausadamente y revolviendo con una cuchara de madera hasta que se convierta en crema. Mientras, colocar una cazuela con abundante agua, sal y un chorret&oacute;n de aceite a fuego vivo.
+
+Plet&oacute;ricos los borbotones, se introduce la pasta, que tendremos hasta que est&eacute; al dente: para dar con el punto, habr&aacute; que probar. Echar los espaguetis al cazo en el que se encuentra la crema de parmesano e impregnarlos de salsa. Servir en cuatro platos. Espolvorear por encima pimienta y curry, mitad y mitad, sin que se mezclen.
+

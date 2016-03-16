@@ -10,4 +10,35 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-77721876572157520
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/espaguetis-la-carbonara.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1/2 kilo espaguetis<br/>1 cebolla<br/>6 lonchas de beicon<br/>1/2 litro de nata liquida<br/>1 vasito de vino blanco<br/>pimienta blanca<br/>50 gr mantequilla<br/></p><h3>Preparaci&oacute;n</h3><p>Cocer los espaguetis como en las recetas anteriores.<br/>Picar muy fina la cebolla y rehogarla con la mantequilla, cuando este echa agregar el beicon en cuadraditos y fre&iacute;rlo.<br/>A&ntilde;adir el vino y dejar que reduzca un poco.<br/>Agregar los espaguetis y la nata y dejar cocer unos minutos.<br/>Sazonar con sal y pimienta blanca.<br/></p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1/2 kilo espaguetis
+
+1 cebolla
+
+6 lonchas de beicon
+
+1/2 litro de nata liquida
+
+1 vasito de vino blanco
+
+pimienta blanca
+
+50 gr mantequilla
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cocer los espaguetis como en las recetas anteriores.
+
+Picar muy fina la cebolla y rehogarla con la mantequilla, cuando este echa agregar el beicon en cuadraditos y fre&iacute;rlo.
+
+A&ntilde;adir el vino y dejar que reduzca un poco.
+
+Agregar los espaguetis y la nata y dejar cocer unos minutos.
+
+Sazonar con sal y pimienta blanca.
+

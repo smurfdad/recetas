@@ -11,4 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-22791866226770786
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/01/pudding-de-frutas.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1 l. de leche<br />canela en rama<br />corteza de limón<br />1/4 kg. de azúcar<br />150 gr. de fruta escarchada<br />4 galletas María<br />8 huevos<br /><h3>Preparación</h3>Poner la leche al fuego con la canela y la corteza de limón para que hierva.<br /><br />Acaramelar un molde para pudding. Echar la fruta troceada fina y las galletas desmenuzadas.<br /><br />Aparte en otro recipiente, batimos los huevos, les añadimos el azúcar y la leche. Echar la mezcla en el molde, metiéndolo en el horno al baño María durante 15 minutos.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1 l. de leche
+
+canela en rama
+
+corteza de limón
+
+1/4 kg. de azúcar
+
+150 gr. de fruta escarchada
+
+4 galletas María
+
+8 huevos
+
+<h3>Preparación</h3>
+Poner la leche al fuego con la canela y la corteza de limón para que hierva.
+
+
+
+Acaramelar un molde para pudding. Echar la fruta troceada fina y las galletas desmenuzadas.
+
+
+
+Aparte en otro recipiente, batimos los huevos, les añadimos el azúcar y la leche. Echar la mezcla en el molde, metiéndolo en el horno al baño María durante 15 minutos.

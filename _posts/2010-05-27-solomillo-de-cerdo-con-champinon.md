@@ -11,4 +11,33 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-67088210332837626
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/solomillo-de-cerdo-con-champinon.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 kg. de solomillo en filetes<br/>1 kg. de champi&ntilde;&oacute;n<br/>un poco de harina<br/>1/2 l. de nata</p><h3>Preparaci&oacute;n</h3><p>Eliminar el trozo de la ra&iacute;z de los champi&ntilde;ones, lavarlos y filetearlos.<br/>Fre&iacute;r los filetes de solomillo y reservarlos.<br/>En el aceite sobrante, rehogar los filetes de champi&ntilde;&oacute;n.<br/>A&ntilde;adir la harina, rehogar, y por &uacute;ltimo echar la nata, dejando que espese.<br/>Echar la sal necesaria y un poco de pimienta molida.<br/>Colocar los filetes de solomillo encima y dar un hervor.<br/>Para servir, poner los filetes en el centro de una fuente y la salsa alrededor. Si es mucha, el resto en salsera aparte.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 kg. de solomillo en filetes
+
+1 kg. de champi&ntilde;&oacute;n
+
+un poco de harina
+
+1/2 l. de nata
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Eliminar el trozo de la ra&iacute;z de los champi&ntilde;ones, lavarlos y filetearlos.
+
+Fre&iacute;r los filetes de solomillo y reservarlos.
+
+En el aceite sobrante, rehogar los filetes de champi&ntilde;&oacute;n.
+
+A&ntilde;adir la harina, rehogar, y por &uacute;ltimo echar la nata, dejando que espese.
+
+Echar la sal necesaria y un poco de pimienta molida.
+
+Colocar los filetes de solomillo encima y dar un hervor.
+
+Para servir, poner los filetes en el centro de una fuente y la salsa alrededor. Si es mucha, el resto en salsera aparte.
+

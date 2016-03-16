@@ -10,4 +10,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-69268052808695685
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/berza-asada-con-jamon.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 cucharada de aceite<br />1 cebolla, cortada en cubitos<br />1 libra de col berza (Kale), picada<br />1 taza de caldo de carne<br />1 taza de caldo de pollo<br />1 taza de agua<br />1 taza de jamón, cortado en cubitos<br />Sal y pimienta al gusto<br /><h3>Preparación</h3>Calentar el aceite en una olla grande. Añada la cebolla y cocínela hasta que esté suave. Agregue la berza picada y cocine por 3 minutos más. Agregue los demás ingredientes y haga hervir. Reducir el fuego y cocine a fuego lento por 45 minutos.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 cucharada de aceite
+
+1 cebolla, cortada en cubitos
+
+1 libra de col berza (Kale), picada
+
+1 taza de caldo de carne
+
+1 taza de caldo de pollo
+
+1 taza de agua
+
+1 taza de jamón, cortado en cubitos
+
+Sal y pimienta al gusto
+
+<h3>Preparación</h3>
+Calentar el aceite en una olla grande. Añada la cebolla y cocínela hasta que esté suave. Agregue la berza picada y cocine por 3 minutos más. Agregue los demás ingredientes y haga hervir. Reducir el fuego y cocine a fuego lento por 45 minutos.

@@ -10,4 +10,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-82615412696373895
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/acelgas-rehogadas.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 cucharadas de aceite de oliva<br />500 gramos de acelgas<br />3 dientes de ajo<br />1 pastilla caldo<br />200 gramos de patatas<br />1 pizca de pimentón dulce<br /><h3>Preparación</h3>Limpiar las acelgas y trocearlas.<br />Pelar las patatas y trocearlas.Poner ambas cosas y la pastilla de caldo en una cacerola con agua y ponerlas a hervir.<br />Cuando todo esté cocido, poner en una sartén aceite y los ajos cortados.Cuando empiecen a dorarse suavemente, incorporar la verdura de la cacerola, previamente escurrida.<br />Darle varias vueltas para rehogarlas junto con los ajos.Incorporar un pizca de pimentón.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 cucharadas de aceite de oliva
+
+500 gramos de acelgas
+
+3 dientes de ajo
+
+1 pastilla caldo
+
+200 gramos de patatas
+
+1 pizca de pimentón dulce
+
+<h3>Preparación</h3>
+Limpiar las acelgas y trocearlas.
+
+Pelar las patatas y trocearlas.Poner ambas cosas y la pastilla de caldo en una cacerola con agua y ponerlas a hervir.
+
+Cuando todo esté cocido, poner en una sartén aceite y los ajos cortados.Cuando empiecen a dorarse suavemente, incorporar la verdura de la cacerola, previamente escurrida.
+
+Darle varias vueltas para rehogarlas junto con los ajos.Incorporar un pizca de pimentón.

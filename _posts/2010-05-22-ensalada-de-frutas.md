@@ -11,4 +11,35 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-89609389270831275
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/ensalada-de-frutas.html
 ---
 
-Para 6 personas.<br /><a name='more'></a><br /><h2>Ingredientes</h2><p>1 lata de pi&ntilde;a<br />1 mel&oacute;n<br />1 envase de guindas<br />1 lata de leche condensada<br />1 lata de melocotones al natural<br />(se pueden sustituir por frutas del tiempo)</p><h2>Preparaci&oacute;n</h2><p>Partir el mel&oacute;n por la mitad y cortarle los dos casquetes para que se mantengan tiesos.<br />Vaciarlo haciendo bolitas con la cuchara especial.<br />Las dem&aacute;s frutas partirlas en trocitos.<br />Sazonar con la leche condensada y el zumo de pi&ntilde;a.<br />Colocar en los dos cascotes de mel&oacute;n.<br />Meter en la nevera y servir fr&iacute;o.</p>
+Para 6 personas.
+
+<a name='more'></a>
+
+<h3>Ingredientes</h3>
+
+1 lata de pi&ntilde;a
+
+1 mel&oacute;n
+
+1 envase de guindas
+
+1 lata de leche condensada
+
+1 lata de melocotones al natural
+
+(se pueden sustituir por frutas del tiempo)
+
+<h3>Preparaci&oacute;n</h3>
+
+Partir el mel&oacute;n por la mitad y cortarle los dos casquetes para que se mantengan tiesos.
+
+Vaciarlo haciendo bolitas con la cuchara especial.
+
+Las dem&aacute;s frutas partirlas en trocitos.
+
+Sazonar con la leche condensada y el zumo de pi&ntilde;a.
+
+Colocar en los dos cascotes de mel&oacute;n.
+
+Meter en la nevera y servir fr&iacute;o.
+

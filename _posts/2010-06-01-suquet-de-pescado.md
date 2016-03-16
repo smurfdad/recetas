@@ -11,4 +11,46 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-52796917334909724
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/suquet-de-pescado.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1 hinojo.<br />6 rodajas de rape.<br />6 rodajas de dorada.<br />6 rodajas de cabracho.<br />12 mejillones.<br />6 cigalas.<br />2 patatas.<br />2 cebollas.<br />1 cabeza de ajos<br />aceite<br />sal.<br /><br />50 gr. de hígado de rape.<br />50 gr. de almendras.<br />1 rebanada de pan frito.<br />3 dientes de ajo<br />1 guindilla<br /><br /><h3>Preparación</h3>Con las cabezas de los pescados y el hinojo preparar un caldo. En una cazuela colocar las patatas a rodajas, las cebollas a redondas, la cabeza de ajos entera, la guindilla, las rodajas de pescado encima. Cubrir a medias con el caldo de pescado y poner a fuego vivo. Cuando arranque el hervor añadir un chorro de aceite y la sal.<br />Dejar cocer 20 minutos. Un momento antes de terminar la cocción, se ponen las cigalas, los mejillones y todos los ingredientes de la picada bien machacados.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1 hinojo.
+
+6 rodajas de rape.
+
+6 rodajas de dorada.
+
+6 rodajas de cabracho.
+
+12 mejillones.
+
+6 cigalas.
+
+2 patatas.
+
+2 cebollas.
+
+1 cabeza de ajos
+
+aceite
+
+sal.
+
+
+
+50 gr. de hígado de rape.
+
+50 gr. de almendras.
+
+1 rebanada de pan frito.
+
+3 dientes de ajo
+
+1 guindilla
+
+
+
+<h3>Preparación</h3>
+Con las cabezas de los pescados y el hinojo preparar un caldo. En una cazuela colocar las patatas a rodajas, las cebollas a redondas, la cabeza de ajos entera, la guindilla, las rodajas de pescado encima. Cubrir a medias con el caldo de pescado y poner a fuego vivo. Cuando arranque el hervor añadir un chorro de aceite y la sal.
+
+Dejar cocer 20 minutos. Un momento antes de terminar la cocción, se ponen las cigalas, los mejillones y todos los ingredientes de la picada bien machacados.

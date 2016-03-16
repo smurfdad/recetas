@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-50085816877184966
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensaladilla-rusa.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>6 patatas medianas<br />3 zanahorias<br />3 huevos<br />1 lata pequeña de atún en aceite<br />1 lata pequeña de guisantes<br />1 lata pequeña de pimiento morón<br />1 bolsa de aceitunas sin hueso<br />salsa mayonesa<br /><br /><h3>Preparación</h3>Poner a cocer con agua y sal, las patatas, la zanahoria y los huevos, cada uno por separado.<br />Una vez este todo cocido y frío, cortar en cuadraditos pequeños.<br />Añadir el atún desmigado, los guisantes, los pimientos y las aceitunas troceadas.<br />Añadir la mayonesa, mezclar bien y extender sobre una fuente.<br />Mantener en él frigorífico hasta la hora de servir.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+6 patatas medianas
+
+3 zanahorias
+
+3 huevos
+
+1 lata pequeña de atún en aceite
+
+1 lata pequeña de guisantes
+
+1 lata pequeña de pimiento morón
+
+1 bolsa de aceitunas sin hueso
+
+salsa mayonesa
+
+
+
+<h3>Preparación</h3>
+Poner a cocer con agua y sal, las patatas, la zanahoria y los huevos, cada uno por separado.
+
+Una vez este todo cocido y frío, cortar en cuadraditos pequeños.
+
+Añadir el atún desmigado, los guisantes, los pimientos y las aceitunas troceadas.
+
+Añadir la mayonesa, mezclar bien y extender sobre una fuente.
+
+Mantener en él frigorífico hasta la hora de servir.

@@ -10,4 +10,35 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-78457435175776920
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pisto-la-bilbaina.html
 ---
 
-Para 8 personas.<br><h3>Ingredientes</h3><p>1/2 kg. pimientos verdes<br/>1/2 kg. cebolla<br/>1/2 kg. tomates pelados y sin pepitas<br/>1/2 kg. de calabac&iacute;n<br/>100 grs. chorizo<br/>6 huevos<br/>aceite de oliva</p><h3>Preparaci&oacute;n</h3><p>Limpiar y picar en peque&ntilde;os trozos los pimientos, cebolla, tomate, calabac&iacute;n y chorizo.<br/>Calentar el aceite en una cazuela baja y echar a rehogar el chorizo. Despu&eacute;s la cebolla, los pimientos, y finalmente los calabacines y tomate.<br/>Echarle sal y dejar hasta que se ablanden los ingredientes y quede casi seco.<br/>Un poco antes de servir el plato, batir los huevos y mezclarlos con el pisto preparado antes y dejarlo cuajar.<br/>Se puede acompa&ntilde;ar con rodajas de pan frito.</p>
+Para 8 personas.
+
+<h3>Ingredientes</h3>
+
+
+1/2 kg. pimientos verdes
+
+1/2 kg. cebolla
+
+1/2 kg. tomates pelados y sin pepitas
+
+1/2 kg. de calabac&iacute;n
+
+100 grs. chorizo
+
+6 huevos
+
+aceite de oliva
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Limpiar y picar en peque&ntilde;os trozos los pimientos, cebolla, tomate, calabac&iacute;n y chorizo.
+
+Calentar el aceite en una cazuela baja y echar a rehogar el chorizo. Despu&eacute;s la cebolla, los pimientos, y finalmente los calabacines y tomate.
+
+Echarle sal y dejar hasta que se ablanden los ingredientes y quede casi seco.
+
+Un poco antes de servir el plato, batir los huevos y mezclarlos con el pisto preparado antes y dejarlo cuajar.
+
+Se puede acompa&ntilde;ar con rodajas de pan frito.
+

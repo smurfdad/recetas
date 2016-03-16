@@ -10,4 +10,18 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-32246708084931859
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-tomate.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>8 tomates medianos<br />sal gorda<br />aceite de oliva<br /><br /><h3>Preparación</h3>Lavar bien los tomates y cortarlos en rodajas gruesas.<br />Ponerlas sobre un plato con sal y aderezar con aceite de oliva.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+8 tomates medianos
+
+sal gorda
+
+aceite de oliva
+
+
+
+<h3>Preparación</h3>
+Lavar bien los tomates y cortarlos en rodajas gruesas.
+
+Ponerlas sobre un plato con sal y aderezar con aceite de oliva.

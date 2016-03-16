@@ -10,4 +10,27 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-71205790944242513
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/sardinas-oanchoas-la-guipuzcoana.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 kg. de sardinas o anchoas<br/>4 dientes de ajo<br/>aceite de oliva<br/>1 guindilla (opcional)</p><h3>Preparaci&oacute;n</h3><p>Limpiar las sardinas quit&aacute;ndoles la tripa y echarles sal.<br/>Fre&iacute;r en aceite de oliva caliente las sardinas, lig&eacute;ramente rebozadas en harina e ir pas&aacute;ndolas a una fuente de servir.<br/>Quitar parte del aceite sobrante dejando un poquito, donde se fr&iacute;en la guindilla y los ajos picaditos.<br/>Una vez dorados, echarlos por encima de las sardinas y servir.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 kg. de sardinas o anchoas
+
+4 dientes de ajo
+
+aceite de oliva
+
+1 guindilla (opcional)
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Limpiar las sardinas quit&aacute;ndoles la tripa y echarles sal.
+
+Fre&iacute;r en aceite de oliva caliente las sardinas, lig&eacute;ramente rebozadas en harina e ir pas&aacute;ndolas a una fuente de servir.
+
+Quitar parte del aceite sobrante dejando un poquito, donde se fr&iacute;en la guindilla y los ajos picaditos.
+
+Una vez dorados, echarlos por encima de las sardinas y servir.
+

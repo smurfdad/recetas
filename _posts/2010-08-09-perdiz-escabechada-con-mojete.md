@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-33177657472584050
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/perdiz-escabechada-con-mojete.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 perdices aderezadas<br />4 cebollas pequeñas corta julíana<br />1 vaso de aceite de oliva de 1º<br />3 vasos de vinagre<br />1 vaso de vino<br />1 vaso de agua<br />2 dientes de ajo<br />2 hojas de laurel<br /><br /><h3>Preparación</h3>Se ponen todos los ingredientes, en crudo, a cocer en un recipiente tapado durante una hora.<br /><br />Pasado este tiempo se coloca todo en un recipiente de barro, de manera que las aves queden cubiertas de caldo.<br /><br />Se conservan las perdices en este escabeche durante una semana, al menos, en lugar frío. Para servir se templan un poco.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 perdices aderezadas
+
+4 cebollas pequeñas corta julíana
+
+1 vaso de aceite de oliva de 1º
+
+3 vasos de vinagre
+
+1 vaso de vino
+
+1 vaso de agua
+
+2 dientes de ajo
+
+2 hojas de laurel
+
+
+
+<h3>Preparación</h3>
+Se ponen todos los ingredientes, en crudo, a cocer en un recipiente tapado durante una hora.
+
+
+
+Pasado este tiempo se coloca todo en un recipiente de barro, de manera que las aves queden cubiertas de caldo.
+
+
+
+Se conservan las perdices en este escabeche durante una semana, al menos, en lugar frío. Para servir se templan un poco.

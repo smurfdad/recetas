@@ -10,4 +10,25 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-31226554529593025
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/espaguetis-al-pesto.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1/2 kilo de espaguetis<br/>8 dientes de ajo<br/>aceite<br/>150 gr nueces<br/></p><h3>Preparaci&oacute;n</h3><p>Cocer la pasta como en las recetas anteriores.<br/>Poner un poco de aceite en una sart&eacute;n y fre&iacute;r los ajos picaditos.<br/>Una vez hechos echar las nueces y los espaguetis, saltearlos unos minutos, y sazonarlos con pimienta blanca y sal.<br/></p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1/2 kilo de espaguetis
+
+8 dientes de ajo
+
+aceite
+
+150 gr nueces
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cocer la pasta como en las recetas anteriores.
+
+Poner un poco de aceite en una sart&eacute;n y fre&iacute;r los ajos picaditos.
+
+Una vez hechos echar las nueces y los espaguetis, saltearlos unos minutos, y sazonarlos con pimienta blanca y sal.
+

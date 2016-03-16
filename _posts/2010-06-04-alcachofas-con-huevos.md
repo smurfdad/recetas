@@ -11,4 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-77189621455739343
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alcachofas-con-huevos.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>2 kilos de alcachofas<br />4 huevos<br />1 cebolla<br />50 gr jamón serrano<br />1 vaso de vino blanco<br />1 vaso de agua<br /><br /><h3>Preparación</h3>Limpiar las alcachofas y ponerlas a cocer en agua hirviendo con sal.<br />Una vez cocidas, escurrirlas y reservar.<br />Poner una cazuela de barro, con un poco de aceite, la cebolla picada fina y el jamón y rehogar.<br />Cuando este echo, pondremos las alcachofas, junto con el agua y el vino.<br />Cuando empiece a hervir, escalfar los huevos encima de las alcachofas, dejar al fuego hasta que los huevos estén cuajados.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+2 kilos de alcachofas
+
+4 huevos
+
+1 cebolla
+
+50 gr jamón serrano
+
+1 vaso de vino blanco
+
+1 vaso de agua
+
+
+
+<h3>Preparación</h3>
+Limpiar las alcachofas y ponerlas a cocer en agua hirviendo con sal.
+
+Una vez cocidas, escurrirlas y reservar.
+
+Poner una cazuela de barro, con un poco de aceite, la cebolla picada fina y el jamón y rehogar.
+
+Cuando este echo, pondremos las alcachofas, junto con el agua y el vino.
+
+Cuando empiece a hervir, escalfar los huevos encima de las alcachofas, dejar al fuego hasta que los huevos estén cuajados.

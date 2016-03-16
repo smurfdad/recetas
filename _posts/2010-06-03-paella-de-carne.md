@@ -11,4 +11,38 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-74628242787328117
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/paella-de-carne.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1/2 kilo de arroz<br />1 cebolla<br />1 pimiento verde<br />1 pimiento rojo<br />1 pollo<br />1 litro de caldo de carne<br />sal<br />aceite de oliva<br />colorante alimentario o azafrán<br /><br /><h3>Preparación</h3>Limpiar las verduras y picarlas finas. Acto seguido poner este fondo en una paella con un poco de aceite y en ella añadir las verduras y rehogarlas.<br />Una vez rehogadas añadiremos el pollo troceado y le daremos un ligero rehogado con las verduras.<br />A continuación añadiremos el arroz y lo rehogaremos un poco.<br />Añadir el azafrán y remover con una espátula de madera.<br />A continuación agregar el caldo de carne hirviendo y siempre en la proporción doble de caldo que de arroz.<br />A partir de la ebullición del arroz cocer 18 minutos. El tiempo de cocción puede hacerse mitad sobre el fuego o plancha y la otra mitad a horno moderado.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1/2 kilo de arroz
+
+1 cebolla
+
+1 pimiento verde
+
+1 pimiento rojo
+
+1 pollo
+
+1 litro de caldo de carne
+
+sal
+
+aceite de oliva
+
+colorante alimentario o azafrán
+
+
+
+<h3>Preparación</h3>
+Limpiar las verduras y picarlas finas. Acto seguido poner este fondo en una paella con un poco de aceite y en ella añadir las verduras y rehogarlas.
+
+Una vez rehogadas añadiremos el pollo troceado y le daremos un ligero rehogado con las verduras.
+
+A continuación añadiremos el arroz y lo rehogaremos un poco.
+
+Añadir el azafrán y remover con una espátula de madera.
+
+A continuación agregar el caldo de carne hirviendo y siempre en la proporción doble de caldo que de arroz.
+
+A partir de la ebullición del arroz cocer 18 minutos. El tiempo de cocción puede hacerse mitad sobre el fuego o plancha y la otra mitad a horno moderado.

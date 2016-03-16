@@ -10,4 +10,32 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-20254290106262386
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/higos-frescos-con-salsa-de-moras-sobre.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>12 higos<br />200 gr. de queso fresco<br />carmamono (especia)<br />dulce de moras<br />canela<br /><br />Para el dulce de moras:<br />1 kg. de moras silvetres<br />azúcar<br />piel de naranja<br /><h3>Preparación</h3>Se maceran los higos durante 24 horas en carmamono. Se hace una crema con queso fresco y canela, que sirve de base para el sostén del higo. Se pelan los higos macerados, se depositan sobre la base de queso y finalmente se bañan con el dulce de moras.<br />Preparación del dulce de moras:<br />Se cuecen las moras con el azúcar y la piel de naranja. Quitar la piel de naranja, pasar por la batidora y colar. Dejar enfriar.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+12 higos
+
+200 gr. de queso fresco
+
+carmamono (especia)
+
+dulce de moras
+
+canela
+
+
+
+Para el dulce de moras:
+
+1 kg. de moras silvetres
+
+azúcar
+
+piel de naranja
+
+<h3>Preparación</h3>
+Se maceran los higos durante 24 horas en carmamono. Se hace una crema con queso fresco y canela, que sirve de base para el sostén del higo. Se pelan los higos macerados, se depositan sobre la base de queso y finalmente se bañan con el dulce de moras.
+
+Preparación del dulce de moras:
+
+Se cuecen las moras con el azúcar y la piel de naranja. Quitar la piel de naranja, pasar por la batidora y colar. Dejar enfriar.

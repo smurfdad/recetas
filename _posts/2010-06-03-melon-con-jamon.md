@@ -10,4 +10,18 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-19983848776498243
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/melon-con-jamon.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>16 lonchas de jamón serrano<br />12 gajos de melón sin cáscara<br /><br /><h3>Preparación</h3>Poner sobre el fondo del plato una loncha de jamón por cada gajo de melón.<br />Cada gajo de melón se cortara en cuatro trozos, envolviendo cada trozo en una loncha de jamón.<br />Poner cuatro trozos sobre cada loncha de jamón, que habíamos puesto en el plato.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+16 lonchas de jamón serrano
+
+12 gajos de melón sin cáscara
+
+
+
+<h3>Preparación</h3>
+Poner sobre el fondo del plato una loncha de jamón por cada gajo de melón.
+
+Cada gajo de melón se cortara en cuatro trozos, envolviendo cada trozo en una loncha de jamón.
+
+Poner cuatro trozos sobre cada loncha de jamón, que habíamos puesto en el plato.

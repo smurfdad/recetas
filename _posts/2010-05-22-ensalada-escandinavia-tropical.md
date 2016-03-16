@@ -10,4 +10,37 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-36630784856608449
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/ensalada-escandinavia-tropical.html
 ---
 
-Para 6 personas.<br /><a name='more'></a><br /><h2>Ingredientes</h2><p>12 lonchas grandes de salm&oacute;n ahumado<br />3 hojas de lechuga o 1 endivia<br />1 mango<br />1 aguacate (opcional)<br />6 filetes de anchoa en aceite<br />lim&oacute;n, sal, vinagre y aceite de oliva</p><h2>Preparaci&oacute;n</h2><p>Colocar los filetes de salm&oacute;n en una fuente de servir, en el centro y a lo largo, cabalgados unos sobre otros.<br />Cortar la lechuga o endibia en juliana: lavar las hojas y escurrirlas, enrollarlas todas juntas y prietas y cortar sobre una tabla en filetitos finos. Ali&ntilde;arla con sal, vinagre y aceite.<br />Cortar el mango y aguacate a lo largo. Pelar y filetear. Utilizar solo la mitad de cada fruta, la otra reservarla para otro momento.<br />Ali&ntilde;ar las frutas por separado con un poco de sal, zumo de lim&oacute;n y aceite.<br />Colocar a los lados del salm&oacute;n una sobre otra, las frutas, altern&aacute;ndolas para que quede con colorido variado.<br />En el centro de los dos costados colocar la lechuga y encima de ella las anchoas cortadas en trocitos peque&ntilde;os.<br />Servir en salsera aparte salsa de alcaparras y eneldo y tambi&eacute;n panes tostados por si alguien gusta de ellos.</p>
+Para 6 personas.
+
+<a name='more'></a>
+
+<h3>Ingredientes</h3>
+
+12 lonchas grandes de salm&oacute;n ahumado
+
+3 hojas de lechuga o 1 endivia
+
+1 mango
+
+1 aguacate (opcional)
+
+6 filetes de anchoa en aceite
+
+lim&oacute;n, sal, vinagre y aceite de oliva
+
+<h3>Preparaci&oacute;n</h3>
+
+Colocar los filetes de salm&oacute;n en una fuente de servir, en el centro y a lo largo, cabalgados unos sobre otros.
+
+Cortar la lechuga o endibia en juliana: lavar las hojas y escurrirlas, enrollarlas todas juntas y prietas y cortar sobre una tabla en filetitos finos. Ali&ntilde;arla con sal, vinagre y aceite.
+
+Cortar el mango y aguacate a lo largo. Pelar y filetear. Utilizar solo la mitad de cada fruta, la otra reservarla para otro momento.
+
+Ali&ntilde;ar las frutas por separado con un poco de sal, zumo de lim&oacute;n y aceite.
+
+Colocar a los lados del salm&oacute;n una sobre otra, las frutas, altern&aacute;ndolas para que quede con colorido variado.
+
+En el centro de los dos costados colocar la lechuga y encima de ella las anchoas cortadas en trocitos peque&ntilde;os.
+
+Servir en salsera aparte salsa de alcaparras y eneldo y tambi&eacute;n panes tostados por si alguien gusta de ellos.
+

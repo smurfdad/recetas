@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-79156183711244564
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/endivias-con-yemas-de-esparrago.html
 ---
 
-<h3>Ingredientes</h3>6 endibias<br />1 lata de yemas de espárragos<br />1 cebolla<br />3 dientes de ajo<br />6 filetes de anchoa<br />aceite<br />vinagre<br />perejil<br /><br /><h3>Preparación</h3>Se sueltan las hojas de las endibias y se colocan en una fuente.<br />Encima se ponen unas yemas de espárrago.<br />Se hace una vinagreta con cebolla picada, ajo, perejil y los filetes de anchoas.<br />Se tritura por la batidora y se rocía la fuente con esta salsa.
+<h3>Ingredientes</h3>
+6 endibias
+
+1 lata de yemas de espárragos
+
+1 cebolla
+
+3 dientes de ajo
+
+6 filetes de anchoa
+
+aceite
+
+vinagre
+
+perejil
+
+
+
+<h3>Preparación</h3>
+Se sueltan las hojas de las endibias y se colocan en una fuente.
+
+Encima se ponen unas yemas de espárrago.
+
+Se hace una vinagreta con cebolla picada, ajo, perejil y los filetes de anchoas.
+
+Se tritura por la batidora y se rocía la fuente con esta salsa.

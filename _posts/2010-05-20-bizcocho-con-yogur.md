@@ -10,4 +10,33 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-44660526297924253
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/bizcocho-con-yogur.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>1 yogur de lim&oacute;n(o natural con ralladura de lim&oacute;n)<br/>1 medida de yogur de aceite de girasol<br/>2 medida de az&uacute;car<br/>3 medida de harina<br/>3 huevos<br/>1 sobre de royal (3 cucharadas rasas)</p><h2>Preparaci&oacute;n</h2><p>Batir con la batidora el yogur, las yemas de los huevos, el aceite y el az&uacute;car.<br/>A&ntilde;adir las claras a punto de nieve, mezclar sin batir.<br/>Por &uacute;ltimo mezclar la harina junto con el royal (sin batir).<br/>Meter en un molde alargado, forrado el fondo con papel de aluminio y untado de mantequilla.<br/>Meter al horno precalentado y bajar a 170&ordm; el termostato.<br/>Tardar&aacute; unos 45 minutos.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+1 yogur de lim&oacute;n(o natural con ralladura de lim&oacute;n)
+
+1 medida de yogur de aceite de girasol
+
+2 medida de az&uacute;car
+
+3 medida de harina
+
+3 huevos
+
+1 sobre de royal (3 cucharadas rasas)
+
+<h3>Preparaci&oacute;n</h3>
+
+Batir con la batidora el yogur, las yemas de los huevos, el aceite y el az&uacute;car.
+
+A&ntilde;adir las claras a punto de nieve, mezclar sin batir.
+
+Por &uacute;ltimo mezclar la harina junto con el royal (sin batir).
+
+Meter en un molde alargado, forrado el fondo con papel de aluminio y untado de mantequilla.
+
+Meter al horno precalentado y bajar a 170&ordm; el termostato.
+
+Tardar&aacute; unos 45 minutos.
+

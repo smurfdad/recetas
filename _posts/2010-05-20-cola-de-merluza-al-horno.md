@@ -10,4 +10,27 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-80689307489637090
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/cola-de-merluza-al-horno.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>1 1/2 kg. merluza, de la cola<br/>3 patatas<br/>2 cebollas<br/>5 pimientos rojos troceados<br/>12 aceitunas picadas</p><h2>Preparaci&oacute;n</h2><p>Se fr&iacute;e la patata y cebolla en rodajas, como para tortilla, no dejando que se haga del todo. Se coloca extendido, en una fuente de horno, colocando los pimientos y aceitunas encima.<br/>Sobre ello se coloca la merluza, limpia y sin escamas.<br/>Se roc&iacute;a con aceite y sal y se  mete al horno fuerte  durante unos 20 minutos.<br/>Servirla muy caliente.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+1 1/2 kg. merluza, de la cola
+
+3 patatas
+
+2 cebollas
+
+5 pimientos rojos troceados
+
+12 aceitunas picadas
+
+<h3>Preparaci&oacute;n</h3>
+
+Se fr&iacute;e la patata y cebolla en rodajas, como para tortilla, no dejando que se haga del todo. Se coloca extendido, en una fuente de horno, colocando los pimientos y aceitunas encima.
+
+Sobre ello se coloca la merluza, limpia y sin escamas.
+
+Se roc&iacute;a con aceite y sal y se  mete al horno fuerte  durante unos 20 minutos.
+
+Servirla muy caliente.
+

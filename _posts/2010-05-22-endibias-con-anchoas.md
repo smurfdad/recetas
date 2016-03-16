@@ -11,4 +11,23 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-25575320739566921
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/endibias-con-anchoas.html
 ---
 
-Para 6 personas.<br /><a name='more'></a><br /><h2>Ingredientes</h2><p>3 endibias<br />2 latas de anchoas<br />mayonesa con un poquito de mostaza</p><h2>Preparaci&oacute;n</h2><p>Se corta en varios trozos las endibias y se colocan en una fuente redonda.<br />Sobre cada trozo de endibia se pone un poco de mayonesa con mostaza.<br />Encima de cada una se coloca una tira de anchoa.</p>
+Para 6 personas.
+
+<a name='more'></a>
+
+<h3>Ingredientes</h3>
+
+3 endibias
+
+2 latas de anchoas
+
+mayonesa con un poquito de mostaza
+
+<h3>Preparaci&oacute;n</h3>
+
+Se corta en varios trozos las endibias y se colocan en una fuente redonda.
+
+Sobre cada trozo de endibia se pone un poco de mayonesa con mostaza.
+
+Encima de cada una se coloca una tira de anchoa.
+

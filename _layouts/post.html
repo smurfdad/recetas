@@ -3,18 +3,23 @@ layout: default
 ---
 <article>
     <a href="{{ page.url | prepend: site.baseurl }}"><h2>{{ page.title }}</h2></a>
-    <small>{{ page.date | date: "%-d/%-m/%Y" }}</small>
-    Categorias: <ul class="list-inline">
+    <small>
+    <ul class="list-inline">
+        <label>Categorias:</label>
         {% for category in page.categories %}
-        <li>{{category | capitalize}}</li>
+        <li><a href="/categorias/#{{category | slugify}}">{{category | capitalize}}</a></li>
         {% endfor%}
     </ul>
+    </small>
     <div class="bs-callout bs-callout-primary text-justify">
         {{ content }}
+        <small class="pull-right">Fecha publicación <time>{{ page.date | date_to_string }}</time></small>
     </div>
+    {% comment %}
     Ingredientes: <ul class="list-inline">
         {% for tag in page.tags %}
         <li>{{tag | capitalize}}</li>
         {% endfor%}
     </ul>
+    {% endcomment%}
 </article>

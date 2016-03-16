@@ -11,4 +11,33 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-59152496788859559
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/croquetas-de-manzana.html
 ---
 
-Para 4 personas.<br /><a name='more'></a><br /><h2>Ingredientes</h2><p>150 grs. de harina<br />1 huevo<br />1 manzana<br />1 pizca de sal<br />agua<br />az&uacute;car</p><h2>Preparaci&oacute;n</h2><p>Hacer una masa con la harina y el huevo.<br />A&ntilde;adir un poco de agua hasta que quede una pasta fina.<br />Pelar la manzana y cortar en gajos finos.<br />Mezclar los trozos de manzana con la masa y fre&iacute;r en abundante aceite caliente.<br />Una vez fritas, rociarlas con az&uacute;car.</p>
+Para 4 personas.
+
+<a name='more'></a>
+
+<h3>Ingredientes</h3>
+
+150 grs. de harina
+
+1 huevo
+
+1 manzana
+
+1 pizca de sal
+
+agua
+
+az&uacute;car
+
+<h3>Preparaci&oacute;n</h3>
+
+Hacer una masa con la harina y el huevo.
+
+A&ntilde;adir un poco de agua hasta que quede una pasta fina.
+
+Pelar la manzana y cortar en gajos finos.
+
+Mezclar los trozos de manzana con la masa y fre&iacute;r en abundante aceite caliente.
+
+Una vez fritas, rociarlas con az&uacute;car.
+

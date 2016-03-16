@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-38608662929706877
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/berenjenas-rellenas.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>aceite de oliva<br />4 berenjenas<br />3 cebollas picadas<br />150 gramos de champiñones<br />100 gramos de miga de pan<br />1 pizca de perejil picado<br />1 pizca de sal<br />3 cucharadas de salsa tomate<br />2 huevo, yemas<br /><h3>Preparación</h3>Cortar a lo largo por la mitad las berenjenas y vaciarlas con cuidado.<br />Picar la carne de las berenjenas y rehogarla con las cebollas en una sartén con aceite.Cuando estén doraditas, agregar los champiñones, perejil y la miga de pan.<br />Rehogar todo bien hasta obtener un relleno de consistencia.<br />Poner el punto de sal, retirarlo del fuego y ligarlo con las yemas de huevo batido.Rellenar las berenjenas con la mezcla y un poquito de salsa de tomate.<br />Colocar las berenjenas en una placa de horno, rociarlas con un chorrito de aceite y meter al horno caliente a 180 ºC durante 20 minutos.Para servir, adornar con unas rodajas de berenjena frita, champiñones fileteados y salsa de tomate.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+aceite de oliva
+
+4 berenjenas
+
+3 cebollas picadas
+
+150 gramos de champiñones
+
+100 gramos de miga de pan
+
+1 pizca de perejil picado
+
+1 pizca de sal
+
+3 cucharadas de salsa tomate
+
+2 huevo, yemas
+
+<h3>Preparación</h3>
+Cortar a lo largo por la mitad las berenjenas y vaciarlas con cuidado.
+
+Picar la carne de las berenjenas y rehogarla con las cebollas en una sartén con aceite.Cuando estén doraditas, agregar los champiñones, perejil y la miga de pan.
+
+Rehogar todo bien hasta obtener un relleno de consistencia.
+
+Poner el punto de sal, retirarlo del fuego y ligarlo con las yemas de huevo batido.Rellenar las berenjenas con la mezcla y un poquito de salsa de tomate.
+
+Colocar las berenjenas en una placa de horno, rociarlas con un chorrito de aceite y meter al horno caliente a 180 ºC durante 20 minutos.Para servir, adornar con unas rodajas de berenjena frita, champiñones fileteados y salsa de tomate.

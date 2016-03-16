@@ -11,4 +11,22 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-87928385718511875
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-naranja.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 naranjas grandes<br />1 cebolla mediana<br />aceite de oliva<br />sal<br /><br /><h3>Preparación</h3>Pelar las naranjas  y cortarlas en rodajas no muy gruesas.<br />Disponerla sobre una fuente, añadir la cebolla cortada en juliana fina.<br />Sazonar con aceite y sal.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 naranjas grandes
+
+1 cebolla mediana
+
+aceite de oliva
+
+sal
+
+
+
+<h3>Preparación</h3>
+Pelar las naranjas  y cortarlas en rodajas no muy gruesas.
+
+Disponerla sobre una fuente, añadir la cebolla cortada en juliana fina.
+
+Sazonar con aceite y sal.

@@ -11,4 +11,66 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-77955238438203298
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/paella-de-marisco.html
 ---
 
-Para 6 personas.<br><b>Tiempo</b> 60 minutos.<br><h3>Ingredientes</h3><p>400 gr. de arroz<br/>1,200 gr. de caldo de pescado (fumet)<br/>6 gambas o gambones<br/>6 Cigalas<br/>300 gr. de rape troceado<br/>150 gr. de sepia o calamar<br/>100 gr. de almejas<br/>100 gr. de mejillones<br/>100 gr. de gambas peque&ntilde;as<br/>1 pimiento verde<br/>50 gr. de jud&iacute;as verdes<br/>3 hojas de laurel<br/>1/2 lim&oacute;n<br/>100 gr. de tomate triturado<br/>1 sobrecito de hebras de azafr&aacute;n<br/>4 ajos a rodajitas</p><h3>Preparaci&oacute;n</h3><p>Colocar en la paella el aceite y poner a calentar, ir a&ntilde;adiendo las jud&iacute;as, despu&eacute;s el pimiento bien limpio de semillas, los ajos, el tomate, el laurel, las hebras de azafr&aacute;n, los mejillones, las almejas, la sepia y luego las gambas, todo por este orden y dejando unos minutos fre&iacute;r antes de a&ntilde;adir el siguiente ingrediente. Se a&ntilde;ade el arroz y se sofr&iacute;e un poco, se a&ntilde;ade el caldo de pescado y los mariscos que quedan, se a&ntilde;ade el lim&oacute;n exprimido y colado para que no caigan semillas y se deja cocer aproximadamente 20 minutos.</p><h3>Observaciones</h3><p>Puede a&ntilde;adirse colorante alimentario para darle color.<br/>Puede a&ntilde;adirse o sustituir la sal por un dado de caldo concentrado, seg&uacute;n gustos.<br/>Utilizar siempre una paella de tama&ntilde;o adecuado pues el arroz debe cocinarse en extensi&oacute;n, nunca en altura, todo lo que sobrepase los tres cent&iacute;metros no es bueno.<br/>El aceite de oliva debe de ser puro y la medida a utilizar es de 3 decilitros por cada Kgr. de arroz.<br/>Las proporciones de arroz por persona var&iacute;an seg&uacute;n la clase de arroz y el tipo de agua, pero una medida v&aacute;lida puede ser de unos 100 gr. o una taza de caf&eacute; bien llena por cada persona, y doble cantidad de agua que de arroz.<br/>El fuego ha de estar repartido de manera uniforme por toda la base de la paella, ha de ser vivo hasta que rompa a hervir y luego medio hasta el final.<br/>El nivel de caldo debe de estar como referencia a la altura de los remaches de las asas de la paella.<br/>Cuando se a&ntilde;ade el arroz, se extiende con una cuchara de madera y no se vuelve a tocar.</p>
+Para 6 personas.
+
+<b>Tiempo</b> 60 minutos.
+
+<h3>Ingredientes</h3>
+
+
+400 gr. de arroz
+
+1,200 gr. de caldo de pescado (fumet)
+
+6 gambas o gambones
+
+6 Cigalas
+
+300 gr. de rape troceado
+
+150 gr. de sepia o calamar
+
+100 gr. de almejas
+
+100 gr. de mejillones
+
+100 gr. de gambas peque&ntilde;as
+
+1 pimiento verde
+
+50 gr. de jud&iacute;as verdes
+
+3 hojas de laurel
+
+1/2 lim&oacute;n
+
+100 gr. de tomate triturado
+
+1 sobrecito de hebras de azafr&aacute;n
+
+4 ajos a rodajitas
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Colocar en la paella el aceite y poner a calentar, ir a&ntilde;adiendo las jud&iacute;as, despu&eacute;s el pimiento bien limpio de semillas, los ajos, el tomate, el laurel, las hebras de azafr&aacute;n, los mejillones, las almejas, la sepia y luego las gambas, todo por este orden y dejando unos minutos fre&iacute;r antes de a&ntilde;adir el siguiente ingrediente. Se a&ntilde;ade el arroz y se sofr&iacute;e un poco, se a&ntilde;ade el caldo de pescado y los mariscos que quedan, se a&ntilde;ade el lim&oacute;n exprimido y colado para que no caigan semillas y se deja cocer aproximadamente 20 minutos.
+
+<h3>Observaciones</h3>
+
+
+Puede a&ntilde;adirse colorante alimentario para darle color.
+
+Puede a&ntilde;adirse o sustituir la sal por un dado de caldo concentrado, seg&uacute;n gustos.
+
+Utilizar siempre una paella de tama&ntilde;o adecuado pues el arroz debe cocinarse en extensi&oacute;n, nunca en altura, todo lo que sobrepase los tres cent&iacute;metros no es bueno.
+
+El aceite de oliva debe de ser puro y la medida a utilizar es de 3 decilitros por cada Kgr. de arroz.
+
+Las proporciones de arroz por persona var&iacute;an seg&uacute;n la clase de arroz y el tipo de agua, pero una medida v&aacute;lida puede ser de unos 100 gr. o una taza de caf&eacute; bien llena por cada persona, y doble cantidad de agua que de arroz.
+
+El fuego ha de estar repartido de manera uniforme por toda la base de la paella, ha de ser vivo hasta que rompa a hervir y luego medio hasta el final.
+
+El nivel de caldo debe de estar como referencia a la altura de los remaches de las asas de la paella.
+
+Cuando se a&ntilde;ade el arroz, se extiende con una cuchara de madera y no se vuelve a tocar.
+

@@ -10,4 +10,32 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-84354488755634483
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/patatas-en-salsa-verde.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1 kg. de patatas<br />3 ajos<br />1 ramita de perejil<br />un poco de aceite de oliva<br />1 lata pequeña de guisantes (opcional)<br />6 huevos (opcional)<br /><h3>Preparación</h3>Poner al fuego una cazuela baja que se pueda sacar a la mesa, con el aceite y los ajos finamente picados.<br />Antes de que lleguen a dorarse, añadir las patatas, peladas y cortadas en rodajas como de medio centímetro.<br />Rehogar y añadir agua justo hasta que las cubra y el perejil picado.<br />Añadir los guisantes y dejar cocer a fuego lento hasta que estén blandas (unos 20 minutos).<br />Echar la sal necesaria.<br />Cascar los 6 huevos entre las patatas, dejándolo hasta que se cuajen.<br />Servir.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1 kg. de patatas
+
+3 ajos
+
+1 ramita de perejil
+
+un poco de aceite de oliva
+
+1 lata pequeña de guisantes (opcional)
+
+6 huevos (opcional)
+
+<h3>Preparación</h3>
+Poner al fuego una cazuela baja que se pueda sacar a la mesa, con el aceite y los ajos finamente picados.
+
+Antes de que lleguen a dorarse, añadir las patatas, peladas y cortadas en rodajas como de medio centímetro.
+
+Rehogar y añadir agua justo hasta que las cubra y el perejil picado.
+
+Añadir los guisantes y dejar cocer a fuego lento hasta que estén blandas (unos 20 minutos).
+
+Echar la sal necesaria.
+
+Cascar los 6 huevos entre las patatas, dejándolo hasta que se cuajen.
+
+Servir.

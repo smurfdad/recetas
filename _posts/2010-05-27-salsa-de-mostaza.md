@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-86997929311711317
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/salsa-de-mostaza.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>4 cucharadas de  yogur natural<br/>4 cucharadas rasas de mostaza<br/>3 cucharadas de aceite de oliva<br/>?  cucharada de vinagre<br/>1 puntita de cuchara de az&uacute;car<br/>1 cucharadita rasa de sal</p><h3>Preparaci&oacute;n</h3><p>Mezclar bien todos los ingredientes.<br/>Servir en salsera aparte en las ensaladas o echar sobre la superficie.<br/>Queda muy bien con aguacate y pi&ntilde;a.</p><h3>Observaciones</h3><p>Ensaladas, verduras ...</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+4 cucharadas de  yogur natural
+
+4 cucharadas rasas de mostaza
+
+3 cucharadas de aceite de oliva
+
+?  cucharada de vinagre
+
+1 puntita de cuchara de az&uacute;car
+
+1 cucharadita rasa de sal
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Mezclar bien todos los ingredientes.
+
+Servir en salsera aparte en las ensaladas o echar sobre la superficie.
+
+Queda muy bien con aguacate y pi&ntilde;a.
+
+<h3>Observaciones</h3>
+
+
+Ensaladas, verduras ...
+

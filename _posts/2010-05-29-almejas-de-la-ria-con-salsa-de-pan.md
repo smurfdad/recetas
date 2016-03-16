@@ -10,4 +10,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-10749590071940884
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/almejas-de-la-ria-con-salsa-de-pan.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1Kg. de almejas de Busturia<br />4 cucharadas soperas de aceite de oliva<br />2 dientes de ajo<br />1 cucharada de pan rallado<br />1/2 copa de txakoli o vino blanco<br />1/2 taza de caldo de pescado<br />1 ramito de perejil<br /><h3>Preparación</h3>Dorar los ajos en el aceite y retirarlos. Añadir las almejas al aceite caliente (se abren en pocos segundos) Espolvorear el pan rallado, seguidamente el caldo de pescado y el txakoli y ligar la salsa.<br />Para finalizar, espolvorear por encima el perejil picado
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1Kg. de almejas de Busturia
+
+4 cucharadas soperas de aceite de oliva
+
+2 dientes de ajo
+
+1 cucharada de pan rallado
+
+1/2 copa de txakoli o vino blanco
+
+1/2 taza de caldo de pescado
+
+1 ramito de perejil
+
+<h3>Preparación</h3>
+Dorar los ajos en el aceite y retirarlos. Añadir las almejas al aceite caliente (se abren en pocos segundos) Espolvorear el pan rallado, seguidamente el caldo de pescado y el txakoli y ligar la salsa.
+
+Para finalizar, espolvorear por encima el perejil picado

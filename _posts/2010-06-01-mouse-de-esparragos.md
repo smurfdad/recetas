@@ -11,4 +11,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-74991640869242412
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/mouse-de-esparragos.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1/2 kg de espárragos cocidos y escurridos<br />8 huevos<br />1 bote de leche Ideal<br />1 dl. de leche<br />pimienta blanca<br />nuez moscada<br />sal<br /><h3>Preparación</h3>Se hace un puré con los espárragos bien escurridos y la leche Se cuela, para quitar posibles hilos Se baten los huevos con la leche ideal<br />Se mezcla el puré de espárragos con los huevos Se sazona con sal, pimienta blanca molida y nuez moscada Se echa en un molde de rosca de veintiséis cm., bien untado con mantequilla Se pone en una cazuela, al vapor, con al tapa envuelta con un paño<br />Cuando esté cuajado se desmoldea, se acompaña con una salsa (una crema ligera de espinacas le va muy bien)
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1/2 kg de espárragos cocidos y escurridos
+
+8 huevos
+
+1 bote de leche Ideal
+
+1 dl. de leche
+
+pimienta blanca
+
+nuez moscada
+
+sal
+
+<h3>Preparación</h3>
+Se hace un puré con los espárragos bien escurridos y la leche Se cuela, para quitar posibles hilos Se baten los huevos con la leche ideal
+
+Se mezcla el puré de espárragos con los huevos Se sazona con sal, pimienta blanca molida y nuez moscada Se echa en un molde de rosca de veintiséis cm., bien untado con mantequilla Se pone en una cazuela, al vapor, con al tapa envuelta con un paño
+
+Cuando esté cuajado se desmoldea, se acompaña con una salsa (una crema ligera de espinacas le va muy bien)

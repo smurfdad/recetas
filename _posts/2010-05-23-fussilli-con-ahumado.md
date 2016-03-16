@@ -10,4 +10,45 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-64420323826385333
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/fussilli-con-ahumado.html
 ---
 
-Para 6 personas.<br /><a name='more'></a><br /><h2>Ingredientes</h2><p>500 grs. de fussilli<br />1 ajo picado<br />100 grs. salm&oacute;n ahumado cortado en tiritas<br />100 grs. mantequilla<br />4 cucharadas de pistachos o cacahuetes<br />1 chorro de brandy<br />2 cucharadas de salsa worcester, sal, pimienta<br />50 grs. queso rallado</p><h2>Preparaci&oacute;n</h2><p>Cocer la pasta en abundante agua hirviendo, con sal y un chorrito de aceite, durante 10 minutos o hasta que est&eacute;n cocidos. Escurrir, rociar con agua fr&iacute;a y reservar.<br />Derretir la mantequilla en una sart&eacute;n. Fre&iacute;r el ajo y los pistachos pelados.<br />A&ntilde;adir el brandy y revolver hasta que reduzca y se evapore el alcohol.<br />Echar la salsa y revolver.<br />A&ntilde;adir el salm&oacute;n, revolver un poco .<br />Echar la pasta y mezclar suavemente hasta que se calienten y se impregne todo de la salsa.<br />Probar la saz&oacute;n y a&ntilde;adir sal si lo necesita.<br />Espolvorear con la pimienta y el queso rallado.<br />Mezclar suavemente y servir.</p>
+Para 6 personas.
+
+<a name='more'></a>
+
+<h3>Ingredientes</h3>
+
+500 grs. de fussilli
+
+1 ajo picado
+
+100 grs. salm&oacute;n ahumado cortado en tiritas
+
+100 grs. mantequilla
+
+4 cucharadas de pistachos o cacahuetes
+
+1 chorro de brandy
+
+2 cucharadas de salsa worcester, sal, pimienta
+
+50 grs. queso rallado
+
+<h3>Preparaci&oacute;n</h3>
+
+Cocer la pasta en abundante agua hirviendo, con sal y un chorrito de aceite, durante 10 minutos o hasta que est&eacute;n cocidos. Escurrir, rociar con agua fr&iacute;a y reservar.
+
+Derretir la mantequilla en una sart&eacute;n. Fre&iacute;r el ajo y los pistachos pelados.
+
+A&ntilde;adir el brandy y revolver hasta que reduzca y se evapore el alcohol.
+
+Echar la salsa y revolver.
+
+A&ntilde;adir el salm&oacute;n, revolver un poco .
+
+Echar la pasta y mezclar suavemente hasta que se calienten y se impregne todo de la salsa.
+
+Probar la saz&oacute;n y a&ntilde;adir sal si lo necesita.
+
+Espolvorear con la pimienta y el queso rallado.
+
+Mezclar suavemente y servir.
+

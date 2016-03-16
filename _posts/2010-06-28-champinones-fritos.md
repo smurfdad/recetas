@@ -10,4 +10,70 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-19774013898783830
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/champinones-fritos.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>250 gr. de champiñones pequeños<br />3 cucharadas soperas de vino blanco<br />otras 2 de zumo de limón<br />aceite para freír<br />sal<br />pimienta<br /><br />Para la pasta de freír:<br />150 gr. de harina<br />20 cl. de cerveza<br />2 claras de huevo<br />2 cucharadas soperas de aceite<br />una pizca de sal.<br /><br />Para la salsa:<br />500 gr. de tomates pelados<br />100 gr. de jamón<br />1 cebolla<br />2 dientes de ajo<br />1 pizca de orégano<br />aceite de oliva<br />sal<br />pimienta<br />una pizca de azúcar<br /><h3>Preparación</h3>Para preparar la pasta de freír se tamizan la harina y la sal en un bol. Se hace un hueco en el centro y se echa el aceite. Seguidamente se va incorporando la cerveza, poco a poco, llevando la harina hacia el centro y mezclando. Se sigue este procedimiento hasta obtener una pasta homogénea y espesa. Se deja reposar durante dos horas en un sitio templado.<br /><br />Para la salsa de tomate<br />se sofríe el jamón cortado en dados con el aceite caliente. Se añaden la cebolla y el ajo, muy picados. Se tienen unos minutos sofriendo y se añade el tomate crudo, triturado o pasado por el pasapurés. Se sazona con sal, pimienta y una pizca de azúcar. Se tapa y se deja sofreír durante 45 minutos, a fuego suave.<br /><br />Cuando esté casi hecho, se espolvorea un poco de orégano por encima. Se quita la base terrosa de los champiñones. Se aclaran bien y se secan. Los pequeños se dejan enteros. Los más grandes se cortan en dos. Se meten en una cazuela pequeña, con el vino blanco y el zumo de limón. Se sazonan con sal y pimienta, y se tienen hirviendo durante 5 minutos, con tapadera.<br /><br />Transcurrido ese tiempo, se escurren, se dejan enfriar y después se secan. Pasadas las dos horas de reposo de la pasta de freír, se pone a calentar abundante aceite en una sartén. Se bate la clara de huevo, a punto de nieve, y se incorpora a la pasta de freír. En la pasta de freír se van metiendo los champiñones pinchados en un palillo. Se empapan bien y se fríen unos minutos en el aceite, hasta que estén dorados. Se escurren bien y se presentan en una fuente caliente con la salsa de tomate, también caliente, servida en una salsera.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+250 gr. de champiñones pequeños
+
+3 cucharadas soperas de vino blanco
+
+otras 2 de zumo de limón
+
+aceite para freír
+
+sal
+
+pimienta
+
+
+
+Para la pasta de freír:
+
+150 gr. de harina
+
+20 cl. de cerveza
+
+2 claras de huevo
+
+2 cucharadas soperas de aceite
+
+una pizca de sal.
+
+
+
+Para la salsa:
+
+500 gr. de tomates pelados
+
+100 gr. de jamón
+
+1 cebolla
+
+2 dientes de ajo
+
+1 pizca de orégano
+
+aceite de oliva
+
+sal
+
+pimienta
+
+una pizca de azúcar
+
+<h3>Preparación</h3>
+Para preparar la pasta de freír se tamizan la harina y la sal en un bol. Se hace un hueco en el centro y se echa el aceite. Seguidamente se va incorporando la cerveza, poco a poco, llevando la harina hacia el centro y mezclando. Se sigue este procedimiento hasta obtener una pasta homogénea y espesa. Se deja reposar durante dos horas en un sitio templado.
+
+
+
+Para la salsa de tomate
+
+se sofríe el jamón cortado en dados con el aceite caliente. Se añaden la cebolla y el ajo, muy picados. Se tienen unos minutos sofriendo y se añade el tomate crudo, triturado o pasado por el pasapurés. Se sazona con sal, pimienta y una pizca de azúcar. Se tapa y se deja sofreír durante 45 minutos, a fuego suave.
+
+
+
+Cuando esté casi hecho, se espolvorea un poco de orégano por encima. Se quita la base terrosa de los champiñones. Se aclaran bien y se secan. Los pequeños se dejan enteros. Los más grandes se cortan en dos. Se meten en una cazuela pequeña, con el vino blanco y el zumo de limón. Se sazonan con sal y pimienta, y se tienen hirviendo durante 5 minutos, con tapadera.
+
+
+
+Transcurrido ese tiempo, se escurren, se dejan enfriar y después se secan. Pasadas las dos horas de reposo de la pasta de freír, se pone a calentar abundante aceite en una sartén. Se bate la clara de huevo, a punto de nieve, y se incorpora a la pasta de freír. En la pasta de freír se van metiendo los champiñones pinchados en un palillo. Se empapan bien y se fríen unos minutos en el aceite, hasta que estén dorados. Se escurren bien y se presentan en una fuente caliente con la salsa de tomate, también caliente, servida en una salsera.

@@ -11,4 +11,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-78602464734797396
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/arroz-la-italiana.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>160 gr arroz<br />colorante amarillo<br />200 gr hígado<br />1 cebolla<br />1/2 kilo de salsa de tomate<br />4 salchichas tipo Frankfurt<br /><br /><h3>Preparación</h3>Cocer el arroz con agua, sal y el colorante.<br />Picar fina la cebolla, añadir el hígado troceado y las salchichas en rodajas finas.<br />Agregar el tomate y saltear todo bien.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+160 gr arroz
+
+colorante amarillo
+
+200 gr hígado
+
+1 cebolla
+
+1/2 kilo de salsa de tomate
+
+4 salchichas tipo Frankfurt
+
+
+
+<h3>Preparación</h3>
+Cocer el arroz con agua, sal y el colorante.
+
+Picar fina la cebolla, añadir el hígado troceado y las salchichas en rodajas finas.
+
+Agregar el tomate y saltear todo bien.

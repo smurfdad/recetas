@@ -11,4 +11,36 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-90273739766652991
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/crema-de-ajos-frescos-y-champinones.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1/2 kilo champiñones<br />1 litro de agua<br />1 pastilla de caldo de carne<br />2 manojos de ajos frescos<br />2 cucharadas de maicena<br />1 dl nata liquida<br /><br /><h3>Preparación</h3>Limpiar bien los champiñones y trocearlos.<br />Poner una cazuela al fuego con un poco de aceite.<br />Echar los champiñones y los ajos troceados.<br />Dejarlo a fuego lento que se vaya haciendo despacio.<br />Una vez echo, agregar la maicena y la pastilla de carne junto con el agua.<br />Remover bien y dejar cocer todo unos diez minutos.<br />Agregar la nata, retirar del fuego y pasar por la batidora y el chino.<br />Servir en taza.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1/2 kilo champiñones
+
+1 litro de agua
+
+1 pastilla de caldo de carne
+
+2 manojos de ajos frescos
+
+2 cucharadas de maicena
+
+1 dl nata liquida
+
+
+
+<h3>Preparación</h3>
+Limpiar bien los champiñones y trocearlos.
+
+Poner una cazuela al fuego con un poco de aceite.
+
+Echar los champiñones y los ajos troceados.
+
+Dejarlo a fuego lento que se vaya haciendo despacio.
+
+Una vez echo, agregar la maicena y la pastilla de carne junto con el agua.
+
+Remover bien y dejar cocer todo unos diez minutos.
+
+Agregar la nata, retirar del fuego y pasar por la batidora y el chino.
+
+Servir en taza.

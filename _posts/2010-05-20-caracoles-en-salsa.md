@@ -10,4 +10,39 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-57448450366962144
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/caracoles-en-salsa.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>2 frascos grandes de caracoles ya limpios y cocidos<br/>2 cebollas picadas<br/>1 ajo picado<br/>1 guindilla (pimienta de cayena)<br/>1 rama de perejil picada<br/>750 grs. de salsa de tomate espesa<br/>200 grs. de jam&oacute;n cortado en trocitos<br/>100 grs. de chorizo cortado en trocitos</p><h2>Preparaci&oacute;n</h2><p>Rehogar la cebolla, el ajo y el jam&oacute;n en una cazuela con un chorro de aceite de oliva.<br/>Cuando empiece a dorarse, a&ntilde;adir el chorizo, la guindilla picada, el perejil y los caracoles.<br/>Dejar hacer durante cinco minutos revolviendo, a fuego medio.<br/>A&ntilde;adir la salsa de tomate y revolver de nuevo.<br/>Tapar la cazuela, bajar el fuego y dejar cocer durante media hora.<br/>Si se queda seco, a&ntilde;adir un poco de agua.<br/>Si se hacen de v&iacute;spera cogen m&aacute;s gusto.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+2 frascos grandes de caracoles ya limpios y cocidos
+
+2 cebollas picadas
+
+1 ajo picado
+
+1 guindilla (pimienta de cayena)
+
+1 rama de perejil picada
+
+750 grs. de salsa de tomate espesa
+
+200 grs. de jam&oacute;n cortado en trocitos
+
+100 grs. de chorizo cortado en trocitos
+
+<h3>Preparaci&oacute;n</h3>
+
+Rehogar la cebolla, el ajo y el jam&oacute;n en una cazuela con un chorro de aceite de oliva.
+
+Cuando empiece a dorarse, a&ntilde;adir el chorizo, la guindilla picada, el perejil y los caracoles.
+
+Dejar hacer durante cinco minutos revolviendo, a fuego medio.
+
+A&ntilde;adir la salsa de tomate y revolver de nuevo.
+
+Tapar la cazuela, bajar el fuego y dejar cocer durante media hora.
+
+Si se queda seco, a&ntilde;adir un poco de agua.
+
+Si se hacen de v&iacute;spera cogen m&aacute;s gusto.
+

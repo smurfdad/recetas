@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-49072681736013115
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pollo-espacial.html
 ---
 
-<a name='more'></a><h2>Ingredientes</h2>1 pollo cortado en ocho<br />1 pimiento rojo<br />1 pimiento verde<br />1 cebolla<br />sal, pimienta<br />1 vaso vino blanco<br />250g queso mantecoso<br />75g manteca<br /><br /><h2>Preparación</h2>Cortar los pimientos en tiritas finas (juliana) y la cebolla en rodajas finas.<br />Sazonar las presas de pollo y dorarlas en la manteca y el aceite.<br />Retirar y freír allí mismo lospimientos y la cebolla. Una vez cocidos incorporar el pollo y el vino.<br />Tapar y cocinar lento hasta que esté tierno (si es necesario agregar caldo).<br />Acomodar en una fuente para horno, cubrir con el queso en lonjas y llevar a horno hasta derretir.
+<a name='more'></a><h3>Ingredientes</h3>1 pollo cortado en ocho
+
+1 pimiento rojo
+
+1 pimiento verde
+
+1 cebolla
+
+sal, pimienta
+
+1 vaso vino blanco
+
+250g queso mantecoso
+
+75g manteca
+
+
+
+<h3>Preparación</h3>Cortar los pimientos en tiritas finas (juliana) y la cebolla en rodajas finas.
+
+Sazonar las presas de pollo y dorarlas en la manteca y el aceite.
+
+Retirar y freír allí mismo lospimientos y la cebolla. Una vez cocidos incorporar el pollo y el vino.
+
+Tapar y cocinar lento hasta que esté tierno (si es necesario agregar caldo).
+
+Acomodar en una fuente para horno, cubrir con el queso en lonjas y llevar a horno hasta derretir.

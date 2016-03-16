@@ -10,4 +10,31 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-47625208313058439
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/cangrejos-de-rio-en-salsa.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>30 cangrejos de rio (alrededor de 1 Kg)<br/>250 grs. de salsa de tomate espesa<br/>2 cebollas grandes, picadas<br/>1 guindilla picada (pimienta de cayena)<br/>aceite, sal</p><h2>Preparaci&oacute;n</h2><p>Poner al fuego en una cazuela de barro la cebolla con un chorret&oacute;n de aceite, a fuego suave.<br/>Revolver a menudo y cuando empiece a dorarse echar los cangrejos, lavados y la guindilla.<br/>Seguir revolviendo durante cinco minutos, hasta que los cangrejos tomen un color rojizo.<br/>A&ntilde;adir la salsa de tomate y dejar cocer suavemente y tapado durante 30 minutos. Menear la cazuela de vez en cuando.<br/>Probar la sal y a&ntilde;adirle si lo necesita.<br/>Se puede hacer de v&iacute;spera para que tome m&aacute;s sabor el guiso.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+30 cangrejos de rio (alrededor de 1 Kg)
+
+250 grs. de salsa de tomate espesa
+
+2 cebollas grandes, picadas
+
+1 guindilla picada (pimienta de cayena)
+
+aceite, sal
+
+<h3>Preparaci&oacute;n</h3>
+
+Poner al fuego en una cazuela de barro la cebolla con un chorret&oacute;n de aceite, a fuego suave.
+
+Revolver a menudo y cuando empiece a dorarse echar los cangrejos, lavados y la guindilla.
+
+Seguir revolviendo durante cinco minutos, hasta que los cangrejos tomen un color rojizo.
+
+A&ntilde;adir la salsa de tomate y dejar cocer suavemente y tapado durante 30 minutos. Menear la cazuela de vez en cuando.
+
+Probar la sal y a&ntilde;adirle si lo necesita.
+
+Se puede hacer de v&iacute;spera para que tome m&aacute;s sabor el guiso.
+

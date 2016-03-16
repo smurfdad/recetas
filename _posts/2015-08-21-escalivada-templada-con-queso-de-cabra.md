@@ -11,4 +11,16 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-68979230706771758
 blogger_orig_url: http://recetas-desa.blogspot.com/2015/08/escalivada-templada-con-queso-de-cabra.html
 ---
 
-<h3>Ingredientes</h3>250 gr. de escalibada (mitad berenjena asada y mitad pimiento rojo asado)<br />100 gr. de queso de cabra<br />Aceite de oliva<br />Orégano<br />Tostas de pan<br /><h3>Preparación</h3>Mezclar el queso de cabra con la escalibada. Poner en una fuente o placa de horno y calentar. Emplatar en un molde redondo de decoración y distribuir las tostas de pan alrededor. Espolvorear con orégano y añadir un chorrito de aceite de oliva.
+<h3>Ingredientes</h3>
+250 gr. de escalibada (mitad berenjena asada y mitad pimiento rojo asado)
+
+100 gr. de queso de cabra
+
+Aceite de oliva
+
+Orégano
+
+Tostas de pan
+
+<h3>Preparación</h3>
+Mezclar el queso de cabra con la escalibada. Poner en una fuente o placa de horno y calentar. Emplatar en un molde redondo de decoración y distribuir las tostas de pan alrededor. Espolvorear con orégano y añadir un chorrito de aceite de oliva.

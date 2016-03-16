@@ -10,4 +10,35 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-57522459923544781
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alubia-verde-con-tomate.html
 ---
 
-Para 4 personas.<br><h3>Ingredientes</h3><p>1 kilo alubia verde<br/>1 cebolla<br/>3 dientes de ajo<br/>2 pimientos verdes<br/>4 &oacute; 5 tomates maduros<br/>sal<br/></p><h3>Preparaci&oacute;n</h3><p>Limpiar la alubia verde, trocearla y ponerla a cocer con agua y un poco de sal.<br/>Aparte picar muy fina la cebolla, el ajo y los pimientos.<br/>Disponer la verdura en una cazuela, con un poco de aceite y dejar que se vaya rehogando poco a poco.<br/>Cuando este echa, a&ntilde;adir el tomate pelado y troceado y dejarlo al fuego hasta que este echo.<br/>Una vez echo el tomate, pasarlo por la batidora y el chino para que el tomate quede bien fino.<br/>Escurrir la alubia verde, agregar al tomate y dejar cocer cinco minutos m&aacute;s. Rectificar de sazonamiento.<br/></p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 kilo alubia verde
+
+1 cebolla
+
+3 dientes de ajo
+
+2 pimientos verdes
+
+4 &oacute; 5 tomates maduros
+
+sal
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Limpiar la alubia verde, trocearla y ponerla a cocer con agua y un poco de sal.
+
+Aparte picar muy fina la cebolla, el ajo y los pimientos.
+
+Disponer la verdura en una cazuela, con un poco de aceite y dejar que se vaya rehogando poco a poco.
+
+Cuando este echa, a&ntilde;adir el tomate pelado y troceado y dejarlo al fuego hasta que este echo.
+
+Una vez echo el tomate, pasarlo por la batidora y el chino para que el tomate quede bien fino.
+
+Escurrir la alubia verde, agregar al tomate y dejar cocer cinco minutos m&aacute;s. Rectificar de sazonamiento.
+

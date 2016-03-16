@@ -11,4 +11,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-52153041224343752
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pastel-de-manzana-al-coulis-de.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 manzanas reinetas<br />1/2 kg. de frambuesas<br />250 gr. de azúcar<br />4 cucharadas de crema pastelera<br />50 gr. de mantequilla<br /><h3>Preparación</h3>Pelar las manzanas, quitándoles el corazón y partir en ocho trozos similares, cada una. Ponerlos en una placa con la mantequilla y 150 gr. de azúcar. Meter en horno suave, durante 20 minutos.<br />Mientras, se elabora el coulis. Poner las frambuesas con el resto del azúcar a hervir, durante un par de minutos, pasándolo por un colador a continuación. Colocar los gajos de manzana dentro de cuatro moldes, de forma que la parte exterior de los mismos quede junto al molde y los picos hacia dentro. Rellenar el hueco central con una cucharada de crema pastelera, metiendo al horno suave, durante 15 minutos.<br /><br />Presentación:<br />Vaciar cada molde en el centro de un plato y añadir alrededor el coulis templado.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 manzanas reinetas
+
+1/2 kg. de frambuesas
+
+250 gr. de azúcar
+
+4 cucharadas de crema pastelera
+
+50 gr. de mantequilla
+
+<h3>Preparación</h3>
+Pelar las manzanas, quitándoles el corazón y partir en ocho trozos similares, cada una. Ponerlos en una placa con la mantequilla y 150 gr. de azúcar. Meter en horno suave, durante 20 minutos.
+
+Mientras, se elabora el coulis. Poner las frambuesas con el resto del azúcar a hervir, durante un par de minutos, pasándolo por un colador a continuación. Colocar los gajos de manzana dentro de cuatro moldes, de forma que la parte exterior de los mismos quede junto al molde y los picos hacia dentro. Rellenar el hueco central con una cucharada de crema pastelera, metiendo al horno suave, durante 15 minutos.
+
+
+
+Presentación:
+
+Vaciar cada molde en el centro de un plato y añadir alrededor el coulis templado.

@@ -12,4 +12,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-57213267498990078
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/arroz-con-verduras-y-huevo-escalfado.html
 ---
 
-<h3>Ingredientes</h3>1 cebolleta<br />1 pimiento morron<br />1 tomate<br />1 zanahoria<br />300grs de arroz<br />7dl. de caldo de verduras<br />4 huevos,aceite y sal<br /><h3>Preparación</h3>Picamos el tomate, las cebolleta, el pimiento morron y la zanahoria y los sofreimos con un poco de aceite.<br />Añadimos el arroz y lo sofreimos bien. Vertemos el caldo de verdura, salamos y dejamos cocer durante unos 20 minutos.<br />Cuando haya pasado este tiempo, añadimos los huevos cascados procurando que no se rompan y los escalfamos 2 minutos por debajo del punto de ebullicion.<br />Retiramos el recipiente del fuego y lo dejamos tapado 3 minutos mas.<br />Servimos enseguida.<br />Es conveniente preparar el arroz en una cazuela ancha y plana para que este se cueza uniformemente.
+<h3>Ingredientes</h3>
+1 cebolleta
+
+1 pimiento morron
+
+1 tomate
+
+1 zanahoria
+
+300grs de arroz
+
+7dl. de caldo de verduras
+
+4 huevos,aceite y sal
+
+<h3>Preparación</h3>
+Picamos el tomate, las cebolleta, el pimiento morron y la zanahoria y los sofreimos con un poco de aceite.
+
+Añadimos el arroz y lo sofreimos bien. Vertemos el caldo de verdura, salamos y dejamos cocer durante unos 20 minutos.
+
+Cuando haya pasado este tiempo, añadimos los huevos cascados procurando que no se rompan y los escalfamos 2 minutos por debajo del punto de ebullicion.
+
+Retiramos el recipiente del fuego y lo dejamos tapado 3 minutos mas.
+
+Servimos enseguida.
+
+Es conveniente preparar el arroz en una cazuela ancha y plana para que este se cueza uniformemente.

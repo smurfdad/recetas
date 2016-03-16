@@ -10,4 +10,40 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-70427142931846644
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/coliflor-con-salsa-mornay.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 coliflor grande<br />agua<br />sal<br />100 gr harina<br />100 gr mantequilla<br />1 litro de leche<br />2 yemas de huevo<br />50 gr queso rallado<br />pimienta blanca<br />nuez moscada<br /><br /><h3>Preparación</h3>Limpiar y cortar la coliflor.<br />Preparar una cazuela con agua y sal, cuando rompa a hervir, echar la coliflor y dejarla cocer.<br />En una cazuela aparte, poner la mantequilla al fuego, una vez diluida añadir la harina y mezclar bien.<br />Ir añadiendo la leche, una vez todo mezclado, agregar las yemas de huevo y el queso rallado.<br />Sazonar con pimienta blanca y nuez moscada y dejar cocer despacio dos o tres minutos sin dejar de remover.<br />Disponer la coliflor en una placa de horno, cubrir con la salsa y meter cinco minutos a horno medio.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 coliflor grande
+
+agua
+
+sal
+
+100 gr harina
+
+100 gr mantequilla
+
+1 litro de leche
+
+2 yemas de huevo
+
+50 gr queso rallado
+
+pimienta blanca
+
+nuez moscada
+
+
+
+<h3>Preparación</h3>
+Limpiar y cortar la coliflor.
+
+Preparar una cazuela con agua y sal, cuando rompa a hervir, echar la coliflor y dejarla cocer.
+
+En una cazuela aparte, poner la mantequilla al fuego, una vez diluida añadir la harina y mezclar bien.
+
+Ir añadiendo la leche, una vez todo mezclado, agregar las yemas de huevo y el queso rallado.
+
+Sazonar con pimienta blanca y nuez moscada y dejar cocer despacio dos o tres minutos sin dejar de remover.
+
+Disponer la coliflor en una placa de horno, cubrir con la salsa y meter cinco minutos a horno medio.

@@ -10,4 +10,31 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-83564275467350616
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/pasta-las-finas-hierbas.html
 ---
 
-Para 4 personas.<br><h3>Ingredientes</h3><p>300 g de pasta (caracoles, lazos, tallarines)<br/>150 g de jam&oacute;n cocido en dos lonchas<br/>2 dl de aceite de oliva<br/>2 dientes de ajo<br/>1 guindilla dulce<br/>2 cucharas de hierbas arom&aacute;ticas picadas (albahaca, perejil, or&eacute;gano, menta)<br/>75 g de queso rallado<br/>pimienta<br/>sal</p><h3>Preparaci&oacute;n</h3><p>Cortar el jam&oacute;n en dados. Cocer la pasta en abundante agua con sal de 10 a 12 minutos. Escurrir y reservar. Mezclar el aceite con la guindilla, sin simientes cortada en aros, los dientes de ajo machacados y las hierbas arom&aacute;ticas picadas. Dejar macerar durante 30 minutos. Poner la pasta en una cazuela, agregar el jam&oacute;n y la marinada y calentar a fuego suave, durante unos minutos, sin que hierva. Servir enseguida con el queso aparte.</p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+
+300 g de pasta (caracoles, lazos, tallarines)
+
+150 g de jam&oacute;n cocido en dos lonchas
+
+2 dl de aceite de oliva
+
+2 dientes de ajo
+
+1 guindilla dulce
+
+2 cucharas de hierbas arom&aacute;ticas picadas (albahaca, perejil, or&eacute;gano, menta)
+
+75 g de queso rallado
+
+pimienta
+
+sal
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cortar el jam&oacute;n en dados. Cocer la pasta en abundante agua con sal de 10 a 12 minutos. Escurrir y reservar. Mezclar el aceite con la guindilla, sin simientes cortada en aros, los dientes de ajo machacados y las hierbas arom&aacute;ticas picadas. Dejar macerar durante 30 minutos. Poner la pasta en una cazuela, agregar el jam&oacute;n y la marinada y calentar a fuego suave, durante unos minutos, sin que hierva. Servir enseguida con el queso aparte.
+

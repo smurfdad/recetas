@@ -11,4 +11,20 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-47383967770477608
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pastel-del-queso.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>200 gr. de queso fresco<br />3 huevos<br />200 gr de nata líquida<br />200 cc de leche<br />200 gr de leche condensada<br />mantequilla<br /><h3>Preparación</h3>Se trituran todos los ingredientes y se vierten en un molde previamente untado de mantequilla. Se mete al baño María durante 45 minutos. Desmoldar y servir.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+200 gr. de queso fresco
+
+3 huevos
+
+200 gr de nata líquida
+
+200 cc de leche
+
+200 gr de leche condensada
+
+mantequilla
+
+<h3>Preparación</h3>
+Se trituran todos los ingredientes y se vierten en un molde previamente untado de mantequilla. Se mete al baño María durante 45 minutos. Desmoldar y servir.

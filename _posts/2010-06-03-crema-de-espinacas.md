@@ -11,4 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-32951553774988604
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/crema-de-espinacas.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1cebolla mediana<br />3 dientes de ajo<br />2 tomates maduros<br />300 gr espinacas<br />sal<br />1litro de agua<br /><br /><h3>Preparación</h3>Picar muy fina la cebolla y el ajo, poniéndolo en una cazuela con un poco de aceite a rehogar.<br />Cuando este echo, añadir el tomate y las espinacas, y rehogar todo bien.<br />Sazonar con sal, añadir el agua y dejar hervir un cuarto de hora.<br />Pasar por la batidora y el chino.<br />Servir bien caliente.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1cebolla mediana
+
+3 dientes de ajo
+
+2 tomates maduros
+
+300 gr espinacas
+
+sal
+
+1litro de agua
+
+
+
+<h3>Preparación</h3>
+Picar muy fina la cebolla y el ajo, poniéndolo en una cazuela con un poco de aceite a rehogar.
+
+Cuando este echo, añadir el tomate y las espinacas, y rehogar todo bien.
+
+Sazonar con sal, añadir el agua y dejar hervir un cuarto de hora.
+
+Pasar por la batidora y el chino.
+
+Servir bien caliente.

@@ -10,4 +10,29 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-11179256884257726
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/escalopes-de-ternera-o-buey.html
 ---
 
-Para 6 personas.<br /><br /><h3>Ingredientes</h3><p>6 filetes muy finos<br />2 huevos<br />pan rallado</p><h3>Preparaci&oacute;n</h3><p>Si no est&aacute;n muy finos los filetes, aplastarlos con un mazo.<br />Echarles sal.<br />Pasarlos por huevo batido y luego por pan rallado, aplastando bien con la mano, para que se impregne bien por todas partes y forme una coraza.<br />Fre&iacute;r en aceite bien caliente para que queden dorados.<br />Fre&iacute;r con patatas fritas y lechuga en ensalada.</p>
+Para 6 personas.
+
+
+
+<h3>Ingredientes</h3>
+
+
+6 filetes muy finos
+
+2 huevos
+
+pan rallado
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Si no est&aacute;n muy finos los filetes, aplastarlos con un mazo.
+
+Echarles sal.
+
+Pasarlos por huevo batido y luego por pan rallado, aplastando bien con la mano, para que se impregne bien por todas partes y forme una coraza.
+
+Fre&iacute;r en aceite bien caliente para que queden dorados.
+
+Fre&iacute;r con patatas fritas y lechuga en ensalada.
+

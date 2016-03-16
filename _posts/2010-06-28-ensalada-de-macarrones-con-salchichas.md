@@ -12,4 +12,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-59847996627000806
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-macarrones-con-salchichas.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1 paquete de 227 grms. (8 onzas) de pasta corta en forma de caracoles o similar<br />1 paquete de 454 grms (16 onzas) de salchichas, cortadas en rebanadas diagonales<br />1/2 mazo pequeño de apio, cortado en trocitos<br />4 huevos duros en rebanadas<br />2 tomates medianos cortados en cuñas<br />1/2 taza de aderezo de aceite y vinagre, con hierbas aromáticas (a gusto)<br />1 1/2 cucharaditas de sal<br />1 cucharadita de eneldo<br /><h3>Preparación</h3>Prepare la pasta según las instrucciones del paquete.  Escurrala bien.  en un tazón grande mézclela con los demás ingredientes.  Tápela y refrigerela, revolviendo de vez en cuando
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1 paquete de 227 grms. (8 onzas) de pasta corta en forma de caracoles o similar
+
+1 paquete de 454 grms (16 onzas) de salchichas, cortadas en rebanadas diagonales
+
+1/2 mazo pequeño de apio, cortado en trocitos
+
+4 huevos duros en rebanadas
+
+2 tomates medianos cortados en cuñas
+
+1/2 taza de aderezo de aceite y vinagre, con hierbas aromáticas (a gusto)
+
+1 1/2 cucharaditas de sal
+
+1 cucharadita de eneldo
+
+<h3>Preparación</h3>
+Prepare la pasta según las instrucciones del paquete.  Escurrala bien.  en un tazón grande mézclela con los demás ingredientes.  Tápela y refrigerela, revolviendo de vez en cuando

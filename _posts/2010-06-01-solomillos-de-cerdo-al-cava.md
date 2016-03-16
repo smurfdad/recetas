@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-10719227302626875
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/solomillos-de-cerdo-al-cava.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>2 solomillos de cerdo<br />1/4 kilo de champiñones<br />3 dientes de ajo<br />1 vaso de cava<br />1 vaso de nata liquida<br />aceite de oliva<br />sal y pimienta al gusto<br /><h3>Preparación</h3>Salpimenta los solomillos y sofrielos junto con los ajos picados en una cazuela o sarten con aceite.<br />Una vez que esten dorados rehoga en el mismo aceite los champiñones limpios y cortados en laminas.<br />Cuando esten casi hechos hay que añadir el cava y dejarlo que se haga todo junto durante unos 10 minutos.<br />Transcurrido ese tiempo se añade la nata liquida y se espera otros 10 minutos.<br />Para servirlos se hacen filetes, se añade sal a la salsa y se pone por encima.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+2 solomillos de cerdo
+
+1/4 kilo de champiñones
+
+3 dientes de ajo
+
+1 vaso de cava
+
+1 vaso de nata liquida
+
+aceite de oliva
+
+sal y pimienta al gusto
+
+<h3>Preparación</h3>
+Salpimenta los solomillos y sofrielos junto con los ajos picados en una cazuela o sarten con aceite.
+
+Una vez que esten dorados rehoga en el mismo aceite los champiñones limpios y cortados en laminas.
+
+Cuando esten casi hechos hay que añadir el cava y dejarlo que se haga todo junto durante unos 10 minutos.
+
+Transcurrido ese tiempo se añade la nata liquida y se espera otros 10 minutos.
+
+Para servirlos se hacen filetes, se añade sal a la salsa y se pone por encima.

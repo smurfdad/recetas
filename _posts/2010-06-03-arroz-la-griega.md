@@ -10,4 +10,32 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-90768862253578341
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/arroz-la-griega.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>200 gr arroz<br />5 salchichas tipo Frankfurt<br />1 lata guisantes<br />1 lata pimiento morón<br />6 hojas de lechuga<br />1 cebolla<br /><br /><h3>Preparación</h3>Cocer el arroz con agua y un poco de sal.<br />Una vez cocido, lavarlo y escurrirlo. Reservar.<br />Picar muy fina la cebolla y rehogar con un poco de aceite.<br />Añadir las salchichas picadas finas y rehogar.<br />Después añadir el pimiento y la lechuga picada fina, junto con los guisantes, rehogándolo.<br />Añadir el arroz y saltearlo bien unos 2 ó 3 minutos.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+200 gr arroz
+
+5 salchichas tipo Frankfurt
+
+1 lata guisantes
+
+1 lata pimiento morón
+
+6 hojas de lechuga
+
+1 cebolla
+
+
+
+<h3>Preparación</h3>
+Cocer el arroz con agua y un poco de sal.
+
+Una vez cocido, lavarlo y escurrirlo. Reservar.
+
+Picar muy fina la cebolla y rehogar con un poco de aceite.
+
+Añadir las salchichas picadas finas y rehogar.
+
+Después añadir el pimiento y la lechuga picada fina, junto con los guisantes, rehogándolo.
+
+Añadir el arroz y saltearlo bien unos 2 ó 3 minutos.

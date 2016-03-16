@@ -11,4 +11,18 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-11432583200226460
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/cerdo-con-pina.html
 ---
 
-<h3>Ingredientes</h3>1 Kg de cerdo para guisar<br />2 Cebollas<br />1 Cabeza de ajo<br />1/2 Kg de piña<br />3 Pimientos verdes<br />Sal y pimientas<br /><h3>Preparación</h3>Dorar la carne, añadir la cebolla y elo ajo, cocinar sin que se dore, añadir los otros ingredientes excepto la piña y los pimientos, agregar suficiente agua y cocinar por 30 minutos; cortar la piña y los pimientos en trocitos y freirlos antes de agregar al cerdo.
+<h3>Ingredientes</h3>
+1 Kg de cerdo para guisar
+
+2 Cebollas
+
+1 Cabeza de ajo
+
+1/2 Kg de piña
+
+3 Pimientos verdes
+
+Sal y pimientas
+
+<h3>Preparación</h3>
+Dorar la carne, añadir la cebolla y elo ajo, cocinar sin que se dore, añadir los otros ingredientes excepto la piña y los pimientos, agregar suficiente agua y cocinar por 30 minutos; cortar la piña y los pimientos en trocitos y freirlos antes de agregar al cerdo.

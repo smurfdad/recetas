@@ -11,4 +11,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-14254278403031763
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/queso-philadelphia-con-fresas-y-kiwi.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>300 g de queso philadelphia<br />1 cucharada de crema de leche<br />2 claras de huevo<br />500 g de fresas<br />3 kiwis<br /><br /><h3>Preparación</h3>Batir el queso philadelphia en una batidora con la nata. Batimos también las dos claras a punto de nieve.<br />Mezclamos ambos preparados con la ayuda de un tenedor y los reservamos apartados un momento.<br /><br />Forramos con un papel cuatro moldes individuales, de manera que sobresalgan un poco por los lados de los moldes. Repartir la preparación en los moldes. A continuación los colocamos sobre un plato y guardaremos en el frigorífico al menos durante 2 horas para que adquieran consistencia.<br /><br />En el momento de servir, lavaremos las fresas, las dejamos secar sobre un papel absorbente y las retiramos los rabitos. Pelaremos y trocearemos a rodajas los kiwis. Reservamos hasta el final.<br /><br />Cogemos los moldes de la nevera, desmoldamos los cuatro preparados de queso philadelphia en una fuente. Alrededor adornamos con fresas y láminas de kiwi, o con cualquier otra fruta de temporada que nos apetezca.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+300 g de queso philadelphia
+
+1 cucharada de crema de leche
+
+2 claras de huevo
+
+500 g de fresas
+
+3 kiwis
+
+
+
+<h3>Preparación</h3>
+Batir el queso philadelphia en una batidora con la nata. Batimos también las dos claras a punto de nieve.
+
+Mezclamos ambos preparados con la ayuda de un tenedor y los reservamos apartados un momento.
+
+
+
+Forramos con un papel cuatro moldes individuales, de manera que sobresalgan un poco por los lados de los moldes. Repartir la preparación en los moldes. A continuación los colocamos sobre un plato y guardaremos en el frigorífico al menos durante 2 horas para que adquieran consistencia.
+
+
+
+En el momento de servir, lavaremos las fresas, las dejamos secar sobre un papel absorbente y las retiramos los rabitos. Pelaremos y trocearemos a rodajas los kiwis. Reservamos hasta el final.
+
+
+
+Cogemos los moldes de la nevera, desmoldamos los cuatro preparados de queso philadelphia en una fuente. Alrededor adornamos con fresas y láminas de kiwi, o con cualquier otra fruta de temporada que nos apetezca.

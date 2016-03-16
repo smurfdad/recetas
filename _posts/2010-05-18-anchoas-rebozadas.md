@@ -10,4 +10,29 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-10866710018862563
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/anchoas-rebozadas.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>1 Kg. anchoas<br/>sal<br/>harina<br/>huevo batido</p><h2>Preparaci&oacute;n</h2><p>Limpiar las anchoas quit&aacute;ndoles la cabeza, tripas y espina.<br/>Lavarlas y secarlas.<br/>Echar sal y meter en la nevera hasta su uso.<br/>Poner bastante aceite en una sart&eacute;n a fuego no muy fuerte.<br/>Ir pasando las anchoas por harina y huevo batido y a continuaci&oacute;n por la sart&eacute;n para fre&iacute;rlas.<br/>Pasarlas a una fuente coloc&aacute;ndolas de forma que las que se van friendo despu&eacute;s monten un poco sobre las anteriores.</p><br>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+1 Kg. anchoas
+
+sal
+
+harina
+
+huevo batido
+
+<h3>Preparaci&oacute;n</h3>
+
+Limpiar las anchoas quit&aacute;ndoles la cabeza, tripas y espina.
+
+Lavarlas y secarlas.
+
+Echar sal y meter en la nevera hasta su uso.
+
+Poner bastante aceite en una sart&eacute;n a fuego no muy fuerte.
+
+Ir pasando las anchoas por harina y huevo batido y a continuaci&oacute;n por la sart&eacute;n para fre&iacute;rlas.
+
+Pasarlas a una fuente coloc&aacute;ndolas de forma que las que se van friendo despu&eacute;s monten un poco sobre las anteriores.
+

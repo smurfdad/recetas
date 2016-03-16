@@ -11,4 +11,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-15460352937164836
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/crema-san-german.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 cebolla<br />3 dientes de ajo<br />300 gr guisantes<br />2 zanahorias<br />2 puerros<br />sal<br />1 litro de agua<br /><br /><h3>Preparación</h3>Picar fina la cebolla, el ajo, la zanahoria, y los puerros.<br />Poner las verduras con un poco de aceite a rehogar despacio.<br />Una vez echo, agregar los guisantes, la sal y el agua.<br />Dejar hervir un cuarto de hora.<br />Pasar por la batidora y el chino.<br />Servir bien caliente.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 cebolla
+
+3 dientes de ajo
+
+300 gr guisantes
+
+2 zanahorias
+
+2 puerros
+
+sal
+
+1 litro de agua
+
+
+
+<h3>Preparación</h3>
+Picar fina la cebolla, el ajo, la zanahoria, y los puerros.
+
+Poner las verduras con un poco de aceite a rehogar despacio.
+
+Una vez echo, agregar los guisantes, la sal y el agua.
+
+Dejar hervir un cuarto de hora.
+
+Pasar por la batidora y el chino.
+
+Servir bien caliente.

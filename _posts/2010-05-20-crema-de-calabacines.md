@@ -11,4 +11,29 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-31529120096629868
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/crema-de-calabacines.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>1 kg. de calabacines<br/>6 quesitos en porciones<br/>1 pastilla starlux<br/>agua</p><h2>Preparaci&oacute;n</h2><p>Cocer los calabacines, cortados en trozos con la piel, en poca agua.<br/>Triturar con la batidora.<br/>A&ntilde;adir los quesitos y triturar de nuevo.<br/>Rectificar de agua y sal si es necesario.<br/>Servir en taza de consom&eacute;.<br/>Se pueden sacar aparte, por si alguien quiere, cuadraditos de pan fritos.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+1 kg. de calabacines
+
+6 quesitos en porciones
+
+1 pastilla starlux
+
+agua
+
+<h3>Preparaci&oacute;n</h3>
+
+Cocer los calabacines, cortados en trozos con la piel, en poca agua.
+
+Triturar con la batidora.
+
+A&ntilde;adir los quesitos y triturar de nuevo.
+
+Rectificar de agua y sal si es necesario.
+
+Servir en taza de consom&eacute;.
+
+Se pueden sacar aparte, por si alguien quiere, cuadraditos de pan fritos.
+

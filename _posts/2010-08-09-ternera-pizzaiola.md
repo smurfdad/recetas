@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-16524549645212347
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/ternera-pizzaiola.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>12 filetes de Ternera<br />Alcaparras<br />Romero<br />Ajos<br />Tomate natural triturado<br />Limón<br />Tranchetes<br /><br /><h3>Preparación</h3>Se pone la carne, después se pican los ajos, 3 o 4 ramitas de romero, las alcaparras, el tomate y se le exprime un limón.<br />Todo esto a fuego lento unos 30 minutos.<br /><br />Cuando la carne esté hecha se introducen los tranchetes hasta que se fundan. La ternera a ser posible que sea para rebozar, muy finita.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+12 filetes de Ternera
+
+Alcaparras
+
+Romero
+
+Ajos
+
+Tomate natural triturado
+
+Limón
+
+Tranchetes
+
+
+
+<h3>Preparación</h3>
+Se pone la carne, después se pican los ajos, 3 o 4 ramitas de romero, las alcaparras, el tomate y se le exprime un limón.
+
+Todo esto a fuego lento unos 30 minutos.
+
+
+
+Cuando la carne esté hecha se introducen los tranchetes hasta que se fundan. La ternera a ser posible que sea para rebozar, muy finita.

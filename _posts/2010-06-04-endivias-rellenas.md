@@ -12,4 +12,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-87394237937365653
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/endivias-rellenas.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>8 endibias<br />8 lonchas de jamón york<br />8 lonchas de queso<br />harina<br />huevo<br />pan rallado<br />1 litro de salsa bechamel(para napar)<br /><br /><h3>Preparación</h3>Cortar las endibias cada una por la mitad.<br />Poner encima de cada endibia, una loncha de jamón y una de queso.<br />Cubrir por encima con la salsa bechamel y dejar enfriar.<br />Pasar por harina, huevo y pan rallado y freír en abundante aceite caliente.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+8 endibias
+
+8 lonchas de jamón york
+
+8 lonchas de queso
+
+harina
+
+huevo
+
+pan rallado
+
+1 litro de salsa bechamel(para napar)
+
+
+
+<h3>Preparación</h3>
+Cortar las endibias cada una por la mitad.
+
+Poner encima de cada endibia, una loncha de jamón y una de queso.
+
+Cubrir por encima con la salsa bechamel y dejar enfriar.
+
+Pasar por harina, huevo y pan rallado y freír en abundante aceite caliente.

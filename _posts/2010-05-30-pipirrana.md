@@ -10,4 +10,32 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-42959004775786389
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pipirrana.html
 ---
 
-<h3>Ingredientes</h3>3 tomates grandes para ensalada.<br />1/4 Kg. de zanahorias.<br />3 cebollas frescas.<br />1 lata de bonito, atún, caballa o melva.<br />2 cucharas de alcaparras pequeqas.<br />6 pepinillos en vinagre o agridulces.<br />Aceite de oliva.<br />Sal.<br /><h3>Preparación</h3>En un recipiente apropiado vamos echando, una vez pelados y picados muy menudamente los tomates, igualmente los pimientos y las cebollas.<br />Los pepinillos los cortamos en obleas finas y añadimos las alcaparras.<br />Aliñamos con un buen chorreón de aceite de oliva y sal al gusto.<br />También se puede echar un espolvoreado ligero de pimienta blanca.<br />Lo removemos todo muy bien y añadimos la lata de conserva de pescado preferida por nosotros, quitándole previamente el aceite.<br />Se sirve fría en verano y del tiempo en otras épocas del año. Muy buena.
+<h3>Ingredientes</h3>
+3 tomates grandes para ensalada.
+
+1/4 Kg. de zanahorias.
+
+3 cebollas frescas.
+
+1 lata de bonito, atún, caballa o melva.
+
+2 cucharas de alcaparras pequeqas.
+
+6 pepinillos en vinagre o agridulces.
+
+Aceite de oliva.
+
+Sal.
+
+<h3>Preparación</h3>
+En un recipiente apropiado vamos echando, una vez pelados y picados muy menudamente los tomates, igualmente los pimientos y las cebollas.
+
+Los pepinillos los cortamos en obleas finas y añadimos las alcaparras.
+
+Aliñamos con un buen chorreón de aceite de oliva y sal al gusto.
+
+También se puede echar un espolvoreado ligero de pimienta blanca.
+
+Lo removemos todo muy bien y añadimos la lata de conserva de pescado preferida por nosotros, quitándole previamente el aceite.
+
+Se sirve fría en verano y del tiempo en otras épocas del año. Muy buena.

@@ -10,4 +10,43 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-73852638423054431
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/ensalada-con-queso.html
 ---
 
-Para 4 personas.<br><h3>Ingredientes</h3><p>1 escarola<br/>200 gramos de tomates cherry<br/>2 patatas hervidas<br/>1 pepino<br/>2 hojas de apio<br/>1 lechuga morada<br/>250 gramos de queso de cabra<br/>20 ccs de aceite de oliva<br/>1 pizca de sal<br/>1 pizca de pimienta<br/>1 yogurt natural<br/>1 zumo de lim&oacute;n<br/>3 ccs de paprika</p><h3>Preparaci&oacute;n</h3><p>Cortar las verduras, las patatas y el queso y disponerlo en una ensaladera.<br/><br/>Ali&ntilde;ar con el aceite, la sal y la pimienta.<br/><br/>Acompa&ntilde;ar la ensalada con el yogurt ali&ntilde;ado con la paprika y el zumo de lim&oacute;n que se servir&aacute; seg&uacute;n gustos.</p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 escarola
+
+200 gramos de tomates cherry
+
+2 patatas hervidas
+
+1 pepino
+
+2 hojas de apio
+
+1 lechuga morada
+
+250 gramos de queso de cabra
+
+20 ccs de aceite de oliva
+
+1 pizca de sal
+
+1 pizca de pimienta
+
+1 yogurt natural
+
+1 zumo de lim&oacute;n
+
+3 ccs de paprika
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cortar las verduras, las patatas y el queso y disponerlo en una ensaladera.
+
+Ali&ntilde;ar con el aceite, la sal y la pimienta.
+
+Acompa&ntilde;ar la ensalada con el yogurt ali&ntilde;ado con la paprika y el zumo de lim&oacute;n que se servir&aacute; seg&uacute;n gustos.
+

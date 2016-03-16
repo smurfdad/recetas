@@ -11,4 +11,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-73975039698315451
 blogger_orig_url: http://recetas-desa.blogspot.com/2015/08/flan-de-nueces.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>9 yemas de huevo<br />5 claras de huevo<br />1 lata grande de leche condensada<br />250 gr. de nueces picadas<br />1/4lt de leche<br />caramelo líquido<br /><h3>Preparación</h3>Untar la flanera con el caramelo.<br />Aparte batir las yemas con la leche condensada, agregar las nueces, y batirlo todo en la batidora.<br />Por ultimo batir las claras a punto de nieve y agregarlas al ultimo a la crema batida, echar la mezcla en la flanera con el caramelo y meter al horno al baño maría, a temperatura media durante una hora.<br />Una vez frío desmoldar y decorarlo con nueces.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+9 yemas de huevo
+
+5 claras de huevo
+
+1 lata grande de leche condensada
+
+250 gr. de nueces picadas
+
+1/4lt de leche
+
+caramelo líquido
+
+<h3>Preparación</h3>
+Untar la flanera con el caramelo.
+
+Aparte batir las yemas con la leche condensada, agregar las nueces, y batirlo todo en la batidora.
+
+Por ultimo batir las claras a punto de nieve y agregarlas al ultimo a la crema batida, echar la mezcla en la flanera con el caramelo y meter al horno al baño maría, a temperatura media durante una hora.
+
+Una vez frío desmoldar y decorarlo con nueces.

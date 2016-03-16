@@ -10,4 +10,37 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-67828460672446948
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/cardo-con-almendras.html
 ---
 
-Para 4 personas.<br><h3>Ingredientes</h3><p>2 kilos de cardo<br/>1 cebolla<br/>4 dientes de ajo<br/>harina<br/>agua<br/>sal<br/>aceite<br/>100 gr almendra molida<br/></p><h3>Preparaci&oacute;n</h3><p>Poner una cazuela al fuego con agua, sal y una cucharada de harina.<br/>Cuando rompa a hervir echar el cardo y dejar que se cueza.<br/>En una cazuela de barro pondremos, un poco de aceite, junto con la cebolla y el ajo finamente picado y le dejaremos que se rehogue bien.<br/>Cuando el sofrito este echo, a&ntilde;adir un poquito de harina y parte del caldo de cocci&oacute;n, confeccionando con esto una salsa ligera.<br/>agregar al cardo y las almendras, dejando cocer todo diez minutos m&aacute;s.<br/></p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+
+2 kilos de cardo
+
+1 cebolla
+
+4 dientes de ajo
+
+harina
+
+agua
+
+sal
+
+aceite
+
+100 gr almendra molida
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Poner una cazuela al fuego con agua, sal y una cucharada de harina.
+
+Cuando rompa a hervir echar el cardo y dejar que se cueza.
+
+En una cazuela de barro pondremos, un poco de aceite, junto con la cebolla y el ajo finamente picado y le dejaremos que se rehogue bien.
+
+Cuando el sofrito este echo, a&ntilde;adir un poquito de harina y parte del caldo de cocci&oacute;n, confeccionando con esto una salsa ligera.
+
+agregar al cardo y las almendras, dejando cocer todo diez minutos m&aacute;s.
+

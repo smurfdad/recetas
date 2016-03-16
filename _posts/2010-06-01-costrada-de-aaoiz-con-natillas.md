@@ -10,4 +10,28 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-78476378005440001
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/costrada-de-aaoiz-con-natillas.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1/2 l. de crema pastelera<br />200 gr. de azúcar<br />200 gr. de harina<br />100 gr. de mantequilla<br />100 gr. de margarina<br />3 huevos enteros<br />2 yemas<br />natillas<br />canela en polvo<br /><h3>Preparación</h3>Se mezclan todos los ingredientes en este orden:<br />huevos, azúcar, mantequilla, margarina y harina. Después, se coloca la masa en un molde de pastelería cubriendo todo el fondo. Seguidamente, se coloca la crema pastelera y se termina cubriendo con otra capa de la masa ya citada. Se introduce en el horno a 180º durante 50 minutos.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1/2 l. de crema pastelera
+
+200 gr. de azúcar
+
+200 gr. de harina
+
+100 gr. de mantequilla
+
+100 gr. de margarina
+
+3 huevos enteros
+
+2 yemas
+
+natillas
+
+canela en polvo
+
+<h3>Preparación</h3>
+Se mezclan todos los ingredientes en este orden:
+
+huevos, azúcar, mantequilla, margarina y harina. Después, se coloca la masa en un molde de pastelería cubriendo todo el fondo. Seguidamente, se coloca la crema pastelera y se termina cubriendo con otra capa de la masa ya citada. Se introduce en el horno a 180º durante 50 minutos.

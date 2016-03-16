@@ -10,4 +10,43 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-53316901444820769
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/huevos-escalfados-gran-duque.html
 ---
 
-Para 4 personas.<br><h3>Ingredientes</h3><p>8 huevos<br/>4 patatas grandes<br/>1/2 litro de leche<br/>40 gr mantequilla<br/>40 gr harina<br/>queso rallado<br/>agua<br/>vinagre<br/>sal<br/></p><h3>Preparaci&oacute;n</h3><p>Cocer las patatas con agua y sal.<br/>Una vez cocidas y fr&iacute;as, pelarlas y cortarlas por la mitad.<br/>Vaciar las patatas por el centro con la ayuda de una cucharilla.<br/>Escalfar los huevos como en la receta anterior.<br/>Hacer una salsa bechamel suave.<br/>Poner un huevo en el hueco de cada patata, cubrir con la bechamel.<br/>Espolvorear por encima con el queso rallado y meter al horno a gratinar.<br/></p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+
+8 huevos
+
+4 patatas grandes
+
+1/2 litro de leche
+
+40 gr mantequilla
+
+40 gr harina
+
+queso rallado
+
+agua
+
+vinagre
+
+sal
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cocer las patatas con agua y sal.
+
+Una vez cocidas y fr&iacute;as, pelarlas y cortarlas por la mitad.
+
+Vaciar las patatas por el centro con la ayuda de una cucharilla.
+
+Escalfar los huevos como en la receta anterior.
+
+Hacer una salsa bechamel suave.
+
+Poner un huevo en el hueco de cada patata, cubrir con la bechamel.
+
+Espolvorear por encima con el queso rallado y meter al horno a gratinar.
+

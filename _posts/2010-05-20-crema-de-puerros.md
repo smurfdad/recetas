@@ -11,4 +11,25 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-86392404664020196
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/crema-de-puerros.html
 ---
 
-Para 4 personas.<br><h2>Ingredientes</h2><p>4 puerros<br/>1 l. de agua<br/>200 grs. de nata l&iacute;quida<br/>1 cebolla grande</p><h2>Preparaci&oacute;n</h2><p>Se pica la cebolla y se trocean los puerros.<br/>Se pone a cocer en el agua, a&ntilde;adi&eacute;ndole tambi&eacute;n la sal.<br/>Una vez cocido se pasa por la batidora y a la vez se vierte la nata l&iacute;quida.<br/>Se puede servir con costrones de pan frito.</p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+4 puerros
+
+1 l. de agua
+
+200 grs. de nata l&iacute;quida
+
+1 cebolla grande
+
+<h3>Preparaci&oacute;n</h3>
+
+Se pica la cebolla y se trocean los puerros.
+
+Se pone a cocer en el agua, a&ntilde;adi&eacute;ndole tambi&eacute;n la sal.
+
+Una vez cocido se pasa por la batidora y a la vez se vierte la nata l&iacute;quida.
+
+Se puede servir con costrones de pan frito.
+

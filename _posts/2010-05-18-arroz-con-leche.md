@@ -11,4 +11,37 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-31913078288745935
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/arroz-con-leche.html
 ---
 
-Para 8 personas.<br><h2>Ingredientes</h2><p>2 l. de leche<br/>150 grs. de arroz<br/>300 grs. de az&uacute;car<br/>1 palo de canela<br/>1 trozo de corteza de<br/>lim&oacute;n<br/>canela para espolvorear</p><h2>Preparaci&oacute;n</h2><p>Poner la leche a hervir en una cazuela baja y grande.<br/>Cuando hierva a&ntilde;adir el palo de canela, la corteza de lim&oacute;n y el arroz.<br/>Revolver bien y dejar hervir a fuego medio durante 1/2 hora teniendo cuidado de que no desborde, revolviendo de vez en cuando.<br/>Quitar la canela y la corteza de lim&oacute;n.<br/>A&ntilde;adir el az&uacute;car y dejar hervir a fuego suave otra media hora, revolviendo de vez en cuando.<br/>Apartar del fuego y repartir en recipientes individuales o en uno grande.<br/>Espolvorear con canela en polvo.</p><br>
+Para 8 personas.
+
+<h3>Ingredientes</h3>
+
+2 l. de leche
+
+150 grs. de arroz
+
+300 grs. de az&uacute;car
+
+1 palo de canela
+
+1 trozo de corteza de
+
+lim&oacute;n
+
+canela para espolvorear
+
+<h3>Preparaci&oacute;n</h3>
+
+Poner la leche a hervir en una cazuela baja y grande.
+
+Cuando hierva a&ntilde;adir el palo de canela, la corteza de lim&oacute;n y el arroz.
+
+Revolver bien y dejar hervir a fuego medio durante 1/2 hora teniendo cuidado de que no desborde, revolviendo de vez en cuando.
+
+Quitar la canela y la corteza de lim&oacute;n.
+
+A&ntilde;adir el az&uacute;car y dejar hervir a fuego suave otra media hora, revolviendo de vez en cuando.
+
+Apartar del fuego y repartir en recipientes individuales o en uno grande.
+
+Espolvorear con canela en polvo.
+

@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-53416775694293024
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/merluza-en-salsa-verde.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1 1/2 kg. merluza (rodajas o lomos)<br />aceite de oliva<br />4 ajos<br />1 cucharada harina<br />perejil picado<br />sal<br /><h3>Preparación</h3>Lavar la merluza, secarla bien y echarle sal. Reservar.<br />Poner en una cazuela de barro o tartera baja el aceite con los ajos picados y arrimar al fuego que no esté muy fuerte, y con cuidado que el ajo no llegue a dorarse.<br />Añadir la harina y revolver un poco.<br />Echar un poco de agua, el perejil y la sal y dejar cocer un poco a fuego lento.<br />Añadir las rodajas o lomos de merluza e ir meneando en vaivén. Que estén 4 minutos por un lado, se da la vuelta a la merluza y 4 minutos por el otro lado meneando a menudo.<br />Si está demasiado espeso se añade más agua y también unas almejas, si gustan.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1 1/2 kg. merluza (rodajas o lomos)
+
+aceite de oliva
+
+4 ajos
+
+1 cucharada harina
+
+perejil picado
+
+sal
+
+<h3>Preparación</h3>
+Lavar la merluza, secarla bien y echarle sal. Reservar.
+
+Poner en una cazuela de barro o tartera baja el aceite con los ajos picados y arrimar al fuego que no esté muy fuerte, y con cuidado que el ajo no llegue a dorarse.
+
+Añadir la harina y revolver un poco.
+
+Echar un poco de agua, el perejil y la sal y dejar cocer un poco a fuego lento.
+
+Añadir las rodajas o lomos de merluza e ir meneando en vaivén. Que estén 4 minutos por un lado, se da la vuelta a la merluza y 4 minutos por el otro lado meneando a menudo.
+
+Si está demasiado espeso se añade más agua y también unas almejas, si gustan.

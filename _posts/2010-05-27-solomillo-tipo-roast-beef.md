@@ -10,4 +10,45 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-54243120233037002
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/solomillo-tipo-roast-beef.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 trozo de solomillo de 1 kg. de peso<br/>un poco de mostaza<br/>un poco de vino blanco<br/>sal, aceite</p><h3>Preparaci&oacute;n</h3><p>Salar el solomillo, atar para que quede redondo y untar todo entero con mostaza.<br/>Poner aceite en la olla r&aacute;pida y cuando est&eacute; caliente dorar el solomillo por todas partes.<br/>Poner la rejilla y el solomillo encima, echar un chorrito de vino blanco y tapar la olla.<br/>Cuando haya salido la v&aacute;lvula se tiene 4 minutos.<br/>La carne se reserva, tapada.<br/>El jugo que ha soltado se pone en un cacito al fuego y se a&ntilde;ade un chorrito de co&ntilde;ac, una pastilla de caldo de carne, un poco de agua con una cucharada de maizena disuelta en ella y sal si necesita. Dejar hervir un poco revolviendo de vez en cuando.<br/>La carne puede estar hecha de v&iacute;spera si se quiere servir fr&iacute;a. Cortar en filetes muy finos.<br/>Sacar la salsa aparte, siempre caliente.<br/>Se pueden sacar tambi&eacute;n otras salsas como la de roquefort.<br/>Se puede hacer en el horno:<br/>En ese caso se pone, untado como se ha dicho anteriormente, en una bandeja de horno, regado con aceite, y un poco de agua en el fondo.<br/>12 minutos por un lado, dar la vuelta, regar con el vino blanco, y 12 minutos m&aacute;s.<br/>Tener cuidado de regar con el caldo del fondo de la bandeja cada 10 minutos para que no se seque el asado.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 trozo de solomillo de 1 kg. de peso
+
+un poco de mostaza
+
+un poco de vino blanco
+
+sal, aceite
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Salar el solomillo, atar para que quede redondo y untar todo entero con mostaza.
+
+Poner aceite en la olla r&aacute;pida y cuando est&eacute; caliente dorar el solomillo por todas partes.
+
+Poner la rejilla y el solomillo encima, echar un chorrito de vino blanco y tapar la olla.
+
+Cuando haya salido la v&aacute;lvula se tiene 4 minutos.
+
+La carne se reserva, tapada.
+
+El jugo que ha soltado se pone en un cacito al fuego y se a&ntilde;ade un chorrito de co&ntilde;ac, una pastilla de caldo de carne, un poco de agua con una cucharada de maizena disuelta en ella y sal si necesita. Dejar hervir un poco revolviendo de vez en cuando.
+
+La carne puede estar hecha de v&iacute;spera si se quiere servir fr&iacute;a. Cortar en filetes muy finos.
+
+Sacar la salsa aparte, siempre caliente.
+
+Se pueden sacar tambi&eacute;n otras salsas como la de roquefort.
+
+Se puede hacer en el horno:
+
+En ese caso se pone, untado como se ha dicho anteriormente, en una bandeja de horno, regado con aceite, y un poco de agua en el fondo.
+
+12 minutos por un lado, dar la vuelta, regar con el vino blanco, y 12 minutos m&aacute;s.
+
+Tener cuidado de regar con el caldo del fondo de la bandeja cada 10 minutos para que no se seque el asado.
+

@@ -10,4 +10,33 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-50629577115572988
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/intxaursalsa.html
 ---
 
-Para 8 personas.<br /><h3>Ingredientes</h3>1 1/2 l. de leche (o 1 de leche y 1/2 de nata líquida)<br />300 grs. de azúcar<br />1 palo de canela<br />1 trozo de corteza de limón (lo blanco no)<br />200 grs. de nueces peladas<br /><h3>Preparación</h3>Poner a hervir la leche con la canela y corteza de limón.<br />Mientras, triturar las nueces, que deben quedar prácticamente molidas, ya que cuanto más picadas estén, engorda más la crema.<br />Una vez hervida la leche a fuego lento durante unos minutos, apartar la canela y limón.<br />Añadir las nueces y el azúcar y dejar cocer media hora más a fuego lento.<br />Apartar y dejar enfriar.<br />Si es plato solo, servir en cuencos individuales, adornado con unos trocitos de nuez picada.<br />Si es como acompañamiento, en salsera aparte.<br /><h3>Observaciones</h3>Para tomarlo solo o acompañando a otro postre
+Para 8 personas.
+
+<h3>Ingredientes</h3>
+1 1/2 l. de leche (o 1 de leche y 1/2 de nata líquida)
+
+300 grs. de azúcar
+
+1 palo de canela
+
+1 trozo de corteza de limón (lo blanco no)
+
+200 grs. de nueces peladas
+
+<h3>Preparación</h3>
+Poner a hervir la leche con la canela y corteza de limón.
+
+Mientras, triturar las nueces, que deben quedar prácticamente molidas, ya que cuanto más picadas estén, engorda más la crema.
+
+Una vez hervida la leche a fuego lento durante unos minutos, apartar la canela y limón.
+
+Añadir las nueces y el azúcar y dejar cocer media hora más a fuego lento.
+
+Apartar y dejar enfriar.
+
+Si es plato solo, servir en cuencos individuales, adornado con unos trocitos de nuez picada.
+
+Si es como acompañamiento, en salsera aparte.
+
+<h3>Observaciones</h3>
+Para tomarlo solo o acompañando a otro postre

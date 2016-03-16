@@ -10,4 +10,33 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-19170946492995850
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/cardillos-o-palitos-de-acelga.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>1/2 kg. de cardillos o las pencas de 1 kg. de acelgas<br/>harina para rebozar<br/>aceite para freir<br/>un poco de sal</p><h2>Preparaci&oacute;n</h2><p>Si son cardillos, lavarlos y cortarlos en trozos regulares.<br/>Si son pencas, lavarlas y cortarlas primero en palitos y luego en trozos regulares, como de 7 cms. de largo.<br/>Poner a cocer en la olla r&aacute;pida con un poco de sal durante 5 minutos. (Si se cuece en puchero normal, comprobar el tiempo de cocci&oacute;n).<br/>Escurrir bien.<br/>Poner aceite en una sart&eacute;n al fuego no muy fuerte.<br/>Pasar los palitos por harina e ir fri&eacute;ndolos en el aceite ya caliente hasta que queden doraditos.<br/>Pasarlos a una fuente tapada con papel absorbente con el fin de quitar el aceite sobrante.<br/>Servir calientes.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+1/2 kg. de cardillos o las pencas de 1 kg. de acelgas
+
+harina para rebozar
+
+aceite para freir
+
+un poco de sal
+
+<h3>Preparaci&oacute;n</h3>
+
+Si son cardillos, lavarlos y cortarlos en trozos regulares.
+
+Si son pencas, lavarlas y cortarlas primero en palitos y luego en trozos regulares, como de 7 cms. de largo.
+
+Poner a cocer en la olla r&aacute;pida con un poco de sal durante 5 minutos. (Si se cuece en puchero normal, comprobar el tiempo de cocci&oacute;n).
+
+Escurrir bien.
+
+Poner aceite en una sart&eacute;n al fuego no muy fuerte.
+
+Pasar los palitos por harina e ir fri&eacute;ndolos en el aceite ya caliente hasta que queden doraditos.
+
+Pasarlos a una fuente tapada con papel absorbente con el fin de quitar el aceite sobrante.
+
+Servir calientes.
+

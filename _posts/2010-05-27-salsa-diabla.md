@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-71437948242334459
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/salsa-diabla.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>100 grs. de salsa de tomate<br/>1 cucharada de aceite<br/>1 pimiento rojo<br/>un poco de cebolla muy picada<br/>1 vaso de vino blanco<br/>sal, pimienta</p><h3>Preparaci&oacute;n</h3><p>Fre&iacute;r la cebolla en el aceite.<br/>Agregar los dem&aacute;s ingredientes, picados en su caso, y dejar cocer un rato a fuego suave.<br/>Si se desea, a&ntilde;adir tabasco para que pique un poco.</p><h3>Observaciones</h3><p>Para fondues y carnes a la brasa</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+100 grs. de salsa de tomate
+
+1 cucharada de aceite
+
+1 pimiento rojo
+
+un poco de cebolla muy picada
+
+1 vaso de vino blanco
+
+sal, pimienta
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Fre&iacute;r la cebolla en el aceite.
+
+Agregar los dem&aacute;s ingredientes, picados en su caso, y dejar cocer un rato a fuego suave.
+
+Si se desea, a&ntilde;adir tabasco para que pique un poco.
+
+<h3>Observaciones</h3>
+
+
+Para fondues y carnes a la brasa
+

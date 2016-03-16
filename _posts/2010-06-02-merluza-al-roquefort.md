@@ -10,4 +10,40 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-53601728562668693
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/merluza-al-roquefort.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 medallones de merluza de 200g,<br />1/2 vaso de crema de leche,<br />500g de espinaca cocida,<br />2 cucharadas de manteca,<br />1/2 vaso de Jerez,<br />1 hoja de laurel,<br />Jugo de 1/2 limón,<br />Sal y pimienta.<br /><br />SALSA:<br />1/2 vaso de crema de leche,<br />1 cucharada de harina,<br />2 cucharadas de manteca,<br />1 tacita de nueces,<br />75g de roquefort.<br /><br /><h3>Preparación</h3>Colocar los medallones en una fuente de horno con la hoja de laurel y rociar con el jugo de limón, el Jerez y 1 taza de agua. Tapar con papel de aluminio y cocinar en horno caliente 12 minutos. Reservar el pescado y colar el caldo obtenido. Para la salsa: Calentar la manteca y rehogar la harina, sin que tome color. Verter el caldo, agregar el queso roquefort desmenuzado, la crema de leche y batir hasta que quede una salsa fina. Añadir las nueces picadas y salpimentar. Aparte saltear las espinacas picadas con manteca, añadir la crema de leche, salpimentar y cocinar unos minutos. Disponer la espinaca en una fuente de horno en 4 montoncitos, colocar encima los medallones de pescado, rociar con la salsa y llevar a horno caliente 8 minutos. Servir.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 medallones de merluza de 200g,
+
+1/2 vaso de crema de leche,
+
+500g de espinaca cocida,
+
+2 cucharadas de manteca,
+
+1/2 vaso de Jerez,
+
+1 hoja de laurel,
+
+Jugo de 1/2 limón,
+
+Sal y pimienta.
+
+
+
+SALSA:
+
+1/2 vaso de crema de leche,
+
+1 cucharada de harina,
+
+2 cucharadas de manteca,
+
+1 tacita de nueces,
+
+75g de roquefort.
+
+
+
+<h3>Preparación</h3>
+Colocar los medallones en una fuente de horno con la hoja de laurel y rociar con el jugo de limón, el Jerez y 1 taza de agua. Tapar con papel de aluminio y cocinar en horno caliente 12 minutos. Reservar el pescado y colar el caldo obtenido. Para la salsa: Calentar la manteca y rehogar la harina, sin que tome color. Verter el caldo, agregar el queso roquefort desmenuzado, la crema de leche y batir hasta que quede una salsa fina. Añadir las nueces picadas y salpimentar. Aparte saltear las espinacas picadas con manteca, añadir la crema de leche, salpimentar y cocinar unos minutos. Disponer la espinaca en una fuente de horno en 4 montoncitos, colocar encima los medallones de pescado, rociar con la salsa y llevar a horno caliente 8 minutos. Servir.

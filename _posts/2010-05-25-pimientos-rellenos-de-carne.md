@@ -11,4 +11,37 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-48671283892930099
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pimientos-rellenos-de-carne.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>100 grs. de jam&oacute;n o bacon<br/>1/2 kg. de carne picada<br/>1 lata de pimientos del piquillo<br/>un trozo de cebolla<br/>sal, ajo perejil<br/>harina y huevo para rebozar</p><h3>Preparaci&oacute;n</h3><p>En una sart&eacute;n con aceite se pone la cebolla, ajo y perejil muy picados, a rehogar.<br/>Cuando est&eacute; dorado se echa la carne picada y se rehoga, hasta que est&eacute; un poco hecha, momento en el que se retira.<br/>Se mezcla con el jam&oacute;n picado en trocitos.<br/>Se rellenan los pimientos con esta farsa.<br/>Se pasan por harina y huevo batido y se fr&iacute;en en abundante aceite.<br/>Se colocan en una cazuela de barro o similar y se vierte por encima salsa espa&ntilde;ola.<br/>Se dejan cocer una media hora y se sirven.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+100 grs. de jam&oacute;n o bacon
+
+1/2 kg. de carne picada
+
+1 lata de pimientos del piquillo
+
+un trozo de cebolla
+
+sal, ajo perejil
+
+harina y huevo para rebozar
+
+<h3>Preparaci&oacute;n</h3>
+
+
+En una sart&eacute;n con aceite se pone la cebolla, ajo y perejil muy picados, a rehogar.
+
+Cuando est&eacute; dorado se echa la carne picada y se rehoga, hasta que est&eacute; un poco hecha, momento en el que se retira.
+
+Se mezcla con el jam&oacute;n picado en trocitos.
+
+Se rellenan los pimientos con esta farsa.
+
+Se pasan por harina y huevo batido y se fr&iacute;en en abundante aceite.
+
+Se colocan en una cazuela de barro o similar y se vierte por encima salsa espa&ntilde;ola.
+
+Se dejan cocer una media hora y se sirven.
+

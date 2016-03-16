@@ -11,4 +11,49 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-73284857108041010
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pimientos-rellenos-de-chatka.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 lata y media de pimientos del piquillo<br/>250 grs. chatka (sirven tambi&eacute;n palitos de surimi)<br/>3 cebollas<br/>1 zanahoria<br/>1 puerro<br/>1 diente de ajo, perejil<br/>1 chorrito de co&ntilde;ac<br/>250 grs. nata l&iacute;quida</p><h3>Preparaci&oacute;n</h3><p>Rehogar la cebolla, zanahoria, puerro y ajo picados, en aceite de oliva.<br/>Reservar 1/4 del conjunto cuando empiece a dorarse.<br/>A&ntilde;adirle el chatka picado.<br/>Calentar el co&ntilde;ac (en el microondas 10 segundos), echar al relleno y prender fuego.<br/>Cuando se apague a&ntilde;adir la mitad de la nata y triturar.<br/>Poner la sal necesaria.<br/>Rellenar los pimientos menos 4 con la masa y reservar.<br/>Mezclar el refrito reservado con los 4 pimientos. Triturar.<br/>A&ntilde;adir la nata restante y un poco de agua si fuera necesario. Probar de sal y rectificar en caso de necesitarlo.<br/>Poner en una cazuela de barro o similar la salsa en el fondo y los pimientos rellenos, bien dispuestos sobre ella.<br/>Dejar hervir a fuego suave todo junto unos minutos y servir.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 lata y media de pimientos del piquillo
+
+250 grs. chatka (sirven tambi&eacute;n palitos de surimi)
+
+3 cebollas
+
+1 zanahoria
+
+1 puerro
+
+1 diente de ajo, perejil
+
+1 chorrito de co&ntilde;ac
+
+250 grs. nata l&iacute;quida
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Rehogar la cebolla, zanahoria, puerro y ajo picados, en aceite de oliva.
+
+Reservar 1/4 del conjunto cuando empiece a dorarse.
+
+A&ntilde;adirle el chatka picado.
+
+Calentar el co&ntilde;ac (en el microondas 10 segundos), echar al relleno y prender fuego.
+
+Cuando se apague a&ntilde;adir la mitad de la nata y triturar.
+
+Poner la sal necesaria.
+
+Rellenar los pimientos menos 4 con la masa y reservar.
+
+Mezclar el refrito reservado con los 4 pimientos. Triturar.
+
+A&ntilde;adir la nata restante y un poco de agua si fuera necesario. Probar de sal y rectificar en caso de necesitarlo.
+
+Poner en una cazuela de barro o similar la salsa en el fondo y los pimientos rellenos, bien dispuestos sobre ella.
+
+Dejar hervir a fuego suave todo junto unos minutos y servir.
+

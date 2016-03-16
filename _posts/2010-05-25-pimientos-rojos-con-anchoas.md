@@ -11,4 +11,27 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-89046968153769930
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pimientos-rojos-con-anchoas.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 lata grande de pimientos del piquillo<br/>2 latas de anchoas de buena calidad<br/>sal<br/>aceite de oliva</p><h3>Preparaci&oacute;n</h3><p>Colocar los pimientos , extendidos, en un plato o fuente.<br/>Encima de cada un oponer una anchoa.<br/>Rociar con sal y aceite.<br/>Se puede servir.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 lata grande de pimientos del piquillo
+
+2 latas de anchoas de buena calidad
+
+sal
+
+aceite de oliva
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Colocar los pimientos , extendidos, en un plato o fuente.
+
+Encima de cada un oponer una anchoa.
+
+Rociar con sal y aceite.
+
+Se puede servir.
+

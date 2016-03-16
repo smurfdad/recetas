@@ -10,4 +10,36 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-13615157120183239
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/rape-currito.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>800 gr. de rape<br />8 almejas<br />4 gambas<br />2 huevos<br />3 dientes de ajo<br />1 rama de perejil<br />30 gr. de harina<br />aceite<br />sal<br />100 gr. de guisantes desgranados<br />2 ó 3 espárragos por ración<br />1 chorrito de jerez seco agua<br /><h3>Preparación</h3>Cocer los espárragos y reservar el agua. Una vez limpio el rape, se corta en rodajas si es pequeño o se toman los lomos si es grande.<br />En una cazuela de barro con aceite y los ajos, puesto al fuego vivo de plancha, se echa la harina y el agua de cocer los espárragos. Se añaden las almejas y las gambas enteras, punto de sal y un chorrito de jerez seco. Se muevo la cazuela con cierta regularidad, hasta que se vaya espesando la salsa.<br />Los trozos de rape se empanan con harina y huevo. Se fríen en una sartén, con abundante aceite hirviendo. Se escurren y se añaden a la cazuela de barro con la salsa y, cuando empiece a hervir, se deja durante 5 ó 6 minutos. Se añaden los guisantes cocidos y los espárragos troceados y el perejil picado. Se sirve a continuación
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+800 gr. de rape
+
+8 almejas
+
+4 gambas
+
+2 huevos
+
+3 dientes de ajo
+
+1 rama de perejil
+
+30 gr. de harina
+
+aceite
+
+sal
+
+100 gr. de guisantes desgranados
+
+2 ó 3 espárragos por ración
+
+1 chorrito de jerez seco agua
+
+<h3>Preparación</h3>
+Cocer los espárragos y reservar el agua. Una vez limpio el rape, se corta en rodajas si es pequeño o se toman los lomos si es grande.
+
+En una cazuela de barro con aceite y los ajos, puesto al fuego vivo de plancha, se echa la harina y el agua de cocer los espárragos. Se añaden las almejas y las gambas enteras, punto de sal y un chorrito de jerez seco. Se muevo la cazuela con cierta regularidad, hasta que se vaya espesando la salsa.
+
+Los trozos de rape se empanan con harina y huevo. Se fríen en una sartén, con abundante aceite hirviendo. Se escurren y se añaden a la cazuela de barro con la salsa y, cuando empiece a hervir, se deja durante 5 ó 6 minutos. Se añaden los guisantes cocidos y los espárragos troceados y el perejil picado. Se sirve a continuación

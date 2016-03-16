@@ -10,4 +10,23 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-53424590682901115
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/espaguetis-la-napolitana.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1/2 kilo de espaguetis<br/>50 gr mantequilla<br/>3/4 litro de salsa de tomate<br/></p><h3>Preparaci&oacute;n</h3><p>Cocer la pasta como en las recetas anteriores.<br/>Una vez cocida y fr&iacute;a, saltearla a fuego vivo con la mantequilla.<br/>Ba&ntilde;ar con la salsa de tomate y dejar cocer unos minutos.<br/></p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1/2 kilo de espaguetis
+
+50 gr mantequilla
+
+3/4 litro de salsa de tomate
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cocer la pasta como en las recetas anteriores.
+
+Una vez cocida y fr&iacute;a, saltearla a fuego vivo con la mantequilla.
+
+Ba&ntilde;ar con la salsa de tomate y dejar cocer unos minutos.
+

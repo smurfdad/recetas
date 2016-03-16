@@ -10,4 +10,38 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-22095535235707502
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pudin-de-carne-picada.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>750 grs. de carne picada<br />1/2 kg. de salsa de tomate<br />1 cebolla<br />1 diente de ajo<br />4 huevos<br />3 cucharadas de puré de patatas espeso<br />1 chorrito de vino blanco<br />1 vaso de vino, de aceite<br />perejil, pimienta, sal<br /><h3>Preparación</h3>Poner en una sartén a rehogar, la cebolla, ajo y perejil picados.<br />Cuando la cebolla esté hecha pero sin dorarse, añadir la carne, sal, pimienta y vino blanco hasta que se haga.<br />Añadir la salsa de tomate, puré de patatas y por último los huevos, batidos, uno a uno.<br />Se coloca en un molde untado de mantequilla y forrado el fondo de papel de aluminio (también untado de mantequilla).<br />Meter al horno fuerte una media hora.<br />Mirar si está hecho, pinchándolo con una aguja larga.<br />Servir acompañado de puré de patata o de tomate.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+750 grs. de carne picada
+
+1/2 kg. de salsa de tomate
+
+1 cebolla
+
+1 diente de ajo
+
+4 huevos
+
+3 cucharadas de puré de patatas espeso
+
+1 chorrito de vino blanco
+
+1 vaso de vino, de aceite
+
+perejil, pimienta, sal
+
+<h3>Preparación</h3>
+Poner en una sartén a rehogar, la cebolla, ajo y perejil picados.
+
+Cuando la cebolla esté hecha pero sin dorarse, añadir la carne, sal, pimienta y vino blanco hasta que se haga.
+
+Añadir la salsa de tomate, puré de patatas y por último los huevos, batidos, uno a uno.
+
+Se coloca en un molde untado de mantequilla y forrado el fondo de papel de aluminio (también untado de mantequilla).
+
+Meter al horno fuerte una media hora.
+
+Mirar si está hecho, pinchándolo con una aguja larga.
+
+Servir acompañado de puré de patata o de tomate.

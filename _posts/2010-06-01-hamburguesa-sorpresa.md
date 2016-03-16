@@ -10,4 +10,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-53386274056176895
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/hamburguesa-sorpresa.html
 ---
 
-<h3>Ingredientes</h3>300grs. de carne de ternera picada<br />250grs. de queso<br />1 huevo<br />1 cebolleta y 1 ajo<br />aceitunas rellenas<br />salsa de tomate, aceite y sal<br />perejil y calabacin<br /><h3>Preparación</h3>Picamos la cebolla, el ajo y el perejil. Hacemos las hamburguesas mezclando<br />estos ingredientes con la carne picada y el huevo crudo, y procuramos que<br />su tamaño sea grande. Entonces, hacemos un agujero en el centro e introducimos<br />una bolita hecha con queso y las aceitunas, que ya habremos picado. Cerramos<br />el agujero rellando con carne de las hamburguesas y la ponemos a freir despacio, para que se vayan haciendo por dentro. Mientras que freimos iremos dandole<br />la vuelta. Para guarnicion podemos colocar unas lonchas de calabacin fritas y salsa de tomate.
+<h3>Ingredientes</h3>
+300grs. de carne de ternera picada
+
+250grs. de queso
+
+1 huevo
+
+1 cebolleta y 1 ajo
+
+aceitunas rellenas
+
+salsa de tomate, aceite y sal
+
+perejil y calabacin
+
+<h3>Preparación</h3>
+Picamos la cebolla, el ajo y el perejil. Hacemos las hamburguesas mezclando
+
+estos ingredientes con la carne picada y el huevo crudo, y procuramos que
+
+su tamaño sea grande. Entonces, hacemos un agujero en el centro e introducimos
+
+una bolita hecha con queso y las aceitunas, que ya habremos picado. Cerramos
+
+el agujero rellando con carne de las hamburguesas y la ponemos a freir despacio, para que se vayan haciendo por dentro. Mientras que freimos iremos dandole
+
+la vuelta. Para guarnicion podemos colocar unas lonchas de calabacin fritas y salsa de tomate.

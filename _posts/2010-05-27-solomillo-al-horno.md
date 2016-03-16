@@ -10,4 +10,31 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-56613365380063040
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/solomillo-al-horno.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>6 filetes de solomillo muy gruesos<br/>6 lonchas de bacon<br/>aceite, sal, pimienta</p><h3>Preparaci&oacute;n</h3><p>Enrollar una loncha de bacon en cada filete de solomillo, sujet&aacute;ndolo con un palillo.<br/>Ponerlos en una bandeja de horno, untados con aceite y espolvoreados con sal y pimienta molida.<br/>Calentar mucho el horno.<br/>Poner el grill al horno y meter los solomillos que queden muy cerca de la resistencia del grill para que se doren.<br/>Tenerlos 5 minutos por un lado y otros cinco por el otro.<br/>Mirar si est&aacute;n suficientemente hechos. Tiene que quedar rosados por dentro.<br/>Colocarlos en una bandeja de servir, acompa&ntilde;ados de patatas fritas y aparte las salsas que se deseen. Roquefort, setas, etc.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+6 filetes de solomillo muy gruesos
+
+6 lonchas de bacon
+
+aceite, sal, pimienta
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Enrollar una loncha de bacon en cada filete de solomillo, sujet&aacute;ndolo con un palillo.
+
+Ponerlos en una bandeja de horno, untados con aceite y espolvoreados con sal y pimienta molida.
+
+Calentar mucho el horno.
+
+Poner el grill al horno y meter los solomillos que queden muy cerca de la resistencia del grill para que se doren.
+
+Tenerlos 5 minutos por un lado y otros cinco por el otro.
+
+Mirar si est&aacute;n suficientemente hechos. Tiene que quedar rosados por dentro.
+
+Colocarlos en una bandeja de servir, acompa&ntilde;ados de patatas fritas y aparte las salsas que se deseen. Roquefort, setas, etc.
+

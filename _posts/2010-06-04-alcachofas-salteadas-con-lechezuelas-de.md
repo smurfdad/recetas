@@ -11,4 +11,28 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-59681840198352963
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alcachofas-salteadas-con-lechezuelas-de.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 1/2 kilo alcachofas<br />1/2 kilo lechezuelas<br />8 dientes de ajo<br />harina<br />50 gr jamón serrano<br />perejil<br /><br /><h3>Preparación</h3>Cocer las alcachofas. Una vez cocidas se pone una cazuela con aceite y los ajos picados finos y el jamón.<br />Rehogar bien y añadir una cucharada de harina. Agregar las alcachofas y parte del caldo de cocción dejando hervir cinco minutos.<br />Trocear las lechezuelas y freír bien con el resto de los ajos y perejil.<br />Una vez fritas, poner las lechezuelas en el centro, con las alcachofas alrededor y dejar dos o tres minutos más al fuego.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 1/2 kilo alcachofas
+
+1/2 kilo lechezuelas
+
+8 dientes de ajo
+
+harina
+
+50 gr jamón serrano
+
+perejil
+
+
+
+<h3>Preparación</h3>
+Cocer las alcachofas. Una vez cocidas se pone una cazuela con aceite y los ajos picados finos y el jamón.
+
+Rehogar bien y añadir una cucharada de harina. Agregar las alcachofas y parte del caldo de cocción dejando hervir cinco minutos.
+
+Trocear las lechezuelas y freír bien con el resto de los ajos y perejil.
+
+Una vez fritas, poner las lechezuelas en el centro, con las alcachofas alrededor y dejar dos o tres minutos más al fuego.

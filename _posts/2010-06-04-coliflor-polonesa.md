@@ -10,4 +10,34 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-14556132125454420
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/coliflor-polonesa.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 coliflor grande<br />3 huevos<br />4 rodajas de pan<br />perejil<br /><br /><h3>Preparación</h3>Limpiar y cortar la coliflor.<br />Poner una cazuela al fuego con agua y sal.<br />Cuando rompa a hervir, echar la coliflor y dejar que se cueza.<br />Una vez cocida, escurrirla y ponerla sobre una placa de horno, previamente untada con mantequilla.<br />Cortar el pan en cuadraditos y freírlos.<br />Pelar los huevos y picarlos finos.<br />Echar en cima de la coliflor, los costrones, el huevo y el perejil.<br />Meter a horno medio cinco minutos.<br />Cuando la coliflor este caliente, sacar y servir.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 coliflor grande
+
+3 huevos
+
+4 rodajas de pan
+
+perejil
+
+
+
+<h3>Preparación</h3>
+Limpiar y cortar la coliflor.
+
+Poner una cazuela al fuego con agua y sal.
+
+Cuando rompa a hervir, echar la coliflor y dejar que se cueza.
+
+Una vez cocida, escurrirla y ponerla sobre una placa de horno, previamente untada con mantequilla.
+
+Cortar el pan en cuadraditos y freírlos.
+
+Pelar los huevos y picarlos finos.
+
+Echar en cima de la coliflor, los costrones, el huevo y el perejil.
+
+Meter a horno medio cinco minutos.
+
+Cuando la coliflor este caliente, sacar y servir.

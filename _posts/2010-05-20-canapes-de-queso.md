@@ -11,4 +11,29 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-64114397418971871
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/canapes-de-queso.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>1 pan de molde<br/>4 huevos<br/>1 caja porciones de queso<br/>50 grs. mantequilla<br/>un poco de sal</p><h2>Preparaci&oacute;n</h2><p>Se parte el pan en forma de tri&aacute;ngulo. Despu&eacute;s de untarlo con mantequilla se pone a tostar.<br/>Se baten los huevos como para tortilla y se a&ntilde;ade la mantequilla y el queso, tritur&aacute;ndolo todo junto.<br/>Se pone en un cazo al fuego hasta que se ponga espeso.<br/>Se retira del fuego y se cubre con esta crema los trozos de pan tostado.<br/>Se espolvorean con queso rallado y se meten a horno fuerte a que se calienten.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+1 pan de molde
+
+4 huevos
+
+1 caja porciones de queso
+
+50 grs. mantequilla
+
+un poco de sal
+
+<h3>Preparaci&oacute;n</h3>
+
+Se parte el pan en forma de tri&aacute;ngulo. Despu&eacute;s de untarlo con mantequilla se pone a tostar.
+
+Se baten los huevos como para tortilla y se a&ntilde;ade la mantequilla y el queso, tritur&aacute;ndolo todo junto.
+
+Se pone en un cazo al fuego hasta que se ponga espeso.
+
+Se retira del fuego y se cubre con esta crema los trozos de pan tostado.
+
+Se espolvorean con queso rallado y se meten a horno fuerte a que se calienten.
+

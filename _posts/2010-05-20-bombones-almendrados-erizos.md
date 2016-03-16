@@ -10,4 +10,25 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-66606382366901060
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/bombones-almendrados-erizos.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>1/2 kg. de cobertura de chocolate o suced&aacute;neo<br/>250 grs. de avellanas, nueces o almendras troceadas<br/>100 grs. de crispis (trigo inflado)</p><h2>Preparaci&oacute;n</h2><p>Deshacer el chocolate al ba&ntilde;o mar&iacute;a en fuego suave.<br/>A&ntilde;adir las avellanas y mezclar bien.<br/>A&ntilde;adir los cereales y mezclar r&aacute;pido y bien.<br/>Extender un pl&aacute;stico limpio en la mesa e ir colocando montoncitos, que se van cogiendo con una cuchara de la mezcla de chocolate.<br/>Dejar enfriar hasta que queden duros y ya se pueden guardar.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+1/2 kg. de cobertura de chocolate o suced&aacute;neo
+
+250 grs. de avellanas, nueces o almendras troceadas
+
+100 grs. de crispis (trigo inflado)
+
+<h3>Preparaci&oacute;n</h3>
+
+Deshacer el chocolate al ba&ntilde;o mar&iacute;a en fuego suave.
+
+A&ntilde;adir las avellanas y mezclar bien.
+
+A&ntilde;adir los cereales y mezclar r&aacute;pido y bien.
+
+Extender un pl&aacute;stico limpio en la mesa e ir colocando montoncitos, que se van cogiendo con una cuchara de la mezcla de chocolate.
+
+Dejar enfriar hasta que queden duros y ya se pueden guardar.
+

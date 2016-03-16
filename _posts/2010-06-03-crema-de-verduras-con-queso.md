@@ -11,4 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-18368291437470314
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/crema-de-verduras-con-queso.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 litro y 1/2 de agua<br />200 gr alubia verde<br />1 puerro<br />1 zanahoria<br />1 patata<br />200 gr de espinacas<br />3 quesitos en porciones<br /><br /><h3>Preparación</h3>Se pone el agua en una cazuela y cuando empiece a hervir se echa poco a poco las verduras.<br />Dejarlas hervir hasta que estén bien cocidas.<br />Sazonarla, agregar los quesitos y pasarla por la batidora.<br />Servir.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 litro y 1/2 de agua
+
+200 gr alubia verde
+
+1 puerro
+
+1 zanahoria
+
+1 patata
+
+200 gr de espinacas
+
+3 quesitos en porciones
+
+
+
+<h3>Preparación</h3>
+Se pone el agua en una cazuela y cuando empiece a hervir se echa poco a poco las verduras.
+
+Dejarlas hervir hasta que estén bien cocidas.
+
+Sazonarla, agregar los quesitos y pasarla por la batidora.
+
+Servir.

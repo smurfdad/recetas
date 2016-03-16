@@ -10,4 +10,43 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-19199343525560774
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/merluza-en-lomos-la-vizcaina.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 1/2 kg. de merluza en lomos gruesos<br/>1/4 de litro de fumet hecho con las espinas y pieles<br/>1/4 de kg. de almejas<br/>2 cucharaditas de pulpa de pimiento choricero (puede ser comprado envasado)<br/>3 ajos<br/>1 ramita de perejil<br/>1 cucharada de harina<br/>sal, aceite de oliva</p><h3>Preparaci&oacute;n</h3><p>Hacer un fumet, cociendo agua, vino blanco, un poquito de aceite, sal, alguna verdura (puerro, cebolla, perejil, ajo) y las espinas cabezas y pieles de la merluza.<br/>Abrir las almejas en una cazuela al fuego fuerte con un poco de agua y reservar.<br/>Poner una cazuela de barro o similar al fuego con un poco de aceite y los ajos finamente picados.<br/>Cuando a&uacute;n est&eacute;n blancos, y sin llegar a dorarse, a&ntilde;adir la harina y revolver bien teniendo cuidado de que no llegue a tostarse.<br/>Echar parte del fumet y el caldo de las almejas, poco, para que quede espeso.<br/>Cuando hierva un poco, a fuego suave, echar la pulpa de pimiento choricero y dejar hervir otro poquito.<br/>Poner los lomos de la merluza, previamente salados, y a los 2 minutos darles la vuelta.<br/>A&ntilde;adir las almejas ya abiertas. Dejar 2 minutos m&aacute;s y servir.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 1/2 kg. de merluza en lomos gruesos
+
+1/4 de litro de fumet hecho con las espinas y pieles
+
+1/4 de kg. de almejas
+
+2 cucharaditas de pulpa de pimiento choricero (puede ser comprado envasado)
+
+3 ajos
+
+1 ramita de perejil
+
+1 cucharada de harina
+
+sal, aceite de oliva
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Hacer un fumet, cociendo agua, vino blanco, un poquito de aceite, sal, alguna verdura (puerro, cebolla, perejil, ajo) y las espinas cabezas y pieles de la merluza.
+
+Abrir las almejas en una cazuela al fuego fuerte con un poco de agua y reservar.
+
+Poner una cazuela de barro o similar al fuego con un poco de aceite y los ajos finamente picados.
+
+Cuando a&uacute;n est&eacute;n blancos, y sin llegar a dorarse, a&ntilde;adir la harina y revolver bien teniendo cuidado de que no llegue a tostarse.
+
+Echar parte del fumet y el caldo de las almejas, poco, para que quede espeso.
+
+Cuando hierva un poco, a fuego suave, echar la pulpa de pimiento choricero y dejar hervir otro poquito.
+
+Poner los lomos de la merluza, previamente salados, y a los 2 minutos darles la vuelta.
+
+A&ntilde;adir las almejas ya abiertas. Dejar 2 minutos m&aacute;s y servir.
+

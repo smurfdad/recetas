@@ -10,4 +10,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-41671624170695307
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pudin-de-chatka.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1/2 kg. chatka (o palitos de surimi)<br />1 bote de leche evaporada<br />3 huevos<br />1/4 mayonesa<br /><h3>Preparación</h3>Triturar con la batidora todos los ingredientes menos la mayonesa.<br />Llenar con la mezcla un molde, previamente untado con mantequilla y espolvoreado con pan rallado.<br />Meter al horno, a fuego medio, al baño maría, unos 45 minutos.<br />Desmoldear y adornarcon mayonesa y lechuga.<br />Se puede tomar frío.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1/2 kg. chatka (o palitos de surimi)
+
+1 bote de leche evaporada
+
+3 huevos
+
+1/4 mayonesa
+
+<h3>Preparación</h3>
+Triturar con la batidora todos los ingredientes menos la mayonesa.
+
+Llenar con la mezcla un molde, previamente untado con mantequilla y espolvoreado con pan rallado.
+
+Meter al horno, a fuego medio, al baño maría, unos 45 minutos.
+
+Desmoldear y adornarcon mayonesa y lechuga.
+
+Se puede tomar frío.

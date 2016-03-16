@@ -11,4 +11,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-35514459847201733
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/sopa-minestrone.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>2 dientes de ajo<br />1 pimiento verde grande<br />2 tomates maduros sin piel<br />sal<br />aceite<br />1 y 1/2 litro de agua<br />codillos<br /><br /><h3>Preparación</h3>Poner las verduras ya picadas en una cazuela con un poco de aceite y dejar que se vayan rehogando.<br />Una vez echas agregar el agua y cuando esta este hirviendo, agregar la pasta, dejándola cocer hasta que este echa.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+2 dientes de ajo
+
+1 pimiento verde grande
+
+2 tomates maduros sin piel
+
+sal
+
+aceite
+
+1 y 1/2 litro de agua
+
+codillos
+
+
+
+<h3>Preparación</h3>
+Poner las verduras ya picadas en una cazuela con un poco de aceite y dejar que se vayan rehogando.
+
+Una vez echas agregar el agua y cuando esta este hirviendo, agregar la pasta, dejándola cocer hasta que este echa.

@@ -10,4 +10,33 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-79081483641811266
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alubia-verde-con-patatas.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 kilo alubia verde<br/>1 cebolla<br/>3 dientes de ajo<br/>1 tomate maduro<br/>4 patatas medianas<br/>agua<br/>sal<br/></p><h3>Preparaci&oacute;n</h3><p>Picar muy fina la cebolla y el ajo y rehogar con un poco de aceite.<br/>Una vez echo, a&ntilde;adir el tomate pelado y troceado d&aacute;ndole unas vueltas.<br/>Agregar las alubias ya troceadas y las patatas peladas y cortadas a mordiscos.<br/>Cubrir de agua y dejar hervir hasta que este todo cocido. Sazonar con sal.<br/></p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 kilo alubia verde
+
+1 cebolla
+
+3 dientes de ajo
+
+1 tomate maduro
+
+4 patatas medianas
+
+agua
+
+sal
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Picar muy fina la cebolla y el ajo y rehogar con un poco de aceite.
+
+Una vez echo, a&ntilde;adir el tomate pelado y troceado d&aacute;ndole unas vueltas.
+
+Agregar las alubias ya troceadas y las patatas peladas y cortadas a mordiscos.
+
+Cubrir de agua y dejar hervir hasta que este todo cocido. Sazonar con sal.
+

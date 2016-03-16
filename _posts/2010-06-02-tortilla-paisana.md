@@ -11,4 +11,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-50620982543110496
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/tortilla-paisana.html
 ---
 
-Para 1 personas.<br /><h3>Ingredientes</h3>1 cucharada de cebolla<br />1 cucharada de guisantes<br />1 cucharada de pimiento morón<br />1 cucharada de salsa de tomate<br />1 patata pequeña<br />2 huevos<br /><br /><h3>Preparación</h3>Pelar y cortar la patata, poniéndola al fuego a hacer despacio, cuando este casi echa, agregar el resto de los ingredientes, dejándolos hacer.<br />Batir los huevos, agregar los ingredientes y hacer la tortilla.
+Para 1 personas.
+
+<h3>Ingredientes</h3>
+1 cucharada de cebolla
+
+1 cucharada de guisantes
+
+1 cucharada de pimiento morón
+
+1 cucharada de salsa de tomate
+
+1 patata pequeña
+
+2 huevos
+
+
+
+<h3>Preparación</h3>
+Pelar y cortar la patata, poniéndola al fuego a hacer despacio, cuando este casi echa, agregar el resto de los ingredientes, dejándolos hacer.
+
+Batir los huevos, agregar los ingredientes y hacer la tortilla.

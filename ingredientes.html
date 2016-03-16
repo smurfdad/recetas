@@ -33,13 +33,13 @@ Here we generate all the tags.
 
 <ul class="list-inline">
 {% for tag in tags %}
-<li><a href="#{{ tag | slugify }}"> {{ tag }} </a> &nbsp;&nbsp;</li>
+<li><a href="#{{ tag | slugify }}"> {{ tag | capitalize}} </a> &nbsp;&nbsp;</li>
 {% endfor %}
 </ul>
 
 {% for tag in tags %}
 <div class="bs-callout bs-callout-info text-justify" id="{{ tag | slugify }}">
-<h3>{{ tag }}</h3>
+<h3>{{ tag | capitalize }}</h3>
 <ul class="list-unstyled">
   {% for post in site.posts %}
     {% if post.tags contains tag %}

@@ -11,4 +11,29 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-33049885231600604
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/ensalada-de-pimientos.html
 ---
 
-Para 4 personas.<br><h3>Ingredientes</h3><p>Pimiento verde 500 grs<br/>Pimiento rojo 500 grs<br/>Aceite de oliva 6 cucharadas<br/>Ajo 3<br/>Perejil<br/>Sal</p><h3>Preparaci&oacute;n</h3><p>Lave los pimientos parti&eacute;ndolos por la mitad y quit&aacute;ndole las pepitas.<br/>A continuaci&oacute;n c&oacute;rtelos en tiras finas. Caliente tres cucharadas de aceite y fr&iacute;a en &eacute;l el ajo picado y las tiras de pimiento.<br/>Despu&eacute;s al&iacute;&ntilde;elo con la sal, el perejil, el ajo y el aceite. D&eacute;jelo reposar durante una hora y s&iacute;rvalo.</p>
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+
+Pimiento verde 500 grs
+
+Pimiento rojo 500 grs
+
+Aceite de oliva 6 cucharadas
+
+Ajo 3
+
+Perejil
+
+Sal
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Lave los pimientos parti&eacute;ndolos por la mitad y quit&aacute;ndole las pepitas.
+
+A continuaci&oacute;n c&oacute;rtelos en tiras finas. Caliente tres cucharadas de aceite y fr&iacute;a en &eacute;l el ajo picado y las tiras de pimiento.
+
+Despu&eacute;s al&iacute;&ntilde;elo con la sal, el perejil, el ajo y el aceite. D&eacute;jelo reposar durante una hora y s&iacute;rvalo.
+

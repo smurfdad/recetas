@@ -10,4 +10,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-27184559431310268
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/cebollas-la-nizarda.html
 ---
 
-<h3>Ingredientes</h3>4 manojos de cebollas tiernas.<br />4 tomates.<br />3 cucharadas de vinagre.<br />4 cucharadas de aceite de oliva.<br />1/2 cucharadita de Azúcar.<br />50 grs. de uvas pasas.<br />Perejil, pimienta, tomillo, laurel y sal.<br /><h3>Preparación</h3>Echar en una cazuela las cebolletas peladas y lavadas, el tomate rallado y los demás ingredientes.<br />Hervir tapado una media hora a fuego mínimo.<br />Se puede servir frío o caliente.
+<h3>Ingredientes</h3>
+4 manojos de cebollas tiernas.
+
+4 tomates.
+
+3 cucharadas de vinagre.
+
+4 cucharadas de aceite de oliva.
+
+1/2 cucharadita de Azúcar.
+
+50 grs. de uvas pasas.
+
+Perejil, pimienta, tomillo, laurel y sal.
+
+<h3>Preparación</h3>
+Echar en una cazuela las cebolletas peladas y lavadas, el tomate rallado y los demás ingredientes.
+
+Hervir tapado una media hora a fuego mínimo.
+
+Se puede servir frío o caliente.

@@ -10,4 +10,35 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-14020248075350400
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/bizcochitos-de-almendra-al-conac.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>150 grs. de az&uacute;car<br/>150 grs. de mantequilla<br/>4 huevos<br/>150 grs. de harina<br/>1 cucharada de royal<br/>2 copas de co&ntilde;ac<br/>100 grs de almendra<br/>tostada y picada</p><h2>Preparaci&oacute;n</h2><p>Batir los huevos enteros con el az&uacute;car hasta que est&eacute;n esponjosos.<br/>A&ntilde;adir, sin batir, la harina mezclada con el royal.<br/>Por &uacute;ltimo la mantequilla derretida, el co&ntilde;ac y la almendra bien molida.<br/>Poner en c&aacute;psulas de papel llenas hasta la mitad.<br/>Espolvorear con la almendra picada y meter al horno.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+150 grs. de az&uacute;car
+
+150 grs. de mantequilla
+
+4 huevos
+
+150 grs. de harina
+
+1 cucharada de royal
+
+2 copas de co&ntilde;ac
+
+100 grs de almendra
+
+tostada y picada
+
+<h3>Preparaci&oacute;n</h3>
+
+Batir los huevos enteros con el az&uacute;car hasta que est&eacute;n esponjosos.
+
+A&ntilde;adir, sin batir, la harina mezclada con el royal.
+
+Por &uacute;ltimo la mantequilla derretida, el co&ntilde;ac y la almendra bien molida.
+
+Poner en c&aacute;psulas de papel llenas hasta la mitad.
+
+Espolvorear con la almendra picada y meter al horno.
+

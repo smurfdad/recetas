@@ -10,4 +10,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-89484230311989504
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pollo-hortelano.html
 ---
 
-<h3>Ingredientes</h3>Un pollo<br />un pimiento<br />250 gr. de tomates<br />una cebolla<br />un ajo<br />una ramita de perejil<br />un vasito de vino blanco<br /><h3>Preparación</h3>Se parte y se fríe el pollo. Se saca del aceite y se pone en una cazuela. Se fríen la cebolla y el pimiento que se añaden al pollo. Se pelan los tomates, se parten en trocitos y se echan también sobre el pollo, rehogando todo.<br /><br />Se machaca el ajo y el perejil y, con el vino, se agregan al pollo. Se le añade un vaso grande de agua y se deja cocer durante 30 minutos.
+<h3>Ingredientes</h3>
+Un pollo
+
+un pimiento
+
+250 gr. de tomates
+
+una cebolla
+
+un ajo
+
+una ramita de perejil
+
+un vasito de vino blanco
+
+<h3>Preparación</h3>
+Se parte y se fríe el pollo. Se saca del aceite y se pone en una cazuela. Se fríen la cebolla y el pimiento que se añaden al pollo. Se pelan los tomates, se parten en trocitos y se echan también sobre el pollo, rehogando todo.
+
+
+
+Se machaca el ajo y el perejil y, con el vino, se agregan al pollo. Se le añade un vaso grande de agua y se deja cocer durante 30 minutos.

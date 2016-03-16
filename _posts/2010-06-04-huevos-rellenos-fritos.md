@@ -11,4 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-45308233688160916
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/huevos-rellenos-fritos.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>6 huevos<br />2 latas pequeñas de atún en aceite<br />4 cucharadas soperas de tomate<br />harina<br />huevo<br />pan rallado<br /><br /><h3>Preparación</h3>Cocer los huevos con agua, sal y vinagre.<br />Una vez cocidos y fríos, pelarlos y cortarlos por la mitad, extrayendo la yema.<br />Picar la yema junto con el atún y mezclar bien con el tomate.<br />Rellenar con esta farsa los huevos, pasarlos por harina, huevo y pan rallado y freírlos.<br />Servir un huevo y medio por persona.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+6 huevos
+
+2 latas pequeñas de atún en aceite
+
+4 cucharadas soperas de tomate
+
+harina
+
+huevo
+
+pan rallado
+
+
+
+<h3>Preparación</h3>
+Cocer los huevos con agua, sal y vinagre.
+
+Una vez cocidos y fríos, pelarlos y cortarlos por la mitad, extrayendo la yema.
+
+Picar la yema junto con el atún y mezclar bien con el tomate.
+
+Rellenar con esta farsa los huevos, pasarlos por harina, huevo y pan rallado y freírlos.
+
+Servir un huevo y medio por persona.

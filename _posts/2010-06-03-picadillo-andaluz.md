@@ -11,4 +11,28 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-63204021423953670
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/picadillo-andaluz.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>4 tomates de ensalada medianos<br />1 cebolla mediana<br />3 pimientos verdes medianos<br />3 huevos duros<br />aceite<br />vinagre<br />sal<br /><br /><h3>Preparación</h3>Cortar en dados, los tomates, la cebolla, el pimiento verde y los huevos.<br />Disponerla sobre una fuente, aderezar con sal, vinagre y aceite.<br />Mezclar bien y mantener en él frigorífico hasta la hora de servir.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+4 tomates de ensalada medianos
+
+1 cebolla mediana
+
+3 pimientos verdes medianos
+
+3 huevos duros
+
+aceite
+
+vinagre
+
+sal
+
+
+
+<h3>Preparación</h3>
+Cortar en dados, los tomates, la cebolla, el pimiento verde y los huevos.
+
+Disponerla sobre una fuente, aderezar con sal, vinagre y aceite.
+
+Mezclar bien y mantener en él frigorífico hasta la hora de servir.

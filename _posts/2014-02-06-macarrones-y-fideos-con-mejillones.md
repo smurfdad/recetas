@@ -11,4 +11,42 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-85753134497663354
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/macarrones-y-fideos-con-mejillones.html
 ---
 
-Para 6 personas.<br><b>Tiempo</b> 60 minutos.<br><h3>Ingredientes</h3><p>fideos, 100 gr.<br/>macarrones, 100 gr.<br/>mejillones, 4 kg.<br/>agua,<br/>sal,<br/>cebolla, 1<br/>ajo, 2 dientes<br/>tomate, 1<br/>pan rallado,<br/>perejil,<br/>aceite,</p><h3>Preparaci&oacute;n</h3><p>En una cazuela se dora la cebolla, ajo, perejil y un tomate, todo muy picado. Una vez dorado se a&ntilde;ade un poco de pan rallado. Un poco del agua de la cocci&oacute;n de los mejillones se agrega a la cazuela. Al momento de empezar a hervir, se le a&ntilde;ade la pasta, pimiento y azafr&aacute;n. Cuando la pasta est&eacute; a punto se incorporan los mejillones ya cocidos y media hoja de laurel. Se sirven en la misma cazuela.<br/></p><h3>Observaciones</h3><p>Los mejillones se cuecen en muy poca agua.</p>
+Para 6 personas.
+
+<b>Tiempo</b> 60 minutos.
+
+<h3>Ingredientes</h3>
+
+
+fideos, 100 gr.
+
+macarrones, 100 gr.
+
+mejillones, 4 kg.
+
+agua,
+
+sal,
+
+cebolla, 1
+
+ajo, 2 dientes
+
+tomate, 1
+
+pan rallado,
+
+perejil,
+
+aceite,
+
+<h3>Preparaci&oacute;n</h3>
+
+
+En una cazuela se dora la cebolla, ajo, perejil y un tomate, todo muy picado. Una vez dorado se a&ntilde;ade un poco de pan rallado. Un poco del agua de la cocci&oacute;n de los mejillones se agrega a la cazuela. Al momento de empezar a hervir, se le a&ntilde;ade la pasta, pimiento y azafr&aacute;n. Cuando la pasta est&eacute; a punto se incorporan los mejillones ya cocidos y media hoja de laurel. Se sirven en la misma cazuela.
+
+<h3>Observaciones</h3>
+
+
+Los mejillones se cuecen en muy poca agua.
+

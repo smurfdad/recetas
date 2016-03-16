@@ -10,4 +10,22 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-88680926573679807
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pate-de-jamon.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>1/2 kg. jamón york<br />1 latita de anchoas<br />1 lata pequeña de paté<br />180 grs. mantequilla<br /><h3>Preparación</h3>Trocear el jamón y las anchoas.<br />Unirlo con la mantequilla y el paté, y después con las anchoas bien picaditas.<br />Se mezcla bien todo y se mete en un molde alargado untado de mantequilla.<br />Se aprieta bien y se mete a la nevera, tapado, unas dos horas.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+1/2 kg. jamón york
+
+1 latita de anchoas
+
+1 lata pequeña de paté
+
+180 grs. mantequilla
+
+<h3>Preparación</h3>
+Trocear el jamón y las anchoas.
+
+Unirlo con la mantequilla y el paté, y después con las anchoas bien picaditas.
+
+Se mezcla bien todo y se mete en un molde alargado untado de mantequilla.
+
+Se aprieta bien y se mete a la nevera, tapado, unas dos horas.

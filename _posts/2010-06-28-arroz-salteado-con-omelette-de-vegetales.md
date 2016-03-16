@@ -11,4 +11,28 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-15789081195731402
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/arroz-salteado-con-omelette-de-vegetales.html
 ---
 
-Para 7 personas.<br /><h3>Ingredientes</h3>3 cucharadas de aceite de girasol.<br />2 cebollas.<br />120 gms,. de guisantes (arvejas, petipois).<br />120 gms. de rebanadas de pastrami.<br />240 gms. de camarones pelados.<br />Sal y pimienta al gusto.<br />480 gms. de arroz de grano largo, cocido.<br />2 huevos.<br />1 pimiento verde (pimentón).<br />Mantequilla al gusto.<br /><h3>Preparación</h3>Caliente el aceite en una cazuela. Añada la cebolla cortada y sofría hasta que estén suaves. Vierta los guisantes descongelados y las rebanadas de pastrami, tape y cocina por 2 minutos. Añada el arroz y los camarones. Sazone y cocine durante 8 minutos, revolviendo. Caliente una sartén, engrase con un poco de mantequilla y vierta los 2 huevos batidos. Esparza el pimiento cortado en trocitos y cocine hasta que la tortilla esté bien firme. Córtela en rebanadas y ponga éstas encima del arroz.
+Para 7 personas.
+
+<h3>Ingredientes</h3>
+3 cucharadas de aceite de girasol.
+
+2 cebollas.
+
+120 gms,. de guisantes (arvejas, petipois).
+
+120 gms. de rebanadas de pastrami.
+
+240 gms. de camarones pelados.
+
+Sal y pimienta al gusto.
+
+480 gms. de arroz de grano largo, cocido.
+
+2 huevos.
+
+1 pimiento verde (pimentón).
+
+Mantequilla al gusto.
+
+<h3>Preparación</h3>
+Caliente el aceite en una cazuela. Añada la cebolla cortada y sofría hasta que estén suaves. Vierta los guisantes descongelados y las rebanadas de pastrami, tape y cocina por 2 minutos. Añada el arroz y los camarones. Sazone y cocine durante 8 minutos, revolviendo. Caliente una sartén, engrase con un poco de mantequilla y vierta los 2 huevos batidos. Esparza el pimiento cortado en trocitos y cocine hasta que la tortilla esté bien firme. Córtela en rebanadas y ponga éstas encima del arroz.

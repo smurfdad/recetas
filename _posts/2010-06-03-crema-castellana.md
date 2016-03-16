@@ -11,4 +11,30 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-36026466478191218
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/crema-castellana.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 cebolla mediana<br />3 dientes de ajo<br />2 tomates maduros<br />300 gr garbanzos(cocidos)<br />sal<br />1 litro de agua<br /><br /><h3>Preparación</h3>Picar muy fina la cebolla y el ajo, poniéndolo al fuego con un poco de aceite a rehogar despacio.<br />Una vez este la verdura, agregar los garbanzos, el agua y un poco de sal.<br />Dejar hervir un cuarto de hora.<br />Apartar del fuego, pasar por la batidora y el chino.<br />Servir en taza.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 cebolla mediana
+
+3 dientes de ajo
+
+2 tomates maduros
+
+300 gr garbanzos(cocidos)
+
+sal
+
+1 litro de agua
+
+
+
+<h3>Preparación</h3>
+Picar muy fina la cebolla y el ajo, poniéndolo al fuego con un poco de aceite a rehogar despacio.
+
+Una vez este la verdura, agregar los garbanzos, el agua y un poco de sal.
+
+Dejar hervir un cuarto de hora.
+
+Apartar del fuego, pasar por la batidora y el chino.
+
+Servir en taza.

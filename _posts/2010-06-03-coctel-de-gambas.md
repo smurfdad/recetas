@@ -10,4 +10,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-71972668405056023
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/coctel-de-gambas.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1/2 lechuga<br />1 kilo de gambas<br />salsa rosa<br /><br /><h3>Preparación</h3>Lavar la lechuga y escurrirla bien, picándola fina.<br />Cocer las gambas con agua y sal.<br />Una vez cocidas, enfriarlas bien y pelarlas.<br />Prepara cuatro boles individuales, cubriendo el fondo de estos con la lechuga, poner encima las gambas y cubrir todo bien con la salsa rosa.<br />Servir bien frío.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1/2 lechuga
+
+1 kilo de gambas
+
+salsa rosa
+
+
+
+<h3>Preparación</h3>
+Lavar la lechuga y escurrirla bien, picándola fina.
+
+Cocer las gambas con agua y sal.
+
+Una vez cocidas, enfriarlas bien y pelarlas.
+
+Prepara cuatro boles individuales, cubriendo el fondo de estos con la lechuga, poner encima las gambas y cubrir todo bien con la salsa rosa.
+
+Servir bien frío.

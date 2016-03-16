@@ -10,4 +10,38 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-40724852646806562
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/acelgas-en-escabeche.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 kilo de acelgas<br />1 hoja de laurel<br />1 diente de ajo<br />vinagre<br />sal<br />azafrán<br />harina<br />huevo<br /><br /><h3>Preparación</h3>Limpiar y trocear las acelgas.<br />Cortar en trozos solo la parte blanca y ponerla a cocer con agua y un poco de sal.<br />Una vez cocidas y escurridas, pasarlas por harina, huevo y freírlas.<br />A continuación colocar las acelgas en una fuente onda.<br />Añadir la hoja de laurel tostada y el ajo majado, junto con un chorrito de vinagre y una cucharadita de azafrán.<br />Agregar agua fría hasta cubrir todo bien.<br />Mantener en él frigorífico en maceración un mínimo de 12 horas.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 kilo de acelgas
+
+1 hoja de laurel
+
+1 diente de ajo
+
+vinagre
+
+sal
+
+azafrán
+
+harina
+
+huevo
+
+
+
+<h3>Preparación</h3>
+Limpiar y trocear las acelgas.
+
+Cortar en trozos solo la parte blanca y ponerla a cocer con agua y un poco de sal.
+
+Una vez cocidas y escurridas, pasarlas por harina, huevo y freírlas.
+
+A continuación colocar las acelgas en una fuente onda.
+
+Añadir la hoja de laurel tostada y el ajo majado, junto con un chorrito de vinagre y una cucharadita de azafrán.
+
+Agregar agua fría hasta cubrir todo bien.
+
+Mantener en él frigorífico en maceración un mínimo de 12 horas.

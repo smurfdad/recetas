@@ -10,4 +10,47 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-83598699186305381
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/berenjenas-rellenas-de-verduras.html
 ---
 
-Para 6 personas.<br><h2>Ingredientes</h2><p>3 berenjenas<br/>3 cebollas<br/>1 puerro<br/>1 zanahoria<br/>1/4 kg. champi&ntilde;ones o setas<br/>1 chorrito co&ntilde;ac<br/>3 lonchas de bacon<br/>nata (opcional)<br/>50 grs. queso rallado<br/>1 cucharada de pan rallado</p><h2>Preparaci&oacute;n</h2><p>Cortar las berenjenas por la mitad, a lo largo.<br/>Vaciarlas con cuidado y reservar la pulpa.<br/>Cocerlas en la olla r&aacute;pida 5 minutos (sin olla ser&aacute; m&aacute;s tiempo).<br/>Poner a rehogar la cebolla, puerro, bac&oacute;n, zanahoria, pulpa de las berenjenas y champi&ntilde;&oacute;n, todo troceado menudo, y con sal.<br/>Cuando est&aacute; a punto de dorarse, a&ntilde;adir el co&ntilde;ac caliente y prenderle fuego.<br/>Dejar cocer un poco y triturar con la batidora.<br/>Mezclar el pan rallado.<br/>A&ntilde;adir un poco de nata si gusta y rellenar con ello las berenjenas cocidas.<br/>Espolvorear con el queso rallado y meter al horno a gratinar.</p><br>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+3 berenjenas
+
+3 cebollas
+
+1 puerro
+
+1 zanahoria
+
+1/4 kg. champi&ntilde;ones o setas
+
+1 chorrito co&ntilde;ac
+
+3 lonchas de bacon
+
+nata (opcional)
+
+50 grs. queso rallado
+
+1 cucharada de pan rallado
+
+<h3>Preparaci&oacute;n</h3>
+
+Cortar las berenjenas por la mitad, a lo largo.
+
+Vaciarlas con cuidado y reservar la pulpa.
+
+Cocerlas en la olla r&aacute;pida 5 minutos (sin olla ser&aacute; m&aacute;s tiempo).
+
+Poner a rehogar la cebolla, puerro, bac&oacute;n, zanahoria, pulpa de las berenjenas y champi&ntilde;&oacute;n, todo troceado menudo, y con sal.
+
+Cuando est&aacute; a punto de dorarse, a&ntilde;adir el co&ntilde;ac caliente y prenderle fuego.
+
+Dejar cocer un poco y triturar con la batidora.
+
+Mezclar el pan rallado.
+
+A&ntilde;adir un poco de nata si gusta y rellenar con ello las berenjenas cocidas.
+
+Espolvorear con el queso rallado y meter al horno a gratinar.
+

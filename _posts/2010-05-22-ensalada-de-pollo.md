@@ -10,4 +10,27 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-23887833003377028
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/ensalada-de-pollo.html
 ---
 
-Para 8 personas.<br /><a name='more'></a><br /><h2>Ingredientes</h2><p>1 pollo asado y troceado en cuadraditos(tijera)<br />1 lata de pi&ntilde;a<br />250 grs mayonesa con 1 cucharadita de co&ntilde;ac y ketchup<br />1/2 yogur</p><h2>Preparaci&oacute;n</h2><p>Se trocea la pi&ntilde;a, menos unas rodajas para adornar.<br />Se mezcla con los cuadraditos de pollo y se a&ntilde;ade tambi&eacute;n un poco de jugo de la pi&ntilde;a.<br />Se tapa con la mayonesa a la que se ha a&ntilde;adido tambi&eacute;n un poco de jugo de la pi&ntilde;a y el medio yogur.<br />Se adorna con juliana de lechuga por los bordes y medias rodajas de pi&ntilde;a por el centro.</p>
+Para 8 personas.
+
+<a name='more'></a>
+
+<h3>Ingredientes</h3>
+
+1 pollo asado y troceado en cuadraditos(tijera)
+
+1 lata de pi&ntilde;a
+
+250 grs mayonesa con 1 cucharadita de co&ntilde;ac y ketchup
+
+1/2 yogur
+
+<h3>Preparaci&oacute;n</h3>
+
+Se trocea la pi&ntilde;a, menos unas rodajas para adornar.
+
+Se mezcla con los cuadraditos de pollo y se a&ntilde;ade tambi&eacute;n un poco de jugo de la pi&ntilde;a.
+
+Se tapa con la mayonesa a la que se ha a&ntilde;adido tambi&eacute;n un poco de jugo de la pi&ntilde;a y el medio yogur.
+
+Se adorna con juliana de lechuga por los bordes y medias rodajas de pi&ntilde;a por el centro.
+

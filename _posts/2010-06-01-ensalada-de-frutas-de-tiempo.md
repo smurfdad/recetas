@@ -11,4 +11,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-76289856048984446
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-frutas-de-tiempo.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>6 peras<br />2 plátanos<br />24 fresas<br />2 kiwis<br />3 naranjas<br />un poco de jugo de fresas<br />Triple Seco<br /><h3>Preparación</h3>Cortar las peras en abanico una vez peladas. Cortar en rodajas los plátanos, las fresas y los kiwis habiendo macerado los últimos en Triple Seco durante un rato.<br />Se cubre el plato con el jugo de fresa y se colocan encima las frutas, jugando con los colores
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+6 peras
+
+2 plátanos
+
+24 fresas
+
+2 kiwis
+
+3 naranjas
+
+un poco de jugo de fresas
+
+Triple Seco
+
+<h3>Preparación</h3>
+Cortar las peras en abanico una vez peladas. Cortar en rodajas los plátanos, las fresas y los kiwis habiendo macerado los últimos en Triple Seco durante un rato.
+
+Se cubre el plato con el jugo de fresa y se colocan encima las frutas, jugando con los colores

@@ -10,4 +10,27 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-61355490879708547
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/espaguetis-la-vermichelli.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1/2 kilo de espaguetis<br/>1/2 kilo de salsa bolo&ntilde;esa<br/>400 gr espinacas<br/>50 gr mantequilla<br/></p><h3>Preparaci&oacute;n</h3><p>Cocer la pasta como en las recetas anteriores.<br/>Una vez fr&iacute;a, saltearla a fuego vivo con la mantequilla.<br/>A continuaci&oacute;n a&ntilde;adir la salsa bolo&ntilde;esa y las espinacas, previamente cocidas y picadas.<br/>Saltear todo el conjunto, dej&aacute;ndolo cocer unos minutos.<br/></p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1/2 kilo de espaguetis
+
+1/2 kilo de salsa bolo&ntilde;esa
+
+400 gr espinacas
+
+50 gr mantequilla
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cocer la pasta como en las recetas anteriores.
+
+Una vez fr&iacute;a, saltearla a fuego vivo con la mantequilla.
+
+A continuaci&oacute;n a&ntilde;adir la salsa bolo&ntilde;esa y las espinacas, previamente cocidas y picadas.
+
+Saltear todo el conjunto, dej&aacute;ndolo cocer unos minutos.
+

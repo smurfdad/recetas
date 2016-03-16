@@ -12,4 +12,15 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-89739226406874334
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/crema-de-fresa.html
 ---
 
-<h2>Ingredientes</h2><p>1/2 l. de nata l&iacute;quida<br/>1 bote mediano de mermelada de fresa</p><h2>Preparaci&oacute;n</h2><p>Batir la nata hasta que quede montada.<br/>A&ntilde;adir la mermelada y batir de nuevo hasta que engorde.</p>
+<h3>Ingredientes</h3>
+
+1/2 l. de nata l&iacute;quida
+
+1 bote mediano de mermelada de fresa
+
+<h3>Preparaci&oacute;n</h3>
+
+Batir la nata hasta que quede montada.
+
+A&ntilde;adir la mermelada y batir de nuevo hasta que engorde.
+

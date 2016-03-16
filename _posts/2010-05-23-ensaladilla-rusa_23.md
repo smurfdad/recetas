@@ -10,4 +10,39 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-79472259133596448
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/ensaladilla-rusa_23.html
 ---
 
-Para 8 personas.<br /><br /><h3>Ingredientes</h3><p>1 kg. ensaladilla congelada<br />1 lata grande bonito en aceite<br />4 huevos cocidos<br />1 paquete aceitunas<br />2 hojas de lechuga<br />1/4 de mayonesa</p><h3>Preparaci&oacute;n</h3><p>Cocer la ensaladilla con sal de forma que no quede demasiado hecha (al dente).<br />Cocer los huevos 10 minutos (en el microondas 1 1/2 y dejar reposar).<br />Picar el bonito y los huevos cocidos.<br />Mezclar todos los ingredientes.<br />A&ntilde;adirle un ali&ntilde;o de aceite, vinagre y sal (si necesita) y mezclar bien.<br />Colocar en una fuente, darle forma bonita y adornarla con las aceitunas y lechuga en juliana.<br />Servir mayonesa en salsera aparte.</p>
+Para 8 personas.
+
+
+
+<h3>Ingredientes</h3>
+
+
+1 kg. ensaladilla congelada
+
+1 lata grande bonito en aceite
+
+4 huevos cocidos
+
+1 paquete aceitunas
+
+2 hojas de lechuga
+
+1/4 de mayonesa
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cocer la ensaladilla con sal de forma que no quede demasiado hecha (al dente).
+
+Cocer los huevos 10 minutos (en el microondas 1 1/2 y dejar reposar).
+
+Picar el bonito y los huevos cocidos.
+
+Mezclar todos los ingredientes.
+
+A&ntilde;adirle un ali&ntilde;o de aceite, vinagre y sal (si necesita) y mezclar bien.
+
+Colocar en una fuente, darle forma bonita y adornarla con las aceitunas y lechuga en juliana.
+
+Servir mayonesa en salsera aparte.
+

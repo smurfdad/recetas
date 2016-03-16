@@ -10,4 +10,20 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-27120651127263216
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/escalivada.html
 ---
 
-<h3>Ingredientes</h3>4 berenjenas grandes<br />8 pimientos rojos de carne gruesa<br />2 dientes de ajo (opcional)<br />1 dl de aceite de oliva virgen extra<br />Sal<br /><h3>Preparación</h3>Asar las berenjenas y los pimientos a la brasa o al horno. Al sacarlos, mantenerlos 15 minutos en un recipiente tapado.<br />Quitarles la piel y las semillas a los pimientos. Pelar las berenjenas retirando también la parte del tallo. Pelar y picar los ajos.<br />Cortar todo a tiras, poniéndolas en una fuente y aderezar con aceite y sal. Espolvorear con los ajos picados y servir.
+<h3>Ingredientes</h3>
+4 berenjenas grandes
+
+8 pimientos rojos de carne gruesa
+
+2 dientes de ajo (opcional)
+
+1 dl de aceite de oliva virgen extra
+
+Sal
+
+<h3>Preparación</h3>
+Asar las berenjenas y los pimientos a la brasa o al horno. Al sacarlos, mantenerlos 15 minutos en un recipiente tapado.
+
+Quitarles la piel y las semillas a los pimientos. Pelar las berenjenas retirando también la parte del tallo. Pelar y picar los ajos.
+
+Cortar todo a tiras, poniéndolas en una fuente y aderezar con aceite y sal. Espolvorear con los ajos picados y servir.

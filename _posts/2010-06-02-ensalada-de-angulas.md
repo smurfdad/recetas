@@ -11,4 +11,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-60661947161247281
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-angulas.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>1 lechuga<br />600 gr angulas<br />2 dientes de ajo<br />vinagre de estragón<br />aceite de oliva<br /><br /><h3>Preparación</h3>Lavar y picar la lechuga en juliana fina.<br />Picar el ajo muy fino y agregarlo a la lechuga.<br />Por último poner las angulas, añadir unas gotas de vinagre y aceite de oliva.<br />Mezclar bien.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+1 lechuga
+
+600 gr angulas
+
+2 dientes de ajo
+
+vinagre de estragón
+
+aceite de oliva
+
+
+
+<h3>Preparación</h3>
+Lavar y picar la lechuga en juliana fina.
+
+Picar el ajo muy fino y agregarlo a la lechuga.
+
+Por último poner las angulas, añadir unas gotas de vinagre y aceite de oliva.
+
+Mezclar bien.

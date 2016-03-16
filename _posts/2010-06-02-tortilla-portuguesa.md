@@ -10,4 +10,20 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-19410470380455037
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/tortilla-portuguesa.html
 ---
 
-Para 1 personas.<br /><h3>Ingredientes</h3>1/2 cebolla<br />2 huevos<br />1 cucharada de salsa de tomate<br /><br /><h3>Preparación</h3>Cortar la cebolla en juliana fina(cortada en tiras), poniéndola a fuego lento con un poco de aceite, para que se vaya haciendo despacio.<br />Batir los huevos y hacer la tortilla.<br />Una vez echa y en el plato, hacerle en el centro una pequeña incisión con un cuchillo, poniendo encima la cebolla y encima el tomate.
+Para 1 personas.
+
+<h3>Ingredientes</h3>
+1/2 cebolla
+
+2 huevos
+
+1 cucharada de salsa de tomate
+
+
+
+<h3>Preparación</h3>
+Cortar la cebolla en juliana fina(cortada en tiras), poniéndola a fuego lento con un poco de aceite, para que se vaya haciendo despacio.
+
+Batir los huevos y hacer la tortilla.
+
+Una vez echa y en el plato, hacerle en el centro una pequeña incisión con un cuchillo, poniendo encima la cebolla y encima el tomate.

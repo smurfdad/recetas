@@ -11,4 +11,26 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-47667299684037908
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/gazpacho-cordobes.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>100 gr piñones<br />2 dientes de ajo<br />2 yemas de huevo crudas<br />1/4 de barra de pan(previamente remojado en agua caliente)<br />100 ml aceite de oliva<br />vinagre<br />sal<br /><br /><h3>Preparación</h3>Poner todos los ingredientes en un cuenco, junto con un poco de vinagre y sal.<br />Batir con la batidora e ir añadiendo poco a poco agua fría hasta que adquiera un espesor medio.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+100 gr piñones
+
+2 dientes de ajo
+
+2 yemas de huevo crudas
+
+1/4 de barra de pan(previamente remojado en agua caliente)
+
+100 ml aceite de oliva
+
+vinagre
+
+sal
+
+
+
+<h3>Preparación</h3>
+Poner todos los ingredientes en un cuenco, junto con un poco de vinagre y sal.
+
+Batir con la batidora e ir añadiendo poco a poco agua fría hasta que adquiera un espesor medio.

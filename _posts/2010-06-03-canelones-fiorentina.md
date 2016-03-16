@@ -11,4 +11,63 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-49957176095133539
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/canelones-fiorentina.html
 ---
 
-Para 5 personas.<br><h3>Ingredientes</h3><p>1 caja de canelones<br/>1/2 litro de leche<br/>60 gr harina<br/>60 gr mantequilla<br/>400 gr espinacas<br/>tomate frito<br/>agua<br/>aceite<br/>sal<br/>queso rallado<br/><br/>PARA NAPAR:<br/><br/>40 gr mantequilla<br/>40 gr harina<br/>1/2 litro de leche<br/></p><h3>Preparaci&oacute;n</h3><p>Poner una cazuela con agua, un poco de aceite y sal.<br/>Cuando rompa a hervir, echar los canelones y dejarlos que se cuezan.<br/>Una vez cocidos escurrirlos y echarlos en un Bol con agua fr&iacute;a.<br/>Aparte cocer las espinacas con agua y sal.<br/>Una vez cocidas escurrirlas y picarlas.<br/>Poner en una cazuela los 60 gr de mantequilla, una vez diluida agregar la harina y mezclar bien.<br/>Echar las espinacas y la leche poco a poco removiendo bien.<br/>Sazonar la bechamel con sal, pimienta blanca y nuez moscada, dej&aacute;ndola que se termine de hacer.<br/>Poner los canelones sobre un pa&ntilde;o de forma escalonada, poniendo un poco de la farsa en cada uno de ellos.<br/>Enrollarlos y disponerlos sobre una placa de horno, en la que habremos cubierto el fondo con el tomate frito.<br/>Hacer otra bechamel con los 40 gr de mantequilla, la harina y la leche.<br/>Cubrir los canelones con la bechamel, espolvorear con el queso rallado y meter al horno a gratinar.<br/></p>
+Para 5 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 caja de canelones
+
+1/2 litro de leche
+
+60 gr harina
+
+60 gr mantequilla
+
+400 gr espinacas
+
+tomate frito
+
+agua
+
+aceite
+
+sal
+
+queso rallado
+
+PARA NAPAR:
+
+40 gr mantequilla
+
+40 gr harina
+
+1/2 litro de leche
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Poner una cazuela con agua, un poco de aceite y sal.
+
+Cuando rompa a hervir, echar los canelones y dejarlos que se cuezan.
+
+Una vez cocidos escurrirlos y echarlos en un Bol con agua fr&iacute;a.
+
+Aparte cocer las espinacas con agua y sal.
+
+Una vez cocidas escurrirlas y picarlas.
+
+Poner en una cazuela los 60 gr de mantequilla, una vez diluida agregar la harina y mezclar bien.
+
+Echar las espinacas y la leche poco a poco removiendo bien.
+
+Sazonar la bechamel con sal, pimienta blanca y nuez moscada, dej&aacute;ndola que se termine de hacer.
+
+Poner los canelones sobre un pa&ntilde;o de forma escalonada, poniendo un poco de la farsa en cada uno de ellos.
+
+Enrollarlos y disponerlos sobre una placa de horno, en la que habremos cubierto el fondo con el tomate frito.
+
+Hacer otra bechamel con los 40 gr de mantequilla, la harina y la leche.
+
+Cubrir los canelones con la bechamel, espolvorear con el queso rallado y meter al horno a gratinar.
+

@@ -10,4 +10,20 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-41591135282356168
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/langostinos-revueltos.html
 ---
 
-Para 10 personas.<br /><h3>Ingredientes</h3>20 langostinos grandes<br />20 rebanadas grandes de jamón ahumado<br />Aceite de oliva<br />Limón<br />pimienta<br /><h3>Preparación</h3>Pele y limpie los langostinos, sazónelos con el limón, el aceite y la pimienta minutos antes de cocinarlos en la plancha.<br />Envuelva cada langostino en una rebanada de jamón y sujételo con un palillo.
+Para 10 personas.
+
+<h3>Ingredientes</h3>
+20 langostinos grandes
+
+20 rebanadas grandes de jamón ahumado
+
+Aceite de oliva
+
+Limón
+
+pimienta
+
+<h3>Preparación</h3>
+Pele y limpie los langostinos, sazónelos con el limón, el aceite y la pimienta minutos antes de cocinarlos en la plancha.
+
+Envuelva cada langostino en una rebanada de jamón y sujételo con un palillo.

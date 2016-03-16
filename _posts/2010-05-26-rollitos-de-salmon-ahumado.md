@@ -10,4 +10,29 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-41756566910959222
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/rollitos-de-salmon-ahumado.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>500 grs. de salm&oacute;n ahumado en filetes<br/>1 tarrina de queso blando para untar<br/>perejil o eneldo picado</p><h3>Preparaci&oacute;n</h3><p>Cortar los filetes por la mitad (de cada uno, hacer dos).<br/>Colocar en cada filete, en el centro, un montoncito de queso.<br/>Espolvorear con un poco de perejil.<br/>Enrollar los filetes, de modo que quede todo el queso envuelto.<br/>Colocar en una fuente de servir.<br/>Adornar con juliana de lechuga o huevo hilado.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+500 grs. de salm&oacute;n ahumado en filetes
+
+1 tarrina de queso blando para untar
+
+perejil o eneldo picado
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Cortar los filetes por la mitad (de cada uno, hacer dos).
+
+Colocar en cada filete, en el centro, un montoncito de queso.
+
+Espolvorear con un poco de perejil.
+
+Enrollar los filetes, de modo que quede todo el queso envuelto.
+
+Colocar en una fuente de servir.
+
+Adornar con juliana de lechuga o huevo hilado.
+

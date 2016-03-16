@@ -10,4 +10,18 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-54635657461218965
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/truchas-del-alto-tajo.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>6 truchas asalmonadas<br />1/2 l, de nata líquida<br />4 dl. de vino blanco natural<br />Sal<br /><br /><h3>Preparación</h3>Se limpian y se desespinan las truchas. Se trocean en filetes y se sazonan en una sartén o placa. Se pone a hervir el vino natural y una vez reducido a la mitad, se agrega la nata líquida y los filetes de las truchas y se deja hervir a fuego lento. Se sirven muy calientes.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+6 truchas asalmonadas
+
+1/2 l, de nata líquida
+
+4 dl. de vino blanco natural
+
+Sal
+
+
+
+<h3>Preparación</h3>
+Se limpian y se desespinan las truchas. Se trocean en filetes y se sazonan en una sartén o placa. Se pone a hervir el vino natural y una vez reducido a la mitad, se agrega la nata líquida y los filetes de las truchas y se deja hervir a fuego lento. Se sirven muy calientes.

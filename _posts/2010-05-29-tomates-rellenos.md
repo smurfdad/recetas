@@ -11,4 +11,40 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-73783405772745996
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/tomates-rellenos.html
 ---
 
-Para 6 personas.<br /><h3>Ingredientes</h3>6 tomates medianos<br />6 cucharadas de arroz<br />3 cucharadas de aceite de oliva<br />1 ajo picado<br />1 cucharadita de perejil<br />un poco de pimienta negra molida<br />3 patatas medianas, troceadas<br />2 ajos en trozos<br /><h3>Preparación</h3>Cortar la parte superior de los tomates, como si fuera un casquete.<br />Vaciarlos de su interior, que se colocarán en un bol.<br />Salar el interior de los tomates y colocarlos en una fuente de horno.<br />Mezclar la pulpa del interior de los tomates con sal, el aceite, la pimienta, el perejil y el ajo.<br />Rellenar cada tomate con una cucharada de arroz.<br />Completar con la pulpa del tomate y mezclar con el mango de una cuchara.<br />Tapar cada tomate con su casquete.<br />Colocar en la misma fuente, entre los tomates, los trozos de patata y ajo, espolvorear con sal y aceite.<br />Meter al horno medio (180º) hasta que se hagan. Tardará 30 minutos o algo más.
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+6 tomates medianos
+
+6 cucharadas de arroz
+
+3 cucharadas de aceite de oliva
+
+1 ajo picado
+
+1 cucharadita de perejil
+
+un poco de pimienta negra molida
+
+3 patatas medianas, troceadas
+
+2 ajos en trozos
+
+<h3>Preparación</h3>
+Cortar la parte superior de los tomates, como si fuera un casquete.
+
+Vaciarlos de su interior, que se colocarán en un bol.
+
+Salar el interior de los tomates y colocarlos en una fuente de horno.
+
+Mezclar la pulpa del interior de los tomates con sal, el aceite, la pimienta, el perejil y el ajo.
+
+Rellenar cada tomate con una cucharada de arroz.
+
+Completar con la pulpa del tomate y mezclar con el mango de una cuchara.
+
+Tapar cada tomate con su casquete.
+
+Colocar en la misma fuente, entre los tomates, los trozos de patata y ajo, espolvorear con sal y aceite.
+
+Meter al horno medio (180º) hasta que se hagan. Tardará 30 minutos o algo más.

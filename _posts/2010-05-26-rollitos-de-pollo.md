@@ -10,4 +10,45 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-53869798747523458
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/rollitos-de-pollo.html
 ---
 
-Para 6 personas.<br><h3>Ingredientes</h3><p>1 kg. de pechugas de pollo en filetes<br/>1 paquete de queso en lonchas<br/>250 grs. de nata l&iacute;quida<br/>1 copa de bandeira o jerez dulce<br/>1 pastilla de caldo concentrado<br/>aceite de oliva, sal, pimienta, agua<br/>harina</p><h3>Preparaci&oacute;n</h3><p>Extender los filetes.<br/>Encima de cada uno colocar una loncha de queso, enrrollar y sujetar con un palillo.<br/>Echar sal y pimienta, pasar por harina y fre&iacute;r en un poco de aceite caliente.<br/>Pasarlos a una cazuela.<br/>En el aceite sobrante echar el vino y la nata.<br/>Cuando hierva verterlo sobre los rollitos.<br/>Poner un poco de agua en la sart&eacute;n, para reba&ntilde;ar los restos de salsa y echarlo sobre los rollitos.<br/>Dejar cocer a fuego suave hasta que est&eacute;n hechos.<br/>A&ntilde;adir m&aacute;s agua si queda demasiado espeso.<br/>Servir con patatas fritas.</p>
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+
+1 kg. de pechugas de pollo en filetes
+
+1 paquete de queso en lonchas
+
+250 grs. de nata l&iacute;quida
+
+1 copa de bandeira o jerez dulce
+
+1 pastilla de caldo concentrado
+
+aceite de oliva, sal, pimienta, agua
+
+harina
+
+<h3>Preparaci&oacute;n</h3>
+
+
+Extender los filetes.
+
+Encima de cada uno colocar una loncha de queso, enrrollar y sujetar con un palillo.
+
+Echar sal y pimienta, pasar por harina y fre&iacute;r en un poco de aceite caliente.
+
+Pasarlos a una cazuela.
+
+En el aceite sobrante echar el vino y la nata.
+
+Cuando hierva verterlo sobre los rollitos.
+
+Poner un poco de agua en la sart&eacute;n, para reba&ntilde;ar los restos de salsa y echarlo sobre los rollitos.
+
+Dejar cocer a fuego suave hasta que est&eacute;n hechos.
+
+A&ntilde;adir m&aacute;s agua si queda demasiado espeso.
+
+Servir con patatas fritas.
+

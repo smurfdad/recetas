@@ -10,4 +10,20 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-56536311825358406
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/fingers-de-queso.html
 ---
 
-Para 4 personas.<br /><h3>Ingredientes</h3>200 grs. de queso Mozzarella (si no tienes sirve cualquier queso madurito, aunque no es lo mismo)<br />1 huevo<br />Un plato con pan rallado<br />Bastante perejil (para mezclar con el pan)<br />Aceite de oliva<br /><br /><h3>Preparación</h3>Corta el queso en barritas, mételo en el plato con el huevo batido, y pásalo por el pan ya mezclado con el perejil. cuando ya estén rebozados, fríelosen aceite muy caliente, que se queden doraditos.
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+200 grs. de queso Mozzarella (si no tienes sirve cualquier queso madurito, aunque no es lo mismo)
+
+1 huevo
+
+Un plato con pan rallado
+
+Bastante perejil (para mezclar con el pan)
+
+Aceite de oliva
+
+
+
+<h3>Preparación</h3>
+Corta el queso en barritas, mételo en el plato con el huevo batido, y pásalo por el pan ya mezclado con el perejil. cuando ya estén rebozados, fríelosen aceite muy caliente, que se queden doraditos.

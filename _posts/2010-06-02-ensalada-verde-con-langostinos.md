@@ -11,4 +11,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-79093868121653891
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-verde-con-langostinos.html
 ---
 
-Para 1 personas.<br /><h3>Ingredientes</h3>6 langostinos pelados<br />1/2 taza de tomate picado<br />1/4 taza de cebollita de verdeo picada<br />1/4 de taza de zanahoria rallada<br />1 cucharada sopera de vinagreta<br />1 taza de lechuga romana<br /><br /><h3>Preparación</h3>Revolver todos los ingredientes excepto la lechuga en un bowl.<br />Servirla sobre una cama de lechuga romana.
+Para 1 personas.
+
+<h3>Ingredientes</h3>
+6 langostinos pelados
+
+1/2 taza de tomate picado
+
+1/4 taza de cebollita de verdeo picada
+
+1/4 de taza de zanahoria rallada
+
+1 cucharada sopera de vinagreta
+
+1 taza de lechuga romana
+
+
+
+<h3>Preparación</h3>
+Revolver todos los ingredientes excepto la lechuga en un bowl.
+
+Servirla sobre una cama de lechuga romana.

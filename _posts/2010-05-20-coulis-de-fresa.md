@@ -11,4 +11,21 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-32217752929953315
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/coulis-de-fresa.html
 ---
 
-<h2>Ingredientes</h2><p>1/4 de kg. de fresas maduras<br/>1/2 vaso de agua<br/>1 vaso de az&uacute;car</p><h2>Preparaci&oacute;n</h2><p>Cocer el agua con el az&uacute;car hasta que se haga un alm&iacute;bar a punto de hebra fuerte.<br/>Lavar las fresas despu&eacute;s de quitarles el rabo.<br/>Escurrirlas bien y triturarlas.<br/>A&ntilde;adir al alm&iacute;bar y revolver bien.</p>
+<h3>Ingredientes</h3>
+
+1/4 de kg. de fresas maduras
+
+1/2 vaso de agua
+
+1 vaso de az&uacute;car
+
+<h3>Preparaci&oacute;n</h3>
+
+Cocer el agua con el az&uacute;car hasta que se haga un alm&iacute;bar a punto de hebra fuerte.
+
+Lavar las fresas despu&eacute;s de quitarles el rabo.
+
+Escurrirlas bien y triturarlas.
+
+A&ntilde;adir al alm&iacute;bar y revolver bien.
+

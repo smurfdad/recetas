@@ -10,4 +10,24 @@ blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-61010623990598475
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/bosch-la-polonesa.html
 ---
 
-<h3>Ingredientes</h3>1 pato<br />nabos<br />zanahorias<br />remolacha<br />lombarda<br /><h3>Preparación</h3>Se preparan los nabos, zanahorias, remolacha y lombarda cortados en forma de juliana.<br /><br />A parte se hace un caldo blanco con huesos de ternera y el pato. Se rehogan las verduras y la carne de pato sobre la placa de su cocina eléctrica, y se moja todo con el caldo que tenemos preparado.<br /><br />En el momento de servir se añade nata y jugo de remolacha.
+<h3>Ingredientes</h3>
+1 pato
+
+nabos
+
+zanahorias
+
+remolacha
+
+lombarda
+
+<h3>Preparación</h3>
+Se preparan los nabos, zanahorias, remolacha y lombarda cortados en forma de juliana.
+
+
+
+A parte se hace un caldo blanco con huesos de ternera y el pato. Se rehogan las verduras y la carne de pato sobre la placa de su cocina eléctrica, y se moja todo con el caldo que tenemos preparado.
+
+
+
+En el momento de servir se añade nata y jugo de remolacha.
