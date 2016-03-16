@@ -3,7 +3,7 @@ layout: post
 title: CANELONES DE CARNE
 date: '2011-02-07T15:04:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 - Pastas
 modified_time: '2016-03-16T01:52:34.528-07:00'

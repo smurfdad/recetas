@@ -3,7 +3,7 @@ layout: post
 title: MUSAKA DE CALABACÍN CON GAMBAS Y ATÚN
 date: '2014-03-07T01:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 - Mariscos y moluscos

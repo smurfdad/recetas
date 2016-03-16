@@ -3,7 +3,7 @@ layout: post
 title: HUEVOS RELLENOS FRITOS
 date: '2010-06-04T10:44:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:12.616-07:00'

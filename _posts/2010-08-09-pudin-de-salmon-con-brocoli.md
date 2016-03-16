@@ -3,7 +3,7 @@ layout: post
 title: PUDIN DE SALMÓN CON BRÓCOLI
 date: '2010-08-09T02:46:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:56.554-07:00'

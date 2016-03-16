@@ -3,7 +3,7 @@ layout: post
 title: COGOLLOS DE TUDELA
 date: '2010-06-04T07:30:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:12.721-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-9122896387441790424

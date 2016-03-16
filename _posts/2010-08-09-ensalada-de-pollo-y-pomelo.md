@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE POLLO Y POMELO
 date: '2010-08-09T03:43:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Carnes y derivados
 - Frutas

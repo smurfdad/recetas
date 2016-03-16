@@ -3,7 +3,7 @@ layout: post
 title: CREMA DE FRESA
 date: '2010-05-20T16:00:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 - Postres y dulces
 - Frutas

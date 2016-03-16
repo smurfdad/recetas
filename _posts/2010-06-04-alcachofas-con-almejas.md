@@ -3,7 +3,7 @@ layout: post
 title: ALCACHOFAS CON ALMEJAS
 date: '2010-06-04T10:43:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:12.636-07:00'

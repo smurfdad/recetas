@@ -3,7 +3,7 @@ layout: post
 title: BIGOTES DE ARROZ
 date: '2010-06-01T11:27:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Postres y dulces
 modified_time: '2016-03-16T01:53:14.145-07:00'

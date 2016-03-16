@@ -3,7 +3,7 @@ layout: post
 title: FLAN DE NUECES
 date: '2015-08-11T23:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 modified_time: '2016-03-16T01:52:33.349-07:00'

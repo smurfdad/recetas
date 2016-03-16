@@ -3,7 +3,7 @@ layout: post
 title: PECHUGA DE PAVO RELLENA DE FRUTAS
 date: '2015-08-20T00:40:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Carnes y derivados
 - Frutas

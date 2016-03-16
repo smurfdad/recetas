@@ -3,7 +3,7 @@ layout: post
 title: FABES CON CALAMAR
 date: '2010-05-23T13:39:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:16.269-07:00'

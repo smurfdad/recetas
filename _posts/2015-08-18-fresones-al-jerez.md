@@ -3,7 +3,7 @@ layout: post
 title: FRESONES AL JEREZ
 date: '2015-08-18T00:37:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 - Frutas

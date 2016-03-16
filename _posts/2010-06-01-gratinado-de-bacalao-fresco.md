@@ -3,7 +3,7 @@ layout: post
 title: GRATINADO DE BACALAO FRESCO
 date: '2010-06-01T11:30:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pastas
 - Setas y hongos
 modified_time: '2016-03-16T01:53:14.122-07:00'

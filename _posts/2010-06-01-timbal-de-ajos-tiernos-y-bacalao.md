@@ -3,7 +3,7 @@ layout: post
 title: TIMBAL DE AJOS TIERNOS Y BACALAO
 date: '2010-06-01T10:29:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:14.374-07:00'

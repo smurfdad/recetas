@@ -3,7 +3,7 @@ layout: post
 title: ROLLITOS DE JAMÓN Y PUERRO
 date: '2010-08-09T02:43:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:56.591-07:00'

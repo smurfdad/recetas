@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE MACARRONES CON SALCHICHAS
 date: '2010-06-28T04:17:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Carnes y derivados
 - Pastas

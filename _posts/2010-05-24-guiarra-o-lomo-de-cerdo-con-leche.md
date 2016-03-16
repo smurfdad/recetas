@@ -3,7 +3,7 @@ layout: post
 title: GUIARRA O LOMO DE CERDO CON LECHE
 date: '2010-05-24T09:38:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:16.085-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8900417297241230186

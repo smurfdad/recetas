@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA VERDE
 date: '2010-06-03T13:33:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Ensaladas
 modified_time: '2016-03-16T01:53:12.911-07:00'

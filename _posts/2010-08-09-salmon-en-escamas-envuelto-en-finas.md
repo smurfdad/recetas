@@ -3,7 +3,7 @@ layout: post
 title: SALMÓN EN ESCAMAS ENVUELTO EN FINAS RODAJAS DE PATATAS
 date: '2010-08-09T03:16:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:56.361-07:00'

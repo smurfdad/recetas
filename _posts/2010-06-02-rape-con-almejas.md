@@ -3,7 +3,7 @@ layout: post
 title: RAPE CON ALMEJAS
 date: '2010-06-02T13:16:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:13.244-07:00'

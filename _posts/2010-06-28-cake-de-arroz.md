@@ -3,7 +3,7 @@ layout: post
 title: CAKE DE ARROZ
 date: '2010-06-28T04:27:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:05.402-07:00'

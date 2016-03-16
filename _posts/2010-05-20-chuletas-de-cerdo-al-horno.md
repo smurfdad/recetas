@@ -3,7 +3,7 @@ layout: post
 title: CHULETAS DE CERDO AL HORNO
 date: '2010-05-20T15:59:00.006-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:16.565-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3657145307521249446

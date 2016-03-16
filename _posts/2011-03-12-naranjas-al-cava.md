@@ -3,7 +3,7 @@ layout: post
 title: NARANJAS AL CAVA
 date: '2011-03-12T02:29:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:52:34.288-07:00'

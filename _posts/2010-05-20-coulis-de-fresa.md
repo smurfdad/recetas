@@ -3,7 +3,7 @@ layout: post
 title: COULIS DE FRESA
 date: '2010-05-20T16:00:00.010-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:53:16.516-07:00'

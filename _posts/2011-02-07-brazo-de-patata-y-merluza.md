@@ -3,7 +3,7 @@ layout: post
 title: BRAZO DE PATATA Y MERLUZA
 date: '2011-02-07T15:11:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:34.471-07:00'

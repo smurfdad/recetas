@@ -3,7 +3,7 @@ layout: post
 title: HUEVOS CON BECHAMEL
 date: '2010-05-24T09:38:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:16.109-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4551828454418326254

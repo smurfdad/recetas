@@ -3,7 +3,7 @@ layout: post
 title: FILETES CON MANGO MANILA
 date: '2011-02-07T14:41:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Frutas
 modified_time: '2016-03-16T01:52:34.835-07:00'

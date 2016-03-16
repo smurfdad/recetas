@@ -3,7 +3,7 @@ layout: post
 title: BISQUET DE GAMBAS
 date: '2010-06-03T13:28:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:13.064-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2805056673440079265

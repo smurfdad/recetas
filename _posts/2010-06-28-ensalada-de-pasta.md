@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE PASTA
 date: '2010-06-28T04:18:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Pastas
 modified_time: '2016-03-16T01:53:05.499-07:00'

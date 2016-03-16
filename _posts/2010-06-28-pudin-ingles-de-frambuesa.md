@@ -3,7 +3,7 @@ layout: post
 title: PUDÍN INGLÉS DE FRAMBUESA
 date: '2010-06-28T04:30:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:53:05.371-07:00'

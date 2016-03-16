@@ -3,7 +3,7 @@ layout: post
 title: EMPANADAS DE ESPINACAS Y RICOTTA
 date: '2010-07-25T02:30:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:56.804-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2336375932630300650

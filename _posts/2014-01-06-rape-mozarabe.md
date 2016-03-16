@@ -3,7 +3,7 @@ layout: post
 title: RAPE MOZÁRABE
 date: '2014-01-06T23:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:34.112-07:00'

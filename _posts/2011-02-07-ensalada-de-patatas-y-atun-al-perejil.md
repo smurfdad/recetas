@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE PATATAS Y ATÚN AL PEREJIL
 date: '2011-02-07T14:58:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Ensaladas
 modified_time: '2016-03-16T01:52:34.618-07:00'

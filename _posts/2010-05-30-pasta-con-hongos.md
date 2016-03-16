@@ -3,7 +3,7 @@ layout: post
 title: PASTA CON HONGOS
 date: '2010-05-30T13:51:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pastas
 - Setas y hongos
 modified_time: '2016-03-16T01:53:14.581-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA CON QUESO
 date: '2014-01-21T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 modified_time: '2016-03-16T01:52:33.969-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7385263842305443150

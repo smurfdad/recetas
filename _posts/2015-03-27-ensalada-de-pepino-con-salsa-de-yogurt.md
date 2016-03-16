@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE PEPINO CON SALSA DE YOGURT.
 date: '2015-03-27T03:02:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:33.428-07:00'

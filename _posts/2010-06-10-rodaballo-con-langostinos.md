@@ -3,7 +3,7 @@ layout: post
 title: RODABALLO CON LANGOSTINOS
 date: '2010-06-10T15:32:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:10.808-07:00'

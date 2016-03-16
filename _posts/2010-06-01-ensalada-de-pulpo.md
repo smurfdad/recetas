@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE PULPO
 date: '2010-06-01T22:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:13.543-07:00'

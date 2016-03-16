@@ -3,7 +3,7 @@ layout: post
 title: FLAN DE CALABACÍN
 date: '2014-02-27T01:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:33.598-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5081443616333895548

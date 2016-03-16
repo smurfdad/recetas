@@ -3,7 +3,7 @@ layout: post
 title: FRITOS DE PIMIENTOS
 date: '2010-06-01T10:26:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:14.413-07:00'

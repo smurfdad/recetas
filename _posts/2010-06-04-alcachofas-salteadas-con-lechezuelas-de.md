@@ -3,7 +3,7 @@ layout: post
 title: ALCACHOFAS SALTEADAS CON LECHEZUELAS DE CORDERO
 date: '2010-06-04T10:42:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:12.671-07:00'

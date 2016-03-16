@@ -3,7 +3,7 @@ layout: post
 title: ROLLITOS DE YORK
 date: '2010-08-09T02:42:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 - Carnes y derivados

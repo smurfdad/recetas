@@ -3,7 +3,7 @@ layout: post
 title: MERO CON SALSA DE SETAS
 date: '2011-03-12T02:20:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Setas y hongos
 modified_time: '2016-03-16T01:52:34.378-07:00'

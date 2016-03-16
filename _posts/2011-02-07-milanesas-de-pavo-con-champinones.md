@@ -3,7 +3,7 @@ layout: post
 title: MILANESAS DE PAVO CON CHAMPIÑONES
 date: '2011-02-07T15:03:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 - Setas y hongos
 modified_time: '2016-03-16T01:52:34.539-07:00'

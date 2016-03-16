@@ -3,7 +3,7 @@ layout: post
 title: CALDERA DE PESCADO Y MARISCO
 date: '2014-02-10T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:33.734-07:00'

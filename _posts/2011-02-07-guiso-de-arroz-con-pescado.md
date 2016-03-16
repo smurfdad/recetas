@@ -3,7 +3,7 @@ layout: post
 title: GUISO DE ARROZ CON PESCADO
 date: '2011-02-07T14:57:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Arroces
 modified_time: '2016-03-16T01:52:34.629-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: PUDING DE ATÚN
 date: '2010-08-09T02:55:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:56.499-07:00'

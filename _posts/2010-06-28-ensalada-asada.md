@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA ASADA
 date: '2010-06-28T04:15:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Ensaladas
 modified_time: '2016-03-16T01:53:05.536-07:00'

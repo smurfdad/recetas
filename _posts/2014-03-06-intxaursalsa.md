@@ -3,7 +3,7 @@ layout: post
 title: INTXAURSALSA
 date: '2014-03-06T01:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 modified_time: '2016-03-16T01:52:33.516-07:00'

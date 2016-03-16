@@ -3,7 +3,7 @@ layout: post
 title: CANELONES DE MARISCO
 date: '2010-06-02T13:11:00.004-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Mariscos y moluscos
 - Pastas
 modified_time: '2016-03-16T01:53:13.356-07:00'

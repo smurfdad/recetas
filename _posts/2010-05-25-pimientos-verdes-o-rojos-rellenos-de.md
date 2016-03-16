@@ -3,7 +3,7 @@ layout: post
 title: PIMIENTOS VERDES O ROJOS RELLENOS DE BACALAO
 date: '2010-05-25T15:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:15.777-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: MOUSE DE ESPÁRRAGOS
 date: '2010-06-01T11:28:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:14.138-07:00'

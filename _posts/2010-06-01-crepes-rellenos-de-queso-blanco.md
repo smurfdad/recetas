@@ -3,7 +3,7 @@ layout: post
 title: CREPES RELLENOS DE QUESO BLANCO
 date: '2010-06-01T10:16:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 modified_time: '2016-03-16T01:53:14.540-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE LENGUADO
 date: '2010-06-02T13:07:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Ensaladas
 modified_time: '2016-03-16T01:53:13.479-07:00'

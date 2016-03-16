@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE PIMIENTOS Y BACALAO
 date: '2010-05-23T13:40:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Ensaladas
 modified_time: '2016-03-16T01:53:16.226-07:00'

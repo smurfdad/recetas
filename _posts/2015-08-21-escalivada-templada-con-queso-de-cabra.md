@@ -3,7 +3,7 @@ layout: post
 title: ESCALIVADA TEMPLADA CON QUESO DE CABRA
 date: '2015-08-21T00:41:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:33.238-07:00'

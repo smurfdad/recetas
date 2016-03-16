@@ -3,7 +3,7 @@ layout: post
 title: LASAÑA DE PRIMAVERA
 date: '2010-06-01T13:32:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Pastas
 modified_time: '2016-03-16T01:53:13.704-07:00'

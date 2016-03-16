@@ -3,7 +3,7 @@ layout: post
 title: PUDING DE BERENJENAS
 date: '2010-08-09T02:57:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:56.476-07:00'

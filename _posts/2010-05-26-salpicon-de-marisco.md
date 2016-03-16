@@ -3,7 +3,7 @@ layout: post
 title: SALPICÓN DE MARISCO
 date: '2010-05-26T23:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:15.496-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: POLLO CON SETAS Y SALSA DE ALMENDRAS.
 date: '2011-11-01T15:09:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 - Setas y hongos
 modified_time: '2016-03-16T01:52:34.153-07:00'

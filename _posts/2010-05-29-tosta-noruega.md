@@ -3,7 +3,7 @@ layout: post
 title: TOSTA NORUEGA
 date: '2010-05-29T03:02:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:15.182-07:00'

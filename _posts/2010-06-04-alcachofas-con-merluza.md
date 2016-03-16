@@ -3,7 +3,7 @@ layout: post
 title: ALCACHOFAS CON MERLUZA
 date: '2010-06-04T10:43:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:12.650-07:00'

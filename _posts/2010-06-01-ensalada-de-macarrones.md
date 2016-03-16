@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE MACARRONES
 date: '2010-06-01T13:33:00.004-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Pastas
 modified_time: '2016-03-16T01:53:13.682-07:00'

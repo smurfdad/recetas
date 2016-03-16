@@ -3,7 +3,7 @@ layout: post
 title: CANELONES DE MARISCO AL PIMENTÓN
 date: '2010-06-01T13:34:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Mariscos y moluscos
 - Pastas
 modified_time: '2016-03-16T01:53:13.636-07:00'

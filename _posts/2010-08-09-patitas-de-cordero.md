@@ -3,7 +3,7 @@ layout: post
 title: PATITAS DE CORDERO
 date: '2010-08-09T03:18:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:56.337-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1364129598268634975

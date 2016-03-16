@@ -3,7 +3,7 @@ layout: post
 title: MIL HOJAS DE FRESAS CON NATA
 date: '2010-06-02T13:16:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:53:13.251-07:00'

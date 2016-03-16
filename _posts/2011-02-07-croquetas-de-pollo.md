@@ -3,7 +3,7 @@ layout: post
 title: CROQUETAS DE POLLO
 date: '2011-02-07T15:04:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 - Entrantes y bocadillos
 modified_time: '2016-03-16T01:52:34.505-07:00'

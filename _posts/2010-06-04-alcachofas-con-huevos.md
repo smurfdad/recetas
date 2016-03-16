@@ -3,7 +3,7 @@ layout: post
 title: ALCACHOFAS CON HUEVOS
 date: '2010-06-04T10:43:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:12.643-07:00'

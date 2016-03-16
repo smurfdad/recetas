@@ -3,7 +3,7 @@ layout: post
 title: GAZPACHO CORDOBÉS
 date: '2010-06-03T13:29:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Sopas y cremas
 modified_time: '2016-03-16T01:53:13.013-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: CERDO CON PIÑA
 date: '2011-02-07T14:56:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 - Frutas
 modified_time: '2016-03-16T01:52:34.655-07:00'

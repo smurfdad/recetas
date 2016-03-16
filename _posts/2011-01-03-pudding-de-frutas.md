@@ -3,7 +3,7 @@ layout: post
 title: PUDDING DE FRUTAS
 date: '2011-01-03T09:54:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:52:34.906-07:00'

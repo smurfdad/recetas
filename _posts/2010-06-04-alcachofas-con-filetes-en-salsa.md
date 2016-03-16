@@ -3,7 +3,7 @@ layout: post
 title: ALCACHOFAS CON FILETES EN SALSA
 date: '2010-06-04T10:42:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:12.656-07:00'

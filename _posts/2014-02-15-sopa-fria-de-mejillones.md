@@ -3,7 +3,7 @@ layout: post
 title: SOPA FRÍA DE MEJILLONES
 date: '2014-02-15T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:33.678-07:00'

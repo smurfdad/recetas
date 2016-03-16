@@ -3,7 +3,7 @@ layout: post
 title: PASTEL DE MANZANA AL COULIS DE FRAMBUESAS
 date: '2010-06-01T11:29:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:53:14.130-07:00'

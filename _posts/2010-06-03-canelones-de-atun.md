@@ -3,7 +3,7 @@ layout: post
 title: CANELONES DE ATÚN
 date: '2010-06-03T14:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Pastas
 modified_time: '2016-03-16T01:53:12.890-07:00'

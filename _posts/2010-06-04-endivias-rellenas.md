@@ -3,7 +3,7 @@ layout: post
 title: ENDIVIAS RELLENAS
 date: '2010-06-04T10:40:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 - Carnes y derivados

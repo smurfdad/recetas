@@ -3,7 +3,7 @@ layout: post
 title: SOPA DE MARISCO
 date: '2014-02-18T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Sopas y cremas
 - Mariscos y moluscos

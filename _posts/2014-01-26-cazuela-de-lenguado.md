@@ -3,7 +3,7 @@ layout: post
 title: CAZUELA DE LENGUADO
 date: '2014-01-26T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 modified_time: '2016-03-16T01:52:33.892-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3621369417021258076

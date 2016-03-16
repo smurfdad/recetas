@@ -3,7 +3,7 @@ layout: post
 title: SOPA DE PESCADO
 date: '2010-05-28T09:37:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Sopas y cremas
 modified_time: '2016-03-16T01:53:15.278-07:00'

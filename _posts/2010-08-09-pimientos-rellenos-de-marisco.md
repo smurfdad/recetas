@@ -3,7 +3,7 @@ layout: post
 title: PIMIENTOS RELLENOS DE MARISCO
 date: '2010-08-09T03:19:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:56.303-07:00'

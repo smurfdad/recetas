@@ -3,7 +3,7 @@ layout: post
 title: CROQUETAS DULCES DE ARROZ
 date: '2011-02-07T14:59:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Postres y dulces
 modified_time: '2016-03-16T01:52:34.607-07:00'

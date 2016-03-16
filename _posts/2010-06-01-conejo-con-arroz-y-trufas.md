@@ -3,7 +3,7 @@ layout: post
 title: CONEJO CON ARROZ Y TRUFAS
 date: '2010-06-01T11:23:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:14.160-07:00'

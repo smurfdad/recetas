@@ -3,7 +3,7 @@ layout: post
 title: CREMA DE MANZANA CON MENTA
 date: '2014-03-03T01:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:52:33.549-07:00'

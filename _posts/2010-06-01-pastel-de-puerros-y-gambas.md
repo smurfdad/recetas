@@ -3,7 +3,7 @@ layout: post
 title: PASTEL DE PUERROS Y GAMBAS
 date: '2010-06-01T10:23:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:14.451-07:00'

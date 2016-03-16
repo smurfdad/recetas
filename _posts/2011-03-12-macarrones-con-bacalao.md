@@ -3,7 +3,7 @@ layout: post
 title: MACARRONES CON BACALAO
 date: '2011-03-12T02:27:00.004-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Pastas
 modified_time: '2016-03-16T01:52:34.368-07:00'

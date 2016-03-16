@@ -3,7 +3,7 @@ layout: post
 title: PASTA A LAS FINAS HIERBAS
 date: '2014-01-23T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pastas
 modified_time: '2016-03-16T01:52:33.944-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8356427546735061616

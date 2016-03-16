@@ -3,7 +3,7 @@ layout: post
 title: BRUSELAS EN VINO BLANCO
 date: '2010-06-28T04:21:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:05.462-07:00'

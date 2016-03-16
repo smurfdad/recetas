@@ -3,7 +3,7 @@ layout: post
 title: MANZANAS RELLENAS
 date: '2010-06-10T15:37:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 - Frutas
 modified_time: '2016-03-16T01:53:10.777-07:00'

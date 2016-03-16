@@ -3,7 +3,7 @@ layout: post
 title: TALLARINES CON VERDURAS
 date: '2010-05-28T05:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Pastas
 - Setas y hongos

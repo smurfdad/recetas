@@ -3,7 +3,7 @@ layout: post
 title: LASAÑA DE SALMÓN
 date: '2010-06-01T13:22:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Pastas
 modified_time: '2016-03-16T01:53:14.069-07:00'

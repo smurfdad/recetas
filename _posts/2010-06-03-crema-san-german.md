@@ -3,7 +3,7 @@ layout: post
 title: CREMA SAN GERMAN
 date: '2010-06-03T13:25:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Sopas y cremas
 modified_time: '2016-03-16T01:53:13.134-07:00'

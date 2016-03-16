@@ -3,7 +3,7 @@ layout: post
 title: ARROZ AL BUGS BUNNY
 date: '2011-02-07T14:55:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:34.678-07:00'

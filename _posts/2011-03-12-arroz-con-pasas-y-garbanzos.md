@@ -3,7 +3,7 @@ layout: post
 title: ARROZ CON PASAS Y GARBANZOS
 date: '2011-03-12T02:29:00.002-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Arroces
 modified_time: '2016-03-16T01:52:34.301-07:00'

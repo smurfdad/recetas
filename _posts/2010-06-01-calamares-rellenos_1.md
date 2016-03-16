@@ -3,7 +3,7 @@ layout: post
 title: CALAMARES RELLENOS
 date: '2010-06-01T14:01:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Mariscos y moluscos
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:13.565-07:00'

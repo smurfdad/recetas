@@ -3,7 +3,7 @@ layout: post
 title: ESTROGONOFF DE POLLO
 date: '2015-08-22T00:42:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:33.216-07:00'

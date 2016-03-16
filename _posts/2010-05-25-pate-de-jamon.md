@@ -3,7 +3,7 @@ layout: post
 title: PATE DE JAMÓN
 date: '2010-05-25T13:21:00.005-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:15.900-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8868092657367980741

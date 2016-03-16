@@ -3,7 +3,7 @@ layout: post
 title: TARTA DE CHOCOLATE Y FRESAS
 date: '2010-06-01T13:23:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:53:14.061-07:00'

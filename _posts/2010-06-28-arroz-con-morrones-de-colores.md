@@ -3,7 +3,7 @@ layout: post
 title: ARROZ CON MORRONES DE COLORES
 date: '2010-06-28T04:39:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Arroces
 modified_time: '2016-03-16T01:53:05.280-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: LASAÑA VERDE
 date: '2010-06-02T13:10:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Pastas
 modified_time: '2016-03-16T01:53:13.362-07:00'

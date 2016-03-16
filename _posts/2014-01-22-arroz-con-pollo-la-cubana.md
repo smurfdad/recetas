@@ -3,7 +3,7 @@ layout: post
 title: ARROZ CON POLLO A LA CUBANA
 date: '2014-01-22T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:33.958-07:00'

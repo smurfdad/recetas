@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE QUESOS MANCHEGOS
 date: '2010-05-29T14:13:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:14.651-07:00'

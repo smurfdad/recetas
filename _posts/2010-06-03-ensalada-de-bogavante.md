@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE BOGAVANTE
 date: '2010-06-03T13:32:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:12.917-07:00'

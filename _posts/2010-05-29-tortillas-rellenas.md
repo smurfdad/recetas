@@ -3,7 +3,7 @@ layout: post
 title: TORTILLAS RELLENAS
 date: '2010-05-29T03:07:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:15.157-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7316114074563449145

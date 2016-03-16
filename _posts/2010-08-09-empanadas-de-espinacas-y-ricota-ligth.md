@@ -3,7 +3,7 @@ layout: post
 title: EMPANADAS DE ESPINACAS Y RICOTA LIGTH
 date: '2010-08-09T03:35:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:55.806-07:00'

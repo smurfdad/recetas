@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE ARROZ CON VERDURAS, ATÚN Y JAMÓN
 date: '2014-01-31T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Ensaladas
 modified_time: '2016-03-16T01:52:33.839-07:00'

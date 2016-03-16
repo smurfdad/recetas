@@ -3,7 +3,7 @@ layout: post
 title: GRATINADO DE POLLO CON VERDURA
 date: '2014-01-30T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:33.850-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4653161378548586852

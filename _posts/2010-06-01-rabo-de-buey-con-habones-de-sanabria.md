@@ -3,7 +3,7 @@ layout: post
 title: RABO DE BUEY CON HABONES DE SANABRIA
 date: '2010-06-01T10:29:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:14.358-07:00'

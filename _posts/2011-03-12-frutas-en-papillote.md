@@ -3,7 +3,7 @@ layout: post
 title: FRUTAS EN PAPILLOTE
 date: '2011-03-12T02:31:00.002-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Frutas
 modified_time: '2016-03-16T01:52:34.228-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-192915380782684417

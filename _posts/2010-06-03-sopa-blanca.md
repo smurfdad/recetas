@@ -3,7 +3,7 @@ layout: post
 title: SOPA BLANCA
 date: '2010-06-03T13:30:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Sopas y cremas
 modified_time: '2016-03-16T01:53:12.992-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: SOPA DE RAPE
 date: '2014-01-12T23:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Sopas y cremas
 modified_time: '2016-03-16T01:52:34.051-07:00'

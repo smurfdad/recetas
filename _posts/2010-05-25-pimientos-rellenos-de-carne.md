@@ -3,7 +3,7 @@ layout: post
 title: PIMIENTOS RELLENOS DE CARNE
 date: '2010-05-25T16:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:15.770-07:00'

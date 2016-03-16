@@ -3,7 +3,7 @@ layout: post
 title: CROQUETAS DE QUESO MORA
 date: '2011-02-07T15:05:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Entrantes y bocadillos
 modified_time: '2016-03-16T01:52:34.494-07:00'

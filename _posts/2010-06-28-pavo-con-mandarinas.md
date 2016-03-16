@@ -3,7 +3,7 @@ layout: post
 title: PAVO CON MANDARINAS
 date: '2010-06-28T04:16:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:05.528-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5883895323465162647

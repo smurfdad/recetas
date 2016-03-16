@@ -3,7 +3,7 @@ layout: post
 title: LENGUA EN MENESTRA
 date: '2010-05-24T10:05:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:16.053-07:00'

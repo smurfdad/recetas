@@ -3,7 +3,7 @@ layout: post
 title: PENCAS DE ACELGAS CON JAMÓN COCIDO
 date: '2010-06-28T04:49:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:05.195-07:00'

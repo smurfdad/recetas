@@ -3,7 +3,7 @@ layout: post
 title: HUEVOS FRIOS ELENA
 date: '2010-05-24T09:37:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:16.131-07:00'

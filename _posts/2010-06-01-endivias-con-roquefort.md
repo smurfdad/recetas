@@ -3,7 +3,7 @@ layout: post
 title: ENDIVIAS CON ROQUEFORT
 date: '2010-06-01T11:36:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:14.107-07:00'

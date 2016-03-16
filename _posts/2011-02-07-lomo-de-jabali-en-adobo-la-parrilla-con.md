@@ -3,7 +3,7 @@ layout: post
 title: LOMO DE JABALI EN ADOBO, A LA PARRILLA CON CALABACIN
 date: '2011-02-07T14:46:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:34.799-07:00'

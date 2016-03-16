@@ -3,7 +3,7 @@ layout: post
 title: PATATAS CON QUESO AL HORNO
 date: '2010-06-01T13:33:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:13.660-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: BIZCOCHO DE CORTE
 date: '2010-05-20T15:47:00.005-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 modified_time: '2016-03-16T01:53:16.741-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4156241171403282676

@@ -3,7 +3,7 @@ layout: post
 title: FRITOS DE COLIFLOR CON BECHAMEL
 date: '2014-03-11T02:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:33.463-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: PICADILLO ANDALUZ
 date: '2010-06-03T13:31:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:12.971-07:00'

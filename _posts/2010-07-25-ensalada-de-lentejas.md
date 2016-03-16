@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE LENTEJAS
 date: '2010-07-25T04:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Ensaladas
 modified_time: '2016-03-16T01:52:56.782-07:00'

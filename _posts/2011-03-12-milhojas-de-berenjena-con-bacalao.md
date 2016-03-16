@@ -3,7 +3,7 @@ layout: post
 title: MILHOJAS DE BERENJENA CON BACALAO
 date: '2011-03-12T02:19:00.002-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:34.426-07:00'

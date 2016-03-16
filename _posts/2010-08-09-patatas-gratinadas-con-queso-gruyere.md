@@ -3,7 +3,7 @@ layout: post
 title: PATATAS GRATINADAS CON QUESO GRUYERE
 date: '2010-08-09T03:21:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:56.269-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3638139474249260084

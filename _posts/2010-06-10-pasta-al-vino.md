@@ -3,7 +3,7 @@ layout: post
 title: PASTA AL VINO
 date: '2010-06-10T15:33:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pastas
 modified_time: '2016-03-16T01:53:10.792-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7161873423085187172

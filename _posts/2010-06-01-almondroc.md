@@ -3,7 +3,7 @@ layout: post
 title: ALMONDROC
 date: '2010-06-01T13:30:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:13.771-07:00'

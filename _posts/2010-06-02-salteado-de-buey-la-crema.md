@@ -3,7 +3,7 @@ layout: post
 title: SALTEADO DE BUEY A LA CREMA
 date: '2010-06-02T13:17:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:13.230-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8937232428073998712

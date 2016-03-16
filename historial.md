@@ -6,7 +6,7 @@ layout: page
   <div class="row">
     {% capture nfecha %}{{ post.date | date_to_string }}{% endcapture %}
     {% if fecha != nfecha %}
-        <div class="col-xs-2">{{ post.date | date_to_string }}</div>
+        <time class="col-xs-2">{{ post.date | date_to_string }}</time>
         <div class="col-xs-10">
         {% capture fecha %}{{ post.date | date_to_string}}{% endcapture %}
     {% else %}

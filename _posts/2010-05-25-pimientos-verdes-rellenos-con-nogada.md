@@ -3,7 +3,7 @@ layout: post
 title: PIMIENTOS VERDES RELLENOS CON NOGADA
 date: '2010-05-25T14:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 - Carnes y derivados

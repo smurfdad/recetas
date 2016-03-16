@@ -3,7 +3,7 @@ layout: post
 title: TORTILLA DE BACALAO
 date: '2010-05-29T03:10:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:15.125-07:00'

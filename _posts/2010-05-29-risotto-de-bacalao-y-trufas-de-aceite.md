@@ -3,7 +3,7 @@ layout: post
 title: RISOTTO DE BACALAO Y TRUFAS DE ACEITE DE OLIVA VIRGEN
 date: '2010-05-29T05:58:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Arroces
 modified_time: '2016-03-16T01:53:15.098-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: MOUSSE DE VIEIRAS
 date: '2010-08-09T02:43:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:56.599-07:00'

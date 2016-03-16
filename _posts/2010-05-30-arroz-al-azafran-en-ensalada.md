@@ -3,7 +3,7 @@ layout: post
 title: ARROZ AL AZAFRÁN EN ENSALADA
 date: '2010-05-30T13:49:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Ensaladas
 modified_time: '2016-03-16T01:53:14.602-07:00'

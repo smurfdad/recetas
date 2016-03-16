@@ -3,7 +3,7 @@ layout: post
 title: PASTEL DE ATÚN Y GARBANZOS
 date: '2011-03-12T02:28:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:34.313-07:00'

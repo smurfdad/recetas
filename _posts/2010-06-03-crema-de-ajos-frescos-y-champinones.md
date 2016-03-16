@@ -3,7 +3,7 @@ layout: post
 title: CREMA DE AJOS FRESCOS Y CHAMPIÑONES
 date: '2010-06-03T13:28:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 - Setas y hongos
 modified_time: '2016-03-16T01:53:13.056-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: ALUBIAS ESTOFADAS
 date: '2010-06-04T03:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:12.782-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4431833837519215650

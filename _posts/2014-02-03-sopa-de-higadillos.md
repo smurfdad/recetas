@@ -3,7 +3,7 @@ layout: post
 title: SOPA DE HIGADILLOS
 date: '2014-02-03T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:33.806-07:00'

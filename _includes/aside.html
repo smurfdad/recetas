@@ -10,10 +10,19 @@
     <h3>Categorias</h3>
     <ul class="list-unstyled">
         {% for tema in site.categories %}
-        <li>{{tema | first | capitalize}} <span class="badge pull-right">{{tema[1] | size}}</span></li>
+        {% capture categoria %}{{tema | first }}{% endcapture%}
+        {% capture cuenta %}{{tema[1] | size}}{% endcapture%}
+        <li><a href="/categorias/#{{categoria | slugify}}">{{categoria | capitalize}} <span class="badge pull-right">{{cuenta}}</span></a></li>
         {% endfor %}
+    </ul>
+</div>
+<div class="bs-callout bs-callout-success">
+    <h3>Ingredientes</h3>
+    <ul class="list-unstyled">
         {% for tema in site.tags %}
-        <li>{{tema | first | capitalize}} <span class="badge pull-right">{{tema[1] | size}}</span></li>
+            {% capture tag %}{{tema | first }}{% endcapture%}
+            {% capture cuenta %}{{tema[1] | size}}{% endcapture%}
+        <li><a href="/ingredientes/#{{ tag | slugify}}">{{tag | capitalize}} <span class="badge pull-right">{{cuenta}}</span></a></li>
         {% endfor %}
     </ul>
 </div>

@@ -3,7 +3,7 @@ layout: post
 title: JUDÍAS CON JAMÓN Y HUEVOS ESCALFADOS
 date: '2010-08-09T03:21:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:56.277-07:00'

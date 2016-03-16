@@ -3,7 +3,7 @@ layout: post
 title: ESPAGUETIS CON ALMEJAS Y MEJILLONES
 date: '2014-02-08T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Mariscos y moluscos
 - Pastas
 modified_time: '2016-03-16T01:52:33.754-07:00'

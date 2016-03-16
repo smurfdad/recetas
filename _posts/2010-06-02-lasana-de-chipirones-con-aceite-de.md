@@ -3,7 +3,7 @@ layout: post
 title: LASAÑA DE CHIPIRONES CON ACEITE DE CEBOLLINO Y CHIPIRÓN
 date: '2010-06-02T13:15:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Mariscos y moluscos
 - Pastas
 modified_time: '2016-03-16T01:53:13.275-07:00'

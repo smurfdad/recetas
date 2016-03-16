@@ -3,7 +3,7 @@ layout: post
 title: BOLITAS DE CARNE, CON QUESO
 date: '2010-06-01T10:22:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:14.458-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: POTAJE SERRANO
 date: '2010-05-29T14:13:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:14.667-07:00'

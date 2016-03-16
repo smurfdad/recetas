@@ -3,7 +3,7 @@ layout: post
 title: TARTA DE MANZANA
 date: '2010-05-28T07:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:53:15.333-07:00'

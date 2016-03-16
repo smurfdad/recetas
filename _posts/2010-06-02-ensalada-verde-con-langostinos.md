@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA VERDE CON LANGOSTINOS
 date: '2010-06-02T13:09:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:13.392-07:00'

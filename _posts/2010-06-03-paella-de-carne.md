@@ -3,7 +3,7 @@ layout: post
 title: PAELLA DE CARNE
 date: '2010-06-03T13:30:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:12.999-07:00'

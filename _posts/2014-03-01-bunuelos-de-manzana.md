@@ -3,7 +3,7 @@ layout: post
 title: BUÑUELOS DE MANZANA
 date: '2014-03-01T01:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 - Frutas

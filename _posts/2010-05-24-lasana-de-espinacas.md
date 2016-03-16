@@ -3,7 +3,7 @@ layout: post
 title: LASAÑA DE ESPINACAS
 date: '2010-05-24T09:34:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Pastas
 modified_time: '2016-03-16T01:53:16.182-07:00'

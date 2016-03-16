@@ -3,7 +3,7 @@ layout: post
 title: PIMIENTOS RELLENOS DE CHATKA
 date: '2010-05-25T17:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:15.761-07:00'

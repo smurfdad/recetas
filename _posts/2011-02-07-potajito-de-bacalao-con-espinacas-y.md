@@ -3,7 +3,7 @@ layout: post
 title: POTAJITO DE BACALAO CON ESPINACAS Y GARBANZOS
 date: '2011-02-07T14:54:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:34.720-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: PAELLA CASERA
 date: '2010-05-25T13:22:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 modified_time: '2016-03-16T01:53:15.850-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8633043930581255918

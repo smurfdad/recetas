@@ -3,7 +3,7 @@ layout: post
 title: PESCADILLA RELLENA DE CHAMPIÑONES
 date: '2010-08-09T03:26:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Setas y hongos
 modified_time: '2016-03-16T01:52:55.829-07:00'

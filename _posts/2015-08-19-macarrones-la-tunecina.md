@@ -3,7 +3,7 @@ layout: post
 title: MACARRONES A LA TUNECINA
 date: '2015-08-19T00:39:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 - Pastas

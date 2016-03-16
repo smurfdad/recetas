@@ -3,7 +3,7 @@ layout: post
 title: PASTEL DE ESPÁRRAGOS TRIGUEROS Y SALMÓN
 date: '2010-08-09T02:58:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:56.461-07:00'

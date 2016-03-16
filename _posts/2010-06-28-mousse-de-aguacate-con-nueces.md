@@ -3,7 +3,7 @@ layout: post
 title: MOUSSE DE AGUACATE CON NUECES
 date: '2010-06-28T04:25:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Frutas
 modified_time: '2016-03-16T01:53:05.432-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3538026405723151588

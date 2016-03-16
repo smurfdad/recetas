@@ -3,7 +3,7 @@ layout: post
 title: FILETES DE LUBINA A LA DENIA
 date: '2010-06-01T10:20:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 modified_time: '2016-03-16T01:53:14.503-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2418334826771625758

@@ -3,7 +3,7 @@ layout: post
 title: CANELONES DE BONITO
 date: '2010-05-20T15:53:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Pastas
 modified_time: '2016-03-16T01:53:16.645-07:00'

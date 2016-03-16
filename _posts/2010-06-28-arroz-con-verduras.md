@@ -3,7 +3,7 @@ layout: post
 title: ARROZ CON VERDURAS
 date: '2010-06-28T04:05:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Arroces
 modified_time: '2016-03-16T01:53:05.613-07:00'

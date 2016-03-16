@@ -3,7 +3,7 @@ layout: post
 title: SUQUET DE PESCADO
 date: '2010-06-01T11:31:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Sopas y cremas
 modified_time: '2016-03-16T01:53:14.114-07:00'

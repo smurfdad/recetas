@@ -3,7 +3,7 @@ layout: post
 title: RODABALLO AL HORNO CON HONGOS Y AJOS CONFITADOS
 date: '2010-08-09T03:23:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Setas y hongos
 modified_time: '2016-03-16T01:52:56.261-07:00'

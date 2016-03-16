@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE ARROZ SALVAJE CON ALCACHOFAS
 date: '2011-02-07T15:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Arroces
 - Ensaladas

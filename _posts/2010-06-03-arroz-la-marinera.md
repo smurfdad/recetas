@@ -3,7 +3,7 @@ layout: post
 title: ARROZ A LA MARINERA
 date: '2010-06-03T13:22:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Arroces
 modified_time: '2016-03-16T01:53:13.195-07:00'

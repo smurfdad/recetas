@@ -3,7 +3,7 @@ layout: post
 title: CROQUETAS DE ARROZ
 date: '2010-06-02T13:10:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Entrantes y bocadillos
 modified_time: '2016-03-16T01:53:13.377-07:00'

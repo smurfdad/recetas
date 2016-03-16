@@ -3,7 +3,7 @@ layout: post
 title: SOPA DE BRECOL Y QUESO
 date: '2011-02-07T14:46:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Sopas y cremas
 modified_time: '2016-03-16T01:52:34.787-07:00'

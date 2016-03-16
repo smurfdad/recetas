@@ -3,7 +3,7 @@ layout: post
 title: TARTA HELADA DE QUESO
 date: '2010-08-09T02:59:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 modified_time: '2016-03-16T01:52:56.429-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: ARROZ SALTEADO CON OMELETTE DE VEGETALES
 date: '2010-06-28T04:24:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Arroces
 modified_time: '2016-03-16T01:53:05.440-07:00'

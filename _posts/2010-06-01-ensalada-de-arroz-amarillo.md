@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE ARROZ AMARILLO
 date: '2010-06-01T13:33:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Ensaladas
 modified_time: '2016-03-16T01:53:13.675-07:00'

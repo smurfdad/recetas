@@ -3,7 +3,7 @@ layout: post
 title: ENSALADILLA RUSA
 date: '2010-05-30T13:44:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Ensaladas
 modified_time: '2016-03-16T01:53:14.637-07:00'

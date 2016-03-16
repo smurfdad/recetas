@@ -3,7 +3,7 @@ layout: post
 title: HUEVOS REVUELTOS CON BACALAO
 date: '2014-01-10T23:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Huevos y lácteos
 modified_time: '2016-03-16T01:52:34.070-07:00'

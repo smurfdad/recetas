@@ -3,7 +3,7 @@ layout: post
 title: CREMA PASTELERA
 date: '2010-05-20T16:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 - Postres y dulces
 modified_time: '2016-03-16T01:53:16.444-07:00'

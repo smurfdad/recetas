@@ -3,7 +3,7 @@ layout: post
 title: PECHUGAS A LA CREMA DE PUERROS CON PATATAS DORE
 date: '2014-03-02T01:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:33.562-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: MOUSAKA DE ACELGAS
 date: '2010-05-25T13:23:00.003-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Setas y hongos
 modified_time: '2016-03-16T01:53:15.822-07:00'

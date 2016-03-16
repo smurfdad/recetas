@@ -3,7 +3,7 @@ layout: post
 title: ENDIBIAS AL ROQUEFORT
 date: '2010-05-22T11:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:16.415-07:00'

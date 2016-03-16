@@ -3,7 +3,7 @@ layout: post
 title: PURÉ DE CALABAZA
 date: '2011-01-03T09:54:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Sopas y cremas
 modified_time: '2016-03-16T01:52:34.895-07:00'

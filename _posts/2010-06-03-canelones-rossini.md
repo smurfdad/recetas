@@ -3,7 +3,7 @@ layout: post
 title: CANELONES ROSSINI
 date: '2010-06-03T15:30:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Carnes y derivados
 - Pastas
 modified_time: '2016-03-16T01:53:12.871-07:00'

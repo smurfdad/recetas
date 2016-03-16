@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE BACALAO
 date: '2010-06-28T04:09:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Ensaladas
 modified_time: '2016-03-16T01:53:05.573-07:00'

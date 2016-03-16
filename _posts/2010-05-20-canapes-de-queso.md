@@ -3,7 +3,7 @@ layout: post
 title: CANAPÉS DE QUESO
 date: '2010-05-20T15:53:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Entrantes y bocadillos
 modified_time: '2016-03-16T01:53:16.652-07:00'

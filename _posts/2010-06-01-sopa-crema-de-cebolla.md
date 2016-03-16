@@ -3,7 +3,7 @@ layout: post
 title: SOPA-CREMA DE CEBOLLA
 date: '2010-06-01T13:25:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 modified_time: '2016-03-16T01:53:13.957-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8221271598833212079

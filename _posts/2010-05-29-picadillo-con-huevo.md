@@ -3,7 +3,7 @@ layout: post
 title: PICADILLO CON HUEVO
 date: '2010-05-29T03:01:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:15.189-07:00'

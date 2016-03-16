@@ -3,7 +3,7 @@ layout: post
 title: ALCACHOFAS CON HUEVOS ESCALFADOS
 date: '2010-06-28T04:35:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:05.317-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: BONITO SALTEADO CON SOPAKO
 date: '2010-06-01T10:31:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:14.335-07:00'

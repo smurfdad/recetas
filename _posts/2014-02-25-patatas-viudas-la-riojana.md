@@ -3,7 +3,7 @@ layout: post
 title: PATATAS VIUDAS A LA RIOJANA
 date: '2014-02-25T01:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 modified_time: '2016-03-16T01:52:33.619-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3318419193934960699

@@ -3,7 +3,7 @@ layout: post
 title: SOPA DE MELÓN
 date: '2010-05-28T09:37:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 - Frutas
 modified_time: '2016-03-16T01:53:15.263-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: TORTILLA DE ANCHOAS
 date: '2010-06-02T13:09:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:13.406-07:00'

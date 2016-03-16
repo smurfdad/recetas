@@ -3,7 +3,7 @@ layout: post
 title: SOPA DE MEJILLONES A LA MARINERA
 date: '2014-01-20T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Sopas y cremas
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:33.980-07:00'

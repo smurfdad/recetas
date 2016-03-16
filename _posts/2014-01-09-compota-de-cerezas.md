@@ -3,7 +3,7 @@ layout: post
 title: COMPOTA DE CEREZAS
 date: '2014-01-09T23:00:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:52:34.080-07:00'

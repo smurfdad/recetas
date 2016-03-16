@@ -3,7 +3,7 @@ layout: post
 title: ARROZ CREMOSO CON BERBERECHOS Y MEJILLONES
 date: '2014-02-17T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:33.654-07:00'

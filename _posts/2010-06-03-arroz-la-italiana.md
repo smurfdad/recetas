@@ -3,7 +3,7 @@ layout: post
 title: ARROZ A LA ITALIANA
 date: '2010-06-03T13:23:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Arroces
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:13.188-07:00'

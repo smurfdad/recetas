@@ -3,7 +3,7 @@ layout: post
 title: TURBANTE DE PIÑA
 date: '2010-05-29T02:22:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Postres y dulces
 - Frutas
 modified_time: '2016-03-16T01:53:15.211-07:00'

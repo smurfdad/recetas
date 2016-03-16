@@ -3,7 +3,7 @@ layout: post
 title: MACARRONES CON PANCETA Y QUESO DE CABRA
 date: '2010-08-09T02:59:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pastas
 modified_time: '2016-03-16T01:52:56.437-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5291537067465592998

@@ -3,7 +3,7 @@ layout: post
 title: SALSA AMERICANA
 date: '2010-05-27T05:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Salsas
 modified_time: '2016-03-16T01:53:15.453-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3603311615001887913

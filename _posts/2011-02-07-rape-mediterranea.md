@@ -3,7 +3,7 @@ layout: post
 title: RAPE MEDITERRÁNEA
 date: '2011-02-07T14:39:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 modified_time: '2016-03-16T01:52:34.857-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7341410374054484081

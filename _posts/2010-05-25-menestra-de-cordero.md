@@ -3,7 +3,7 @@ layout: post
 title: MENESTRA DE CORDERO
 date: '2010-05-25T13:24:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 - Setas y hongos

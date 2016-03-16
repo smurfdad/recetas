@@ -3,7 +3,7 @@ layout: post
 title: QUESO PHILADELPHIA CON FRESAS Y KIWI
 date: '2010-08-09T02:58:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Frutas
 modified_time: '2016-03-16T01:52:56.445-07:00'

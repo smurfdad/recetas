@@ -3,7 +3,7 @@ layout: post
 title: PECHUGA DE POLLO CON PIÑA
 date: '2014-02-01T02:25:00.000-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:33.828-07:00'

@@ -3,7 +3,7 @@ layout: post
 title: PATATAS A LO POBRE
 date: '2010-05-30T13:48:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 modified_time: '2016-03-16T01:53:14.609-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6936039963292531328

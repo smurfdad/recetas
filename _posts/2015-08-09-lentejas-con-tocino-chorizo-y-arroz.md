@@ -3,7 +3,7 @@ layout: post
 title: LENTEJAS CON TOCINO, CHORIZO Y ARROZ
 date: '2015-08-09T06:00:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Arroces
 modified_time: '2016-03-16T01:52:33.378-07:00'

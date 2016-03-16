@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE FIDEOS
 date: '2010-06-01T13:34:00.004-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Pastas
 modified_time: '2016-03-16T01:53:13.645-07:00'

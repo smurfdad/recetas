@@ -3,7 +3,7 @@ layout: post
 title: CREMA DE QUESO PHILADELPHIA Y LIMÓN
 date: '2010-08-09T03:41:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 - Frutas

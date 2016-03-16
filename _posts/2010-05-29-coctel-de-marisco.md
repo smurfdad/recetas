@@ -3,7 +3,7 @@ layout: post
 title: CÓCTEL DE MARISCO
 date: '2010-05-29T14:11:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:53:14.711-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8449823717520420606

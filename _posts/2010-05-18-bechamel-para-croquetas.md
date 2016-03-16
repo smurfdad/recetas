@@ -3,7 +3,7 @@ layout: post
 title: BECHAMEL PARA CROQUETAS
 date: '2010-05-18T17:16:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Salsas
 - Huevos y lácteos
 modified_time: '2016-03-16T01:53:16.781-07:00'

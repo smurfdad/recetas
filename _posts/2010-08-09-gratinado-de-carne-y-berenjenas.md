@@ -3,7 +3,7 @@ layout: post
 title: GRATINADO DE CARNE Y BERENJENAS
 date: '2010-08-09T03:00:00.002-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Verduras y legumbres
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:56.421-07:00'

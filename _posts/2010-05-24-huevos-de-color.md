@@ -3,7 +3,7 @@ layout: post
 title: HUEVOS DE COLOR
 date: '2010-05-24T09:37:00.000-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Pescados
 - Verduras y legumbres
 - Huevos y lácteos

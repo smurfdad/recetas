@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE AGUACATE Y PINA
 date: '2010-05-23T13:41:00.001-07:00'
 author: Smurf Dad
-tags:
+categories:
 - Ensaladas
 - Frutas
 modified_time: '2016-03-16T01:53:16.218-07:00'

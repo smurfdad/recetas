@@ -3,7 +3,7 @@ layout: post
 title: HELADO DE YOGURT CON LIMON
 date: '2011-02-07T15:13:00.001-08:00'
 author: Smurf Dad
-tags:
+categories:
 - Huevos y lácteos
 - Postres y dulces
 modified_time: '2016-03-16T01:52:34.460-07:00'
