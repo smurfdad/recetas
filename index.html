@@ -2,22 +2,30 @@
 layout: default
 ---
 {%assign first_post_id = site.posts.first.id%}
+{%assign linea = 0%}
+{%assign linea2 = 0%}
 {% for post in paginator.posts %}
-  <article>
-    <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
-    <small>{{ post.date | date_to_string }}</small>
-    <div class="bs-callout bs-callout-primary text-justify">
-      {% if first_post_id == post.id %}
+  {% if first_post_id == post.id %}
+    <div class="row">
+    <article class="col-md-12">
+      <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+      <small>{{ post.date | date_to_string }}</small>
+      <div class="bs-callout bs-callout-primary text-justify">
         {{ post.content }}
-      {% else %}
-        {{ post.excerpt }}
-      {% endif %}
+       </div>
+      </article>
     </div>
-  </article>
+  {% else %}
+    <article class="col-md-4 titular">
+      <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
+      <small>{{ post.date | date_to_string }}</small>
+    </article>
+  {% endif %}
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-  <nav>
+  <div class="clearfix"></div>
+  <nav class="row">
     <ul class="pager">
     {% if paginator.previous_page %}
       <li class="pull-left"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="glyphicon glyphicon-chevron-left"></i> Entradas recientes</a></li>
@@ -28,4 +36,5 @@ layout: default
     {% endif %}
     </ul>
   </nav>
+
 {% endif %}

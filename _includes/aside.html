@@ -10,10 +10,10 @@
     <h3>Categorias</h3>
     <ul class="list-unstyled">
         {% for tema in site.categories %}
-        <li class="cloud-tag-list-item cloud-tag-list-item-warning">{{tema | first | capitalize}} <span class="badge">{{tema[1] | size}}</span></li>
+        <li>{{tema | first | capitalize}} <span class="badge pull-right">{{tema[1] | size}}</span></li>
         {% endfor %}
         {% for tema in site.tags %}
-        <li class="cloud-tag-list-item cloud-tag-list-item-warning">{{tema | first | capitalize}} <span class="badge">{{tema[1] | size}}</span></li>
+        <li>{{tema | first | capitalize}} <span class="badge pull-right">{{tema[1] | size}}</span></li>
         {% endfor %}
     </ul>
 </div>
