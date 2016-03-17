@@ -18,11 +18,9 @@
 </div>
 <div class="bs-callout bs-callout-success">
     <h3>Ingredientes</h3>
-    <ul class="list-unstyled">
-        {% for tema in site.tags %}
-            {% capture tag %}{{tema | first }}{% endcapture%}
-            {% capture cuenta %}{{tema[1] | size}}{% endcapture%}
-        <li><a href="/ingredientes/#{{ tag | slugify}}">{{tag | capitalize}} <span class="badge pull-right">{{cuenta}}</span></a></li>
-        {% endfor %}
-    </ul>
+    {% for tema in site.tags %}
+        {% capture tag %}{{tema | first }}{% endcapture%}
+        {% capture cuenta %}{{tema[1] | size}}{% endcapture%}
+    <a href="/ingredientes/#{{ tag | slugify}}">{{tag | capitalize}}</a>{%if tema != site.tags.last%}, {%endif%}
+    {% endfor %}
 </div>
