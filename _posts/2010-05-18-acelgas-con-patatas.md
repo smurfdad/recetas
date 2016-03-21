@@ -14,9 +14,9 @@ Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 1 1/2 Kg. acelgas
-3 patatas
-3 dientes de ajo en filetes
-un poco de aceite de oliva
+- 3 patatas
+- 3 dientes de ajo en filetes
+- un poco de aceite de oliva
 
 <h3>Preparaci&oacute;n</h3>
 Utilizar lo verde solamente (las pencas las guardamos para hacer pencas rellenas, o rebozadas).
