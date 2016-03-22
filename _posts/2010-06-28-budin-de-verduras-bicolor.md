@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: BUDÍN DE VERDURAS BICOLOR
+
 date: '2010-06-28T04:45:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:05.230-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7365234285604260281
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/budin-de-verduras-bicolor.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1kilo de remolachas
 
 1kilo de espinaca lavada y escurrida sin los tallos
@@ -30,6 +41,7 @@ Sal, pimienta y nuez moscada a gusto
 2 cucharadas de aceite para freír
 
 <h3>Preparación</h3>
+
 En una sartén rehogar las cebollas y los echalottes.
 
 Lavar bien las remolachas y ponerlas a hervir en agua salada con la cáscara, cuando estén tiernas retirarlas dejar entibiar, pelarlas, cortarlas en cubos y procesar.

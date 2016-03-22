@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: BOLITAS DE CARNE, CON QUESO
+
 date: '2010-06-01T10:22:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Huevos y lácteos
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:14.458-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6047891506866471220
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/bolitas-de-carne-con-queso.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1/2 kg. de carne de ternera picada
 
 2 huevos
@@ -43,6 +55,7 @@ pan rallado
 con unas gotas de tabasco
 
 <h3>Preparación</h3>
+
 De víspera, se pone a remojar el pan en un cuenco con la leche y se mete al frigorífico cubierto con film transparente. Cuando se vaya a preparar, se pone la carne picada en un bol.
 
 Se escurre bien el pan remojado en leche, empleando ambas manos, y se incorpora a la carne picada. Se añade dos huevos, y se sazona con sal y pimienta. Se le añade el ajo y el perejil picado, y se trabaja bien con un tenedor, hasta que quede una masa homogénea. Se bate el huevo y se prepara un plato con harina y otro con pan rallado. Se corta el queso en tacos.

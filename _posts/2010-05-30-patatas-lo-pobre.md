@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: PATATAS A LO POBRE
+
 date: '2010-05-30T13:48:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:14.609-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6936039963292531328
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/patatas-lo-pobre.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 1 kg. de patatas.
 
 1 kg. de cebollas.
@@ -20,6 +31,7 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/patatas-lo-pobre.html
 Sal.
 
 <h3>Preparación</h3>
+
 Se pelan y se cortan las patatas como si fueran para tortilla española.
 
 Con las cebollas hacemos lo mismo.

@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: RABO DE BUEY CON HABONES DE SANABRIA
+
 date: '2010-06-01T10:29:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:14.358-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4372085711840443405
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rabo-de-buey-con-habones-de-sanabria.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 kg. de rabo de buey
 
 1 ó 2 cebollas
@@ -41,6 +53,7 @@ sal gorda
 1/2 l. de agua
 
 <h3>Preparación</h3>
+
 Se ponen en remojo los habones en agua tibia y sal gorda entre 12 y 14 horas. Se echa el aceite en una cazuela con la cebolla troceada. Cuando esté rehogada la cebolla se echa el rabo de buey, también troceado, se añade el tomate y dos hojas de laurel, se sigue rehogando diez minutos más, se echan los ajos troceados y el pimentón, el vaso de vino blanco y el vinagre, 1/2 litro de agua y se deja hervir durante media hora.
 
 A continuación se echan los habones de Sanabria y se deja hervir durante una hora más con las dos hojas de laurel. Cuando estén tiernos los habones se echa la sal y los cachelos cocidos. Preferible comer en cazuela de barro.

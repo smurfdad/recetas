@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: GUIARRA O LOMO DE CERDO CON LECHE
+
 date: '2010-05-24T09:38:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:16.085-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8900417297241230186
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/guiarra-o-lomo-de-cerdo-con-leche.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 kg. de guiarra o lomo de cerdo en un trozo
 
 sal, aceite de oliva
@@ -24,6 +35,7 @@ sal, aceite de oliva
 harina
 
 <h3>Preparación</h3>
+
 Se pone sal al trozo de carne y se ata con una cuerda.
 
 En una cazuela se pone un poco de aceite, y cuando esté caliente se coloca la carne pasada por harina y las zanahorias peladas y picadas en trozos pequeños.

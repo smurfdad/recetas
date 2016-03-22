@@ -1,16 +1,26 @@
 ---
+
 layout: post
+
 title: CALAMARES RELLENOS
+
 date: '2010-06-10T15:35:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:10.785-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5837010756986333010
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/calamares-rellenos.html
+
 ---
 
-<a name='more'></a><h3>Ingredientes</h3>cuatro calamares frescos
+<h3>Ingredientes</h3>cuatro calamares frescos
 
 dos latas de atun
 
@@ -23,8 +33,6 @@ una cebolla
 un vasito de vino blanco
 
 patatas
-
-
 
 <h3>Preparación</h3>Se limpian muy bien los calamares , se reservan las patas de los mismos, para rellenarlos, mientras se ponen los huevos a acocer , en una sarten se rehogan un poco las patitas de los calamares, a continuacion en el mismo aceite se le añade los tomates triturados y se rehogan durante diez minutos , esto se aparta y se reserva.
 

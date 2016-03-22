@@ -1,20 +1,32 @@
 ---
+
 layout: post
+
 title: ROLLITOS DE JAMÓN RELLENOS DE ENSALADILLA RUSA
+
 date: '2010-06-10T15:29:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Verduras y legumbres
+
 - Ensaladas
+
 modified_time: '2016-03-16T01:53:10.855-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4433596352763658524
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rollitos-de-jamon-rellenos-de.html
+
 ---
 
 Para 4 personas.
 
-<a name='more'></a><h3>Ingredientes</h3>8 lonchas de jamón
+<h3>Ingredientes</h3>8 lonchas de jamón
 
 1/2 lechuga
 
@@ -33,8 +45,6 @@ Para 4 personas.
 Sal
 
 Mayonesa
-
-
 
 <h3>Preparación</h3>Cocemos los huevos en agua con sal durante 10 minutos, una vez cocidos los sacamos de la cazuela y los refrescamos bajo chorro de agua fría.
 

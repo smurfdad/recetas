@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: ESPAGUETIS CON SALMÓN
+
 date: '2010-06-02T13:11:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Pastas
+
 modified_time: '2016-03-16T01:53:13.348-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8145560106246476275
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/espaguetis-con-salmon.html
+
 ---
 
 Para 1 personas.
 
 <h3>Ingredientes</h3>
+
 75 g de espaguetis finos
 
 sal
@@ -34,9 +46,8 @@ pimienta
 
 2 cucharadas soperas de creme fraiche
 
-
-
 <h3>Preparación</h3>
+
 Cocer los espaguetis en agua con sal hasta que estén al dente, siguiendo las instrucciones indicadas en el paquete.
 
 Pelar las escalonias y el ajo, y cortarlos. Limpiar las espinacas, lavarlas y picarlas bien. Cortar el filete de pescado en forma de dados.

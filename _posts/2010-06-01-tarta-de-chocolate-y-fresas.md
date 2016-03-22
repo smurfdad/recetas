@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: TARTA DE CHOCOLATE Y FRESAS
+
 date: '2010-06-01T13:23:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 - Frutas
+
 modified_time: '2016-03-16T01:53:14.061-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-464811242902883150
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/tarta-de-chocolate-y-fresas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 500 gr. de fresas del mismo tamaño más o menos
 
 4 cucharadas soperas de mermelada de fresas
@@ -30,9 +42,8 @@ Para 4 personas.
 
 60 cl. de nata doble
 
-
-
 <h3>Preparación</h3>
+
 Se enciende el horno para que se vaya calentando. Se pone el chocolate en trozos en un cazo al baño maría. Se le añaden dos cucharadas de agua y se remueve, hasta que se funda.
 
 Una vez fundido el chocolate, se le añade el azúcar y se disuelve bien. A continuación, se retira del fuego y se le agregan 125 gr. de mantequilla en trozos, las yemas de huevo, de una en una, y la harina tamizada. Se trabaja bien esta mezcla hasta que quede homogénea. Se baten las claras a punto de nieve bien firme y se añaden con delicadeza a la mezcla anterior.

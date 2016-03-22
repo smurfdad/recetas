@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: HUEVOS CON ESPINACAS
+
 date: '2010-05-24T09:37:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Huevos y lácteos
+
 modified_time: '2016-03-16T01:53:16.123-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7605305972011657009
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/huevos-con-espinacas.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 6 huevos
 
 1 kg. tomates
@@ -29,6 +41,7 @@ la leche necesaria para la bechamel
 aceite, sal y cebolla
 
 <h3>Preparación</h3>
+
 Cocer las espinacas, escurrirlas bien y reservar.
 
 Freír la cebolla en el aceite y cuando empiece a dorarse añadir el tomate y dejarlo hacer a fuego suave una media hora. Pasarlo por el pasapuré.

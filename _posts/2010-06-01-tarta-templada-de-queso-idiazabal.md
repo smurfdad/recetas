@@ -1,17 +1,29 @@
 ---
+
 layout: post
+
 title: TARTA TEMPLADA DE QUESO IDIAZABAL
+
 date: '2010-06-01T11:37:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Huevos y lácteos
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:53:14.099-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5830444736597154826
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/tarta-templada-de-queso-idiazabal.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 200 gr. de harina
 
 150 gr. de mantequilla
@@ -19,8 +31,6 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/tarta-templada-de-que
 50 gr. de azúcar lustre
 
 2 huevos y aromas al gusto
-
-
 
 Para la crema de queso:
 
@@ -41,6 +51,7 @@ Para la crema de queso:
 ralladura de la corteza de un limón
 
 <h3>Preparación</h3>
+
 Se prepara la pasta amasando y estirando los ingredientes. Se forra el molde y se mete al horno a 200º durante 8-10 minutos. Se prepara la crema hirviendo la leche, la nata, la crema de queso y el queso Idiazábal.
 
 Se añade el azúcar, las yemas de huevo, la Maizena y la ralladura de limón, manteniéndolo todo a fuego lento durante algunos minutos. Con la crema resultante se llena la pasta obtenida anteriormente y se mete al horno a 150º durante 20 minutos

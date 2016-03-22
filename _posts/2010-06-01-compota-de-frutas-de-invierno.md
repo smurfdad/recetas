@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: COMPOTA DE FRUTAS DE INVIERNO
+
 date: '2010-06-01T10:27:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Frutas
+
 modified_time: '2016-03-16T01:53:14.405-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4102143021465901594
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/compota-de-frutas-de-invierno.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 200 gr. de higos secos
 
 175 gr. de ciruelas pasas
@@ -36,6 +47,7 @@ Para 4 personas.
 2 cucharadas soperas de almendras fileteadas
 
 <h3>Preparación</h3>
+
 Se aclaran las pasas y se meten en un bol, junto con los higos, las ciruelas y los albaricoques. Se espolvorea el azúcar por encima y se vierte sobre el conjunto el zumo de limón. Se envuelven el palo de canela y los clavos de olor en una gasa y se ata. Se introduce este hatillo en el bol, entre los frutos secos.
 
 Se cubre todo con 75 cl. de agua. Se tapa el bol con papel de aluminio o papel film y se mete al frigorífico durante 24 horas.

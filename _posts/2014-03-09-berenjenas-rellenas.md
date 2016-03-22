@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: BERENJENAS RELLENAS
+
 date: '2014-03-09T01:00:00.000-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:52:33.484-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3860866292970687769
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/berenjenas-rellenas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 aceite de oliva
 
 4 berenjenas
@@ -32,6 +43,7 @@ aceite de oliva
 2 huevo, yemas
 
 <h3>Preparación</h3>
+
 Cortar a lo largo por la mitad las berenjenas y vaciarlas con cuidado.
 
 Picar la carne de las berenjenas y rehogarla con las cebollas en una sartén con aceite.Cuando estén doraditas, agregar los champiñones, perejil y la miga de pan.

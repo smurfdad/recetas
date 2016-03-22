@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: VIEIRAS Y OSTRAS AL CURRY
+
 date: '2010-06-01T10:28:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:14.390-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6427666314147305062
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/vieiras-y-ostras-al-curry.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 8 vieiras
 
 8 ostras grandes
@@ -36,6 +47,7 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
+
 Se abren las vieiras y se separan las partes blancas de las anaranjadas (coral). La parte blanca es la que se va a usar. Se lavan varias veces en agua fresca y se escurren.
 
 Se abren las ostras y se reserva el agua de las mismas, sin desperdiciar nada, pues hará falta para la salsa. Se quitan los rabos de las espinacas y se lavan en agua fría. Se escurren y se secan. Se pela la zanahoria y se sacan las bolitas pequeñas, con la ayuda de un sacabolas. Se echan las bolitas de zanahoria en un cazo con agua hirviendo, sazonada.

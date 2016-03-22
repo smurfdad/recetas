@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: MOUSSE DE SALMÓN
+
 date: '2010-05-25T13:22:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:15.843-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3306071821003967110
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/mousse-de-salmon.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 kg. de salmón ahumado o marinado
 
 3 cucharadas de aceite
@@ -24,6 +35,7 @@ Para 6 personas.
 1 cucharada sopera de perejil picado
 
 <h3>Preparación</h3>
+
 Forrar un molde alargado, untado de mantequilla, con láminas de salmón.
 
 Cortar el rersto del salmón en daditos y meterlos en la batidora, junto con el resto de los ingredientes, y triturar.

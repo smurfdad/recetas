@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: COLIFLOR CON SALSA MORNAY
+
 date: '2010-06-04T10:41:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:12.679-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7042714293184664493
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/coliflor-con-salsa-mornay.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 coliflor grande
 
 agua
@@ -33,9 +44,8 @@ pimienta blanca
 
 nuez moscada
 
-
-
 <h3>Preparación</h3>
+
 Limpiar y cortar la coliflor.
 
 Preparar una cazuela con agua y sal, cuando rompa a hervir, echar la coliflor y dejarla cocer.

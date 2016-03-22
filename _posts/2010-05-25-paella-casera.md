@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: PAELLA CASERA
+
 date: '2010-05-25T13:22:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Arroces
+
 modified_time: '2016-03-16T01:53:15.850-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8633043930581255918
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/paella-casera.html
+
 ---
 
 Para 10 personas.
 
 <h3>Ingredientes</h3>
+
 1 kg. arroz
 
 1/4 aceite
@@ -46,6 +57,7 @@ unas cuantas rodajas de chorizo
 2 huevos cocidos (opcional)
 
 <h3>Preparación</h3>
+
 Rehogar las carnes y una vez doradas añadir la cebolla, ajo, salchichas y chorizo.
 
 Cuando esté dorada la cebolla echar el tomate y el azafrán y a continuación el agua hirviendo, los guisantes y las pastillas de caldo.

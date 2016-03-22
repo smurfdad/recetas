@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: LENGUA DE TERNERA AL VINO TINTO
+
 date: '2010-05-29T14:12:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:14.680-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7373624006088860104
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/lengua-de-ternera-al-vino-tinto.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 750 grs. de lengua de ternera
 
 1 puerro
@@ -28,6 +39,7 @@ Medio litro de vino tinto
 Aceite y sal
 
 <h3>Preparación</h3>
+
 Se lava la lengua y se pone a cocer en agua abundante con media cebolla partida, el puerro troceado, la pimienta negra y sal.
 
 Cuando esté tierna se enfría al chorro de agua y después se quita la piel y se filetea.

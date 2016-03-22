@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: BACALAO AL ESTILO DE MI ABUELA
+
 date: '2010-06-28T04:27:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:05.409-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2644483496582674141
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/bacalao-al-estilo-de-mi-abuela.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 kg. de bacalao
 
 1 cebolla
@@ -28,6 +39,7 @@ ajo molido
 harina
 
 <h3>Preparación</h3>
+
 Se pone el bacalao a remojo y se cambia el agua 3 veces en 48 horas. (Si se hace esta receta con bacalao fresco no es necesario cambiar el agua 3 veces, pues se desala más rápidamente).
 
 Se echa un poco de aceite en una cazuela y se añade el tomate triturado con un poco de tomillo y el ajo molido.
@@ -39,8 +51,6 @@ Mientras tanto, se limpia el bacalao, se quita la piel y las espinas y se escurr
 Se enharina ligeramente el bacalao y se fríe vuelta y vuelta en otra sartén.
 
 Se retira el bacalao y se fríe en el mismo aceite en el que se ha dorado el bacalao, una cebolla cortada en rodajitas finas.
-
-
 
 Cuando el tomate está hecho se coloca en el fondo de una fuente, luego se pone el bacalao, luego la cebolla y por último el pimiento rojo en tiras y se acaba con una capa de tomate.
 

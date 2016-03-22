@@ -1,24 +1,34 @@
 ---
+
 layout: post
+
 title: PIMIENTOS RELLENOS DE CHATKA
+
 date: '2010-05-25T17:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:15.761-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7328485710804101012
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pimientos-rellenos-de-chatka.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
 
-
 1 lata y media de pimientos del piquillo
 
-250 grs. chatka (sirven tambi&eacute;n palitos de surimi)
+250 grs. chatka (sirven también palitos de surimi)
 
 3 cebollas
 
@@ -30,10 +40,9 @@ Para 6 personas.
 
 1 chorrito de co&ntilde;ac
 
-250 grs. nata l&iacute;quida
+250 grs. nata líquida
 
-<h3>Preparaci&oacute;n</h3>
-
+<h3>Preparación</h3>
 
 Rehogar la cebolla, zanahoria, puerro y ajo picados, en aceite de oliva.
 

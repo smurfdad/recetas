@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: CALDERETA DE PESCADORES
+
 date: '2010-06-01T10:24:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:14.443-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-959754821171122843
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/caldereta-de-pescadores.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 4 rodajas de mújol
 
 1 rodaja de rape
@@ -51,8 +62,6 @@ Pimienta
 
 Sal
 
-
-
 1/2 kg de puerros
 
 4 kg de patatas
@@ -70,6 +79,7 @@ pimienta negra
 sal
 
 <h3>Preparación</h3>
+
 Se cortan las raíces de los puerros y la parte verde más estropeada Se abren haciéndoles un corte a lo largo, calando hasta el centro y se lavan bajo el chorro de agua fría.
 
 En una cazuela se calienta la mantequilla con los puerros troceados (solamente la parte blanca) y se estofan tapados. Las patatas se lavan, pelan y cortan en rodajas y se añaden a los puerros cuando éstos estén blandos. Se echa el caldo para que cueza, despacio y tapado, hasta que esté la patata cocida.

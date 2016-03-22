@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: PESCADO BLANCO AL VINO BLANCO O CAVA
+
 date: '2010-05-25T13:20:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Setas y hongos
+
 modified_time: '2016-03-16T01:53:15.922-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1765322164919829701
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pescado-blanco-al-vino-blanco-o-cava.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 1/2 kg. de pescado blanco en lomos, sin piel ni espinas
 
 200 grs. de vino blanco o cava (1 vaso grande sin llenar)
@@ -31,6 +43,7 @@ Para 6 personas.
 1 cucharada de harina
 
 <h3>Preparación</h3>
+
 Lavar y secar el pescado. Darle sal.
 
 Colocar en fuente de horno untada de mantequilla, con la cebolla en trozos, perejil almejas, mojojones y vino.

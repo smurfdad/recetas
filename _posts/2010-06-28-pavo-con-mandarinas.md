@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: PAVO CON MANDARINAS
+
 date: '2010-06-28T04:16:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:05.528-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5883895323465162647
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pavo-con-mandarinas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1,500 kg. de pavo (pata y pechuga)
 
 3 mandarinas
@@ -26,6 +37,7 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
+
 Calentar el horno a 210º. Cortar el pavo en trozos grandes, sazonarlo muy ligeramente y ponerlo en una fuente de barro.
 
 Lavar las mandarinas y, sin pelarlas, cortarlas en gajos. Añadir al pavo y mezclar. Rociar con el aceite de oliva.

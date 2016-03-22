@@ -1,22 +1,32 @@
 ---
+
 layout: post
+
 title: FRITOS DE COLIFLOR CON BECHAMEL
+
 date: '2014-03-11T02:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Huevos y lácteos
+
 modified_time: '2016-03-16T01:52:33.463-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8630471108136667868
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/fritos-de-coliflor-con-bechamel.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 kilo de coliflor.
-
-
 
 Para la bechamel:
 
@@ -28,8 +38,6 @@ Para la bechamel:
 
 Sal y nuez moscada.
 
-
-
 1 plato con harina.
 
 2 huevos.
@@ -37,6 +45,7 @@ Sal y nuez moscada.
 Aceite de semillas para freír
 
 <h3>Preparación</h3>
+
 Quitamos las hojas verdes a la coliflor, la lavamos en agua fría y retiramos el tallo central, ahuecándolo por debajo con un cuchillo.
 
 En una cazuela ponemos agua con sal. Cuando el agua comience a hervir añadimos la coliflor entera y un poco de miga de pan mojada en leche (esto último es para evitar el mal olor).
@@ -44,8 +53,6 @@ En una cazuela ponemos agua con sal. Cuando el agua comience a hervir añadimos 
 La coliflor se deberá cocer con la cazuela destapada de 30 a 45 minutos.
 
 Para la bechamel ponemos a calentar la leche, en otro cazo calentamos la margarina y cuando se deshaga añadimos la harina, la freimos sin que tome color. Vertemos la leche poco a poco en la mezcla de margarina con harina (roux blanco). Una vez que vertemos la leche removemos hasta que espese y ponemos a punto de sal y nuez moscada.
-
-
 
 Escurrimos la coliflor sobre un paño, pasamos cada ramillete de coliflor por la salsa bechamel y esperamos unos 30 minutos hasta que se enfríe la bechamel sobre el ramillete de coliflor.
 

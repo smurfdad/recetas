@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: ROLLITOS DE JAMÓN CON ESPÁRRAGOS
+
 date: '2010-06-02T13:10:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Entrantes y bocadillos
+
 modified_time: '2016-03-16T01:53:13.385-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4377883938510312265
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rollitos-de-jamon-con-esparragos.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 8 Espárragos Blancos gordos de lata
 
 4 Lonchas de Jamón
@@ -29,9 +40,8 @@ Para 4 personas.
 
 Nuez Moscada, Sal y Pimineta Blanca.
 
-
-
 <h3>Preparación</h3>
+
 Aplasta el foiegras con un tenedor y mézclalo con una cucharada del caldo de espárragos de la lata hasta hacer una pasta homogénea.
 
 Extiende las lonchas de jamón sobre una tabla, úntalas con la pasta del foiegras y córtalas por la mitad.

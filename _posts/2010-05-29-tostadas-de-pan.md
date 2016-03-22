@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: TOSTADAS DE PAN
+
 date: '2010-05-29T03:03:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:53:15.172-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8927095786663932906
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/tostadas-de-pan.html
+
 ---
 
 Para 8 personas.
 
 <h3>Ingredientes</h3>
+
 2 barras de pan de tostadas o una barra grande del día anterior
 
 1 l. de leche
@@ -26,6 +37,7 @@ Para 8 personas.
 azúcar y canela en polvo, para espolvorear
 
 <h3>Preparación</h3>
+
 Cortar el pan en rodajas de 1 cm. y medio de grosor aproximadamente, y colocarlas en una bandeja alta.
 
 Poner al fuego la leche, azúcar, palo de canela y corteza de limón al fuego hasta que hierva, revolviendo.

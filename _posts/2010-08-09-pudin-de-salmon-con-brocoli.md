@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: PUDIN DE SALMÓN CON BRÓCOLI
+
 date: '2010-08-09T02:46:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:52:56.554-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-571142646372416215
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/pudin-de-salmon-con-brocoli.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1/4 kg. de salmón freco en un trozo
 
 1/4 de brócoli
@@ -28,9 +40,8 @@ sal
 
 pimienta blanca
 
-
-
 <h3>Preparación</h3>
+
 Sazonar el salmón con sal, untarlo con aceite y asarlo al horno fuerte durante 10 minutos. Desmenuzarlo retirando la piel y las espinas.
 
 Hervir el bróculi con agua y sal hasta que esté tierno pero firme. Pasarlo por agua fría y escurrirlo.

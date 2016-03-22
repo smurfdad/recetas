@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: ARROZ AL HORNO
+
 date: '2010-06-01T13:32:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Arroces
+
 modified_time: '2016-03-16T01:53:13.712-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8106202605915658635
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/arroz-al-horno.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 1/4 Kg. de costillas de cerdo.
 
 6 tacitas de arroz.
@@ -30,6 +41,7 @@ garbanzos cocidos.
 azafrán, aceite y sal.
 
 <h3>Preparación</h3>
+
 Poner aceite en una sartén honda y freir las
 
 costillas partidas en trozos pequeños. Añadir la patata cortada

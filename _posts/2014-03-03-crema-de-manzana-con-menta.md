@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: CREMA DE MANZANA CON MENTA
+
 date: '2014-03-03T01:00:00.000-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 - Frutas
+
 modified_time: '2016-03-16T01:52:33.549-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6463099835228767463
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/crema-de-manzana-con-menta.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 6 manzanas golden.
 
 1 manzana royal gala.
@@ -29,6 +41,7 @@ Para 4 personas.
 1 ramillete de menta para decorar.
 
 <h3>Preparación</h3>
+
 Pelamos las manzanas golden y junto con el azúcar, unas hojas de menta y el zumo de medio limón, cocemos a fuego lento en una cazuela tapada a fuego lento durante 30 minutos.
 
 Una vez cocidas las manzanas, las trituramos junto con las 2 hojas de menta y dejamos enfriar.

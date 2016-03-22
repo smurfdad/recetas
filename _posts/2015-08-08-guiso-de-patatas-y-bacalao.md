@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: GUISO DE PATATAS Y BACALAO
+
 date: '2015-08-08T06:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:52:33.388-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4238318085934913079
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2015/08/guiso-de-patatas-y-bacalao.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 600 gramos de patatas.
 
 400 gramos de bacalao desalado.
@@ -32,6 +43,7 @@ Unas ramitas de perejil.
 Sal
 
 <h3>Preparación</h3>
+
 Pelamos y lavamos las patatas, las partimos en trozos no muy grandes, cascándolas para que el corte quede roto y suelten la fécula engordando el caldo del guiso.
 
 Reservamos en agua fría con unas gotas de limón o vinagre para que no se oxiden.

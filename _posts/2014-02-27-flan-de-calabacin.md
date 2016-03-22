@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: FLAN DE CALABACÍN
+
 date: '2014-02-27T01:00:00.000-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:52:33.598-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5081443616333895548
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/flan-de-calabacin.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 1,5 Kg. de calabacines
 
 5 huevos
@@ -34,6 +45,7 @@ sal
 pimienta
 
 <h3>Preparación</h3>
+
 Lavar y secar los calabacines.
 
 Rallarlos y colocarlos en un colador con sal gorda durante una hora.
@@ -61,4 +73,5 @@ Dejar enfriar.
 Servir frío o tibio con una salsa de tomate.
 
 <h3>Observaciones</h3>
+
 Puedes servir este flan como primer plato o como guarnición para acompañar un plato de carne o de pescado

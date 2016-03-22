@@ -1,19 +1,28 @@
 ---
+
 layout: post
+
 title: CHULETILLAS DE CORDERO CON SALSA DE MENTA
+
 date: '2010-07-25T02:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:52:56.812-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4335444386951754955
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/chuletillas-de-cordero-con-salsa-de.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 
 16 chuleticas de cordero
 
@@ -35,8 +44,7 @@ Comino, sal y pimienta al gusto
 
 Aj&igrave; para decorar.
 
-<h3>Preparaci&oacute;n</h3>
-
+<h3>Preparación</h3>
 
 Se lavan y se cepillan bien las patatas. Con todo y c&agrave;scara, se espolvorean con comino y sal y se envuelven en papel de aluminio. Van al horno por una hora a 350&ordm;F o 180&ordm;C.
 

@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: PASTEL DE ESPINACAS
+
 date: '2011-03-12T02:32:00.002-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:52:34.195-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8309870486310662462
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/pastel-de-espinacas.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 1 paquete de masa de hojaldre
 
 1 kg. de espinacas frescas
@@ -34,6 +45,7 @@ sal
 pimienta
 
 <h3>Preparación</h3>
+
 Lavar las espinacas en abundante agua corriente quitando los troncos grandes. Escurrir y poner a cocer en una cacerola con un puñadito de sal, sin añadir agua. Escurrir bien y picar.
 
 Cortar el beicon en trocitos, quitando la parte grasa y freír en una sartén, a fuego medio, con dos cucharadas de aceite. Añadir las espinacas y un pellizco de sal. Dar unas vueltas para que tome sabor y reservar en un bol.
@@ -51,6 +63,7 @@ Cocer al horno, previamente calentado a 190º, durante unos 45 minutos.
 Sacarla del horno cuando esté bien dorada y dejar entibiar antes de desmoldar.
 
 <h3>Observaciones</h3>
+
 Este pastel aparte de ser un primer plato, puede servir perfectamente para un aperitivo, cortándolo en cuadraditos.
 
 Se puede servir caliente o frío.

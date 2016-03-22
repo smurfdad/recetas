@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: SOUFFLÉ AL LICOR
+
 date: '2010-05-28T09:36:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:53:15.285-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2795866584484272790
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/souffle-al-licor.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 2 cucharadas de mantequilla
 
 4 cucharadas de harina
@@ -26,6 +37,7 @@ Para 4 personas.
 1 copa de licor a gusto
 
 <h3>Preparación</h3>
+
 Poner a derretir la mantequilla al fuego, añadir la harina y revolver bien.
 
 Añadir el azúcar y la leche hirviendo, sin dejar de revolver.

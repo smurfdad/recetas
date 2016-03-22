@@ -1,20 +1,33 @@
 ---
+
 layout: post
+
 title: MENESTRA DE CORDERO
+
 date: '2010-05-25T13:24:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Carnes y derivados
+
 - Setas y hongos
+
 modified_time: '2016-03-16T01:53:15.792-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2196782626068437
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/menestra-de-cordero.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 1/2 kg. de cordero troceado
 
 6 alcachofas
@@ -36,6 +49,7 @@ harina
 1 copa de vino blanco
 
 <h3>Preparación</h3>
+
 Rebozar los trozos de cordero en harina y freírlos, pasándolos a una cazuela de barro, o similar.
 
 Dorar la cebolla y una cucharada de harina, añadir el vino blanco y un poco de agua.

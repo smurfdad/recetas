@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: CALABAZAS AL VAPOR
+
 date: '2010-06-28T04:44:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:05.245-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5702393451003938523
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/calabazas-al-vapor.html
+
 ---
 
 Para 3 personas.
 
 <h3>Ingredientes</h3>
+
 5 calabacitas (cambray)
 
 3 chiles poblanos
@@ -39,6 +51,7 @@ Para 3 personas.
 sal al gusto
 
 <h3>Preparación</h3>
+
 Poner a cocer el lomo de cerdo con un poco de sal, retirar cuando este listo y guardar un poco de caldo 3 cucharadas aprox.)
 
 Las calabacitas crudas cortarlas en cuadritos chicos,lo mismo los jitomates y picar la cebolla y dientes de ajo. En una cacerola agregar el aceite o manteca, dejar caer las calabacitas, jitomate, cebolla,ajos, los elotes crudos y desgranados, la carne de cerdo,epazote y sal junto con el caldo de cerdo. Cocinar por 30 minutos, cuando este cocido todo, agregar el queso por encima y la crema.

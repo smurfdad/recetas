@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: MOLDE DE VERDURAS
+
 date: '2010-06-01T10:17:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:14.533-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7080641736900665751
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/molde-de-verduras.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1/2 kg. de habas pequeñas
 
 1/2 kg de guisantes
@@ -37,12 +48,9 @@ Para 6 personas.
 
 sal
 
-
-
 <h3>Preparación</h3>
+
 Se pelan los guisantes, las habas, las alcachofas, las cebollitas y los espárragos. Se cuecen por separado, dejándolas firmes y se reservan
-
-
 
 SALSA
 

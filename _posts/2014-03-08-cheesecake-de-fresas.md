@@ -1,14 +1,25 @@
 ---
+
 layout: post
+
 title: CHEESECAKE DE FRESAS
+
 date: '2014-03-08T01:00:00.000-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Huevos y lácteos
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:52:33.496-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8694344690959223251
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/cheesecake-de-fresas.html
+
 ---
 
 Para 4 personas.
@@ -16,13 +27,12 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
+
 1 libra de fresas maduras
 
 100 gramos de azúcar
 
 1 sobre de gelatina sin sabor
-
-
 
 Para el relleno:
 
@@ -36,8 +46,6 @@ El zumo de un limón
 
 1 huevo
 
-
-
 Para la base:
 
 galletas macarena paquete
@@ -47,6 +55,7 @@ galletas macarena paquete
 1 pizca de sal
 
 <h3>Preparación</h3>
+
 Mezclar la mantequilla derretida y las migas de galleta y cubrir un molde delgado para pie con una capa delgada de la mezcla.
 
 Luego refrigerar por una hora.
@@ -64,4 +73,5 @@ Vertir la mezcla en el molde sobre la cama de las galletas macarena, refirgerar 
 Llevar al refrigerador nuevamente hasta que la superficie esté firme.
 
 <h3>Observaciones</h3>
+
 Puede acompañarse con salsa de moras y crema inglesa.

@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: BISQUET DE GAMBAS
+
 date: '2010-06-03T13:28:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:13.064-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2805056673440079265
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/bisquet-de-gambas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 litro de fumeet de pescado
 
 400 gr gambas
@@ -33,9 +44,8 @@ aceite
 
 1/2 copa de coñac
 
-
-
 <h3>Preparación</h3>
+
 Pelar las gambas y reservar, las cáscaras por un lado y las gambas por otro.
 
 Picar muy fino las verduras y ponerlas a rehogar con la mantequilla y un poco de aceite.

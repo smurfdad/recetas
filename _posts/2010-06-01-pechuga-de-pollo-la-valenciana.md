@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: PECHUGA DE POLLO A LA VALENCIANA
+
 date: '2010-06-01T13:32:00.004-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:13.719-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-295506668970118346
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pechuga-de-pollo-la-valenciana.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 4 pechugas de pollo
 
 El zumo de 1 naranja
@@ -34,6 +45,7 @@ pimienta molida
 rodajas de naranja finas para adornar
 
 <h3>Preparación</h3>
+
 Quita la piel de las pechugas. Sazónalas con sal, pimienta y tomillo. Calienta el aceite en una cazuela y dora las pechugas por ambos lados.
 
 Retíralas y resérvalas aparte. Pela y pica la cebolla. Raspa la zanahoria y córtala en rodajas.

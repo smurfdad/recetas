@@ -1,19 +1,28 @@
 ---
+
 layout: post
+
 title: MEJILLONES RELLENOS
+
 date: '2010-05-24T14:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:16.000-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1562967692048076419
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/mejillones-rellenos_24.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 
 1 kg. mejillones
 
@@ -31,12 +40,11 @@ Para 6 personas.
 
 pan rallado
 
-<h3>Preparaci&oacute;n</h3>
-
+<h3>Preparación</h3>
 
 Rehogar la cebolla, zanahoria, puerro y ajo, todo bien picado.
 
-Cuando est&eacute; a punto de dorar, a&ntilde;adir el co&ntilde;ac caliente y prender fuego.
+Cuando esté a punto de dorar, a&ntilde;adir el co&ntilde;ac caliente y prender fuego.
 
 Cuando se apague, a&ntilde;adir el tomate y revolver bien.
 
@@ -48,7 +56,7 @@ Mezclar la carne de los mejillones con la crema anterior, probar la sal y ponerl
 
 Triturar con la batidora y si quedara demasiado espeso, a&ntilde;adir el caldo que se necesite de los mejillones.
 
-Rellenar con &eacute;sta crema las conchas de los mejillones. Espolvorear con pan rallado.
+Rellenar con ésta crema las conchas de los mejillones. Espolvorear con pan rallado.
 
 Meter al horno a gratinar y servir.
 

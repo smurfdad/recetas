@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: PLATO DE PENCAS Y ACELGAS
+
 date: '2010-05-25T13:20:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:15.914-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2117592346406891827
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/plato-de-pencas-y-acelgas.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 1/2 kg. acelgas
 
 1 paquete de puré de patata
@@ -26,6 +37,7 @@ Para 6 personas.
 aceite
 
 <h3>Preparación</h3>
+
 Cocer por separado lo verde y las pencas de las acelgas.
 
 A lo verde para cocerlas añadirle la cebolla picada y después escurrirlas y rehogarlas con el ajo fileteado.

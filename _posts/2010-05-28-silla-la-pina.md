@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: SILLA A LA PIÑA
+
 date: '2010-05-28T09:38:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 - Frutas
+
 modified_time: '2016-03-16T01:53:15.249-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2146515082023615654
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/silla-la-pina.html
+
 ---
 
 Para 8 personas.
 
 <h3>Ingredientes</h3>
+
 1 1/2 <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>kg</span>. de cinta de chuletas de cerdo en un trozo
 
 1 lata de piña grande
@@ -25,6 +37,7 @@ Para 8 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
+
 En una fuente de horno colocar la carne entera, rociada de  aceite, sal y pimienta. Meter a horno fuerte.
 
 Cuando esté dorada añadir el jugo de la piña, el vino y la mitad de la piña cortada en <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>trocitos</span>.

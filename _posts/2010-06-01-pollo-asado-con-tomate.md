@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: POLLO ASADO CON TOMATE
+
 date: '2010-06-01T13:34:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:13.615-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2882821952389269636
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pollo-asado-con-tomate.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 mostaza
 
 pimienta negra en grano
@@ -26,6 +37,7 @@ pimienta negra en grano
 oregano, sal gorda y tomate
 
 <h3>Preparación</h3>
+
 Trituramos en un mortero 1 cucharada de mostaza, 4 granos de pimienta negra,
 
 los ajos y el vinagre. Colocamos el majado en la placa del horno. Colocamos

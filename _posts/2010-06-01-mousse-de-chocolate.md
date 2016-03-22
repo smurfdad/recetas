@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: MOUSSE DE CHOCOLATE
+
 date: '2010-06-01T13:27:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:53:13.877-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6498758889464872051
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/mousse-de-chocolate.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 300 grs. de chocolate de cobertura
 
 2 yemas
@@ -26,6 +37,7 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/mousse-de-chocolate.h
 240 ml (1 taza) de crema larga vida
 
 <h3>Preparación</h3>
+
 Derretir el chocolate de cobertura a baño maría o en microondas. Si es en microondas, a potencia suave, uno o dos minutos en fuente de vidrio (la de plástico se derrite con el calor del chocolate derretido).
 
 Agregar al chocolate derretido las yemas, el licor, y la mantequilla blanda (casi derretida, pero no bien líquida). Batir todo junto hasta unir bien.
@@ -43,6 +55,7 @@ Si se quiere, dejar por más tiempo sólo en la parte de abajo del refrigerador 
 Opcional: Agregar almendras confitadas bien molidas al postre terminado antes de refrigerar.
 
 <h3>Observaciones</h3>
+
 Licor de café tipo kalhua, crema de cacao, licor de avellana
 
 Huevos grandes, no extra grandes

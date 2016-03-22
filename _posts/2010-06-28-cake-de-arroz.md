@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: CAKE DE ARROZ
+
 date: '2010-06-28T04:27:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Arroces
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:05.402-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1572213038111005837
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/cake-de-arroz.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 libra y media de arroz
 
 1 pollo de 2 libras
@@ -45,6 +57,7 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
+
 Cocine el pollo, separe las masas y reserve el caldo para cocinar el arroz.
 
 Caliente el aceite y sofria en el la cebolla, el ají, y el ajo con el pollo, puede si quiere usar orégano u otra sazón de su agrado, además de sal y un poquito del vino seco o jerez.

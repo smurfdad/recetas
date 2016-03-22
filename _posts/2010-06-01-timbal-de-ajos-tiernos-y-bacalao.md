@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: TIMBAL DE AJOS TIERNOS Y BACALAO
+
 date: '2010-06-01T10:29:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:14.374-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7817405396515881896
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/timbal-de-ajos-tiernos-y-bacalao.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 Para el bacalao al pil-pil:
 
 200 gr. de bacalao en lomo
@@ -21,8 +33,6 @@ Para el bacalao al pil-pil:
 1/2 l. de aceite
 
 3 dientes de ajo.
-
-
 
 Para la salsa y la guarnición:
 
@@ -37,13 +47,12 @@ Para la salsa y la guarnición:
 1 manojo de cebollino
 
 <h3>Preparación</h3>
+
 En una sartén pequeña con abundante aceite se rehogan los ajos tiernos, haciéndolos poco a poco, de modo que queden confitados, pero no fritos. Se reservan.
 
 Se pone al fuego otra cazuela con aceite y se doran en ella los dientes de ajo. Se sacan y se retira la cazuela del fuego. Cuando el aceite esté templado, se pone el bacalao con la piel hacia arriba y se pocha durante 8 minutos, también a fuego suave.
 
 Una vez pochado, se saca el bacalao a una cazuela de barro y se hace el pil-pil, moviendo la cazuela y echando al mismo tiempo, poco a poco, el aceite en el que se ha pochado. El pil-pil tiene que hervir muy poco, porque, de lo contrario, se cortaría.Una vez que esté hecho, se saca y se reserva.
-
-
 
 Para el timbal de bacalao:
 

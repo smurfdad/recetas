@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: CARNE ASADA AL VINAGRE
+
 date: '2010-06-01T13:34:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:13.629-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5826195858366484687
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/carne-asada-al-vinagre.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 kg. de carne de ternera en un trozo para asar
 
 6 cucharadas de aceite
@@ -26,6 +37,7 @@ Pimienta de molinillo
 Sal, perejil - hierbas
 
 <h3>Preparación</h3>
+
 Poner en una cazuela 2 cucharadas de aceite y dorar rápidamente la carne
 
 por todos los lados. Sazonar con sal y pimienta, añadir 1/2 taza de

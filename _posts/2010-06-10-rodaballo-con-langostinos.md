@@ -1,19 +1,30 @@
 ---
+
 layout: post
+
 title: RODABALLO CON LANGOSTINOS
+
 date: '2010-06-10T15:32:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:10.808-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4969044967177045260
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rodaballo-con-langostinos.html
+
 ---
 
 Para 4 personas.
 
-<a name='more'></a><h3>Ingredientes</h3>1 Kg y 1/2 de rodaballo cortado en rodajas
+<h3>Ingredientes</h3>1 Kg y 1/2 de rodaballo cortado en rodajas
 
 4 Cebollas
 
@@ -48,8 +59,6 @@ Fumet de marisco
 1/4 kg. de patatas
 
 Sal
-
-
 
 <h3>Preparación</h3>La salsa:
 

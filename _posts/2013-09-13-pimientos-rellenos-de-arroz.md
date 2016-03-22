@@ -1,20 +1,33 @@
 ---
+
 layout: post
+
 title: PIMIENTOS RELLENOS DE ARROZ
+
 date: '2013-09-13T15:30:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Arroces
+
 - Carnes y derivados
+
 - Entrantes y bocadillos
+
 modified_time: '2016-03-16T01:52:34.131-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8643265322682486159
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2013/09/pimientos-rellenos-de-arroz.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 4 pimientos rojos, grandes y hermosos
 
 1 Cebolla mediana
@@ -36,6 +49,7 @@ agua o caldo de carne
 Azafran o colorante alimentario
 
 <h3>Preparación</h3>
+
 Lavamos los pimientos, los secamos con un paño y con un cuchillo afilado, cortamos cada pimiento alrededor del tallo, haciendo un agujero lo suficientemente grande para poder rellenar los pimientos, quitamos todas las semillas y la parte blanca, reservando la parte del pimiento y el tallo, que nos servirá de tapa.
 
 En una sartén ancha, sofreímos suavemente la cebolla, fínamente picada, durante 5 minutos

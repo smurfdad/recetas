@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: ESPIRALES MULTICOLORES
+
 date: '2010-05-30T13:50:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pastas
+
 modified_time: '2016-03-16T01:53:14.589-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5889724096300726438
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/espirales-multicolores.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 300 grs. de espirales multicolor
 
 150 gramos de jamón serrano.
@@ -28,6 +39,7 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
+
 Poner la guindilla a remojo de agua para que se ablande y cortar en aros fácilmente.
 
 Cortar el jamón en dados. Picar gruesas las almendras.

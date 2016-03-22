@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: SOPA DE CEBOLLA
+
 date: '2010-06-28T04:08:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Sopas y cremas
+
 modified_time: '2016-03-16T01:53:05.581-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-898173123296593340
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/sopa-de-cebolla.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 4 cucharadas de aceite de oliva
 
 1,5 litros de caldo
@@ -32,6 +43,7 @@ Para 4 personas.
 10 gramos de sal
 
 <h3>Preparación</h3>
+
 Pelar la cebolla y cortarla en rodajas finas.
 
 Derretir en una cacerola la mantequilla y añadir el aceite y rehogar suavemente la cebolla.

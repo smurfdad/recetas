@@ -1,16 +1,26 @@
 ---
+
 layout: post
+
 title: POLLO ESPACIAL
+
 date: '2010-06-10T15:30:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:10.839-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4907268173601311505
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pollo-espacial.html
+
 ---
 
-<a name='more'></a><h3>Ingredientes</h3>1 pollo cortado en ocho
+<h3>Ingredientes</h3>1 pollo cortado en ocho
 
 1 pimiento rojo
 
@@ -25,8 +35,6 @@ sal, pimienta
 250g queso mantecoso
 
 75g manteca
-
-
 
 <h3>Preparación</h3>Cortar los pimientos en tiritas finas (juliana) y la cebolla en rodajas finas.
 

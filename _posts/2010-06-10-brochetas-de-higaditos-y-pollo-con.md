@@ -1,18 +1,28 @@
 ---
+
 layout: post
+
 title: BROCHETAS DE HIGADITOS Y POLLO CON QUINOA
+
 date: '2010-06-10T15:28:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:10.877-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3663541395177886148
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/brochetas-de-higaditos-y-pollo-con.html
+
 ---
 
 Para 4 personas.
 
-<a name='more'></a><h3>Ingredientes</h3>4 pechugas de pollo
+<h3>Ingredientes</h3>4 pechugas de pollo
 
 12 higaditos de pollo
 
@@ -32,8 +42,6 @@ sal
 
 pimienta
 
-
-
 Para la guarnición:
 
 200 gr. de quinoa
@@ -51,8 +59,6 @@ Para la guarnición:
 aceite
 
 sal
-
-
 
 <h3>Preparación</h3>La víspera se prepara una marinada de la siguiente manera: se pela el ajo y se pica con el picador. Se pone en un bol y se le añaden las hierbas aromáticas, el ketchup, la salsa de soja, la ginebra y la miel. Se mezcla todo bien con la varilla.
 

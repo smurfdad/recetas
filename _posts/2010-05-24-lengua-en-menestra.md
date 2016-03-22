@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: LENGUA EN MENESTRA
+
 date: '2010-05-24T10:05:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:16.053-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8533131442973778187
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/lengua-en-menestra.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 lengua de ternera de 1 kg. aproximadamente
 
 1 cebolla
@@ -29,6 +41,7 @@ Para 6 personas.
 sal, aceite, vino blanco
 
 <h3>Preparación</h3>
+
 Limpiar la lengua bien, teniéndola 1/2 hora a remojo con agua y sal. Luego, pasarla por el grifo de agua, frotándola bien con un cuchillo.
 
 Poner a cocer con agua hasta que la cubra.

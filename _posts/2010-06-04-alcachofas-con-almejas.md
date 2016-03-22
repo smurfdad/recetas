@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: ALCACHOFAS CON ALMEJAS
+
 date: '2010-06-04T10:43:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:12.636-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4883876013369402811
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alcachofas-con-almejas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 24 alcachofas naturales
 
 24 almejas
@@ -28,9 +40,8 @@ perejil
 
 caldo de alcachofas
 
-
-
 <h3>Preparación</h3>
+
 Limpiar las alcachofas y ponerlas a cocer en una cazuela con agua y sal.
 
 Una vez cocidas apartarlas del fuego y reservar en su caldo.

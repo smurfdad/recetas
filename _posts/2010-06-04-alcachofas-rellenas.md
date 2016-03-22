@@ -1,20 +1,33 @@
 ---
+
 layout: post
+
 title: ALCACHOFAS RELLENAS
+
 date: '2010-06-04T10:42:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Arroces
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:12.664-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8176253389504904467
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alcachofas-rellenas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 limón
 
 24 alcachofas
@@ -37,9 +50,8 @@ nuez moscada
 
 80 gr harina tostada
 
-
-
 <h3>Preparación</h3>
+
 Limpiar las alcachofas y cocerlas con agua, sal y limón. Reservar.
 
 Después se mezcla el arroz, con la nata y sazonar con pimienta blanca y nuez moscada.

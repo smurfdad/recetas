@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: CANELONES DE BACALAO Y AJOARRIERO CON VINAGRETA DE POCHAS Y LANGO
+
 date: '2010-06-02T13:16:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Pastas
+
 modified_time: '2016-03-16T01:53:13.260-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4963653679136298847
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/canelones-de-bacalao-y-ajoarriero-con.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 8 langostinos frescos pelados
 
 4 láminas de bacalao desalad 10 x 5 cm.
@@ -21,8 +33,6 @@ Para 4 personas.
 40 gr. de trocitos de bacalao ahumado
 
 ajo y perejil
-
-
 
 Para la vinagreta de pochas
 
@@ -40,15 +50,11 @@ aceite de oliva virgen
 
 vinagre y sal
 
-
-
 Para el puré de pochas
 
 100 gr. de pochas cocidas
 
 30 gr. de mantequilla
-
-
 
 Para el ajoarriero
 
@@ -86,22 +92,17 @@ aceite de oliva
 
 sal pimienta
 
-
-
 <h3>Preparación</h3>
+
 Envolver en las láminas de bacalao el ajoarriero y el bacalao ahumado como si fuera un canelón. Cocer al vapor durante 30 segundos.
 
 Elaborar una vinagreta de pochas mezclando todos los ingredientes. Saltear los langostinos con ajo y perejil. Preparar el puré de pochas triturándolas y montándolas con la mantequilla. Rellenar unas tacitas con espuma de bacalao. Montar el plato como en la fotografía.
-
-
 
 Preparación del bacalao ajoarriero
 
 Colocar en una sartén grande el aceite con los ajos picados; sofreír y añadir las verduras (pimientos y cebolleta). Cuando estén blandas, añadir la pulpa de los choriceros, seguir estofando y añadir la salsa de tomate.
 
 Una vez estofado, colocar las tajadas de bacalao y tapar durante 5 minutos, manteniéndolo en el fuego. Con una espátula de madera romper las tajadas, desmigándolas y mezclando el conjunto.
-
-
 
 Preparación de la espuma de bacalao
 

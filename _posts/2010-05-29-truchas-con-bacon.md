@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: TRUCHAS CON BACÓN
+
 date: '2010-05-29T02:23:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:15.203-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-465983980816996183
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/truchas-con-bacon.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 6 truchas de ración
 
 7 lonchas de bacon
@@ -30,6 +41,7 @@ sal
 harina
 
 <h3>Preparación</h3>
+
 Limpiar las truchas, quitándoles las tripas y la espina central. Secarlas y echarles sal.
 
 Cada una se rocía por dentro con un poco de zumo de limón y se le pone una loncha de bacon. Se cierran.

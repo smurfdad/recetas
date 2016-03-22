@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: RAPE A LA SIDRA
+
 date: '2010-06-01T11:39:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:14.091-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2791784825428897148
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rape-la-sidra.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 kg. de rape en un trozo
 
 2 chalotas picadas
@@ -40,6 +51,7 @@ sal
 pimienta
 
 <h3>Preparación</h3>
+
 Se sacan los lomo de rape. Se pone a cocer el hueso central en un litro de agua y la sidra. Se añade el puerro, la zanahoria, el laurel y unos granos de pimienta. Se sazona y se tiene hirviendo unos 10 minutos. Se cuela el caldo.
 
 Se pone a hervir el caldo a fuego suave. Se sazonan los lomos de rape con sal y pimienta y se echan al caldo hirviendo. Se tienen 5 minutos como máximo y se sacan a una fuente con la espumadera. Se reservan cerca del calor.

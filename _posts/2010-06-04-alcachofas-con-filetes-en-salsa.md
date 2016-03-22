@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: ALCACHOFAS CON FILETES EN SALSA
+
 date: '2010-06-04T10:42:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:12.656-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-74014822544314999
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alcachofas-con-filetes-en-salsa.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 docena de alcachofas
 
 1/2 kilo de filetes de lomo bajo
@@ -32,9 +44,8 @@ aceite
 
 sal
 
-
-
 <h3>Preparación</h3>
+
 Limpiar las alcachofas y cocerlas con agua y un poco de sal.
 
 Una vez cocidas, escurrirlas y reservar.

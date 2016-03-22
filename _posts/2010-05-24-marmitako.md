@@ -1,19 +1,28 @@
 ---
+
 layout: post
+
 title: MARMITAKO
+
 date: '2010-05-24T13:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:16.008-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4776085342029405898
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/marmitako.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 
 1 cebolla
 
@@ -31,8 +40,7 @@ Para 6 personas.
 
 1 kg. bonito
 
-<h3>Preparaci&oacute;n</h3>
-
+<h3>Preparación</h3>
 
 Pelar las patatas y cascarlas en trozos peque&ntilde;os y regulares.
 
@@ -40,9 +48,9 @@ Ponerlas a cocer con agua que las cubra a fuego medio. Si se quiere, echar una g
 
 Rehogar la cebolla y el pimiento verde en el aceite, muy picados.
 
-A&ntilde;adir la pulpa de los pimientos choriceros, los tomates pelados (para ello conviene sumergirlos un momento en agua hirviendo) y picados en trozos, as&iacute; como los ajos y el perejil, tambi&eacute;n picados.
+A&ntilde;adir la pulpa de los pimientos choriceros, los tomates pelados (para ello conviene sumergirlos un momento en agua hirviendo) y picados en trozos, así como los ajos y el perejil, también picados.
 
-Poner sal y dejar hacer, revolviendo de vez en cuando, a fuego medio, hasta que est&eacute; hecho.
+Poner sal y dejar hacer, revolviendo de vez en cuando, a fuego medio, hasta que esté hecho.
 
 Triturar con la batidora y a&ntilde;adir a las patatas ya cocidas.
 
@@ -50,7 +58,7 @@ Cortar el bonito en trozos regulares y de parecido tama&ntilde;o que las patatas
 
 Probar las patatas y rectificar la sal si es preciso.
 
-15 minutos antes de servir, unir el bonito a las patatas con el refrito, que estar&aacute;n hirviendo.
+15 minutos antes de servir, unir el bonito a las patatas con el refrito, que estarán hirviendo.
 
-Dejar hervir 5 minutos m&aacute;s a fuego suave. Apagar, tapar y dejar reposar 10 minutos antes de sacarlo a la mesa.
+Dejar hervir 5 minutos más a fuego suave. Apagar, tapar y dejar reposar 10 minutos antes de sacarlo a la mesa.
 

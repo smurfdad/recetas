@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: FRUTAS EN PAPILLOTE
+
 date: '2011-03-12T02:31:00.002-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Frutas
+
 modified_time: '2016-03-16T01:52:34.228-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-192915380782684417
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/frutas-en-papillote.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 2 manzanas.
 
 2 melocotones.
@@ -28,6 +39,7 @@ Zumo de medio limón.
 3 cucharadas ron.
 
 <h3>Preparación</h3>
+
 Lavamos las manzanas, pelamos, cortamos por la mitad en sentido longitudinal y les quitamos el corazón y las semillas. Embadurnamos las manzanas con el zumo de limón para que no se oxiden y oscurezcan.
 
 Pelamos los melocotones, quitamos el hueso y cortamos en rodajitas.

@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: TOSTA NORUEGA
+
 date: '2010-05-29T03:02:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Huevos y lácteos
+
 modified_time: '2016-03-16T01:53:15.182-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1030917439827231016
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/tosta-noruega.html
+
 ---
 
 Para 8 personas.
 
 <h3>Ingredientes</h3>
+
 100 grs. salmón ahumado (pueden ser restos)
 
 100 grs. nata líquida
@@ -31,6 +43,7 @@ un poco de perejil picado
 2 pepinillos en vinagre (adorno)
 
 <h3>Preparación</h3>
+
 Cortar el salmón en trocitos.
 
 Poner la sartén a fuego medio con la mantequilla.

@@ -1,13 +1,23 @@
 ---
+
 layout: post
+
 title: COMIDA DEL DIABLO
+
 date: '2010-05-20T15:59:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:53:16.544-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3524404547727073627
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/comida-del-diablo.html
+
 ---
 
 Para 6 personas.
@@ -22,9 +32,9 @@ Para 6 personas.
 
 250 grs. de leche
 
-2 cucharaditas de az&uacute;car vainillado
+2 cucharaditas de azúcar vainillado
 
-200 grs. de az&uacute;car
+200 grs. de azúcar
 
 3 huevos
 
@@ -32,29 +42,29 @@ Para 6 personas.
 
 Para la trufa:
 
-500 grs. de nata l&iacute;quida
+500 grs. de nata líquida
 
 3 cucharadas de azucar glass
 
 5 cucharadas colmadas de cacao en polvo
 
-1 cucharadita de az&uacute;car vainillado
+1 cucharadita de azúcar vainillado
 
-<h3>Preparaci&oacute;n</h3>
+<h3>Preparación</h3>
 
 Derretir el chocolate en el fuego junto con un poco de la leche, a fuego suave. Dejar enfriar. Ablandar la mantequilla en el microondas durante 50 segundos.
 
-A&ntilde;adir por este orden: las dos clases de az&uacute;car, las yemas, la leche restante, el chocolate, la sal y la harina mezclada con el royal. Despu&eacute;s de cada ingrediente, mezclar bien.
+A&ntilde;adir por este orden: las dos clases de azúcar, las yemas, la leche restante, el chocolate, la sal y la harina mezclada con el royal. Después de cada ingrediente, mezclar bien.
 
-Por &uacute;ltimo las claras a punto de nieve.
+Por último las claras a punto de nieve.
 
-Ponerlo en un molde redondo engrasado y forrado el fondo con papel de aluminio, tambi&eacute;n engrasado.
+Ponerlo en un molde redondo engrasado y forrado el fondo con papel de aluminio, también engrasado.
 
-Meterlo al horno medio (170&ordm;) durante 35 minutos. (Comprobar si est&aacute; cocido, pinchando una aguja larga y verificando que sale seca).
+Meterlo al horno medio (170&ordm;) durante 35 minutos. (Comprobar si está cocido, pinchando una aguja larga y verificando que sale seca).
 
-Relleno: Batir la nata con una cucharadita de az&uacute;car vainillado y el az&uacute;car glass. Cuando est&eacute; montada y dura, a&ntilde;adir el cacao y batir un poco m&aacute;s hasta que est&eacute; mezclado.
+Relleno: Batir la nata con una cucharadita de azúcar vainillado y el azúcar glass. Cuando esté montada y dura, a&ntilde;adir el cacao y batir un poco más hasta que esté mezclado.
 
-Una vez hecho y fr&iacute;o el pastel proceder a su relleno.
+Una vez hecho y frío el pastel proceder a su relleno.
 
 Para ello, cortar en tres capas el bizcocho.
 

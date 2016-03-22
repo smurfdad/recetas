@@ -1,20 +1,30 @@
 ---
+
 layout: post
+
 title: CANELONES FIORENTINA
+
 date: '2010-06-03T15:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Pastas
+
 modified_time: '2016-03-16T01:53:12.877-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-499571760951335395
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/canelones-fiorentina.html
+
 ---
 
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 
 1 caja de canelones
 
@@ -44,14 +54,13 @@ PARA NAPAR:
 
 1/2 litro de leche
 
-<h3>Preparaci&oacute;n</h3>
-
+<h3>Preparación</h3>
 
 Poner una cazuela con agua, un poco de aceite y sal.
 
 Cuando rompa a hervir, echar los canelones y dejarlos que se cuezan.
 
-Una vez cocidos escurrirlos y echarlos en un Bol con agua fr&iacute;a.
+Una vez cocidos escurrirlos y echarlos en un Bol con agua fría.
 
 Aparte cocer las espinacas con agua y sal.
 
@@ -61,7 +70,7 @@ Poner en una cazuela los 60 gr de mantequilla, una vez diluida agregar la harina
 
 Echar las espinacas y la leche poco a poco removiendo bien.
 
-Sazonar la bechamel con sal, pimienta blanca y nuez moscada, dej&aacute;ndola que se termine de hacer.
+Sazonar la bechamel con sal, pimienta blanca y nuez moscada, dejándola que se termine de hacer.
 
 Poner los canelones sobre un pa&ntilde;o de forma escalonada, poniendo un poco de la farsa en cada uno de ellos.
 

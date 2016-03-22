@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: ARROZ ABANDA
+
 date: '2010-06-03T13:24:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Arroces
+
 modified_time: '2016-03-16T01:53:13.150-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8435096366829958999
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/arroz-abanda.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 200 gr arroz
 
 200 gr merluza
@@ -29,9 +40,8 @@ Para 4 personas.
 
 azafrán en polvo
 
-
-
 <h3>Preparación</h3>
+
 Poner los pescados en una cazuela con dos litros de agua y dejar cocer hasta que quede un litro de caldo aproximadamente.
 
 Sacar el pescado a una fuente aparte, quitando la cáscara a los  mejillones y a los langostinos, reservar.

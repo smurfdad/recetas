@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: PUDING DE BERENJENAS
+
 date: '2010-08-09T02:57:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Huevos y lácteos
+
 modified_time: '2016-03-16T01:52:56.476-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-171533436357273921
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/puding-de-berenjenas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 3/4 kg. de berenjenas
 
 1 cebolla
@@ -30,9 +42,8 @@ sal
 
 pimienta
 
-
-
 <h3>Preparación</h3>
+
 Se hace un sofrito de cebolla cortada a cuadritos con los tacos de jamón.
 
 Se añaden las berenjenas cortadas a cuadritos y se cocina junto a fuego lento tapado.

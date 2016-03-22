@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: TOMATES RELLENOS
+
 date: '2010-05-29T03:12:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Arroces
+
 modified_time: '2016-03-16T01:53:15.115-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7378340577274599609
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/tomates-rellenos.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 6 tomates medianos
 
 6 cucharadas de arroz
@@ -31,6 +43,7 @@ un poco de pimienta negra molida
 2 ajos en trozos
 
 <h3>Preparación</h3>
+
 Cortar la parte superior de los tomates, como si fuera un casquete.
 
 Vaciarlos de su interior, que se colocarán en un bol.

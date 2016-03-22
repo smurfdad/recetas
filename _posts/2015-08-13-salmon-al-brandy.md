@@ -1,29 +1,49 @@
 ---
+
 layout: post
+
 title: SALMÓN AL BRANDY
+
 categories:
+
 - Pescados
+
 tags:
+
 - Salmón
+
 - Patata
+
 - Cebolla
+
 - Brandy
+
 - Comino
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 - 6 rodajas de salmón (aprox 900 gr.)
+
 - 800gr. de patatas
+
 - 2 cebollas
+
 - una copita de brandy
+
 - 4 cucharadas de aceite de oliva
+
 - una pizca de comino
+
 - sal
+
 - pimienta
 
 <h3>Preparación</h3>
+
 Lave las rodajas de salmón y séquelas con papel de cocina.
 
 Póngalas en un recipiente, rocíelas con el brandi y manténgalas en adobo durante media hora, dándoles la vuelta una vez como mínimo.
@@ -43,8 +63,7 @@ Cueza las patatas en agua con sal, escúrralas, pélelas y manténgalas caliente
 Saque el salmón del horno cuando esté en su punto y sírvalo acompañado de las patatas.
 
 <h3>Observaciones</h3>
+
 En lugar de brandy, puede adobar el salmón con una copa de vino de madeira o jerez.
-
-
 
 Puede completar el plato añadiéndole, una vez asado, una cucharada de cebollino picado.

@@ -1,16 +1,26 @@
 ---
+
 layout: post
+
 title: SOPA PORTUGUESA
+
 date: '2010-06-10T15:27:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Sopas y cremas
+
 modified_time: '2016-03-16T01:53:10.884-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2655640695316441661
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/sopa-portuguesa.html
+
 ---
 
-<a name='more'></a><h3>Ingredientes</h3>media col verde.
+<h3>Ingredientes</h3>media col verde.
 
 1 chorizo de puerco fresco.
 
@@ -23,8 +33,6 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/sopa-portuguesa.html
 saly pimienta al gusto
 
 un chorrito de aceite de oliva virgen extra
-
-
 
 <h3>Preparación</h3>En un cazo con agua ponen a cocer el chorizo,ya que el chorizo torne blancuzco o firme, lo sacan y lo apartan. en esa misma agua hirviendo blanquean el col y lo apartan, posteriormente cuecen las patatas en esa misma agua con la cebolla y el ajito. (el corte del col debe ser en cuadros grandes).
 

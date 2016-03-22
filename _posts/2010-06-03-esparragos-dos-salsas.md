@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: ESPÁRRAGOS DOS SALSAS
+
 date: '2010-06-03T13:31:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:12.958-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1393173132139229664
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/esparragos-dos-salsas.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 24 espárragos
 
 1/2 cebolla
@@ -33,9 +44,8 @@ aceite de oliva
 
 salsa mayonesa
 
-
-
 <h3>Preparación</h3>
+
 Picar muy fina la cebolla y ponerla a rehogar despacio, cuando este a medio hacer, agregar el pimiento picado fino y dejarlo que se haga bien.
 
 Una vez echo apartar del fuego y dejar enfriar.

@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: PATA DE CERDO ASADA
+
 date: '2010-05-25T13:21:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:15.872-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6037434614355728267
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pata-de-cerdo-asada.html
+
 ---
 
 Para 8 personas.
 
 <h3>Ingredientes</h3>
+
 1/2 pata de cerdo (se puede sustituir por paletilla)
 
 un poco de agua
@@ -22,6 +33,7 @@ un poco de agua
 sal, pimienta
 
 <h3>Preparación</h3>
+
 Pida a su carnicero que le quite la corteza y el hueso a la pata(menos el hueso del final)
 
 Limpiar bien y frotar con aceite, sal y pimienta.

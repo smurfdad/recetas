@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: SALTEADO DE BUEY A LA CREMA
+
 date: '2010-06-02T13:17:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:13.230-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8937232428073998712
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/salteado-de-buey-la-crema.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 300 gr. de sobras de asado de buey
 
 250 gr. de champiñones
@@ -39,9 +50,8 @@ sal
 
 pimienta
 
-
-
 <h3>Preparación</h3>
+
 Se corta la carne de buey en tiras de 5 cm. de largo. Se pone a calentar el aceite en una sartén. Se añade la mantequilla y se pone a sofreír al cebolla picada durante un par de minutos.
 
 Se añaden los champiñones, una vez desprovistos de la base terrosa y lavados en agua fría.Los champiñones pequeños se añaden enteros y los más grandes se cortan en cuartos. Se sofríe todo y se añade el pimiento verde picado. Se sofríe de nuevo el conjunto y, de momento, no se sazona.

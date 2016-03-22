@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: CARNE ASADA DE CERDO
+
 date: '2010-05-30T13:46:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:53:14.623-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4121245583589869378
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/carne-asada-de-cerdo.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 1 pieza de aproximadamente 1 kg. o 1 1/4 (lomo, cabeza, etc.) La cabeza de lomo aunque con un poco de más grasa, resulta mucho más jugosa.
 
 1 cebolla.
@@ -26,6 +37,7 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/carne-asada-de-cerdo.
 Sal.
 
 <h3>Preparación</h3>
+
 Pedimos a nuestro carnicero que nos prepare la carne ya atada. En todos los hipermercados ya la venden lista para asar.
 
 En una olla exprés echamos el aceite, que dejaremos calentar hasta alcanzar una temperatura media, ponemos la cebolla pelada y entera y la pieza de carne.

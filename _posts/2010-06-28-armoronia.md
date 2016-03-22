@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: ARMORONÍA
+
 date: '2010-06-28T04:13:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 modified_time: '2016-03-16T01:53:05.544-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8576452344424044963
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/armoronia.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 trozo de medio kilo de calabaza partida en trozos
 
 1/4 de judias verdes planas partidas
@@ -30,6 +41,7 @@ Para 4 personas.
 6 cucharas de aceite de haber frito carne.
 
 <h3>Preparación</h3>
+
 Se ponen todos los ingredientes en una olla a presión.Se le añade sal
 
 Se rehogan muy bien para que suelten su sabor.

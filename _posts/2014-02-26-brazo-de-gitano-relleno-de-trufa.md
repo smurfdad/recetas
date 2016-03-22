@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: BRAZO DE GITANO RELLENO DE TRUFA
+
 date: '2014-02-26T01:00:00.000-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Huevos y lácteos
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:52:33.609-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5390779122579972638
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/brazo-de-gitano-relleno-de-trufa.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 Para el bizcocho:
 
 140 gramos de harina.
@@ -41,6 +53,7 @@ Para el relleno:
 100 gramos de chocolate al aroma de vainilla rallado.
 
 <h3>Preparación</h3>
+
 Bizcocho
 
 Ponemos las yemas en un bol y añadimos el azúcar.

@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: TORTILLA DE BACALAO
+
 date: '2010-06-02T13:08:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Huevos y lácteos
+
 modified_time: '2016-03-16T01:53:13.421-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-919150634393503504
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/tortilla-de-bacalao_2.html
+
 ---
 
 Para 2 personas.
 
 <h3>Ingredientes</h3>
+
 275 grs  bacalao
 
 4 huevos
@@ -26,9 +38,8 @@ Para 2 personas.
 
 1 cucharada de aceite
 
-
-
 <h3>Preparación</h3>
+
 Desalar el bacalao en agua durante 24 horas, cambiándole solamente una vez el agua.
 
 Pasado el tiempo, sacarlo, escurrirlo, quitarle las espinas y desmigarlo.

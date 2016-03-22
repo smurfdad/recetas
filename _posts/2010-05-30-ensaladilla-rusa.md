@@ -1,17 +1,29 @@
 ---
+
 layout: post
+
 title: ENSALADILLA RUSA
+
 date: '2010-05-30T13:44:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Ensaladas
+
 modified_time: '2016-03-16T01:53:14.637-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1641831302197843787
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/ensaladilla-rusa.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 2 patatas que sean hermosas.
 
 1/4 Kg. de zanahorias.
@@ -29,6 +41,7 @@ Salsa mayonesa.
 Sal
 
 <h3>Preparación</h3>
+
 En una cazuela ponemos agua con sal y dejamos que se vaya calentando. Mientras tanto pelamos las patatas y las cortamos en dados pequeños. Realizamos la misma operación con las zanahorias y las judías verdes. Vertemos todo en la cazuela y dejamos que cuezan hasta que estén en su  punto.
 
 Aparte vertemos las gambas en agua caliente. Con un par de minutos es suficiente para que estén cocidas. Les quitamos el agua y dejamos que se enfríen hasta que las podamos pelar.

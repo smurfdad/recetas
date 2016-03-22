@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: LASAÑA DE CHIPIRONES CON ACEITE DE CEBOLLINO Y CHIPIRÓN
+
 date: '2010-06-02T13:15:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Mariscos y moluscos
+
 - Pastas
+
 modified_time: '2016-03-16T01:53:13.275-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7057819266446502827
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/lasana-de-chipirones-con-aceite-de.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 1 pimiento verde
 
 2 cebollas
@@ -38,8 +50,6 @@ sal
 
 pimienta
 
-
-
 Para el aceite de cebollino
 
 1 manojo de cebollinos
@@ -48,20 +58,15 @@ Para el aceite de cebollino
 
 tinta de chipirón
 
-
-
 <h3>Preparación</h3>
+
 Cocer 20 láminas de pasta con aceite y sal, durante 3 minutos, enfriar en agua y hielos para cortar la cocción. Reservar.
 
 En un cortapastas metálico colocamos una lámina de pasta y cubrimos con el relleno. Repetir la operación. Cubrir con pasta, añadir la cebolla (previamente frita en aceite suave), seguir con unos chipirones salteados con ajo y perejil y finalizar con otra lámina. Colocar la lasaña en el plato, hacer unas rayas con el aceite de oliva y el de cebollino y tapar con el aceite de chipirón (montar con aceite de oliva y con ayuda de una varilla, el jugo que han soltado los chipirones al saltearlos). Adornar con el cebollino.
 
-
-
 Preparación del relleno
 
 Poner a pochar en aceite de oliva, un diente de ajo, una cebolla y el pimiento verde picados. Una vez pochado, añadir ocho chipirones y la salsa de tomate. Dejar hervir hasta que el chipirón esté hecho. Incorporar la harina y el fumet de pescado. Incorporamos la tinta de calamar hasta que tome un color negro. Salpimentar y reservar.
-
-
 
 Preparación del aceite de cebollino
 

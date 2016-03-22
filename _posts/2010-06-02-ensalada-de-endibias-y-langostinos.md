@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: ENSALADA DE ENDIBIAS Y LANGOSTINOS
+
 date: '2010-06-02T13:07:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Ensaladas
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:13.471-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-501175738052758320
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-endibias-y-langostinos.html
+
 ---
 
 Para 2 personas.
 
 <h3>Ingredientes</h3>
+
 1/2 lechuga
 
 2 rodajas de piña en su jugo
@@ -28,9 +40,8 @@ Para 2 personas.
 
 1/2 tomate
 
-
-
 <h3>Preparación</h3>
+
 Poner una cazuela al fuego con agua y sal.
 
 Cuando rompa a hervir, echar los langostinos, una vez cocidos, enfriarlos y pelarlos.

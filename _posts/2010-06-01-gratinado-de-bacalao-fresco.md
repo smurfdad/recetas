@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: GRATINADO DE BACALAO FRESCO
+
 date: '2010-06-01T11:30:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pastas
+
 - Setas y hongos
+
 modified_time: '2016-03-16T01:53:14.122-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4889005515806793547
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/gratinado-de-bacalao-fresco.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 500 gr. de bacalao fresco
 
 80 gr. de mantequilla
@@ -43,6 +55,7 @@ pimienta
 6 conchas de vieiras vacías y bien limpias
 
 <h3>Preparación</h3>
+
 En una cazuela se funden 50 gr. de mantequilla. Se añade la harina en lluvia y se mezcla con la mantequilla con una cuchara de madera. Se incorpora la leche a la mezcla, sin dejar de remover, y después el vino blanco. Se sazona el conjunto con sal y pimienta y se tiene hirviendo a fuego muy suave para que no se agarre, durante unos minutos. Se aclara el bacalao y se seca con papel absorbente. Se corta en dados pequeños.
 
 En una cazuela se funde un poco de mantequilla y se rehogan los champiñones, bien lavados y cortados en cuartos. Se sazonan con sal y pimienta y se tienen unos minutos al fuego. Se enciende el horno a 170º para que se vaya calentando. Se incorporan los dados de bacalao a la bechamel que se preparó en primer lugar, y se tiene hirviendo el conjunto durante unos 3 minutos. Se añaden entonces los champiñones rehogados, y una pizca de Cayena.

@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: SOPA DE PESCADO
+
 date: '2010-05-28T09:37:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Sopas y cremas
+
 modified_time: '2016-03-16T01:53:15.278-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4266744364710138638
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/sopa-de-pescado.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1/2 kg. pescado (pueden ser también cabezas)
 
 1/4 kg. almejas o chirlas
@@ -37,6 +49,7 @@ aceite
 un poco de pimentón
 
 <h3>Preparación</h3>
+
 Cocer el pescado en 2 l. de agua con un trozo de cebolla, un puerro, un diente de ajo, una rama de perejil y sal.
 
 En una cazuela baja o sartén freír el resto de la cebolla, puerro, zanahoria y ajo.

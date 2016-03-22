@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: TARTA DE NUECES
+
 date: '2011-02-07T14:40:00.000-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:52:34.846-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4890971282461703044
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/tarta-de-nueces.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 6 huevos
 
 300 gr. de azúcar
@@ -32,6 +43,7 @@ mantequilla (para untar el molde)
 harina (para untar el molde)
 
 <h3>Preparación</h3>
+
 Montar las claras Y las yemas, añadir el azúcar y la harina. A continuación, añadir el resto de los ingredientes removiendo hasta conseguir una pasta homogénea.
 
 Untar un molde de 30 cm. de diámetro con mantequilla, espolvorearlo con harina retirando la que sobre. A continuación poner la pasta e introducir al horno a una temperatura de 150º.

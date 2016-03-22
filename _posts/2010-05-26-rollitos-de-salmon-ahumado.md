@@ -1,28 +1,36 @@
 ---
+
 layout: post
+
 title: ROLLITOS DE SALMÓN AHUMADO
+
 date: '2010-05-26T15:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:15.551-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4175656691095922257
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/rollitos-de-salmon-ahumado.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
 
-
-500 grs. de salm&oacute;n ahumado en filetes
+500 grs. de salmón ahumado en filetes
 
 1 tarrina de queso blando para untar
 
 perejil o eneldo picado
 
-<h3>Preparaci&oacute;n</h3>
-
+<h3>Preparación</h3>
 
 Cortar los filetes por la mitad (de cada uno, hacer dos).
 

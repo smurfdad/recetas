@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: SALPICÓN DE MARISCO
+
 date: '2010-06-28T04:42:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:05.252-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4158797277328091562
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/salpicon-de-marisco.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 400 gr de rape
 
 600 gr de langostinos
@@ -35,6 +47,7 @@ Un vaso de vinagre
 Sal
 
 <h3>Preparación</h3>
+
 Se cuece el rape y se le quitan todas las espinas.
 
 Se cuecen los langostinos y las gambas y se pelan.

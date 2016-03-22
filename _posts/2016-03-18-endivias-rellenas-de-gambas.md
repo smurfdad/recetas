@@ -1,20 +1,37 @@
 ---
+
 layout: post
+
 title: ENDIVIAS RELLENAS DE GAMBAS
+
 categories:
+
 - Ensaladas
+
 - Mariscos y moluscos
+
 tags:
+
 - endivias
+
 - mayonesa
+
 - gambas
+
 - espárragos
+
 ---
+
 Para 4 personas.
+
 <h3>Ingredientes</h3>
+
 - 6 endivias
+
 - Salsa mayonesa
+
 - 300 gr gambas
+
 - 1 lata de puntas de espárragos
 
 <h3>Preparación</h3>

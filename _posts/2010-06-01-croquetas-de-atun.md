@@ -1,16 +1,27 @@
 ---
+
 layout: post
+
 title: CROQUETAS DE ATÚN
+
 date: '2010-06-01T13:35:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:13.586-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3401863967810007685
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/croquetas-de-atun.html
+
 ---
 
 <h3>Ingredientes</h3>
+
 1 cebolla y 1 pimiento verde
 
 150 grs. de mantequilla
@@ -26,6 +37,7 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/croquetas-de-atun.htm
 sal y aceite
 
 <h3>Preparación</h3>
+
 Picamos muy finamente la cebolla y el pimiento verde y los sofreimos en una
 
 sarten con mantequilla, a fuego muy suave. Añadimos el atun desmigado y la

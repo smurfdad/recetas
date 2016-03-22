@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: PASTA CON HONGOS
+
 date: '2010-05-30T13:51:00.001-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pastas
+
 - Setas y hongos
+
 modified_time: '2016-03-16T01:53:14.581-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1645965737034471586
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pasta-con-hongos.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 350 gr. de pasta fresca
 
 250 gr. de hongos frescos o dos botes de hongos desecados
@@ -39,6 +51,7 @@ sal
 pimienta
 
 <h3>Preparación</h3>
+
 Cortar la panceta en dados y saltearla un poco y retirarla.
 
 Freír lentamente la cebolla y el diente de ajo picados, y antes de que tomen color, saltear los hongos (si son desecados hay que ponerlos previamente a remojo) y sazonarlos con sal y pimienta.

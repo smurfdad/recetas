@@ -1,24 +1,34 @@
 ---
+
 layout: post
+
 title: CANELONES DE ATÚN
+
 date: '2010-06-03T14:00:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Pastas
+
 modified_time: '2016-03-16T01:53:12.890-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4472784925000146983
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/canelones-de-atun.html
+
 ---
 
 Para 5 personas.
 
 <h3>Ingredientes</h3>
 
-
 1 caja de canelones
 
-3 latas peque&ntilde;as de at&uacute;n en aceite
+3 latas peque&ntilde;as de atún en aceite
 
 6 cucharadas soperas de salsa de tomate
 
@@ -40,18 +50,17 @@ sal
 
 queso rallado
 
-<h3>Preparaci&oacute;n</h3>
-
+<h3>Preparación</h3>
 
 Poner una cazuela con agua, aceite y sal.
 
 Cuando hierva el agua echar los canelones y cocerlos.
 
-Una vez cocidos, escurrirlos y echarlos en una cazuela con abundante agua fr&iacute;a.
+Una vez cocidos, escurrirlos y echarlos en una cazuela con abundante agua fría.
 
 Aparte picar fina la cebolla y rehogar bien.
 
-Cuando este echa a&ntilde;adir el at&uacute;n y la salsa de tomate d&aacute;ndole unas vueltas.
+Cuando este echa a&ntilde;adir el atún y la salsa de tomate dándole unas vueltas.
 
 Disponer los canelones sobre un pa&ntilde;o de forma escalonada.
 

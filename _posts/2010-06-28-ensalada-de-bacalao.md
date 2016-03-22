@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: ENSALADA DE BACALAO
+
 date: '2010-06-28T04:09:00.000-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 - Ensaladas
+
 modified_time: '2016-03-16T01:53:05.573-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-863105626934804964
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ensalada-de-bacalao.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 2 patatas.
 
 1 cogollo de lechuga.
@@ -37,6 +49,7 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
+
 Desalar el bacalao. Picar el pimiento verde y la cebolla en juliana. Ponerlos a marinar con sal, los ajos machacados, la guindilla, el aceite y el vinagre durante toda la noche.
 
 (Reservar el líquido, que después servirá para aliñar la ensalada).

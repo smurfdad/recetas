@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: MERLUZA CON SALSA CHILI
+
 date: '2010-06-01T13:26:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:13.936-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8392799956230423063
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/merluza-con-salsa-chili.html
+
 ---
 
 Para 4 personas.
 
 <h3>Ingredientes</h3>
+
 4 filetes de merluza de 200 gr. cada uno
 
 400 gr. de tomates pelados y escurridos
@@ -42,6 +53,7 @@ pimienta
 2 huevos duros
 
 <h3>Preparación</h3>
+
 En un plato hondo se mezcla la harina con el chili, y se añade sal y pimienta. Se pasan los filetes de merluza por esta mezcla y se fríen en una sartén con aceite. Se escurren y se reservan.
 
 En otra sartén, se pone aceite y se sofríe la cebolla muy picada con el pimiento fresco, también picado, a fuego suave, hasta que quede blandito. Mientras tanto, se escurren bien los tomates y los pimientos de lata y se pican ambos. Se enciende el horno a 180º.

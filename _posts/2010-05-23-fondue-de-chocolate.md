@@ -1,18 +1,26 @@
 ---
+
 layout: post
+
 title: FONDUE DE CHOCOLATE
+
 date: '2010-05-23T13:36:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Postres y dulces
+
 modified_time: '2016-03-16T01:53:16.322-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1005779160414075197
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/fondue-de-chocolate.html
+
 ---
 
 Para 6 personas.
-
-<a name='more'></a>
 
 <h3>Ingredientes</h3>
 
@@ -32,7 +40,7 @@ peras
 
 uvas, melocotones o las frutas que se deseen
 
-<h3>Preparaci&oacute;n</h3>
+<h3>Preparación</h3>
 
 Disolver el chocolate en la leche, a fuego lento, revolviendo con cuchara de palo.
 

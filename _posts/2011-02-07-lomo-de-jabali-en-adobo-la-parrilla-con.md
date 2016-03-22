@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: LOMO DE JABALI EN ADOBO, A LA PARRILLA CON CALABACIN
+
 date: '2011-02-07T14:46:00.001-08:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Carnes y derivados
+
 modified_time: '2016-03-16T01:52:34.799-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5807680363307082708
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/lomo-de-jabali-en-adobo-la-parrilla-con.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 12 chuletas de jabalí
 
 2 calabacines
@@ -37,16 +49,11 @@ Para 6 personas.
 1 cucharada de sal
 
 <h3>Preparación</h3>
+
 En una cacerola honda se mezclan y se baten el tomillo, el orégano, el pimentón dulce y el picante, el aceite, la mostaza, la sal y la cabeza de ajos, con lo que obtendremos el adobo.
-
-
 
 Se parten las chuletas y se colocan en una orza de barro. Se vierte el adobo por encima de las chuletas, dejándolas reposar de 10 a 15 días.
 
-
-
 Pasando este tiempo, se sacan y se dejan escurrir durante 20 minutos aproximadamente y se preparan directamente sobre una plancha muy caliente o en una parrilla con alta temperatura para que se doren bien.
-
-
 
 Se sirven con una guarnición de calabacín rebozado (de cuatro a cinco rodajas) y patatas panadera.

@@ -1,19 +1,31 @@
 ---
+
 layout: post
+
 title: ALCACHOFAS CON ALMEJAS
+
 date: '2010-06-01T13:29:00.003-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Verduras y legumbres
+
 - Mariscos y moluscos
+
 modified_time: '2016-03-16T01:53:13.813-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3336545772225233646
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alcachofas-con-almejas_1.html
+
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
+
 1 docena y media de alcachofas
 
 1 cebolla pequeña
@@ -33,6 +45,7 @@ perejil
 sal
 
 <h3>Preparación</h3>
+
 Se limpian y cuecen las alcachofas con agua abundante. Cuando hierve se echa sal, zumo de limón y harina (una cucharada por litro), desleída en un poco de agua. Se agita para disolverla y cuando vuelve a hervir, se van echando, poco a poco, las alcachofas y los troncos (primero las mayores), sin que pare el hervor y se reservan.
 
 Se lavan las almejas en varias aguas frotando una con otras para que se desprendan bien las arenillas. Se cuecen en cacerola con vino blanco hasta que se abran. Se reservan. Se calienta el aceite en cazuela de barro, con la cebolla, el ajo y el perejil, todo ello picado.

@@ -1,18 +1,29 @@
 ---
+
 layout: post
+
 title: FILETES DE LUBINA A LA DENIA
+
 date: '2010-06-01T10:20:00.002-07:00'
+
 author: Smurf Dad
+
 categories:
+
 - Pescados
+
 modified_time: '2016-03-16T01:53:14.503-07:00'
+
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2418334826771625758
+
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/filetes-de-lubina-la-denia.html
+
 ---
 
 Para 2 personas.
 
 <h3>Ingredientes</h3>
+
 1 lubina de kilo y medio
 
 6 langostinos
@@ -43,14 +54,11 @@ Zumo de limón
 
 2 yemas de huevo
 
-
-
 <h3>Preparación</h3>
+
 Una vez desprovista la lubina de las espinas, se corta en filetes y se colocan en una tartera untada con mantequilla. Se añade el vino blanco, dos vasos grandes de agua y se sazona con sal. Inmediatamente se añade una cucharada sopera de mantequilla y unas gotas de zumo de limón. Se colocan las patatas peladas cuidadosamente y se tapa con papel de barba untado con mantequilla y se mete en el horno a 180º durante 12 minutos.
 
 A continuación se saca la tartera del horno y se añaden los langostinos y la trufa, cortada en rodajas, introduciéndolo de nuevo en el horno durante 3 minutos más a la misma temperatura.
-
-
 
 PREPARACION DE LA SALSA:
 
