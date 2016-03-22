@@ -1,26 +1,19 @@
 ---
 layout: post
 title: ANCHOAS REBOZADAS
-date: '2010-05-18T16:56:00.001-07:00'
-author: Smurf Dad
 categories:
 - Pescados
-modified_time: '2016-03-16T01:53:16.858-07:00'
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1086671001886256360
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/anchoas-rebozadas.html
+tags:
+- anchoas
+- huevo
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
-1 Kg. anchoas
-
-sal
-
-harina
-
-huevo batido
+- 1 Kg. anchoas
+- sal
+- harina
+- huevo batido
 
 <h3>Preparaci&oacute;n</h3>
 

@@ -1,30 +1,23 @@
 ---
 layout: post
 title: ARROZ BLANCO
-date: '2010-05-18T17:14:00.000-07:00'
-author: Smurf Dad
 categories:
 - Arroces
-modified_time: '2016-03-16T01:53:16.827-07:00'
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4253540387047264489
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/arroz-blanco.html
+tags:
+- arroz
+- cebolla
+- zanahoria
+- limón
 ---
-
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
-aceite
-
-1 cebolla
-
-2 zanahorias
-
-1/5 Kg. arroz
-
-1 l. agua o caldo
-
-unas gotas zumo lim&oacute;n
+- 1/5 Kg. arroz
+- aceite
+- 1 cebolla
+- 2 zanahorias
+- 1 l. agua o caldo
+- unas gotas zumo limón
 
 <h3>Preparaci&oacute;n</h3>
 
