@@ -1,0 +1,56 @@
+---
+layout: post
+title: CEBOLLAS AL GUSTO
+date: '2010-06-20T13:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:53:07.582-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4320256671652529650
+---
+
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+Cebollas 1 kg.
+
+Patatas 1 kg.
+
+Mantequilla 2 cucharadas
+
+Queso gruyére rallado 50 g.
+
+Salsa Bechamel un tazón.
+
+Sal y pimienta.
+
+<h3>Preparación</h3>
+
+Preparar la salsa Bechamel con la cuarta parte de los ingredientes.
+
+Pelar y lavar las cebollas y las patatas. Cortar éstas en trozos y las cebollas en rodajas.
+
+Hervir agua con sal en una cacerola. Hervir las patatas hasta que estén tiernas. Retirar, escurrir y hacer un puré.
+
+Calentar 1 cucharada de mantequilla en una sartén.
+
+Freír las cebollas hasta que estén transparentes. Retirar. Encender el grill.
+
+En un bol, mezclar el puré de patatas, las cebollas y la salsa Bechamel. Colocar la mezcla en una fuente refractaria. Espolvorear con pimienta. y queso rallado.
+
+Cortar en pequeños trozos el resto de la mantequilla, y salpimentar la superficie del pastel. Gratinar durante lo minutos.
+

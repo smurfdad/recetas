@@ -1,0 +1,54 @@
+---
+layout: post
+title: CARPACCIO DE BONITO EN ESCABECHE DE LIMÓN Y PIÑONES FRITOS
+date: '2010-07-09T11:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:53:01.529-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8754488802640661387
+---
+
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+Un lomo de bonito del Norte
+
+una cebolla
+
+hojas de laurel
+
+3 ó 4 dientes de ajo
+
+pimienta negra en grano
+
+zumo de un limón
+
+Aceite de oliva
+
+piñones
+
+<h3>Preparación</h3>
+
+Limpiamos el lomo y lo envolvemos con film transparente. Lo metemos a congelar hasta que quede duro.
+
+Para el escabeche ponemos aceite en una sartén, añadimos la cebolla en trozos grandes, el laurel, los ajos y la pimienta negra. Lo sofreímos a fuego lento, hasta que coja color. Al retirarlo le añadimos el zumo de limón y una pizca de sal.
+
+Con cuidado, procurando hacer rodajas muy finas, loncheamos el bonito.
+
+Con una cuchara lo empapamos del jugo del escabeche por encima. Al tiempo, freímos en aceite unos piñones o los tostamos al horno. Los añadimos y espolvoreamos todo con cebollino o perejil.
+

@@ -1,0 +1,43 @@
+---
+layout: post
+title: RODABALLO AL ALBARIÑO
+date: '2010-06-14T03:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
+- Pescados
+modified_time: '2016-03-16T01:53:09.600-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5449806052879365236
+---
+
+Para 3 personas.
+
+<h3>Ingredientes</h3>
+
+1 rodaballo de 1,5 kgr.
+
+1 cebolla pequeña
+
+Vino blanco (Albariño)
+
+Aceite
+
+Sal
+
+<h3>Preparación</h3>
+
+Una vez limpios y secos, sazonar los trozos de rodaballo y reservar. En una sartén con aceite rehogar la cebolla picada muy fina. Cuando esté lista, añadir el jamón cortado en daditos muy pequeños y dar unas vueltas. Incorporar el rodaballo dejando que se haga un momento por cada lado para que coja algo de color. Regar con el vino hasta que cubra el pescado por la mitad. Dejar cocer y reducir la salsa durante 3-5 minutos, dependiendo del grosor de los trozos de rodaballo, dándoles la vuelta a mitad de tiempo y sin dejar de mover la sartén para ligar la salsa con la gelatina que suelta la piel del pescado.
+

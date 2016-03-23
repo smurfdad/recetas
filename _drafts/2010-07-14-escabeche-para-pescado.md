@@ -1,0 +1,54 @@
+---
+layout: post
+title: ESCABECHE PARA PESCADO
+date: '2010-07-14T17:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:52:59.820-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1999948344446255827
+---
+
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+El pescado que se vaya a usar
+
+Zumo de media naranja
+
+4 ajos
+
+2 cucharadas de vinagre (al gusto)
+
+Varias hebras de azafrán
+
+2 hojitas de laurel
+
+1 ramita de tomillo
+
+1 pellizco de hinojo
+
+1 pelli7co de orégano
+
+Aceite
+
+<h3>Preparación</h3>
+
+Se limpia el pescado, se trocea y se fríe sin pasarlo por harina. Se pone apretado en una olla y se prepara un caldo con el laurel, el vinagre, los ajos cortaditos y machacados en el mortero, el azafrán. el tomillo, el hinojo, el orégano y el zumo de naranja.
+
+Se cuece todo y se echa sobre el pescado, poniendo por encima el aceite donde se ha frito, después de pasarlo por el colador. Ha de formar una capa de dos o tres dedos sobre la superficie, a fin de preservarlo del aire exterior. Cuando esté frío, se cubre con un papel y la tapadera de la olla.
+

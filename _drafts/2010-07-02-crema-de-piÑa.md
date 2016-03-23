@@ -1,0 +1,48 @@
+---
+layout: post
+title: CREMA DE PIÑA
+date: '2010-07-02T17:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:53:03.653-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4942020787176565646
+---
+
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+2 piñas
+
+Maizena para repostería, para espesar.
+
+Azúcar o edulcorante líquido o sacarina.
+
+4 claras de huevo.
+
+<h3>Preparación</h3>
+
+Partimos las piñas transversalmente, incluso el manojo verde.
+
+Le quitamos con ayuda de un cuchillo o cuchara la pulpa de la piña, con cuidado de no hacer ningún agujero. Dejamos a un lado las barquitas de la piña.
+
+Hervimos la pulpa hasta que se quede blandita, no tiramos el agua que hemos utilizado para hervir dicha piña y le echamos un poco de maizena (la cantidad depende de si está cremosa o no)y un poco de azúcar (según el gusto del consumidor). Y para no tirar las yemas de huevo, yo aprovecho y le echo alguna a la crema.
+
+Esta mezcla se echa en las barquitas de la piña. (Obtendremos 4 mitades).
+
+Batir las claras a punto de nieve y echarlas por encima de la crema, ponerlo al horno y gratinar hasta que se doren las claras.
+

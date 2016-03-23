@@ -1,0 +1,45 @@
+---
+layout: post
+title: PASTEL DE ZANAHORIA
+date: '2010-07-12T17:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:53:00.711-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2147726345202708029
+---
+
+Para 8 personas.
+<b>Tiempo</b> 20 minutos.
+
+<h3>Ingredientes</h3>
+
+1kg de zanahorias
+
+1 tarrina de mantequilla
+
+1 paquete mediano de sobaos pasiegos o Bizcocho
+
+1 vaso y medio de azucar
+
+chocolate de hacer
+
+<h3>Preparación</h3>
+
+Cuece las zanahorias y una vez cocidas, mezclalas con la mantequilla y el azucar creando una pasta homogenea de color naranja.
+
+Pon en un molde una capa de sobaos pasiegos cortados por la mitad en el grosor. Extiende una capa de la pasta de zanahoria. Otra capa de sobaos y otras de pasta, así sucesivamente acabando con una capa de sobaos. Una vez acabado, desmoldar y verter por encima chocolate líquido. Dejar que se solidifique y añadir coco rallado para decorar. Es muy buena para los niños ya que estos no se dan cuenta que comen zanahoria y es muy rica en vitamina A. Os invito a hacerla porque os sorprenderá.
+

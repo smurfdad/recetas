@@ -1,0 +1,52 @@
+---
+layout: post
+title: CORAZONES DE ALCACHOFAS AL MORILES
+date: '2010-09-13T08:30:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:52:48.601-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2661262029145924857
+---
+
+Para 6 personas.
+
+<h3>Ingredientes</h3>
+
+2 Kg. de alcachofas
+
+1/4 de litro de aceite de oliva
+
+4 dientes de ajo
+
+2 cucharadas de café de hierbabuena
+
+2 vaso de vino de Montilla
+
+2 cucharadas de café de pimienta blanca molida
+
+10 hebras de azafrán
+
+80 gr. de maicena
+
+sal
+
+1,50 litros de caldo blanco
+
+<h3>Preparación</h3>
+
+Se limpian las alcachofas y se trocean en dos mitades. En cada cacerola se refríen los ajos en el aceite; cuando estén dorados se añaden las alcachofas salpimentadas, rehogando unos dos minutos, para seguidamente añadir el vino y después el caldo. En un mortero se majan el azafrán y la hierbabuena, que se añaden al guiso, tapando la cacerola con papel de aluminio, hasta que las alcachofas estén tiernas, sacándolas a otro recipiente. Pasando la salsa por un chino a otra cacerola, diluyendo en unas cucharadas de agua fría la maicena, incorporándola a la salsa, que se dejará unos tres minutos más, transcurridos, se rociarán encima de las alcachofas.
+
