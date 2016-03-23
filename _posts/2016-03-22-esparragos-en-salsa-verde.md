@@ -38,7 +38,7 @@ Para 6 personas.
 
 - perejil picado
 
-<h3>Preparación</h2>
+<h3>Preparación</h3>
 
 Se pelan los espárragos y se dejan en agua.
 
