@@ -2,8 +2,22 @@
 layout: post
 title: SOPA DE PESCADO
 date: '2010-10-11T01:30:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Pescados
 - Sopas y cremas
 modified_time: '2016-03-16T01:52:37.999-07:00'

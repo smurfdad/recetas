@@ -2,8 +2,22 @@
 layout: post
 title: CHULETAS CON PIÑA
 date: '2010-07-07T00:30:00.000-07:00'
-author: Smurf Dad
-tags: 
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
 modified_time: '2016-03-16T01:53:02.203-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-195121386499928017
 ---

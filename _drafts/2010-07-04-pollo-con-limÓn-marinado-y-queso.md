@@ -2,8 +2,22 @@
 layout: post
 title: POLLO CON LIMÓN MARINADO Y QUESO
 date: '2010-07-04T20:00:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Pescados
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:03.081-07:00'

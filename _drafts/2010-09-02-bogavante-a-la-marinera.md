@@ -2,8 +2,22 @@
 layout: post
 title: BOGAVANTE A LA MARINERA
 date: '2010-09-02T16:00:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Pescados
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:52.841-07:00'

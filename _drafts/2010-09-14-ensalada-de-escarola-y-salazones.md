@@ -2,8 +2,22 @@
 layout: post
 title: ENSALADA DE ESCAROLA Y SALAZONES
 date: '2010-09-14T22:00:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Pescados
 - Ensaladas
 modified_time: '2016-03-16T01:52:48.147-07:00'

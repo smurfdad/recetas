@@ -2,8 +2,22 @@
 layout: post
 title: CERDO CON SALSA DE NUECES
 date: '2010-06-19T07:00:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Carnes y derivados
 modified_time: '2016-03-16T01:53:07.917-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6816037815562619503

@@ -2,8 +2,22 @@
 layout: post
 title: ALBÓNDIGAS DE PESCADO CON ARROZ
 date: '2010-08-26T10:30:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Pescados
 - Arroces
 modified_time: '2016-03-16T01:52:55.030-07:00'

@@ -2,8 +2,22 @@
 layout: post
 title: REDONDO DE POLLO CON MARISCO
 date: '2010-06-22T12:00:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Pescados
 - Mariscos y moluscos
 - Carnes y derivados

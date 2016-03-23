@@ -2,8 +2,22 @@
 layout: post
 title: ARROZ CON MEJILLONES
 date: '2010-08-29T15:00:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Arroces
 - Mariscos y moluscos
 modified_time: '2016-03-16T01:52:54.365-07:00'

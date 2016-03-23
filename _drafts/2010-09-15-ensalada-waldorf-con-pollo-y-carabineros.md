@@ -2,8 +2,22 @@
 layout: post
 title: ENSALADA WALDORF CON POLLO Y CARABINEROS
 date: '2010-09-15T21:30:00.000-07:00'
-author: Smurf Dad
-tags:
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
 - Ensaladas
 - Carnes y derivados
 modified_time: '2016-03-16T01:52:47.877-07:00'

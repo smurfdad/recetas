@@ -2,8 +2,22 @@
 layout: post
 title: SALTEADO DE TERNERA BOLONDESA
 date: '2010-06-06T03:30:00.000-07:00'
-author: Smurf Dad
-tags: 
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
 modified_time: '2016-03-16T01:53:11.849-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6214168765898536982
 ---
