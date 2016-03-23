@@ -2,32 +2,21 @@
 layout: post
 title: ESPÁRRAGOS EN SALSA
 categories:
-- Carnes y derivados
-- Mariscos y moluscos
 - Verduras y legumbres
-- Pescados
-- Arroces
-- Salsas
-- Postres y dulces
 - Huevos y lácteos
-- Pastas
-- Entrantes y bocadillos
-- Frutas
-- Sopas y cremas
-- Ensaladas
-- Setas y hongos
+tags:
+- espárragos
+- huevos
+- leche
+- aceite de oliva
 ---
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
-2 Kg de espárragos
-
-4 huevos
-
-300 c/c de leche
-
-aceite de oliva
+- 2 Kg de espárragos
+- 4 huevos
+- 300 c/c de leche
+- aceite de oliva
 
 <h3>Preparación</h3>
 
@@ -35,6 +24,6 @@ Se hierven los espárragos en agua y sal, se escurren y se ponen en una fuente a
 
 Se cuecen los huevos diez minutos, y cuando están duros, se pelan separando las claras de las yemas.
 
-Las yemas se ponen en un almirez y se trabajan añadiendo poco a poco el aceite hasta que se forme una crema muy fina, se añade a continuación la leche muy poco a poco, sin dejar de trabajar la mezcla, para que no se formen brumos.
+Las yemas se ponen en un almirez y se trabajan añadiendo poco a poco el aceite hasta que se forme una crema muy fina, se añade a continuación la leche muy poco a poco, sin dejar de trabajar la mezcla, para que no se formen grumos.
 
 Cuando se ha incorporado toda la leche se vierte el contenido del almirez sobre los espárragos, se pica por encima la clara de los huevos duros, Y tras dejar hervir todo diez minutos se saca caliente a la mesa.
