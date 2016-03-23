@@ -1,0 +1,58 @@
+---
+layout: post
+title: SOLOMILLO A LA MALAGUEÑA
+date: '2010-10-10T13:30:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:52:38.164-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8432851834577941270
+---
+
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+1 kg. de solomillo
+
+1 zanahoria
+
+1 cebolla
+
+100 gr. de guisantes
+
+50 gr. de harina
+
+huevos duros
+
+manteca
+
+mantequilla
+
+harina
+
+zumo de limón
+
+nuez moscada
+
+caldo
+
+sal
+
+<h3>Preparación</h3>
+
+Se prepara el solomillo, previamente sazonado, en una cazuela al fuego o metiéndolo en el horno con manteca, zanahoria y cebolla. Aparte se hace una salsa con mantequilla puesta al fuego en una sartén. En ella se fríe otra cebolla picada. Cuando esté dorada, se le vierte harina, zumo de limón, nuez moscada rallada, caldo y sal. Se pasa todo por el chino, añadiéndole después huevos duros picados, guisantes y unos taquitos de jamón. Se trincha el solomillo y se sirve, caliente, cubierto con la salsa anterior.
+

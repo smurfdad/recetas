@@ -1,0 +1,54 @@
+---
+layout: post
+title: CONGRIO EN SALSA DE PATATA
+date: '2010-07-13T13:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:53:00.154-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2251736090403294223
+---
+
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+4 rodajas de congrio de unos 250 gr.
+
+1/2 kg. de patatas
+
+1 cebolla
+
+4 dientes de ajo
+
+2 huevos duros
+
+100 gr. de guisantes escurridos
+
+1 ramo de perejil
+
+sal
+
+<h3>Preparación</h3>
+
+Se aclaran las rodajas de congrio. Se secan con papel absorbente y se sazonan de sal. Se fríen en una sartén con aceite de oliva, hasta que queden doradas por fuera. Se pasan a una cazuela.
+
+En la misma sartén, se añade un poco más de aceite si es necesario, y se echan las patatas peladas y picadas como si fueran para tortilla. Se añaden la cebolla y el ajo, muy picados, y se espolvorea abundante perejil picado sobre el conjunto. Se sazona con sal. Se fríe todo, removiéndolo con paciencia, y, una vez que empiece a ablandarse la patata, se aplasta con un tenedor, en la propia sartén, removiendo y friendo. Hay que procurar que la patata no se dore, sino que se poche en el aceite.
+
+Se cubre entonces con dos vasos de agua y se tiene hirviendo hasta que se forme una especie de salsa. Se vierte esta preparación sobre el congrio y se pone a hervir a fuego suave, con tapadera. Se prueba de sal y se tiene hirviendo todo, unos 5 minutos.
+
+Se le añaden entonces los guisantes y los huevos duros, cortados en cuartos, y se termina de hervir.
+

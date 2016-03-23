@@ -1,0 +1,63 @@
+---
+layout: post
+title: ARROZ EN SALSA VERDE
+date: '2010-07-22T22:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+
+- Arroces
+modified_time: '2016-03-16T01:52:57.347-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1226545686595643517
+---
+
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+200 gr. de arroz
+
+2 cebolletas
+
+10 ajos frescos
+
+3 patatas
+
+2 vasos de vino blanco
+
+2-3 vasos de caldo
+
+1 huevo cocido
+
+aceite virgen extra
+
+sal
+
+perejil
+
+<h3>Preparación</h3>
+
+Pela las patatas, córtalas en rodajas y fríelas a fuego fuerte en una sartén hasta que se doren.
+
+Pica las cebolletas y corta los ajos frescos en trozos de unos 5 centímetros. Dóralos en una cazuela amplia y baja con 4 cucharadas de aceite. Incorpora las patatas.
+
+Cuando esté rehogado, añade el arroz, mezcla bien y añade el vino blanco y el caldo. Sazona y espolvorea con perejil picado. Deja cocer durante 16-18 minutos.
+
+Pela el huevo cocido, córtalo en 4. Decora la cazuela con los trozos de huevo y una rama de perejil.
+
+<h3>Observaciones</h3>
+
+Una vez hecho el arroz, lo mejor es taparlo con un trapo limpio y dejarlo reposar durante 4-5 minutos antes de servir.
+

@@ -1,0 +1,46 @@
+---
+layout: post
+title: BAVAROIS DE PIÑA
+date: '2010-10-13T09:30:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:52:37.239-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8083002309328787059
+---
+
+Para 4 personas.
+
+<h3>Ingredientes</h3>
+
+1 lata piña en almibar 1 Kg.
+
+250 grs. nata montada
+
+2 sobres gelatina de limón
+
+2 cucharadas azúcar
+
+1 limón
+
+<h3>Preparación</h3>
+
+En un molde redondo caramelizar las dos cucharadas de azúcar y reservar.
+
+En un cazo y a fuego lento, diluir los dos sobres de gelatina con el zumo de la piña en almíbar (1 vaso de los de agua). Cuando esté deshecho y fuera ya del fuego, añadir la piña y un vasito de agua y triturar con el minipimer. Añadir la piel rallada del limón y el zumo del limón.
+
+Añadir la nata y si se quiere muy dulce, una cucharada de azúcar. Removerlo todo muy bien y echarlo en el molde caramelizado. Introducirlo en la nevera 24 horas. Al desmoldarlo para servir, se puede decorar con bolitas de nata, cerezas confitadas, trocitos de fruta, etc.
+

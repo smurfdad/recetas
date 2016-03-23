@@ -1,0 +1,45 @@
+---
+layout: post
+title: BACALAO CON PASAS Y PIÑONES
+date: '2010-08-31T13:00:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:52:53.452-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1627099452525010998
+---
+
+Para 6 personas.
+<b>Tiempo</b> 60 minutos.
+
+<h3>Ingredientes</h3>
+
+1 Ud. bacalao seco
+
+50 gr. piñones
+
+200 gr. pasas sultanas
+
+5-6 diente ajo
+
+aceite de oliva virgen
+
+agua
+
+<h3>Preparación</h3>
+
+Después de cambiarle al bacalao varias aguas, lo escurrimos con cuidado y reservamos. Las pasas sultanas las hemos tenido a remojo poco tiempo. En una cazuela freímos en el aceite los ajos cortados en láminas. A continuación disponemos los trozos de bacalao con la piel hacia abajo, y cubrimos con las pasas y los piñones. Se añade agua hasta llegar al nivel del bacalao y se cuece a fuego lento, moviendo la cazuela de vez en cuando.
+

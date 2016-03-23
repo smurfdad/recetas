@@ -1,0 +1,54 @@
+---
+layout: post
+title: CHAMPIÑONES A LA PLANCHA CON GAMBAS
+date: '2010-07-24T12:30:00.000-07:00'
+categories:
+- Carnes y derivados
+- Mariscos y moluscos
+- Verduras y legumbres
+- Pescados
+- Arroces
+- Salsas
+- Postres y dulces
+- Huevos y lácteos
+- Pastas
+- Entrantes y bocadillos
+- Frutas
+- Sopas y cremas
+- Ensaladas
+- Setas y hongos
+ 
+modified_time: '2016-03-16T01:52:56.929-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-9210435442822193178
+---
+
+<h3>Ingredientes</h3>
+
+16 champiñones
+
+32 gambas
+
+4 dientes de ajo
+
+1 guindilla de cayena
+
+aceite virgen extra
+
+sal
+
+perejil
+
+<h3>Preparación</h3>
+
+Pica los ajos finamente y ponlos en el mortero. Añade la cayena y un poco de sal gruesa. Machaca todo, vierte un poco de aceite y mezcla bien.
+
+Retira el tallo de los champiñones, pasa por agua los sombreros.
+
+Calienta la plancha, úntala con un poco del majado y coloca los champiñones con el agujero hacia abajo. Riégalos con un poco del majado. Espolvoréalos con perejil picado y cocínalos 3 minutos por cada lado.
+
+Pela las gambas, sazónalas y cocínalas brevemente en la plancha. Ensarta con un palillo 2 gambas y un champiñón y sirve en una fuente amplia. Decora con una rama de perejil.
+
+<h3>Observaciones</h3>
+
+Antes de cocinar los champiñones deben estar limpios y enteros. Para limpiarlos conviene pasarlos por agua, pero brevemente porque pierden mucho sabor
+
