@@ -1,44 +1,28 @@
 ---
-
 layout: post
-
 title: ENSALADA DE PEPINO CON SALSA DE YOGURT.
-
-date: '2015-03-27T03:02:00.000-07:00'
-
-author: Smurf Dad
-
 categories:
-
 - Ensaladas
-
 - Huevos y lácteos
-
-modified_time: '2016-03-16T01:52:33.428-07:00'
-
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3628360982753598235
-
-blogger_orig_url: http://recetas-desa.blogspot.com/2015/03/ensalada-de-pepino-con-salsa-de-yogurt.html
-
+tags:
+- pepino
+- cebolla
+- yogurt
+- curry
+- nuez
+- manzana
+- Sal
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
-200 g de pepino.
-
-1 cebolla.
-
-1 yogurt natural.
-
-1 cucharadita de curry.
-
-25 g de nueces.
-
-1 manzana verde.
-
-Sal.
+- 200 g de pepino.
+- 1 cebolla.
+- 1 yogurt natural.
+- 1 cucharadita de curry.
+- 25 g de nueces.
+- 1 manzana verde.
+- Sal.
 
 <h3>Preparación</h3>
 

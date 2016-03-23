@@ -1,39 +1,23 @@
 ---
-
 layout: post
-
 title: ENSALADA DE ESCAROLA CON JUGO DE TOMATE AL AJO
-
-date: '2015-08-14T04:26:00.000-07:00'
-
-author: Smurf Dad
-
 categories:
-
 - Ensaladas
-
-modified_time: '2016-03-16T01:52:33.329-07:00'
-
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-774497949315299545
-
-blogger_orig_url: http://recetas-desa.blogspot.com/2015/08/ensalada-de-escarola-con-jugo-de-tomate.html
-
+tags:
+- escarola
+- tomate
+- ajo
+- Aceite
+- limón
 ---
-
 <h3>Ingredientes</h3>
-
-1 escarola
-
-1 tomate maduro
-
-3 dientes de ajo
-
-Aceite de oliva virgen extra
-
-1 limón
+- 1 escarola
+- 1 tomate maduro
+- 3 dientes de ajo
+- Aceite de oliva virgen extra
+- 1 limón
 
 <h3>Preparación</h3>
-
 Como toda verdura que se va a consumir en crudo, la escarola debe lavarse bien, y dejarse una media hora a remojo en agua muy fría con un par de gotas de lejía.
 
 Luego se vuelve a aclarar, y las hojas se parten al tamaño oportuno para poder ser comidas sin mancharnos de aliño las orejas.

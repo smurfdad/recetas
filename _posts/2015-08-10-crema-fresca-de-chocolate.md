@@ -1,36 +1,21 @@
 ---
-
 layout: post
-
 title: CREMA FRESCA DE CHOCOLATE
-
-date: '2015-08-10T23:00:00.000-07:00'
-
-author: Smurf Dad
-
 categories:
-
 - Postres y dulces
-
-modified_time: '2016-03-16T01:52:33.358-07:00'
-
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2158892032196056890
-
-blogger_orig_url: http://recetas-desa.blogspot.com/2015/08/crema-fresca-de-chocolate.html
-
+tags:
+- Leche
+- Azúcar
+- Chocolate Cobertura
+- Nata
+- huevo
 ---
-
 <h3>Ingredientes</h3>
-
-Leche 250g
-
-Azúcar 150g
-
-Chocolate Cobertura Valor 200g
-
-Nata 250g
-
-Claras Montadas 150g
+- Leche 250g
+- Azúcar 150g
+- Chocolate Cobertura Valor 200g
+- Nata 250g
+- Claras Montadas 150g
 
 <h3>Preparación</h3>
 

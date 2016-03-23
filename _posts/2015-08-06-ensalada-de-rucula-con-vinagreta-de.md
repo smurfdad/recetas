@@ -1,46 +1,32 @@
 ---
-
 layout: post
-
 title: ENSALADA DE RÚCULA CON VINAGRETA DE NUECES Y PASAS
-
-date: '2015-08-06T06:30:00.000-07:00'
-
-author: Smurf Dad
-
 categories:
-
 - Ensaladas
-
-modified_time: '2016-03-16T01:52:33.407-07:00'
-
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-9046145870140225160
-
-blogger_orig_url: http://recetas-desa.blogspot.com/2015/08/ensalada-de-rucula-con-vinagreta-de.html
-
+tags:
+- rúcula
+- tomate cherry
+- nueces
+- pasas
+- azúcar
+- balsámico.
+- aceite
+- Sal
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
-300 gramos de hojas de rúcula.
-
-16 tomatitos cherry.
+- 300 gramos de hojas de rúcula.
+- 16 tomates cherry.
 
 Para la vinagreta:
 
-30 gramos de nueces peladas.
-
-30 gramos de pasas sin pepitas.
-
-1 cucharada sopera de azúcar.
-
-6 cucharadas de vinagre balsámico.
-
-18 cucharadas de aceite de oliva virgen.
-
-Sal.
+- 30 gramos de nueces peladas.
+- 30 gramos de pasas sin pepitas.
+- 1 cucharada sopera de azúcar.
+- 6 cucharadas de vinagre balsámico.
+- 18 cucharadas de aceite de oliva virgen.
+- Sal.
 
 <h3>Preparación</h3>
 

@@ -1,41 +1,23 @@
 ---
-
 layout: post
-
 title: ESPÁRRAGOS EN SALSA VERDE
-
 categories:
-
 - Verduras y legumbres
-
 tags:
-
 - espárragos
-
 - pan
-
 - ajo
-
 - cebolla
-
 - perejil
-
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 - 2 kilos de espárragos frescos
-
 - 1 taza de aceite
-
 - 2 rodajas de pan
-
 - 2 dientes de ajo
-
 - 1/2 cebolla
-
 - perejil picado
 
 <h3>Preparación</h3>

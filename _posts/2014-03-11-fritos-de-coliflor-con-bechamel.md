@@ -1,48 +1,33 @@
 ---
-
 layout: post
-
 title: FRITOS DE COLIFLOR CON BECHAMEL
-
-date: '2014-03-11T02:00:00.000-07:00'
-
-author: Smurf Dad
-
 categories:
-
 - Verduras y legumbres
-
 - Huevos y lácteos
-
-modified_time: '2016-03-16T01:52:33.463-07:00'
-
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8630471108136667868
-
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/fritos-de-coliflor-con-bechamel.html
-
+tags:
+- coliflor
+- leche
+- margarina
+- harina
+- Sal 
+- nuez moscada
+- huevos
+- Aceite
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
-1 kilo de coliflor.
+- 1 kilo de coliflor.
 
 Para la bechamel:
 
-1/2 litro de leche.
-
-40 gramos de margarina.
-
-40 gramos de harina.
-
-Sal y nuez moscada.
-
-1 plato con harina.
-
-2 huevos.
-
-Aceite de semillas para freír
+- 1/2 litro de leche.
+- 40 gramos de margarina.
+- 40 gramos de harina.
+- Sal y nuez moscada.
+- 1 plato con harina.
+- 2 huevos.
+- Aceite de semillas para freír
 
 <h3>Preparación</h3>
 

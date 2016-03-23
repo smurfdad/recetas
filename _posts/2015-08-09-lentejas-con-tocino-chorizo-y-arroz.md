@@ -1,54 +1,36 @@
 ---
-
 layout: post
-
 title: LENTEJAS CON TOCINO, CHORIZO Y ARROZ
-
-date: '2015-08-09T06:00:00.000-07:00'
-
-author: Smurf Dad
-
 categories:
-
 - Verduras y legumbres
-
 - Arroces
-
-modified_time: '2016-03-16T01:52:33.378-07:00'
-
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7383900693005502065
-
-blogger_orig_url: http://recetas-desa.blogspot.com/2015/08/lentejas-con-tocino-chorizo-y-arroz.html
-
+tags:
+- lentejas
+- arroz integral
+- cebolla
+- ajo
+- chorizo
+- tocino
+- aceite
+- sal
+- pimentón dulce
+- perejil
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
-500 gr. de lentejas
-
-200 gr. de arroz integral
-
-1 cebolla
-
-1 cabeza de ajo entera
-
-4 dientes de ajo
-
-200 gr. de chorizo
-
-300 gr. de tocino
-
-agua
-
-aceite virgen extra Hojiblanca
-
-sal
-
-1 cucharadita de pimentón dulce
-
-perejil picado
+- 500 gr. de lentejas
+- 200 gr. de arroz integral
+- 1 cebolla
+- 1 cabeza de ajo entera
+- 4 dientes de ajo
+- 200 gr. de chorizo
+- 300 gr. de tocino
+- agua
+- aceite virgen extra Hojiblanca
+- sal
+- 1 cucharadita de pimentón dulce
+- perejil picado
 
 <h3>Preparación</h3>
 
