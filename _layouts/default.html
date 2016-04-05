@@ -9,6 +9,12 @@
 <meta name="author" content="{{site.author}}">
 <meta name="google-site-verification" content="4jGCb941g4Q2-b6W5HfKZwDSB6wEN5IapFOQIUYpdKk" />
 
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@{{site.author}}" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+<meta name='twitter:url' content="{{ page.url | prepend: site.baseurl }}"/>
+
 <link rel="icon" type="image/ico" href="/favicon.ico" />
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico" />
 <link rel="icon" type="image/ico" href="/favicon.ico" />
