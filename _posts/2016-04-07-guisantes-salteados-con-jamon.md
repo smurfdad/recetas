@@ -1,44 +1,28 @@
 ---
 layout: post
 title: GUISANTES SALTEADOS CON JAMÓN
-date: '2010-06-04T17:00:00.000-07:00'
 categories:
 - Carnes y derivados
-- Mariscos y moluscos
 - Verduras y legumbres
-- Pescados
-- Arroces
-- Salsas
-- Postres y dulces
-- Huevos y lácteos
-- Pastas
-- Entrantes y bocadillos
-- Frutas
-- Sopas y cremas
-- Ensaladas
-- Setas y hongos
- 
-modified_time: '2016-03-16T01:53:12.538-07:00'
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5203729277694011225
+tags:
+- guisantes
+- jamón serrano
+- cebolla
+- ajo
+- agua
+- sal
+- aceite
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
-1 kilo de guisantes
-
-150 gr de jamón serrano
-
-1 cebolla
-
-3 dientes de ajo
-
-agua
-
-sal
-
-aceite
+- 1 kilo de guisantes
+- 150 gr de jamón serrano
+- 1 cebolla
+- 3 dientes de ajo
+- agua
+- sal
+- aceite
 
 <h3>Preparación</h3>
 
