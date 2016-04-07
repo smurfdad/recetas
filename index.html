@@ -5,22 +5,23 @@ layout: default
 {%assign linea = 0%}
 {%assign linea2 = 0%}
 {% for post in paginator.posts %}
-  {% if first_post_id == post.id %}
-    <div class="row">
-    <article class="col-md-12">
-      <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
-      <small>{{ post.date | date_to_string }}</small>
+  <article class="col-md-12">
+    <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
+    <div class="bs-callout bs-callout-success">
+      <h6><i class="glyphicon glyphicon-calendar"></i>{{ post.date | date_to_string }}</h6>
+      <ul class="list-inline">
+        {% for category in post.categories %}
+        <li><a href="/categorias/#{{category | slugify}}">{{category | capitalize}}</a></li>
+        {% endfor%}
+      </ul>
+
+    </div>
+  {% if first_post_id == post.id %}     
       <div class="bs-callout bs-callout-primary text-justify">
         {{ post.content }}
-       </div>
-      </article>
-    </div>
-  {% else %}
-    <article class="col-md-4 titular">
-      <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }}</h2></a>
-      <small>{{ post.date | date_to_string }}</small>
-    </article>
+      </div>
   {% endif %}
+  </article>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

@@ -12,7 +12,7 @@ github_username: smurfdad
 
 # Build settings
 markdown: kramdown
-paginate_path: page:num
+paginate_path: page/:num
 paginate: 10
 show_drafts: false
 future: false
