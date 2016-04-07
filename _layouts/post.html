@@ -3,17 +3,18 @@ layout: default
 ---
 <article>
     <a href="{{ page.url | prepend: site.baseurl }}"><h2>{{ page.title }}</h2></a>
-    <small>
-    <ul class="list-inline">
-        <label>Categorias:</label>
+    <div class="bs-callout bs-callout-primary text-justify">
+      <ul class="list-inline">
+        <li>
+          <span class="label label-primary"><i class="glyphicon glyphicon-calendar"></i>{{ page.date | date_to_string }}</span>
+        </li>
         {% for category in page.categories %}
         <li><a href="/categorias/#{{category | slugify}}">{{category | capitalize}}</a></li>
         {% endfor%}
-    </ul>
-    </small>
-    <div class="bs-callout bs-callout-primary text-justify">
+      </ul>
+
+    
         {{ content }}
-        <small class="pull-right">Fecha publicación <time>{{ page.date | date_to_string }}</time></small>
     </div>
     {% comment %}
     Ingredientes: <ul class="list-inline">
