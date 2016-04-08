@@ -34,7 +34,7 @@ Una vez cocidos sacarlos y escurrirlos.
 
 A continuación picar muy fina la cebolla y el ajo, poniéndolo a rehogar a continuación con un poco de aceite de oliva.
 
-Cuando este echa, agregar el jamón picadito y rehogarlo, añadir los guisantes y saltearlos bien.
+Cuando este hecha, agregar el jamón picadito y rehogarlo, añadir los guisantes y saltearlos bien.
 
 Ligar con un poco de harina y mojar con un poco del caldo de cocción.
 
