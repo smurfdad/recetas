@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AJI DE GALLINA PERUANO
-date: '2010-06-26T14:00:00.000-07:00'
+date: '2010-07-15T14:30:00.000-07:00'
 categories:
 - Carnes y derivados
 - Mariscos y moluscos
@@ -19,11 +19,12 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
-modified_time: '2016-03-16T01:53:05.713-07:00'
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5859623118883244569
+modified_time: '2016-03-16T01:52:59.569-07:00'
+blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3174574623407938151
 ---
 
 Para 6 personas.
+<b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
 
@@ -43,7 +44,7 @@ Para 6 personas.
 
 1 taza de cebolla picada en cuadritos
 
-3 ccharadas de aji molido amarillo
+3 cucharadas de aji molido amarillo
 
 3 huevos cocidos
 
