@@ -31,17 +31,20 @@ Here we generate all the tags.
 {% endif %}
 {% endfor %}
 
+{% assign sorted_tags = (tags | sort: 0) %}
 <ul class="list-inline">
-{% for tag in tags %}
+{% for tag in sorted_tags %}
 <li><a href="#{{ tag | slugify }}"> {{ tag | capitalize}} </a> &nbsp;&nbsp;</li>
 {% endfor %}
 </ul>
 
-{% for tag in tags %}
+{% assign sorted_posts = (site.posts | sort: 'title') %}
+
+{% for tag in sorted_tags %}
 <div class="bs-callout bs-callout-info text-justify" id="{{ tag | slugify }}">
 <h3>{{ tag | capitalize }}</h3>
 <ul class="list-unstyled">
-  {% for post in site.posts %}
+  {% for post in sorted_posts %}
     {% if post.tags contains tag %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endif %}

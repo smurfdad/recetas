@@ -5,11 +5,11 @@ categories:
 - Verduras y legumbres
 - Pescados
 tags:
-- 4 trozos de bacalao desalados
-- 200 grs de judías verdes
-- 200 grs de brécol
-- 200 grs de patatas
-- 1/2 cebolla
+- bacalao
+- judías verdes
+- brécol
+- patata
+- cebolla
 - Zanahorias enanas
 - Aceite de oliva
 - Sal
