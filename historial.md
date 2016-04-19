@@ -1,6 +1,7 @@
 ---
 title: Histórico de Publicaciones
 layout: default
+permalink: /historial/index.html
 ---
 <div class="timeline"><dl>
 {% for post in site.posts %}
@@ -16,6 +17,6 @@ layout: default
           <h4 class="events-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
         </div>
       </div>
-  </dd> 
+  </dd>
   {% capture fecha %}{{ post.date | date: "%B %Y" }}{% endcapture %}     
 {% endfor %}
