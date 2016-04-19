@@ -32,13 +32,13 @@ Para 6 personas.
 
 1/2 cebolla picada
 
-3 pimientos verdes peque&ntilde;os, picados
+3 pimientos verdes pequeños, picados
 
 1 ajo
 
 2 cucharaditas de pimentón
 
-1/2 lata peque&ntilde;a de tomate frito
+1/2 lata pequeña de tomate frito
 
 1 chorro de aceite de oliva
 
@@ -48,11 +48,11 @@ Poner las fabes a cocer, previamente remojadas de víspera, junto con un trozo d
 
 En cazuela aparte, freír en el aceite un ajo y retirar.
 
-En el mismo aceite, rehogar la cebolla, a&ntilde;adir el pimiento y revolver.
+En el mismo aceite, rehogar la cebolla, añadir el pimiento y revolver.
 
-Cuando empiece a dorarse, a&ntilde;adir el tomate, dejar reducir un poco y echar el pimentón y una cucharada de fabes y un cazo de caldo del puchero, revolver y retirar.
+Cuando empiece a dorarse, añadir el tomate, dejar reducir un poco y echar el pimentón y una cucharada de fabes y un cazo de caldo del puchero, revolver y retirar.
 
-Triturar el refrito con la batidora y a&ntilde;adirlo a las fabes, (se pueden dejar sin triturar) junto con las anillas de calamar y la sal que necesite.
+Triturar el refrito con la batidora y añadirlo a las fabes, (se pueden dejar sin triturar) junto con las anillas de calamar y la sal que necesite.
 
 Dejar cocer el conjunto a fuego suave y semitapado hasta que los calamares estén tiernos (en la olla rápida, diez minutos más, en cazuela normal, alrededor de 40 minutos).
 

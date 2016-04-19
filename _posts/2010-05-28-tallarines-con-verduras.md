@@ -38,7 +38,7 @@ Para 6 personas.
 
 1 cebolla
 
-1/4 champi&ntilde;ones
+1/4 champiñones
 
 50 grs. bacon
 
@@ -52,7 +52,7 @@ Cocer los tallarines como indica el paquete.
 
 En una cazuela baja que sirva para sacar a la mesa rehogar la cebolla con el bacon.
 
-Cuando lo esté, a&ntilde;adir las verduras, revolver, tapar y dejar hacer a poco fuego vigilándolas de vez en cuando para que no se peguen. Tardarán unos 20 minutos.
+Cuando lo esté, añadir las verduras, revolver, tapar y dejar hacer a poco fuego vigilándolas de vez en cuando para que no se peguen. Tardarán unos 20 minutos.
 
 Echar los tallarines bien escurridos y el queso rallado y revolver con cuidado para que no se rompan las verduras.
 

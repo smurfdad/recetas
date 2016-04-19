@@ -34,7 +34,7 @@ Para 6 personas.
 
 2 zanahorias troceadas
 
-1/4 de kg. de champi&ntilde;on
+1/4 de kg. de champiñon
 
 3 patatas cascadas en trozos
 

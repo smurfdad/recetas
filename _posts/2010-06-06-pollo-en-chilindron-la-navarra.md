@@ -32,7 +32,7 @@ sal
 
 2 cebollas medianas
 
-1/2 copa de co&ntilde;ac
+1/2 copa de coñac
 
 tomillo
 
@@ -50,11 +50,11 @@ Cortar el pollo en trozos y sazonar con sal.
 
 Poner una cazuela con aceite y freír bien el pollo.
 
-Una vez frito, a&ntilde;adir la cebolla y el ajo picado fino y rehogar.
+Una vez frito, añadir la cebolla y el ajo picado fino y rehogar.
 
-Después a&ntilde;adir el co&ntilde;ac y prenderle fuego, para quemar el alcohol.
+Después añadir el coñac y prenderle fuego, para quemar el alcohol.
 
-Echar un poco de harina para ligarlo bien y a&ntilde;adir el tomate, las tiras de pimiento choricero previamente remojado, un pellizco de tomillo y mojar con el consomé.
+Echar un poco de harina para ligarlo bien y añadir el tomate, las tiras de pimiento choricero previamente remojado, un pellizco de tomillo y mojar con el consomé.
 
 Dejar todo a fuego lento unos 20 minutos para que se termine de hacer.
 

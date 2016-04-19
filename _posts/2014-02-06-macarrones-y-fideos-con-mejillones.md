@@ -52,7 +52,7 @@ aceite,
 
 <h3>Preparación</h3>
 
-En una cazuela se dora la cebolla, ajo, perejil y un tomate, todo muy picado. Una vez dorado se a&ntilde;ade un poco de pan rallado. Un poco del agua de la cocción de los mejillones se agrega a la cazuela. Al momento de empezar a hervir, se le a&ntilde;ade la pasta, pimiento y azafrán. Cuando la pasta esté a punto se incorporan los mejillones ya cocidos y media hoja de laurel. Se sirven en la misma cazuela.
+En una cazuela se dora la cebolla, ajo, perejil y un tomate, todo muy picado. Una vez dorado se añade un poco de pan rallado. Un poco del agua de la cocción de los mejillones se agrega a la cazuela. Al momento de empezar a hervir, se le añade la pasta, pimiento y azafrán. Cuando la pasta esté a punto se incorporan los mejillones ya cocidos y media hoja de laurel. Se sirven en la misma cazuela.
 
 <h3>Observaciones</h3>
 

@@ -50,7 +50,7 @@ Para 4 personas.
 
 Se hace un caldo con el rape, las cabezas de las gambas, la hoja de laurel y sal a gusto.
 
-Se prepara un sofrito refriendo en aceite la cebolla muy picadita, se a&ntilde;ade la harina, se dora un poco y se le incorpora el pimentón, cuidando que no se queme, por lo que se va diluyendo con un poco de caldo de la cocción, se le agrega el tomate y el vino cuando se ha conseguido una suave crema se une al caldo de pescado previamente colado.
+Se prepara un sofrito refriendo en aceite la cebolla muy picadita, se añade la harina, se dora un poco y se le incorpora el pimentón, cuidando que no se queme, por lo que se va diluyendo con un poco de caldo de la cocción, se le agrega el tomate y el vino cuando se ha conseguido una suave crema se une al caldo de pescado previamente colado.
 
 A este caldo se le suma las gambas peladas y la carne del rape desmenuzada y sin espinas.
 

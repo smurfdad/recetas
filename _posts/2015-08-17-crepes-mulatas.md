@@ -2,7 +2,7 @@
 layout: post
 title: CREPES MULATAS
 categories:
-- Huevos y lácteos
+- Huevos y lacteos
 - Postres y dulces
 tags:
 - harina

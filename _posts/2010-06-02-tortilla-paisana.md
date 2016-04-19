@@ -12,7 +12,7 @@ categories:
 
 - Verduras y legumbres
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 modified_time: '2016-03-16T01:53:13.428-07:00'
 

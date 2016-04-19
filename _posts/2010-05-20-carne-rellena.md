@@ -60,13 +60,13 @@ Se echa sal, se pasa por harina y se coloca en una cazuela con aceite, la ceboll
 
 Se pone al fuego no muy fuerte y cuando esté la cebolla a punto de dorar se echa el vino blanco. Se tapa y se deja que se vaya haciendo a fuego suave.
 
-Si se va quedando seco, a&ntilde;adir más agua. Girar la carne a mitad de cocción.  La cazuela debe estar tapada.
+Si se va quedando seco, añadir más agua. Girar la carne a mitad de cocción.  La cazuela debe estar tapada.
 
 Tardará en hacerse unas 2 horas y media.
 
 Se tritura la salsa o se pasa por el pasapurés. Se quitan las cuerdas de la carne y se corta en lonchas.
 
-Colocarla en una fuente se servir, acompa&ntilde;ada de puré de patata y rociada con un poco de su salsa.
+Colocarla en una fuente se servir, acompañada de puré de patata y rociada con un poco de su salsa.
 
 El resto de la salsa servirla en salsera aparte.
 

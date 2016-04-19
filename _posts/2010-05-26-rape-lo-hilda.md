@@ -42,9 +42,9 @@ un chorrito de vino blanco
 
 Se pone a hacer a fuego lento, en una cazuela baja con el aceite, las cebollas, zanahoria, pimiento y tomate, todo ello bien picado.
 
-Antes de que empiece a dorarse, se a&ntilde;ade el rape entero y limpio.
+Antes de que empiece a dorarse, se añade el rape entero y limpio.
 
-Cuando estéa medio hacer, a&ntilde;adir el vino blanco.
+Cuando estéa medio hacer, añadir el vino blanco.
 
 Cuando el rape esté hecho, cosa que se conoce si se desprende la espina bien, se saca a enfriar.
 

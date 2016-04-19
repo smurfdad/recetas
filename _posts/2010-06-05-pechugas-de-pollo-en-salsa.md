@@ -46,15 +46,15 @@ pimienta blanca
 
 Poner las pechugas en un Bol, cubriéndolas de leche y mantenerlas toda la noche en el frigorífico.
 
-En una cazuela poner un poco de aceite y a&ntilde;adir la cebolla y el ajo, picado muy fino y dejar hacerse despacio, sin dejar que tome color.
+En una cazuela poner un poco de aceite y añadir la cebolla y el ajo, picado muy fino y dejar hacerse despacio, sin dejar que tome color.
 
 Una vez echo, sacaremos las pechugas de la leche, escurrirlas, sazonarlas con sal y pimienta blanca. Pondremos las pechugas en la cazuela y le daremos una vuelta.
 
 Después agregar el vino y lo dejaremos reducir.
 
-A&ntilde;adir después el consomé y dejar que se vayan haciendo.
+Añadir después el consomé y dejar que se vayan haciendo.
 
-Cuando estén casi hechos, a&ntilde;adiremos la nata y lo dejaremos unos dos o tres minutos más para que la salsa coja cuerpo.
+Cuando estén casi hechos, añadiremos la nata y lo dejaremos unos dos o tres minutos más para que la salsa coja cuerpo.
 
 Servir bien calientes.
 

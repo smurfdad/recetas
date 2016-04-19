@@ -38,7 +38,7 @@ Para 4 personas.
 
 Se pica la cebolla y se trocean los puerros.
 
-Se pone a cocer en el agua, a&ntilde;adiéndole también la sal.
+Se pone a cocer en el agua, añadiéndole también la sal.
 
 Una vez cocido se pasa por la batidora y a la vez se vierte la nata líquida.
 

@@ -32,7 +32,7 @@ Pan de molde: 4 rebanadas.
 
 Queso gruyére rallado: 30 g.
 
-Pasas y pi&ntilde;ones: 50 g.
+Pasas y piñones: 50 g.
 
 Aceite: 1 dl (6 cucharadas).
 
@@ -50,11 +50,11 @@ Preparar la salsa Bechamel. Cortar en triángulos las rebanadas de pan.
 
 Calentar el aceite en una sartén. Freír los triangulos de pan. Retirar.
 
-En el mismo aceite, freír las pasas y pi&ntilde;ones durante 2 minutos.
+En el mismo aceite, freír las pasas y piñones durante 2 minutos.
 
 Pelar los huevos. Encender el grill.
 
-Colocar las espinacas en una fuente refractaria. Agregar las pasas y pi&ntilde;ones, y mezclar. Disponer encima los huevos. Recubrir con la salsa Bechamel. Espolvorear con el queso rallado. Gratinar durante lo minutos.
+Colocar las espinacas en una fuente refractaria. Agregar las pasas y piñones, y mezclar. Disponer encima los huevos. Recubrir con la salsa Bechamel. Espolvorear con el queso rallado. Gratinar durante lo minutos.
 
 Adornar la fuente con los triángulos de pan.
 

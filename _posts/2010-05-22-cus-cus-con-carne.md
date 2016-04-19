@@ -36,7 +36,7 @@ Para 8 personas.
 
 1 tomate grande, pelado y troceado
 
-1/2 berza peque&ntilde;a en juliana
+1/2 berza pequeña en juliana
 
 1 remolacha troceada
 
@@ -44,11 +44,11 @@ Para 8 personas.
 
 2 patatas medianas, peladas y troceadas
 
-1 berenjena peque&ntilde;a, pelada y troceada
+1 berenjena pequeña, pelada y troceada
 
 1 bote de garbanzos cocidos
 
-100 grs. de agua (un vaso peque&ntilde;o, sin llenar)
+100 grs. de agua (un vaso pequeño, sin llenar)
 
 3 cucharadas de aceite de oliva
 
@@ -60,11 +60,11 @@ Extender la sémola sobre una bandeja grande. Rociarla con el agua, un poco de s
 
 Con la ayuda de las manos, manosear la sémola de forma que vayan quedando una especie de bolitas como si fueran granos de arroz. Reservarlo hasta su uso, tapado con un trapo.
 
-Calentar aceite en un puchero y dorar la carne. A&ntilde;adir la cebolla y revolver.
+Calentar aceite en un puchero y dorar la carne. Añadir la cebolla y revolver.
 
-Cuando empiece a dorarse, echar las especias, revolver y cubrir con agua. Dejar hervir a fuego suave y tapado durante dos horas. A&ntilde;adir el resto de las verduras y más agua si se hubiera evaporado. Echar sal. Dejar cocer a fuego suave y tapado, durante 45 minutos.
+Cuando empiece a dorarse, echar las especias, revolver y cubrir con agua. Dejar hervir a fuego suave y tapado durante dos horas. Añadir el resto de las verduras y más agua si se hubiera evaporado. Echar sal. Dejar cocer a fuego suave y tapado, durante 45 minutos.
 
-Mirar si tiene agua, justo que la cubra. Si no es así, a&ntilde;adir más.
+Mirar si tiene agua, justo que la cubra. Si no es así, añadir más.
 
 Colocar un colador sobre el puchero, con un trapo blanco encima, que cubra todo el puchero.
 
@@ -72,7 +72,7 @@ Subir la intensidad del fuego y cuando empiece a salir vapor, ir echando, con la
 
 Dejar cocer la sémola en ese vapor durante 25 minutos.
 
-Sacar la sémola sobre una fuente grande, o dos mas peque&ntilde;as, colocándola por el borde. Sobre ella, en el centro, colocar la carne y verduras, escurridas con una espumadera.
+Sacar la sémola sobre una fuente grande, o dos mas pequeñas, colocándola por el borde. Sobre ella, en el centro, colocar la carne y verduras, escurridas con una espumadera.
 
 Colar el caldo y servirlo en salsera aparte.
 

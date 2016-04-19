@@ -28,7 +28,7 @@ Para 6 personas.
 
 1 lata grande de pimientos
 
-1/2 lata peque&ntilde;a de tomate triturado
+1/2 lata pequeña de tomate triturado
 
 1 cebolla
 
@@ -48,7 +48,7 @@ Echar sal al pollo, pasar por harina y dorar en aceite de oliva.
 
 Sacar el pollo y dorar la cebolla picada.
 
-A&ntilde;adir los pimientos en tiras, el tomate, el ajo picado, la pastilla de caldo de carne y el vino blanco.
+Añadir los pimientos en tiras, el tomate, el ajo picado, la pastilla de caldo de carne y el vino blanco.
 
 Rehogar ligeramente y colocar los trozos de pollo encima.
 
@@ -56,5 +56,5 @@ Dejar cocer a fuego lento, con la cazuela tapada, hasta que esté tierno (pincha
 
 Colocar en una fuente de servir rociándolo con la salsa.
 
-Acompa&ntilde;arlo con patatas fritas.
+Acompañarlo con patatas fritas.
 

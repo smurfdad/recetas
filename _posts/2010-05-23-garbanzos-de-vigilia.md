@@ -44,5 +44,5 @@ Se ponen a cocer con agua hirviendo y se les echa un trozo de cebolla y los ajos
 
 Se dejan hasta que estén cocidos (unas cuatro horas en puchero normal, en la olla rápida 20 minutos).
 
-Cuando estén cocidos se les a&ntilde;ade la clara picada del huevo y las espinacas y se deja cocer un rato más. Mientras tanto rehogar el resto de la cebolla en un poco de aceite de oliva y luego a&ntilde;adirle el pimentón, la yema y unos pocos garbanzos y caldo, triturándolo para a&ntilde;adírselo luego al puchero de los garbanzos, dejándolo cocer otro poquito para que engorde el caldo.
+Cuando estén cocidos se les añade la clara picada del huevo y las espinacas y se deja cocer un rato más. Mientras tanto rehogar el resto de la cebolla en un poco de aceite de oliva y luego añadirle el pimentón, la yema y unos pocos garbanzos y caldo, triturándolo para añadírselo luego al puchero de los garbanzos, dejándolo cocer otro poquito para que engorde el caldo.
 

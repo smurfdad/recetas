@@ -32,11 +32,11 @@ Para 6 personas.
 
 <h3>Preparación</h3>
 
-Deshacer el chocolate al ba&ntilde;o maría en fuego suave.
+Deshacer el chocolate al baño maría en fuego suave.
 
-A&ntilde;adir las avellanas y mezclar bien.
+Añadir las avellanas y mezclar bien.
 
-A&ntilde;adir los cereales y mezclar rápido y bien.
+Añadir los cereales y mezclar rápido y bien.
 
 Extender un plástico limpio en la mesa e ir colocando montoncitos, que se van cogiendo con una cuchara de la mezcla de chocolate.
 

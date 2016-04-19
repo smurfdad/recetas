@@ -38,7 +38,7 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/foie-gras-de-cerdo.ht
 
 4 huevos
 
-1/2 copa de co&ntilde;ac
+1/2 copa de coñac
 
 <h3>Preparación</h3>
 
@@ -48,7 +48,7 @@ Batir bien todos los ingredientes.
 
 Meter en tarros herméticos y cerrar perfectamente.
 
-Poner a esterilizar al ba&ntilde;o maría durante 1 hora y media. (En olla rápida 1/2 hora).
+Poner a esterilizar al baño maría durante 1 hora y media. (En olla rápida 1/2 hora).
 
-Poner a tindalizar a las 24 ó 48 horas, al ba&ntilde;o maría, durante 20 minutos. (En olla rápida 10 minutos).
+Poner a tindalizar a las 24 ó 48 horas, al baño maría, durante 20 minutos. (En olla rápida 10 minutos).
 

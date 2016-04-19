@@ -46,9 +46,9 @@ Se pone a cocer la carne, el hueso, y las verduras en la olla rápida con dos li
 
 Se aparta un poco de caldo y cuando esté frío, se disuelven 2 cucharadas colmadas de harina.
 
-El resto del caldo se cuela y se le a&ntilde;ade la mantequilla, dejándolo cocer una hora más.
+El resto del caldo se cuela y se le añade la mantequilla, dejándolo cocer una hora más.
 
-En el momento de servir a&ntilde;adir la yema de huevo disuelta en un poco de agua.
+En el momento de servir añadir la yema de huevo disuelta en un poco de agua.
 
-Se le a&ntilde;ade también la gallina picada muy menudita.
+Se le añade también la gallina picada muy menudita.
 

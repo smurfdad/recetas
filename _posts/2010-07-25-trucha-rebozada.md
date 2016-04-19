@@ -56,5 +56,5 @@ Pasa los trozos de trucha por harina y huevo y fríelos por los dos lados en la 
 
 Sazona los pimientos y fríelos en una sartén con un poco de aceite. Espolvoréalos con azúcar y dales la vuelta. Fríelos brevemente. Pásalos a una fuente apta para el horno y cocínalos en el horno a 180&ordm;C durante 4-5 minutos.
 
-Limpia las hojas de lechuga, trocéalas y mézclalas en una fuente amplia. Ali&ntilde;a con aceite, vinagre y sal. Sirve en otra fuente la tajadas de trucha rebozada y los pimientos.
+Limpia las hojas de lechuga, trocéalas y mézclalas en una fuente amplia. Aliña con aceite, vinagre y sal. Sirve en otra fuente la tajadas de trucha rebozada y los pimientos.
 

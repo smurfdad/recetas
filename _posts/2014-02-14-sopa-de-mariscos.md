@@ -60,13 +60,13 @@ COCCION DE LOS MEJILLONES Y ALMEJAS:
 
 Se ponen los mejillones y las almejas en potas diferentes y cubiertos de agua. Se retiran cuando estén abiertos. Se aprovechara el agua de los mejillones (no tirar).
 
-En una tartera grande echamos agua y parte del agua de la cocción de los mejillones (2l.) se pone el pescado con la cebolla, perejil, puerro y se pone a hervir suave durante 15-20 min. Retiramos el pescado a un plato y los desmenuzamos. Colamos el caldo y le echamos la corteza de pan cortadas en trozos. Se pone al fuego hasta que el pan se deshaga y se le a&ntilde;ade las gambas, las almejas, los mejillones, el pescado (desmenuzado) y el bugre (troceado) o langosta.
+En una tartera grande echamos agua y parte del agua de la cocción de los mejillones (2l.) se pone el pescado con la cebolla, perejil, puerro y se pone a hervir suave durante 15-20 min. Retiramos el pescado a un plato y los desmenuzamos. Colamos el caldo y le echamos la corteza de pan cortadas en trozos. Se pone al fuego hasta que el pan se deshaga y se le añade las gambas, las almejas, los mejillones, el pescado (desmenuzado) y el bugre (troceado) o langosta.
 
-SOFRITO: En una sartén ponemos aceite. Cuando este caliente le a&ntilde;adimos ajo cortado en rodajas. Cuando el ajo este dorado le a&ntilde;adimos pimentón (con mucho cuidado no se queme ya que deja mal sabor) y un chorrito de vinagre. Se le a&ntilde;ade a la sopa, se deja cocer 5 min. y se sirve.
+SOFRITO: En una sartén ponemos aceite. Cuando este caliente le añadimos ajo cortado en rodajas. Cuando el ajo este dorado le añadimos pimentón (con mucho cuidado no se queme ya que deja mal sabor) y un chorrito de vinagre. Se le añade a la sopa, se deja cocer 5 min. y se sirve.
 
 <h3>Observaciones</h3>
 
 La sopa de marisco sabe mejor si se deja reposar unas horas antes de servir.
 
-Si gusta el picante se le puede a&ntilde;adir una guindilla al sofrito.
+Si gusta el picante se le puede añadir una guindilla al sofrito.
 

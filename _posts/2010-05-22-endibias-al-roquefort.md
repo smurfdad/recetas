@@ -12,7 +12,7 @@ categories:
 
 - Ensaladas
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 modified_time: '2016-03-16T01:53:16.415-07:00'
 
@@ -32,13 +32,13 @@ Para 6 personas.
 
 mayonesa
 
-un chorrito de co&ntilde;ac
+un chorrito de coñac
 
 <h3>Preparación</h3>
 
 Quitar a las endibias el núcleo de la parte de debajo, que amarga, y deshojarlas.
 
-Hacer la mayonesa con 1 huevo, 1 cucharada de vinagre, un pellizco de sal y 1/4 de litro de aceite y a&ntilde;adirle el co&ntilde;ac y el queso y triturarlo todo junto hasta conseguir una crema espesa.
+Hacer la mayonesa con 1 huevo, 1 cucharada de vinagre, un pellizco de sal y 1/4 de litro de aceite y añadirle el coñac y el queso y triturarlo todo junto hasta conseguir una crema espesa.
 
 Colocarla en un bol, en el centro de una bandeja redonda y disponer a su alrededor las hojas de endibias para que cada comensal unte a su gusto cada hoja en la salsa.
 

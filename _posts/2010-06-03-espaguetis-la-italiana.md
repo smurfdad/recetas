@@ -26,7 +26,7 @@ Para 6 personas.
 
 1/2 kilo de espaguetis
 
-1/2 litro de salsa espa&ntilde;ola
+1/2 litro de salsa española
 
 1/2 litro de salsa de tomate
 
@@ -34,7 +34,7 @@ Para 6 personas.
 
 150 gr jamón serrano
 
-150 gr champi&ntilde;ón
+150 gr champiñón
 
 50 gr mantequilla
 
@@ -44,9 +44,9 @@ Cocer los espaguetis como en las recetas anteriores.
 
 Picar la cebolla muy fina y ponerla a hacer despacio con la mantequilla.
 
-Agregar el champi&ntilde;ón picado fino y el jamón y rehogar bien.
+Agregar el champiñón picado fino y el jamón y rehogar bien.
 
-A&ntilde;adir la salsa espa&ntilde;ola* y la de tomate* y dejar cocer durante unos cinco minutos.
+Añadir la salsa española* y la de tomate* y dejar cocer durante unos cinco minutos.
 
-A la hora de servir, escurrir los espaguetis saltearlos con la mantequilla, ba&ntilde;arlos con la salsa y dejar cocer unos minutos.
+A la hora de servir, escurrir los espaguetis saltearlos con la mantequilla, bañarlos con la salsa y dejar cocer unos minutos.
 

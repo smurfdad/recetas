@@ -2,7 +2,7 @@
 layout: post
 title: PUDDING DE HIGOS
 categories:
-- Huevos y lácteos
+- Huevos y lacteos
 - Postres y dulces
 tags:
 - higos

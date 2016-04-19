@@ -36,7 +36,7 @@ Batir las yemas con el azúcar hasta que estén en pomada.
 
 Mezclar con la nata suavemente.
 
-A&ntilde;adir las claras a punto de nieve, mezclando suavemente.
+Añadir las claras a punto de nieve, mezclando suavemente.
 
 Poner en un molde alargado, engrasado, con papel de aluminio en el fondo y meter en el congelador.
 

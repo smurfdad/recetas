@@ -38,7 +38,7 @@ Aceite de oliva
 
 Agua
 
-También puedes a&ntilde;adirle:
+También puedes añadirle:
 
 50grs. de jamón serrano
 
@@ -48,5 +48,5 @@ También puedes a&ntilde;adirle:
 
 <h3>Preparación</h3>
 
-Pelados los limones (solo una fina capa de la corteza amarilla) se exprimen y se reserva el zumo. La pulpa junto con la cebolla y el huevo duro, se trocean menudamente, se ali&ntilde;an con sal, zumo de limón y aceite al gusto, y se bate con agua hasta emulsionar el conjunto. Si se elige a&ntilde;adir algo de lo recomendado, se a&ntilde;ade y se vuelve a batir.
+Pelados los limones (solo una fina capa de la corteza amarilla) se exprimen y se reserva el zumo. La pulpa junto con la cebolla y el huevo duro, se trocean menudamente, se aliñan con sal, zumo de limón y aceite al gusto, y se bate con agua hasta emulsionar el conjunto. Si se elige añadir algo de lo recomendado, se añade y se vuelve a batir.
 

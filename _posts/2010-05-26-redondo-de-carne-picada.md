@@ -46,7 +46,7 @@ Se dora en una cazuela junto con la cebolla y zanahoria cortadas en trozos.
 
 Se rocía con el vino blanco y se deja hacer una media hora a fuego suave. Tardará en hacerse una media hora.
 
-Una vez hecho se corta en rodajas y la salsa se tritura o se pasa por el pasapuré. Se a&ntilde;ade agua y sal si lo necesita. Se sirve con puré de patatas o patatas fritas.
+Una vez hecho se corta en rodajas y la salsa se tritura o se pasa por el pasapuré. Se añade agua y sal si lo necesita. Se sirve con puré de patatas o patatas fritas.
 
 MODO DE HACERLO EN EL HORNO:
 

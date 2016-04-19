@@ -36,7 +36,7 @@ sal, pimienta
 
 Rehogar la cebolla en un poco de aceite y a continuación echar la carne a freír.
 
-Condimentarla con la sal y pimienta y a&ntilde;adirle el paté mezclándolo todo ello muy bien.
+Condimentarla con la sal y pimienta y añadirle el paté mezclándolo todo ello muy bien.
 
 Con ello rellenar los canelones como en la receta anterior, colocarlos en una fuente refractaria y cubrirlos con una capa de bechamel ligera.
 

@@ -38,7 +38,7 @@ Remojar el bacalao durante 48 horas, cambiando 4 veces de agua.
 
 Quitar todas las espinas y escamas. Lavarlo y secarlo bien.
 
-En una cazuela peque&ntilde;a pero alta poner el aceite con los ajos fileteados y la guindilla a freír.
+En una cazuela pequeña pero alta poner el aceite con los ajos fileteados y la guindilla a freír.
 
 Una vez dorados los ajos, apartarlos y reservarlos. La guindilla tirarla.
 
@@ -46,7 +46,7 @@ En éste aceite y con poco fuego, cocer más que freír las tajadas de bacalao c
 
 Ya todas las tajadas en la cazuela, sin estar en el fuego y sin ponerle nada de aceite, menear en vaivén hasta que empiece a ligar un poco.
 
-A&ntilde;adir el aceite hasta que las cubra y volver a mover, siempre en vaivén, un poco más.
+Añadir el aceite hasta que las cubra y volver a mover, siempre en vaivén, un poco más.
 
 Esto se hace con antelación (unas 2 horas por lo menos) y luego de vez en cuando, o si se pasa cerca de ella, se mueve un poquito.
 

@@ -42,9 +42,9 @@ Para 4 personas.
 
 <h3>Preparación</h3>
 
-En una olla, caliente el aceite a fuego moderado. Agregue la cebolla y el ajo, y saltee, revolviendo por 5 minutos.. A&ntilde;ada las zanahorias y el jengibre, y cocine durante 5 minutos más. Incorpore los tomates y el caldo, y deje que suelte el hervor a fuego moderado.
+En una olla, caliente el aceite a fuego moderado. Agregue la cebolla y el ajo, y saltee, revolviendo por 5 minutos.. Añada las zanahorias y el jengibre, y cocine durante 5 minutos más. Incorpore los tomates y el caldo, y deje que suelte el hervor a fuego moderado.
 
-Ponga la mitad de los mejillones en el líquido, tape y reduzca la llama; cocine por 5 minutos. o hasta que se abran las valvas ( si alguna no se abre, tírela). Con una espumadera, pase los mejillones a un bol y consérvelos calientes. A&ntilde;ada el resto de los mejillones al líquido y siga cocinando hasta que se abran.
+Ponga la mitad de los mejillones en el líquido, tape y reduzca la llama; cocine por 5 minutos. o hasta que se abran las valvas ( si alguna no se abre, tírela). Con una espumadera, pase los mejillones a un bol y consérvelos calientes. Añada el resto de los mejillones al líquido y siga cocinando hasta que se abran.
 
-Vierta la salsa sobre los mejillones. Acompá&ntilde;elos con pan saltado en ajo.
+Vierta la salsa sobre los mejillones. Acompáñelos con pan saltado en ajo.
 

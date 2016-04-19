@@ -44,7 +44,7 @@ Se escurren y se meten en un recipiente con abundante agua fría para que no se 
 
 Se extienden sobre un trapo húmedo.
 
-Se prepara el relleno poniendo en un cazo al fuego 1/4 de Kg. de salsa de tomate y el huevo, revolviéndolo hasta que se cuaje.  A continuación se a&ntilde;ade el bonito desmenuzado, mezclándolo bien todo ello.
+Se prepara el relleno poniendo en un cazo al fuego 1/4 de Kg. de salsa de tomate y el huevo, revolviéndolo hasta que se cuaje.  A continuación se añade el bonito desmenuzado, mezclándolo bien todo ello.
 
 Se pone en cada cuadrado de pasta un montoncito de relleno y se enrolla.
 

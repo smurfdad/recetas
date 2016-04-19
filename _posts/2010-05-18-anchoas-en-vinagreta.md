@@ -42,7 +42,7 @@ En un recipiente con tapa poner el aceite, el vinagre, los ajos, el perejil y me
 
 Ir poniendo en capas las anchoas poniendo cuidado en que cada capa quede cubierta por la vinagreta.
 
-Si una vez puestas todas las anchoas, no quedaran cubiertas con el líquido, a&ntilde;adir un poco más de aceite y de vinagre.
+Si una vez puestas todas las anchoas, no quedaran cubiertas con el líquido, añadir un poco más de aceite y de vinagre.
 
 Poner la tapa y reservar hasta consumir. Mínimo 24 horas.
 

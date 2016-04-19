@@ -26,7 +26,7 @@ Para 6 personas.
 
 1 melón
 
-Ron co&ntilde;ac u otro licor
+Ron coñac u otro licor
 
 azúcar a gusto
 

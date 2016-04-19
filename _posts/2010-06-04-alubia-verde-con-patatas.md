@@ -42,7 +42,7 @@ sal
 
 Picar muy fina la cebolla y el ajo y rehogar con un poco de aceite.
 
-Una vez echo, a&ntilde;adir el tomate pelado y troceado dándole unas vueltas.
+Una vez echo, añadir el tomate pelado y troceado dándole unas vueltas.
 
 Agregar las alubias ya troceadas y las patatas peladas y cortadas a mordiscos.
 

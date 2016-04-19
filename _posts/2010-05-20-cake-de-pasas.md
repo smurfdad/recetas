@@ -38,7 +38,7 @@ Se escurren bien y se rebozan en un poco de la harina.
 
 Se baten bien la mantequilla con las yemas.
 
-Se a&ntilde;ade el azúcar y se sigue batiendo.
+Se añade el azúcar y se sigue batiendo.
 
 Después la harina mezclada con el royal, poco a poco y sin batir.
 

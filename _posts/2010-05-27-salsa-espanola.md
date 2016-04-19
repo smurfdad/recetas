@@ -40,7 +40,7 @@ sal y agua
 
 Freír en un poco de aceite la zanahoria, cebolla y ajo picados.
 
-Cuando empiece a dorarse a&ntilde;adir una cucharada de harina y esperar hasta que se dore.
+Cuando empiece a dorarse añadir una cucharada de harina y esperar hasta que se dore.
 
 Cuando esté dorado, echar el vino blanco y un poco de agua junto con la pastilla de caldo concentrado.
 

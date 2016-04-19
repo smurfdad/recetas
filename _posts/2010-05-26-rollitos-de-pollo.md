@@ -52,11 +52,11 @@ En el aceite sobrante echar el vino y la nata.
 
 Cuando hierva verterlo sobre los rollitos.
 
-Poner un poco de agua en la sartén, para reba&ntilde;ar los restos de salsa y echarlo sobre los rollitos.
+Poner un poco de agua en la sartén, para rebañar los restos de salsa y echarlo sobre los rollitos.
 
 Dejar cocer a fuego suave hasta que estén hechos.
 
-A&ntilde;adir más agua si queda demasiado espeso.
+Añadir más agua si queda demasiado espeso.
 
 Servir con patatas fritas.
 

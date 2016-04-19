@@ -28,7 +28,7 @@ Para 8 personas.
 
 1 patata cocida
 
-1 vaso peque&ntilde;o de caldo de pescado (puede servir la misma cantidad de agua y 1/4 de pastilla de caldo de pescado)
+1 vaso pequeño de caldo de pescado (puede servir la misma cantidad de agua y 1/4 de pastilla de caldo de pescado)
 
 1/4 de litro de aceite (1 vaso grande)
 
@@ -38,7 +38,7 @@ Para 8 personas.
 
 Triturar bien en el vaso de la batidora todos los ingredientes menos el aceite.
 
-A&ntilde;adir el aceite poco a poco, sin dejar de batir, hasta conseguir una salsa espesa.
+Añadir el aceite poco a poco, sin dejar de batir, hasta conseguir una salsa espesa.
 
 <h3>Observaciones</h3>
 

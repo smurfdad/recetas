@@ -66,11 +66,11 @@ Echar la carne picada rehogándola bien.
 
 Cuando este echa, agregar el paté y mezclar bien.
 
-A continuación a&ntilde;adir la harina, mezclar bien e ir agregando la leche poco a poco sin dejar de remover.
+A continuación añadir la harina, mezclar bien e ir agregando la leche poco a poco sin dejar de remover.
 
 Cuando este toda la leche, dejar cocer la pasta unos minutos sin dejar de remover y sazonándola con un poco de sal.
 
-Disponer los canelones de forma escalonada sobre un pa&ntilde;o y poner un poco de farsa en cada uno, enrollándolos a continuación.
+Disponer los canelones de forma escalonada sobre un paño y poner un poco de farsa en cada uno, enrollándolos a continuación.
 
 Preparar cinco cazuelas de barro individuales, untar el fondo con el tomate frito y poner encima los canelones.
 

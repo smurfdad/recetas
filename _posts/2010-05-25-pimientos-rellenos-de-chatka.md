@@ -38,7 +38,7 @@ Para 6 personas.
 
 1 diente de ajo, perejil
 
-1 chorrito de co&ntilde;ac
+1 chorrito de coñac
 
 250 grs. nata líquida
 
@@ -48,11 +48,11 @@ Rehogar la cebolla, zanahoria, puerro y ajo picados, en aceite de oliva.
 
 Reservar 1/4 del conjunto cuando empiece a dorarse.
 
-A&ntilde;adirle el chatka picado.
+Añadirle el chatka picado.
 
-Calentar el co&ntilde;ac (en el microondas 10 segundos), echar al relleno y prender fuego.
+Calentar el coñac (en el microondas 10 segundos), echar al relleno y prender fuego.
 
-Cuando se apague a&ntilde;adir la mitad de la nata y triturar.
+Cuando se apague añadir la mitad de la nata y triturar.
 
 Poner la sal necesaria.
 
@@ -60,7 +60,7 @@ Rellenar los pimientos menos 4 con la masa y reservar.
 
 Mezclar el refrito reservado con los 4 pimientos. Triturar.
 
-A&ntilde;adir la nata restante y un poco de agua si fuera necesario. Probar de sal y rectificar en caso de necesitarlo.
+Añadir la nata restante y un poco de agua si fuera necesario. Probar de sal y rectificar en caso de necesitarlo.
 
 Poner en una cazuela de barro o similar la salsa en el fondo y los pimientos rellenos, bien dispuestos sobre ella.
 

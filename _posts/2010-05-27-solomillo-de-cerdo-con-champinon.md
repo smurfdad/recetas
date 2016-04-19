@@ -28,7 +28,7 @@ Para 6 personas.
 
 1 kg. de solomillo en filetes
 
-1 kg. de champi&ntilde;ón
+1 kg. de champiñón
 
 un poco de harina
 
@@ -36,13 +36,13 @@ un poco de harina
 
 <h3>Preparación</h3>
 
-Eliminar el trozo de la raíz de los champi&ntilde;ones, lavarlos y filetearlos.
+Eliminar el trozo de la raíz de los champiñones, lavarlos y filetearlos.
 
 Freír los filetes de solomillo y reservarlos.
 
-En el aceite sobrante, rehogar los filetes de champi&ntilde;ón.
+En el aceite sobrante, rehogar los filetes de champiñón.
 
-A&ntilde;adir la harina, rehogar, y por último echar la nata, dejando que espese.
+Añadir la harina, rehogar, y por último echar la nata, dejando que espese.
 
 Echar la sal necesaria y un poco de pimienta molida.
 

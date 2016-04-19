@@ -12,7 +12,7 @@ categories:
 
 - Verduras y legumbres
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 - Carnes y derivados
 

@@ -52,9 +52,9 @@ Toda ésta operación se puede hacer con antelación, incluso se pueden congelar
 
 Colocar en una cazuela de barro al fuego, no muy fuerte, el aceite y los ajos picados.
 
-Antes de que lleguen a dorarse y estando aún blancos, a&ntilde;adir la harina, revolver y a continuación echar el perejil picado, el vino blanco y el caldo de las almejas.
+Antes de que lleguen a dorarse y estando aún blancos, añadir la harina, revolver y a continuación echar el perejil picado, el vino blanco y el caldo de las almejas.
 
-A&ntilde;adir el pan rallado y dejar cocer a fuego suave y si se viera que está demasiado espeso, a&ntilde;adir un poco de agua.
+Añadir el pan rallado y dejar cocer a fuego suave y si se viera que está demasiado espeso, añadir un poco de agua.
 
 Echar un poco de sal si se viera que está soso.
 

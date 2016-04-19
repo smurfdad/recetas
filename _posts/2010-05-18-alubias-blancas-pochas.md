@@ -50,15 +50,15 @@ Si se pone en la olla rápida se cocerán en 10 ó 15 minutos, depende como gust
 
 Si se cuecen en puchero normal tardarán alrededor de 3 horas, a fuego suave. Una vez cocidas, echarles la sal que necesiten.
 
-Freír en una sartén o cacito peque&ntilde;o el resto de la cebolla, finamente picada.
+Freír en una sartén o cacito pequeño el resto de la cebolla, finamente picada.
 
-Cuando comience a dorarse, a&ntilde;adir el pimentón, revolver y echar un cacillo del caldo de cocción, junto con la cebolla del puchero y unas pocas alubias.
+Cuando comience a dorarse, añadir el pimentón, revolver y echar un cacillo del caldo de cocción, junto con la cebolla del puchero y unas pocas alubias.
 
-Triturar el refrito con la batidora y a&ntilde;adirlo al puchero, mezclando suavemente el conjunto.
+Triturar el refrito con la batidora y añadirlo al puchero, mezclando suavemente el conjunto.
 
 Si se quieren hacer con almejas, éstas se hacen aparte, a la marinera, y mezclarlas una vez hechas las dos cosas.
 
-Si se quieren hacer con codornices, también se hacen éstas aparte, asándolas al horno tapadas con una loncha de bacón cada una y a&ntilde;adiéndolas a las alubias una vez cocidas.
+Si se quieren hacer con codornices, también se hacen éstas aparte, asándolas al horno tapadas con una loncha de bacón cada una y añadiéndolas a las alubias una vez cocidas.
 
 <h3>Observaciones</h3>
 

@@ -26,7 +26,7 @@ Para 6 personas.
 
 <h3>Ingredientes</h3>
 
-1 lata de pi&ntilde;a
+1 lata de piña
 
 1 melón
 
@@ -46,7 +46,7 @@ Vaciarlo haciendo bolitas con la cuchara especial.
 
 Las demás frutas partirlas en trocitos.
 
-Sazonar con la leche condensada y el zumo de pi&ntilde;a.
+Sazonar con la leche condensada y el zumo de piña.
 
 Colocar en los dos cascotes de melón.
 

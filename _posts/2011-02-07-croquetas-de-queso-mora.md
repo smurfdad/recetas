@@ -10,7 +10,7 @@ author: Smurf Dad
 
 categories:
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 - Entrantes y bocadillos
 

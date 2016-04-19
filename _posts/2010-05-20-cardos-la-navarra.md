@@ -38,9 +38,9 @@ Para 6 personas.
 
 Freír sin llegar a dorar los ajos y el bacón, si se pone, en una cazuela.
 
-A&ntilde;adir la harina y revolver ligeramente.
+Añadir la harina y revolver ligeramente.
 
-A&ntilde;adir los cardos con el agua que necesite para que quede una salsa espesa.
+Añadir los cardos con el agua que necesite para que quede una salsa espesa.
 
 Dejar cocer un rato a fuego suave, antes de servir.
 

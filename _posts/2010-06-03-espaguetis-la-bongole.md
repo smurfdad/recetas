@@ -38,7 +38,7 @@ Cocer la pasta en abundante agua hirviendo con sal y aceite, durante diez minuto
 
 Una vez cocida escurrirla y enfriarla bajo el chorro del agua fría.
 
-Aparte poner la mantequilla en una cazuela a fundir, a&ntilde;adir los espaguetis y saltearlos a fuego vivo.
+Aparte poner la mantequilla en una cazuela a fundir, añadir los espaguetis y saltearlos a fuego vivo.
 
-Después a&ntilde;adir los berberechos y el tomate y dejar cocer unos minutos.
+Después añadir los berberechos y el tomate y dejar cocer unos minutos.
 

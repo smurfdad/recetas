@@ -48,5 +48,5 @@ Vigilar por si se hacen antes y en ese caso apagar el fuego
 
 hasta que se sirvan a la mesa.
 
-Se pueden acompa&ntilde;ar de unas patatas fritas o ensalada de lechuga.
+Se pueden acompañar de unas patatas fritas o ensalada de lechuga.
 

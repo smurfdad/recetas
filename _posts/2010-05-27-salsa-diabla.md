@@ -42,7 +42,7 @@ Freír la cebolla en el aceite.
 
 Agregar los demás ingredientes, picados en su caso, y dejar cocer un rato a fuego suave.
 
-Si se desea, a&ntilde;adir tabasco para que pique un poco.
+Si se desea, añadir tabasco para que pique un poco.
 
 <h3>Observaciones</h3>
 

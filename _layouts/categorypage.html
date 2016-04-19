@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<div class="timeline"><dl>
+{% assign filter_posts = site.categories[page.category_name] %}
+{% capture cuenta %}{{filter_posts | size}}{% endcapture%}
+{% if cuenta != '0'%}
+{% assign sorted_posts = (filter_posts | sort: 'title')%}
+{% for post in sorted_posts %}
+  {% capture nfecha %}{{ post.title |  slice: 0 }}{% endcapture %}
+  {% if fecha != nfecha %}
+  <dt>{{ nfecha }}</dt>
+  {% endif %}
+  <dd class="{% cycle 'pos-right', 'pos-left' %} clearfix">
+      <div class="circ"></div>
+      <!--<div class="time">{{ post.date | date: "%d" }}</div>-->
+      <div class="events">
+        <div class="events-body">
+          <h4 class="events-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        </div>
+      </div>
+  </dd> 
+  {% capture fecha %}{{ post.title |  slice: 0 }}{% endcapture %}     
+{% endfor %}
+</dl></div>
+{{ content }}
+{% endif %}

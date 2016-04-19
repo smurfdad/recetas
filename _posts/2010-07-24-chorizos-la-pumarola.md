@@ -56,5 +56,5 @@ Colocar en un recipiente profundo y grande con tapa el aceite, las cebollas, los
 
 Agregar el tomate, el vino, el laurel, el pimentón, el orégano y los chorizos y cocinar 7 minutos a potencia máxima
 
-Retirar los chorizos de la cazuela y con cuidado para no quemarse retirarles la piel volver al la cazuela, condimentar con sal y pimienta, revolver y microondear 8 minutos más al 100%. Servir acompa&ntilde;ados por rodajas de patatas hervidas.
+Retirar los chorizos de la cazuela y con cuidado para no quemarse retirarles la piel volver al la cazuela, condimentar con sal y pimienta, revolver y microondear 8 minutos más al 100%. Servir acompañados por rodajas de patatas hervidas.
 

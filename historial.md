@@ -1,18 +1,21 @@
 ---
-title: Historico de Publicaciones
-layout: page
-permalink: /historial/index.html
+title: Histórico de Publicaciones
+layout: default
 ---
+<div class="timeline"><dl>
 {% for post in site.posts %}
-  <div class="row">
-    {% capture nfecha %}{{ post.date | date_to_string }}{% endcapture %}
-    {% if fecha != nfecha %}
-        <time class="col-xs-2">{{ post.date | date_to_string }}</time>
-        <div class="col-xs-10">
-        {% capture fecha %}{{ post.date | date_to_string}}{% endcapture %}
-    {% else %}
-        <div class="col-xs-10 col-xs-offset-2">
-    {% endif %}
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-  </div>
+  {% capture nfecha %}{{ post.date |  date: "%B %Y" }}{% endcapture %}
+  {% if fecha != nfecha %}
+    <dt>{{ nfecha }}</dt>
+  {% endif %}
+  <dd class="{% cycle 'pos-right', 'pos-left' %} clearfix">
+      <div class="circ"></div>
+      <div class="time">{{ post.date | date: "%d" }}</div>
+      <div class="events">
+        <div class="events-body">
+          <h4 class="events-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+        </div>
+      </div>
+  </dd> 
+  {% capture fecha %}{{ post.date | date: "%B %Y" }}{% endcapture %}     
 {% endfor %}

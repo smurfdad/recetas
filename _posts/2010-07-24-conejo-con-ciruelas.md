@@ -50,9 +50,9 @@ Harina
 
 Cortar el conejo en 10/12 piezas. Salpimentar y enharinarlas.
 
-Dorarlas en la cazuela con aceite de oliva y reservar. En la misma cazuela, rehogar las hortalizas. Una vez rehogadas, a&ntilde;adir las setas limpias y troceadas.
+Dorarlas en la cazuela con aceite de oliva y reservar. En la misma cazuela, rehogar las hortalizas. Una vez rehogadas, añadir las setas limpias y troceadas.
 
-Cuando hayan perdido todo el agua, incorporar el conejo y el pimentón dulce. Mezclar bien y a&ntilde;adir el vino tinto, dejándolo reducir a la mitad. Cubrir de agua y cocer a fuego lento durante 40 min. aprox. Poner a punto de sal.
+Cuando hayan perdido todo el agua, incorporar el conejo y el pimentón dulce. Mezclar bien y añadir el vino tinto, dejándolo reducir a la mitad. Cubrir de agua y cocer a fuego lento durante 40 min. aprox. Poner a punto de sal.
 
-Cuando ya esté guisado el conejo, a&ntilde;adir la picada y dejar hervir durante 5 min. Es preferible dejarlo reposar durante 24 horas.
+Cuando ya esté guisado el conejo, añadir la picada y dejar hervir durante 5 min. Es preferible dejarlo reposar durante 24 horas.
 

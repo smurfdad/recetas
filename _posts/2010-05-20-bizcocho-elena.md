@@ -40,7 +40,7 @@ Para 6 personas.
 
 Batir bien las yemas con el azúcar.
 
-Cuando esté bien cremosa, a&ntilde;adir la mantequilla derretida, batiendo bien.
+Cuando esté bien cremosa, añadir la mantequilla derretida, batiendo bien.
 
 Después la harina mezclada con el royal y mezclar suavemente.
 

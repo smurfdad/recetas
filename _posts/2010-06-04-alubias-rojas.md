@@ -54,9 +54,9 @@ sal
 
 <h3>Preparación</h3>
 
-Poner las alubias a remojo la noche anterior. Por la ma&ntilde;ana poner las alubias al fuego con agua fría y un poco de sal, el laurel y las demás especias.
+Poner las alubias a remojo la noche anterior. Por la mañana poner las alubias al fuego con agua fría y un poco de sal, el laurel y las demás especias.
 
-A&ntilde;adir las verduras limpias y enteras, junto con los rabos y el tocino.
+Añadir las verduras limpias y enteras, junto con los rabos y el tocino.
 
 A media cocción agregar los chorizos, la morcilla dejándolo hasta que la carne este echa.
 

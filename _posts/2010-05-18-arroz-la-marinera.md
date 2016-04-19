@@ -36,7 +36,7 @@ Para 10 personas.
 
 1 lata mediana de salsa de tomate
 
-1 cebolla grande, cortada en trocitos peque&ntilde;os
+1 cebolla grande, cortada en trocitos pequeños
 
 1 diente de ajo picado
 
@@ -60,13 +60,13 @@ Freír ligeramente los langostinos y retirar.
 
 En la misma cazuela, freír los trozos y cabezas de pescado y retirar.
 
-Rehogar la cebolla en la misma cazuela y cuando empiece a dorarse a&ntilde;adir la mitad del tomate, el pimentón y el azafrán o colorante. Revolver bien.
+Rehogar la cebolla en la misma cazuela y cuando empiece a dorarse añadir la mitad del tomate, el pimentón y el azafrán o colorante. Revolver bien.
 
 Echar el agua y la sal necesaria en la cazuela y dejar hervir.
 
 Separar las espinas del pescado frito anteriormente y echarlas al caldo. Los trozos de pescado limpio, reservarlos.
 
-Quitar las cabezas a los langostinos y a&ntilde;adirlas al caldo. Las colas reservarlas.
+Quitar las cabezas a los langostinos y añadirlas al caldo. Las colas reservarlas.
 
 Dejar cocer el caldo, a fuego suave y tapado, durante 1/2 hora.
 
@@ -80,23 +80,23 @@ Poner a calentar el caldo, colado.
 
 Echar en la paella a utilizar, la otra mitad del aceite, y poner al fuego.
 
-A&ntilde;adir los jibiones y freír (cuidado, que salpica mucho).
+Añadir los jibiones y freír (cuidado, que salpica mucho).
 
 Luego los ajos y tomate restante. Rehogar.
 
 Echar el arroz. Revolver bien para que se impregne el aceite.
 
-A&ntilde;adir 2 litros de caldo caliente (16 cacillos de cocina) y unas gotas de limón.
+Añadir 2 litros de caldo caliente (16 cacillos de cocina) y unas gotas de limón.
 
 Dejar cocer a fuego fuerte durante 10 minutos.
 
 Probar la sal y echar más si lo necesita.
 
-A&ntilde;adir los trozos de pescado, langostinos y mojojones o almejas, decorándolo a gusto de cada uno.
+Añadir los trozos de pescado, langostinos y mojojones o almejas, decorándolo a gusto de cada uno.
 
 Bajar el fuego y completar la cocción. En total 20 minutos.
 
-Si se queda demasiado seco, a&ntilde;adir más caldo.
+Si se queda demasiado seco, añadir más caldo.
 
 Dejar reposar, tapado, 5 minutos más.
 

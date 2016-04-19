@@ -42,7 +42,7 @@ Mezclar bien todos los ingredientes.
 
 Servir en salsera aparte en las ensaladas o echar sobre la superficie.
 
-Queda muy bien con aguacate y pi&ntilde;a.
+Queda muy bien con aguacate y piña.
 
 <h3>Observaciones</h3>
 

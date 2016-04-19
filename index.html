@@ -1,46 +1,43 @@
 ---
 layout: default
 ---
+<div class="timeline"><dl>
 {%assign first_post_id = site.posts.first.id%}
-{%assign linea = 0%}
-{%assign linea2 = 0%}
 {% for post in paginator.posts %}
-  <article class="col-md-12">
-    <a href="{{ post.url | prepend: site.baseurl }}"><h3>{{ post.title }}</h3></a>
-    
-    <div class="bs-callout bs-callout-primary text-justify">
-      
-      <ul class="list-inline">
-        <li>
-          <span class="label label-primary"><i class="glyphicon glyphicon-calendar"></i>{{ post.date | date_to_string }}</span>
-        </li>
-        {% for category in post.categories %}
-        <li><a href="/categorias/#{{category | slugify}}">{{category | capitalize}}</a></li>
-        {% endfor%}
-      </ul>
-
-    
-  {% if first_post_id == post.id %}     
-      
-        {{ post.content }}
-      
+  {% capture nfecha %}{{ post.date |  date: "%B %Y" }}{% endcapture %}
+  {% if fecha != nfecha %}
+    <dt>{{ nfecha }}</dt>
   {% endif %}
-    </div>
-  </article>
+  <dd class="{% cycle 'pos-right', 'pos-left' %} clearfix">
+      <div class="circ"></div>
+      <div class="time">{{ post.date | date: "%d" }}</div>
+      <div class="events">
+        <div class="events-body">
+          <h4 class="events-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+          <ul class="list-inline">
+            {% for category in post.categories %}
+            <li><a href="/categorias/{{category | slugify}}">{{category | capitalize}}</a></li>
+            {% endfor%}
+          </ul>
+          {% if first_post_id == post.id %}
+            <p>{{ post.excerpt }}</p>
+          {% endif %}
+        </div>
+      </div>
+  </dd> 
+  {% capture fecha %}{{ post.date | date: "%B %Y" }}{% endcapture %}     
 {% endfor %}
-
+</dl></div>
 {% if paginator.total_pages > 1 %}
-  <div class="clearfix"></div>
-  <nav class="row">
+  <nav>
     <ul class="pager">
     {% if paginator.previous_page %}
-      <li class="pull-left"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="glyphicon glyphicon-chevron-left"></i> Entradas recientes</a></li>
+      <li class="pull-left"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"><i class="glyphicon glyphicon-chevron-left"></i> Recetas recientes</a></li>
     {% endif %}
 
     {% if paginator.next_page %}
-      <li class="pull-right"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Entradas antiguas <i class="glyphicon glyphicon-chevron-right"></i></a></li>
+      <li class="pull-right"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Recetas antiguas <i class="glyphicon glyphicon-chevron-right"></i></a></li>
     {% endif %}
     </ul>
   </nav>
-
 {% endif %}

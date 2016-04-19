@@ -50,7 +50,7 @@ unos taquitos de chorizo
 
 Se limpian bien los callos o morros, raspando con un cuchillo. Si tienen rebordes negros, se cortan para que queden bien limpios.
 
-Se ponen a remojo en un recipiente con agua y dos pu&ntilde;ados de sal y se deja 1/2 hora.
+Se ponen a remojo en un recipiente con agua y dos puñados de sal y se deja 1/2 hora.
 
 Se vuelven a lavar en el grifo, frotándolos bien.
 
@@ -66,17 +66,17 @@ SALSA
 
 Freír una cebolla y un ajo finamente picados en aceite de oliva.
 
-Cuando empieza a dorarse, a&ntilde;adir la pulpa de los pimientos, que se han puesto a cocer en un cazo con agua para que se ablanden y  luego se ha raspado la pulpa.
+Cuando empieza a dorarse, añadir la pulpa de los pimientos, que se han puesto a cocer en un cazo con agua para que se ablanden y  luego se ha raspado la pulpa.
 
-Rehogar bien y a&ntilde;adir un poco de caldo de la cocción de los callos o morros.
+Rehogar bien y añadir un poco de caldo de la cocción de los callos o morros.
 
 Dejar cocer 10 minutos a fuego suave, triturar hasta que quede fino pasar por el pasapurés.
 
-Poner los callos, troceados, en una cazuela de barro o similar y a&ntilde;adir la salsa
+Poner los callos, troceados, en una cazuela de barro o similar y añadir la salsa
 
-Freír en un poco de aceite de oliva el bacón y chorizo, picados en trocitos, y a&ntilde;adirlo a la cazuela, dejando hervir todo a fuego suave durante media hora.
+Freír en un poco de aceite de oliva el bacón y chorizo, picados en trocitos, y añadirlo a la cazuela, dejando hervir todo a fuego suave durante media hora.
 
-Probar la sazón y a&ntilde;adir sal o picante si lo necesita.
+Probar la sazón y añadir sal o picante si lo necesita.
 
-Si estuviera demasiado seco, a&ntilde;adir caldo de la cocción.
+Si estuviera demasiado seco, añadir caldo de la cocción.
 

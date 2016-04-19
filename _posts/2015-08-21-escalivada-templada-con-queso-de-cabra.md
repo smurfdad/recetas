@@ -3,7 +3,7 @@ layout: post
 title: ESCALIVADA TEMPLADA CON QUESO DE CABRA
 categories:
 - Verduras y legumbres
-- Huevos y lácteos
+- Huevos y lacteos
 tags:
 - berenjena
 - pimiento rojo

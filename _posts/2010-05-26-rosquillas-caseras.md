@@ -42,7 +42,7 @@ Mezclar todo bien, primero con una cuchara y luego con las manos.
 
 Poner en una sartén al fuego, no muy fuerte, abundante aceite y esperar hasta que empiece a echar humo.
 
-Mientras tanto ir formando las rosquillas, tomando una  porción peque&ntilde;a entre las manos y hacer un palito que luego uniremos en los dos extremos para dar la forma de círculo.
+Mientras tanto ir formando las rosquillas, tomando una  porción pequeña entre las manos y hacer un palito que luego uniremos en los dos extremos para dar la forma de círculo.
 
 Freír en el aceite caliente y pasarlas a un recipiente con papel absorvente en el fondo.
 

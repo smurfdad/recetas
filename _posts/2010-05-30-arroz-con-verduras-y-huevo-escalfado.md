@@ -14,7 +14,7 @@ categories:
 
 - Arroces
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 modified_time: '2016-03-16T01:53:14.568-07:00'
 

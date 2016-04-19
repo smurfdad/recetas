@@ -2,7 +2,7 @@
 layout: post
 title: FLAN DE NUECES
 categories:
-- Huevos y lácteos
+- Huevos y lacteos
 - Postres y dulces
 tags:
 - huevo

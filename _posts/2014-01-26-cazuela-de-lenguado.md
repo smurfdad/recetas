@@ -38,7 +38,7 @@ Tomate frito
 
 <h3>Preparación</h3>
 
-En una cazuela de barro poner un poco de aceite de oliva con un poco de cebolla cortada en trozos peque&ntilde;os. Cuando esté sofrita poner el lenguado troceado en varios trozos, echar un poco de sal, la copa de brandy y también el tomate frito.
+En una cazuela de barro poner un poco de aceite de oliva con un poco de cebolla cortada en trozos pequeños. Cuando esté sofrita poner el lenguado troceado en varios trozos, echar un poco de sal, la copa de brandy y también el tomate frito.
 
 Cuando esté el guiso hirviendo se le da la vuelta al pescado y se le echa un poco de agua y las almejas correspondientes y, cuando éstas estén abiertas, el guiso está listo para comer.
 

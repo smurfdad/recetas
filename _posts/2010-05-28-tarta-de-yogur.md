@@ -44,7 +44,7 @@ Poner a remojo en un recipiente con agua fría, la gelatina cortada en trozos, 5
 
 Pelar los kiwis. Reservar uno cortado en filetes y el resto triturarlo y cocerlo un poco con una cucharada de azúcar.
 
-A este kiwi cocido, a&ntilde;adir 2 hojas de las 9 que se han puesto a remojar y revolver bien hasta su completa disolución.
+A este kiwi cocido, añadir 2 hojas de las 9 que se han puesto a remojar y revolver bien hasta su completa disolución.
 
 Poner en el fondo de un molde de papel de aluminio bajo, forrado el fondo con papel de aluminio, un adorno hecho con los filetes de kiwi.
 
@@ -54,7 +54,7 @@ Mientras tanto, calentar hasta que empiece a hervir, el agua con el azúcar, rev
 
 Apartar del fuego y disolver allí el resto de las hojas de gelatina, bien escurridas.
 
-Una vez templado, a&ntilde;adir los yogures y la nata montada y mezclar bien.
+Una vez templado, añadir los yogures y la nata montada y mezclar bien.
 
 Cuando ya estén cuajados los kiwis del molde, echar la crema encima y meter a la nevera.
 

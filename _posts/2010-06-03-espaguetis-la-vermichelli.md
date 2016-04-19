@@ -26,7 +26,7 @@ Para 6 personas.
 
 1/2 kilo de espaguetis
 
-1/2 kilo de salsa bolo&ntilde;esa
+1/2 kilo de salsa boloñesa
 
 400 gr espinacas
 
@@ -38,7 +38,7 @@ Cocer la pasta como en las recetas anteriores.
 
 Una vez fría, saltearla a fuego vivo con la mantequilla.
 
-A continuación a&ntilde;adir la salsa bolo&ntilde;esa y las espinacas, previamente cocidas y picadas.
+A continuación añadir la salsa boloñesa y las espinacas, previamente cocidas y picadas.
 
 Saltear todo el conjunto, dejándolo cocer unos minutos.
 

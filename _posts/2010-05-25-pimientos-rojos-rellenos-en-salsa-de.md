@@ -54,7 +54,7 @@ Con ésto se rellenan los pimientos, se rebozan, pasándolos por harina y huevo 
 
 En el aceite sobramte se fríe la cebolla, pimiento verde, zanahoria y ajo, todo ello finamente picado, hasta que empiece a dorarse.
 
-A&ntilde;adir un poco de agua de la cocción del pescado, la tinta y el pan rallado. Dejar hervir un poco y triturarlo con la batidora hasta que quede muy fino.
+Añadir un poco de agua de la cocción del pescado, la tinta y el pan rallado. Dejar hervir un poco y triturarlo con la batidora hasta que quede muy fino.
 
 Echarlo sobre los pimientos, dejar que cueza un poco más y servir.
 

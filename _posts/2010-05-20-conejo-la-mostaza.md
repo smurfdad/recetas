@@ -36,19 +36,19 @@ sal, pimienta
 
 <h3>Preparación</h3>
 
-Cortar el conejo en trozos peque&ntilde;os y dorarlo en el aceite.
+Cortar el conejo en trozos pequeños y dorarlo en el aceite.
 
-Quitar el aceite y a&ntilde;adir la mostaza
+Quitar el aceite y añadir la mostaza
 
 Remover y tapar, dejando cocer a fuego lento durante 15 minutos.
 
-A&ntilde;adir la nata y 2 cucharadas de agua.
+Añadir la nata y 2 cucharadas de agua.
 
 Dejar cocer 45 minutos más, a fuego lento.
 
 Pinchar para ver si está hecho.
 
-Probar la salsa y a&ntilde;adir la sal y pimienta (no poner al principio).
+Probar la salsa y añadir la sal y pimienta (no poner al principio).
 
 <h3>Observaciones</h3>
 

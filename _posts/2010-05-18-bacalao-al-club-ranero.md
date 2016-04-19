@@ -48,9 +48,9 @@ Freír a fuego lento la cebolla, pimientos verdes y 1 ajo finamente picados.
 
 Escaldar en agua hirviendo los tomates y quitarles la piel.
 
-Trocear los pimientos rojos a el tomate y a&ntilde;adir a la cebolla.� Dejar hacer a fuego lento, a&ntilde;adiendo sal si es que necesita. (Tener en cuenta que el bacalao ya tiene sal). Reservar.
+Trocear los pimientos rojos a el tomate y añadir a la cebolla.� Dejar hacer a fuego lento, añadiendo sal si es que necesita. (Tener en cuenta que el bacalao ya tiene sal). Reservar.
 
 Con el aceite sobrante, los ajos fileteados y el bacalao, preparar un bacalao al pil-pil, siguiendo las instrucciones de la receta.
 
-Ya todo el bacalao hecho y antes de sacarlo a la mesa, a&ntilde;adir el pisto (que quede en trocitos, sin triturar la salsa) mezclarlo bien ayudándose con una cuchara y meneándolo en vaivén, darle un hervor y servir, colocando sobre cada tajada una lámina de ajo frita.
+Ya todo el bacalao hecho y antes de sacarlo a la mesa, añadir el pisto (que quede en trocitos, sin triturar la salsa) mezclarlo bien ayudándose con una cuchara y meneándolo en vaivén, darle un hervor y servir, colocando sobre cada tajada una lámina de ajo frita.
 

@@ -36,7 +36,7 @@ Para 6 personas.
 
 aceite, sal, harina
 
-un chorrito de co&ntilde;ac, vinagre y vino blanco
+un chorrito de coñac, vinagre y vino blanco
 
 mostaza
 
@@ -46,9 +46,9 @@ Echar sal a la carne, untarla con mostaza y pasarla por harina, para después do
 
 Retirar la carne y rehogar la cebolla y zanahoria picadas.
 
-Cuando empiece a dorarse, volver a poner la carne encima y a&ntilde;adir el ajo y la pimienta.
+Cuando empiece a dorarse, volver a poner la carne encima y añadir el ajo y la pimienta.
 
-Echar un chorro de vino blanco, un poquitín de vinagre y otro poco de co&ntilde;ac.
+Echar un chorro de vino blanco, un poquitín de vinagre y otro poco de coñac.
 
 Dejar hacer a fuego lento, vigilando que no se quede seco.
 

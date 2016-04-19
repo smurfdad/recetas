@@ -46,13 +46,13 @@ Para 4 personas.
 
 Enharinar la carne y freirla durante unos minutos en aceite bien caliente. En una cazuela, sofreir la cebolla trinchada y los ajos.
 
-Cuando la cebolla esté dorada, a&ntilde;adir la carne y abocar el
+Cuando la cebolla esté dorada, añadir la carne y abocar el
 
 vino blanco y el vino rancio. Cuando haya reducido a la mitad,
 
 incorporar las setas, los guisantes (previamente escaldados) y el laurel.
 
-A&ntilde;adir la picada bien peque&ntilde;a y rectificar de sal y pimienta.
+Añadir la picada bien pequeña y rectificar de sal y pimienta.
 
-Dejarlo a fuego bien lento, hasta que la carne esté a punto (1 hora aproximadamente). Si el líquido reduciese, podríamos a&ntilde;adir una taza de caldo de carne.
+Dejarlo a fuego bien lento, hasta que la carne esté a punto (1 hora aproximadamente). Si el líquido reduciese, podríamos añadir una taza de caldo de carne.
 

@@ -38,13 +38,13 @@ Para 6 personas.
 
 Hacer caramelo poniéndo en un cacito 100 grs. de azúcar al fuego con un poco de zumo de limón. Cuando se vea que ha cogido un color tostado, apartar del fuego y echar con cuidado, ya que salta, un chorrito de agua. Revolver.
 
-Ba&ntilde;ar el fondo de un molde con el caramelo.
+Bañar el fondo de un molde con el caramelo.
 
-Poner a hervir la leche con el azúcar y cuando rompa a hervir, separar del fuego y a&ntilde;adir el resto de los ingredientes.
+Poner a hervir la leche con el azúcar y cuando rompa a hervir, separar del fuego y añadir el resto de los ingredientes.
 
 Batir bien y echar en el molde caramelizado.
 
-Meter al horno medio (180&ordm;) al ba&ntilde;o maría durante 45 minutos aproximadamente.
+Meter al horno medio (180&ordm;) al baño maría durante 45 minutos aproximadamente.
 
 Meter a enfriar a la nevera.
 

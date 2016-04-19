@@ -42,19 +42,19 @@ Para 6 personas.
 
 <h3>Preparación</h3>
 
-Pelar las patatas y cascarlas en trozos peque&ntilde;os y regulares.
+Pelar las patatas y cascarlas en trozos pequeños y regulares.
 
 Ponerlas a cocer con agua que las cubra a fuego medio. Si se quiere, echar una guindilla, para que pique un poco el plato.
 
 Rehogar la cebolla y el pimiento verde en el aceite, muy picados.
 
-A&ntilde;adir la pulpa de los pimientos choriceros, los tomates pelados (para ello conviene sumergirlos un momento en agua hirviendo) y picados en trozos, así como los ajos y el perejil, también picados.
+Añadir la pulpa de los pimientos choriceros, los tomates pelados (para ello conviene sumergirlos un momento en agua hirviendo) y picados en trozos, así como los ajos y el perejil, también picados.
 
 Poner sal y dejar hacer, revolviendo de vez en cuando, a fuego medio, hasta que esté hecho.
 
-Triturar con la batidora y a&ntilde;adir a las patatas ya cocidas.
+Triturar con la batidora y añadir a las patatas ya cocidas.
 
-Cortar el bonito en trozos regulares y de parecido tama&ntilde;o que las patatas. Echarles sal.
+Cortar el bonito en trozos regulares y de parecido tamaño que las patatas. Echarles sal.
 
 Probar las patatas y rectificar la sal si es preciso.
 

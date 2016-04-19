@@ -44,5 +44,5 @@ Zanahoria 150 gr
 
 <h3>Preparación</h3>
 
-Espinar el mero, racionar en supremas. Hacer a la plancha e introducir al horno hasta completar su cocinado. Se elabora la vinagreta mezclando el aceite y el vinagre junto con la cebolleta y trufa picadas en dados minusculos. Tambien se elaboran los elementos de guarnición: Las verduras se cuecen a la inglesa dando a cada cual su punto de coción. Se mezclan y situan en el fondo del plato, sobre ellas situamos el mero y en un lateral el puré de coliflor que se elabora cociendo la coliflor, escurriendo bien y triturandola, en ese momento se le a&ntilde;ade la mantequilla derretida.
+Espinar el mero, racionar en supremas. Hacer a la plancha e introducir al horno hasta completar su cocinado. Se elabora la vinagreta mezclando el aceite y el vinagre junto con la cebolleta y trufa picadas en dados minusculos. Tambien se elaboran los elementos de guarnición: Las verduras se cuecen a la inglesa dando a cada cual su punto de coción. Se mezclan y situan en el fondo del plato, sobre ellas situamos el mero y en un lateral el puré de coliflor que se elabora cociendo la coliflor, escurriendo bien y triturandola, en ese momento se le añade la mantequilla derretida.
 

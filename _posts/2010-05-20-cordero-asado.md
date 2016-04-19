@@ -42,5 +42,5 @@ Se mete al horno a temperatura no excesivamente fuerte durante 1 hora y media ap
 
 Cuando esté dorado por un lado, echarle sal y darle la vuelta para que se dore por el otro, momento en que se pone la sal por el segundo lado.
 
-Se puede acompa&ntilde;ar con patatas a la panadera, en cuyo caso, colocar en la fuente, debajo del cordero, antes de meterlo al horno, una capa de patatas en rodajas, otra de cebolla en rodajas finas, sal, unos trocitos de mantequilla y agua sin que llegue a cubrirlas.
+Se puede acompañar con patatas a la panadera, en cuyo caso, colocar en la fuente, debajo del cordero, antes de meterlo al horno, una capa de patatas en rodajas, otra de cebolla en rodajas finas, sal, unos trocitos de mantequilla y agua sin que llegue a cubrirlas.
 

@@ -44,9 +44,9 @@ pimienta blanca
 
 Poner un puchero u olla a presión al fuego con la mantequilla.
 
-Cuando esté derretida, a&ntilde;adir la calabaza, puerro y patata y rehogar durante dos minutos.
+Cuando esté derretida, añadir la calabaza, puerro y patata y rehogar durante dos minutos.
 
-A&ntilde;adir un poco de pimienta blanca molida, agua (un cuarto de lo que ocupa el resto de los ingredientes) y las pastillas de caldo de carne.
+Añadir un poco de pimienta blanca molida, agua (un cuarto de lo que ocupa el resto de los ingredientes) y las pastillas de caldo de carne.
 
 Dejar cocer hasta que esté todo blando y bien cocido (en la olla rápida 10 minutos).
 
@@ -56,7 +56,7 @@ Esto se puede tener hecho de antemano.
 
 En el momento de servir, calentar la crema de calabaza hasta que hierva para que esté muy caliente.
 
-A&ntilde;adir la nata o yogur y calentar un poco más sin que llegue a hervir. Si estuviera demasiado espesa, a&ntilde;adir un poco de agua. Probar la sazón y rectificar si es preciso.
+Añadir la nata o yogur y calentar un poco más sin que llegue a hervir. Si estuviera demasiado espesa, añadir un poco de agua. Probar la sazón y rectificar si es preciso.
 
-Servir, acompa&ntilde;ado en plato aparte de cuadraditos de pan frito por si alguien quiere servírselos sobre la crema.
+Servir, acompañado en plato aparte de cuadraditos de pan frito por si alguien quiere servírselos sobre la crema.
 

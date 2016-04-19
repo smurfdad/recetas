@@ -3,7 +3,7 @@ layout: post
 title: ENSALADA DE PEPINO CON SALSA DE YOGURT.
 categories:
 - Ensaladas
-- Huevos y lácteos
+- Huevos y lacteos
 tags:
 - pepino
 - cebolla

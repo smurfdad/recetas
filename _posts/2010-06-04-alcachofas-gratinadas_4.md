@@ -48,7 +48,7 @@ nuez moscada
 
 En una cazuela, poner el aceite y disolver en él la harina.
 
-A continuación, a&ntilde;adir el zumo de limón y el agua, removiendo todo bien para facilitar la disolución de la harina.
+A continuación, añadir el zumo de limón y el agua, removiendo todo bien para facilitar la disolución de la harina.
 
 A continuación ir limpiando las alcachofas y sumergirlas en el líquido, que a la hora de echar las alcachofas estará hirviendo.
 

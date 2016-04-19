@@ -34,5 +34,5 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/crema-de-fresa.html
 
 Batir la nata hasta que quede montada.
 
-A&ntilde;adir la mermelada y batir de nuevo hasta que engorde.
+Añadir la mermelada y batir de nuevo hasta que engorde.
 

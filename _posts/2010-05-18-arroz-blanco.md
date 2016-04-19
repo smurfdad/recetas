@@ -38,9 +38,9 @@ Para 5 personas.
 
 <h3>Preparación</h3>
 
-Poner en una cazuela baja un poco de aceite, una cebolla dividida en dos trozos y las zanahorias en trozos grandes, salteándolo todo ello en el fuego, a&ntilde;adiendo después el arroz.
+Poner en una cazuela baja un poco de aceite, una cebolla dividida en dos trozos y las zanahorias en trozos grandes, salteándolo todo ello en el fuego, añadiendo después el arroz.
 
-Salteado también éste, a&ntilde;adir el agua o caldo hirviendo, unas gotas de limón y la sal.
+Salteado también éste, añadir el agua o caldo hirviendo, unas gotas de limón y la sal.
 
 Dejar hervir por espacio de 10 minutos a fuego fuerte y otros 10 a fuego lento.
 

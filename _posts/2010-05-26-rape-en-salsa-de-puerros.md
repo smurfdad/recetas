@@ -40,17 +40,17 @@ un buen chorro de vino blanco
 
 Poner en una cazuela a cocer lo verde de los puerros y sal con el agua suficiente para que cubra el rape.
 
-Cuando el puerro esté cocido, a&ntilde;adir el rape y dejar hervir a fuego lento, el tiempo justo para poder quitar el hueso.
+Cuando el puerro esté cocido, añadir el rape y dejar hervir a fuego lento, el tiempo justo para poder quitar el hueso.
 
 Dejar enfriar, quitar el hueso y hacer filetes de los lomos.
 
 Picar las cebollas, lo blanco del puerro y los dientes de ajo y rehogar en un poco de aceite de oliva, a fuego suave.
 
-En el momento que va a empezar a dorarse, a&ntilde;adir el vino blanco y dejar cocer 5 minutos.
+En el momento que va a empezar a dorarse, añadir el vino blanco y dejar cocer 5 minutos.
 
 Triturar hasta que quede muy fino y si es preciso, pasar por el pasapuré.
 
-A&ntilde;adir la nata y dejar cocer un poco más, revolviendo para que ligue la salsa.
+Añadir la nata y dejar cocer un poco más, revolviendo para que ligue la salsa.
 
 Poner los filetes de rape en una cazuela de barro o similar y verter la salsa por encima.
 

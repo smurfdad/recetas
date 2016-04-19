@@ -44,7 +44,7 @@ Para 6 personas.
 
 100 gr. de mejillones
 
-100 gr. de gambas peque&ntilde;as
+100 gr. de gambas pequeñas
 
 1 pimiento verde
 
@@ -62,15 +62,15 @@ Para 6 personas.
 
 <h3>Preparación</h3>
 
-Colocar en la paella el aceite y poner a calentar, ir a&ntilde;adiendo las judías, después el pimiento bien limpio de semillas, los ajos, el tomate, el laurel, las hebras de azafrán, los mejillones, las almejas, la sepia y luego las gambas, todo por este orden y dejando unos minutos freír antes de a&ntilde;adir el siguiente ingrediente. Se a&ntilde;ade el arroz y se sofríe un poco, se a&ntilde;ade el caldo de pescado y los mariscos que quedan, se a&ntilde;ade el limón exprimido y colado para que no caigan semillas y se deja cocer aproximadamente 20 minutos.
+Colocar en la paella el aceite y poner a calentar, ir añadiendo las judías, después el pimiento bien limpio de semillas, los ajos, el tomate, el laurel, las hebras de azafrán, los mejillones, las almejas, la sepia y luego las gambas, todo por este orden y dejando unos minutos freír antes de añadir el siguiente ingrediente. Se añade el arroz y se sofríe un poco, se añade el caldo de pescado y los mariscos que quedan, se añade el limón exprimido y colado para que no caigan semillas y se deja cocer aproximadamente 20 minutos.
 
 <h3>Observaciones</h3>
 
-Puede a&ntilde;adirse colorante alimentario para darle color.
+Puede añadirse colorante alimentario para darle color.
 
-Puede a&ntilde;adirse o sustituir la sal por un dado de caldo concentrado, según gustos.
+Puede añadirse o sustituir la sal por un dado de caldo concentrado, según gustos.
 
-Utilizar siempre una paella de tama&ntilde;o adecuado pues el arroz debe cocinarse en extensión, nunca en altura, todo lo que sobrepase los tres centímetros no es bueno.
+Utilizar siempre una paella de tamaño adecuado pues el arroz debe cocinarse en extensión, nunca en altura, todo lo que sobrepase los tres centímetros no es bueno.
 
 El aceite de oliva debe de ser puro y la medida a utilizar es de 3 decilitros por cada Kgr. de arroz.
 
@@ -80,5 +80,5 @@ El fuego ha de estar repartido de manera uniforme por toda la base de la paella,
 
 El nivel de caldo debe de estar como referencia a la altura de los remaches de las asas de la paella.
 
-Cuando se a&ntilde;ade el arroz, se extiende con una cuchara de madera y no se vuelve a tocar.
+Cuando se añade el arroz, se extiende con una cuchara de madera y no se vuelve a tocar.
 

@@ -10,7 +10,7 @@ author: Smurf Dad
 
 categories:
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 - Entrantes y bocadillos
 
@@ -40,7 +40,7 @@ un poco de sal
 
 Se parte el pan en forma de triángulo. Después de untarlo con mantequilla se pone a tostar.
 
-Se baten los huevos como para tortilla y se a&ntilde;ade la mantequilla y el queso, triturándolo todo junto.
+Se baten los huevos como para tortilla y se añade la mantequilla y el queso, triturándolo todo junto.
 
 Se pone en un cazo al fuego hasta que se ponga espeso.
 

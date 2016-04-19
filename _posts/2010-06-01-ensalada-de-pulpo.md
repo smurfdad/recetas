@@ -42,7 +42,7 @@ Sal
 
 <h3>Preparación</h3>
 
-Se cuece el pulpo, se deja enfriar, y se corta en pedazitos peque&ntilde;os en un bol grande. Se limpian y trocean en daditos la cebolla, el pimiento verde y el pimiento rojo. Se mezcla todo, y se ali&ntilde;a con el aceite, el vinagre y la sal.
+Se cuece el pulpo, se deja enfriar, y se corta en pedazitos pequeños en un bol grande. Se limpian y trocean en daditos la cebolla, el pimiento verde y el pimiento rojo. Se mezcla todo, y se aliña con el aceite, el vinagre y la sal.
 
 Comentarios: Meter en el frigorífico unas dos o tres horas, y servir frío.
 

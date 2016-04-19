@@ -52,7 +52,7 @@ Una vez cocido, escurrir el pollo y freírlo y reservar.
 
 El caldo de cocción, colar y reservar.
 
-Poner el pollo en una fuente onda, a&ntilde;adir un chorrito de vinagre, el laurel y el azafrán, cubriendo todo con el caldo de la cocción.
+Poner el pollo en una fuente onda, añadir un chorrito de vinagre, el laurel y el azafrán, cubriendo todo con el caldo de la cocción.
 
 Macerar durante 24 horas en el frigorífico.
 

@@ -48,7 +48,7 @@ Para 6 personas.
 
 Pelar, quitar el corazón y filetear la manzanas, rociándolas con limón para que no se queden negras.
 
-Derretir la mantequilla, a la que se a&ntilde;ade el azúcar, los huevos batidos, la leche y la harina mezclada con los dos sobres que vienen unidos, de armisén. Después de cada ingrediente, revolver bien antes de a&ntilde;adir el siguiente.
+Derretir la mantequilla, a la que se añade el azúcar, los huevos batidos, la leche y la harina mezclada con los dos sobres que vienen unidos, de armisén. Después de cada ingrediente, revolver bien antes de añadir el siguiente.
 
 Colocar en un molde desmontable, untado de mantequilla y espolvoreado de harina.
 

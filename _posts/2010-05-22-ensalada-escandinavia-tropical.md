@@ -40,15 +40,15 @@ limón, sal, vinagre y aceite de oliva
 
 Colocar los filetes de salmón en una fuente de servir, en el centro y a lo largo, cabalgados unos sobre otros.
 
-Cortar la lechuga o endibia en juliana: lavar las hojas y escurrirlas, enrollarlas todas juntas y prietas y cortar sobre una tabla en filetitos finos. Ali&ntilde;arla con sal, vinagre y aceite.
+Cortar la lechuga o endibia en juliana: lavar las hojas y escurrirlas, enrollarlas todas juntas y prietas y cortar sobre una tabla en filetitos finos. Aliñarla con sal, vinagre y aceite.
 
 Cortar el mango y aguacate a lo largo. Pelar y filetear. Utilizar solo la mitad de cada fruta, la otra reservarla para otro momento.
 
-Ali&ntilde;ar las frutas por separado con un poco de sal, zumo de limón y aceite.
+Aliñar las frutas por separado con un poco de sal, zumo de limón y aceite.
 
 Colocar a los lados del salmón una sobre otra, las frutas, alternándolas para que quede con colorido variado.
 
-En el centro de los dos costados colocar la lechuga y encima de ella las anchoas cortadas en trocitos peque&ntilde;os.
+En el centro de los dos costados colocar la lechuga y encima de ella las anchoas cortadas en trocitos pequeños.
 
 Servir en salsera aparte salsa de alcaparras y eneldo y también panes tostados por si alguien gusta de ellos.
 

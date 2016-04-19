@@ -26,7 +26,7 @@ Para 8 personas.
 
 6 huevos
 
-1 lata peque&ntilde;a de melocotones
+1 lata pequeña de melocotones
 
 1 bote de mermelada de albaricoque
 
@@ -40,7 +40,7 @@ En un bol se echan 4 huevos y el azúcar.
 
 Se baten a punto de relieve.(Que al coger una porción con la cuchara y dejarla caer, se forme como un cordón en la masa).
 
-Se a&ntilde;ade la harina y se coloca en un molde tapado el fondo con papel de aluminio, engrasado y espolvoreado de harina.
+Se añade la harina y se coloca en un molde tapado el fondo con papel de aluminio, engrasado y espolvoreado de harina.
 
 Se mete al horno suave (170&ordm;) durante una media hora.
 

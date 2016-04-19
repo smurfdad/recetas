@@ -44,7 +44,7 @@ Cocer los espaguetis como en las recetas anteriores.
 
 Picar muy fina la cebolla y rehogarla con la mantequilla, cuando este echa agregar el beicon en cuadraditos y freírlo.
 
-A&ntilde;adir el vino y dejar que reduzca un poco.
+Añadir el vino y dejar que reduzca un poco.
 
 Agregar los espaguetis y la nata y dejar cocer unos minutos.
 

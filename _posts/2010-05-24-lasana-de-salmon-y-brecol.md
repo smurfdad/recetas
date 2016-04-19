@@ -32,7 +32,7 @@ Para 6 personas.
 
 2 zanahorias grandes cocidas (en la olla rápida, 7 minutos)
 
-1 brécol grande o dos peque&ntilde;os, cocido
+1 brécol grande o dos pequeños, cocido
 
 100 grs. de salmón ahumado en tiras
 

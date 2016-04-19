@@ -28,13 +28,13 @@ Para 5 personas.
 
 1 caja de canelones
 
-3 latas peque&ntilde;as de atún en aceite
+3 latas pequeñas de atún en aceite
 
 6 cucharadas soperas de salsa de tomate
 
 1 bote tomate frito
 
-1 cebolla peque&ntilde;a
+1 cebolla pequeña
 
 agua
 
@@ -60,9 +60,9 @@ Una vez cocidos, escurrirlos y echarlos en una cazuela con abundante agua fría.
 
 Aparte picar fina la cebolla y rehogar bien.
 
-Cuando este echa a&ntilde;adir el atún y la salsa de tomate dándole unas vueltas.
+Cuando este echa añadir el atún y la salsa de tomate dándole unas vueltas.
 
-Disponer los canelones sobre un pa&ntilde;o de forma escalonada.
+Disponer los canelones sobre un paño de forma escalonada.
 
 Poner un poco de farsa en cada uno y enrollarlos.
 

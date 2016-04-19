@@ -30,7 +30,7 @@ Para 5 personas.
 
 300 gr carne picada
 
-1lata peque&ntilde;a de paté
+1lata pequeña de paté
 
 1 bote de tomate frito
 
@@ -66,15 +66,15 @@ Picar fina la cebolla y el ajo.
 
 Poner en una cazuela los 60 gr de mantequilla y rehogar la verdura.
 
-A continuación, a&ntilde;adir la carne picada y freír bien.
+A continuación, añadir la carne picada y freír bien.
 
 Cuando este echo, agregar la harina y mezclar bien.
 
-Por último a&ntilde;adir el paté y la leche.
+Por último añadir el paté y la leche.
 
 Mezclar todo bien y dejar que cueza un poco la farsa, sazonándola con un poco de sal.
 
-Extender los canelones sobre un pa&ntilde;o de cocina de forma escalonada, poniendo un poco de la farsa en cada uno de ellos, para después enrollarlos.
+Extender los canelones sobre un paño de cocina de forma escalonada, poniendo un poco de la farsa en cada uno de ellos, para después enrollarlos.
 
 Preparar unas cazuelas de barro individuales, cubriendo la base con un poco de tomate frito.
 

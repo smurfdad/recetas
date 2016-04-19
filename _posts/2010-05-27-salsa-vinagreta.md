@@ -36,9 +36,9 @@ Para 6 personas.
 
 <h3>Preparación</h3>
 
-Picar en trocitos peque&ntilde;os el huevo cocido y la cebolleta.
+Picar en trocitos pequeños el huevo cocido y la cebolleta.
 
-Mezclar bien con un tenedor, batiendo, el resto de los ingredientes y por último a&ntilde;adir los trocitos picados volviendo a mezclar.
+Mezclar bien con un tenedor, batiendo, el resto de los ingredientes y por último añadir los trocitos picados volviendo a mezclar.
 
 <h3>Observaciones</h3>
 

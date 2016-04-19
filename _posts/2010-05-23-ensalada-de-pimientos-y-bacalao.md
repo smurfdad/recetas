@@ -48,11 +48,11 @@ Cortar los tronquitos de surimi por la mitad, a lo largo, y luego en tiritas.
 
 Poner el bacalao en agua que lo cubra y luego al fuego hasta que empiece a salir espuma, momento en que se apaga. Se deja en el mismo agua hasta que se utilice.
 
-Disponer en una fuente redonda la lechuga ali&ntilde;ada en el centro.
+Disponer en una fuente redonda la lechuga aliñada en el centro.
 
 Sobre ella el surimi mezclado con la mayonesa.
 
-Alrededor rodajas finas de tomate ali&ntilde;adas con un poco de sal y aceite.
+Alrededor rodajas finas de tomate aliñadas con un poco de sal y aceite.
 
 Sobre ellas el bacalao, que lo hemos separado en láminas, rociado con un poco de aceite.
 

@@ -54,7 +54,7 @@ Para la trufa:
 
 Derretir el chocolate en el fuego junto con un poco de la leche, a fuego suave. Dejar enfriar. Ablandar la mantequilla en el microondas durante 50 segundos.
 
-A&ntilde;adir por este orden: las dos clases de azúcar, las yemas, la leche restante, el chocolate, la sal y la harina mezclada con el royal. Después de cada ingrediente, mezclar bien.
+Añadir por este orden: las dos clases de azúcar, las yemas, la leche restante, el chocolate, la sal y la harina mezclada con el royal. Después de cada ingrediente, mezclar bien.
 
 Por último las claras a punto de nieve.
 
@@ -62,7 +62,7 @@ Ponerlo en un molde redondo engrasado y forrado el fondo con papel de aluminio, 
 
 Meterlo al horno medio (170&ordm;) durante 35 minutos. (Comprobar si está cocido, pinchando una aguja larga y verificando que sale seca).
 
-Relleno: Batir la nata con una cucharadita de azúcar vainillado y el azúcar glass. Cuando esté montada y dura, a&ntilde;adir el cacao y batir un poco más hasta que esté mezclado.
+Relleno: Batir la nata con una cucharadita de azúcar vainillado y el azúcar glass. Cuando esté montada y dura, añadir el cacao y batir un poco más hasta que esté mezclado.
 
 Una vez hecho y frío el pastel proceder a su relleno.
 

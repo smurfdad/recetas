@@ -44,5 +44,5 @@ Tenerlos 5 minutos por un lado y otros cinco por el otro.
 
 Mirar si están suficientemente hechos. Tiene que quedar rosados por dentro.
 
-Colocarlos en una bandeja de servir, acompa&ntilde;ados de patatas fritas y aparte las salsas que se deseen. Roquefort, setas, etc.
+Colocarlos en una bandeja de servir, acompañados de patatas fritas y aparte las salsas que se deseen. Roquefort, setas, etc.
 

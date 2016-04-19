@@ -32,9 +32,9 @@ Para 6 personas.
 
 1 zanahoria
 
-1/4 kg. champi&ntilde;ones o setas
+1/4 kg. champiñones o setas
 
-1 chorrito co&ntilde;ac
+1 chorrito coñac
 
 3 lonchas de bacon
 
@@ -52,15 +52,15 @@ Vaciarlas con cuidado y reservar la pulpa.
 
 Cocerlas en la olla rápida 5 minutos (sin olla será más tiempo).
 
-Poner a rehogar la cebolla, puerro, bacón, zanahoria, pulpa de las berenjenas y champi&ntilde;ón, todo troceado menudo, y con sal.
+Poner a rehogar la cebolla, puerro, bacón, zanahoria, pulpa de las berenjenas y champiñón, todo troceado menudo, y con sal.
 
-Cuando está a punto de dorarse, a&ntilde;adir el co&ntilde;ac caliente y prenderle fuego.
+Cuando está a punto de dorarse, añadir el coñac caliente y prenderle fuego.
 
 Dejar cocer un poco y triturar con la batidora.
 
 Mezclar el pan rallado.
 
-A&ntilde;adir un poco de nata si gusta y rellenar con ello las berenjenas cocidas.
+Añadir un poco de nata si gusta y rellenar con ello las berenjenas cocidas.
 
 Espolvorear con el queso rallado y meter al horno a gratinar.
 

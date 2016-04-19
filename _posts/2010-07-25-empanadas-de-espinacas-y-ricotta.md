@@ -38,7 +38,7 @@ Para el relleno:
 
 1 pimiento morrón asado pelado, sin semillas ni nervaduras
 
-1 cebolla peque&ntilde;a cortada al medio y luego en rodajas bien finas
+1 cebolla pequeña cortada al medio y luego en rodajas bien finas
 
 50cc de aceite de oliva
 

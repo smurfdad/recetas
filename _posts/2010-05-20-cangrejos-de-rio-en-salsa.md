@@ -42,9 +42,9 @@ Revolver a menudo y cuando empiece a dorarse echar los cangrejos, lavados y la g
 
 Seguir revolviendo durante cinco minutos, hasta que los cangrejos tomen un color rojizo.
 
-A&ntilde;adir la salsa de tomate y dejar cocer suavemente y tapado durante 30 minutos. Menear la cazuela de vez en cuando.
+Añadir la salsa de tomate y dejar cocer suavemente y tapado durante 30 minutos. Menear la cazuela de vez en cuando.
 
-Probar la sal y a&ntilde;adirle si lo necesita.
+Probar la sal y añadirle si lo necesita.
 
 Se puede hacer de víspera para que tome más sabor el guiso.
 

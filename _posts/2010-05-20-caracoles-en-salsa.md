@@ -44,15 +44,15 @@ Para 6 personas.
 
 Rehogar la cebolla, el ajo y el jamón en una cazuela con un chorro de aceite de oliva.
 
-Cuando empiece a dorarse, a&ntilde;adir el chorizo, la guindilla picada, el perejil y los caracoles.
+Cuando empiece a dorarse, añadir el chorizo, la guindilla picada, el perejil y los caracoles.
 
 Dejar hacer durante cinco minutos revolviendo, a fuego medio.
 
-A&ntilde;adir la salsa de tomate y revolver de nuevo.
+Añadir la salsa de tomate y revolver de nuevo.
 
 Tapar la cazuela, bajar el fuego y dejar cocer durante media hora.
 
-Si se queda seco, a&ntilde;adir un poco de agua.
+Si se queda seco, añadir un poco de agua.
 
 Si se hacen de víspera cogen más gusto.
 

@@ -40,7 +40,7 @@ sal
 
 Cortar cada espárrago por la mitad, a lo largo.
 
-Rellenar cada uno con una tira de salmón, cortada del tama&ntilde;o del espárrago.
+Rellenar cada uno con una tira de salmón, cortada del tamaño del espárrago.
 
 Poner la mantequilla con un poco de sal, en una sartén al fuego.
 

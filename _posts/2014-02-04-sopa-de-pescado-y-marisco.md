@@ -50,7 +50,7 @@ Para la crema de marisco:
 
 3 tomates maduros.
 
-1 vaso de co&ntilde;ac.
+1 vaso de coñac.
 
 Para el caldo de pescado:
 
@@ -74,11 +74,11 @@ Para la salsa de marisco:
 
 Picamos muy finas las verduras y las ponemos a pochar (dorar) en aceite caliente.
 
-A&ntilde;adimos el tomate cortado en gajos y las cabezas y las carcasas de las gambas. Reservamos la carne de las gambas para la sopa.
+Añadimos el tomate cortado en gajos y las cabezas y las carcasas de las gambas. Reservamos la carne de las gambas para la sopa.
 
-Flambeamos con co&ntilde;ac, a&ntilde;adimos el arroz y mojamos con un litro de fumetl. Dejamos hervir hasta que el arroz esté hecho y lo trituramos. Una vez triturado pasamos por colador. Ponemos la salsa a calentar con el pan tostado una media hora.
+Flambeamos con coñac, añadimos el arroz y mojamos con un litro de fumetl. Dejamos hervir hasta que el arroz esté hecho y lo trituramos. Una vez triturado pasamos por colador. Ponemos la salsa a calentar con el pan tostado una media hora.
 
-Dejamos hervir 10 minutos y ponemos a punto de caldo, a&ntilde;adiendo más caldo si lo queremos caldoso o menos caldo si nos gusta cremoso.
+Dejamos hervir 10 minutos y ponemos a punto de caldo, añadiendo más caldo si lo queremos caldoso o menos caldo si nos gusta cremoso.
 
-A&ntilde;adimos al caldo el pescado cortado en dados, las gambas crudas (o asadas a la plancha) y las almejas.
+Añadimos al caldo el pescado cortado en dados, las gambas crudas (o asadas a la plancha) y las almejas.
 

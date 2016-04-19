@@ -12,7 +12,7 @@ categories:
 
 - Pescados
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 modified_time: '2016-03-16T01:53:13.406-07:00'
 

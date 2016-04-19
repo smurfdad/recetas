@@ -30,9 +30,9 @@ Para 6 personas.
 
 200 frs. de leche
 
-2 cucharadas de co&ntilde;ac
+2 cucharadas de coñac
 
-1 lata de pi&ntilde;a
+1 lata de piña
 
 manzanas
 
@@ -44,11 +44,11 @@ uvas, melocotones o las frutas que se deseen
 
 Disolver el chocolate en la leche, a fuego lento, revolviendo con cuchara de palo.
 
-Ya disuelto y fuera del fuego, a&ntilde;adir la mantequilla en trozos.
+Ya disuelto y fuera del fuego, añadir la mantequilla en trozos.
 
 Remover hasta que se disuelva y adquiera consistencia.
 
-A&ntilde;adir el co&ntilde;ac y revolver.
+Añadir el coñac y revolver.
 
 Verter en un recipiente para sacar a la mesa.
 

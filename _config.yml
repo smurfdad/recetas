@@ -20,4 +20,6 @@ permalink: /:year/:month/:title.html
 timezone: Europe/Madrid
 google-analytics: UA-10059240-2
 
-gems: [jekyll-paginate, jekyll-gist]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap

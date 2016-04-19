@@ -48,9 +48,9 @@ un chorrito de vinagre
 
 Freír la cebolla, zanahoria y ajo, todo ello picado, en un poco de aceite.
 
-A&ntilde;adir la harina y revolver hasta que empiece a dorarse.
+Añadir la harina y revolver hasta que empiece a dorarse.
 
-Echar el vino, el vinagre, la pastilla de caldo y la pimienta. Dejar cocer 15 minutos a fuego lento.           Triturar con la batidora hasta que quede muy fino.           Si está muy espeso, a&ntilde;adir un poco de agua.           Probar el sazón y a&ntilde;adir sal si lo necesita.
+Echar el vino, el vinagre, la pastilla de caldo y la pimienta. Dejar cocer 15 minutos a fuego lento.           Triturar con la batidora hasta que quede muy fino.           Si está muy espeso, añadir un poco de agua.           Probar el sazón y añadir sal si lo necesita.
 
 <h3>Observaciones</h3>
 

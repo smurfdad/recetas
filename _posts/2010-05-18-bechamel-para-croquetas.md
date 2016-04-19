@@ -12,7 +12,7 @@ categories:
 
 - Salsas
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 modified_time: '2016-03-16T01:53:16.781-07:00'
 
@@ -52,13 +52,13 @@ Para 4 personas.
 
 En una cazuela plana poner la mantequilla a derretir. Si se utiliza aceite freírlo con unos cascos de cebolla, que luego se retiran.
 
-A&ntilde;adir la harina y revolver bien durante 2 minutos para que luego no se hagan grumos y después echar la leche poco a poco y sin dejar de revolver. Si se viera que al rehogar la harina, estuviera demasiado grasiento, a&ntilde;adir más harina.
+Añadir la harina y revolver bien durante 2 minutos para que luego no se hagan grumos y después echar la leche poco a poco y sin dejar de revolver. Si se viera que al rehogar la harina, estuviera demasiado grasiento, añadir más harina.
 
 Cuando hierva de nuevo bajar el fuego al mínimo y dejarlo cocer, revolviendo de vez en cuando 10 minutos.
 
-Se le a&ntilde;ade los tropiezos que se quiera poner en el momento que se termina de poner toda la leche.
+Se le añade los tropiezos que se quiera poner en el momento que se termina de poner toda la leche.
 
-A&ntilde;adir un huevo batido (opcional), revolver bien y verterlo en una fuente plana a que se enfríe para luego liar las croquetas de la siguiente manera:
+Añadir un huevo batido (opcional), revolver bien y verterlo en una fuente plana a que se enfríe para luego liar las croquetas de la siguiente manera:
 
 Con una cuchara coger una porción de masa, colocarla sobre la harina y con las manos formar un tubular con ella. A continuación pasarla por huevo batido y luego por pan rallado. Así con toda la masa.
 

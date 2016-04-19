@@ -30,7 +30,7 @@ Para 4 personas.
 
 1 Rollo de Pavo
 
-Una lata de crema de champi&ntilde;on
+Una lata de crema de champiñon
 
 Dos cucharitas colmadas de mostaza
 
@@ -44,7 +44,7 @@ Salsa de soja, sal y aceite de Oliva
 
 Este es un plato al que se le tiene que dedicar un tiempo, hacerlo con paciencia. Pero el esfuerzo se verá recompensado, realmente merece la pena.
 
-Primero se corta la cebolla (las grandes) lo más peque&ntilde;a que se pueda, casi invisible, y se fríe en una olla a fuego fuerte, se a&ntilde;ade el rollo y se fríe tambien, un poco, hasta que se dore. Se va a&ntilde;adiendo las cebollas francesas peladas,la crema, la mostaza, el queso, la leche, la salsa de soja (a su gusto) y un poquito de sal, poca por que lo demás tiene mucho sabor.
+Primero se corta la cebolla (las grandes) lo más pequeña que se pueda, casi invisible, y se fríe en una olla a fuego fuerte, se añade el rollo y se fríe tambien, un poco, hasta que se dore. Se va añadiendo las cebollas francesas peladas,la crema, la mostaza, el queso, la leche, la salsa de soja (a su gusto) y un poquito de sal, poca por que lo demás tiene mucho sabor.
 
 Se le deja cocer hasta que se haga el rollo por dentro (aproximadamente una hora y media más).
 

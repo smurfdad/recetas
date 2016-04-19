@@ -46,15 +46,15 @@ Cocer la pasta en abundante agua hirviendo, con sal y un chorrito de aceite, dur
 
 Derretir la mantequilla en una sartén. Freír el ajo y los pistachos pelados.
 
-A&ntilde;adir el brandy y revolver hasta que reduzca y se evapore el alcohol.
+Añadir el brandy y revolver hasta que reduzca y se evapore el alcohol.
 
 Echar la salsa y revolver.
 
-A&ntilde;adir el salmón, revolver un poco .
+Añadir el salmón, revolver un poco .
 
 Echar la pasta y mezclar suavemente hasta que se calienten y se impregne todo de la salsa.
 
-Probar la sazón y a&ntilde;adir sal si lo necesita.
+Probar la sazón y añadir sal si lo necesita.
 
 Espolvorear con la pimienta y el queso rallado.
 

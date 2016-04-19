@@ -42,7 +42,7 @@ perejil
 
 Remojar el bacalao 48 horas, cambiando de agua 4 veces. Escurrir bien el agua, poniéndolo sobre un trapo.
 
-Freír la cebolla y el ajo en la mitad del aceite a fuego medio y a&ntilde;adir los pimientos en tiras y el tomate, dejando que se haga durante 1/2 hora. Reservar.
+Freír la cebolla y el ajo en la mitad del aceite a fuego medio y añadir los pimientos en tiras y el tomate, dejando que se haga durante 1/2 hora. Reservar.
 
 En una cazuela baja o de barro freír 3 ajos fileteados. Una vez dorados y a fuego suave, echar el bacalao moviendo el conjunto en vaivén.
 

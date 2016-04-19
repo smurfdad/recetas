@@ -42,7 +42,7 @@ Para 6 personas.
 
 - sal
 
-- un chorrito de co&ntilde;ac
+- un chorrito de coñac
 
 - un chorro de vino blanco
 
@@ -62,15 +62,15 @@ Para 6 personas.
 
 Poner a remojo la miga de pan en un poco de leche.
 
-Escurrirla y mezclarla con la carne, el huevo, la sal, la nuez moscada, el co&ntilde;ac y la pimienta.
+Escurrirla y mezclarla con la carne, el huevo, la sal, la nuez moscada, el coñac y la pimienta.
 
 Poner aceite en una sartén e ir haciendo bolitas con la carne, con la ayuda de una cucharilla, pasarlas por harina y freírlas.
 
 Una vez fritas, colocarlas en una cazuela de barro o similar.
 
-En el aceite sobrante, si es mucho quitar parte, dorar dos cucharadas de harina y después a&ntilde;adir el vino blanco, el caldo de carne y un poco de agua.
+En el aceite sobrante, si es mucho quitar parte, dorar dos cucharadas de harina y después añadir el vino blanco, el caldo de carne y un poco de agua.
 
-Dejar cocer 10 minutos a fuego suave, rectificar de sal y echar sobre las albondiguillas. Dejar cocer un rato más y si está muy espeso, a&ntilde;adir un poco de agua.
+Dejar cocer 10 minutos a fuego suave, rectificar de sal y echar sobre las albondiguillas. Dejar cocer un rato más y si está muy espeso, añadir un poco de agua.
 
 Cortar las cebollas en rodajas finas, colocarlas en un recipiente con leche y sal durante una 1/2 hora.
 

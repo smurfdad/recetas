@@ -42,9 +42,9 @@ Poner al fuego en un cazo e incorporar la mantequilla y el chocolate en trocitos
 
 Dejar hervir hasta que el chocolate haya espesado.
 
-A&ntilde;adir el azúcar y revolver bien.
+Añadir el azúcar y revolver bien.
 
-Una vez retirado del fuego a&ntilde;adir la clara a punto de nieve.
+Una vez retirado del fuego añadir la clara a punto de nieve.
 
-Cubrir las tartas antes de que la crema se enfríe ya que endurece y el ba&ntilde;o queda desigual.
+Cubrir las tartas antes de que la crema se enfríe ya que endurece y el baño queda desigual.
 

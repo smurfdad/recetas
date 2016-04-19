@@ -3,7 +3,7 @@ layout: post
 title: ESPÁRRAGOS EN SALSA
 categories:
 - Verduras y legumbres
-- Huevos y lácteos
+- Huevos y lacteos
 tags:
 - espárragos
 - huevos

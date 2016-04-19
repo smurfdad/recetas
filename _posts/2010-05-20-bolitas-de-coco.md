@@ -36,7 +36,7 @@ Para 6 personas.
 
 Rallar la corteza del limón (sólo lo amarillo) y mezclar con el resto de los ingredientes.
 
-Hacer montoncitos con ello, en una placa de horno engrasada, o meterlas en cápsulas de papel peque&ntilde;as.
+Hacer montoncitos con ello, en una placa de horno engrasada, o meterlas en cápsulas de papel pequeñas.
 
 Meter a horno medio (180&ordm;) unos 15 minutos, hasta que estén hechos.
 

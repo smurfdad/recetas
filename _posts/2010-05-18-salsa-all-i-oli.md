@@ -40,9 +40,9 @@ Poner en el vaso de la batidora todos los ingredientes menos el aceite.
 
 Triturar todo bien.
 
-A&ntilde;adir poco a poco el aceite sin dejar de batir.
+Añadir poco a poco el aceite sin dejar de batir.
 
-Probar y en su caso a&ntilde;adir más sal y vinagre o limón.
+Probar y en su caso añadir más sal y vinagre o limón.
 
 <h3>Observaciones</h3>
 

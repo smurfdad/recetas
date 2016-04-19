@@ -48,17 +48,17 @@ aceite
 
 <h3>Preparación</h3>
 
-Poner las alubias a remojo la noche anterior. A la ma&ntilde;ana siguiente poner a cocer las alubias con agua fría sazonada con sal.
+Poner las alubias a remojo la noche anterior. A la mañana siguiente poner a cocer las alubias con agua fría sazonada con sal.
 
 Cuando rompa a cocer, quitar la espuma y continuar con la cocción.
 
-Por otro lado daremos un hervor aparte al hueso de jamón para blanquearlo y se lo a&ntilde;adiremos a las alubias.
+Por otro lado daremos un hervor aparte al hueso de jamón para blanquearlo y se lo añadiremos a las alubias.
 
 A continuación pelar y picar finas las verduras y a media cocción agregárselo a las alubias junto con los productos cárnicos. Conforme estos se vayan haciendo iremos retirándolos de la cazuela para una vez fríos, picarlos finamente para la guarnición.
 
 Cuando las alubias estén tiernas, se da el punto de sazonamiento y se junta con la guarnición de productos cárnicos.
 
-Si la salsa de las alubias nos hubiese quedado demasiado ligera, retiraremos unos granos de alubias, las trituraremos y las a&ntilde;adiremos de nuevo.
+Si la salsa de las alubias nos hubiese quedado demasiado ligera, retiraremos unos granos de alubias, las trituraremos y las añadiremos de nuevo.
 
-Al final de la elaboración y a la hora de servir admite el ali&ntilde;o de aceite de oliva.
+Al final de la elaboración y a la hora de servir admite el aliño de aceite de oliva.
 

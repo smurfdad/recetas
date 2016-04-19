@@ -36,11 +36,11 @@ Para 6 personas.
 
 <h3>Preparación</h3>
 
-Poner el agua a calentar con el azúcar, y cuando vaya a empezar a hervir, a&ntilde;adir la gelatina y revolver bien hasta que se disuelva.
+Poner el agua a calentar con el azúcar, y cuando vaya a empezar a hervir, añadir la gelatina y revolver bien hasta que se disuelva.
 
 Batir el bote de leche hasta que quede un poco montada y mezclar con lo anterior suavemente.
 
-A&ntilde;adir el zumo de limón revolviendo bien hasta que engorde.
+Añadir el zumo de limón revolviendo bien hasta que engorde.
 
 Poner en un molde caramelizado.
 

@@ -40,7 +40,7 @@ Para 6 personas.
 
 Batir con la batidora el yogur, las yemas de los huevos, el aceite y el azúcar.
 
-A&ntilde;adir las claras a punto de nieve, mezclar sin batir.
+Añadir las claras a punto de nieve, mezclar sin batir.
 
 Por último mezclar la harina junto con el royal (sin batir).
 

@@ -19,7 +19,7 @@ Para 6 personas.
 
 <h3>Preparación</h3>
 
-Cortar todos los ingredientes en taquitos peque&ntilde;os de parecido tama&ntilde;o.
+Cortar todos los ingredientes en taquitos pequeños de parecido tamaño.
 
 Con palillos, ir pinchando en cada uno: lomo, queso y bacon y luego pasar cada palillo ya relleno por la bechamel, de forma que queden completamente cubiertos con ella.
 

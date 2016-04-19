@@ -2,7 +2,7 @@
 layout: post
 title: MANZANAS CON SALSA DE NARANJAS
 categories:
-- Huevos y lácteos
+- Huevos y lacteos
 - Frutas
 tags:
 - manzana

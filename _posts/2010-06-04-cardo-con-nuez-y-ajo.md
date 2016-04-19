@@ -44,7 +44,7 @@ Limpiar el cardo cortándolo a trozos y poner a cocer en agua fría con sal.
 
 Una vez cocido se escurre bien y se guarda en la cazuela.
 
-Hacer una bechamel con la harina y la leche, a&ntilde;adiéndole las nueces y los ajos, ya machacados.
+Hacer una bechamel con la harina y la leche, añadiéndole las nueces y los ajos, ya machacados.
 
 El conjunto de bechamel, ajos y nueces se echa al cardo, se le da unas vueltas y se sirve.
 

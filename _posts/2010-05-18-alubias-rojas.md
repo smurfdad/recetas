@@ -52,9 +52,9 @@ Para 10 personas.
 
 Poner a cocer las alubias en agua fría, previamente remojadas de víspera, con 1/2 cebolla, chorizo, costilla y tocino durante unas tres horas (en la olla rápida 15 minutos).
 
-Mientras tanto rehogar el resto de la cebolla y luego a&ntilde;adir el pimentón y un cazo de alubias con caldo.
+Mientras tanto rehogar el resto de la cebolla y luego añadir el pimentón y un cazo de alubias con caldo.
 
-Triturar y a&ntilde;adirlo a las alubias, echándole la sal necesaria y dejando hervir un poco más para que espese.
+Triturar y añadirlo a las alubias, echándole la sal necesaria y dejando hervir un poco más para que espese.
 
 La morcilla cocerla aparte o en el microondas para retirar la grasa que suelte, antes de unirlo a las alubias.
 

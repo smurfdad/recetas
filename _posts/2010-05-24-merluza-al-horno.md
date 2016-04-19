@@ -52,5 +52,5 @@ Apartar la merluza y triturar todo lo de la bandeja.
 
 Colocar la merluza en una fuente de servir y rociarla con la salsa.
 
-Si queda muy espesa se puede a&ntilde;adir caldo o nata.
+Si queda muy espesa se puede añadir caldo o nata.
 

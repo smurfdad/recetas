@@ -38,7 +38,7 @@ Utilizar lo verde solamente (las pencas las guardamos para hacer pencas rellenas
 
 Se cuecen las verduras y la patata cortada en trozos 5 minutos en la olla rápida. En un puchero normal tendrá que ser bastante más tiempo.
 
-Se escurre casi toda el agua que tenga el puchero y se a&ntilde;aden los ajos fritos, dorados.
+Se escurre casi toda el agua que tenga el puchero y se añaden los ajos fritos, dorados.
 
 Revolverlo todo bien, aplastando las patatas con la misma cuchara con que se revuelve y se deja cocer un poquito más.
 

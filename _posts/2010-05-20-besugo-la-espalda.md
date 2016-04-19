@@ -46,7 +46,7 @@ Rociar con muy poco aceite.
 
 Meter al horno, previamente calentado a calor máximo, durante 10 minutos.
 
-Freír los ajos y la guindilla en un poco de aceite y a&ntilde;adir el vinagre, teniendo cuidado de apartar la sartén del fuego para que no salte demasiado.
+Freír los ajos y la guindilla en un poco de aceite y añadir el vinagre, teniendo cuidado de apartar la sartén del fuego para que no salte demasiado.
 
 Dejar reducir un momento y verterlo por encima del besugo, al que se habrá quitado la espina central, tirando de la cola hacia arriba, después de asado.
 

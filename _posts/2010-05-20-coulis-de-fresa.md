@@ -38,5 +38,5 @@ Lavar las fresas después de quitarles el rabo.
 
 Escurrirlas bien y triturarlas.
 
-A&ntilde;adir al almíbar y revolver bien.
+Añadir al almíbar y revolver bien.
 

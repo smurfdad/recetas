@@ -10,7 +10,7 @@ author: Smurf Dad
 
 categories:
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 modified_time: '2016-03-16T01:53:15.157-07:00'
 

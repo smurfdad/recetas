@@ -52,7 +52,7 @@ Aparte picar muy fino el pimiento verde y los ajos, rehogándolos en un poco de 
 
 Cuando este echo, agregar la harina mezclando bien.
 
-A&ntilde;adir el pimentón y un poco de perejil picado.
+Añadir el pimentón y un poco de perejil picado.
 
 A continuación echar un poco del caldo de cocción, mezclando bien.
 

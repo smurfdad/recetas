@@ -11,7 +11,7 @@ categories:
 - Arroces
 - Salsas
 - Postres y dulces
-- Huevos y lácteos
+- Huevos y lacteos
 - Pastas
 - Entrantes y bocadillos
 - Frutas

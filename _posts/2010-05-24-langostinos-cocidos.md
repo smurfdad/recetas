@@ -48,7 +48,7 @@ En otro recipiente poner agua fría con la misma cantidad de sal (60 grs. por li
 
 Echar los langostinos en el agua fría.
 
-La preparación de las gambas es igual, con la diferencia que al ser más peque&ntilde;as no necesitan estar un minuto cociendo, así que cuando comience a hervir el agua de nuevo, retirarlas al agua fría con sal.
+La preparación de las gambas es igual, con la diferencia que al ser más pequeñas no necesitan estar un minuto cociendo, así que cuando comience a hervir el agua de nuevo, retirarlas al agua fría con sal.
 
 La langosta igual pero dejándola cocer 10 minutos.
 

@@ -26,7 +26,7 @@ Para 6 personas.
 
 1 lata de pimientos del piquillo.
 
-1 lata peque&ntilde;a de tomate triturado
+1 lata pequeña de tomate triturado
 
 1 cebolla
 
@@ -38,9 +38,9 @@ sal, azúcar
 
 <h3>Preparación</h3>
 
-Pochar la cebolla en el aceite y cuando vaya a empezar a dorarse a&ntilde;adir el ajo picado, los pimientos cortados a tiras y sofreír un poco.
+Pochar la cebolla en el aceite y cuando vaya a empezar a dorarse añadir el ajo picado, los pimientos cortados a tiras y sofreír un poco.
 
-A&ntilde;adir el tomate, una cucharadita de azúcar y la sal necesaria.
+Añadir el tomate, una cucharadita de azúcar y la sal necesaria.
 
 Dejar cocer unos 3/4 de hora a fuego suave para que estén bien hechos y no sienten mal.
 

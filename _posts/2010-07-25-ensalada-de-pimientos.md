@@ -44,5 +44,5 @@ Lave los pimientos partiéndolos por la mitad y quitándole las pepitas.
 
 A continuación córtelos en tiras finas. Caliente tres cucharadas de aceite y fría en él el ajo picado y las tiras de pimiento.
 
-Después alí&ntilde;elo con la sal, el perejil, el ajo y el aceite. Déjelo reposar durante una hora y sírvalo.
+Después alíñelo con la sal, el perejil, el ajo y el aceite. Déjelo reposar durante una hora y sírvalo.
 

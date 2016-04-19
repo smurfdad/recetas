@@ -32,7 +32,7 @@ Para 8 personas.
 
 1 kilo pescado (solo espinazos, cabezas )
 
-2 pu&ntilde;ados de arroz lavado
+2 puñados de arroz lavado
 
 4 dientes de ajo, chancados con media cebolla picadita
 
@@ -70,7 +70,7 @@ luego agregar, el resto de mariscos,fecula de maiz disuelta en 1/4 taza de agua 
 
 Bajar del fuego y servir.
 
-En un plato hondo colocar un trozo de pescado y ba&ntilde;ar con el caldo, poner un boqueron o choro, una conchita y servir caliente.
+En un plato hondo colocar un trozo de pescado y bañar con el caldo, poner un boqueron o choro, una conchita y servir caliente.
 
 Se puede agregar como decoracion, perejil picadisimo, y aparte pan tostado con mantequilla
 

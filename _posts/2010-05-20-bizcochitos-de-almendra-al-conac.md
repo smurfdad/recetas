@@ -34,7 +34,7 @@ Para 6 personas.
 
 1 cucharada de royal
 
-2 copas de co&ntilde;ac
+2 copas de coñac
 
 100 grs de almendra
 
@@ -44,9 +44,9 @@ tostada y picada
 
 Batir los huevos enteros con el azúcar hasta que estén esponjosos.
 
-A&ntilde;adir, sin batir, la harina mezclada con el royal.
+Añadir, sin batir, la harina mezclada con el royal.
 
-Por último la mantequilla derretida, el co&ntilde;ac y la almendra bien molida.
+Por último la mantequilla derretida, el coñac y la almendra bien molida.
 
 Poner en cápsulas de papel llenas hasta la mitad.
 

@@ -40,7 +40,7 @@ Para 6 personas.
 
 Hacer una bechamel con la mantequilla, la harina y la leche.
 
-Condimentar con sal y pimienta y a&ntilde;adir las espinacas dejando cocer todo junto 1/4 de hora a fuego bajo.
+Condimentar con sal y pimienta y añadir las espinacas dejando cocer todo junto 1/4 de hora a fuego bajo.
 
 Triturar con la batidora y rectificar de sal si es necesario.
 

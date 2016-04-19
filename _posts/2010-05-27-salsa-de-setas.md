@@ -34,7 +34,7 @@ Para 6 personas.
 
 1 pastilla de caldo concentrado
 
-2 cucharadas de co&ntilde;ac
+2 cucharadas de coñac
 
 1 cucharada rasa de maizena
 
@@ -46,7 +46,7 @@ aceite de oliva, pimienta
 
 Freír a fuego lento el bacon y las setas cortadas con la mano en trozos.
 
-A&ntilde;adir el co&ntilde;ac y dejar hervir un poco.
+Añadir el coñac y dejar hervir un poco.
 
 Echar la nata, la pastilla de caldo concentrado y la maizena disuelta en el agua o jugo.
 

@@ -34,7 +34,7 @@ sal, unas gotitas de zumo de limón
 
 <h3>Preparación</h3>
 
-Echar en un cazo las yemas y el agua y poner al ba&ntilde;o maría.
+Echar en un cazo las yemas y el agua y poner al baño maría.
 
 Se baten mientras se va calentando hasta obtener una salsa espesa, como una crema.
 

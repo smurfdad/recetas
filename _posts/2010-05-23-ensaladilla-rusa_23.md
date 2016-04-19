@@ -46,7 +46,7 @@ Picar el bonito y los huevos cocidos.
 
 Mezclar todos los ingredientes.
 
-A&ntilde;adirle un ali&ntilde;o de aceite, vinagre y sal (si necesita) y mezclar bien.
+Añadirle un aliño de aceite, vinagre y sal (si necesita) y mezclar bien.
 
 Colocar en una fuente, darle forma bonita y adornarla con las aceitunas y lechuga en juliana.
 

@@ -42,7 +42,7 @@ Para 6 personas.
 
 Hacer caramelo y untar el fondo de un molde con ello.
 
-Cocer las manzanas cortadas en rodajas, con un poco de agua y otro poco de co&ntilde;ac, hasta que estén blandas.
+Cocer las manzanas cortadas en rodajas, con un poco de agua y otro poco de coñac, hasta que estén blandas.
 
 Poner en el molde una capa de rodajas de bollo y otra capa de manzanas.
 
@@ -50,7 +50,7 @@ Seguir poniendo capas alternadas hasta tener 3 capas de manzana y 4 de bollos.
 
 Poner en un cazo la leche (menos un poco), canela, limón y azúcar.
 
-Cuando hierva, a&ntilde;adir el flanín, que estará disuelto en la leche apartada anteriormente.
+Cuando hierva, añadir el flanín, que estará disuelto en la leche apartada anteriormente.
 
 Cuando vuelva a hervir revolver bien y rociar con el preparado lo que tenemos en el molde, teniendo cuidado de que se impregne todo bien.
 

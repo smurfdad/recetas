@@ -40,7 +40,7 @@ Cocer los calabacines, cortados en trozos con la piel, en poca agua.
 
 Triturar con la batidora.
 
-A&ntilde;adir los quesitos y triturar de nuevo.
+Añadir los quesitos y triturar de nuevo.
 
 Rectificar de agua y sal si es necesario.
 

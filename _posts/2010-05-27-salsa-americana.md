@@ -34,7 +34,7 @@ Para 6 personas.
 
 1 diente de ajo
 
-un chorrito de co&ntilde;ac caliente
+un chorrito de coñac caliente
 
 unas cucharadas de salsa de tomate
 
@@ -42,11 +42,11 @@ unas cucharadas de salsa de tomate
 
 Freír las verduras picadas junto con las gambas y la sal hasta que empiecen a dorarse.
 
-A&ntilde;adir el chorrito de co&ntilde;ac, prender fuego, y cuando se apague a&ntilde;adir el tomate y dejar hervir un poco más.
+Añadir el chorrito de coñac, prender fuego, y cuando se apague añadir el tomate y dejar hervir un poco más.
 
 Triturar bien y pasar por el pasapuré.
 
-Si está demasiado espeso, a&ntilde;adir un poco de caldo de pescado o agua.
+Si está demasiado espeso, añadir un poco de caldo de pescado o agua.
 
 <h3>Observaciones</h3>
 

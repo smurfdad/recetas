@@ -2,7 +2,7 @@
 layout: post
 title: FRESONES AL JEREZ
 categories:
-- Huevos y lácteos
+- Huevos y lacteos
 - Postres y dulces
 - Frutas
 tags:

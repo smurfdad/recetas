@@ -44,7 +44,7 @@ Aparte picar muy fina la cebolla, el ajo y los pimientos.
 
 Disponer la verdura en una cazuela, con un poco de aceite y dejar que se vaya rehogando poco a poco.
 
-Cuando este echa, a&ntilde;adir el tomate pelado y troceado y dejarlo al fuego hasta que este echo.
+Cuando este echa, añadir el tomate pelado y troceado y dejarlo al fuego hasta que este echo.
 
 Una vez echo el tomate, pasarlo por la batidora y el chino para que el tomate quede bien fino.
 

@@ -42,7 +42,7 @@ azúcar
 
 Hacer una masa con la harina y el huevo.
 
-A&ntilde;adir un poco de agua hasta que quede una pasta fina.
+Añadir un poco de agua hasta que quede una pasta fina.
 
 Pelar la manzana y cortar en gajos finos.
 

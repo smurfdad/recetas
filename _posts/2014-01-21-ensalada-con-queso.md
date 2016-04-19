@@ -54,7 +54,7 @@ Para 4 personas.
 
 Cortar las verduras, las patatas y el queso y disponerlo en una ensaladera.
 
-Ali&ntilde;ar con el aceite, la sal y la pimienta.
+Aliñar con el aceite, la sal y la pimienta.
 
-Acompa&ntilde;ar la ensalada con el yogurt ali&ntilde;ado con la paprika y el zumo de limón que se servirá según gustos.
+Acompañar la ensalada con el yogurt aliñado con la paprika y el zumo de limón que se servirá según gustos.
 

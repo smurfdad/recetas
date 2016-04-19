@@ -60,11 +60,11 @@ Agregamos los tomates pelados y cortados en trozos, 4 minutos más tarde, agrega
 
 Condimentamos con el clavo, el perejil, y la hoja de laurel.
 
-Cuando comience a hervir de nuevo, a&ntilde;adimos el arroz mezclándolo bien.
+Cuando comience a hervir de nuevo, añadimos el arroz mezclándolo bien.
 
 Bajamos un poco el fuego y condimentamos con los pellizcos de pimienta y azafrán, dejamos cocer el arroz y una vez esté hecho, retiramos el ramito de perejil y la hoja de laurel.
 
-Por último, a&ntilde;adimos la carne de los mejillones y el líquido de su cocción, dejamos cocer 2 minutos más y espolvoreamos con un poco de perejil picado.
+Por último, añadimos la carne de los mejillones y el líquido de su cocción, dejamos cocer 2 minutos más y espolvoreamos con un poco de perejil picado.
 
 Servir muy caliente.
 

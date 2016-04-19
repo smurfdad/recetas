@@ -12,7 +12,7 @@ categories:
 
 - Arroces
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 - Postres y dulces
 

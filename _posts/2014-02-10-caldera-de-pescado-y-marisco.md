@@ -28,7 +28,7 @@ Para 4 personas.
 
 <h3>Ingredientes</h3>
 
-1,2 Kg. de pescado variado (Rape, Ra&ntilde;o, Escorpena, Serrano, Ara&ntilde;a, Vaca serrana, Morena..)
+1,2 Kg. de pescado variado (Rape, Raño, Escorpena, Serrano, Araña, Vaca serrana, Morena..)
 
 2 Tomates maduros
 
@@ -46,9 +46,9 @@ Perejil
 
 <h3>Preparación</h3>
 
-Cortar la cebolla, los ajos, el pimiento verde y los tomates. Freír la cebolla y los ajos con aceite a fuego lento durante 5 minutos. A&ntilde;adir el resto de ingredientes y dejar al fuego hasta que esté hecho el sofrito. Una vez listo, echar en una caldera y colocar el pescado cortado en rodajas por encima. A&ntilde;adir agua hasta que el pescado quede completamente tapado y echar un poco de sal. Dejar cocer durante 15 minutos a fuego lento, para que el pescado no se rompa. Aumentar la potencia del fuego hasta que hierva y dejarlo unos 20 minutos más.
+Cortar la cebolla, los ajos, el pimiento verde y los tomates. Freír la cebolla y los ajos con aceite a fuego lento durante 5 minutos. Añadir el resto de ingredientes y dejar al fuego hasta que esté hecho el sofrito. Una vez listo, echar en una caldera y colocar el pescado cortado en rodajas por encima. Añadir agua hasta que el pescado quede completamente tapado y echar un poco de sal. Dejar cocer durante 15 minutos a fuego lento, para que el pescado no se rompa. Aumentar la potencia del fuego hasta que hierva y dejarlo unos 20 minutos más.
 
 <h3>Observaciones</h3>
 
-Normalmente este plato se acompa&ntilde;a con rebanadas de pan duro, aunque si lo desea también puede poner fideos o arroz en la caldera.
+Normalmente este plato se acompaña con rebanadas de pan duro, aunque si lo desea también puede poner fideos o arroz en la caldera.
 

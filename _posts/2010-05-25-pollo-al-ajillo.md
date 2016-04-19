@@ -40,11 +40,11 @@ Picar los ajos. Echar sal y aceite a las alas. Mezclar con los ajos y dejar mace
 
 Meter en el horno fuerte durante 1/2 hora.
 
-A&ntilde;adir el vinagre y vino, remover y dejar cocer hasta que estén dorados.
+Añadir el vinagre y vino, remover y dejar cocer hasta que estén dorados.
 
 Sacar a una fuente, quitar la grasa al líquido de la bandeja del horno. Verterlo por encima de las alas.
 
 Echar un poco de agua al fondo de la bandeja del horno, raspando el fondo para recoger el caramelizado y echarlo sobre las alas, meter un poquito más al horno y servir.
 
-Acompa&ntilde;ar con ensalada de lechuga y patatas fritas.
+Acompañar con ensalada de lechuga y patatas fritas.
 

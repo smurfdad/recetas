@@ -52,9 +52,9 @@ A continuación picaremos fina las verduras y las pondremos en una cazuela, con 
 
 Cuando este echa la verdura agregar el picadillo, removiendo con una espátula de madera para evitar que la carne quede apelmazada.
 
-Cuando la carne este rehogada a&ntilde;adimos el vino tinto, dejando reducir unos minutos, para después a&ntilde;adir la salsa de tomate dejándola cocer unos minutos y dándoles el punto de sazonamiento. Reservar.
+Cuando la carne este rehogada añadimos el vino tinto, dejando reducir unos minutos, para después añadir la salsa de tomate dejándola cocer unos minutos y dándoles el punto de sazonamiento. Reservar.
 
-Por otro lado, poner un poco de mantequilla en una sartén. Cuando se haya fundido, a&ntilde;adir los espaguetis escurridos y saltearlos a fuego vivo. Sazonarlos con sal y pimienta blanca y a&ntilde;adir la salsa bolo&ntilde;esa.
+Por otro lado, poner un poco de mantequilla en una sartén. Cuando se haya fundido, añadir los espaguetis escurridos y saltearlos a fuego vivo. Sazonarlos con sal y pimienta blanca y añadir la salsa boloñesa.
 
 Dejar cocer unos minutos a fuego suave.
 

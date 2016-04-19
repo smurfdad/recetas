@@ -12,7 +12,7 @@ categories:
 
 - Ensaladas
 
-- Huevos y lácteos
+- Huevos y lacteos
 
 modified_time: '2016-03-16T01:53:14.651-07:00'
 

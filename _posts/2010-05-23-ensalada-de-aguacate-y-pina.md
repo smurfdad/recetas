@@ -28,7 +28,7 @@ Para 6 personas.
 
 2 aguacates
 
-2 rodajas de pi&ntilde;a maduras (si no es tropical, mejor enlatada)
+2 rodajas de piña maduras (si no es tropical, mejor enlatada)
 
 4 lonchas de jamón cocido
 
@@ -36,7 +36,7 @@ Para 6 personas.
 
 el zumo de medio limón
 
-10 nueces troceadas o un pu&ntilde;ado de cacahuetes pelados
+10 nueces troceadas o un puñado de cacahuetes pelados
 
 salsa de mostaza
 
@@ -44,11 +44,11 @@ salsa de mostaza
 
 Colocar la lechuga en una fuente.
 
-Encima la pi&ntilde;a y jamón cortados en trocitos.
+Encima la piña y jamón cortados en trocitos.
 
 Pelar los aguacates, cortarlos por la mitad, quitarles el hueso y filetearlos.
 
-Colocarlos con estética sobre el jamón y pi&ntilde;a.
+Colocarlos con estética sobre el jamón y piña.
 
 Rociarlos con el zumo de limón.
 

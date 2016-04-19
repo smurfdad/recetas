@@ -46,7 +46,7 @@ Colocar en una cazuela de barro o similar.
 
 Pochar en una cazuela, con un poco de aceite, la cebolla, ajo y perejil finamente picados, a fuego suave.
 
-Una vez hecho pero sin llegar a dorarse, a&ntilde;adir el vino blanco y el tomate y unir bien dejando hervir 10 minutos más a fuego suave, revolviendo de vez en cuando.
+Una vez hecho pero sin llegar a dorarse, añadir el vino blanco y el tomate y unir bien dejando hervir 10 minutos más a fuego suave, revolviendo de vez en cuando.
 
 Verter sobre el rape, dar un hervor y servir.
 

@@ -38,7 +38,7 @@ Para 6 personas.
 
 1 pizca de tomillo
 
-300 grs. de champi&ntilde;ones limpios
+300 grs. de champiñones limpios
 
 1 pizca de nuez moscada
 
@@ -52,7 +52,7 @@ sal y pimienta al gusto
 
 Salpimentar las chuletas y dorarlas por ambos lados en una sarten amplia.
 
-Agregar la cebolla y rehogarlas durante unos 5 min. luego a&ntilde;adir el tomate y cocer unos 10 min.
+Agregar la cebolla y rehogarlas durante unos 5 min. luego añadir el tomate y cocer unos 10 min.
 
-Verter el vino, todas la especias y los champi&ntilde;ones limpios y troceados, dejar cocer tapado a fuego medio hasta que la salsa haya reducido a la mitad o hasta que se torne espesa, luego servir y disfrutar de este rico plato.
+Verter el vino, todas la especias y los champiñones limpios y troceados, dejar cocer tapado a fuego medio hasta que la salsa haya reducido a la mitad o hasta que se torne espesa, luego servir y disfrutar de este rico plato.
 

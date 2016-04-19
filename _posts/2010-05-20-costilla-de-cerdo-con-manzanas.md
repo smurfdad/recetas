@@ -50,5 +50,5 @@ Tardará en hacerse 1 hora y media aproximadamente. Si se ve que está muy tosta
 
 Rociar a menudo con su jugo.
 
-Servir acompa&ntilde;ado de ensalada de lechuga.
+Servir acompañado de ensalada de lechuga.
 

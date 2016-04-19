@@ -28,7 +28,7 @@ Para 4 personas.
 
 500 grs Filete de Res
 
-1 lata de champi&ntilde;ones en trozos
+1 lata de champiñones en trozos
 
 100 g tocino
 
@@ -52,7 +52,7 @@ Previamente se sazonan con sal y pimienta negra al gusto por ambos lados y se de
 
 Con los palillos amarramos el tocino a los filetes, una pieza de tocino en cada trozo de filete.
 
-Una vez hecho esto se ponen en el aceite y se sofrien. Después agregamos los champi&ntilde;ones y mezclamos el contenido.
+Una vez hecho esto se ponen en el aceite y se sofrien. Después agregamos los champiñones y mezclamos el contenido.
 
 Por ultimo agregamos vino tinto y tapamos el sartén por 10min. Hay que checar que no se sequen, en todo caso agregamos mas vino.
 

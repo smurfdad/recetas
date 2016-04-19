@@ -3,7 +3,7 @@ layout: post
 title: FRITOS DE COLIFLOR CON BECHAMEL
 categories:
 - Verduras y legumbres
-- Huevos y lácteos
+- Huevos y lacteos
 tags:
 - coliflor
 - leche

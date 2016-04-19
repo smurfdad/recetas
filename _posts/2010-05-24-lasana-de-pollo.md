@@ -26,7 +26,7 @@ Para 6 personas.
 
 <h3>Ingredientes</h3>
 
-1 paquete de placas de lasa&ntilde;a o de canelones
+1 paquete de placas de lasaña o de canelones
 
 2 pechugas de pollo en filetes
 
@@ -40,13 +40,13 @@ Para 6 personas.
 
 <h3>Preparación</h3>
 
-Cocer la lasa&ntilde;a como indica el envase y después echarlo en un recipiente con abundante agua fría.
+Cocer la lasaña como indica el envase y después echarlo en un recipiente con abundante agua fría.
 
-Cortar la cebolla en finas ruedas y dorarla con un poco de aceite en la sartén. A&ntilde;adir los filetes de pollo troceados y dejar hacer un poco.
+Cortar la cebolla en finas ruedas y dorarla con un poco de aceite en la sartén. Añadir los filetes de pollo troceados y dejar hacer un poco.
 
 Colocar en una fuente refractaria por capas, de la siguiente manera:
 
-Lasa&ntilde;a - bechamel - pechuga y cebolla - lonchas de queso - salsa de tomate - lasa&ntilde;a - bechamel - queso rallado.
+Lasaña - bechamel - pechuga y cebolla - lonchas de queso - salsa de tomate - lasaña - bechamel - queso rallado.
 
 Meter al horno a gratinar.
 

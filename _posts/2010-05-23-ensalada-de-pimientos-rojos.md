@@ -46,5 +46,5 @@ Echar la sal necesaria y un buen chorro de aceite.
 
 Mezclar, colocar en una fuente adecuada y servir.
 
-Si se pone bonito, a&ntilde;adirlo en trozos regulares.
+Si se pone bonito, añadirlo en trozos regulares.
 

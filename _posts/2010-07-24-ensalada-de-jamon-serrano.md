@@ -42,5 +42,5 @@ Colocar el pan tostado y untarlo con el ajo en el fondo del plato.
 
 Pelar los aguacates y cortarlos finos poniéndolos encima del pan. Colocar el jamón enrollado por encima.
 
-Por último, picar la cebolleta en juliana y a&ntilde;adírsela a la ensalada. Ali&ntilde;arla con aceite de oliva.
+Por último, picar la cebolleta en juliana y añadírsela a la ensalada. Aliñarla con aceite de oliva.
 

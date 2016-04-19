@@ -42,7 +42,7 @@ aceite de oliva
 
 Limpiar el bonito, lavarlo, secarlo y darle sal.
 
-Rehogar la cebolla y pimientos picados. Cuando empiecen a dorarse, a&ntilde;adir el tomate, dejándolo cocer a fuego lento hasta que esté cocido y espeso.
+Rehogar la cebolla y pimientos picados. Cuando empiecen a dorarse, añadir el tomate, dejándolo cocer a fuego lento hasta que esté cocido y espeso.
 
 Poner aceite en una sartén y dorar por los dos lados el bonito, previamente pasado por harina.
 

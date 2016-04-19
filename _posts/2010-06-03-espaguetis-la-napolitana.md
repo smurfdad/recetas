@@ -36,5 +36,5 @@ Cocer la pasta como en las recetas anteriores.
 
 Una vez cocida y fría, saltearla a fuego vivo con la mantequilla.
 
-Ba&ntilde;ar con la salsa de tomate y dejar cocer unos minutos.
+Bañar con la salsa de tomate y dejar cocer unos minutos.
 

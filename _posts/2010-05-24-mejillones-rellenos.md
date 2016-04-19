@@ -38,13 +38,13 @@ pan rallado
 
 Abrir los mejillones en una cajuela baja, con un poco de agua, a fuego fuerte y tapada.
 
-Separar las conchas y apartar la carne. Cortarla en trozos peque&ntilde;os.
+Separar las conchas y apartar la carne. Cortarla en trozos pequeños.
 
-Poner la mantequilla a derretir en una cazuela, a fuego medio. A&ntilde;adir la harina y los ajos picados y revolvér bien.
+Poner la mantequilla a derretir en una cazuela, a fuego medio. Añadir la harina y los ajos picados y revolvér bien.
 
-A&ntilde;adir el caldo de los mejillones, teniendo cuidado que quede la crema espesa.
+Añadir el caldo de los mejillones, teniendo cuidado que quede la crema espesa.
 
-Dejar cocer 10 minutos. A&ntilde;adir el perejil picado.
+Dejar cocer 10 minutos. Añadir el perejil picado.
 
 Separar las conchas en dos. Rellenar con la crema.
 

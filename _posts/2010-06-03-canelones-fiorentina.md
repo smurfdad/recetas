@@ -72,7 +72,7 @@ Echar las espinacas y la leche poco a poco removiendo bien.
 
 Sazonar la bechamel con sal, pimienta blanca y nuez moscada, dejándola que se termine de hacer.
 
-Poner los canelones sobre un pa&ntilde;o de forma escalonada, poniendo un poco de la farsa en cada uno de ellos.
+Poner los canelones sobre un paño de forma escalonada, poniendo un poco de la farsa en cada uno de ellos.
 
 Enrollarlos y disponerlos sobre una placa de horno, en la que habremos cubierto el fondo con el tomate frito.
 

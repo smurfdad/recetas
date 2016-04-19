@@ -40,9 +40,9 @@ En cada filete, aplastado con la palma de la mano, se mete una punta de espárra
 
 Pasar por harina, huevo batido y freír.
 
-En el mismo aceite freír la cebolla picada. A&ntilde;adir un poco de harina, rehogar.
+En el mismo aceite freír la cebolla picada. Añadir un poco de harina, rehogar.
 
-A&ntilde;adir un poco de co&ntilde;ac caliente, prender fuego. Cuando se apague, echar el caldo de abrir las chirlas y las cabezas y cáscaras de las gambas.
+Añadir un poco de coñac caliente, prender fuego. Cuando se apague, echar el caldo de abrir las chirlas y las cabezas y cáscaras de las gambas.
 
 Dejar cocer un poco y pasar por el pasapurés.
 

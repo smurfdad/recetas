@@ -48,7 +48,7 @@ Abrir las almejas en una cazuela al fuego fuerte con un poco de agua y reservar.
 
 Poner una cazuela de barro o similar al fuego con un poco de aceite y los ajos finamente picados.
 
-Cuando aún estén blancos, y sin llegar a dorarse, a&ntilde;adir la harina y revolver bien teniendo cuidado de que no llegue a tostarse.
+Cuando aún estén blancos, y sin llegar a dorarse, añadir la harina y revolver bien teniendo cuidado de que no llegue a tostarse.
 
 Echar parte del fumet y el caldo de las almejas, poco, para que quede espeso.
 
@@ -56,5 +56,5 @@ Cuando hierva un poco, a fuego suave, echar la pulpa de pimiento choricero y dej
 
 Poner los lomos de la merluza, previamente salados, y a los 2 minutos darles la vuelta.
 
-A&ntilde;adir las almejas ya abiertas. Dejar 2 minutos más y servir.
+Añadir las almejas ya abiertas. Dejar 2 minutos más y servir.
 

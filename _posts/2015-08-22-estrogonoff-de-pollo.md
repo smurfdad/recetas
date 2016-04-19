@@ -2,7 +2,7 @@
 layout: post
 title: ESTROGONOFF DE POLLO
 categories:
-- Huevos y lácteos
+- Huevos y lacteos
 - Carnes y derivados
 tags:
 - Tomate

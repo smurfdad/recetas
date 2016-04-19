@@ -40,5 +40,5 @@ Se salan los filetes y se fríen en una sartén. Cuando estén doraditos se reti
 
 Una vez derretida, se hecha la nata líquida. Cuando empieza a hervir, se hecha el queso roquefort, desmenuzándolo. Se mezcla todo bien para que no queden grumos.
 
-Después, se hechan los filetes de la pechuga, procurando que todos queden bien ba&ntilde;ados con la salsa.
+Después, se hechan los filetes de la pechuga, procurando que todos queden bien bañados con la salsa.
 

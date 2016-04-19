@@ -30,7 +30,7 @@ Para 6 personas.
 
 kirch u otro licor
 
-1 lata de pi&ntilde;a en almíbar
+1 lata de piña en almíbar
 
 250 grs. de nata montada
 
@@ -46,9 +46,9 @@ Mezclar los dos ingredientes suavemente.
 
 MODO DE MONTAR EL PASTEL:
 
-Forrar un molde con los bizcochos remojados en el almíbar de la pi&ntilde;a junto con un poco de licor.
+Forrar un molde con los bizcochos remojados en el almíbar de la piña junto con un poco de licor.
 
-Una vez forrado, poner en el fondo una capa de pi&ntilde;a, otra de chantilly y otra de bizcochos remojados.
+Una vez forrado, poner en el fondo una capa de piña, otra de chantilly y otra de bizcochos remojados.
 
 Ir intercalando capas hasta llenar el molde, poniendo la última capa de bizcochos.
 

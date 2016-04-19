@@ -48,7 +48,7 @@ Escurrirlas bien, picarlas en trocitos, mezclarlas con las nueces también corta
 
 Batir con la batidora el yogur, el aceite, las yemas de los huevos y el azúcar.
 
-A&ntilde;adir la harina mezclada con el royal.
+Añadir la harina mezclada con el royal.
 
 Luego las claras a punto de nieve.
 

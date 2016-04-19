@@ -30,7 +30,7 @@ Para 4 personas.
 
 250 g de salchichas Francfort
 
-2 pimientos verdes peque&ntilde;os
+2 pimientos verdes pequeños
 
 6 pepinillos
 

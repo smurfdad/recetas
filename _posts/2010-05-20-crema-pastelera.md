@@ -38,7 +38,7 @@ blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/crema-pastelera.html
 
 Apartar en un recipiente un poco de la leche y mezclar las yemas de los huevos y la maicena. Puede ser con batidora.
 
-El resto de la leche ponerla al fuego, y cuando hierva, a&ntilde;adir el revuelto de maicena sin dejar de revolver hasta que hierva.
+El resto de la leche ponerla al fuego, y cuando hierva, añadir el revuelto de maicena sin dejar de revolver hasta que hierva.
 
 MODO DE HACERLO EN EL MICROONDAS:
 
@@ -46,7 +46,7 @@ Hacer el apartado de la leche igual que en la forma anterior.
 
 La leche ponerla en un recipiente de microondas o una jarra apropiada y meterlo durante 5 minutos.
 
-Sacar, a&ntilde;adir el revuelto de maicena revolviendo bien.
+Sacar, añadir el revuelto de maicena revolviendo bien.
 
 Meter de nuevo al microondas durante 2 minutos o hasta que hierva.
 

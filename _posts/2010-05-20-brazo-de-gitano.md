@@ -40,7 +40,7 @@ Batir las claras a punto de nieve.
 
 Mezclar las yemas una a una sin dejar de batir.
 
-A&ntilde;adir el azúcar cucharada a cucharada. Se sigue batiendo.
+Añadir el azúcar cucharada a cucharada. Se sigue batiendo.
 
 Por último la harina mezclando y poco a poco.
 

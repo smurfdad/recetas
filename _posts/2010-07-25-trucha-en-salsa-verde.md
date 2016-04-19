@@ -50,7 +50,7 @@ perejil picado
 
 <h3>Preparación</h3>
 
-Pica las cebolletas y los dientes de ajo. Ponlos a dorar en una cazuela con un poco de aceite. A&ntilde;ade la harina y rehoga brevemente.
+Pica las cebolletas y los dientes de ajo. Ponlos a dorar en una cazuela con un poco de aceite. Añade la harina y rehoga brevemente.
 
 Vierte el vino y el caldo de los espárragos. Espolvorea con un poco de perejil picado y mueve suavemente hasta que espese.
 

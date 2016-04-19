@@ -1,0 +1,29 @@
+# encoding: utf-8
+- name: Carnes y derivados
+  uri: carnes-y-derivados
+- name: Mariscos y moluscos
+  uri: mariscos-y-moluscos
+- name: Verduras y legumbres
+  uri: verduras-y-legumbres
+- name: Pescados
+  uri: pescados
+- name: Arroces
+  uri: arroces
+- name: Salsas
+  uri: salsas
+- name: Postres y dulces
+  uri: postres-y-dulces
+- name: Huevos y lacteos
+  uri: huevos-y-lacteos
+- name: Pastas
+  uri: pastas
+- name: Entrantes y bocadillos
+  uri: entrantes-y-bocadillos
+- name: Frutas
+  uri: frutas
+- name: Sopas y cremas
+  uri: sopas-y-cremas
+- name: Ensaladas
+  uri: ensaldas
+- name: Setas y hongos
+  uri: setas-y-hongos

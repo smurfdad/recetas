@@ -48,9 +48,9 @@ perejil
 
 <h3>Preparación</h3>
 
-Limpia la trucha, retirando la cabeza, las pieles y las espinas. Reserva los lomos. Pon un poco de agua en una cazuela, a&ntilde;ade los puerros, la cebolla, la cabeza, pieles y espinas de la trucha. Sazona y deja cocer durante 10 minutos. Pon otra cazuela con agua a hervir. Escalda las hojas de endibia, escúrrelas y resérvalas.
+Limpia la trucha, retirando la cabeza, las pieles y las espinas. Reserva los lomos. Pon un poco de agua en una cazuela, añade los puerros, la cebolla, la cabeza, pieles y espinas de la trucha. Sazona y deja cocer durante 10 minutos. Pon otra cazuela con agua a hervir. Escalda las hojas de endibia, escúrrelas y resérvalas.
 
-Pon a dorar los espárragos verdes troceados en una sartén con un poco de aceite. A&ntilde;ade una cucharada de harina y rehoga brevemente. Vierte el caldo poco a poco sin dejar de mezclar y deja reducir durante 5 minutos.
+Pon a dorar los espárragos verdes troceados en una sartén con un poco de aceite. Añade una cucharada de harina y rehoga brevemente. Vierte el caldo poco a poco sin dejar de mezclar y deja reducir durante 5 minutos.
 
 Corta los lomos por la mitad, coloca encima de cada uno, una hoja de endibia y una loncha de jamón y envuélvelos con la lámina de pasta brick.
 

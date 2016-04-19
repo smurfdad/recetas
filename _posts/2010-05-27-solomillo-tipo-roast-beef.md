@@ -44,7 +44,7 @@ Cuando haya salido la válvula se tiene 4 minutos.
 
 La carne se reserva, tapada.
 
-El jugo que ha soltado se pone en un cacito al fuego y se a&ntilde;ade un chorrito de co&ntilde;ac, una pastilla de caldo de carne, un poco de agua con una cucharada de maizena disuelta en ella y sal si necesita. Dejar hervir un poco revolviendo de vez en cuando.
+El jugo que ha soltado se pone en un cacito al fuego y se añade un chorrito de coñac, una pastilla de caldo de carne, un poco de agua con una cucharada de maizena disuelta en ella y sal si necesita. Dejar hervir un poco revolviendo de vez en cuando.
 
 La carne puede estar hecha de víspera si se quiere servir fría. Cortar en filetes muy finos.
 

@@ -50,7 +50,7 @@ Se rellenan los pimientos con esta farsa.
 
 Se pasan por harina y huevo batido y se fríen en abundante aceite.
 
-Se colocan en una cazuela de barro o similar y se vierte por encima salsa espa&ntilde;ola.
+Se colocan en una cazuela de barro o similar y se vierte por encima salsa española.
 
 Se dejan cocer una media hora y se sirven.
 

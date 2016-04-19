@@ -32,7 +32,7 @@ Para 8 personas.
 
 1/2 kg. de carne cocida picada muy fino
 
-100 grs. de jamón, picado en trozos peque&ntilde;os
+100 grs. de jamón, picado en trozos pequeños
 
 100 grs. de nueces trituradas
 
@@ -52,9 +52,9 @@ FARSA O RELLENO:
 
 Picar la cebolla en trozos menudos y ponerla en una cazuela, con aceite, a dorar, a fuego no muy fuerte.
 
-Cuando empiece a dorarse, a&ntilde;adir la carne y la mitad del jamón. Rehogar el conjunto dos minutos.
+Cuando empiece a dorarse, añadir la carne y la mitad del jamón. Rehogar el conjunto dos minutos.
 
-A&ntilde;adir la mitad de las nueces y pistachos a la carne. Mezclar todo perfectamente.
+Añadir la mitad de las nueces y pistachos a la carne. Mezclar todo perfectamente.
 
 Echar la sal que necesite, 100 grs de nata, el queso fresco, y un poco de pimienta molida. Si estuviera muy espeso, poner más nata.
 
@@ -66,7 +66,7 @@ Triturar con la batidora, 200 grs. de nata, el resto de las nueces y pistachos r
 
 Echar un poco de pimienta molida y sal a gusto.
 
-Si quedara demasiado espesa, a&ntilde;adir un poco de agua.
+Si quedara demasiado espesa, añadir un poco de agua.
 
 Reservar.
 
