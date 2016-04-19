@@ -8,19 +8,19 @@ layout: default
   {% if fecha != nfecha %}
     <dt>{{ nfecha }}</dt>
   {% endif %}
-  <dd class="{% cycle 'pos-right', 'pos-left' %} clearfix">
+  <dd class="{% cycle 'pos-left', 'pos-right' %} clearfix">
       <div class="circ"></div>
       <div class="time">{{ post.date | date: "%d" }}</div>
       <div class="events">
         <div class="events-body">
-          <h4 class="events-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+          <h3 class="events-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
           <ul class="list-inline">
             {% for category in post.categories %}
             <li><a href="/categorias/{{category | slugify}}">{{category | capitalize}}</a></li>
             {% endfor%}
           </ul>
           {% if first_post_id == post.id %}
-            <p>{{ post.excerpt }}</p>
+            <div class="bs-callout bs-callout-primary text-justify">{{ post.content }}</div>
           {% endif %}
         </div>
       </div>
