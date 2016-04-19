@@ -9,7 +9,7 @@ layout: default
           <span class="label label-primary"><i class="glyphicon glyphicon-calendar"></i>{{ page.date | date_to_string }}</span>
         </li>
         {% for category in page.categories %}
-        <li><a href="/categorias/#{{category | slugify}}">{{category | capitalize}}</a></li>
+        <li><a href="/categorias/{{category | slugify}}">{{category | capitalize}}</a></li>
         {% endfor%}
       </ul>
 
