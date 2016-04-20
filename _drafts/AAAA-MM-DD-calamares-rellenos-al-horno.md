@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 5 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 1,2 Kg. de calamar (en 1 ó 2 piezas grandes o 1 docena de pequeñas)
 

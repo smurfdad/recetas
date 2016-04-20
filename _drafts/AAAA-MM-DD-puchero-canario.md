@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 500 gr. de carne de vaca con hueso
 

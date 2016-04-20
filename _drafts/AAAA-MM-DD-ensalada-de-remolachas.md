@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
 
 - Ensaladas
+tiempo_minutos: 25 
 ---
-<b>Tiempo</b> 25 minutos.
-
 <h3>Ingredientes</h3>
 remolachas cocidas
 

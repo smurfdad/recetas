@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 3 
+tiempo_minutos: 25 
 ---
-<b>Tiempo</b> 25 minutos.
-
 <h3>Ingredientes</h3>
 1Kg de camarones
 

@@ -20,9 +20,8 @@ categories:
 
 - Arroces
 personas: 4 
+tiempo_minutos: 48 
 ---
-<b>Tiempo</b> 48 minutos.
-
 <h3>Ingredientes</h3>
 Arroz
 

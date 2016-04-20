@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 2 solomillos de ternera de 400 gr. cada uno cortados en 16 librillos, 100 gr. de queso de cabra fresco, 2 huevos batidos, 2 cucharadas de harina, 1 taza de aceite de oliva, 2 dl de jugo de carne, 1 copita de moscatel, 1 cucharadita de miel, sal, pimienta, 16 medias nueces.
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 300 
 ---
-<b>Tiempo</b> 300 minutos.
-
 <h3>Ingredientes</h3>
 1 kilo de mojarra en filetes.
 

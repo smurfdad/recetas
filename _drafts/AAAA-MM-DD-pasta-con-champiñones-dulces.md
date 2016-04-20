@@ -20,9 +20,8 @@ categories:
 
 - Pastas
 personas: 2 
+tiempo_minutos: 20 
 ---
-<b>Tiempo</b> 20 minutos.
-
 <h3>Ingredientes</h3>
 sal
 

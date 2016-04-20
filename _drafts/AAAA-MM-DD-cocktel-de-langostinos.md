@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 24 
 ---
-<b>Tiempo</b> 24 minutos.
-
 <h3>Ingredientes</h3>
 400 gramos de langostinos cocidos y pelados.
 

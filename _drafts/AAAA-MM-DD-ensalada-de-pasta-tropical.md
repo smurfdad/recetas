@@ -21,9 +21,8 @@ categories:
 - Ensaladas
 - Pastas
 personas: 3 
+tiempo_minutos: 10 
 ---
-<b>Tiempo</b> 10 minutos.
-
 <h3>Ingredientes</h3>
 250 gr espirales de verduras
 

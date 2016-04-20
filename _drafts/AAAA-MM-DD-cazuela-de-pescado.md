@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 4 
+tiempo_minutos: 25 
 ---
-<b>Tiempo</b> 25 minutos.
-
 <h3>Ingredientes</h3>
 1 kilo de pescado
 

@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 8 
+tiempo_minutos: 45 
 ---
-<b>Tiempo</b> 45 minutos.
-
 <h3>Ingredientes</h3>
 500g masa philo
 

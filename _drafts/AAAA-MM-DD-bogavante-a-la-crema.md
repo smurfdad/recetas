@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 2 Bogavantes de 800 a 1 Kg. ó uno grande de un par de kilos. Estos al ser más grandes están un poco más tirantes
 

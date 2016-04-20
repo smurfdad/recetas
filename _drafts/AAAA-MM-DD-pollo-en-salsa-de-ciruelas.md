@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 6 
+tiempo_minutos: 105 
 ---
-<b>Tiempo</b> 105 minutos.
-
 <h3>Ingredientes</h3>
 250 G de mantequilla.
 

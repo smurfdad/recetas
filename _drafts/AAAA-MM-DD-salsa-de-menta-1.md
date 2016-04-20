@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 12 
 ---
-<b>Tiempo</b> 12 minutos.
-
 <h3>Ingredientes</h3>
 100 grs. de menta inglesa fresca y si no tenemos fresca, pues de bote.
 

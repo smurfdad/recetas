@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 Arepas con chicharrón (12 a 14 arepas):
 

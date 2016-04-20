@@ -20,9 +20,8 @@ categories:
 
 - Ensaladas
 personas: 4 
+tiempo_minutos: 42 
 ---
-<b>Tiempo</b> 42 minutos.
-
 <h3>Ingredientes</h3>
 Pimiento rojo
 

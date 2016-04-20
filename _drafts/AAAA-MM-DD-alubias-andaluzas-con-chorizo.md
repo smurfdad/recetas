@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 180 
 ---
-<b>Tiempo</b> 180 minutos.
-
 <h3>Ingredientes</h3>
 500 gr. de alubias blancas (remojadas desde el día anterior)
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+tiempo_minutos: 180 
 ---
-<b>Tiempo</b> 180 minutos.
-
 <h3>Ingredientes</h3>
 2 Kg de Alitas de Pollo.
 

@@ -6,9 +6,8 @@ title: GUISADO DE CARNE A LA ESPAÑOLA
 categories:
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 3/4 de aguja o morcillo
 

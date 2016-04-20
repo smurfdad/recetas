@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 1 
+tiempo_minutos: 6 
 ---
-<b>Tiempo</b> 6 minutos.
-
 <h3>Ingredientes</h3>
 2 melocotones
 

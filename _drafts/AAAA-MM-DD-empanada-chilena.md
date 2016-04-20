@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 1440 
 ---
-<b>Tiempo</b> 1440 minutos.
-
 <h3>Ingredientes</h3>
 Pino
 

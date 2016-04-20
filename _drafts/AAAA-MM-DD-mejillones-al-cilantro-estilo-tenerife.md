@@ -20,9 +20,8 @@ categories:
 
 - Mariscos y moluscos
 personas: 4 
+tiempo_minutos: 15 
 ---
-<b>Tiempo</b> 15 minutos.
-
 <h3>Ingredientes</h3>
 1kg. de mejillones frescos del dia
 

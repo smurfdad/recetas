@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 2 
+tiempo_minutos: 50 
 ---
-<b>Tiempo</b> 50 minutos.
-
 <h3>Ingredientes</h3>
 1/2 k. de solomillo de cerdo.
 

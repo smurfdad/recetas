@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 24 
 ---
-<b>Tiempo</b> 24 minutos.
-
 <h3>Ingredientes</h3>
 800 gr. de pechugas de pollo o pavo
 

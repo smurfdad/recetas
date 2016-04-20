@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 800 g de jamón cocido cortado en lonchas de 1 cm de grosor
 

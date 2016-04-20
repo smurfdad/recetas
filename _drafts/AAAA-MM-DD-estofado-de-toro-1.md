@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 150 
 ---
-<b>Tiempo</b> 150 minutos.
-
 <h3>Ingredientes</h3>
 1 Kgr. de morcillo de toro cortado a trozos
 

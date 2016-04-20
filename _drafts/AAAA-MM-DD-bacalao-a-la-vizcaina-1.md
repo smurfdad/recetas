@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 8 trozos bacalao cortados 10x7 centímetros
 

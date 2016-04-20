@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 30 
 ---
-<b>Tiempo</b> 30 minutos.
-
 <h3>Ingredientes</h3>
 1 lomillo de 2 a 2 1/2 libras
 

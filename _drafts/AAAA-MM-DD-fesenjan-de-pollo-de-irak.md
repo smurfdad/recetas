@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 90 
 ---
-<b>Tiempo</b> 90 minutos.
-
 <h3>Ingredientes</h3>
 1 Pollo cortado en octavos (carne con su carcasa de huesos).
 

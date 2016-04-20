@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 12 
+tiempo_minutos: 50 
 ---
-<b>Tiempo</b> 50 minutos.
-
 <h3>Ingredientes</h3>
 12 galletitas redondas de chocolate
 

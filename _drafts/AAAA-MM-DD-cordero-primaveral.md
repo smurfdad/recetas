@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 110 
 ---
-<b>Tiempo</b> 110 minutos.
-
 <h3>Ingredientes</h3>
 750 grs. de paletilla de cordero
 

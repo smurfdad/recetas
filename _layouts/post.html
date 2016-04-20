@@ -16,6 +16,11 @@ layout: default
       {%if personasSize > '0'  %}
       <small>Para {{page.personas}} personas.</small>
       {% endif %}
+      {% capture tiempoSize %}{{ page.tiempo_minutos | size }}{%endcapture%}
+      {%if tiempoSize > '0'  %}
+      <small>Tiempo: {{page.tiempo_minutos}} minutos.</small>
+      {% endif %}
+      
         {{ content }}
     </div>
     {% comment %}

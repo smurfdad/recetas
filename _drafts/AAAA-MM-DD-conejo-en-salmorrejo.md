@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 240 
 ---
-<b>Tiempo</b> 240 minutos.
-
 <h3>Ingredientes</h3>
 un conejo,
 

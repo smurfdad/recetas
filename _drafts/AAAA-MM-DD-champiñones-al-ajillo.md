@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 2 
+tiempo_minutos: 10 
 ---
-<b>Tiempo</b> 10 minutos.
-
 <h3>Ingredientes</h3>
 250 gms. de champiñones es trozos.
 

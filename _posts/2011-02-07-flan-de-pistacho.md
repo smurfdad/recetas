@@ -5,9 +5,8 @@ title: FLAN DE PISTACHO
 
 categories:
 - Postres y dulces
+tiempo_minutos: 90 
 ---
-<b>Tiempo</b> 90 minutos.
-
 <h3>Ingredientes</h3>
 1 pote de leche evaporada
 

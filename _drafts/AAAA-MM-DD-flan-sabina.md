@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 24 
 ---
-<b>Tiempo</b> 24 minutos.
-
 <h3>Ingredientes</h3>
 100 grs. de pan
 

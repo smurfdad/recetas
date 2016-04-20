@@ -18,9 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+tiempo_minutos: 9 
 ---
-<b>Tiempo</b> 9 minutos.
-
 <h3>Ingredientes</h3>
 Espinacas Congeladas
 

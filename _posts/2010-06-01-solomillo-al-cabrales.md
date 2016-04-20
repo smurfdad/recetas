@@ -6,9 +6,8 @@ title: SOLOMILLO AL CABRALES
 categories:
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 6 
 ---
-<b>Tiempo</b> 6 minutos.
-
 <h3>Ingredientes</h3>
 4 filetes de solomillo gruesos
 

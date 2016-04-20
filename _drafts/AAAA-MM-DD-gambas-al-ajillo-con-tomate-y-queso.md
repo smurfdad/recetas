@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 1 
+tiempo_minutos: 1200 
 ---
-<b>Tiempo</b> 1200 minutos.
-
 <h3>Ingredientes</h3>
 una cazuela de barro
 

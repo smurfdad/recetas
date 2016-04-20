@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 4 
+tiempo_minutos: 18 
 ---
-<b>Tiempo</b> 18 minutos.
-
 <h3>Ingredientes</h3>
 1,5 kgr. de itsaskabra (cabracho)
 

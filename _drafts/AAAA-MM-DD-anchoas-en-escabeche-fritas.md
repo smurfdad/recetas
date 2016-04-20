@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 78 
 ---
-<b>Tiempo</b> 78 minutos.
-
 <h3>Ingredientes</h3>
 1 Kgr. de anchoas
 

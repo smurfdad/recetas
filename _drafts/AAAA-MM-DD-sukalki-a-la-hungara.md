@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 3/4 de Kilo de carne cortada en cubos de 3 o 4 cm.
 

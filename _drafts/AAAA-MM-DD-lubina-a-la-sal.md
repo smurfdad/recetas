@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 1 
+tiempo_minutos: 2700 
 ---
-<b>Tiempo</b> 2700 minutos.
-
 <h3>Ingredientes</h3>
 1 Lubina de 1/2 Kg.
 

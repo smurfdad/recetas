@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 10 
+tiempo_minutos: 20 
 ---
-<b>Tiempo</b> 20 minutos.
-
 <h3>Ingredientes</h3>
 1 queso crema de 250 gms.
 

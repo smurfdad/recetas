@@ -20,9 +20,8 @@ categories:
 
 - Pastas
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 3 o 4 laminas grande de lasaña.
 

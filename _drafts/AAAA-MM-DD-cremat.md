@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 36 
 ---
-<b>Tiempo</b> 36 minutos.
-
 <h3>Ingredientes</h3>
 4 tazas de cafe
 

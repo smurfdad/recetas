@@ -17,7 +17,6 @@ tags:
 - harina
 - huevo
 - caldo concentrado
-personas:{1}
 ---
 <h3>Ingredientes</h3>
 - 1/2 Kg. de carne picada

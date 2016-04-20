@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 16 hojas de pasta de canelones ya hecha.
 

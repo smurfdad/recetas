@@ -20,9 +20,8 @@ categories:
 
 - Arroces
 personas: 10 
+tiempo_minutos: 70 
 ---
-<b>Tiempo</b> 70 minutos.
-
 <h3>Ingredientes</h3>
 1 taza de arros extra largo
 

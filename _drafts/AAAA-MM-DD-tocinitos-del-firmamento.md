@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 5 
+tiempo_minutos: 30 
 ---
-<b>Tiempo</b> 30 minutos.
-
 <h3>Ingredientes</h3>
 250g azúcar
 

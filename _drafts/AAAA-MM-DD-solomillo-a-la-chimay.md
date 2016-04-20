@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 2 
+tiempo_minutos: 1800 
 ---
-<b>Tiempo</b> 1800 minutos.
-
 <h3>Ingredientes</h3>
 2 medallones de solomillo de ternera
 

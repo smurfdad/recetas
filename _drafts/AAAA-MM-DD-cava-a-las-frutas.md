@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 1 litro de zumo de frutas (naranja y piña, mejor natural, por lo menos el de naranja).
 

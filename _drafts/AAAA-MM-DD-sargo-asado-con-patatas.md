@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 5 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 2 sargos de 200 gramos cada uno.
 

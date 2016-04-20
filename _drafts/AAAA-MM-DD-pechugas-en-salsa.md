@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 10 
 ---
-<b>Tiempo</b> 10 minutos.
-
 <h3>Ingredientes</h3>
 2 pechugas cortadas en filetes
 

@@ -20,9 +20,8 @@ categories:
 
 - Sopas y cremas
 personas: 6 
+tiempo_minutos: 50 
 ---
-<b>Tiempo</b> 50 minutos.
-
 <h3>Ingredientes</h3>
 200 gramos de almendras crudas.
 

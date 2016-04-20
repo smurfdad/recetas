@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 40 
 ---
-<b>Tiempo</b> 40 minutos.
-
 <h3>Ingredientes</h3>
 12 patatas pequeñitas (aprox. al tamaño de una pelota de golf)
 

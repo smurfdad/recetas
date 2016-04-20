@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 24 
 ---
-<b>Tiempo</b> 24 minutos.
-
 <h3>Ingredientes</h3>
 Cebolletas tiernas de 2 a 3 centímetros de grosor cultivadas especialmente para ser asadas al rescoldo (UNAS 20 POR PERSONA)
 

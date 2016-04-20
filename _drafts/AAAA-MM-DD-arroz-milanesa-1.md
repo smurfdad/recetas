@@ -20,9 +20,8 @@ categories:
 
 - Arroces
 personas: 3 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 3 puñados de arroz por persona
 

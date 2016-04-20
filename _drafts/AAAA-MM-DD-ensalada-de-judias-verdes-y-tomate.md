@@ -20,9 +20,8 @@ categories:
 
 - Ensaladas
 personas: 4 
+tiempo_minutos: 12 
 ---
-<b>Tiempo</b> 12 minutos.
-
 <h3>Ingredientes</h3>
 500 grs. de judias verdes
 

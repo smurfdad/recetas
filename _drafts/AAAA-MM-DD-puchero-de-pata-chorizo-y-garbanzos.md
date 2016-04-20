@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 180 
 ---
-<b>Tiempo</b> 180 minutos.
-
 <h3>Ingredientes</h3>
 pata de ternera, 4
 

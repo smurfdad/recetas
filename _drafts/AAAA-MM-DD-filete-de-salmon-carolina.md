@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 35 
 ---
-<b>Tiempo</b> 35 minutos.
-
 <h3>Ingredientes</h3>
 1 filete ó lonja de salmon
 

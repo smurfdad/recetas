@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 2 cangrejos, aquí podríamos utilizar dos nécoras o un buey, los chinos usan cangrejos de los manglares (Scylla serrata), cangrejos nadadores (Liocarcius, también Portunus), cangrejos de cruz (Charybdis cruciata) o cangrejos chinos o guantes de lana, (creo que es el Eriocheir sinensis)
 

@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 6 
+tiempo_minutos: 35 
 ---
-<b>Tiempo</b> 35 minutos.
-
 <h3>Ingredientes</h3>
 1 Pollo de 1,8 Kg aprox.
 

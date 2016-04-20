@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 66 
 ---
-<b>Tiempo</b> 66 minutos.
-
 <h3>Ingredientes</h3>
 250 grs. de queso fresco tipo requesón
 

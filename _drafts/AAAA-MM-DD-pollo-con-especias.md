@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 35 
 ---
-<b>Tiempo</b> 35 minutos.
-
 <h3>Ingredientes</h3>
 4 o 6 trozos de pollo
 

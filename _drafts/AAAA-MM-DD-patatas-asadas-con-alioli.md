@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 15 
 ---
-<b>Tiempo</b> 15 minutos.
-
 <h3>Ingredientes</h3>
 6 patatas de tamaño mediano
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 10 
+tiempo_minutos: 55 
 ---
-<b>Tiempo</b> 55 minutos.
-
 <h3>Ingredientes</h3>
 5 manzanas grandes peladas y cortadas en rodajas
 

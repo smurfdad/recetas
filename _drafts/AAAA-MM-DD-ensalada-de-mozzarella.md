@@ -20,9 +20,8 @@ categories:
 
 - Ensaladas
 personas: 4 
+tiempo_minutos: 18 
 ---
-<b>Tiempo</b> 18 minutos.
-
 <h3>Ingredientes</h3>
 Medio kilo de queso mozzarella fresco.
 

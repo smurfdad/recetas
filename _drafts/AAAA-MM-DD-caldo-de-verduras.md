@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 126 
 ---
-<b>Tiempo</b> 126 minutos.
-
 <h3>Ingredientes</h3>
 1 puerro grande
 

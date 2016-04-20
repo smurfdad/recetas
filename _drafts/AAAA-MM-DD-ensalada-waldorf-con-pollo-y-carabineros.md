@@ -21,9 +21,8 @@ categories:
 - Ensaladas
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 Una bola de apio (o en su defecto un par de tallos)
 

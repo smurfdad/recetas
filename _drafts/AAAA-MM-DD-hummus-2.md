@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 18 
 ---
-<b>Tiempo</b> 18 minutos.
-
 <h3>Ingredientes</h3>
 Garbanzos remojados y cocidos o en conserva 1 taza
 

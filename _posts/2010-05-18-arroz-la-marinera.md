@@ -5,7 +5,6 @@ title: ARROZ A LA MARINERA
 
 categories:
 - Arroces
-personas:{1}
 ---
 <h3>Ingredientes</h3>
 1 Kg. de arroz

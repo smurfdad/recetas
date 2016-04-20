@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 8 
+tiempo_minutos: 360 
 ---
-<b>Tiempo</b> 360 minutos.
-
 <h3>Ingredientes</h3>
 1 pollo entero de 3 Kg. Aproximadamente
 

@@ -20,9 +20,8 @@ categories:
 
 - Arroces
 personas: 4 
+tiempo_minutos: 84 
 ---
-<b>Tiempo</b> 84 minutos.
-
 <h3>Ingredientes</h3>
 500 grs. de lentejas
 

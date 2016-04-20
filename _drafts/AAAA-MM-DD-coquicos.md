@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 18 
 ---
-<b>Tiempo</b> 18 minutos.
-
 <h3>Ingredientes</h3>
 12 huevos
 

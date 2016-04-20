@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 4 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 4 medallones de bonito de 200 g cada uno
 

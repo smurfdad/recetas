@@ -20,9 +20,8 @@ categories:
 
 - Arroces
 personas: 4 
+tiempo_minutos: 20 
 ---
-<b>Tiempo</b> 20 minutos.
-
 <h3>Ingredientes</h3>
 1 kg. de pierna de cordero deshuesada
 

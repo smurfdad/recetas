@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 6 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 85 grs. de harina
 

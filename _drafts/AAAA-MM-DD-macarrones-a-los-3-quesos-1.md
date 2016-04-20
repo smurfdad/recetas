@@ -20,9 +20,8 @@ categories:
 
 - Pastas
 personas: 2 
+tiempo_minutos: 15 
 ---
-<b>Tiempo</b> 15 minutos.
-
 <h3>Ingredientes</h3>
 250 gramos de macarrones aprox.
 

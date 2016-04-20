@@ -7,9 +7,8 @@ categories:
 - Huevos y lacteos
 - Postres y dulces
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 1 libra de fresas maduras
 

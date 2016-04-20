@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 54 
 ---
-<b>Tiempo</b> 54 minutos.
-
 <h3>Ingredientes</h3>
 4 Ossobuccos de Ternera
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 Un pollo troceado.
 

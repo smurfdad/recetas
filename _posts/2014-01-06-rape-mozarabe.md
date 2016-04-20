@@ -7,9 +7,8 @@ categories:
 - Pescados
 - Mariscos y moluscos
 personas: 4 
+tiempo_minutos: 30 
 ---
-<b>Tiempo</b> 30 minutos.
-
 <h3>Ingredientes</h3>
 1 Kilo de rape.
 

@@ -21,9 +21,8 @@ categories:
 - Pescados
 - Sopas y cremas
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 100 gr. de cebolla pelada y picada
 

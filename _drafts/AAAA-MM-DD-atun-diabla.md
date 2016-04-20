@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 3 
 ---
-<b>Tiempo</b> 3 minutos.
-
 <h3>Ingredientes</h3>
 1 cebolla grande
 

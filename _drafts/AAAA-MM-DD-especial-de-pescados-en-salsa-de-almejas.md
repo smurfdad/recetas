@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 pescado, 250 gr. de mero, lubina y rodaballo
 

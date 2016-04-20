@@ -20,9 +20,8 @@ categories:
 
 - Ensaladas
 personas: 6 
+tiempo_minutos: 15 
 ---
-<b>Tiempo</b> 15 minutos.
-
 <h3>Ingredientes</h3>
 6 tomates grandes
 

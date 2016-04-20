@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 4 
+tiempo_minutos: 50 
 ---
-<b>Tiempo</b> 50 minutos.
-
 <h3>Ingredientes</h3>
 1,5 kilos de merluza
 

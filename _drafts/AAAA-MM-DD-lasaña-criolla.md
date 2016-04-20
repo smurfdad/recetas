@@ -21,9 +21,8 @@ categories:
 - Carnes y derivados
 - Pastas
 personas: 4 
+tiempo_minutos: 45 
 ---
-<b>Tiempo</b> 45 minutos.
-
 <h3>Ingredientes</h3>
 1/2 libra de láminas de lasaña
 

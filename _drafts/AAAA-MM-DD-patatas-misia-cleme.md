@@ -18,9 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+tiempo_minutos: 10 
 ---
-<b>Tiempo</b> 10 minutos.
-
 <h3>Ingredientes</h3>
 6 Papas cocidas con cáscaras
 

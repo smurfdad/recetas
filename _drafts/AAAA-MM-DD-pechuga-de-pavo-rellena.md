@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 90 
 ---
-<b>Tiempo</b> 90 minutos.
-
 <h3>Ingredientes</h3>
 600 gramos pechuga de pavo, limpia.
 

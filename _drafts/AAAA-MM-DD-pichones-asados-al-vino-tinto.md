@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 2 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 4 pichones.
 

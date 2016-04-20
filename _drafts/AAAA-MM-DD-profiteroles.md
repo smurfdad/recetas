@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 72 
 ---
-<b>Tiempo</b> 72 minutos.
-
 <h3>Ingredientes</h3>
 1/4 litro de agua
 

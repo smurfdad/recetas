@@ -8,9 +8,8 @@ categories:
 - Sopas y cremas
 - Mariscos y moluscos
 personas: 8 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 400 gramos de rape.
 

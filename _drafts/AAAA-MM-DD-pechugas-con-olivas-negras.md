@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 12 
 ---
-<b>Tiempo</b> 12 minutos.
-
 <h3>Ingredientes</h3>
 4 pechugas de pavo o de pollo
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 6 cangrejos pequeños vivos, o 500 g. de carne de cangrejo y 6 conchas de vieira
 

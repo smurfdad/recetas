@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 160 
 ---
-<b>Tiempo</b> 160 minutos.
-
 <h3>Ingredientes</h3>
 400g de fresas maduras.
 

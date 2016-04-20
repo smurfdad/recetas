@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 87 
 ---
-<b>Tiempo</b> 87 minutos.
-
 <h3>Ingredientes</h3>
 800 grs. de lomo de cerdo
 

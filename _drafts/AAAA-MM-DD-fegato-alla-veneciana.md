@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 500 gramos hígado de ternera, cortado en lonchas de unos 5 milímetros y luego en tiras de 5 centímetros de ancho por 10 de largo.
 

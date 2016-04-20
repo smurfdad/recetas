@@ -20,9 +20,8 @@ categories:
 
 - Arroces
 personas: 4 
+tiempo_minutos: 10 
 ---
-<b>Tiempo</b> 10 minutos.
-
 <h3>Ingredientes</h3>
 6 huevos
 

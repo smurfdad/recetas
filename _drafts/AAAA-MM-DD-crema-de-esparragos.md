@@ -18,9 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 300 gr. de espárragos en conserva.
 

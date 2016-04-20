@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 3 
+tiempo_minutos: 24 
 ---
-<b>Tiempo</b> 24 minutos.
-
 <h3>Ingredientes</h3>
 3 medias noches
 

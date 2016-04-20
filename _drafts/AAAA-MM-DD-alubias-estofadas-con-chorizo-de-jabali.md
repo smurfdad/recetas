@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 400 gr. de alubias blancas en remojo durante 12 horas, 4 chorizos de jabalí semicurado, 100 gr. de setas de cardo, 1/2 cebolla, 1 zanahoria, 1 pimiento verde, 1 tomate, 1 chorrito de aceite de oliva, 1 hoja de laurel, 2 clavos de olor, sal.
 

@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 95 
 ---
-<b>Tiempo</b> 95 minutos.
-
 <h3>Ingredientes</h3>
 1 pollo de 3 libras, cortado en presas
 

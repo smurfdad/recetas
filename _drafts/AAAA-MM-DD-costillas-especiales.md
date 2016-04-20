@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 75 
 ---
-<b>Tiempo</b> 75 minutos.
-
 <h3>Ingredientes</h3>
 2 kilos de costillas de cerdo sin grasa
 

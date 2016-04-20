@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 12 
 ---
-<b>Tiempo</b> 12 minutos.
-
 <h3>Ingredientes</h3>
 3 Aguacates maduros
 

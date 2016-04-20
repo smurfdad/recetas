@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 1440 
 ---
-<b>Tiempo</b> 1440 minutos.
-
 <h3>Ingredientes</h3>
 1 kilo de alitas de pollo a trocitos
 

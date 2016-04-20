@@ -9,7 +9,6 @@ categories:
 tags:
 - Acelga
 - Patata
-personas:{1}
 ---
 <h3>Ingredientes</h3>
 - 1 1/2 Kg. acelgas

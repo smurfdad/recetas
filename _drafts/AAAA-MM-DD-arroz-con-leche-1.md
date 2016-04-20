@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
 
 - Arroces
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 120 gr. de arroz redondo.
 

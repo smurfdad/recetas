@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 1 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 180 gr. hígado de pato (por persona)
 

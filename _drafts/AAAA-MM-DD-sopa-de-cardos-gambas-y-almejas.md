@@ -20,9 +20,8 @@ categories:
 
 - Sopas y cremas
 personas: 8 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 1 kilo de cardos blancos.
 

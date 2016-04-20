@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 5 
+tiempo_minutos: 18 
 ---
-<b>Tiempo</b> 18 minutos.
-
 <h3>Ingredientes</h3>
 1/4 litro de aceite refinado
 

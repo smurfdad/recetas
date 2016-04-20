@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 90 
 ---
-<b>Tiempo</b> 90 minutos.
-
 <h3>Ingredientes</h3>
 500 grs. de almendras, peladas y trituradas
 

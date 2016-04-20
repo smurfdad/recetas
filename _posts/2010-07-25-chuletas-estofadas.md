@@ -6,9 +6,8 @@ title: CHULETAS ESTOFADAS
 categories:
 - Carnes y derivados
 personas: 6 
+tiempo_minutos: 45 
 ---
-<b>Tiempo</b> 45 minutos.
-
 <h3>Ingredientes</h3>
 6 chuletas de cerdo medianas
 

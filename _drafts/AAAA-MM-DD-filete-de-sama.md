@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 3 
+tiempo_minutos: 45 
 ---
-<b>Tiempo</b> 45 minutos.
-
 <h3>Ingredientes</h3>
 2.500 gramos de sama fresca
 

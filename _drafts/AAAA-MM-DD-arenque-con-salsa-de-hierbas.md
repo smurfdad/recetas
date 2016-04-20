@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 4 
+tiempo_minutos: 20 
 ---
-<b>Tiempo</b> 20 minutos.
-
 <h3>Ingredientes</h3>
 750 gramos de filet de arenque ahumado.
 

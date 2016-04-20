@@ -6,9 +6,8 @@ title: ALBÓNDIGAS DE RAÑO, ARAÑA O RESCACIO
 categories:
 - Pescados
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 1 Kg. de Raño, Araña o Rescacio
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 2 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 2 manitas de cerdo partidas por la mitad a lo largo
 

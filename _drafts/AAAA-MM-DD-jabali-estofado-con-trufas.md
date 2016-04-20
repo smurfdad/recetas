@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 138 
 ---
-<b>Tiempo</b> 138 minutos.
-
 <h3>Ingredientes</h3>
 600 grs. carne de jabalí a tacos
 

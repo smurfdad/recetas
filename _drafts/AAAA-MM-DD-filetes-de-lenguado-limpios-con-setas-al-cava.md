@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 2 
+tiempo_minutos: 27 
 ---
-<b>Tiempo</b> 27 minutos.
-
 <h3>Ingredientes</h3>
 1 lenguado (podemos pedir en la pescadería que nos saquen los filetes y nos reserven las raspas)
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
 
 - Ensaladas
+tiempo_minutos: 10 
 ---
-<b>Tiempo</b> 10 minutos.
-
 <h3>Ingredientes</h3>
 Berros, limpios la cantidad que desee de acuerdo a los comensales
 

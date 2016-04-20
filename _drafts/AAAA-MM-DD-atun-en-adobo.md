@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 4 
+tiempo_minutos: 30 
 ---
-<b>Tiempo</b> 30 minutos.
-
 <h3>Ingredientes</h3>
 1 kilo de atún fresco
 

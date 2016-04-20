@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 Aceite de oliva, abadejo desalado, ajos, hongos (boletus aereus), borraja, aceite del Bajo Aragón, sal.
 

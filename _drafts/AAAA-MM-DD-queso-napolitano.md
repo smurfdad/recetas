@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 70 
 ---
-<b>Tiempo</b> 70 minutos.
-
 <h3>Ingredientes</h3>
 250 grs de requeson o queso cottage.
 

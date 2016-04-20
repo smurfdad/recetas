@@ -20,9 +20,8 @@ categories:
 
 - Mariscos y moluscos
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 1 centollo de 1 de kilo.
 

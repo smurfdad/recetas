@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 2 
+tiempo_minutos: 6 
 ---
-<b>Tiempo</b> 6 minutos.
-
 <h3>Ingredientes</h3>
 1 cucharadita de mantequilla
 

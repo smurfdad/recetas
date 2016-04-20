@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 48 
 ---
-<b>Tiempo</b> 48 minutos.
-
 <h3>Ingredientes</h3>
 1,5 Kgr. de espinacas
 

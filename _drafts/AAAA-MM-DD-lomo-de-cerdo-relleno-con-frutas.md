@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 16 
+tiempo_minutos: 80 
 ---
-<b>Tiempo</b> 80 minutos.
-
 <h3>Ingredientes</h3>
 1 paquete de 6 onzas de mezcla para relleno de pollo
 

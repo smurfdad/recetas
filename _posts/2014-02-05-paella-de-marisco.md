@@ -7,9 +7,8 @@ categories:
 - Arroces
 - Mariscos y moluscos
 personas: 6 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 400 gr. de arroz
 

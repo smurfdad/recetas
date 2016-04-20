@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 6 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 pescado, 1,2 kg. de merluza, rodaballo, rape, corujo y/o abadejo
 

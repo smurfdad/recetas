@@ -20,9 +20,8 @@ categories:
 
 - Pastas
 personas: 6 
+tiempo_minutos: 54 
 ---
-<b>Tiempo</b> 54 minutos.
-
 <h3>Ingredientes</h3>
 400 grs. de Pasta: lacitos o farfale (mariposas).
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 90 
 ---
-<b>Tiempo</b> 90 minutos.
-
 <h3>Ingredientes</h3>
 1k de patitas
 

@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
 
 - Pastas
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 320 gr. de espaguetis (con verduras)
 

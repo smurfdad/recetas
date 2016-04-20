@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 1 trozo de cerdo deshuesado y sin corteza de 1 kg., como jamón, paletilla, lomo, magro, etc., con algo de tocino
 

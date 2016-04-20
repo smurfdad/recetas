@@ -20,9 +20,8 @@ tags:
 - pimentón
 - cilantro
 personas: 4 
+tiempo_minutos: 45 
 ---
-<b>Tiempo</b> 45 minutos.
-
 <h3>Ingredientes</h3>
 - 400 gr. de carne de ternera
 - 500 gr. de pasta

@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 6 
+tiempo_minutos: 30 
 ---
-<b>Tiempo</b> 30 minutos.
-
 <h3>Ingredientes</h3>
 6 pechugas de pollo deshuesadas
 

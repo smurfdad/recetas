@@ -20,9 +20,8 @@ categories:
 
 - Sopas y cremas
 personas: 6 
+tiempo_minutos: 20 
 ---
-<b>Tiempo</b> 20 minutos.
-
 <h3>Ingredientes</h3>
 2 cebollas grandes, cortadas en rebanadas
 

@@ -20,9 +20,8 @@ categories:
 
 - Ensaladas
 personas: 8 
+tiempo_minutos: 15 
 ---
-<b>Tiempo</b> 15 minutos.
-
 <h3>Ingredientes</h3>
 1 lechuga pequeña cortada en juliana
 

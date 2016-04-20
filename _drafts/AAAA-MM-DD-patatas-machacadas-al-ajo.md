@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 10 
+tiempo_minutos: 40 
 ---
-<b>Tiempo</b> 40 minutos.
-
 <h3>Ingredientes</h3>
 2 libras de mitades de patatas rojas
 

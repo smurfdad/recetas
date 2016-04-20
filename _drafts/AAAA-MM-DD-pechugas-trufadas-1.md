@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 8 
+tiempo_minutos: 78 
 ---
-<b>Tiempo</b> 78 minutos.
-
 <h3>Ingredientes</h3>
 1/2 Kgr. pechugas de pollo picadas
 

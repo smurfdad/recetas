@@ -18,9 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 Una pieza de Solomillo de 1/2 kilo
 

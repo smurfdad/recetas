@@ -21,9 +21,8 @@ categories:
 - Ensaladas
 - Mariscos y moluscos
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 200 gramos de gambas cocidas y peladas.
 

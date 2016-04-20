@@ -15,7 +15,6 @@ tags:
 - chorizo
 - tocino blanco
 - costilla
-personas:{1}
 ---
 <h3>Ingredientes</h3>
 - 1 Kg. alubias

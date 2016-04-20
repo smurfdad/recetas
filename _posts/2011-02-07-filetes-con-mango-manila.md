@@ -7,9 +7,8 @@ categories:
 - Pescados
 - Frutas
 personas: 6 
+tiempo_minutos: 30 
 ---
-<b>Tiempo</b> 30 minutos.
-
 <h3>Ingredientes</h3>
 6 filetes de pescado de tu preferencia
 

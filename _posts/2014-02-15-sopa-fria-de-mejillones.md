@@ -7,9 +7,8 @@ categories:
 - Sopas y cremas
 - Mariscos y moluscos
 personas: 4 
+tiempo_minutos: 57 
 ---
-<b>Tiempo</b> 57 minutos.
-
 <h3>Ingredientes</h3>
 750 grs de Mejillones.
 

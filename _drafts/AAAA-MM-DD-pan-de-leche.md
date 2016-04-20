@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 27 
 ---
-<b>Tiempo</b> 27 minutos.
-
 <h3>Ingredientes</h3>
 500 grs. de harina
 

@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 12 
+tiempo_minutos: 15 
 ---
-<b>Tiempo</b> 15 minutos.
-
 <h3>Ingredientes</h3>
 una lata de media crema nestle
 

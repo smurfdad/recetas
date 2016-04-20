@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 150 gr. ternera cortada en dados, cebolla, pimiento rojo cortado en trozos grandes, pimiento verde cortado en trozos grandes, berenjena cortada en dados, champiñón, sal y pimienta.
 

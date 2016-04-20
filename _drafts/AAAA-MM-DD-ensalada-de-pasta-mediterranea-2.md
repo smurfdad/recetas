@@ -21,9 +21,8 @@ categories:
 - Ensaladas
 - Pastas
 personas: 4 
+tiempo_minutos: 25 
 ---
-<b>Tiempo</b> 25 minutos.
-
 <h3>Ingredientes</h3>
 1 libra de pasta cruda tricolor
 

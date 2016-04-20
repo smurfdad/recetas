@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 65 
 ---
-<b>Tiempo</b> 65 minutos.
-
 <h3>Ingredientes</h3>
 1 pechuga de pavo entera
 

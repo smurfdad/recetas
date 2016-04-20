@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 2 
+tiempo_minutos: 70 
 ---
-<b>Tiempo</b> 70 minutos.
-
 <h3>Ingredientes</h3>
 4 filetes de merluza
 

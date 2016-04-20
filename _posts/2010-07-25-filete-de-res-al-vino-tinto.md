@@ -6,9 +6,8 @@ title: FILETE DE RES AL VINO TINTO
 categories:
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 20 
 ---
-<b>Tiempo</b> 20 minutos.
-
 <h3>Ingredientes</h3>
 500 grs Filete de Res
 

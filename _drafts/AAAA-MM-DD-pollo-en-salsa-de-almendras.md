@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 4 
+tiempo_minutos: 27 
 ---
-<b>Tiempo</b> 27 minutos.
-
 <h3>Ingredientes</h3>
 1 Kg. de pechuga de pollo cortada en daditos (se puede sustituir por cualquier otro tipo de carne).
 

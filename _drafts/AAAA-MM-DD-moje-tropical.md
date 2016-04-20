@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 42 
 ---
-<b>Tiempo</b> 42 minutos.
-
 <h3>Ingredientes</h3>
 8 cucharadas de mantequilla de cacahuete
 

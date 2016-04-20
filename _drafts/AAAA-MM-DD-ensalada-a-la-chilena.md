@@ -20,9 +20,8 @@ categories:
 
 - Ensaladas
 personas: 6 
+tiempo_minutos: 18 
 ---
-<b>Tiempo</b> 18 minutos.
-
 <h3>Ingredientes</h3>
 2 Cebollas grandes
 

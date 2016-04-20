@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 2 
+tiempo_minutos: 18 
 ---
-<b>Tiempo</b> 18 minutos.
-
 <h3>Ingredientes</h3>
 2 lomos de bacalao desalado
 

@@ -20,9 +20,8 @@ categories:
 
 - Ensaladas
 personas: 6 
+tiempo_minutos: 36 
 ---
-<b>Tiempo</b> 36 minutos.
-
 <h3>Ingredientes</h3>
 200 grs de Cous Cous
 

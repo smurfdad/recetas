@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 6 
+tiempo_minutos: 156 
 ---
-<b>Tiempo</b> 156 minutos.
-
 <h3>Ingredientes</h3>
 2 Kgr. de cochinillo
 

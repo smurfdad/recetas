@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 4 
+tiempo_minutos: 27 
 ---
-<b>Tiempo</b> 27 minutos.
-
 <h3>Ingredientes</h3>
 4 rodajas de salmón
 

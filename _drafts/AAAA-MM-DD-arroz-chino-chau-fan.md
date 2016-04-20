@@ -20,9 +20,8 @@ categories:
 
 - Arroces
 personas: 6 
+tiempo_minutos: 120 
 ---
-<b>Tiempo</b> 120 minutos.
-
 <h3>Ingredientes</h3>
 500 grs. de Arroz cocido de preferencia el día anterior (cocinado sin aceite y un poco de sal).
 

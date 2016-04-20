@@ -20,9 +20,8 @@ categories:
 
 - Pescados
 personas: 7 
+tiempo_minutos: 50 
 ---
-<b>Tiempo</b> 50 minutos.
-
 <h3>Ingredientes</h3>
 1 kg filete de merluza
 

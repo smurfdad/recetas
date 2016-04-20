@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
  
 personas: 8 
+tiempo_minutos: 420 
 ---
-<b>Tiempo</b> 420 minutos.
-
 <h3>Ingredientes</h3>
 1 vaso de azúcar
 

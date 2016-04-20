@@ -20,9 +20,8 @@ categories:
 
 - Carnes y derivados
 personas: 8 
+tiempo_minutos: 40 
 ---
-<b>Tiempo</b> 40 minutos.
-
 <h3>Ingredientes</h3>
 1 paquete Canelones
 

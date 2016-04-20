@@ -14,9 +14,8 @@ tags:
 - perejil
 - sal
 personas: 4 
+tiempo_minutos: 75 
 ---
-<b>Tiempo</b> 75 minutos.
-
 <h3>Ingredientes</h3>
 - 1 kg de caracoles
 - 1 cebolla

@@ -20,9 +20,8 @@ categories:
 
 - Mariscos y moluscos
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 1/2 kg. de pechugas de pavo en filetes no muy finos.
 

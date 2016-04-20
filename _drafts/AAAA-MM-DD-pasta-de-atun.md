@@ -19,9 +19,8 @@ categories:
 - Setas y hongos
 
 - Pastas
+tiempo_minutos: 15 
 ---
-<b>Tiempo</b> 15 minutos.
-
 <h3>Ingredientes</h3>
 1 lata de atún en agua
 

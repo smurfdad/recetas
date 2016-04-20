@@ -20,9 +20,8 @@ categories:
 
 - Sopas y cremas
 personas: 6 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 150 gr. de menudillos de ave
 

@@ -8,9 +8,8 @@ categories:
 - Sopas y cremas
 - Mariscos y moluscos
 personas: 8 
+tiempo_minutos: 50 
 ---
-<b>Tiempo</b> 50 minutos.
-
 <h3>Ingredientes</h3>
 1 kilo pescado (solo espinazos, cabezas )
 

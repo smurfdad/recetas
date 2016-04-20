@@ -20,9 +20,8 @@ categories:
 
 - Pastas
 personas: 4 
+tiempo_minutos: 60 
 ---
-<b>Tiempo</b> 60 minutos.
-
 <h3>Ingredientes</h3>
 500 g. de pasta de forma de tiburón de una buena marca
 
