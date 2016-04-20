@@ -6,8 +6,8 @@ title: HUEVOS FRIOS ELENA
 categories:
 - Pescados
 - Huevos y lacteos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 11 huevos

@@ -5,8 +5,8 @@ title: REDONDO DE CARNE PICADA
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 3/4 de kg. de carne picada de ternera o buey

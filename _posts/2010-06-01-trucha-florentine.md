@@ -5,8 +5,8 @@ title: TRUCHA FLORENTINE
 
 categories:
 - Pescados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 2 truchas limpias y preparadas

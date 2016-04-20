@@ -6,8 +6,8 @@ title: PASTEL DE MANZANA AL COULIS DE FRAMBUESAS
 categories:
 - Postres y dulces
 - Frutas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 manzanas reinetas

@@ -6,8 +6,8 @@ title: FLAN DE MANZANA
 categories:
 - Postres y dulces
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de manzanas

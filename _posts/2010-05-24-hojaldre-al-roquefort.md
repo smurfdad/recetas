@@ -5,8 +5,8 @@ title: HOJALDRE AL ROQUEFORT
 
 categories:
 - Huevos y lacteos
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. hojaldre congelado

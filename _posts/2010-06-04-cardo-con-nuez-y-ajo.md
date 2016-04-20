@@ -5,8 +5,8 @@ title: CARDO CON NUEZ Y AJO
 
 categories:
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 kilo de cardo

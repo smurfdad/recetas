@@ -5,8 +5,8 @@ title: MERLUZA A LA ONDARRESA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 rodajas de merluza, muy gruesas, del trozo cerrado

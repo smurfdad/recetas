@@ -6,8 +6,8 @@ title: CANELONES DE MARISCO
 categories:
 - Mariscos y moluscos
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 12 palitos de cangrejo

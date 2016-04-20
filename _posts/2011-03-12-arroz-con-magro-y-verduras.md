@@ -7,8 +7,8 @@ categories:
 - Verduras y legumbres
 - Arroces
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 400 gr. de arroz.

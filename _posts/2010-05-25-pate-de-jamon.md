@@ -5,8 +5,8 @@ title: PATE DE JAMÓN
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. jamón york

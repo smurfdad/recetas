@@ -6,8 +6,8 @@ title: SOPA DE MARISCOS
 categories:
 - Sopas y cremas
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 Pixin, cabres o pescado para guisos. 1/2kg

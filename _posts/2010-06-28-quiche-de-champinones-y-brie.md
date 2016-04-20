@@ -6,8 +6,8 @@ title: QUICHE DE CHAMPIÑONES Y BRIE
 categories:
 - Huevos y lacteos
 - Setas y hongos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 3/4 taza de champiñones (portabella, shittake), picados

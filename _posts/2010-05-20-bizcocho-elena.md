@@ -5,8 +5,8 @@ title: BIZCOCHO ELENA
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 huevos

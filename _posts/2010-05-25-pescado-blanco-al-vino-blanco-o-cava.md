@@ -6,8 +6,8 @@ title: PESCADO BLANCO AL VINO BLANCO O CAVA
 categories:
 - Pescados
 - Setas y hongos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de pescado blanco en lomos, sin piel ni espinas

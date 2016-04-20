@@ -9,8 +9,8 @@ tags:
 - huevos
 - leche
 - aceite de oliva
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 2 Kg de espárragos

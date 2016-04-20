@@ -5,8 +5,8 @@ title: SALSA ALL-I-OLI
 
 categories:
 - Salsas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 4 dientes de ajo

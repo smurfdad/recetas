@@ -5,8 +5,8 @@ title: POLLO EN CHILINDRÓN A LA NAVARRA
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 un pollo de kilo y medio

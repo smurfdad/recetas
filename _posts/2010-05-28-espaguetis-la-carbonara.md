@@ -5,8 +5,8 @@ title: ESPAGUETIS A LA CARBONARA
 
 categories:
 - Pastas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. spaguetis

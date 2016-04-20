@@ -5,8 +5,8 @@ title: GAZPACHO ANDALUZ
 
 categories:
 - Verduras y legumbres
+personas: 5 
 ---
-Para 5 personas.
 
 <b>Tiempo</b> 20 minutos.
 

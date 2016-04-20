@@ -6,8 +6,8 @@ title: CREMA DE AVE
 categories:
 - Sopas y cremas
 - Carnes y derivados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1/4 kg. zancarrón de buey

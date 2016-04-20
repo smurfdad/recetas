@@ -5,8 +5,8 @@ title: BISQUET DE GAMBAS
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 litro de fumeet de pescado

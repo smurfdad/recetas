@@ -5,8 +5,8 @@ title: SOLOMILLO TIPO ROAST-BEEF
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 trozo de solomillo de 1 kg. de peso

@@ -6,8 +6,8 @@ title: ESPAGUETIS CON SALMÓN
 categories:
 - Pescados
 - Pastas
+personas: 1 
 ---
-Para 1 personas.
 
 <h3>Ingredientes</h3>
 75 g de espaguetis finos

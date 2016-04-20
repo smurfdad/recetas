@@ -5,8 +5,8 @@ title: MERLUZA CON SALSA CHILI
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 filetes de merluza de 200 gr. cada uno

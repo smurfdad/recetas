@@ -15,9 +15,8 @@ tags:
 - perejil
 - sal
 - pimienta
+personas: 4 
 ---
-Para 4 personas.
-
 <h3>Ingredientes</h3>
 - 600 gramos de Bacalao seco.
 - 400 gramos de patatas, cortadas en forma de palitos como cerillas.

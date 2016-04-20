@@ -5,8 +5,8 @@ title: BISQUE DE PAPAS Y HIERBAS
 
 categories:
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 Cucharadas de aceite de oliva

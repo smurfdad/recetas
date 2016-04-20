@@ -7,8 +7,8 @@ categories:
 - Arroces
 - Carnes y derivados
 - Entrantes y bocadillos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 pimientos rojos, grandes y hermosos

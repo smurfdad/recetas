@@ -5,8 +5,8 @@ title: SALMÓN EN SALSA DE UVAS
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 Rodajas de Salmón fresco.

@@ -5,8 +5,8 @@ title: LENGUA DE TERNERA AL VINO TINTO
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 750 grs. de lengua de ternera

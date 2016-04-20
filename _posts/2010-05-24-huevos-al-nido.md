@@ -5,8 +5,8 @@ title: HUEVOS AL NIDO
 
 categories:
 - Huevos y lacteos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 rodajas pan de molde

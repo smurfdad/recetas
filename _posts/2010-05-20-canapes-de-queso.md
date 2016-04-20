@@ -6,8 +6,8 @@ title: CANAPÉS DE QUESO
 categories:
 - Huevos y lacteos
 - Entrantes y bocadillos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 pan de molde

@@ -5,8 +5,8 @@ title: ENSALADA CAPRESE
 
 categories:
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 lonchas de queso fresco, tipo burgos o requesón

@@ -7,8 +7,8 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Carnes y derivados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 24 pimientos verdes medianos

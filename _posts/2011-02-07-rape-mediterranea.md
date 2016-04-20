@@ -5,8 +5,8 @@ title: RAPE MEDITERRÁNEA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1.200 gr. de rape

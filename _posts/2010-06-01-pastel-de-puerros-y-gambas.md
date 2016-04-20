@@ -6,8 +6,8 @@ title: PASTEL DE PUERROS Y GAMBAS
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 puerros medianos limpios (1/2 kg aproximadamente)

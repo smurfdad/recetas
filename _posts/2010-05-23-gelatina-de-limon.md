@@ -5,8 +5,8 @@ title: GELATINA DE LIMÓN
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 sobre de gelatina de limón

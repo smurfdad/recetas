@@ -6,8 +6,8 @@ title: PASTEL DE ESPÁRRAGOS TRIGUEROS Y SALMÓN
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Masa:

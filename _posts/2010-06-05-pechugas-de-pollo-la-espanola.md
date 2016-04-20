@@ -5,8 +5,8 @@ title: PECHUGAS DE POLLO A LA ESPAÑOLA
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 8 pechugas

@@ -6,8 +6,8 @@ title: LENTEJAS A LA CREMA
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Lenteja pequeña, 1/4 kg

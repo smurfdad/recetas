@@ -5,8 +5,8 @@ title: PUDIN DE CARNE PICADA
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 750 grs. de carne picada

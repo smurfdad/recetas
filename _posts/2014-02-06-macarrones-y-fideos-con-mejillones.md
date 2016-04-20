@@ -6,8 +6,8 @@ title: MACARRONES Y FIDEOS CON MEJILLONES
 categories:
 - Mariscos y moluscos
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <b>Tiempo</b> 60 minutos.
 

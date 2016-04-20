@@ -6,8 +6,8 @@ title: CHEESECAKE DE FRESAS
 categories:
 - Huevos y lacteos
 - Postres y dulces
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.
 

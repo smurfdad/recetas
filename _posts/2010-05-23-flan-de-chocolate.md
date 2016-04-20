@@ -5,8 +5,8 @@ title: FLAN DE CHOCOLATE
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 bote pequeño de leche condensada

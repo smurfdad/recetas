@@ -5,8 +5,8 @@ title: CHORIZOS A LA PUMAROLA
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 6 chorizos

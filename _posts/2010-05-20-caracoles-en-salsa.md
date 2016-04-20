@@ -5,8 +5,8 @@ title: CARACOLES EN SALSA
 
 categories:
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 frascos grandes de caracoles ya limpios y cocidos

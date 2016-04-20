@@ -5,8 +5,8 @@ title: BIZCOCHO CON YOGUR
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 yogur de limón(o natural con ralladura de limón)

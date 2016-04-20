@@ -6,8 +6,8 @@ title: QUESO PHILADELPHIA CON FRESAS Y KIWI
 categories:
 - Huevos y lacteos
 - Frutas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 300 g de queso philadelphia

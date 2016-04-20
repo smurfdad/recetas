@@ -5,8 +5,8 @@ title: LECHE FRITA A LA CREMA DE JIJONA
 
 categories:
 - Postres y dulces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 litro de leche.

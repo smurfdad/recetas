@@ -5,8 +5,8 @@ title: PUDIN DE ESPÁRRAGOS
 
 categories:
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 lata mediana de puntas de espárragos

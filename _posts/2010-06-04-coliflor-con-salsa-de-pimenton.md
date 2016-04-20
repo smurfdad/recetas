@@ -5,8 +5,8 @@ title: COLIFLOR CON SALSA DE PIMENTÓN
 
 categories:
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 coliflor grande

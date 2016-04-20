@@ -6,8 +6,8 @@ title: LASAÑA DE SALMÓN
 categories:
 - Pescados
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 400 gr. de salmón fresco y limpio de piel y espinas

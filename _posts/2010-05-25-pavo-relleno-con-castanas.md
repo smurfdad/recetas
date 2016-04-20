@@ -5,8 +5,8 @@ title: PAVO RELLENO CON CASTAÑAS
 
 categories:
 - Carnes y derivados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 pavo de 2 1/2 kg.

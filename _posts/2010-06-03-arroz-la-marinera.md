@@ -6,8 +6,8 @@ title: ARROZ A LA MARINERA
 categories:
 - Pescados
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 aceite

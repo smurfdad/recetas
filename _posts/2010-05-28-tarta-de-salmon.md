@@ -5,8 +5,8 @@ title: TARTA DE SALMÓN
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/4 kg. de salmón fresco

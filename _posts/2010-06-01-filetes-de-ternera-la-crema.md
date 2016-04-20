@@ -5,8 +5,8 @@ title: FILETES DE TERNERA A LA CREMA
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 filetes de ternera de unos 200 gr (que sean gruesos)

@@ -6,8 +6,8 @@ title: TORTILLA PAISANA
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
+personas: 10 
 ---
-Para 10 personas.
 
 <h3>Ingredientes</h3>
 9 huevos

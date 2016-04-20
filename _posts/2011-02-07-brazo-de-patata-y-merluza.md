@@ -6,8 +6,8 @@ title: BRAZO DE PATATA Y MERLUZA
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 kilo de patatas.

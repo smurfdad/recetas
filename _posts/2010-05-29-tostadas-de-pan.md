@@ -5,8 +5,8 @@ title: TOSTADAS DE PAN
 
 categories:
 - Postres y dulces
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 2 barras de pan de tostadas o una barra grande del día anterior

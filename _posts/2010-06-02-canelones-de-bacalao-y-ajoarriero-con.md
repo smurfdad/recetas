@@ -6,8 +6,8 @@ title: CANELONES DE BACALAO Y AJOARRIERO CON VINAGRETA DE POCHAS Y LANGO
 categories:
 - Pescados
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 8 langostinos frescos pelados

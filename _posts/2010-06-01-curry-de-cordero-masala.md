@@ -5,8 +5,8 @@ title: CURRY DE CORDERO MASALA
 
 categories:
 - Carnes y derivados
+personas: 10 
 ---
-Para 10 personas.
 
 <h3>Ingredientes</h3>
 1 a 1 1/2 kilo de pulpa de cordero deshuesada

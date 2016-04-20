@@ -5,8 +5,8 @@ title: PASTA AL VINO
 
 categories:
 - Pastas
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>Tortelini de queso, carne o cualquier otra pasta rellena que nos guste.
 

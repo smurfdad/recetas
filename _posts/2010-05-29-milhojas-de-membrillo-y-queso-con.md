@@ -6,8 +6,8 @@ title: MILHOJAS DE MEMBRILLO Y QUESO CON HELADO DE LECHE DE OVEJA
 categories:
 - Huevos y lacteos
 - Postres y dulces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 400 gr de queso semicurado

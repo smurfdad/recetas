@@ -5,8 +5,8 @@ title: CHULETAS DE CERDO AL HORNO
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 chuletas de cerdo

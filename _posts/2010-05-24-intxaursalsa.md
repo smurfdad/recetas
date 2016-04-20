@@ -5,8 +5,8 @@ title: INTXAURSALSA
 
 categories:
 - Postres y dulces
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 l. de leche (o 1 de leche y 1/2 de nata líquida)

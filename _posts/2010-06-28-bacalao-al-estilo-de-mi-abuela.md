@@ -5,8 +5,8 @@ title: BACALAO AL ESTILO DE MI ABUELA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de bacalao

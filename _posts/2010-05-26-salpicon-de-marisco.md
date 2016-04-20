@@ -6,8 +6,8 @@ title: SALPICÓN DE MARISCO
 categories:
 - Pescados
 - Mariscos y moluscos
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 kg. chatka (o surimi)

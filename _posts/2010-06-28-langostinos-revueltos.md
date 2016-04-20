@@ -5,8 +5,8 @@ title: LANGOSTINOS REVUELTOS
 
 categories:
 - Mariscos y moluscos
+personas: 10 
 ---
-Para 10 personas.
 
 <h3>Ingredientes</h3>
 20 langostinos grandes

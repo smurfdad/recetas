@@ -6,8 +6,8 @@ title: CREMA NAVARRA
 categories:
 - Verduras y legumbres
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 750 gr coliflor

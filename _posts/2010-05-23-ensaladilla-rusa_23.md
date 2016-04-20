@@ -5,8 +5,8 @@ title: ENSALADILLA RUSA
 
 categories:
 - Ensaladas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 kg. ensaladilla congelada

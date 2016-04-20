@@ -6,8 +6,8 @@ title: PIMIENTOS ROJOS RELLENOS EN SALSA DE CHIPIRÓN
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/4 kg. rape

@@ -6,8 +6,8 @@ title: CUS CUS CON CARNE
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de carne para guisar troceada

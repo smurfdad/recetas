@@ -6,8 +6,8 @@ title: SOPA FRÍA DE MEJILLONES
 categories:
 - Sopas y cremas
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 57 minutos.
 

@@ -5,8 +5,8 @@ title: PATATAS AL AJILLO PARA ENSALADA
 
 categories:
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 patatas medianas

@@ -6,8 +6,8 @@ title: ARROZ Y LANGOSTA
 categories:
 - Arroces
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.
 

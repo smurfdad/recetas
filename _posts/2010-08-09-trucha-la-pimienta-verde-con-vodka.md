@@ -5,8 +5,8 @@ title: TRUCHA A LA PIMIENTA VERDE CON VODKA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 truchas de ración

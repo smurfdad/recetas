@@ -5,8 +5,8 @@ title: BONITO AL VINO Y AL LIMÓN
 
 categories:
 - Pescados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 Una rodaja de bonito gorda en un único trozo

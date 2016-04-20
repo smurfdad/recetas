@@ -7,8 +7,8 @@ categories:
 - Pescados
 - Sopas y cremas
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 cebolla

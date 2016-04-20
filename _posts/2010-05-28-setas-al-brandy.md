@@ -5,8 +5,8 @@ title: SETAS AL BRANDY
 
 categories:
 - Setas y hongos
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de setas de cultivo o 3 latas

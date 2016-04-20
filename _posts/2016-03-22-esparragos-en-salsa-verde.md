@@ -9,8 +9,8 @@ tags:
 - ajo
 - cebolla
 - perejil
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 2 kilos de espárragos frescos

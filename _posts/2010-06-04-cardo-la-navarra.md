@@ -5,8 +5,8 @@ title: CARDO A LA NAVARRA
 
 categories:
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 cardo de 1,5 Kg

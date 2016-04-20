@@ -5,8 +5,8 @@ title: BISTECS A LA CERVEZA
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de filetes

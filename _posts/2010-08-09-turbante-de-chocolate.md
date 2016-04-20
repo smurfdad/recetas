@@ -5,8 +5,8 @@ title: TURBANTE DE CHOCOLATE
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 4 huevos

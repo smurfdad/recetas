@@ -6,8 +6,8 @@ title: CONEJO CON ARROZ Y TRUFAS
 categories:
 - Arroces
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 conejo de monte de 1 Kg. aprox.

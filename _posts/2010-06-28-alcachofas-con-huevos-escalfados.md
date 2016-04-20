@@ -6,8 +6,8 @@ title: ALCACHOFAS CON HUEVOS ESCALFADOS
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 16 alcachofas

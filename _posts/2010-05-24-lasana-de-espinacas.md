@@ -6,8 +6,8 @@ title: LASAÑA DE ESPINACAS
 categories:
 - Verduras y legumbres
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 paquetes de placas de canelones sin cocción

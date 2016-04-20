@@ -19,8 +19,8 @@ tags:
 - pimienta
 - pimentón
 - cilantro
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 45 minutos.
 

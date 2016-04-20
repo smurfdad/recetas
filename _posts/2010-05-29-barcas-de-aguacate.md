@@ -5,8 +5,8 @@ title: BARCAS DE AGUACATE
 
 categories:
 - Frutas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 aguacates no muy grandes.

@@ -5,8 +5,8 @@ title: RAPE A LO HILDA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de rape en un trozo

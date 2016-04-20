@@ -5,8 +5,8 @@ title: ENSALADA DE JAMÓN SERRANO
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Jamón 400 grs serrano

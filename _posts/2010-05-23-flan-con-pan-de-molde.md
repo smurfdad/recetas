@@ -5,8 +5,8 @@ title: FLAN CON PAN DE MOLDE
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 rebanadas de pan de molde sin cortezas

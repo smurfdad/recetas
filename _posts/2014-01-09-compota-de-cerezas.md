@@ -6,8 +6,8 @@ title: COMPOTA DE CEREZAS
 categories:
 - Postres y dulces
 - Frutas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/2 kilo de cerezas grandes y maduras.

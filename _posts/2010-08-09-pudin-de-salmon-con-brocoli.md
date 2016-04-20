@@ -6,8 +6,8 @@ title: PUDIN DE SALMÓN CON BRÓCOLI
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/4 kg. de salmón freco en un trozo

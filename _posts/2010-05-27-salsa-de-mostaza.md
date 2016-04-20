@@ -5,8 +5,8 @@ title: SALSA DE MOSTAZA
 
 categories:
 - Salsas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 4 cucharadas de  yogur natural

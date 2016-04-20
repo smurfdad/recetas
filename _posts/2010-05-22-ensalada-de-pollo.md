@@ -5,8 +5,8 @@ title: ENSALADA DE POLLO
 
 categories:
 - Ensaladas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 pollo asado y troceado en cuadraditos(tijera)

@@ -6,8 +6,8 @@ title: SOPA DE PESCADO A LA COSTA BRAVA
 categories:
 - Pescados
 - Sopas y cremas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 600 gr. de cabeza de rape o merluza

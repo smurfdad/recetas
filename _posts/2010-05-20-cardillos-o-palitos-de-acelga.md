@@ -5,8 +5,8 @@ title: CARDILLOS O PALITOS DE ACELGA
 
 categories:
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de cardillos o las pencas de 1 kg. de acelgas

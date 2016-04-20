@@ -6,8 +6,8 @@ title: ENSALADA DE PIMIENTOS Y BACALAO
 categories:
 - Pescados
 - Ensaladas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 lata grande de pimientos piquillo extra

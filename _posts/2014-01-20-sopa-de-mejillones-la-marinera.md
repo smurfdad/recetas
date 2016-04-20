@@ -6,8 +6,8 @@ title: SOPA DE MEJILLONES A LA MARINERA
 categories:
 - Sopas y cremas
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 20 mejillones.

@@ -6,8 +6,8 @@ title: RAPE MOZÁRABE
 categories:
 - Pescados
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 30 minutos.
 

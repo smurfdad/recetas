@@ -5,8 +5,8 @@ title: CANGREJOS DE RIO EN SALSA
 
 categories:
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 30 cangrejos de rio (alrededor de 1 Kg)

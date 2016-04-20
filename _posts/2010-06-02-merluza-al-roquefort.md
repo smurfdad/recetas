@@ -5,8 +5,8 @@ title: MERLUZA AL ROQUEFORT
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 medallones de merluza de 200g,

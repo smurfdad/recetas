@@ -6,8 +6,8 @@ title: ARROZ CON PASAS Y GARBANZOS
 categories:
 - Verduras y legumbres
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 500 grs de arroz

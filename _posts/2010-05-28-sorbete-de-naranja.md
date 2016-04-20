@@ -5,8 +5,8 @@ title: SORBETE DE NARANJA
 
 categories:
 - Postres y dulces
+personas: 9 
 ---
-Para 9 personas.
 
 <h3>Ingredientes</h3>
 2 limones

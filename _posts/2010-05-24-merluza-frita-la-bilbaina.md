@@ -5,8 +5,8 @@ title: MERLUZA FRITA A LA BILBAÍNA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. merluza (en filetes, sin piel ni espinas)

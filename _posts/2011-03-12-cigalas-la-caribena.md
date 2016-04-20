@@ -5,8 +5,8 @@ title: CIGALAS A LA CARIBEÑA
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 12 cigalas cocidas

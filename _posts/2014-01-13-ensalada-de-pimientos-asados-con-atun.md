@@ -7,8 +7,8 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Ensaladas
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 2 pimientos rojos grandes, que al comprarlos comprobemos que tienen la carne dura.

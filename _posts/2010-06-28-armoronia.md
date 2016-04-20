@@ -5,8 +5,8 @@ title: ARMORONÍA
 
 categories:
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 trozo de medio kilo de calabaza partida en trozos

@@ -5,8 +5,8 @@ title: ENSALADA CALIENTE DE PATATA
 
 categories:
 - Ensaladas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 100gr. de Bacon cortado en tiritas

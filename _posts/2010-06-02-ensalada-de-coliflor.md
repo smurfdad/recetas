@@ -6,8 +6,8 @@ title: ENSALADA DE COLIFLOR
 categories:
 - Verduras y legumbres
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 coliflor mediana

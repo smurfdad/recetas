@@ -6,8 +6,8 @@ title: CREMA DE VERDURAS CON QUESO
 categories:
 - Verduras y legumbres
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 litro y 1/2 de agua

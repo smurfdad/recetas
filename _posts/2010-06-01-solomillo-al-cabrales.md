@@ -5,8 +5,8 @@ title: SOLOMILLO AL CABRALES
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 6 minutos.
 

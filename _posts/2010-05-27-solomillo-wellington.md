@@ -6,8 +6,8 @@ title: SOLOMILLO WELLINGTON
 categories:
 - Carnes y derivados
 - Setas y hongos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de solomillo de ternera o buey

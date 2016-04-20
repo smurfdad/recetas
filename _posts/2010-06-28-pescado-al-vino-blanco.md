@@ -5,8 +5,8 @@ title: PESCADO AL VINO BLANCO
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Dos filetes o cuatro medallones de merluza, pero sin piel y sin espinas.

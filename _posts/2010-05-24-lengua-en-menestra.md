@@ -6,8 +6,8 @@ title: LENGUA EN MENESTRA
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 lengua de ternera de 1 kg. aproximadamente

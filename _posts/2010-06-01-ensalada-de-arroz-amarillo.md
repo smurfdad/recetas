@@ -6,8 +6,8 @@ title: ENSALADA DE ARROZ AMARILLO
 categories:
 - Arroces
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 300 gramos de arroz

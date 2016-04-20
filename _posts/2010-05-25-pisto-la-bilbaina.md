@@ -5,8 +5,8 @@ title: PISTO A LA BILBAÍNA
 
 categories:
 - Verduras y legumbres
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. pimientos verdes

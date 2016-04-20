@@ -6,8 +6,8 @@ title: ENSALADA DE ENDIBIAS Y LANGOSTINOS
 categories:
 - Ensaladas
 - Mariscos y moluscos
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 1/2 lechuga

@@ -6,8 +6,8 @@ title: ENSALADA DE LENGUADO
 categories:
 - Pescados
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 3 filetes de lenguado

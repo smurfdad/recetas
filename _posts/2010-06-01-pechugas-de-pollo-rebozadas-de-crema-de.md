@@ -5,8 +5,8 @@ title: PECHUGAS DE POLLO REBOZADAS DE CREMA DE ESPÁRRAGOS
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 Pechugas sin filetear

@@ -5,8 +5,8 @@ title: CONGRIO EN SALSA DE PATATA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 rodajas de congrio de unos 250 gr.

@@ -5,8 +5,8 @@ title: CHULETAS ESTOFADAS
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <b>Tiempo</b> 45 minutos.
 

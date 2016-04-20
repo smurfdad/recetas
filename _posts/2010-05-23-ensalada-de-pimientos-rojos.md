@@ -5,8 +5,8 @@ title: ENSALADA DE PIMIENTOS ROJOS
 
 categories:
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 lata grande de pimientos de buena calidad

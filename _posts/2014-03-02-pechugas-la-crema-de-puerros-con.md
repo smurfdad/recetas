@@ -6,8 +6,8 @@ title: PECHUGAS A LA CREMA DE PUERROS CON PATATAS DORE
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 pechugas de pollo

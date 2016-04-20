@@ -6,8 +6,8 @@ title: CROQUETAS DE MANZANA
 categories:
 - Postres y dulces
 - Frutas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 150 grs. de harina

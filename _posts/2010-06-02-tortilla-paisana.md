@@ -6,8 +6,8 @@ title: TORTILLA PAISANA
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
+personas: 1 
 ---
-Para 1 personas.
 
 <h3>Ingredientes</h3>
 1 cucharada de cebolla

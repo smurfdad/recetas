@@ -5,8 +5,8 @@ title: CHULETAS DE CERDO DE SANDINIÉS
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 chuletas de cerdo un poco gruesas

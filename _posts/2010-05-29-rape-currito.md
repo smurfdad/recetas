@@ -5,8 +5,8 @@ title: RAPE CURRITO
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 800 gr. de rape

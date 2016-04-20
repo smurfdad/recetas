@@ -5,8 +5,8 @@ title: PATA DE CERDO ASADA
 
 categories:
 - Carnes y derivados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1/2 pata de cerdo (se puede sustituir por paletilla)

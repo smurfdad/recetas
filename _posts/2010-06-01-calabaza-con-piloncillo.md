@@ -5,8 +5,8 @@ title: CALABAZA CON PILONCILLO.
 
 categories:
 - Verduras y legumbres
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 1 calabaza grande

@@ -6,8 +6,8 @@ title: CHARLOTA DE PIÑA
 categories:
 - Postres y dulces
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 24 bizcochos de soletilla

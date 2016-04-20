@@ -5,8 +5,8 @@ title: TORTILLA SORPRESA (TORTILLA ALSAKA O SOUFFLÉ NORUEGO)
 
 categories:
 - Postres y dulces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Para el bizcocho:

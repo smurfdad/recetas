@@ -5,8 +5,8 @@ title: LANGOSTA A LA AMERICANA
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 medias langostas crudas

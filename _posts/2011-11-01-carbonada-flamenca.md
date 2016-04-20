@@ -5,8 +5,8 @@ title: CARBONADA FLAMENCA
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/4 de carne de aguja de ternera.

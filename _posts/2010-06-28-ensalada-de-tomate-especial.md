@@ -5,8 +5,8 @@ title: ENSALADA DE TOMATE ESPECIAL
 
 categories:
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 tomates de ensalada grandes

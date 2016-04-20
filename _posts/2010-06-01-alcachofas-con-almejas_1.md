@@ -6,8 +6,8 @@ title: ALCACHOFAS CON ALMEJAS
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 docena y media de alcachofas

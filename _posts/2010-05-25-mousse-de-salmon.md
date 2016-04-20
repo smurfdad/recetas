@@ -5,8 +5,8 @@ title: MOUSSE DE SALMÓN
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de salmón ahumado o marinado

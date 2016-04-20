@@ -6,8 +6,8 @@ title: RODABALLO AL HORNO CON HONGOS Y AJOS CONFITADOS
 categories:
 - Pescados
 - Setas y hongos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Rodaballo 2 kg

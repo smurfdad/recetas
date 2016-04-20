@@ -5,8 +5,8 @@ title: FILETE DE RES AL VINO TINTO
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 20 minutos.
 

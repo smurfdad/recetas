@@ -5,8 +5,8 @@ title: LANGOSTINOS COCIDOS
 
 categories:
 - Mariscos y moluscos
+personas: 12 
 ---
-Para 12 personas.
 
 <h3>Ingredientes</h3>
 2 kg. langostinos

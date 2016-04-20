@@ -5,8 +5,8 @@ title: PATATAS GRATINADAS CON QUESO GRUYERE
 
 categories:
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 patatas medianas cocidas con cáscara

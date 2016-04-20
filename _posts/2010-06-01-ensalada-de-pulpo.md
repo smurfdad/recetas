@@ -6,8 +6,8 @@ title: ENSALADA DE PULPO
 categories:
 - Ensaladas
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 Pulpo

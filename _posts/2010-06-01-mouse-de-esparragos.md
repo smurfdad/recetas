@@ -6,8 +6,8 @@ title: MOUSE DE ESPÁRRAGOS
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg de espárragos cocidos y escurridos

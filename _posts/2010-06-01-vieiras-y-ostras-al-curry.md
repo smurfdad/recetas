@@ -5,8 +5,8 @@ title: VIEIRAS Y OSTRAS AL CURRY
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 8 vieiras

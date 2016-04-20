@@ -5,8 +5,8 @@ title: PESCADO A LA CAZUELA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 kilo de pescado (rape, congrio, raya).

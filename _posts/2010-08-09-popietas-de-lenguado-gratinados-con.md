@@ -6,8 +6,8 @@ title: POPIETAS DE LENGUADO GRATINADOS CON LANGOSTINOS
 categories:
 - Pescados
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Lenguado 1,80 kg

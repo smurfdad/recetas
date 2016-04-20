@@ -11,8 +11,8 @@ tags:
 - perejil
 - aceite de oliva
 - sal
+personas: 5 
 ---
-Para 5 personas.
 
 <h3>Ingredientes</h3>
 - 1/2 Kg. arroz

@@ -6,8 +6,8 @@ title: HUEVOS CON CANGREJOS
 categories:
 - Huevos y lacteos
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 docena de cangrejos

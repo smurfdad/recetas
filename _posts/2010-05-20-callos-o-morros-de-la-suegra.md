@@ -5,8 +5,8 @@ title: CALLOS O MORROS DE LA SUEGRA
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de callos o morros

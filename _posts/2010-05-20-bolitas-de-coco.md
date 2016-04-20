@@ -5,8 +5,8 @@ title: BOLITAS DE COCO
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 200 grs. de coco rallado

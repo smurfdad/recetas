@@ -6,8 +6,8 @@ title: HUEVOS AL PLATO
 categories:
 - Huevos y lacteos
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 12 huevos

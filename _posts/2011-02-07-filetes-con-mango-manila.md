@@ -6,8 +6,8 @@ title: FILETES CON MANGO MANILA
 categories:
 - Pescados
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <b>Tiempo</b> 30 minutos.
 

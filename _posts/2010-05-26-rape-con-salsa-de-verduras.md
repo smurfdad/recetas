@@ -5,8 +5,8 @@ title: RAPE CON SALSA DE VERDURAS
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de rape sin espina, en rodajas.

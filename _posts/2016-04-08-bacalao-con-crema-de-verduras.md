@@ -13,8 +13,8 @@ tags:
 - Zanahorias enanas
 - Aceite de oliva
 - Sal
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 - 4 trozos de bacalao desalados

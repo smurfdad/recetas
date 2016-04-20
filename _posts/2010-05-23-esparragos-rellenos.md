@@ -6,8 +6,8 @@ title: ESPÁRRAGOS RELLENOS
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 12 espárragos muy gruesos

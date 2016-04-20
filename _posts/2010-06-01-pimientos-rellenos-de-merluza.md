@@ -6,8 +6,8 @@ title: PIMIENTOS RELLENOS DE MERLUZA
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 24 pimientos del piquillo

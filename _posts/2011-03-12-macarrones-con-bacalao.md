@@ -6,8 +6,8 @@ title: MACARRONES CON BACALAO
 categories:
 - Pescados
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de bacalao seco

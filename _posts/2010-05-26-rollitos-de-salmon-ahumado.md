@@ -5,8 +5,8 @@ title: ROLLITOS DE SALMÓN AHUMADO
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 500 grs. de salmón ahumado en filetes

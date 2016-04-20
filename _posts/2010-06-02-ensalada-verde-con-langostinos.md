@@ -6,8 +6,8 @@ title: ENSALADA VERDE CON LANGOSTINOS
 categories:
 - Ensaladas
 - Mariscos y moluscos
+personas: 1 
 ---
-Para 1 personas.
 
 <h3>Ingredientes</h3>
 6 langostinos pelados

@@ -5,8 +5,8 @@ title: MERO ASADO CON VINAGRETA DE TRUFA Y CEBOLLETA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Aceite de oliva 0,4&ordm; 150 ml

@@ -14,8 +14,8 @@ tags:
 - perejil.
 - de oliva
 - Sal
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 - 600 gramos de patatas.

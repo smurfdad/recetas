@@ -5,8 +5,8 @@ title: LOMO DE NEW YORK CON MANTEQUILLA DE QUESO STILTON
 
 categories:
 - Carnes y derivados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 2 filetes de lomo (N.Y. Strip) (8-10 onzas)

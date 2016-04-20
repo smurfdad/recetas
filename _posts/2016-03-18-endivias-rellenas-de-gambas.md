@@ -9,8 +9,8 @@ tags:
 - mayonesa
 - gambas
 - espárragos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 - 6 endivias

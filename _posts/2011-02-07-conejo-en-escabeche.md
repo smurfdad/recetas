@@ -5,8 +5,8 @@ title: CONEJO EN ESCABECHE
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 3 kg. de conejo

@@ -12,8 +12,8 @@ tags:
 - vinagre
 - nata
 - bizcochos de lengüeta
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 - 400 gramos de fresones

@@ -5,8 +5,8 @@ title: MIGAS A LA MURCIANA
 
 categories:
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 100 gr. de tocino

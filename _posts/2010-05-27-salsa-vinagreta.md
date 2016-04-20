@@ -5,8 +5,8 @@ title: SALSA VINAGRETA
 
 categories:
 - Salsas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 150 grs. de aceite de oliva

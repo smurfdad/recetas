@@ -6,8 +6,8 @@ title: HUEVOS REVUELTOS CON BACALAO
 categories:
 - Pescados
 - Huevos y lacteos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 12 huevos

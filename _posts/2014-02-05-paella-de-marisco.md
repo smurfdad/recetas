@@ -6,8 +6,8 @@ title: PAELLA DE MARISCO
 categories:
 - Arroces
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <b>Tiempo</b> 60 minutos.
 

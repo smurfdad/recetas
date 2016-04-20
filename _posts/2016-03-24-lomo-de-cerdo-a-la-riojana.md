@@ -15,8 +15,8 @@ tags:
 - pimienta blanca
 - harina
 - consomé
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 600 gr lomo en una pieza

@@ -5,8 +5,8 @@ title: CALAMARES CON PATATAS
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 kilogramo de calamares troceados

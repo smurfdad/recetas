@@ -6,8 +6,8 @@ title: TOSTA NORUEGA
 categories:
 - Pescados
 - Huevos y lacteos
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 100 grs. salmón ahumado (pueden ser restos)

@@ -5,8 +5,8 @@ title: FILETES DE BACALAO RELLENO DE SALMON
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 filetes de bacalao fresco

@@ -6,8 +6,8 @@ title: PECHUGA DE POLLO CON PIÑA
 categories:
 - Ensaladas
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 bote pequeño de piña en almíbar

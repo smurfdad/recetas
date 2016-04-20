@@ -5,8 +5,8 @@ title: EMPANADAS DE ESPINACAS Y RICOTTA
 
 categories:
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Para el relleno:

@@ -5,8 +5,8 @@ title: ROLLITOS DE JAMÓN CON ESPÁRRAGOS
 
 categories:
 - Entrantes y bocadillos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 8 Espárragos Blancos gordos de lata

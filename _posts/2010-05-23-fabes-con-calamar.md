@@ -6,8 +6,8 @@ title: FABES CON CALAMAR
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 500 grs. de fabes (alubia blanca grande)

@@ -5,8 +5,8 @@ title: POLLO AL AJILLO
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 kg. de alas de pollo, cortadas por la articulación o 2 pollos en trocitos

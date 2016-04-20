@@ -5,8 +5,8 @@ title: PECHUGA DE POLLO A LA VALENCIANA
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 pechugas de pollo

@@ -5,8 +5,8 @@ title: SALMÓN MARINADO
 
 categories:
 - Pescados
+personas: 10 
 ---
-Para 10 personas.
 
 <h3>Ingredientes</h3>
 1 salmón de 2 kg.

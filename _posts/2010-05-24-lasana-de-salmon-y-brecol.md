@@ -7,8 +7,8 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 4 patatas grandes cocidas en rodajas (en la olla rápida,7 minutos)

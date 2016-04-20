@@ -6,8 +6,8 @@ title: CANELONES DE CARNE
 categories:
 - Carnes y derivados
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 16 placas de canelones

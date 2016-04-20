@@ -5,8 +5,8 @@ title: RABO DE BUEY EN SALSA
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 rabos de buey

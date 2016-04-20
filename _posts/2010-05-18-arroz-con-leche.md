@@ -5,8 +5,8 @@ categories:
 - Arroces
 - Postres y dulces
 tags:
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 - 2 l. de leche

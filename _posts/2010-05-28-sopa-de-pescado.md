@@ -6,8 +6,8 @@ title: SOPA DE PESCADO
 categories:
 - Pescados
 - Sopas y cremas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. pescado (pueden ser también cabezas)

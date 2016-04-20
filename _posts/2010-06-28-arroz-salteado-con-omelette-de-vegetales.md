@@ -6,8 +6,8 @@ title: ARROZ SALTEADO CON OMELETTE DE VEGETALES
 categories:
 - Verduras y legumbres
 - Arroces
+personas: 7 
 ---
-Para 7 personas.
 
 <h3>Ingredientes</h3>
 3 cucharadas de aceite de girasol.

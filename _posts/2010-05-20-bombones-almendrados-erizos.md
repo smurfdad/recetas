@@ -5,8 +5,8 @@ title: BOMBONES ALMENDRADOS (ERIZOS)
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de cobertura de chocolate o sucedáneo

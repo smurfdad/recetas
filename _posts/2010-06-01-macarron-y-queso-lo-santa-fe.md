@@ -5,8 +5,8 @@ title: MACARRÓN Y QUESO A LO SANTA FE
 
 categories:
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 3 cucharada de mantequilla

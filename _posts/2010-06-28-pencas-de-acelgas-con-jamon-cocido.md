@@ -6,8 +6,8 @@ title: PENCAS DE ACELGAS CON JAMÓN COCIDO
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 2 kg. de acelgas hermosas y sanas (sólo se emplearán las pencas)

@@ -6,8 +6,8 @@ title: CANELONES DE MARISCO AL PIMENTÓN
 categories:
 - Mariscos y moluscos
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 12 canelones

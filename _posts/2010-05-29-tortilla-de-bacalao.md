@@ -6,8 +6,8 @@ title: TORTILLA DE BACALAO
 categories:
 - Pescados
 - Huevos y lacteos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 250 grs. bacalao remojado

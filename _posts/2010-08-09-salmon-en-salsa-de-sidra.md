@@ -5,8 +5,8 @@ title: SALMÓN EN SALSA DE SIDRA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 tarrina de 150 gr. de queso Philadelphia a las finas hierbas

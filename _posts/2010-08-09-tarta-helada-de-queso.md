@@ -6,8 +6,8 @@ title: TARTA HELADA DE QUESO
 categories:
 - Huevos y lacteos
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 500 grs. de nata líquida

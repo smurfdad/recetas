@@ -6,8 +6,8 @@ title: CREMA DE ESPÁRRAGOS
 categories:
 - Verduras y legumbres
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 litro de leche

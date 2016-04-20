@@ -6,8 +6,8 @@ title: ENSALADA DE FRUTAS
 categories:
 - Ensaladas
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 lata de piña

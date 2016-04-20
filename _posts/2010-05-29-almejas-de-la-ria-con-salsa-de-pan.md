@@ -5,8 +5,8 @@ title: ALMEJAS DE LA RIA CON SALSA DE PAN
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1Kg. de almejas de Busturia

@@ -6,8 +6,8 @@ title: CREMA DE CALABAZA
 categories:
 - Verduras y legumbres
 - Sopas y cremas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de calabaza pelada y troceada

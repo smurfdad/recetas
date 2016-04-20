@@ -5,8 +5,8 @@ title: PASTA A LAS FINAS HIERBAS
 
 categories:
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 300 g de pasta (caracoles, lazos, tallarines)

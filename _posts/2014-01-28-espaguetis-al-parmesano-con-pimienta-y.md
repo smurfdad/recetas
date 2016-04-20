@@ -5,8 +5,8 @@ title: ESPAGUETIS AL PARMESANO CON PIMIENTA Y CURRY
 
 categories:
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 500 g. de espaguetis

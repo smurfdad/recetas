@@ -5,8 +5,8 @@ title: CONEJO AL VINO RANCIO CON SETAS
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 muslos de conejo de monte

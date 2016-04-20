@@ -5,8 +5,8 @@ title: BACALAO CON PIMIENTOS
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 y 1/2 Kg. bacalao desmigado

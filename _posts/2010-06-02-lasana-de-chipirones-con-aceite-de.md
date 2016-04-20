@@ -6,8 +6,8 @@ title: LASAÑA DE CHIPIRONES CON ACEITE DE CEBOLLINO Y CHIPIRÓN
 categories:
 - Mariscos y moluscos
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 pimiento verde

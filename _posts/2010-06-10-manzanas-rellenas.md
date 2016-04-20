@@ -6,8 +6,8 @@ title: MANZANAS RELLENAS
 categories:
 - Carnes y derivados
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>12 manzanas reinetas.
 

@@ -6,8 +6,8 @@ title: CREPES RELLENOS DE QUESO BLANCO
 categories:
 - Huevos y lacteos
 - Postres y dulces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 75 gr. de harina

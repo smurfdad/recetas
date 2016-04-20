@@ -7,8 +7,8 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>8 lonchas de jamón
 

@@ -6,8 +6,8 @@ title: ENSALADA DE SALMÓN AL VODKA
 categories:
 - Pescados
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 10 minutos.
 

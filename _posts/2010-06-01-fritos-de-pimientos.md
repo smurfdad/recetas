@@ -6,8 +6,8 @@ title: FRITOS DE PIMIENTOS
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 lata de trozos de pimientos ó 300 gr de pimientos asados

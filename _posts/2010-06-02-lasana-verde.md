@@ -6,8 +6,8 @@ title: LASAÑA VERDE
 categories:
 - Verduras y legumbres
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 500 grs. de lasaña

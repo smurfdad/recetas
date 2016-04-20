@@ -6,8 +6,8 @@ title: ENSALADA DE LENTEJAS
 categories:
 - Verduras y legumbres
 - Ensaladas
+personas: 1 
 ---
-Para 1 personas.
 
 <b>Tiempo</b> 20 minutos.
 

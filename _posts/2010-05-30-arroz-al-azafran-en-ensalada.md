@@ -6,8 +6,8 @@ title: ARROZ AL AZAFRÁN EN ENSALADA
 categories:
 - Arroces
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 350 grs. de pimiento verde y rojo

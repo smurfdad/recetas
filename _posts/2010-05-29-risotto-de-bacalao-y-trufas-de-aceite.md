@@ -6,8 +6,8 @@ title: RISOTTO DE BACALAO Y TRUFAS DE ACEITE DE OLIVA VIRGEN
 categories:
 - Pescados
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 3 tajadas de bacalao de 100 gr.

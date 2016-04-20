@@ -6,8 +6,8 @@ title: POLLO CON PASTA
 categories:
 - Carnes y derivados
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 500 gr. de pollo troceado

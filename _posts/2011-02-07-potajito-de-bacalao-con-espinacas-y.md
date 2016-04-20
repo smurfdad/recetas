@@ -6,8 +6,8 @@ title: POTAJITO DE BACALAO CON ESPINACAS Y GARBANZOS
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 300 grs. de espinacas cocidas

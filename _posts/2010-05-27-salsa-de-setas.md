@@ -6,8 +6,8 @@ title: SALSA DE SETAS
 categories:
 - Salsas
 - Setas y hongos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/4 kg. de setas (pueden ser las de cultivo)

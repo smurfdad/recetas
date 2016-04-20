@@ -6,8 +6,8 @@ title: PERAS AL VINO
 categories:
 - Postres y dulces
 - Frutas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 6 peras de 300 gr

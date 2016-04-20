@@ -6,8 +6,8 @@ title: PASTEL DE ATÚN Y GARBANZOS
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 10 
 ---
-Para 10 personas.
 
 <h3>Ingredientes</h3>
 400 g. garbanzos cocidos

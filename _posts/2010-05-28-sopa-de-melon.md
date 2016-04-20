@@ -6,8 +6,8 @@ title: SOPA DE MELÓN
 categories:
 - Sopas y cremas
 - Frutas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 melón de 2 <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>kg</span>.

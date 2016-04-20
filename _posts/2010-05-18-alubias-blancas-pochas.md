@@ -13,8 +13,8 @@ tags:
 - ajo
 - aceite
 - pimentón
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 1/2 Kg. alubias blancas (o de la granja, grandes)

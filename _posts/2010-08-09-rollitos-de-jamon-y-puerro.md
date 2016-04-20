@@ -6,8 +6,8 @@ title: ROLLITOS DE JAMÓN Y PUERRO
 categories:
 - Pescados
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 12 lonchas de jamón cocido

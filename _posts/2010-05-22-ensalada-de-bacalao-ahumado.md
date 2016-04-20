@@ -6,8 +6,8 @@ title: ENSALADA DE BACALAO AHUMADO
 categories:
 - Pescados
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 250 grs. de bacalao ahumado en lonchas

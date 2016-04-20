@@ -5,8 +5,8 @@ title: FILETES DE TXITXARRO EN SALSA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 lomos de txitxarro grande

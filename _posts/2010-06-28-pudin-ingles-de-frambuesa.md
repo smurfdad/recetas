@@ -6,8 +6,8 @@ title: PUDÍN INGLÉS DE FRAMBUESA
 categories:
 - Postres y dulces
 - Frutas
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 3 tazas de frambuesas frescas

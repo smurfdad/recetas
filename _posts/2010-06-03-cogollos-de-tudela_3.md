@@ -5,8 +5,8 @@ title: COGOLLOS DE TUDELA
 
 categories:
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 cogollos

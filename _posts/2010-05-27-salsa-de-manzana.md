@@ -5,8 +5,8 @@ title: SALSA DE MANZANA
 
 categories:
 - Salsas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de manzanas a poder ser reineta

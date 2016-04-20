@@ -5,8 +5,8 @@ title: ROLLITOS DE JAMÓN YORK
 
 categories:
 - Carnes y derivados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 4 lonchas de Jamón York

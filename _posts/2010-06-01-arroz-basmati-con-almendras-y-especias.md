@@ -5,8 +5,8 @@ title: ARROZ BASMATI CON ALMENDRAS Y ESPECIAS
 
 categories:
 - Arroces
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 2 tazas de arroz basmati (400 gramos)

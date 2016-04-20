@@ -5,8 +5,8 @@ title: SARDINAS AL HORNO
 
 categories:
 - Pescados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de sardinas

@@ -7,8 +7,8 @@ categories:
 - Pescados
 - Ensaladas
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 aguacates maduros

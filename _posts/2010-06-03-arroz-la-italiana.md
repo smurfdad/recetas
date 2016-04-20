@@ -6,8 +6,8 @@ title: ARROZ A LA ITALIANA
 categories:
 - Arroces
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 160 gr arroz

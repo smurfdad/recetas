@@ -6,8 +6,8 @@ title: ENSALADA DE PASTA
 categories:
 - Ensaladas
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 paquete de pasta de colores

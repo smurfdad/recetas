@@ -5,8 +5,8 @@ title: SARDINAS O ANCHOAS A LA GUIPUZCOANA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de sardinas o anchoas

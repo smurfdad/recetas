@@ -6,8 +6,8 @@ title: HUEVOS CON ESPINACAS
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 huevos

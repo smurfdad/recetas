@@ -5,8 +5,8 @@ title: MERLUZA RELLENA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 cola de merluza de 1 kg. de peso

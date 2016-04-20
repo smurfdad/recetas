@@ -6,8 +6,8 @@ title: BECHAMEL PARA CROQUETAS
 categories:
 - Salsas
 - Huevos y lacteos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/4 l. de leche

@@ -7,8 +7,8 @@ categories:
 - Verduras y legumbres
 - Pastas
 - Setas y hongos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 250 gramos de espaguetis.

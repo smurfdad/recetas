@@ -5,8 +5,8 @@ title: BACALAO FRESCO CON ANCHOAS EN SALAZÓN
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 lomos de bacalao de ración

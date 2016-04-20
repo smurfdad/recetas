@@ -5,8 +5,8 @@ title: GUIARRA O LOMO DE CERDO CON LECHE
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de guiarra o lomo de cerdo en un trozo

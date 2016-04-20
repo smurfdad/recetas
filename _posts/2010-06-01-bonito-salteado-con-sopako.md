@@ -6,8 +6,8 @@ title: BONITO SALTEADO CON SOPAKO
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 400 gr. de bonito

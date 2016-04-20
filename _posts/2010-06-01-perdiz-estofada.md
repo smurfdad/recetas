@@ -5,8 +5,8 @@ title: PERDIZ ESTOFADA
 
 categories:
 - Carnes y derivados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 100 cc. de aceite

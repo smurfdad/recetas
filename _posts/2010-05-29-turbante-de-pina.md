@@ -6,8 +6,8 @@ title: TURBANTE DE PIÑA
 categories:
 - Postres y dulces
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 bote de piña de 8 rodajas.

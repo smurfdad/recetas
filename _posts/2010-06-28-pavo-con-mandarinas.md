@@ -5,8 +5,8 @@ title: PAVO CON MANDARINAS
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1,500 kg. de pavo (pata y pechuga)

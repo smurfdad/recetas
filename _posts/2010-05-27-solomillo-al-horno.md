@@ -5,8 +5,8 @@ title: SOLOMILLO AL HORNO
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 filetes de solomillo muy gruesos

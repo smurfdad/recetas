@@ -5,8 +5,8 @@ title: TARTA DE QUESO CON ARÁNDANOS
 
 categories:
 - Postres y dulces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 tarrinas de queso Philadelphia

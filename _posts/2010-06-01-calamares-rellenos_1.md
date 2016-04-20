@@ -6,8 +6,8 @@ title: CALAMARES RELLENOS
 categories:
 - Mariscos y moluscos
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 8 calamares medianos.

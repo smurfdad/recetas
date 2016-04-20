@@ -5,8 +5,8 @@ title: ESCALOPES DE TERNERA A LA CREMA
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 6 escalopes de ternera

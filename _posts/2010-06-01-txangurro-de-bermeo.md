@@ -5,8 +5,8 @@ title: TXANGURRO DE BERMEO
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 Centollos de 1 kg.

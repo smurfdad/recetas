@@ -6,8 +6,8 @@ title: CREMA DE AJOS FRESCOS Y CHAMPIÑONES
 categories:
 - Sopas y cremas
 - Setas y hongos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/2 kilo champiñones

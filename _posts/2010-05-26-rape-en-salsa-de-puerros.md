@@ -5,8 +5,8 @@ title: RAPE EN SALSA DE PUERROS
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de rape en un trozo

@@ -6,8 +6,8 @@ title: MILANESAS DE PAVO CON CHAMPIÑONES
 categories:
 - Carnes y derivados
 - Setas y hongos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 milanesas de pavo (1 cm de grueso)

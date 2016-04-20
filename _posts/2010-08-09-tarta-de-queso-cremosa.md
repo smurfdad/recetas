@@ -6,8 +6,8 @@ title: TARTA DE QUESO CREMOSA
 categories:
 - Huevos y lacteos
 - Postres y dulces
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 3 huevos

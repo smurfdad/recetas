@@ -5,8 +5,8 @@ title: POLLO PROVENCALE
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 Pechugas de pollo, deshuesadas y sin piel

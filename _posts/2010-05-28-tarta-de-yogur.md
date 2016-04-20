@@ -5,8 +5,8 @@ title: TARTA DE YOGUR
 
 categories:
 - Postres y dulces
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 9 hojas de gelatina fina

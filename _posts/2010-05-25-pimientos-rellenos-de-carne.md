@@ -6,8 +6,8 @@ title: PIMIENTOS RELLENOS DE CARNE
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 100 grs. de jamón o bacon

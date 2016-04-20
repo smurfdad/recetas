@@ -6,8 +6,8 @@ title: TIMBAL DE AJOS TIERNOS Y BACALAO
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Para el bacalao al pil-pil:

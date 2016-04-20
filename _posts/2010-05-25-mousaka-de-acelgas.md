@@ -6,8 +6,8 @@ title: MOUSAKA DE ACELGAS
 categories:
 - Verduras y legumbres
 - Setas y hongos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. acelgas

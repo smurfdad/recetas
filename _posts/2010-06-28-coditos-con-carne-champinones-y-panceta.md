@@ -5,8 +5,8 @@ title: CODITOS CON CARNE, CHAMPIÑONES Y PANCETA AHUMADA
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 500g de coditos

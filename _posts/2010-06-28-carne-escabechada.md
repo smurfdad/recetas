@@ -5,8 +5,8 @@ title: CARNE ESCABECHADA
 
 categories:
 - Carnes y derivados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 2 kg. de lomo de res

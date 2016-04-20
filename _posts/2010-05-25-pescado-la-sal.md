@@ -5,8 +5,8 @@ title: PESCADO A LA SAL
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de pescado (tiene que ser un pez entero)

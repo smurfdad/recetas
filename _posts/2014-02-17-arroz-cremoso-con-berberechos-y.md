@@ -6,8 +6,8 @@ title: ARROZ CREMOSO CON BERBERECHOS Y MEJILLONES
 categories:
 - Arroces
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 300 gr. de arroz de grano redondo

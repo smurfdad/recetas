@@ -6,8 +6,8 @@ title: PIMIENTOS RELLENOS DE CHATKA
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 lata y media de pimientos del piquillo

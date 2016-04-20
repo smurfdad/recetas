@@ -5,8 +5,8 @@ title: HUEVOS A LA MOSTAZA
 
 categories:
 - Huevos y lacteos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 12 huevos cocidos

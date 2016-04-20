@@ -6,8 +6,8 @@ title: SOPA DE HIGADILLOS
 categories:
 - Sopas y cremas
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <b>Tiempo</b> 60 minutos.
 

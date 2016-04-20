@@ -5,8 +5,8 @@ title: ROLLITOS DE POLLO
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de pechugas de pollo en filetes

@@ -5,8 +5,8 @@ title: PAELLA CASERA
 
 categories:
 - Arroces
+personas: 10 
 ---
-Para 10 personas.
 
 <h3>Ingredientes</h3>
 1 kg. arroz

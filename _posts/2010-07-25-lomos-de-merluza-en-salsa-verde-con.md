@@ -5,8 +5,8 @@ title: LOMOS DE MERLUZA EN SALSA VERDE CON ALMEJAS
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Merluza 0,78 kg

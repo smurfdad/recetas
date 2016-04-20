@@ -6,8 +6,8 @@ title: LASAÑA DE POLLO
 categories:
 - Carnes y derivados
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 paquete de placas de lasaña o de canelones

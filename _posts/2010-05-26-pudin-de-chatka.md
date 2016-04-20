@@ -5,8 +5,8 @@ title: PUDIN DE CHATKA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. chatka (o palitos de surimi)

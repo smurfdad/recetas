@@ -5,8 +5,8 @@ title: LOMO DE JABALI EN ADOBO, A LA PARRILLA CON CALABACIN
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>12 chuletas de jabalí
 

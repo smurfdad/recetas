@@ -9,8 +9,8 @@ tags:
 - Cebolla
 - Brandy
 - Comino
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 - 6 rodajas de salmón (aprox 900 gr.)

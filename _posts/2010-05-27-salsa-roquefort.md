@@ -5,8 +5,8 @@ title: SALSA ROQUEFORT
 
 categories:
 - Salsas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 250 grs. nata líquida

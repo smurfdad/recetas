@@ -5,8 +5,8 @@ title: TORTILLAS RELLENAS
 
 categories:
 - Huevos y lacteos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 4 huevos

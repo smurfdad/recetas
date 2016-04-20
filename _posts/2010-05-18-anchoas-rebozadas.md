@@ -9,8 +9,8 @@ categories:
 tags:
 - anchoas
 - huevo
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 1 Kg. anchoas

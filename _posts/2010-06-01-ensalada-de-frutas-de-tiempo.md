@@ -6,8 +6,8 @@ title: ENSALADA DE FRUTAS DE TIEMPO
 categories:
 - Ensaladas
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 peras

@@ -13,8 +13,8 @@ tags:
 - azafrán
 - perejil
 - sal
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 75 minutos.
 

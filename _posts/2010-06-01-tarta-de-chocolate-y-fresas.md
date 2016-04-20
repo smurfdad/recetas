@@ -6,8 +6,8 @@ title: TARTA DE CHOCOLATE Y FRESAS
 categories:
 - Postres y dulces
 - Frutas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 500 gr. de fresas del mismo tamaño más o menos

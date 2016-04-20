@@ -5,8 +5,8 @@ title: ATÚN A LA IMAGINACIÓN
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 120 gr.de atun

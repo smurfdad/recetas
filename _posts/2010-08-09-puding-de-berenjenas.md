@@ -6,8 +6,8 @@ title: PUDING DE BERENJENAS
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 3/4 kg. de berenjenas

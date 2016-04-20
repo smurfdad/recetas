@@ -5,8 +5,8 @@ title: ARROZ A LO PIEDMONT
 
 categories:
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 Cucharadas de aceite de oliva

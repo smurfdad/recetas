@@ -5,8 +5,8 @@ title: GUISADO DE CARNE A LA ESPAÑOLA
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.
 

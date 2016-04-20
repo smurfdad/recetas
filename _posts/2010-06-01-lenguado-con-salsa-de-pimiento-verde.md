@@ -5,8 +5,8 @@ title: LENGUADO CON SALSA DE PIMIENTO VERDE
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 lenguados de ración bien frescos

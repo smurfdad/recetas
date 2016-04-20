@@ -6,8 +6,8 @@ title: GRATINADO DE BACALAO FRESCO
 categories:
 - Pastas
 - Setas y hongos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 500 gr. de bacalao fresco

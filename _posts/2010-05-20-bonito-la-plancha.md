@@ -5,8 +5,8 @@ title: BONITO A LA PLANCHA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 rodajas de bonito

@@ -5,8 +5,8 @@ title: MACARRONES A LA ESPAÑOLA
 
 categories:
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/4 de macarrones

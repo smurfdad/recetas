@@ -5,8 +5,8 @@ title: TRUCHAS DEL ALTO TAJO
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 truchas asalmonadas

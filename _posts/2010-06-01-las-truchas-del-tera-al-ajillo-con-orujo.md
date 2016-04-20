@@ -5,8 +5,8 @@ title: LAS TRUCHAS DEL TERA AL AJILLO CON ORUJO
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 trucha de unos 750 gr.

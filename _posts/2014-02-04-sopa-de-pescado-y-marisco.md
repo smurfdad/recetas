@@ -7,8 +7,8 @@ categories:
 - Pescados
 - Sopas y cremas
 - Mariscos y moluscos
+personas: 8 
 ---
-Para 8 personas.
 
 <b>Tiempo</b> 60 minutos.
 

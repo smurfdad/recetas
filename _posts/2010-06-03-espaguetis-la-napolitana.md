@@ -5,8 +5,8 @@ title: ESPAGUETIS A LA NAPOLITANA
 
 categories:
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kilo de espaguetis

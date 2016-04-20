@@ -5,8 +5,8 @@ title: SOPA DE CEBOLLA
 
 categories:
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 cucharadas de aceite de oliva

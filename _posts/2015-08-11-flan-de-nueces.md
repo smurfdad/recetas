@@ -10,8 +10,8 @@ tags:
 - nueces
 - leche
 - caramelo líquido
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 9 yemas de huevo

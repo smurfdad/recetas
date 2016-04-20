@@ -5,8 +5,8 @@ title: COGOTE DE MERLUZA A LA VASCA
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 cogotes de merluza de 1kg

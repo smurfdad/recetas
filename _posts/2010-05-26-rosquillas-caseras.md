@@ -5,8 +5,8 @@ title: ROSQUILLAS CASERAS
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de harina

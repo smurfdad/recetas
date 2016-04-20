@@ -5,8 +5,8 @@ title: TRUCHAS ASALMONADAS AL HORNO
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 truchas de 750 grs. cada una

@@ -5,8 +5,8 @@ title: ENSALADA ESCANDINAVIA TROPICAL
 
 categories:
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 12 lonchas grandes de salmón ahumado

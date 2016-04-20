@@ -5,8 +5,8 @@ title: TARTA DE PHILADELPHIA, CHOCOLATE Y NARANJA
 
 categories:
 - Postres y dulces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 100 grs. de chocolate cobertura

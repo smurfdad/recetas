@@ -6,8 +6,8 @@ title: PIMIENTOS ROJOS CON ANCHOAS
 categories:
 - Pescados
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 lata grande de pimientos del piquillo

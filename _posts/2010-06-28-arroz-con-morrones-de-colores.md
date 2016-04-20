@@ -6,8 +6,8 @@ title: ARROZ CON MORRONES DE COLORES
 categories:
 - Verduras y legumbres
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 250g de arroz

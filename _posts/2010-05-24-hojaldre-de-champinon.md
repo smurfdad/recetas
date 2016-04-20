@@ -6,8 +6,8 @@ title: HOJALDRE DE CHAMPIÑÓN
 categories:
 - Verduras y legumbres
 - Setas y hongos
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. pasta de hojaldre

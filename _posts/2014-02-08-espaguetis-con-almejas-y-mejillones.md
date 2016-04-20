@@ -6,8 +6,8 @@ title: ESPAGUETIS CON ALMEJAS Y MEJILLONES
 categories:
 - Mariscos y moluscos
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.
 

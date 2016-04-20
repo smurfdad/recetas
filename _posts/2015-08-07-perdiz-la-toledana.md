@@ -13,8 +13,8 @@ tags:
 - pimienta negra
 - tomillo
 - Sal
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 6 perdices rojas de 300 gr.

@@ -5,8 +5,8 @@ title: BERENJENAS RELLENAS DE VERDURAS
 
 categories:
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 3 berenjenas

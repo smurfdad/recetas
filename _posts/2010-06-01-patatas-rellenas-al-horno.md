@@ -5,8 +5,8 @@ title: PATATAS RELLENAS AL HORNO
 
 categories:
 - Verduras y legumbres
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 8 ó 10 patatas

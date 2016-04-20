@@ -5,8 +5,8 @@ title: MEJILLONES RELLENOS
 
 categories:
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. mejillones

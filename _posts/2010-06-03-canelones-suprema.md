@@ -5,8 +5,8 @@ title: CANELONES SUPREMA
 
 categories:
 - Pastas
+personas: 5 
 ---
-Para 5 personas.
 
 <h3>Ingredientes</h3>
 1 caja de canelones

@@ -5,8 +5,8 @@ title: SALSA AJOACEITE
 
 categories:
 - Salsas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 cabeza de ajos crudos y pelados

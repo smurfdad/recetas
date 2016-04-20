@@ -6,8 +6,8 @@ title: CROQUETAS DE ARROZ
 categories:
 - Arroces
 - Entrantes y bocadillos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 500 gr. de Arroz

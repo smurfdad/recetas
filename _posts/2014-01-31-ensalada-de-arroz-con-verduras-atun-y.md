@@ -6,8 +6,8 @@ title: ENSALADA DE ARROZ CON VERDURAS, ATÚN Y JAMÓN
 categories:
 - Arroces
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de arroz de grano largo

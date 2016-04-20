@@ -6,8 +6,8 @@ title: CAKE DE ARROZ
 categories:
 - Arroces
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 libra y media de arroz

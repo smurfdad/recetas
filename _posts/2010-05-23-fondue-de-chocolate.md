@@ -5,8 +5,8 @@ title: FONDUE DE CHOCOLATE
 
 categories:
 - Postres y dulces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 250 grs. de chocolate de hacer

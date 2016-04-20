@@ -6,8 +6,8 @@ title: CANELONES DE BONITO
 categories:
 - Pescados
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 caja de canelones

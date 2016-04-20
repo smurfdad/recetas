@@ -6,8 +6,8 @@ title: PUDDING DE FRUTAS
 categories:
 - Postres y dulces
 - Frutas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 l. de leche

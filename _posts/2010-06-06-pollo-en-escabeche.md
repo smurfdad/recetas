@@ -5,8 +5,8 @@ title: POLLO EN ESCABECHE
 
 categories:
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 pollo de 1,200 Kg

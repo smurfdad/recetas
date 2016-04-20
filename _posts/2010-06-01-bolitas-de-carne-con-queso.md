@@ -6,8 +6,8 @@ title: BOLITAS DE CARNE, CON QUESO
 categories:
 - Huevos y lacteos
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de carne de ternera picada

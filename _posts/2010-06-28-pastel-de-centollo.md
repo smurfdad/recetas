@@ -5,8 +5,8 @@ title: PASTEL DE CENTOLLO
 
 categories:
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Un centollo del cantábrico como de un kilo de peso

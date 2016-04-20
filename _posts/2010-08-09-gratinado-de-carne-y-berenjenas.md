@@ -6,8 +6,8 @@ title: GRATINADO DE CARNE Y BERENJENAS
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 300 gr. de carne picada

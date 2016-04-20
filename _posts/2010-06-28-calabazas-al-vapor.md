@@ -6,8 +6,8 @@ title: CALABAZAS AL VAPOR
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 5 calabacitas (cambray)

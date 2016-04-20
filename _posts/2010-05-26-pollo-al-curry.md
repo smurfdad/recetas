@@ -5,8 +5,8 @@ title: POLLO AL CURRY
 
 categories:
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de trocitos de pollo o alas cortadas por la articulación

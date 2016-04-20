@@ -5,8 +5,8 @@ title: LOMOS DE MERLUZA RELLENOS
 
 categories:
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 lomos de merluza de unos 200 gr.

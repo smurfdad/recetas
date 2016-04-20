@@ -5,8 +5,8 @@ title: MERLUZA EN LOMOS A LA VIZCAÍNA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 kg. de merluza en lomos gruesos

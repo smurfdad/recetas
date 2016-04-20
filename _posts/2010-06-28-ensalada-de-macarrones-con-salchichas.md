@@ -7,8 +7,8 @@ categories:
 - Ensaladas
 - Carnes y derivados
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 paquete de 227 grms. (8 onzas) de pasta corta en forma de caracoles o similar

@@ -5,8 +5,8 @@ title: CARDO CON ALMENDRAS
 
 categories:
 - Verduras y legumbres
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 kilos de cardo

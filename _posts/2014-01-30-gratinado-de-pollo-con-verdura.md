@@ -5,8 +5,8 @@ title: GRATINADO DE POLLO CON VERDURA
 
 categories:
 - Carnes y derivados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 1 pechuga de pollo hermosa.

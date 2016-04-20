@@ -5,8 +5,8 @@ title: ROLLITOS DE MERLUZA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg. merluza para freír

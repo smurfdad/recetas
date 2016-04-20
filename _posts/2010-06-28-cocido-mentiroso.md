@@ -5,8 +5,8 @@ title: COCIDO MENTIROSO
 
 categories:
 - Verduras y legumbres
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 2 chayotes

@@ -5,8 +5,8 @@ title: HUEVOS AL PLATO FLAMENCA
 
 categories:
 - Huevos y lacteos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 bote de tomate frito

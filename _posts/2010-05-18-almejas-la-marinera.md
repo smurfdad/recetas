@@ -13,8 +13,8 @@ tags:
 - harina
 - aceite
 - perejil
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 - 1 Kg. almejas grandes

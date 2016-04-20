@@ -6,8 +6,8 @@ title: ARROZ CON VERDURAS
 categories:
 - Verduras y legumbres
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 alcachofas pequeñas peladas y cortadas en rozos (frotar con limón, para que no se ennegrezcan)

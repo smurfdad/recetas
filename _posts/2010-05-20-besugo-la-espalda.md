@@ -5,8 +5,8 @@ title: BESUGO A LA ESPALDA
 
 categories:
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 besugo de 1 1/2 kg.

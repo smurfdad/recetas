@@ -6,8 +6,8 @@ title: ENDIBIAS AL ROQUEFORT
 categories:
 - Ensaladas
 - Huevos y lacteos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 3 endibias
