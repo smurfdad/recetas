@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 un lomo de mero limpio y sin espinas ni piel de un kilo
 

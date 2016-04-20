@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 bote grande de tomates en conserva enteros
 

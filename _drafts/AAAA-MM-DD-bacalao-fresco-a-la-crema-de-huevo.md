@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 kilo de bacalao fresco cortado en lomos.
 

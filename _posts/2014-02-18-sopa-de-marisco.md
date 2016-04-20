@@ -9,7 +9,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 100 ccs de aceite
 

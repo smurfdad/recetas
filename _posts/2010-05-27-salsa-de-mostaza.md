@@ -7,7 +7,6 @@ categories:
 - Salsas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 4 cucharadas de  yogur natural
 

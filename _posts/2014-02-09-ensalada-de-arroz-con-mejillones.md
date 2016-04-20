@@ -9,7 +9,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 400 g de arroz de grano largo
 

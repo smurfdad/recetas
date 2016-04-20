@@ -7,7 +7,6 @@ categories:
 - Salsas
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1 cabeza de ajos crudos y pelados
 

@@ -8,7 +8,6 @@ categories:
 - Postres y dulces
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 500 grs. de nata líquida
 

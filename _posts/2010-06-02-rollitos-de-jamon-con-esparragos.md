@@ -7,7 +7,6 @@ categories:
 - Entrantes y bocadillos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 8 Espárragos Blancos gordos de lata
 

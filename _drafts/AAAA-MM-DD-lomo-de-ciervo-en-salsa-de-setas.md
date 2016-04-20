@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 18 filetes de tomo de ciervo de 75 gr.
 

@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 500 g de higaditos de pollo
 

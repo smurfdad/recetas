@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 250 a 300 gr de queso de tipo Burgos
 

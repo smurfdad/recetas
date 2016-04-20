@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Media barra de pan del día anterior
 

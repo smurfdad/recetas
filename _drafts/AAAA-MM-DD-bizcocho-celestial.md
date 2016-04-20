@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 paquete de mezcla de Pudín 5 minutos ROYAL sabor vainilla
 

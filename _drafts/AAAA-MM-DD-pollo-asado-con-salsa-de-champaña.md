@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1/4 de taza de aceite DELEITE.
 

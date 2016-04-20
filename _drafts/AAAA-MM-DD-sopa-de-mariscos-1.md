@@ -22,7 +22,6 @@ categories:
 - Mariscos y moluscos
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 Para el caldo.
 

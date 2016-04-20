@@ -21,7 +21,6 @@ categories:
 - Pastas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 lata de atun de 500g
 

@@ -8,7 +8,6 @@ categories:
 - Sopas y cremas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 litro y 1/2 de agua
 

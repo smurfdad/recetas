@@ -7,7 +7,6 @@ categories:
 - Pastas
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 1 caja de canelones
 

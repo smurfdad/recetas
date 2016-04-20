@@ -22,7 +22,6 @@ categories:
 - Arroces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Arroz 1 taza por persona
 

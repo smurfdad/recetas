@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 1/2 tazas de arroz (330 Grs)
 

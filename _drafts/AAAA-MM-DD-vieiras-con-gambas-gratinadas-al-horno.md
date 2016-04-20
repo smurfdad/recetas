@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 8 vieiras de tamaño mediano (se pueden utilizar congeladas).
 

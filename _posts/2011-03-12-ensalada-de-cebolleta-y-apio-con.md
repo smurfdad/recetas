@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 400 gramos de cebolleta fresca.
 

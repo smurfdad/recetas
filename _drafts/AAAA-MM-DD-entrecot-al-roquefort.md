@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 lomos de buey de 180 a 200 g
 

@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 1/2 kg. merluza (en filetes, sin piel ni espinas)
 

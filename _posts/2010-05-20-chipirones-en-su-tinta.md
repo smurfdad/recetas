@@ -5,9 +5,8 @@ title: CHIPIRONES EN SU TINTA
 
 categories:
 - Mariscos y moluscos
+personas:{1}
 ---
-Para 4 personas.
-
 <h3>Ingredientes</h3>
 1 kg. chipirones limpios, dados la vuelta y rellenos con sus tentáculos.
 

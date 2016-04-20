@@ -20,7 +20,6 @@ categories:
  
 personas: 7 
 ---
-
 <h3>Ingredientes</h3>
 1 pan grande en rebanadas
 

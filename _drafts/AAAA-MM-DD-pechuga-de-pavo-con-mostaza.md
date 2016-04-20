@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 pechuga de pavo grande como para 4 personas
 

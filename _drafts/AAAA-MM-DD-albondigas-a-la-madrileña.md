@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 750 gr de carne de vaca picada
 

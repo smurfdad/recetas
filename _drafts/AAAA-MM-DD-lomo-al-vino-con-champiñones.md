@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kilo de lomo de cerdo fresco cortado en tacos.
 

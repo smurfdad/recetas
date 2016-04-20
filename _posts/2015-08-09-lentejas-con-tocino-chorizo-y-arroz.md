@@ -17,7 +17,6 @@ tags:
 - perejil
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 500 gr. de lentejas
 - 200 gr. de arroz integral

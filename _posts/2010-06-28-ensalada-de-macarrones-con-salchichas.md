@@ -9,7 +9,6 @@ categories:
 - Pastas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 paquete de 227 grms. (8 onzas) de pasta corta en forma de caracoles o similar
 

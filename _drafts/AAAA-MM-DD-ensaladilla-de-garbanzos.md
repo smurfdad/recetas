@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 400 gramos de garbanzos cocidos.
 

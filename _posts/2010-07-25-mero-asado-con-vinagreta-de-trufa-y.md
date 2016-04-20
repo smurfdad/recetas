@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Aceite de oliva 0,4&ordm; 150 ml
 

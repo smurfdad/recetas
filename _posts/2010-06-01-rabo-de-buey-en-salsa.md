@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 rabos de buey
 

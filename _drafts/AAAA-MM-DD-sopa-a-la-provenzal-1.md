@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 500 gr. de pescado blanco de varias clases, quitarles las cabezas y las espinas, reservar todo
 

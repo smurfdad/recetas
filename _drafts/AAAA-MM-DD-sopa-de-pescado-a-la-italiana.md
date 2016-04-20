@@ -22,7 +22,6 @@ categories:
 - Sopas y cremas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 750g de mejillones con caparazón
 

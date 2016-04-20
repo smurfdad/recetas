@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 rodajas de congrio de unos 250 gr.
 

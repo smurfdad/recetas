@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 4 truchas de 250 gr. cada una
 

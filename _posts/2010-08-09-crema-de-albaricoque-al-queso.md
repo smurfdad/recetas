@@ -9,7 +9,6 @@ categories:
 - Frutas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 tarrina de queso Philadelphia
 

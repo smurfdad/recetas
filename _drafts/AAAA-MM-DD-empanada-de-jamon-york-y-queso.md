@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 2 laminas de hojaldre del congelado o hecho en casa
 

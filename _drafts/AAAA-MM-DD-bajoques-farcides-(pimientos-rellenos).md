@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 pimientos rojos, grandes y lisos de aproximadamente 150 gr. cada uno
 

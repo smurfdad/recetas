@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 2 jamoncitos de pavo (250 grs cada uno)
 

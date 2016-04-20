@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 4 fanecas en filetes.
 

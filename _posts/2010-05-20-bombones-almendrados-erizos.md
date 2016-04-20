@@ -7,7 +7,6 @@ categories:
 - Postres y dulces
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kg. de cobertura de chocolate o sucedáneo
 

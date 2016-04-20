@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 24 pimientos del piquillo
 

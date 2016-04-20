@@ -14,7 +14,6 @@ tags:
 - aceite
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 1 kilo de guisantes
 - 150 gr de jamón serrano

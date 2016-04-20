@@ -21,7 +21,6 @@ categories:
 - Pastas
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 300 gms. de brócoli.
 

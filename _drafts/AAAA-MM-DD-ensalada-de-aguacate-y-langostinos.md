@@ -22,7 +22,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1/2 Kg. de langostinos. También valen congelados, los frescos aunque son más caros, realmente merece la pena.
 

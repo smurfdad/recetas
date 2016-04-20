@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 escalopas de ternera de 100 a 125 grs. cada uno
 

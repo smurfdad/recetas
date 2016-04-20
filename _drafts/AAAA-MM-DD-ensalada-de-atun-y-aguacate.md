@@ -22,7 +22,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 400 g. de atún o bonito del norte tres aguacates
 

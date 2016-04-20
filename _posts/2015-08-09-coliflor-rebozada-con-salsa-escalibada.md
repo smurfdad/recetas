@@ -17,7 +17,6 @@ tags:
 - tomate frito
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 1/2 Kg. de coliflor
 - sal

@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>

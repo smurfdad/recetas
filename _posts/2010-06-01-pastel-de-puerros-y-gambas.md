@@ -8,7 +8,6 @@ categories:
 - Mariscos y moluscos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 puerros medianos limpios (1/2 kg aproximadamente)
 

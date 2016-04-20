@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 cuatro lomos de salmón de 200 gramos sin espinas ni pieles
 

@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>6 perdices de 300 gr
 
 3 dl. de aceite

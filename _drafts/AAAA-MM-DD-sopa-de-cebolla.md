@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 50 gramos de mantequilla
 

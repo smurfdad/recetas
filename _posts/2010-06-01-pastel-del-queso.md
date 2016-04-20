@@ -8,7 +8,6 @@ categories:
 - Postres y dulces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 200 gr. de queso fresco
 

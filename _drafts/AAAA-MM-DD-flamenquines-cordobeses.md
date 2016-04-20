@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 filetes de jamón de cerdo fresco, de un dedo de grosor
 

@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 500 gramos de hongos lavados y desinfectados picados finitos.
 

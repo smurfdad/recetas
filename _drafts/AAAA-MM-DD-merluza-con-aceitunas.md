@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Merluza 1 kg limpia y sin cabeza
 

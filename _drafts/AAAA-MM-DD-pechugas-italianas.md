@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 3 pechugas de pollo deshuesadas
 

@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1 1/2 kg. de carne para guisar troceada
 

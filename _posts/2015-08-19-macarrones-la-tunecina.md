@@ -21,7 +21,6 @@ tags:
 - cilantro
 personas: 4 
 ---
-
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>

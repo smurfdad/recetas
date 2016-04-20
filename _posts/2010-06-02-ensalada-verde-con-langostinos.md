@@ -8,7 +8,6 @@ categories:
 - Mariscos y moluscos
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 6 langostinos pelados
 

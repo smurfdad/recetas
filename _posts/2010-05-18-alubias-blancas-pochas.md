@@ -15,7 +15,6 @@ tags:
 - pimentón
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 1/2 Kg. alubias blancas (o de la granja, grandes)
 - 3 granos de pimienta negra

@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 8 pescadillas (pijotas) pequeñas (150 gr. cada una)
 

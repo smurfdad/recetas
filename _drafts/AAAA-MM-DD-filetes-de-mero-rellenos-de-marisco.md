@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 800 gramos de filetes de mero
 

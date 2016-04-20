@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 100 g de hojas de ensalada variadas (lechuga, berros, lollo rosa)
 

@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1merluza de 1kg aprox. (cortada a supremas)
 

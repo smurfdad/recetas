@@ -7,7 +7,6 @@ categories:
 - Mariscos y moluscos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 frascos grandes de caracoles ya limpios y cocidos
 

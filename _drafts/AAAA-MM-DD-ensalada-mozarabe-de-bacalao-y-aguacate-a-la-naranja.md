@@ -22,7 +22,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 300 gr de bacalao desalado y limpio
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 100 gr. de carne de vacuno cortada a tiras muy finas.
 

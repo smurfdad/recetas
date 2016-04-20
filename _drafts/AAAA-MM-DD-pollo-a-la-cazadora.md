@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 900 gramos de pechugas de pollo (o piezas al gusto)
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 2 lbs. de zanahoria peladas y cosidas,pueden ser de las que ya vienen listas para comer
 

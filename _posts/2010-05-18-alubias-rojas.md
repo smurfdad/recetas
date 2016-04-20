@@ -15,9 +15,8 @@ tags:
 - chorizo
 - tocino blanco
 - costilla
+personas:{1}
 ---
-Para 10 personas.
-
 <h3>Ingredientes</h3>
 - 1 Kg. alubias
 - 1 cebolla

@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 20 
 ---
-
 <h3>Ingredientes</h3>
 INGREDIENTES PARA EL ADOBO.
 

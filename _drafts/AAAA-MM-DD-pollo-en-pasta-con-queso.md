@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 tarrina de 150 gr. de queso Philadelphia a las hierbas
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 chuletas de cerdo de unos 175 gr. cada una
 

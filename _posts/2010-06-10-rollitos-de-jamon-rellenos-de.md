@@ -9,7 +9,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>8 lonchas de jamón
 
 1/2 lechuga

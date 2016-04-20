@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 10 hojas de lechuga
 

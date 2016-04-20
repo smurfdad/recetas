@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 500 gr. de espárragos
 

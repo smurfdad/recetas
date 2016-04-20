@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 2 o 3 truchas por persona
 

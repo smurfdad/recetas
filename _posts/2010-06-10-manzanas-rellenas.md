@@ -8,7 +8,6 @@ categories:
 - Frutas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>12 manzanas reinetas.
 
 100 gr. de carne de cerdo picada.

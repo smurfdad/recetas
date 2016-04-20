@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 dorada de 1,250 kg.
 

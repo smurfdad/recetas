@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 1 lata de Garbanzos
 

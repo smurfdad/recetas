@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1/4 kg. de salmón freco en un trozo
 

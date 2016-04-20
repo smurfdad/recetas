@@ -20,7 +20,6 @@ categories:
  
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1 Kg. de leche cuajada o requesón
 

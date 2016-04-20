@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Lenteja pequeña, 1/4 kg
 

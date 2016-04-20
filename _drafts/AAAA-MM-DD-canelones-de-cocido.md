@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Carne cocida: lacón, ternera, costilla... sobrante del cocido
 

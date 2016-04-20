@@ -20,7 +20,6 @@ categories:
  
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 4 Aguacates maduros, pelados
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 panecillos de hamburguesas (u otro tipo de pan para hacer bocadillo).
 

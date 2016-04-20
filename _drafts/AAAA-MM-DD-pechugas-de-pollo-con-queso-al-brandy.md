@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 pechugas de pollo de 200 gr. cada una
 

@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 24 espárragos
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 paleta de cordero de 1,2 kg. deshuesada y desgrasada
 

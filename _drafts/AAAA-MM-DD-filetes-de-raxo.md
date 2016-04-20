@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 8 filetes finos de cinta de lomo de cerdo
 

@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 cardo de 1,5 Kg
 

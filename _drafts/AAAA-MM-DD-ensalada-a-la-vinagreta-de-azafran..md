@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 50 gramos de jamón de pato.
 

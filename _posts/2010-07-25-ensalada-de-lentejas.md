@@ -8,7 +8,6 @@ categories:
 - Ensaladas
 personas: 1 
 ---
-
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>

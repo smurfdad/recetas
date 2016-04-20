@@ -14,7 +14,6 @@ tags:
 - cebolla
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 1 kilo de espinacas
 - 3 dientes de ajo

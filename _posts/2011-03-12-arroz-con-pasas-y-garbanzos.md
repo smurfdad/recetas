@@ -8,7 +8,6 @@ categories:
 - Arroces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 500 grs de arroz
 

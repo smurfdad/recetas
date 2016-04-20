@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 350 gr. de hongos de la variedad Boletus (Edulis o Pinícola)
 

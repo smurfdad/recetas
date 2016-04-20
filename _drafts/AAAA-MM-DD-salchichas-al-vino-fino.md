@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 kg. de salchichas frescas de cerdo de carnicería
 

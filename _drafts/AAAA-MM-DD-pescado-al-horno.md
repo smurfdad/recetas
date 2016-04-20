@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 kg. palo rosado o cualquier otro pescado de buena carne
 

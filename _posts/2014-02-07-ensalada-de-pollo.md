@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 3 pechugas de pollo
 

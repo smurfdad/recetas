@@ -7,7 +7,6 @@ categories:
 - Huevos y lacteos
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kg. hojaldre congelado
 

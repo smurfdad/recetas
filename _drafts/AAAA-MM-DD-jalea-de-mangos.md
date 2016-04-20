@@ -20,7 +20,6 @@ categories:
  
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 8 mangos medianos verdes, pelados y picados
 

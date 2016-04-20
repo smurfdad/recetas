@@ -7,7 +7,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>16 ostras grandes
 
 100 ml. de cava brut

@@ -20,7 +20,6 @@ categories:
  
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 8 manzanas verdes ( que no sean rojas )
 

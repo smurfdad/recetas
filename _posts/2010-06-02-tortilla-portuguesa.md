@@ -7,7 +7,6 @@ categories:
 - Huevos y lacteos
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 1/2 cebolla
 

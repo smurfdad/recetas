@@ -17,7 +17,6 @@ tags:
 - consomé
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 600 gr lomo en una pieza
 - aceite

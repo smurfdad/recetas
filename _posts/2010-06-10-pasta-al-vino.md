@@ -7,7 +7,6 @@ categories:
 - Pastas
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>Tortelini de queso, carne o cualquier otra pasta rellena que nos guste.
 
 250 de nata

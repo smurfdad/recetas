@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 pavi pollo de kilo y medio
 

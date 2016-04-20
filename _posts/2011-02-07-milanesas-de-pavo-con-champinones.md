@@ -8,7 +8,6 @@ categories:
 - Setas y hongos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 milanesas de pavo (1 cm de grueso)
 

@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 lata de trozos de pimientos ó 300 gr de pimientos asados
 

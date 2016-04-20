@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 Una lechuga icerberg o un par de endivias grandes.
 

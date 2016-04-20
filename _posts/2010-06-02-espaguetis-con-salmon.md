@@ -8,7 +8,6 @@ categories:
 - Pastas
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 75 g de espaguetis finos
 

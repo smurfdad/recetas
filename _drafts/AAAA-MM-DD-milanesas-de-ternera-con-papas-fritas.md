@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 500g de nalga, bola de lomo, o cuadrada fileteada para milanesas
 

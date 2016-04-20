@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 750 grs. de rape
 

@@ -10,7 +10,6 @@ categories:
 - Setas y hongos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 200 g de calabacín.
 

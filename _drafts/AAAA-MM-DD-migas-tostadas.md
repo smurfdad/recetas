@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 y 1/2 bollo de pan bazo (del día anterior)
 

@@ -10,7 +10,6 @@ categories:
 - Frutas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 2 tazas de arroz salvaje cocido
 

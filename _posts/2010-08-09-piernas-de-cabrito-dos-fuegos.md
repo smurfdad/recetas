@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 2 piernas de cabrito recortado forma de jamón
 

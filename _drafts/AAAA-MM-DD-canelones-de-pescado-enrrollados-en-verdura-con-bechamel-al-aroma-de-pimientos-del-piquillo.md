@@ -22,7 +22,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Una lechuga o un repollo (al gusto)
 

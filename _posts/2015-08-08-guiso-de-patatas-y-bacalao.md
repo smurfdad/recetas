@@ -16,7 +16,6 @@ tags:
 - Sal
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 600 gramos de patatas.
 - 400 gramos de bacalao desalado.

@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Calamares: 1.000 grs. (limpios y troceados)
 

@@ -8,7 +8,6 @@ categories:
 - Huevos y lacteos
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 275 grs  bacalao
 

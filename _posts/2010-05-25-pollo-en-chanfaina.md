@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 pollo troceado o 6 muslos
 

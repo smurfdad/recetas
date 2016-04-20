@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 600 g de bacalao en tiras, limpio de piel y espinas, desalado
 

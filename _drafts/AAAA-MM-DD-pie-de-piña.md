@@ -20,7 +20,6 @@ categories:
  
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 jugo de piña (1 taza)
 

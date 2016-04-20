@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>1 l. de leche
 
 300 gr. de harina

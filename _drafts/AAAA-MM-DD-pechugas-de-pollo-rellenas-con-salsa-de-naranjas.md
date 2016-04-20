@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 1 Pechuga de pollo finitas
 

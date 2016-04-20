@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Unas tiras de bacalao desalado tras 24 horas de remojo, dos huevos frescos, la miga de dos rebanadas de pan de hogaza del día anterior, una patata grande, una cebolla mediana, un tomate mediano, un pimiento verde, un diente o dos de ajo, perejil picado, tres tazas de arroz, seis tazas de agua hirviendo, aceite para el sofrito, sal.
 

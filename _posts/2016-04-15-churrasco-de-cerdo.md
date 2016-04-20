@@ -13,7 +13,6 @@ tags:
 - Sal
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 - 1 kgr. de costilla de cerdo
 - Perejil picado

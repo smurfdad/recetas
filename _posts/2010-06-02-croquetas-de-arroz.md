@@ -8,7 +8,6 @@ categories:
 - Entrantes y bocadillos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 500 gr. de Arroz
 

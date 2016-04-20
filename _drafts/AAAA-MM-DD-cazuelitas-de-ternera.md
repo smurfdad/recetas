@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 250 gr. de morcillo de ternera (puede ser de sobras del cocido)
 

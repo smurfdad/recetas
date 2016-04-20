@@ -7,7 +7,6 @@ categories:
 - Arroces
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 1 kg. arroz
 

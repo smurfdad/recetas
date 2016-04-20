@@ -17,9 +17,8 @@ tags:
 - harina
 - huevo
 - caldo concentrado
+personas:{1}
 ---
-Para 6 personas.
-
 <h3>Ingredientes</h3>
 - 1/2 Kg. de carne picada
 - 1 trozo de miga de pan

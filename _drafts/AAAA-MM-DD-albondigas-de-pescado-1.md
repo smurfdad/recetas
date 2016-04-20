@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1/2 Kg. pescado congelado sin piel ni espinas
 

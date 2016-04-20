@@ -21,7 +21,6 @@ categories:
 - Pastas
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 1/2 cinta de lomo fresco de cerdo
 

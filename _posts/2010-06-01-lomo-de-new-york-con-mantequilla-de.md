@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 2 filetes de lomo (N.Y. Strip) (8-10 onzas)
 

@@ -8,7 +8,6 @@ categories:
 - Arroces
 personas: 7 
 ---
-
 <h3>Ingredientes</h3>
 3 cucharadas de aceite de girasol.
 

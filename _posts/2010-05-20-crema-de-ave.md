@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1/4 kg. zancarrón de buey
 

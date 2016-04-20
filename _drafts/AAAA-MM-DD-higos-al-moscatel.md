@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 12 higos secos, grandes y aplanados, 1 trozo de bizcocho casero o de horno de pueblo, 0,3 litros de moscatel de Encinacorba o Ainzón, 12 nueces peladas, natillas, nata montada.
 

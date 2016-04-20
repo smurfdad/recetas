@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 8 trozos de Bacalao de unos 75 g cada uno
 

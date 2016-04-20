@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 2 tazas de arroz
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 Una pierna de cordero de buen tamaño, si es grande mejor.
 

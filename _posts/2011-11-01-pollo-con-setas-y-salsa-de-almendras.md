@@ -8,7 +8,6 @@ categories:
 - Setas y hongos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 pollo de unos 2 kilos.
 

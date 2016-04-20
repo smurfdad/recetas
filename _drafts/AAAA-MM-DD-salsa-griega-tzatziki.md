@@ -20,7 +20,6 @@ categories:
  
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 8 yogures naturales (si es posible griego)
 

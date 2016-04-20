@@ -8,7 +8,6 @@ categories:
 - Frutas
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 3 tazas de frambuesas frescas
 

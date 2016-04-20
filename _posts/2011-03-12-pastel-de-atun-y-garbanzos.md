@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 400 g. garbanzos cocidos
 

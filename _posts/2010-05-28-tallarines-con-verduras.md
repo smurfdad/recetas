@@ -9,7 +9,6 @@ categories:
 - Setas y hongos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kg. tallarines
 

@@ -7,7 +7,6 @@ categories:
 - Postres y dulces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 150 grs. de choclate de hacer
 

@@ -7,7 +7,6 @@ categories:
 tags:
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 - 2 l. de leche
 - 150 grs. de arroz

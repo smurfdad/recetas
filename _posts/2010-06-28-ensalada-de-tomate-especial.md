@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 tomates de ensalada grandes
 

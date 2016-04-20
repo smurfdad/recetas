@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 600 gramos de tallarines de una marca de primera calidad
 

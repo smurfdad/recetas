@@ -8,7 +8,6 @@ categories:
 - Arroces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 3 tajadas de bacalao de 100 gr.
 

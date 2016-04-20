@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 100 gr. de bacalao seco en salazón
 

@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 Aceite de oliva extra v&igrave;rgen
 

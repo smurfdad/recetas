@@ -7,7 +7,6 @@ categories:
 - Salsas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 150 grs. de aceite de oliva
 

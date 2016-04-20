@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 750 gr. de carne de pierna de cordero
 

@@ -8,7 +8,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Lenguado 1,80 kg
 

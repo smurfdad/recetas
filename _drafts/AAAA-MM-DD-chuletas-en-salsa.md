@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 4 chuletas de cerdo sin hueso
 

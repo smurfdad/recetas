@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 1 rodaja de bonito de aprox. 1/2 kg
 

@@ -7,7 +7,6 @@ categories:
 - Setas y hongos
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 250 gms. de champiñones es trozos.
 

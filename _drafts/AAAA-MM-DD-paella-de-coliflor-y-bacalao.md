@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 coliflor de 750 gr.
 

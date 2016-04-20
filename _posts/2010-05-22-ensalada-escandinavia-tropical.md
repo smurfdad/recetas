@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 12 lonchas grandes de salmón ahumado
 

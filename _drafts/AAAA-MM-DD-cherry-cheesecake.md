@@ -20,7 +20,6 @@ categories:
  
 personas: 12 
 ---
-
 <h3>Ingredientes</h3>
 10 paquetes de galleta maria
 

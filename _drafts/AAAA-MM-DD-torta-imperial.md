@@ -20,7 +20,6 @@ categories:
  
 personas: 20 
 ---
-
 <h3>Ingredientes</h3>
 500 gramos de mantequilla
 

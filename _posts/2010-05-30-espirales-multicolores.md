@@ -7,7 +7,6 @@ categories:
 - Pastas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 300 grs. de espirales multicolor
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 (Para 20 unidades)
 

@@ -7,7 +7,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Un centollo del cantábrico como de un kilo de peso
 

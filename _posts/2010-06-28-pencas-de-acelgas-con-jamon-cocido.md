@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 2 kg. de acelgas hermosas y sanas (sólo se emplearán las pencas)
 

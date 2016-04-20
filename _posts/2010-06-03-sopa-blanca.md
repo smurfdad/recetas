@@ -8,7 +8,6 @@ categories:
 - Sopas y cremas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 800 gr pescadilla congelada, ya limpia y sin piel
 

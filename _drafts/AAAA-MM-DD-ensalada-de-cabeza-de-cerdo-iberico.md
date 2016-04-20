@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 400 g. de cabeza de cerdo ibérico de Frial cortada en trozos de 1 cm.
 

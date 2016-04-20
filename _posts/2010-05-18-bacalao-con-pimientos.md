@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 y 1/2 Kg. bacalao desmigado
 

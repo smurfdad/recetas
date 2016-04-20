@@ -20,7 +20,6 @@ categories:
  
 personas: 7 
 ---
-
 <h3>Ingredientes</h3>
 6 huevos
 

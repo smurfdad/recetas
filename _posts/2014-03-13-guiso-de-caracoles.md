@@ -15,7 +15,6 @@ tags:
 - sal
 personas: 4 
 ---
-
 <b>Tiempo</b> 75 minutos.
 
 <h3>Ingredientes</h3>

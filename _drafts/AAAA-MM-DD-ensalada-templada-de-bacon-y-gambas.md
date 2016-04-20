@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 escarola grandecita y lo más blanca posible.
 

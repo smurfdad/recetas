@@ -8,7 +8,6 @@ categories:
 - Postres y dulces
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 3 huevos
 

@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 7 
 ---
-
 <h3>Ingredientes</h3>
 1 pollo tierno partido en piezas
 

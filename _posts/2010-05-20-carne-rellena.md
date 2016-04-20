@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 750 grs. de tapa para rellenar (pedir en la carnicería)
 

@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 Pimientos del Piquillo
 

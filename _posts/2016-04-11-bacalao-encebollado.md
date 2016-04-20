@@ -14,7 +14,6 @@ tags:
 - Harina
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 500 gr. de bacalao.
 - 1 Kg. de cebolla.

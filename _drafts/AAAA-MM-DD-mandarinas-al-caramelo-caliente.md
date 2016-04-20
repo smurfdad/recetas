@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 mandarinas, sin pepitas, 1/2 kg.
 

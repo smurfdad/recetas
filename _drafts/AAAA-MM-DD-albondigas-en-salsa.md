@@ -21,7 +21,6 @@ categories:
 - Pastas
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 200 grs de carne de ternera
 

@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 truchas de 750 grs. cada una
 

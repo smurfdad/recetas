@@ -8,7 +8,6 @@ categories:
 - Ensaladas
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1 lata grande de pimientos piquillo extra
 

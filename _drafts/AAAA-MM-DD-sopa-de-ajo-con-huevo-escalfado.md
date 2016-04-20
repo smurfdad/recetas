@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 250 gr. de pan de sopa (sopako) o pan de víspera
 

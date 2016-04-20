@@ -7,7 +7,6 @@ categories:
 - Setas y hongos
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1 kg. de setas de cultivo o 3 latas
 

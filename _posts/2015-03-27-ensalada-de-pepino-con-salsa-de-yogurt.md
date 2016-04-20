@@ -14,7 +14,6 @@ tags:
 - Sal
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 200 g de pepino.
 - 1 cebolla.

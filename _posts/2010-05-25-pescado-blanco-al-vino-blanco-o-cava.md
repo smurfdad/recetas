@@ -8,7 +8,6 @@ categories:
 - Setas y hongos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 1/2 kg. de pescado blanco en lomos, sin piel ni espinas
 

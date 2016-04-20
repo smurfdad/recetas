@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 450 g de filetes de lubina (super fresco)
 

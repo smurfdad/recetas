@@ -6,7 +6,6 @@ title: VERDEL O CHICHARRO AHUMADOS
 categories: 
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 300 grs. de verdel o chicharro en filetes
 

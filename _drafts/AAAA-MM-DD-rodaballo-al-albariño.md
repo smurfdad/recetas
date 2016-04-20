@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 1 rodaballo de 1,5 kgr.
 

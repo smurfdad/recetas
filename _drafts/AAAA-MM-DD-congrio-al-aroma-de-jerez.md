@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 800 gramos de congrio limpio.
 

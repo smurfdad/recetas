@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 ó 2 pimientos verdes (si es muy grande usar sólo 1)
 

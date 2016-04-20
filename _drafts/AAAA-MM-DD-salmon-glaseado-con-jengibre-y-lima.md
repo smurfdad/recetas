@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 filetes de salmón de 170 grs c/u cortados a un grosor de 2,5 cm
 

@@ -11,7 +11,6 @@ tags:
 - huevo
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 1 Kg. anchoas
 - sal

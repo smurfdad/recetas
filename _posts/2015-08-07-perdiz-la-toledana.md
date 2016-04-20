@@ -15,7 +15,6 @@ tags:
 - Sal
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 6 perdices rojas de 300 gr.
 - 2 litros de vino blanco

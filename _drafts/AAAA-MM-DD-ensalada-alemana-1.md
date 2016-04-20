@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 0.5 Kg. de patata cocida.
 

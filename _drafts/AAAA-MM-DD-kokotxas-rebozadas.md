@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 600 grs. de kokotxas de merluza o de bacalao
 

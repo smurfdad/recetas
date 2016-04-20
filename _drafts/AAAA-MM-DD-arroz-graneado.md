@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 1 1/2 taza de arroz
 

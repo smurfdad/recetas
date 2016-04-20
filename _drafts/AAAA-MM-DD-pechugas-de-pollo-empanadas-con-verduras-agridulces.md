@@ -22,7 +22,6 @@ categories:
 - Pastas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 2 pechugas de pollo deshuesadas
 

@@ -13,7 +13,6 @@ tags:
 - sal
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 - 1/2 Kg. arroz
 - 1 l. agua

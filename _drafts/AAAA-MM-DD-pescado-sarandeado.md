@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 pescado de 1 a 1 1/2 kg
 

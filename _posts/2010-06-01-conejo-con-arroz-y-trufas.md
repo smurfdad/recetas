@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 conejo de monte de 1 Kg. aprox.
 

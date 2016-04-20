@@ -9,7 +9,6 @@ categories:
 - Arroces
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 2 truchas de ración
 

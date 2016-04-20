@@ -22,7 +22,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 taza de de pollo cocido cortado en cubos
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 750 grs de lomo de cordero deshuesado, enrollado, atado y cortado en medallones
 

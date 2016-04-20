@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Dos filetes o cuatro medallones de merluza, pero sin piel y sin espinas.
 

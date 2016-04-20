@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 kg. de chuletas de cordero (si pueden ser de lechal mucho mejor)
 

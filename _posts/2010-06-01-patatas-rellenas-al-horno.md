@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 8 ó 10 patatas
 

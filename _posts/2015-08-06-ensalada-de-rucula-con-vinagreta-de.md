@@ -14,7 +14,6 @@ tags:
 - Sal
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 300 gramos de hojas de rúcula.
 - 16 tomates cherry.

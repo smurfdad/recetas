@@ -15,7 +15,6 @@ tags:
 - perejil
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 1 Kg. almejas grandes
 - 3 dientes de ajo

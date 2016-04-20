@@ -20,7 +20,6 @@ categories:
  
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 2 barras pan estrecha
 

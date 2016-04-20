@@ -7,7 +7,6 @@ categories:
 - Frutas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 200 gr. de higos secos
 

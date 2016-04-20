@@ -15,7 +15,6 @@ tags:
 - Aceite
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 1 kilo de coliflor.
 

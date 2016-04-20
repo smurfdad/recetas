@@ -10,7 +10,6 @@ tags:
 - anchoas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 1/2 Kg. anchoas
 - 2 ajos picados

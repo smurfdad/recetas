@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Para el bacalao al pil-pil:
 

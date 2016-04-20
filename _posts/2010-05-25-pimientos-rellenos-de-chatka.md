@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 lata y media de pimientos del piquillo
 

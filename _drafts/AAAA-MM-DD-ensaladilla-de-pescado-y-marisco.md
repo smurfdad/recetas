@@ -22,7 +22,6 @@ categories:
 - Mariscos y moluscos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 300 gr. de patatas.
 

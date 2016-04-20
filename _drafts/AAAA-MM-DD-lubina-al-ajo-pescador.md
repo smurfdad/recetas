@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 lubina de aproximadamente 1 kg. (o 4 de ración)
 

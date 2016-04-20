@@ -15,7 +15,6 @@ tags:
 - Sal
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 - 4 trozos de bacalao desalados
 - 200 grs de judías verdes

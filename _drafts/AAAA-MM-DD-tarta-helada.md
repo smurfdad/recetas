@@ -20,7 +20,6 @@ categories:
  
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 1 paquete de bizcochos de soletilla
 

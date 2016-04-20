@@ -7,7 +7,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 Kg de langostinos de tamaño medio
 

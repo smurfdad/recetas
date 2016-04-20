@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 Kgrs de mejillones de roca
 

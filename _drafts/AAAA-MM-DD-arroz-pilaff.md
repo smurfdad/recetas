@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kg. de arroz de Calasparra
 

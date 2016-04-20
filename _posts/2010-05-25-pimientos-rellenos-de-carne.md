@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 100 grs. de jamón o bacon
 

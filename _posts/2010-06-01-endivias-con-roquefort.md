@@ -8,7 +8,6 @@ categories:
 - Huevos y lacteos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 8 ó 10 endivias
 

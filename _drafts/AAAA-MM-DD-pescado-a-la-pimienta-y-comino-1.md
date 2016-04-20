@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 filetes de pescado (abadejo, mero, pez angel,etc)
 

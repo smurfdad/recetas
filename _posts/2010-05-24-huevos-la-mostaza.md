@@ -7,7 +7,6 @@ categories:
 - Huevos y lacteos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 12 huevos cocidos
 

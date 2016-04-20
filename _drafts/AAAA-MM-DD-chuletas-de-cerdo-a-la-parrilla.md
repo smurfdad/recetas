@@ -20,7 +20,6 @@ categories:
  
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 1/2 docena de chuletas de cerdo
 

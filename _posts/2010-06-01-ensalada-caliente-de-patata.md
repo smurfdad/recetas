@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 100gr. de Bacon cortado en tiritas
 

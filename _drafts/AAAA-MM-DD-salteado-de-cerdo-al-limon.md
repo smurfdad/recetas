@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 costillitas de cerdo deshuesadas cortadas en tiras
 

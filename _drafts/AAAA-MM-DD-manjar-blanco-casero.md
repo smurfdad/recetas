@@ -20,7 +20,6 @@ categories:
  
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 3 litros de leche blanca entera
 

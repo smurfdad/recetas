@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 truchas de ración
 

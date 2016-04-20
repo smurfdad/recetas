@@ -8,7 +8,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>1 Kg y 1/2 de rodaballo cortado en rodajas
 
 4 Cebollas

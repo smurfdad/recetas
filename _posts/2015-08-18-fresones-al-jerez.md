@@ -14,7 +14,6 @@ tags:
 - bizcochos de lengüeta
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 400 gramos de fresones
 - 100 gramos de azúcar

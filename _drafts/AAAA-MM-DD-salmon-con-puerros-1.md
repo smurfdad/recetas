@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1 kg. de salmón (sin piel ni espinas) en filetes de 2 cm de grueso.
 

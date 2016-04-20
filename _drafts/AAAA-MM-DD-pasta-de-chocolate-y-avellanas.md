@@ -21,7 +21,6 @@ categories:
 - Pastas
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 250 gr. de leche
 

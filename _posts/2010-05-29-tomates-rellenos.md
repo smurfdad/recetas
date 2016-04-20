@@ -8,7 +8,6 @@ categories:
 - Arroces
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 tomates medianos
 

@@ -21,7 +21,6 @@ categories:
 - Pastas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 350 gr. de pasta fresca
 

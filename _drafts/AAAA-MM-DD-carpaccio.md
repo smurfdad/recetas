@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kg de solomillo de buey, sin nada de grasa
 

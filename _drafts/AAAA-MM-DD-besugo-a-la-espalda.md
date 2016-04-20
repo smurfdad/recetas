@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 Ud. besugo (de 1,5 Kgr.)
 

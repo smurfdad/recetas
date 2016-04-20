@@ -8,7 +8,6 @@ categories:
 - Arroces
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 alcachofas pequeñas peladas y cortadas en rozos (frotar con limón, para que no se ennegrezcan)
 

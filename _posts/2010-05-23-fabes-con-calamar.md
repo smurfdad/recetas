@@ -8,7 +8,6 @@ categories:
 - Mariscos y moluscos
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 500 grs. de fabes (alubia blanca grande)
 

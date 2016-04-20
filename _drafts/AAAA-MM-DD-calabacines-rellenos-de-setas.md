@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 400 gr. de setas de otoño (pueden servir champiñones)
 

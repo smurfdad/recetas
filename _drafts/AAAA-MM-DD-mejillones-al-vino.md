@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 10 MEJILLONES
 

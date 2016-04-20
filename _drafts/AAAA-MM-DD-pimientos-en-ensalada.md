@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 2 ó 3 pimientos grandes (preferiblemente rojos)
 

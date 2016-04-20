@@ -22,7 +22,6 @@ categories:
 - Sopas y cremas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1,5 Kg. de pescado entre escorpena, raya, pintarroja, pez de San Pedro, pulpo, langostas
 

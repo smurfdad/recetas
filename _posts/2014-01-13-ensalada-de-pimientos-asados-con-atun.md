@@ -9,7 +9,6 @@ categories:
 - Ensaladas
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 2 pimientos rojos grandes, que al comprarlos comprobemos que tienen la carne dura.
 

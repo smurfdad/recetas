@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 lata pimientos del piquillo ó 24 verdes pequeños
 

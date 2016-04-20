@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 Carne del cocido: 400 grs. (lacón, costilla, ternera...)
 

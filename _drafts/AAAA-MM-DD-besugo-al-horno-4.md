@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Un besugo de 1 kg. (besugo de la pinta o voraz)
 

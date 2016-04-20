@@ -22,7 +22,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 bogavante, 2 piezas de 600-700 gr.
 

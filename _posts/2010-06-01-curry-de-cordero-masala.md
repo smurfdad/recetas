@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 1 a 1 1/2 kilo de pulpa de cordero deshuesada
 

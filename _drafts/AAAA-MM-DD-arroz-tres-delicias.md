@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 3 puñados de arroz por persona
 

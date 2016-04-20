@@ -8,7 +8,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Pimiento verde 500 grs
 

@@ -8,7 +8,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>

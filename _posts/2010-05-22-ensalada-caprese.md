@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 lonchas de queso fresco, tipo burgos o requesón
 

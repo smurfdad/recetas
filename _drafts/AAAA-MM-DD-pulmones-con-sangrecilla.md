@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 2 pulmones de cerdo
 

@@ -20,7 +20,6 @@ categories:
  
 personas: 15 
 ---
-
 <h3>Ingredientes</h3>
 1/2 Viga de Pan de Sandwichs
 

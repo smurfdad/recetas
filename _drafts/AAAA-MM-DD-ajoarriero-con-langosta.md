@@ -20,7 +20,6 @@ categories:
  
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 20 trozos de bacalao de unos 100 gramos cada uno.
 

@@ -8,7 +8,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 150 gr alubia verde
 

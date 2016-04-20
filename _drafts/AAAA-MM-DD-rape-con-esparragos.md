@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 600 gr. de rape limpio y cortado en medallones de 75 gr. cada uno
 

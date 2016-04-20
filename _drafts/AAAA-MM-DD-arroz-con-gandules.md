@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 7 
 ---
-
 <h3>Ingredientes</h3>
 1/2 libra de gandules frescos
 

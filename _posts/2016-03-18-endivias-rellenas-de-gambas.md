@@ -11,7 +11,6 @@ tags:
 - espárragos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 6 endivias
 - Salsa mayonesa

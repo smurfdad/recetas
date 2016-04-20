@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 Bolsas de merluza congelada sin piel de 400 gr./Ud.
 

@@ -12,7 +12,6 @@ tags:
 - caramelo líquido
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 9 yemas de huevo
 - 5 claras de huevo

@@ -8,7 +8,6 @@ categories:
 - Sopas y cremas
 personas: 4 
 ---
-
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>

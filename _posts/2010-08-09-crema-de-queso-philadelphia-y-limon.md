@@ -9,7 +9,6 @@ categories:
 - Frutas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 300 grs. de queso philadelphia
 

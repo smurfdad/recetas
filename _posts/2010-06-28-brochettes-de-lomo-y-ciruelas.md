@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1/2 k de lomo en cubos
 

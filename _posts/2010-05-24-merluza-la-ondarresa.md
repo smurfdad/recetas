@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 rodajas de merluza, muy gruesas, del trozo cerrado
 

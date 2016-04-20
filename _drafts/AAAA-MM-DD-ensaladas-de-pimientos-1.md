@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 3 pimientos verdes
 

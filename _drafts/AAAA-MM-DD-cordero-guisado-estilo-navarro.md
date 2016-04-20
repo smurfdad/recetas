@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1,750 kg. de pierna o paletilla de cordero troceada
 

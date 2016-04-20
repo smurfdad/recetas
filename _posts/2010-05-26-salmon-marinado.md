@@ -7,7 +7,6 @@ categories:
 - Pescados
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 1 salmón de 2 kg.
 

@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Mariscos de su elección.(camarones grandes,mejillones,trozos de pescado y aros de calamar)
 

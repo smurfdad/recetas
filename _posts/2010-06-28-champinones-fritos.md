@@ -7,7 +7,6 @@ categories:
 - Setas y hongos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 250 gr. de champiñones pequeños
 

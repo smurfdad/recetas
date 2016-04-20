@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 Kg. de Salmón fresco de la parte de la cola.
 

@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 250 grs. de pollo deshuesado y troceado.
 

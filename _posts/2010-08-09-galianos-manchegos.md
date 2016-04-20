@@ -9,7 +9,6 @@ categories:
 - Setas y hongos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 PARA LOS GALIANOS:
 

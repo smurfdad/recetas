@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 250 g de arroz
 

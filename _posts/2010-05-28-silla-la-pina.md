@@ -8,7 +8,6 @@ categories:
 - Frutas
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1 1/2 <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>kg</span>. de cinta de chuletas de cerdo en un trozo
 

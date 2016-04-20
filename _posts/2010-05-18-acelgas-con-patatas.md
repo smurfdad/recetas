@@ -9,9 +9,8 @@ categories:
 tags:
 - Acelga
 - Patata
+personas:{1}
 ---
-Para 6 personas.
-
 <h3>Ingredientes</h3>
 - 1 1/2 Kg. acelgas
 - 3 patatas

@@ -22,7 +22,6 @@ categories:
 - Carnes y derivados
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Para el marinado de limón:
 

@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 lengua de ternera de 1 kg. aproximadamente
 

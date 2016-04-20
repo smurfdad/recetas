@@ -9,7 +9,6 @@ categories:
 - Pastas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 4 patatas grandes cocidas en rodajas (en la olla rápida,7 minutos)
 

@@ -19,7 +19,6 @@ tags:
 - pimienta
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 1 kg. de rape en un trozo
 - 2 chalotas picadas

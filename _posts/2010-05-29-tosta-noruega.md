@@ -8,7 +8,6 @@ categories:
 - Huevos y lacteos
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 100 grs. salmón ahumado (pueden ser restos)
 

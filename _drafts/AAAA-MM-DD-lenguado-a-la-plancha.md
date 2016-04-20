@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 1 
 ---
-
 <h3>Ingredientes</h3>
 1 lenguado de ración
 

@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 Menudencias de dos aves cortadas en cuadraditos menudos
 

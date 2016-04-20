@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 kg. puerros o endibias cocidos y escurridos
 

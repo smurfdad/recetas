@@ -7,7 +7,6 @@ categories:
 - Postres y dulces
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 vasos de agua de zumo de naranja
 

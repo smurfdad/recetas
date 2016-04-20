@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 1 calabaza grande
 

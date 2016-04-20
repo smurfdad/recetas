@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 6 Calabacines grandes, que equivalen a unos 2,5 Kgs.
 

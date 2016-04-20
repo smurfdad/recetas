@@ -9,7 +9,6 @@ categories:
 - Carnes y derivados
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 24 pimientos verdes medianos
 

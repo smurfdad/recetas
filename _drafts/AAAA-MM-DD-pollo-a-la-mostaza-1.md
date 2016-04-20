@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 Pechuga de pollo sin hueso
 

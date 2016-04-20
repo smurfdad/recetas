@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 Carne de ternera: 750 grs. (para guisar o asar)
 

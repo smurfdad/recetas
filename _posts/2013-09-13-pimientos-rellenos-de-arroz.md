@@ -9,7 +9,6 @@ categories:
 - Entrantes y bocadillos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 pimientos rojos, grandes y hermosos
 

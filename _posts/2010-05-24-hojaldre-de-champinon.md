@@ -8,7 +8,6 @@ categories:
 - Setas y hongos
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kg. pasta de hojaldre
 

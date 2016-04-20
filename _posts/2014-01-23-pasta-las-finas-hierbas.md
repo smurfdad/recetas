@@ -7,7 +7,6 @@ categories:
 - Pastas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 300 g de pasta (caracoles, lazos, tallarines)
 

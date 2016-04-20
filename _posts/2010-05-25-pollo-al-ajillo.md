@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 2 kg. de alas de pollo, cortadas por la articulación o 2 pollos en trocitos
 

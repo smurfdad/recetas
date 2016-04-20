@@ -8,7 +8,6 @@ categories:
 - Carnes y derivados
 personas: 3 
 ---
-
 <h3>Ingredientes</h3>
 5 calabacitas (cambray)
 

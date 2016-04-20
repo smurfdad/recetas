@@ -20,7 +20,6 @@ categories:
  
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 500 gr. de camarones vivos (se calculan 250 gr. por persona)
 

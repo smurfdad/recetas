@@ -8,7 +8,6 @@ categories:
 - Frutas
 personas: 6 
 ---
-
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>

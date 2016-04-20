@@ -21,7 +21,6 @@ categories:
 - Pescados
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 375 gr. de lubina, 375 gr. de mero, 375 gr. de rape, 6 gambas, 6 langostinos, 375 gr. de mejillones 2 tacitas y media de aceite de oliva Agua 1 cebolla pequeña, 1 tomate pequeño maduro 2 rebanadas finas de pan, 2 dientes de ajo 4 ramitas de perejil, un poco de pimienta negra molida, 3 cucharaditas de pimentón
 

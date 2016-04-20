@@ -8,7 +8,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 1/2 kg. de arroz de grano largo
 

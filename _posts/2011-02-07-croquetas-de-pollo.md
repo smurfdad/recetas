@@ -8,7 +8,6 @@ categories:
 - Entrantes y bocadillos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 2 vasos de leche
 

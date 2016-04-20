@@ -7,7 +7,6 @@ categories:
 - Entrantes y bocadillos
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 200 grs. de queso Mozzarella (si no tienes sirve cualquier queso madurito, aunque no es lo mismo)
 

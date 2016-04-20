@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Costilla de cerdo adobada: 1 tira (cortada en cuatro)
 

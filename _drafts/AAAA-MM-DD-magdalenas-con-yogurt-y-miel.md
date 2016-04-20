@@ -20,7 +20,6 @@ categories:
  
 personas: 12 
 ---
-
 <h3>Ingredientes</h3>
 55 grs de mantequilla
 

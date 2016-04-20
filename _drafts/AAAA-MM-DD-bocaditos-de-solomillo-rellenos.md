@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 2 solomillos de 400 g cada uno cortados en 16 librillos
 

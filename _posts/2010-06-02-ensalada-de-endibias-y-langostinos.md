@@ -8,7 +8,6 @@ categories:
 - Mariscos y moluscos
 personas: 2 
 ---
-
 <h3>Ingredientes</h3>
 1/2 lechuga
 

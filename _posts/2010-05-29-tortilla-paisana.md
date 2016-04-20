@@ -8,7 +8,6 @@ categories:
 - Huevos y lacteos
 personas: 10 
 ---
-
 <h3>Ingredientes</h3>
 9 huevos
 

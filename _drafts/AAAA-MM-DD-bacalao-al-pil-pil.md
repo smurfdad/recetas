@@ -20,7 +20,6 @@ categories:
  
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 8 Ud. bacalao tajadas de 125 gr. cada una
 

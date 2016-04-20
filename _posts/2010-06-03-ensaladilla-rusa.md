@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 6 patatas medianas
 

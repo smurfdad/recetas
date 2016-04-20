@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 4 cucharadas de aceite de oliva
 

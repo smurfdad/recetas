@@ -8,7 +8,6 @@ categories:
 - Frutas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 6 peras de 300 gr
 

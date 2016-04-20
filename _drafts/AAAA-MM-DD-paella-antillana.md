@@ -21,7 +21,6 @@ categories:
 - Arroces
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 1 1/4 tazas de aceite
 

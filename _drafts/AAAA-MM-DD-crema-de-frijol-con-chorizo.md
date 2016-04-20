@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 personas: 8 
 ---
-
 <h3>Ingredientes</h3>
 3 jitomates medianos
 

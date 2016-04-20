@@ -20,7 +20,6 @@ categories:
  
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 1 ciento de pimientos de Padrón
 

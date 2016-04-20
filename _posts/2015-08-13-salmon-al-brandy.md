@@ -11,7 +11,6 @@ tags:
 - Comino
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 - 6 rodajas de salmón (aprox 900 gr.)
 - 800gr. de patatas

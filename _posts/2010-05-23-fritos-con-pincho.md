@@ -10,7 +10,6 @@ tags:
 - bechamel
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 - 2 filetes de lomo fresco
 - 2 lonchas de queso gruy&egrave;re

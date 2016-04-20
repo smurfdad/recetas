@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 4 codornices escabechadas, (ó 4 raciones de perdiz escabechada)
 

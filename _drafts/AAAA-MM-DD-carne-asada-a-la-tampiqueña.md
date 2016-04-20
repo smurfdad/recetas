@@ -20,7 +20,6 @@ categories:
  
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 1 kg de filete de res o falda de res (para asar)
 

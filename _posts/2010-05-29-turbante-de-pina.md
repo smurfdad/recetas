@@ -8,7 +8,6 @@ categories:
 - Frutas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 1 bote de piña de 8 rodajas.
 

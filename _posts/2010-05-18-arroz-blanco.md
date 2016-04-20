@@ -13,7 +13,6 @@ tags:
 - limón
 personas: 5 
 ---
-
 <h3>Ingredientes</h3>
 - 1/5 Kg. arroz
 - aceite

@@ -8,7 +8,6 @@ categories:
 - Pastas
 personas: 6 
 ---
-
 <h3>Ingredientes</h3>
 12 palitos de cangrejo
 

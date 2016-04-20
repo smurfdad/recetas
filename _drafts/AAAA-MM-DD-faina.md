@@ -20,7 +20,6 @@ categories:
  
 personas: 4 
 ---
-
 <h3>Ingredientes</h3>
 Harina de garbanzos o garbanzos molidos lo mas finamente posible en una procesadora.
 
