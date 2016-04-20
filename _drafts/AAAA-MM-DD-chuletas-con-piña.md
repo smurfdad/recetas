@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 8 chuletas de cerdo
 
 1 cucharada de azúcar morena
@@ -53,7 +52,6 @@ Para 4 personas.
 una pizca de pimienta
 
 <h3>Preparación</h3>
-
 Fría las chuletas con la sal por encima en una cucharada de mantequilla para que doren por los dos lados y póngalas aparte.
 
 En el mismo sartén ponga 3 cucharadas de mantequilla y fría las rebanadas de pina sin almíbar cuando doren un poquito póngale aparte.

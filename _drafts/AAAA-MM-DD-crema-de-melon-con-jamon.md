@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Un melón sabroso.
 
 50 g de mantequilla.
@@ -38,7 +37,6 @@ Perifollo.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Cortar el melón en dados y saltearlo en la mantequilla a fuego suave.
 
 Cuando esté tierno añadir el caldo hirviendo, la sal pimienta y perifollo.

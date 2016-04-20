@@ -24,7 +24,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 taza de de pollo cocido cortado en cubos
 
 1 cucharada de salsa de soya
@@ -42,6 +41,5 @@ Para 6 personas.
 2 huevos revueltos ligeramente
 
 <h3>Preparación</h3>
-
 Combina el pollo, la salsa soya y 1/2 cucharita de sal. Déjalo reposar 15 min. Fríe el arroz en el aceite caliente en la olla o sartén a fuego mediano hasta que dore. Revolviendo frecuentemente. Baja el fuego; añade el pollo con la salsa de soya y el caldo. Hiérvelo, tapado de 20 a 25 min. O hasta que el arroz este suave. Quita la tapa en los últimos minutos. Añade la cebolla, el pimiento verde y el apio. Cocina, destapado, sobre fuego bajo hasta que el liquido es absorbido. Empuja la mezcla a los lados de la olla. Añade los huevo, cocínalos hasta que estén cocidos y añádelos al arroz.
 

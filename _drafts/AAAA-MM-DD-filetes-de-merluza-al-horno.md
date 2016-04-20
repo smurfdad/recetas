@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 filetes de merluza
 
 1 taza de zanahoria rallada fino
@@ -44,7 +43,6 @@ Jugo de limón a gusto
 Orégano a gusto
 
 <h3>Preparación</h3>
-
 Condimentar los filetes con sal, pimienta, jugo de limón y llevar a la heladera 1 hora.
 
 Mezclar las zanahorias, cebollas, queso crema y orégano y untar los filetes con la mezcla.

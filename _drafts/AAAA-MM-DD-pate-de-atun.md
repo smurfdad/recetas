@@ -23,7 +23,6 @@ Para 10 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 1 queso crema de 250 gms.
 
 1 cubito de pollo.
@@ -41,7 +40,6 @@ Aceitunas rellenas al gusto.
 Pimentón rojo y verde al gusto.
 
 <h3>Preparación</h3>
-
 En una taza de agua tibia se disuelve la gelatina y el cubito, luego se lleva a la licuadora con el queso crema, el atún y la salsa y se licúa.
 
 Se vierte la mezcla en un molde previamente humedecido, se enfría en la nevera hasta que cuaje, se desmolda y se adorna con las aceitunas y el pimentón, también puede adornarse el plato con perejil.

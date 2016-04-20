@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebollas medianas
 
 3 dientes de ajo
@@ -40,7 +39,6 @@ hierbabuena
 cáscara de naranja
 
 <h3>Preparación</h3>
-
 Lavar bien los caracoles con sal y vinagre, varias veces hasta que no suelten babas.
 
 Poner los caracoles con agua templada, un poquito de hierbabuena y la cáscara de una naranja.

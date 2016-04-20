@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 huevos
 
 300 grs. de azúcar
@@ -25,7 +24,6 @@ Para 8 personas.
 1 vaso de zumo de piña
 
 <h3>Preparación</h3>
-
 Batir con la batidora la leche condensada, el azúcar, el zumo de piña y las yemas.
 
 Poner a calentar el agua y cuando vaya a hervir añadir la gelatina hasta que se disuelva bien.

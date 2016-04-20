@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 coliflor
 
 100 gr. de jamón York
@@ -30,7 +29,6 @@ categories:
 1 cucharada de mantequilla
 
 <h3>Preparación</h3>
-
 Se trocea la coliflor, se cuece en agua con sal, se escurre y se deja enfriar.
 
 En un recipiente para horno se pone la coliflor, la mantequilla y el jamón troceado.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. chuleta de cabrito
 
 6 diente ajo
@@ -38,7 +37,6 @@ Para 6 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Poner el pimiento rojo en remojo en agua tibia durante una hora. Salpimentar las chuletas y poner aceite en una sartén al fuego. Cuando esté bien caliente, freír las chuletas hasta que queden bien doradas.
 
 En el mortero, machacar los ajos con una pizca de sal y añadir la pulpa de pimiento, el vinagre y el agua, mezclándolo muy bien. Verter el majado sobre las chuletas, condimentar con sal y pimienta y dejar cocer un minuto más a fuego lento.

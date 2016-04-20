@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de rape en un trozo
 
 3 cebollas
@@ -25,7 +24,6 @@ aceite de oliva
 un chorrito de vino blanco
 
 <h3>Preparación</h3>
-
 Se pone a hacer a fuego lento, en una cazuela baja con el aceite, las cebollas, zanahoria, pimiento y tomate, todo ello bien picado.
 
 Antes de que empiece a dorarse, se añade el rape entero y limpio.

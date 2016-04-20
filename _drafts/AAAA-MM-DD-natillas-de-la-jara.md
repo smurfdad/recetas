@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 l de leche
 
 50 gr., de harina
@@ -38,6 +37,5 @@ Cáscara de limón
 Canela molida
 
 <h3>Preparación</h3>
-
 En una cacerola se ponen a cocer la leche, el azúcar y la cáscara de limón. En otro recipiente se mezclan los huevos y la harina y se baten. Cuando hierva la leche, se mezclan ambas cosas y se deja cocer a fuego lento durante 3 minutos. A continuación, se deja enfriar y se decora con galletas o bizcochos y canela molida.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de patatas nuevas
 
 150 gr. de cebolla fresca
@@ -42,7 +41,6 @@ pimienta de cayena
 sal
 
 <h3>Preparación</h3>
-
 Una vez lavadas se cuecen enteras, cubiréndolas de agua con sal. Pueden ponerse en la misma cazuela los huevos, que se retiran cuando estén cocidos. Las patatas se dejan hasta que estén (se comprueba pinchando una).
 
 En el vaso de la batidora se pone el aceite, el vinagre, la leche, las yemas de los huevos duros y la sal. Se bate todo Se echa la cebolla picada muy menuda y sin batir, mezclando con cuchara de madera. Se añaden después las claras de los huevos picaditas y el perejil, menudo.

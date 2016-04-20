@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 450 grs de champiñones
 
 2 cucharadas de aceite de oliva
@@ -56,7 +55,6 @@ Para la costra:
 3-4 cucharadas de agua helada
 
 <h3>Preparación</h3>
-
 Tamizar la harina y la sal en una ensaladera. Mezclar con la mantequilla y la margarina, trabajar con los dedos hasta obtener una masa consistente. Incorporar el agua suficiente para ligar bien la masa. Formar una bola con la masa, envolverla y refrigerar unos 20 minutos.
 
 Precalentar una placa en el horno a 190&ordm; C. Extender la masa.

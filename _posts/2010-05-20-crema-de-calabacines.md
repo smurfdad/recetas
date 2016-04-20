@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de calabacines
 
 6 quesitos en porciones
@@ -20,7 +19,6 @@ Para 6 personas.
 agua
 
 <h3>Preparación</h3>
-
 Cocer los calabacines, cortados en trozos con la piel, en poca agua.
 
 Triturar con la batidora.

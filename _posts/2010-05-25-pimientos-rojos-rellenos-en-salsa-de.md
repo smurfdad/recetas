@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. rape
 
 1/4 kg. langostinos
@@ -30,7 +29,6 @@ un poco de pan rallado
 1 lata de pimientos del piquillo
 
 <h3>Preparación</h3>
-
 Se cuece el rape en poca agua, que se reserva.
 
 Se trocean el rape y los langostinos (éstos pelados crudos). Se mezclan con la bechamel.

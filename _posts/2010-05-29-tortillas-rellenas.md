@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 lata bonito en aceite
@@ -25,7 +24,6 @@ Para 6 personas.
 50 grs. queso rallado
 
 <h3>Preparación</h3>
-
 Se baten los huevos y se les añade 2 cucharadas de harina con un poco de agua.
 
 Con éste batido se hacen las tortillas echando porciones pequeñas en la sartén, untada con mantequilla, y haciéndolas sólo por una parte.

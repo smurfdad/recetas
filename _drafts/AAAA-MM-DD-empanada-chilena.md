@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 1440 minutos.
 
 <h3>Ingredientes</h3>
-
 Pino
 
 1 kilo de asiento de picana
@@ -59,7 +58,6 @@ Para hacer la masa:
 1 cucharadita de ají de color preparado en una cucharada de aceite
 
 <h3>Preparación</h3>
-
 La Masa: Forme un cono de harina en la mesa o tabla de amasar. Ahueque su interior haciendo un cráter donde irá echando, alternadamente, salmuera, manteca y color. Con una cuchara revuelva el interior del cráter para mezclar los ingredientes. En esta primera etapa no meta la mano, porque se quemará. Una vez lista la mezcla, inicie el amasado con ambas manos hasta homogeneizarla totalmente. Forme una pelota y abríguela con paños de cocina para evitar que se enfríe, porque así es más difícil manejarla.
 
 De esta bola de masa corte trozos del porte de una pelota de tenis y amáselos sobre una superficie enharinada para que no se peguen. Cuando la masa tenga un grosor de 2 milímetros, corte circunferencias usando como molde un plato extendido grande.

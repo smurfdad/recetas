@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de atún fresco
 
 1 cabeza de ajos
@@ -38,6 +37,5 @@ Pimentón
 Orégano
 
 <h3>Preparación</h3>
-
 Fileteamos el pescado y lo lavamos bien. Lo escurrimos con vinagre y le añadimos los ajos, machacados, una cucharrita de pimentón, el orégano y un chorro de aceite. Lo dejamos reposar durante 14 horas. Transcurrido ese tiempo freímos los filetes y en el mismo aceite, se le da un hervor al adobo restante y se cuela sobre los filetes ya fritos
 

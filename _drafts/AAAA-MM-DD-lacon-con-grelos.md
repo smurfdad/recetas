@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 kgr. de lacón
 
 4 chorizos
@@ -32,6 +31,5 @@ Para 4 personas.
 2 manojos de grelos
 
 <h3>Preparación</h3>
-
 Una vez desalado el lacón, poner a cocer en abundante agua. Cuando esté casi cocido añadir los chorizos y los grelos y cuando éstos estén a media cocción incorporar las patatas. Se puede servir cuando las patatas estén listas sin dejar que se deshagan.
 

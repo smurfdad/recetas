@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gr. de garbanzos
 
 1 kg. de guisantes
@@ -43,6 +42,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se ponen a cocer los garbanzos previamente remojados, junto con el tocino y se dejan al fuego hasta que estén blandos. Posteriormente, se añaden las patatas peladas, los chícharos y las habas, un trozo de chorizo, pimientos, una hoja de laurel y sal. Se tapa la olla y se deja cocer hasta que el caldo quede reducido y todo esté tierno, pero sin deshacerse.
 

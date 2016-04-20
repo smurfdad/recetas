@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 lb de hongos frescos (champignones)
 
 agua
@@ -50,6 +49,5 @@ pimienta
 azucar blanca refinada
 
 <h3>Preparación</h3>
-
 lave bien los hongos con la ayuda de un cepilllito especial para ello o de un cepillo suave para quitarles cualquier seccion negra  que presenten; remuevales los tronquitos y dejeles en agua mezclada con jugo de limon po 30 minutos; escurrralos bien y dejelos macerar, por 8 horas en una marinada hecha con el aceite de oliva, el vinagre,la cebolla, el ajo el perejil,el laurel, el tarragon , sal, pimienta y azucar algusto, y estan listo para servirse.
 

@@ -25,7 +25,6 @@ Para 4 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 1 taza de arroz basmati
 
 2 cucharaditas de curry
@@ -49,7 +48,6 @@ Salsa mahonesa suave
 Agua y sal
 
 <h3>Preparación</h3>
-
 Cocer el arroz en agua con sal (2 medidas de agua por 1 de arroz y 15-18 min. aprox. de cocción).
 
 Mezclar en un bol la mahonesa con el curry, la nata y el zumo de naranja. Mezclar el arroz cocido con la fruta y el aguacate a taquitos, la cebolleta picada y el maíz. Aliñar con la salsa.

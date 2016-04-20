@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 20 trozos de bacalao de unos 100 gramos cada uno.
 
 1 langosta de 2 kilos
@@ -40,7 +39,6 @@ Para 8 personas.
 sal.
 
 <h3>Preparación</h3>
-
 Desalar el bacalao como es costumbre, cambiándole el agua cada 8 horas. Cocer la langosta en abundante agua, con sal y vinagre. Meter la langosta
 
 cuando empiece a hervir el agua y tenerla en cocción durante 15/20 minutos. Extraer las carnes de la langosta y la de la cola cortarla en rodajas
@@ -56,7 +54,6 @@ En otra cazuela se ponen las tajadas de bacalao, sin la piel y sin espinas, enci
 cazuela. Al momento de servir, se quitaran las pieles, que el único cometido que tienen es el de soltar algo de gelatina.
 
 <h3>Observaciones</h3>
-
 Esta formula originalmente era oficiada por las hermanas Guerendiain, Las
 
 pocholas, que llevaron durante años el pabellón muy alto del arte culinario

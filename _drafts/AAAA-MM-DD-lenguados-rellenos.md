@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 Lenguados medianos
 
 1 vaso de vino blanco
@@ -37,6 +36,5 @@ Para 6 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Limpiar los lenguados, quitar la espina central. Colocarlos en una bandeja con sal y vino blanco. Asarlos 10 minutos en el horno a fuego moderado. Pique los chanpiñones o setas, agregueles el perejil y la cebolla tierna. Abra los lenguados y rellenelos con esta mezcla. Rocielos con el caldo y aselos en el horno a fuego bajo durante 10 minutos más. Sirvalos con jugo de limón y rodajas de este.
 

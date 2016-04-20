@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 Kg. de Sepia
 
 1 Kg. de Cebollas
@@ -46,6 +45,5 @@ Pimienta negra
 Sal
 
 <h3>Preparación</h3>
-
 Primero limpiaremos la sepia y la cortaremos a dados , pondremos una cazuela con aceite al fuego y cuando este caliente, pondremos la cebolla cortada juliana y el ajo cortado en laminas , una vez sofrito añadiremos el tomate que tendremos escaldado pelado y cortado en juliana, cuando este sofrito, echaremos la sepia, el vino y un poco de agua lo taparemos y dejaremos que se vaya cociendo lentamente, cuando falten cinco minutos le añadiremos la sal, un poco de pimienta y la picada de ajo, perejil y almendra. Se sirve en cazuela de barro.
 

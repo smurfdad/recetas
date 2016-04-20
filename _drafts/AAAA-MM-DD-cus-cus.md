@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla grande
 
 1 calabacin grande
@@ -60,7 +59,6 @@ mantequilla
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 En una olla lo suficientemente grande para que quepa todo el guiso se pone a calentar aceite y se frien los trocitos de cordero salpimentados.
 
 Mientras, se trocean todas las hortalizas (las zanahorias se raspan para que no tengan suciedad en la piel; la calabaza se pela) a trozos grandes, para que sea facil encontrarlos en el guiso.

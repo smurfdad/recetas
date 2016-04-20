@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Aceite
 
 1 cebolla mediana
@@ -48,12 +47,10 @@ Pimienta
 1 vaso de vino blanco
 
 <h3>Preparación</h3>
-
 Poner a cocer con aceite en la cazuela, la cebolla, el ajo, el perejil y el tomate todo bien picado. Antes de que empiece a dorarse la cebolla añadir el bogavante, las nécoras, todo troceado y salado, y el vaso de coñac. Cuando éste ya se haya calentado flamear y esperar que la llama se apague del todo.
 
 Seguidamente, añadir el vaso de vino blanco y el pescado de roca, que habrás limpiado, salado y pasado ligeramente por harina para que al cocer no se deshaga. Le echas un poco de pimienta y lo dejas cocer todo una media hora.
 
 <h3>Observaciones</h3>
-
 Es mejor cocinar la caldereta en una cazuela de barro, sale más rica.
 

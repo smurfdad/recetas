@@ -25,7 +25,6 @@ Para 4 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 1 libra de pasta cruda tricolor
 
 4 onzas de queso suizo cortado en tiras
@@ -51,6 +50,5 @@ VINAGRETA
 1/2 taza de aceite de oliva
 
 <h3>Preparación</h3>
-
 Mezcla todos los ingredientes de la vinagreta y deje aparte. Cocine la pasta según las instrucciones del empaque, no cocine la pasta en exceso. Enjuague y escurra la pasta con agua fría y coloque en un recipiente hondo. Añada los demás ingredientes y mezcle bien.
 

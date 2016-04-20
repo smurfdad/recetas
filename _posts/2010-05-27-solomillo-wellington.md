@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de solomillo de ternera o buey
 
 250 grs de carne picada de cerdo
@@ -36,7 +35,6 @@ aceite, sal, pimienta,
 perejil picado
 
 <h3>Preparación</h3>
-
 Dorar el solomillo en aceite muy caliente.
 
 Hacer la farsa friendo en la mantequilla, las cebollas y champiñones limpios y picados, el hígado y carne picados, revolver bien con la ayuda de un tenedor. Mezclar con el vino, los huevos, pan rallado y especias.

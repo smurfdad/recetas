@@ -9,7 +9,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. arroz
 
 1/4 aceite
@@ -43,7 +42,6 @@ unas cuantas rodajas de chorizo
 2 huevos cocidos (opcional)
 
 <h3>Preparación</h3>
-
 Rehogar las carnes y una vez doradas añadir la cebolla, ajo, salchichas y chorizo.
 
 Cuando esté dorada la cebolla echar el tomate y el azafrán y a continuación el agua hirviendo, los guisantes y las pastillas de caldo.

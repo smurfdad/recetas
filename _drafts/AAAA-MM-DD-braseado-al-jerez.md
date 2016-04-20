@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gramos de espaldilla de buey
 
 50 gramos de puerros, en rodajas
@@ -48,6 +47,5 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 En una cazuela con aceite, dorar la carne con la cebolla, los puerros y la zanahoria. Añadir la nuez moscada y el ramillete de hierbas. Salpimentar. Tapar y cocer 20 minutos a fuego lento. Añadir entonces el ajo, el vino de jerez y 1 vaso de agua. Tapar. Cocer a fuego lento durante 1 hora y 15 minutos. Limpiar y cortar por la mitad los champiñones. Añadirlos a la cazuela 1/4 de hora antes de que el guiso acabe de hacerse. Retirar las hierbas aromáticas. Servir el braseado al jerez cortado en lonchas, salseado y acompañado con las verduras.
 

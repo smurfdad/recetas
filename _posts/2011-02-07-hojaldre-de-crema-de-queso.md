@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lamina de pasta de hojaldre Buitoni
 
 100 grs. de queso parmesano rallado
@@ -29,7 +28,6 @@ Pimienta
 Sal
 
 <h3>Preparación</h3>
-
 Forrar con la masa de hojaldre, un molde de tarta, pinchar la base repetidas veces con un tenedor, y cubrir el interior con papel de aluminio, presionando bien las paredes.
 
 Cocer en el horno precalentado a 180ºC, durante diez minutos. Retirar el papel de aluminio, y cocer cinco minutos más.

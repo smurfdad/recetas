@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 kg. de cardos blancos
 
 2 cucharadas rasas de harina
@@ -49,6 +48,5 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Limpiar los cardos y cortar las pencas en trozos iguales. Ponerlos en un recipiente con un litro de agua mineral y el zumo de limón. Escurrirlos y cocerlos en agua mineral con sal hasta que estén tiernos. Reservar el agua de la cocción. Rehogar los ajos en el aceite caliente, añadir la harina sin dejar de remover para que no se tueste. Fuera del fuego agregar el pimentón. Ligar la salsa con un poco del caldo de la cocción del cardo y la leche. Añadir los cardos y dejar hervir unos minutos. Incorporar las almendras majadas y el perejil muy picado. Servir con los piñones tostados.
 

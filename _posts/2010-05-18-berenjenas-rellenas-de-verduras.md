@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 berenjenas
 
 3 cebollas
@@ -31,7 +30,6 @@ nata (opcional)
 1 cucharada de pan rallado
 
 <h3>Preparación</h3>
-
 Cortar las berenjenas por la mitad, a lo largo.
 
 Vaciarlas con cuidado y reservar la pulpa.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una pescadilla de 1 kg.
 
 200 gr. de gambas
@@ -50,7 +49,6 @@ laurel
 sal
 
 <h3>Preparación</h3>
-
 Es ésta una receta ideal para pescadilla congelada. Facilita su preparación. Resulta más económica y verdaderamente sabrosa.
 
 Se quita la piel de la pescadilla. Se pone en agua fría con sal, laurel, cebolla, vino blanco. Ha de hervir durante diez minutos. Sacar y enfriar. Se quitan las espinas y se pica fino.

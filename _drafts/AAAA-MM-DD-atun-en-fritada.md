@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 800 gramos de atún en conserva natural.
 
 5 cebolletas.
@@ -49,7 +48,6 @@ Perejil picado.
 Media guindilla.
 
 <h3>Preparación</h3>
-
 Las cebolletas, los tomates, los pimientos y los ajos se cortan en juliana y se pone todo a pochar, a fuego lento, con aceite, en una cazuela ancha. Agregamos la guindilla y sazonamos. Cuando este todo bien rehogado, añadiremos la salsa de tomate, y cuando esta comience a hervir, agregamos el atún, en pedazos gruesos. Probamos de sal y dejamos al fuego durante cinco minutos.
 
 Añadimos la patata frita troceada, espolvoreamos con perejil y servimos.

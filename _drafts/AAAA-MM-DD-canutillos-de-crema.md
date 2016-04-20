@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 CREMA PASTELERA:
 
 1 l. leche
@@ -53,7 +52,6 @@ corteza de limón
 1/2 kg. harina
 
 <h3>Preparación</h3>
-
 Crema Pastelera: Poner en una cazuela la leche a calentar con los aromas (canela, corteza de limón y vainilla). Por otro lado, mezclar las yemas y los huevos con el azúcar y la harina. Añadir poco a poco y sin dejar de mover la leche caliente. Cocer a fuego lento por lo menos diez minutos removiendo constantemente. Separar del fuego la crema y mover de vez en cuando hasta que se enfríe.
 
 Canutillos: Poner el aceite con la corteza del limón en el fuego y dejar que se caliente hasta que la corteza se dore. Retirar del fuego y dejar que se enfríe.

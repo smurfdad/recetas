@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 filetes de bacalao.
 
 4 huevos.
@@ -47,7 +46,6 @@ Media patata cocida.
 Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos bien las verduras y troceamos en bastoncitos las judías y las zanahorias. La coliflor, una vez limpia, la separamos en ramilletes.
 
 Lo ponemos todo en una cazuela, con un litro y medio de agua y dejamos que hierva durante diez minutos. Entonces añadimos los trozos de bacalao desalado y esperamos a que cueza ocho minutos más.

@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. queso crema
 
 250 gr. leche
@@ -41,6 +40,5 @@ Para 8 personas.
 1 Ud. ralladura de limón
 
 <h3>Preparación</h3>
-
 Mezclar la manteca en pomada con el azúcar . Agregar los huevos de a uno hasta integrar completamente. Incorporar el queso crema, la leche y la ralladura de limón . Por ultimo agregar la harina tamizada e integrar tratando de no formar grumos. Colocar la preparación en un molde enmantecado y forrado en su base. Llevar a horno moderado (180 grados) a baño maría aproximadamente 55 minutos. Apagar el horno y dejar la puerta del mismo entreabierta hasta que se enfríe. Una vez bien fría desmoldar y cubrir con dulce de frambuesas o frutillas.
 

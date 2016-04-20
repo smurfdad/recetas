@@ -24,7 +24,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 sardinas frescas
 
 1 huevo
@@ -52,7 +51,6 @@ Para el caldo:
 1 kg. de pescado variado (rape, pajel, mero, gallineta, rayo ... )
 
 <h3>Preparación</h3>
-
 Se cuece el pescado y se desecha, para utilizar únicamente el caldo.
 
 Se limpian las sardinas y se rebozan con el huevo batido, se fríen y se reservan. Se sofríen los tomates picados y los ajos, también picados, en el aceite caliente y en el último momento se agregará el pimentón para darle una vuelta.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 truchas de 200 gr.
 
 1 cebolla
@@ -31,7 +30,6 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Pela y pica finamente el tomate (si es grande bastará con la mitad). Pica las hojas de albahaca y colócalas en un bol. Añade aceite, vinagre y sal a tu gusto y deja macerar.
 
 Pela las patatas, córtalas en rodajas finas. Pon en una sartén pequeña un poco de aceite y dispón las rodajas de patata por el fondo formando una flor. Dora por un lado y con mucho cuidado voltea. Repite la operación hasta conseguir las 4 tortas.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 pimientos morrones bardeneros
 
 8 tacos de bacalao (600 gr.)
@@ -39,7 +38,6 @@ aceite de oliva virgen
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Asar los pimientos con sal y aceite, pelar, cortar en tiras anchas y reservar. Pochar los tacos de bacalao en aceite de oliva con una hoja de laurel, escurrir y rodear cada taco con las tiras de pimientas morrones.
 
 Marinar los boquerones en una vinagreta hecha a partir del aceite y pochar el bacalao, el jugo de cocción de los pimientos y un chorrito de vinagre.

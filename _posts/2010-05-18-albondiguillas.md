@@ -34,7 +34,6 @@ Para 6 personas.
 - 1 pastilla de caldo concentrado
 
 <h3>Preparación</h3>
-
 Poner a remojo la miga de pan en un poco de leche.
 
 Escurrirla y mezclarla con la carne, el huevo, la sal, la nuez moscada, el coñac y la pimienta.

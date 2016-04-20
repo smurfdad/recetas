@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. Mero
 
 400 grs. Patata
@@ -36,6 +35,5 @@ Pan rallado
 Mantequilla
 
 <h3>Preparación</h3>
-
 Marcar la ventresca a la plancha y antes de meterla al horno añadirle la provenzal( mezcla de ajo y perejil picados en brunoise mas el pan rallado) con unos daditos de mantequilla. A la hora de emplatar la acompañaremos con una patata panadera y un bouquet de verduras.
 

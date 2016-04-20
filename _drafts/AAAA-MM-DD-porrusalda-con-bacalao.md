@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 1 Puerro gordo.
 
 100 gr. de patatas.
@@ -36,6 +35,5 @@ Fondo blanco.
 50 gr. de calabaza.
 
 <h3>Preparación</h3>
-
 Se pone la cebolla cortada en brunoise (picadita), a pochar, cuando esté añadimos el puerro cortado en rodajas gordas y la patata cascada, rehogamos todo bien, mojamos con el fondo hasta cubrir la patata. Dejamos cocer 15 minutos, añadimos la calabaza a dados pequeños y el bacalao y dejamos cocer otros 5 minutos aproximadamente hasta que esté la calabaza y la patata hechas.
 

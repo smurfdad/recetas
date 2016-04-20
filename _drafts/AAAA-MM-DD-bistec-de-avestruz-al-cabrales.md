@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 Bistecs de Avestruz de 150 grs (aprox.)
 
 Mantequilla
@@ -36,7 +35,6 @@ Mantequilla
 Nata líquida
 
 <h3>Preparación</h3>
-
 Poner en una sartén la mantequilla y, al freir los bistecs,
 
 vuelta y vuelta, sacar la sartén del fuego y flambear con el whisky.

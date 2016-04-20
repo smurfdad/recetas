@@ -23,7 +23,6 @@ categories:
 Para 20 personas.
 
 <h3>Ingredientes</h3>
-
 INGREDIENTES PARA EL ADOBO.
 
 1 pavo de 6 a 7 kilos. 2 o 3 limones partidos en dos, 1/4 de taza de aceite, 1 taza de cebolla triturada, 3 cucharadas de vinagre de vino, 3 cucharadas de salsa inglesa Worcestershire, 2 hojas de laurel, 1 cucharada de pimienta, molida, 4 ramitas de tomillo, o una cucharadita si es seco, molido, 4 cucharadas de sal, 1 taza de vino blanco, seco, 4 cucharadas de Cognac.
@@ -41,7 +40,6 @@ INGREDIENTES PARA LA SALSA.
 La pulpa de una manzana, 1 taza de agua.
 
 <h3>Preparación</h3>
-
 Con anticipaci&ograve;n, preferiblemente el d&igrave;a anterior, se limpia, se frota con lim&ograve;n y se lava el pavo. Se deja escurrir bi&egrave;n.
 
 Se prepara un adobo pasando conjuntamente por algunos segundos y en una trituradora el aceite, la cebolla, el vinagre, la salsa inglesa, el laurel, la pimienta, el tomillo, la mejorana y la sal. Luego se le mezclan el vino y el Cognac.

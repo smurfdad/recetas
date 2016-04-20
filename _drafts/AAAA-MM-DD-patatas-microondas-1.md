@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 Patatas medianas
 
 1 guindilla roja seca
@@ -42,7 +41,6 @@ pimienta
 aceite
 
 <h3>Preparación</h3>
-
 Pele, lave y corte las patatas en rodajas finas.
 
 Aparte se pica un ramito de perejil.

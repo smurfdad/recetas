@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Pechugas de pollo sin trocear y sin piel
 
 1 vaso de ron
@@ -35,7 +34,6 @@ Nata liquida (200ml)
 Mostaza (3 cucharadas) y Miel (2 cucharadas)
 
 <h3>Preparación</h3>
-
 Empezamos dejando el pollo con todos los ingredientes del primer bloque durante media hora aproximadamente.
 
 Mientras se fríe las cebollas blancas y las zanahoriaspreviamente cortadas en juliana (en tiritas finas). Cuandoestán rehogadas (no llegan a dorarse, pero no estántan crudas como antes), se añaden las cebolletas y se dejan freir hasta que se doren.

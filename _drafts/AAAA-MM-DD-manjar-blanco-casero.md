@@ -22,7 +22,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 3 litros de leche blanca entera
 
 3 tazas de azúcar
@@ -32,7 +31,6 @@ canela a gusto
 clavos de olor a gusto
 
 <h3>Preparación</h3>
-
 En primer lugar se hierve la leche
 
 con los clavos de olor y la canela.

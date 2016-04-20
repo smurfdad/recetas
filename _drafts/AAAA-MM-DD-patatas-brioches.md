@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 4 patatas grandes
 
 100 g. manteca
@@ -39,7 +38,6 @@ Para 4 personas.
 Sal, pimienta y nuez moscada.
 
 <h3>Preparación</h3>
-
 Lavar las patatas y cocinarlas en agua con sal con cáscara. Retirarlas cuando estén tiernas. Luego pelarlas y posteriormente ahuecarlas con una cucharita.
 
 Preparar un puré con el sobrantede patatas, 75g de manteca, la leche caliente, el queso, sal, pimienta y nuez moscada.

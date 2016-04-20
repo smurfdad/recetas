@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 y 1/2 taza de acelga hervida, escurrida y picada
 
 1 cebolla picada
@@ -42,7 +41,6 @@ Sal y pimienta
 Aceite vegetal
 
 <h3>Preparación</h3>
-
 Colocar la cebolla y el ajo en una sarténpincelada con aceite vegetal y revolver unos instantes.
 
 Añadir la acelga, el caldo, el perejil y revolver hasta que todo esté caliente.

@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 4 fanecas en filetes.
 
 1 vaso de leche.
@@ -43,7 +42,6 @@ Aceite.
 Pimienta.
 
 <h3>Preparación</h3>
-
 Los filetes, una vez salpimentados, se ponen en leche durante quince minutos. Después, los pasamos por harina y los freímos en aceite.
 
 Se escurren sobre papel absorbente, se colocan en un plato y se salpican con zumo de limón. Calentamos la mantequilla con un poquitín de aceite y espolvoreamos con el perejil picado. Vertemos este aderezo por encima del pescado frito y servimos.

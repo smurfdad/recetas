@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 2 manojos de espárragos trigueros
 
 1 cucharada de harina
@@ -27,7 +26,6 @@ cominos
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Se cuecen los espárragos en manojos.
 
 Mientras tanto, se fríen los ajos y el pan en una sartén con un chorro de aceite hasta dorarlos. Luego, se escurren y se pasan al mortero para machacarlos junto con el azafrán, unos cominos, una cucharada del aceite empleado para freírlos y algo de agua hirviendo para desleírlo todo.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 base de galletas María mezcladas con mantequilla.
 
 Para el relleno:
@@ -44,7 +43,6 @@ El zumo de 1 limón.
 De adorno: mermelada de fresas, nata montada y fresas naturales.
 
 <h3>Preparación</h3>
-
 Remojamos las láminas de gelatina en agua fría.
 
 Trituramos las galletas y, en un cuenco, las mezclamos con la mantequilla.

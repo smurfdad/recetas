@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,500 kg. de pavo (pata y pechuga)
 
 3 mandarinas
@@ -23,7 +22,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Calentar el horno a 210º. Cortar el pavo en trozos grandes, sazonarlo muy ligeramente y ponerlo en una fuente de barro.
 
 Lavar las mandarinas y, sin pelarlas, cortarlas en gajos. Añadir al pavo y mezclar. Rociar con el aceite de oliva.

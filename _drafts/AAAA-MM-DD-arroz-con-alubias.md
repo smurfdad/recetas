@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla mediana
 
 1/2 Kg. de espinacas
@@ -39,6 +38,5 @@ sal
 agua
 
 <h3>Preparación</h3>
-
 Picar y sofreír en aceite la cebolla, añadir el agua y, cuando ésta hierva, las espinacas y el arroz. A mitad de cocción se echan las alubias. Comprobar la sazón.
 

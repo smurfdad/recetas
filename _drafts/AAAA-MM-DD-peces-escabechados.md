@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg. de peces
 
 2 L de agua
@@ -40,7 +39,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se limpian y se desespinan los peces. Se trocean en lonchas grandes, se lavan, se escurren y se sazonan. En una cacerola grande se vierte el aceite y se van introduciendo los peces para freírlos.
 
 En el mismo aceite, se fríen los ajos y el laurel y cuando estén dorados se añade el vinagre, la pimienta y el agua, dejándolo cocer todo durante 30 minutos.

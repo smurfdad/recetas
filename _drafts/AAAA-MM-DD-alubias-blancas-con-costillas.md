@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 300 g de alubias blancas
 
 1/2 k de costillas de cerdo
@@ -41,6 +40,5 @@ unas hebras de azafrán
 sal
 
 <h3>Preparación</h3>
-
 Poner las alubias en remojo en agua fría durante 8 horas. Escurrirlas y ponerlas en una cazuela con la cebolla, partida en dos, el laurel, el perejil y el diente de ajo picado. Cubrir de agua y llevar a ebullición. Continuar la cocción a fuego suave con la cazuela destapada durante 2 horas aproximadamente, añadiendo el agua templada necesaria para que siempre estén cubiertas. Diez minutos antes de terminar la cocción, agregar el azafrán y las costillas. Servir muy calientes.
 

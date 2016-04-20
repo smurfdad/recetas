@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Arroz 2 tazas
 
 Cerveza 4 tazas
@@ -41,6 +40,5 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Se fríe el arroz hasta que tome color en el aceite, se le agregan los tallos de cebollines picados en trocitos, se fríe otro rato, se agrega el tocino picado, se fríe otro rato, se aliña, se le echa la cerveza y el jugo de naranja y se cuece 15 minutos hasta que el arroz esté casi a punto. Tapar, dejar descansar tapado 5 minutos y servir.
 

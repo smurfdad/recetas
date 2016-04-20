@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 filetes de lomo de cerdo
 
 2 cebollas
@@ -44,7 +43,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se quitan las hojas exteriores de las alcachofas y se cortan las puntas. Se parten en dos y se les quitan las pelusas del centro. Se parten las mitades en dos. En una cazuela se pone a hervir agua sazonada de sal y un chorro de limón.
 
 Se echan allí las alcachofas y se tienen hirviendo unos diez minutos. Se sacan y se escurren. En otra cazuela se pone a calentar el aceite y se rehogan las cebollas, peladas y muy picadas, sin que lleguen a tomar color. Se añaden las alcachofas. Se rehogan unos minutos y se añaden el vino blanco y el zumo de un limón. Se añade la hoja de laurel y se sazona de sal y pimienta. Se tiene hirviendo unos minutos, hasta que las alcachofas estén hechas.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 tazones y medio de lentejas
 
 1 cucharadita y media de bicarbonato
@@ -41,10 +40,8 @@ pimienta
 3 hojas de laurel
 
 <h3>Preparación</h3>
-
 se ponen a reposar las lentejas con agua y el bicarbonato toda la noche, se fríen dos cebollas no muy grandes, las morcillas y los filetes de panceta a trocitos pequeños, una vez frito se coloca en un puchero con dos litros de agua, dos cucharaditas de sal, pimienta al gusto, una pastilla de caldo de carne, tres hojas de laurel y se deja hirviendo a fuego lento durante una hora y media.
 
 <h3>Observaciones</h3>
-
 Se deben añadir las morcillas al final de la cocción, si se añaden antes se deshacen.
 

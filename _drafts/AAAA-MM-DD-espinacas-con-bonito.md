@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 9 minutos.
 
 <h3>Ingredientes</h3>
-
 Espinacas Congeladas
 
 Ajo.
@@ -34,6 +33,5 @@ Aceite
 Sal.
 
 <h3>Preparación</h3>
-
 Poner las espinacas congeladas bajo el grifo. Escurrir bien. Freir dos ajos contados a láminas. Cuando estén, rehogar las espinacas. Cuando estén, echar la lata de bonito con el caldo incluido. Terminar de rehogar y corregir de sal.
 

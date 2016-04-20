@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1/2 planta de apio
 
 3 zanahorias
@@ -33,7 +32,6 @@ categories:
 100g de queso roquefort
 
 <h3>Preparación</h3>
-
 Lavar el apio y cortarlo en cubitos, lavar las zanahorias, pelarlas y rallarlas grueso.
 
 Picar bien las nueces y mezclarlas con el queso roquefort desmenuzándolo hasta formar una pasta, agregarle el aceite y mezclar la preparación agregándole mas aceite de ser necesario como para que la mezcla corra.

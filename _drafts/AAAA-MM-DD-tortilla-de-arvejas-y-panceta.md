@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de arvejas lavadas (2 latas lavadas y escurridas)
 
 1 cebolla grande picada
@@ -38,7 +37,6 @@ Sal y pimienta
 2 cucharadas de aceite
 
 <h3>Preparación</h3>
-
 En una cacerola poner a hervir agua salada, cocinar las arvejas y escurrirlas bien.
 
 En una sartén colocar la manteca a calentar y rehogar la cebolla junto con la panceta.

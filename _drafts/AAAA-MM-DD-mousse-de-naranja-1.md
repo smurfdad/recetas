@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 naranjas grandes
 
 1 yema de huevo
@@ -34,7 +33,6 @@ Para 4 personas.
 Edulcorante a gusto
 
 <h3>Preparación</h3>
-
 Cortar las naranjas a la mitad, exprimirlas, colar el jugo y reservarlo.
 
 Ahuecar las cáscaras de naranja y reservar.

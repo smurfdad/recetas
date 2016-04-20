@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 5 minutos.
 
 <h3>Ingredientes</h3>
-
 1 paquete de queso crema(250 gr)
 
 1/4 de taza de leche
@@ -39,10 +38,8 @@ Para 6 personas.
 sal al gusto
 
 <h3>Preparación</h3>
-
 Mezclar el queso con la leche hasta que este bien incorporado,luego se le mezclan los demas ingredientes y se refrigera por varias horas
 
 <h3>Observaciones</h3>
-
 Esto se puede servir con crackers, tortillas de maiz, etc.
 

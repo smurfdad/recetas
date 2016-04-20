@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 paquete de espagueti.
 
 200 g. salmón ahumado.
@@ -41,6 +40,5 @@ sal.
 pimienta.
 
 <h3>Preparación</h3>
-
 Hervir la pasta al dente con un poco de sal (se puede añadir un poco de aceite). Por otro lado, hervir 3 dedos de agua en una cazuela, verter las espinacas, y cocer 1 minuto. Escurrir las espinacas. En una sartén poner a calentar la mantequilla hasta que se deshaga. Echar el salmón cortado en trozos, añadir el zumo de limón, sal y pimienta al gusto, y finalmente la crema fresca. Dejar calentar 2 minutos. Servir en plato llano, a tercios, sin mezclar.
 

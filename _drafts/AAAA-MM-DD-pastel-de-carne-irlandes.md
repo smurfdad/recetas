@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 6 Papas medianas peladas y cocidas
 
 2 cdas de mantequilla (para el pure)
@@ -45,6 +44,5 @@ Para 6 personas.
 Sal y Pimienta al gusto
 
 <h3>Preparación</h3>
-
 Freir la carne molida con la cebolla hasta dorarla. Mientras la carne se cocina, poner a dorar el harina en la margarina. Cuando la harina cambie de color, incorporar el consome de res y el whiskey. Menear hasta obtener un liquido espeso, salpimentar y retirar del fuego. Cuando la carne este doradita, incorporar las verduras y la salsa de whiskey y bajar el fuego. Dejar que de un hervor y retirar del fuego. Aparte se hace un pure con la mantequilla y las papas cocidas. En recipiente refractario ligeramente engrasado, poner la carne y cubrir con una capa gruesa de pure de papa. Hornear por 20 minutos a 250C o hasta que la capa de pure dore. Dejar enfriar por 15 minutos y servir calientito, no hirviendo. Este es un platillo muy tipico de Irlanda. Es muy facil y muy economico.
 

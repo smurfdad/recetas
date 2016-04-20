@@ -11,7 +11,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 de aguja o morcillo
 
 2 zanahorias
@@ -35,7 +34,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 La carne se corta en trocitos pequeños se adoba con los ajos y unas ramitas de perejil picados y se sazona con sal.Se rehoga en una cazuela con aceite caliente y se añaden los puerros en trozos, las cebollas peladas y enteras y las zanahorias peladas y cortadas en trozos largos.
 
 Luego se frie todo un poco y s e espolvorea con una cucharada de harina rehogandolo de nuevo.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 PARA NAPAR:
 
 80 gr de harina
@@ -64,7 +63,6 @@ pimienta blanca
 nuez moscada
 
 <h3>Preparación</h3>
-
 Poner la mantequilla en una cazuela y a fuego lento hasta que se derrita.
 
 Una vez diluida, añadir la harina y mezclar bien.

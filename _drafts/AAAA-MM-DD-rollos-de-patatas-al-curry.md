@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg puré de patatas
 
 2 yemas
@@ -34,7 +33,6 @@ categories:
 1 cdita curry
 
 <h3>Preparación</h3>
-
 Mezclar el puré con las yemas y el queso rallado.
 
 Tomar porciones, rellenarlas con un trozo de queso Mar del Plata y acomodar en una fuente para horno.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 160 ml. agua
 
 180 gr. azúcar
@@ -34,7 +33,6 @@ Para 4 personas.
 14 gr. maizena
 
 <h3>Preparación</h3>
-
 Colocar en una cacerola, el agua y el azúcar hasta que entre en ebullición. Agregar los Kiwi y el jugo de naranja, cocer a fuego lento por tres minutos.
 
 Diluir la maicena en un poco de agua, y luego agregarla, dejar cocer por un minuto revolviendo constantemente. Servir el coulis frío.

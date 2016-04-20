@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de almendras crudas molidas
 
 250 gr. de azúcar
@@ -36,7 +35,6 @@ Para 8 personas.
 Unas cuantas almendras crudas para poner encima de los almendrados
 
 <h3>Preparación</h3>
-
 Poner en un bol el azúcar, las almendras crudas molidas, la ralladura de limón o vainilla y la levadura en polvo. Mezclar bien con un tenedor.
 
 Batir ligeramente las claras y añadirlas poco a poco a la mezcla anterior. Trabajarlo con las manos hasta que quede una pasta ligada y conpacta.

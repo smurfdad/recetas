@@ -11,7 +11,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de cordero troceado
 
 6 alcachofas
@@ -33,7 +32,6 @@ harina
 1 copa de vino blanco
 
 <h3>Preparación</h3>
-
 Rebozar los trozos de cordero en harina y freírlos, pasándolos a una cazuela de barro, o similar.
 
 Dorar la cebolla y una cucharada de harina, añadir el vino blanco y un poco de agua.

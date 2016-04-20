@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 trozos de Bacalao de unos 75 g cada uno
 
 4 rodajas de piña en almíbar
@@ -40,7 +39,6 @@ vinagre de calidad
 sal
 
 <h3>Preparación</h3>
-
 Escurrir el bacalao, enharinarlo y freírlo en aceite abundante, a fuego medio, hasta que resulte bien dorado y cocido.
 
 Cortar la cebolla en rodajas delgadas, abrirla en aros, enharinarla y dorarla en aceite.

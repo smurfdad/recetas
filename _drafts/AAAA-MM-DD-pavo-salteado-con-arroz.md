@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de pavo
 
 300 gr. de arroz integral
@@ -46,7 +45,6 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
-
 Hervir el arroz 20 minutos a fuego lento. Mientras tanto, preparar los otros ingredientes.
 
 Limpiar y lavar las verduras y los champiñones. Cortar en tiras los calabacines y el pimiento y en láminas los champiñones. Picar la cebolla y cortar la carne en dados.

@@ -23,7 +23,6 @@ Para 1 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 2 melocotones
 
 2 manzanas
@@ -31,6 +30,5 @@ Para 1 personas.
 1 limón
 
 <h3>Preparación</h3>
-
 Se licua todo y se toma con hielo.
 

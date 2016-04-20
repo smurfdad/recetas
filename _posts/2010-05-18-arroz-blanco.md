@@ -23,7 +23,6 @@ Para 5 personas.
 - unas gotas zumo limón
 
 <h3>Preparación</h3>
-
 Poner en una cazuela baja un poco de aceite, una cebolla dividida en dos trozos y las zanahorias en trozos grandes, salteándolo todo ello en el fuego, añadiendo después el arroz.
 
 Salteado también éste, añadir el agua o caldo hirviendo, unas gotas de limón y la sal.

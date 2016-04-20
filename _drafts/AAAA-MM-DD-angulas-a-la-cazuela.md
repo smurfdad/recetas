@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 gr de angulas
 
 4 dientes de ajo
@@ -32,7 +31,6 @@ Para 4 personas.
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Cortar los ajos en laminas y freírlos con un poco de aceite, pero sin que tomen color.
 
 Cuando estén, añadir las angulas y la guindilla, saltearlas bien y servir inmediatamente en cazuelas de barro individuales.

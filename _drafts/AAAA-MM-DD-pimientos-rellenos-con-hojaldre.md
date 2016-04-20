@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr de carne picada
 
 16 pimientos del piquillo
@@ -44,7 +43,6 @@ pimienta blanca
 aceite
 
 <h3>Preparación</h3>
-
 Picar muy fino la cebolla y el ajo, poniéndolo a rehogar con un poco de aceite.
 
 Una vez echo, echar la carne y freírla bien.

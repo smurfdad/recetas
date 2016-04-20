@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1.200 kg. de lomo de cerdo entero
 
 300 gr. de nueces peladas
@@ -43,7 +42,6 @@ Manteca
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Atar el lomo de cerdo. Salpimentarlo al gusto.
 
 Poner el aceite y una cucharada de manteca en el microondas, dentro de una bandeja.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de patatas.
 
 200 gramos de espinacas.
@@ -40,7 +39,6 @@ Para 4 personas.
 1 ramita de laurel y sal.
 
 <h3>Preparación</h3>
-
 Pelamos y cocemos las patatas con agua, sal y la hojita de laurel, y luego las pasamos por el pasapurés.
 
 En otra cazuela cocemos las zanahorias.

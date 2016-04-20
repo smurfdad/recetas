@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 tapas para canelones
 
 2 pechugas de pollo
@@ -51,7 +50,6 @@ Para 4 personas.
 Sal y pimienta negra de molinillo
 
 <h3>Preparación</h3>
-
 En una cacerola con abundante agua salada y la cucharada de curry, poner a hervir las pechugas de pollo con el hueso y piel. Agregar al agua las verduras, la zanahoria, el puerro, las hojas de laurel y el apio. Ponerlo todo con el agua fría y cocinar a fuego mínimo para que el pollo quede bien tierno y saborizado unas 2 horas aproximadamente.
 
 Luego retirar el pollo y las verduras. Quitarale la piel al pollo y todos los huesos, y picar bien la carne de las pechugas cuidando que no quede ningún cartílago. Picar la zanahoria hervida y el puerro.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 9 yemas de huevo
 
 5 claras de huevo
@@ -36,6 +35,5 @@ Para 6 personas.
 caramelo líquido
 
 <h3>Preparación</h3>
-
 untar la flanera con el caramelo, aparte batir las yemas con la leche condensada, agregar las nueces, y batirlo todo en la batidora, por ultimo batir las claras a punto de nieve y agregarlas al ultimo a la crema batida, echar la mezcla en la flanera con el caramelo y meter al horno al baño maría, a temperatura media durante una hora, una vez frío desmoldar y decorarlo con nueces.
 

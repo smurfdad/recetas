@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de contra
 
 Para el relleno:
@@ -29,7 +28,6 @@ Para la guarnicion:
 aceite y sal
 
 <h3>Preparación</h3>
-
 Rellenamos los filetes, los pasamos por pan rallado y los freimos en una sarten,
 
 y una vez hecho los colocamos en un plato, al lado de la guarnicion que llevará

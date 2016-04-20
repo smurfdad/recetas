@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 berenjena
 
 media cebolla
@@ -34,6 +33,5 @@ media cebolla
 sal.
 
 <h3>Preparación</h3>
-
 Pelar la berenjena, cortarla en cuadraditos y dejarla un rato en agua. Ponerla a hervir en una cazuela con agua y un poco de sal durante 10 minutos, después escurrirla bien y reservarla. Poner el aceite en una sartén al fuego y sofreír la cebolla. Cuando esté transparente, se agrega la berenjena, se mezcla bien y se incorporan los huevos batidos con un poco de sal. Cuajar la tortilla por ambos lados y servir.
 

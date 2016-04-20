@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 k de bonito limpio cortado en dados
 
 1 pimiento rojo
@@ -42,6 +41,5 @@ Para ACOMPAñAR:
 una ensalada verde
 
 <h3>Preparación</h3>
-
 Abrir los pimientos a lo largo, retirar los nervios y las simientes y cortarlos en cuadrados. Disponerlos en un recipiente con el bonito, agregar los dientes de ajo, los granos de pimienta y las hierbas aromáticas. Rociar con el aceite. Tapar con papel film y meter en la nevera durante 1 hora. Formar las brochetas intercalando el bonito con los pimientos. Untarlas de aceite y hacerlas sobre la parrilla. Servirlas enseguida con la ensalada
 

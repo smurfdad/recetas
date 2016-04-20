@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 2 papeles de gaseosa blancos
@@ -40,7 +39,6 @@ Harina
 Azucar glassé
 
 <h3>Preparación</h3>
-
 En un recipiente se echan los huevos, ralladura de
 
 limón, azúcar, aceite y 2 papeles de gaseosa blancos,

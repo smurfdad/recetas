@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 mejillas de cerdo
 
 1 cebolla
@@ -51,7 +50,6 @@ sal
 1/4 de litro de caldo
 
 <h3>Preparación</h3>
-
 Sazonar las mejillas de cerdo y dorarlas en una cazuela con un poquito de aceite. Reservar.
 
 En la misma cazuela que se han dorado las mejillas, y con el mismo aceite, sofreir una cebolla picada bien pequeña y añadir el jamón serrano cortado a trocitos pequeños y el tomate rayado y sin las pepitas. Cuando se haya reducido un poco, añadir el vino tinto y dejar reducir y que se evapore. (No olvidar de ir añadiendo sal a todos los ingredientes que vayamos introduciendo en la cazuela). Hacer una picada con las almendras tostadas, el ajo y el perejil. Diluir con un poquito de caldo y añadir a la cazuela.

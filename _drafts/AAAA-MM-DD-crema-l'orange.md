@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 600 grs. de zanahorias cortadas en ruedas
 
 3 ajos porros finamente cortados
@@ -40,6 +39,5 @@ El jugo de 5 naranjas
 Sal y pimienta al gusto.
 
 <h3>Preparación</h3>
-
 Colocar los ajos porros y las zanahorias en una olla con margarina y sofreírlos, agregar el caldo de pollo y dejar hervir por unos quince minutos, después agregar el jugo de las naranjas y el curry. Cuando vuelva a hervir de nuevo, licuar todo el conjunto, llevar al fuego y agregar la crema de leche, corregir de sal y pimienta. Cuando esté caliente servir de inmediato. Espolvorear con páprika.
 

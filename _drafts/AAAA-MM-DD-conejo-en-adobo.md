@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo.
 
 Aceite.
@@ -40,12 +39,10 @@ Pimienta negra.
 Orégano.
 
 <h3>Preparación</h3>
-
 Limpiamos y troceamos el conejo. Lo salpimentamos y colocamos en una olla con tres partes de aceite de oliva y una de vinagre. Añadimos la cebolla, el orégano, los ajos, el laurel, la pimienta y una pizca de sal. Hecho esto, lo ponemos a cocer a fuego lento, con la cazuela tapada, durante media hora.
 
 Esperamos a que enfríe y se sirve.
 
 <h3>Observaciones</h3>
-
 Con este adobo, el conejo aguanta una semana en el frigorífico. También se puede congelar.
 

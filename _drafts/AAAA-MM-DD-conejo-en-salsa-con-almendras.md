@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Un conejo -mejor de campo-
 
 1/2 cebolla
@@ -46,6 +45,5 @@ vino blanco
 sal
 
 <h3>Preparación</h3>
-
 Se corta el conejo en trozos, se sazona y se fríe. Cuando esté frito, se añade la cebolla cortada en trozos, un diente de ajo picado y el tomate pelado y cortado. Se rehoga todo esto bien. Se añade un chorro de vino y, cuando se evapore, se añaden las almendras troceadas y una cucharadita de harina. Cuando la harina esté tostada, se añaden la pimienta y agua hasta cubrir el conejo. Aparte, machacar en el mortero el azafrán, el perejil, y el otro diente de ajo, y añadir todo al guiso. Cocer hasta que el conejo quede tierno.
 

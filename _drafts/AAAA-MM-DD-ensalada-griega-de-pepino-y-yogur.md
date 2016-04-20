@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 yogures naturales
 
 1/2 pepino
@@ -37,10 +36,8 @@ Sal
 1 cucharada de aceite de oliva
 
 <h3>Preparación</h3>
-
 Se quita el suero de los yogures y se vierten en un cuenco. Se pela el pepino, se raspa groseramente y se mezclan las raspaduras con un poco de sal. Se deja así unos 10 minutos para que suelte el agua. Luego, se exprime el pepino con un colador y se echa al yogur. Se prensan los ajos o se rallan muy finitos y se añaden también. Luego, se agrega el aceite y el vinagre, se mezcla todo bien y se rectifica de sal.
 
 <h3>Observaciones</h3>
-
 Como variación se cogen 2 ó 3 hojas de hierbabuena frescas, se cortan en pedacitos muy pequeños y se añaden a la ensalada.
 

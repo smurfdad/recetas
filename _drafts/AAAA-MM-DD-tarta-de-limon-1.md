@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 250g de galletas María
 
 4 huevos
@@ -37,7 +36,6 @@ Para 6 personas.
 1 vaso grande de leche condensada
 
 <h3>Preparación</h3>
-
 Trituramos las galletas y las mezclamos en un bol con la mantequilla un poco derretida. Cuando se haya formado una masa, la horneamos durante 5 minutos con el horno precalentado a 180&deg;C y colocamos en el fondo desmontable de un molde redondo una vez se haya enfriado. En un bol aparte se baten las yemas, y se mezlcan con la leche condensada y el zumo de limón. Batimos hasta obtener una crema suave. A continuación se vierte sobre la base de las galletas.
 
 En otro bol montamos las claras a punto de nieve lo más espesas posibles, se le agrega varias cucharadas de azúcar (al gusto). Remover constantemente. Cuando el azúcar se haya disuelto por completo, se pone en la manga pastelera y vertemos sobre la crema. Introducimos en el horno precalentado a 180&deg;C.Retiramos cuando el merengue esté ligeramente tostado por encima. Se sirve frío.

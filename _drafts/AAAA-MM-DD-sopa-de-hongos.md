@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 gramos de hongos lavados y desinfectados picados finitos.
 
 Una ramita de epazote.
@@ -43,7 +42,6 @@ pimienta
 caldo de pollo en polvo.
 
 <h3>Preparación</h3>
-
 Se muelen en la licuadora el jitomate ,la cebolla y el ajo con tantita agua y un poco de sal.
 
 Se sofrie con aceite para que se sazone. aparte se frien los hongos con poquito aceite hasta que ablanden se le agrega el caldo de jitomate y se sazona con sal, pimienta y el caldo de pollo, se le agrega agua y el epazote picado se deja hervir todo junto.

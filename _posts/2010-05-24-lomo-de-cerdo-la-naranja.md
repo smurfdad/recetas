@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de lomo de cerdo
 
 2 cucharadas de mantequilla
@@ -21,7 +20,6 @@ un poco de jerez dulce u oporto
 harina, sal
 
 <h3>Preparación</h3>
-
 Se sala y ata el trozo de lomo.
 
 Pasar por harina y dorar en una cazuela con la mantequilla derretida.

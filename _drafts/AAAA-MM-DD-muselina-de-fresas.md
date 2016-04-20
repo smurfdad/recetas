@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 300 g de fresas
 
 el zumo de 1 limón
@@ -43,6 +42,5 @@ Para ACOMPAñAR:
 hojas de menta
 
 <h3>Preparación</h3>
-
 Lavar y secar muy bien las fresas, retirarles el rabito y triturarlas con el zumo de limón. Montar la nata y reservar en la nevera. Calentar el almíbar y agregar la gelatina previamente puesta a remojo. Montar las claras de huevo e incorporar el almíbar templado poco a poco. Agregar el puré de fresas y la nata. Mezclar bien y meter en la nevera. Adornar con frambuesas y hojas de menta hasta que cuaje.
 

@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 tazas de harina
 
 4 cucharaditas polvos de hornear
@@ -38,6 +37,5 @@ Para 8 personas.
 7 cucharadas de leche aprox
 
 <h3>Preparación</h3>
-
 Tamizar juntos la harina, el polvo de hornear,y la sal. Agregar el queso rallado y la mantequilla fría, desmenuzándola con las manos o un tenedor. Incorporar el huevo y la leche amasando ligeramente para unir la masa. Estirar dejando 2 cms de espesor y cortar los scones. Colocar sobre placa enmantequillada y pintar con yema de huevo batida. Cocer en horno caliente a 200&ordm; C, durante 12 minutos.
 

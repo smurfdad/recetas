@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 300 gramos de arroz integral.
 
 1 litro de agua o caldo de verduras.
@@ -41,7 +40,6 @@ Sal.
 Aceite.
 
 <h3>Preparación</h3>
-
 Picamos las judías, las zanahorias, el tomate y los ajos y lo
 
 rehogamos todo en una cazuela, con aceite.

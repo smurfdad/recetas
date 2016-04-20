@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 Mayonesa de 1 huevo
 
 Salsa ketchup, al gusto
@@ -33,6 +32,5 @@ Salsa ketchup, al gusto
 1 cucharada de alcaparras
 
 <h3>Preparación</h3>
-
 Añadir el ketchup, el pimentón y las alcaparras a la mayonesa y mezclar bien.
 

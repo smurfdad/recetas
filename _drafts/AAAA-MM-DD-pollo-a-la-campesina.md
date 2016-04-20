@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo mediano
 
 2 pimientos rojos
@@ -49,7 +48,6 @@ taza de salsa soja
 sal y pimienta a gusto.
 
 <h3>Preparación</h3>
-
 Despresar el pollo, cortar los pimientos y ajíes en dados grandes, las zanahorias en bastoncitos.
 
 Mezclar con todos los demás ingredientes y hornear a temperatura mediana durante 1 hora y media hasta que queden las presas cocidas y doraditas.

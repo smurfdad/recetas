@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 250 grs. de pate de foie de lata o embutido de muy buena calidad y textura fina
 
 1 cucharada de mayonesa
@@ -31,6 +30,5 @@ Para 4 personas.
 1 cucharada de salsa ketchup
 
 <h3>Preparación</h3>
-
 Mezclar bien todos los ingredientes y si es preciso corregir de sal. Puede reemplazarse la mayonesa por queso cremoso blanco.
 

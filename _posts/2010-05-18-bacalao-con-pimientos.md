@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 y 1/2 Kg. bacalao desmigado
 
 1 lata de pimientos del piquillo
@@ -25,7 +24,6 @@ perejil
 1/4 aceite
 
 <h3>Preparación</h3>
-
 Remojar el bacalao 48 horas, cambiando de agua 4 veces. Escurrir bien el agua, poniéndolo sobre un trapo.
 
 Freír la cebolla y el ajo en la mitad del aceite a fuego medio y añadir los pimientos en tiras y el tomate, dejando que se haga durante 1/2 hora. Reservar.

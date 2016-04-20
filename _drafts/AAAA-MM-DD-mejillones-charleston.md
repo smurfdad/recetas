@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de mejillones
 
 5 huevos
@@ -41,7 +40,6 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Abrir los mejillones en un recipiente con agua salada y una hoja de laurel. Cuando estén abiertos separarlos de las valvas y dejarlos enfriar.
 
 Batir las claras de los huevos a punto de nieve. En un plato aparte, mezclar la levadura con la harina y un pellizco de sal. Mezclar lentamente con las claras, de manera que quede una pasta ligera con la cual se rebozarán los mejillones.

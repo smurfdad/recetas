@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Bacalao: 4 trozos de lomo
 
 Cebolla: 1
@@ -38,6 +37,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 En un fondo de aceite, poner a sofreír la cebolla cortada en juliana, los ajos fileteados, el pimiento troceado y los tomates cortados en taquitos. Cuando esté casi a punto, incorporar el bacalao y dejar hacer durante 5 minutos por cada lado.
 

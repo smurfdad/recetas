@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. chatka (o surimi)
 
 1/2 kg. de gambas peladas
@@ -22,7 +21,6 @@ Para 8 personas.
 salsa rosa hecha con dos huevos
 
 <h3>Preparación</h3>
-
 Cortar el chatka o surimi en tiritas de 3 centímetros.
 
 En agua hirviendo con sal echar las gambas y apagar. Dejar reposar.

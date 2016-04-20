@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Una tarrina de queso philadelphia
 
 Dos latas de berberechos
@@ -30,6 +29,5 @@ Dos latas de berberechos
 Pan tostado pequeño ó colines
 
 <h3>Preparación</h3>
-
 Se bate todo junto en la batidora con el caldo de una sola lata. Se deja enfriar un poco en la nevera y así se endurece un poco mas. Se sirve como aperitivo untandolo en pan tostado pequeño, ó directamente de la fuente mojando colines.
 

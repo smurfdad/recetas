@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lt. de leche
 
 200 gr. de almendras molidas
@@ -34,6 +33,5 @@ azúcar hasta conseguir el dulzor deseado
 nata montada para decorar.
 
 <h3>Preparación</h3>
-
 Se bate la leche con el azúcar, se le echa las almendras y la miel, y se bate todo muy bien, si se desea se le agrega más miel de la indicada, se deja enfriar en la nevera, y se sirve con la nata, encima se le echa un poco de almendra molida.
 

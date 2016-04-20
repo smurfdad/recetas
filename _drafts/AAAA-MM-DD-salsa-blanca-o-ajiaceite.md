@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 Ajos
 
 1 Rebanada de pan duro de 1 ó 2 cm.
@@ -32,6 +31,5 @@ Para 6 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Mojar la rebanada de pan con agua fría hasta que esté totalmente húmeda. Escurrirla con las manos. Pelar y picar los ajos con un poco de sal hasta que forme una pasta muy fina. Añadir las migas de pan y seguir picando. Batir y añadir aceite poco a poco hasta que forme salsa.
 

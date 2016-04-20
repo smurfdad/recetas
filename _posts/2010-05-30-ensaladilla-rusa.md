@@ -8,7 +8,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 2 patatas que sean hermosas.
 
 1/4 Kg. de zanahorias.
@@ -26,7 +25,6 @@ Salsa mayonesa.
 Sal
 
 <h3>Preparación</h3>
-
 En una cazuela ponemos agua con sal y dejamos que se vaya calentando. Mientras tanto pelamos las patatas y las cortamos en dados pequeños. Realizamos la misma operación con las zanahorias y las judías verdes. Vertemos todo en la cazuela y dejamos que cuezan hasta que estén en su  punto.
 
 Aparte vertemos las gambas en agua caliente. Con un par de minutos es suficiente para que estén cocidas. Les quitamos el agua y dejamos que se enfríen hasta que las podamos pelar.

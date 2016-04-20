@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 obleas para hacer lasaña
 
 medio kilo de carne picada, ya sea de pollo, pavo o ternera
@@ -40,6 +39,5 @@ una pizca de nuez moscada para la bechamel
 queso rallado para gratinar la lasaña
 
 <h3>Preparación</h3>
-
 en una fuente para el horno pones abajo un poco de tomate frito y un poco de bechamel, luego vas montando las obleas y echando la primera capa de espinacas que antes las hemos cocido, la segunda capa de carne picada que previamente la hemos frito en una sartén añadiéndole un poco de tomate frito para que quede jugosita, y una tercera capa también de carne picada. Tapamos la tercera capa, añadimos la bechamel por encima y el queso rallado, lo metemos en el horno como unos 25 a 30 minutos a 175-200 grados
 

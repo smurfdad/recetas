@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 Galletas María (1 paquete)
 
 2 cucharadas de mantequilla
@@ -40,7 +39,6 @@ Galletas María (1 paquete)
 1 sobre de gelatina Royal
 
 <h3>Preparación</h3>
-
 Batir las galletas y mezclarlas con la mantequilla derretida para la base de la tarta, echarlo en el molde.
 
 Batir todos los ingredientes restantes, menos el sobre de gelatina y echarlo sobre la base de galleta; hornear durante 45 minutos a una altura media.

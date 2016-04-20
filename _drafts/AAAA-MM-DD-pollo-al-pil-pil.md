@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo asado
 
 350 grs de langostinos o camarones (pelados)
@@ -42,7 +41,6 @@ sal y orégano (condimento, puede ser también laurel) a gusto
 1 1/2 taza de caldo de ave o de verduras
 
 <h3>Preparación</h3>
-
 Los morrones y cebollas picadas se saltean (frien) en aceite de oliva y orégano, una vez que estén medianamente doradas se agregan los langostinos, hasta que estos estén cocidos (10 a 15 minutos aprox. a fuego lento).
 
 Una vez listo esto, se pone en una fuente el pollo asado, el caldo y algo más de 2/3 de las verduras y langostinos saltedaos al horno hasta que el pollo este caliente.

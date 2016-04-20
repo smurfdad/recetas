@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 de leche condensada
 
 1 taza de hojuelas de maíz (cereal)
@@ -40,6 +39,5 @@ Para 4 personas.
 2 huevos
 
 <h3>Preparación</h3>
-
 Se mezcla el cereal, la leche condensada, la harina (colada), el polvo para hornear (colado), los huevos, la leche evaporada, la mantequilla y las manzanas. Vacíe esta en un molde previamente engrasado y enharinado. Hornee durante 40min o hasta que al introducir un palillo este salga limpio.
 

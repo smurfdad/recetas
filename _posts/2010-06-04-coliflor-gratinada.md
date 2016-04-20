@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor grande
 
 80 gr harina
@@ -31,7 +30,6 @@ huevo
 queso rallado
 
 <h3>Preparación</h3>
-
 Limpiar y cortar la coliflor.
 
 Poner una cazuela al fuego con agua y sal.

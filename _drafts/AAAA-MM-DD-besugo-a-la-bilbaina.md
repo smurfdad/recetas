@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 besugo
 
 aceite de oliva
@@ -34,7 +33,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Abrir el besugo a lo largo y sacar las dos raciones, desechando la espina central.
 
 Sazonarlo con sal y ponerlo en una fuente de horno con un poco de aceite de oliva y meter al horno.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 g. de cabeza de cerdo ibérico de Frial cortada en trozos de 1 cm.
 
 1 escarola
@@ -39,6 +38,5 @@ Aceite de oliva virgen extra
 Sal Maldon
 
 <h3>Preparación</h3>
-
 Lavar la escarola y el apio; escurrir y secar. Pelar las cebolletas. Trocear en cachos pequeños los tres ingredientes. Depositar en un bol hermoso, agregar las hierbas aromáticas, sazonar con las escamas de sal Maldon y aliñar con el aceite de oliva virgen extra. Revolver para que el aderezo se impregne de los componentes vegetales de la ensalada. Cortar en cuadrados de 6 cm. de lado la cabeza de cerdo ibérico, que previamente habremos solicitado en la charcutería partida en pedazos de un centímetro de grosor. Meter al horno, a 200 grados, teniendo unos diez minutos, hasta que esté bien caliente. Repartir los cuadrados en los cuatro platos y cubrir por encima con el conjunto de ensalada.
 

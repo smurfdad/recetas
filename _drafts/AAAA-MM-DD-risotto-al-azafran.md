@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 1,25 l de caldo de ave
 
 60 gr de parmesano recién rallado
@@ -39,7 +38,6 @@ sal
 aceite de oliva
 
 <h3>Preparación</h3>
-
 En una cazuela mezclar la mantequilla , el aceite y las cebollas picadas. Cuando estén transparentes, añadir el arroz y sofreir unos instantes.
 
 Cuando el arroz esté brillante, añadir un cazo de caldo caliente. Llevarlo a ebullición y remover constantemente. Ir añadiendo nuevos cazos de caldo. Se trata de que el arroz vaya absorbiendo poco a poco el líquido. Comprobar el punto de sal.
@@ -51,6 +49,5 @@ Cuando el arroz esté casi listo (al cabo de unos 12 minutos), le añadimos el v
 Lo retiramos del fuego, le echamos el queso y un poco de mantequilla. Dejamos reposar 5 minutos y servimos.
 
 <h3>Observaciones</h3>
-
 El risotto al azafrán es el acompañamiento tradicional del oso bucco
 

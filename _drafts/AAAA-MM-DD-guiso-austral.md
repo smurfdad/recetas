@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 g Carne de cordero
 
 1 vaso de Vino tinto seco
@@ -46,7 +45,6 @@ Pimienta negra, en granos, para moler
 Sal a gusto
 
 <h3>Preparación</h3>
-
 Corte la carne en cubitos de unos 2 cm. de lado. Vierta el aceite en la cazuela, caliente a fuego medio/alto y cocine la cebolla hasta que comience a dorarse.
 
 Entonces, añada la carne, la harina, mezcle bien, vierta el vino, el jugo de limón, agregue el tomate, sale a gusto. Cocine a fuego lento unos 30 min., cuidando de revolver 4 o 5 veces en ese lapso de tiempo.

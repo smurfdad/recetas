@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kilo salmonetes medianos.
 
 2 Dientes de ajo.
@@ -40,7 +39,6 @@ Sal al gusto.
 Un chorrito de agua si se precisa
 
 <h3>Preparación</h3>
-
 Lo principal es la elaboración de la salsa, la que se tendrá que echar sobre los salmonetes asados, a la plancha o al carbón.
 
 En un mortero machacamos el ajo y el perejil hasta que quede hecho una pasta. A continuación iremos trabajando ésta agregándole el aceite poco a poco, sin dejar de mover y siempre en el mismo sentido, hasta que la salsa haya ligado; lo mismo haremos con el vinagre.

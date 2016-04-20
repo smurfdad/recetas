@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. pimientos verdes
 
 1/2 kg. cebolla
@@ -25,7 +24,6 @@ Para 8 personas.
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Limpiar y picar en pequeños trozos los pimientos, cebolla, tomate, calabacín y chorizo.
 
 Calentar el aceite en una cazuela baja y echar a rehogar el chorizo. Después la cebolla, los pimientos, y finalmente los calabacines y tomate.

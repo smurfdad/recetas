@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 g de calabacín
 
 500 g de patata
@@ -39,6 +38,5 @@ Para 4 personas.
 2 dl de aceite de oliva
 
 <h3>Preparación</h3>
-
 Trocearemos el calabacín y la patata como para hacer tortilla. Cortaremos los pimientos rojos, en cuadrados de 1 cm aproximadamente, y también los tomates. Una vez limpios, freiremos los cuatro productos por separado hasta pochar la cebolla y el calabacín y doraremos ligeramente la patata. Después de escurrirlos bien, los juntaremos y dejaremos de 5 a 10 minutos a fuego lento para que se terminen de hacer. Añadimos el bonito en escabeche y un huevo crudo, rompiéndolo con la paleta. Mezclamos bien todo durante 5 minutos y listo.
 

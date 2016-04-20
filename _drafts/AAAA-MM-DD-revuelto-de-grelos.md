@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Grelos cocidos
 
 4 huevos
@@ -34,6 +33,5 @@ Aceite
 1/2 cebolla
 
 <h3>Preparación</h3>
-
 En un poco de aceite se dora la cebolla picada muy fina. A continuación se incorporan los grelos cocidos también picados y se rehogan junto a la cebolla. Se añaden los huevos y se cuaja el revuelto al gusto.
 

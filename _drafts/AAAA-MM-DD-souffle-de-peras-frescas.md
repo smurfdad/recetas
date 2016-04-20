@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 5 peras maduras (650 g).
 
 1 cucharada de jugo de limón.
@@ -37,7 +36,6 @@ Para 6 personas.
 1 cucharadita de esencia de vainilla.
 
 <h3>Preparación</h3>
-
 1. Elabore un puré de peras. Pele y corte a trozos las peras. Mézclelas con el jugo de limón en una olla de 2 litros y cuézalas 15 minutos, a fuego alto, o hasta que estén muy tiernas. Destápelas y cuézales entre 10 y 15 minutos más, removiéndolas de vez en cuando, hasta que casi estén secas. Traspáselas a una batidora eléctrica, y redúzcalas a puré. Póngalas en un recipiente grande y enfríelas a temperatura ambiente. Precaliente el horno a 190 &deg;C (gas 5). Engrase 6 moldes para suflé o refractarios de 175 ml y espolvoréelos con 2 cucharadas de azúcar.
 
 2. Bata las claras y el crémor tártaro en un recipiente, hasta que formen picos blandos. Incorpore, batiendo, la esencia de vainilla y, sin dejar de batir, a velocidad alta, los 50 g restantes de azúcar, hasta que la mezcla forme picos firmes.

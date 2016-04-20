@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 3 lbrs. de pollo en presas
 
 2 cdas. de sal
@@ -49,6 +48,5 @@ categories:
 1/2 media cdita. de azúcar.
 
 <h3>Preparación</h3>
-
 Pique el pollo en pedazos y adobe. Caliente el aceite y añada la cucharadita de azúcar, fría por un minuto. Eche el pollo y dore. Añada los demás ingredientes, tape y cocine a fuego lento. Sírvalo con tostones y ensalada.
 

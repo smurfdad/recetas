@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 zanahorias grandes
 
 6 tazas de leche
@@ -34,7 +33,6 @@ una pizca de pimienta blanca molida
 sal al gusto
 
 <h3>Preparación</h3>
-
 Pele las zanahorias, lavelas y pongalas a cocer con 2 tazas de agua, durante 15 minutos, en la olla de presion.
 
 Enfrie la olla bajo el chorro del agua fria, destapelas y ponga las zanahorias en la licuadora con la leche, la sal y la pimienta.

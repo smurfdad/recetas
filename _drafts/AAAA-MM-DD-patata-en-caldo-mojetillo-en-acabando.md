@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de patatas
 
 1 tomate
@@ -42,7 +41,6 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Se sofríe el bacalao, el tomate y unas tiritas de pimiento y laurel, añadiéndoles después las patatas cortadas a cuadros, y echando a continuación el agua hasta cubrir, dejando hervir durante una hora. Un poco antes de quitar, se le añade un huevo duro en rodajas.
 
 De las patatas últimas, se sacan unas pocas antes de terminar, chafándose con un tenedor, se les pone aceite crudo y sal, quedando un mojetillo muy sabroso.

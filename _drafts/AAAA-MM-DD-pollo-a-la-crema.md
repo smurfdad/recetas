@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pollo
 
 3 chiles para rellenar
@@ -39,6 +38,5 @@ Media barra de mantequilla
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Se pone a cocer el pollo con sal, se fríe la cebolla con la mantequilla, y los champiñones y se le agrega al pollo con el caldo y la crema. Después se fríen los chiles en rajas y se le agregan a la mezcla anterior. Se sirve caliente acompañada de arroz y pan francés.
 

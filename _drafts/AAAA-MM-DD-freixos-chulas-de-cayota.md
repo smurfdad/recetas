@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 calabaza, 1 kg.
 
 huevos, 8
@@ -41,6 +40,5 @@ aceite de oliva virgen,
 uvas pasas,
 
 <h3>Preparación</h3>
-
 Se limpia la calabaza, quitándole la piel y las semillas. Se pone a cocer en agua con un poco de sal. Una vez cocida, se reduce a pasta. Se mezcla con los huevos, la harina, el azúcar y las uvas pasas. Con esta masa se forman unas tortas. Se fríen en una sartén con aceite. Se espolvorean con azúcar y canela.
 

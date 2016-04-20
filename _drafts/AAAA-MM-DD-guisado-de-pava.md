@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kilo de pava
 
 6 patatas
@@ -42,6 +41,5 @@ Azafrán
 2 zanahorias
 
 <h3>Preparación</h3>
-
 Se trocea la pava y se sofríe con el tomate. Se vierte en una cazuela con agua (aproximadamente 1,5 litros) y se deja hervir. Se le añade el apio, la sal y el azafrán y se deja cocer durante treinta minutos. Se le añaden las patatas cuando la carne esté blanda así como una picada de ajo, almendras y perejil más la zanahoria cortada en rodajas. Se deja hervir hora y media.
 

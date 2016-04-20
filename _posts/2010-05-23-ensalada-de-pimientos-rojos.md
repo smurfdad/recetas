@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata grande de pimientos de buena calidad
 
 1 cebolleta grande
@@ -21,7 +20,6 @@ sal
 1 lata de bonito en aceite (opcional)
 
 <h3>Preparación</h3>
-
 Cortar en tiras finas los pimientos.
 
 Cortar la cebolleta en juliana (tiras finas).

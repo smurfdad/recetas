@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 12 Milanesas de Pavo
 
 Sal y pimienta blanca al gusto
@@ -46,6 +45,5 @@ Para la Crema
 Sal y pimienta blanca al gusto
 
 <h3>Preparación</h3>
-
 Se Sazona las milanesas de pavo con sal y pimienta, luego se rellena cada milanesa con una rebanada de jamón y media de queso amarillo. Se Enrolla y se cierra con palillos de madera. Se enharina cada rollo y se sacude los excesos. Pones a dorar las milanesas por todos su lados en una sartén con aceite, lo secas en papel absorbente. Colocalas en un recipiente refractario y lo cubres con papel aluminio. Antes de servir, cocinar en el horno a 350&ordm;F durante 20 minutos.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Para la masa:
 
 150 g de harina
@@ -44,7 +43,6 @@ Para el relleno:
 100 g de crema
 
 <h3>Preparación</h3>
-
 Poner la harina en un bol, y en el centro, colocar la mantequilla y el huevo a temperatura ambiente. Mezclar bien hasta obtener una masa homogénea. Estirar con las manos y cubrir cuatro moldes de tartaletas.
 
 Batir las claras a nieve bien firme, con una gota de limón y una pizca de sal, y añadir el almíbar hecho unos minutos antes, sin cesar de batir. Agregar las almendras molidas y revolverlas muy bien.

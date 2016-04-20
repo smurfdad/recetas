@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de pechuga de pollo sin piel,
 
 3 zanahorias,
@@ -39,6 +38,5 @@ Para 2 personas.
 sal, pimienta y otros condimentos a gusto.
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla y el morrón en un poco de agua. Agregar el caldo, diluído en agua hirviendo, y las zanahorias. Cuando éstas comiencen a ablandarse, agregar la salsa de tomate y el pollo en trozos; condimentar a gusto. Cocinar a fuego moderado, hasta completar la cocción del ave.
 

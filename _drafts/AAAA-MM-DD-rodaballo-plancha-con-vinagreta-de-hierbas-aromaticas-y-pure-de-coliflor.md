@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Rodaballo 0,80 kg
 
 Aceite de oliva 0,4&ordm; 0,12 l
@@ -48,6 +47,5 @@ Mantequilla 80,00 gr
 Cebollino
 
 <h3>Preparación</h3>
-
 Espinar el rodaballo, racionar y hacer a la plancha. Salsear con la vinagreta templada que se elabora con el vinagre, el aceite y las hierbas aromáticas finamente picadas. Como guarnición de la vinagreta (pimiento morrón, calabacin, champiñón) todo ello picado en cuadraditos regulares que se espolvorean sobre el rodaballo. A un lado del rodaballo añadir una cucharada de puré de coliflor que se elabora cociendo la coliflor en agua, escurrir, triturar e ir añadiendo poco a poco la mantequilla pomada (mantequilla que por medio del calor adquiere una téxtura cremosa), hasta obtener la textura deseada. Sobre el puré decorar con unas puntas de cebollino.
 

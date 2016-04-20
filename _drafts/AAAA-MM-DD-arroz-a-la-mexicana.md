@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 taza de Arroz
 
 2 tazas de Agua
@@ -46,6 +45,5 @@ Cebolla
 Sal al gusto
 
 <h3>Preparación</h3>
-
 Se rehoga el ajo, se le añade una rodaja de cebolla, la zanahoria y el jitomate picado, se añade sal y agua y se deja cocinar. Se remoja en agua hirviendo el arroz por 30 minutos y después se lava hasta que el agua salga clara, se pone en un colador y se escurre hasta que este seco. Se calienta el aceite y se frie el arroz hasta que esté dorado, se le añade la zanahoria en cuadritos y las alubias, se mezcla y se agrega el caldo que se ha hecho con el agua, el ajo, zanahoria, cebolla y jitomate. Se tapa y en cuanto empieza a hervir se baja el fuego al mínimo posible, se cocina por 20 minutos, se reposa unos 10 minutos cubriendo la cacerola con una servilleta de género y se sirve.
 

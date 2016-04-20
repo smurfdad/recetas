@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 taza de crema de leche.
 
 2 cdas. de cebollitas verdes, cortadas en rebanadas pequeñas.
@@ -34,7 +33,6 @@ categories:
 2 cda. de mostaza Dijon.
 
 <h3>Preparación</h3>
-
 En un recipiente mediano, mezcle bien la crema de leche, las rebanadas de cebollitas verdes y la crema agria.
 
 Añada el cilantro y bata.

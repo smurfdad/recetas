@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs de remolacha cocida y pelada
 
 200 grs de puerros
@@ -38,6 +37,5 @@ Sal
 Leche
 
 <h3>Preparación</h3>
-
 Se rehogan en el aceite de oliva los puerros bien picados y cuando estén bien pasados se les añade la remolacha troceada, la pimienta, la sal y se cubre todo con agua y se deja cocer durante 15 minutos. Después se tritura, añadiéndole leche hasta lograr la textura deseada, y se pasa por un colador fino
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 plátanos
 
 80 gr. de azúcar
@@ -32,7 +31,6 @@ Para 4 personas.
 piel de naranja
 
 <h3>Preparación</h3>
-
 Se pelan los plátanos y se ponen en una fuente.
 
 Se espolvorea el azúcar por encima y se adorna con la piel de naranja cortada en juliana(sin la parte blanca).
@@ -40,6 +38,5 @@ Se espolvorea el azúcar por encima y se adorna con la piel de naranja cortada e
 Se calienta el ron y se vierte encima de los plátanos, y se flambea.
 
 <h3>Observaciones</h3>
-
 Cuando se calienta y se flambea el ron se puede echar unos granos de café.
 

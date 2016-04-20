@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 lomo, 2kg.
 
 gelatina, 100gr.
@@ -51,6 +50,5 @@ laurel,
 huevos, 1 hilado para decorar
 
 <h3>Preparación</h3>
-
 Se deshuesa el lomo, se le pone sal y pimienta, y se ata con un cordel. Se dora a fuego fuerte en una asadora. Se pican las legumbres y se meten al horno. Cuando esté todo dorado se rehoga con el vino y se deja unos minutos en el horno fuerte. Se retira y se deja enfriar, se corta y se adorna con gelatina y huevo hilado. Se sirve acompañado de una ensalada.
 

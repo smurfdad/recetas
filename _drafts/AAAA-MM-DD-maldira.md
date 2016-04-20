@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 kg. de cordero
 
 3 yogures naturales
@@ -45,6 +44,5 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
-
 Se mezcla el yogur con el zumo de limón y se ponen a macerar en esta mezcla la berenjena y la cebolla, previamente peladas, cortadas en cuadraditos y sazonadas, durante una hora. Se corta la carne en trozos pequeños, se salpimenta y se pone a hervir con los cominos y las hierbas. A los 20 ó 25 minutos se echan también las verduras con el líquido de maceración, y se deja cocer todo junto otros 20 minutos más, hasta que la carne esté tierna. Se sirve decorando con los espárragos hervidos.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 gr. de judías blancas
 
 250 gr. de garbanzos
@@ -40,7 +39,6 @@ laurel
 sal
 
 <h3>Preparación</h3>
-
 De víspera, y por separado, se ponen a remojo los garbanzos y las judías.
 
 Se cuecen los garbanzos en agua hirviendo con ajo, cebolla, laurel y el hueso. Han de cocer lentamente.

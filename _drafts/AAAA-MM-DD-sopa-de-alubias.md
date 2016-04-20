@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 2 cucharaditas de aceite de oliva
 
 200g de hinojo finamente picado
@@ -55,7 +54,6 @@ Para el pesto:
 1 cucharada de aceite de oliva
 
 <h3>Preparación</h3>
-
 En una olla grande, calentar el aceite a fuego moderado, agregue la cebolla, el hinojo, el apio, la zanahoria, sal, pimienta y rehogar.
 
 Añadir los tomates, el caldo, la albahaca y dejar que suelte el hervor. Tapar bajar la llama y hervir por 10 minutos. Incorporar las alubias y cocinar hasta que se calienten bien.

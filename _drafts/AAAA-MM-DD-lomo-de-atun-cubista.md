@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 200 gramos de lomo de atún fresco
 
 50 mililitros de salsa de soya
@@ -40,7 +39,6 @@ Sal y pimienta al gusto
 50 mililitros de Campari
 
 <h3>Preparación</h3>
-
 Se corta el lomo de atún en forma de paralelepípedo.
 
 En una sartén bien caliente y con un toque de aceite de oliva, se dora el lomo muy brevemente por cada lado, de manera que sólo se cocine el borde mientras el centro quede crudo. Finalmente, se escurre en un papel absorbente, se reserva y se refrigera un cuarto de hora en la nevera.

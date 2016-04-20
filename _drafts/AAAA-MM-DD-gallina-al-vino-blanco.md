@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Almendra rallada o entera
 
 Sal ó concentrado de ave
@@ -38,7 +37,6 @@ Perejil
 1 ajo
 
 <h3>Preparación</h3>
-
 Freír una cebolla. Cuando esté transparente se saca con la espumadera y se deja aparte. En ese mismo aceite se fríe la gallina envuelta en harina. Escurrir el aceíte y cortar trozos que se introducen en la olla.
 
 Rehogar la cebolla frita y majar en el almidez con ajo, perejil y una yema de huevo cocida. Añadir un vaso de vino blanco y almendra picada. Cocer durante media hora. La clara del huevo se pica a trocitos cuando se va a servir.

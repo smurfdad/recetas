@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 trozo de lomo de ternera
 
 Zanahorias
@@ -44,7 +43,6 @@ Aceite de oliva
 Vino tinto
 
 <h3>Preparación</h3>
-
 Se aliña la carne con sal y pimienta. Con un cuchillo se le meten las aceitunas y las pasas de forma que quede bien repartido por toda la carne y se sofríe en un poco de aceite. Se saca y se pica la zanahoria en rodajas finas, se agrega al aceite donde se hizo la carne junto con el laurel y con 6 clavos.
 
 Cuando esté lista la zanahoria se vuelve a poner la carne en el sartén para que se dore un poco por todos los lados con esos ingredientes. Luego se le agrega un poco de azúcar para que se termine de dorar. Se agrega vino tinto al lomo hasta que le cubra por la mitad y se deja cocer a medio fuego. Se va pinchando cada 10 minutos para ver que está tierna.

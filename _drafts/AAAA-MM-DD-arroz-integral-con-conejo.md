@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Medio conejo a trocitos.
 
 240 g.de arroz integral
@@ -45,7 +44,6 @@ el zumo de medio limón
 100 g.de guisantes congelados.
 
 <h3>Preparación</h3>
-
 Primero freir en sartén el conejo con un poco de aceite, y unos ajos, a fuego fuerte, para que quede dorado y no cocido, sólo unos minutos. Quitar los ajos y el aceite, y a la cubeta.
 
 Cortar a trocitos los pimientos y añadir al conejo.

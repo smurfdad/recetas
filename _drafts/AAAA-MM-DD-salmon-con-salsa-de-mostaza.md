@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 taza de mostaza
 
 3 cucharadas de sirop de pancakes
@@ -38,6 +37,5 @@ sal y pimienta
 2 filetes de salmón
 
 <h3>Preparación</h3>
-
 Mezcle la mostaza con el sirop, ajo, jengibre, aceite, sal y pimienta. Marine el salmón con esta mezcla por 1 hora. Escurra el salmón y hornee a 375F. por 25 minutos volteando 2 veces y untando con la marinada a menudo. Sirva seguida.
 

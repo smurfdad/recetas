@@ -24,7 +24,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Para el caldo:
 
 1 kg. de restos de pescado (cabezas, pieles, espinas)
@@ -60,7 +59,6 @@ unos costrones de pan frito
 sal
 
 <h3>Preparación</h3>
-
 Pon en una cazuela las cabezas, espinas, etc. De pescado, los mejillones y la verdura troceada. Agrega 2 litros de agua y pone al fuego a cocer con una pizca de sal. Cuando empiece a hervir, quita y deja que hierva a fuego muy suave hasta que reduzca a la mitad. Cuélalo y reserva.
 
 En otra cazuela, pica muy fina la cebolla, ponla a rehogar con aceite y un poco de sal. Cuando se dore, añade la harina, mezcla bien y seguidamente agrega la salsa de tomate. Después, incorpora el caldo dejando cocer todo por espacio de unos 15 minutos a fuego no muy fuerte.

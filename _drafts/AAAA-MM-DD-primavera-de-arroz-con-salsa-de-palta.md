@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 tazas de arroz
 
 3 cuch de mantequilla
@@ -45,7 +44,6 @@ Para 8 personas.
 sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Derretir la mantequilla en una sarten y agregar todas las verduras,menos la palta.
 
 Sazonar y saltear bien durante 5 minutos.
@@ -57,6 +55,5 @@ Mezclar las verduras con el arroz previamente preparado.Probar los aliños.
 Servir con salsa de palta.
 
 <h3>Observaciones</h3>
-
 Opcion:mezclar la salsa de palta con el arroz,logrando que quede verde.
 

@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 calamares frescos
 
 2 latas de atun
@@ -39,7 +38,6 @@ Tomate natural
 Patatas
 
 <h3>Preparación</h3>
-
 Se limpian muy bien los calamares, se reservan las patas de los mismos, para rellenarlos, mientras se ponen los huevos a cocer, en una sartén se rehogan un poco las patitas de los calamares.
 
 A continuación en el mismo aceite se le añade los tomates triturados y se rehogan durante diez minutos, esto se aparta y se reserva.

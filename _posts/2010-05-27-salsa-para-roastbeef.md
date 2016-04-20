@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 l. de agua
 
 1 pastilla de caldo de carne
@@ -24,7 +23,6 @@ Para 6 personas.
 1/4 kg. champiñones ya hechos (opcional)
 
 <h3>Preparación</h3>
-
 Poner al fuego en un cazo, el agua, la pastilla de caldo de carne, el coñac y el vino blanco.
 
 Cuando se ponga a hervir, añadir la maizena disuelta en un poco de agua.

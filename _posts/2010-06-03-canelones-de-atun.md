@@ -10,7 +10,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 caja de canelones
 
 3 latas pequeñas de atún en aceite
@@ -36,7 +35,6 @@ sal
 queso rallado
 
 <h3>Preparación</h3>
-
 Poner una cazuela con agua, aceite y sal.
 
 Cuando hierva el agua echar los canelones y cocerlos.

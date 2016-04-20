@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de ternera
 
 2 cebollas
@@ -40,7 +39,6 @@ mantequilla
 patatas
 
 <h3>Preparación</h3>
-
 Poner la mantequilla en una cazuela y diluir.
 
 A continuación, añadir la cebolla finamente picada y rehogarla bien.

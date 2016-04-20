@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de arroz.
 
 1/4 de kg. de magro de cerdo.
@@ -41,7 +40,6 @@ Azafrán.
 Sal.
 
 <h3>Preparación</h3>
-
 En un caldero, se pone el agua con la morralla para hacer un buen caldo. Se deja hervir y se le echa el azafrán y la sal al gusto.
 
 A parte, se frien los ajos y se le añade después el tomate troceado.

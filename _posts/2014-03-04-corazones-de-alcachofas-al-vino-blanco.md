@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 2Kg de alcachofas
 
 4 dientes de ajo
@@ -27,7 +26,6 @@ categories:
 Sal
 
 <h3>Preparación</h3>
-
 Limpiar las alcachofas y partir por la mitad. Poner los ajos en una cacerola con un poco de aceite, cuando estén dorados añadir las alcachofas salpimentadas rehogando unos minutos. Añadir el vino y después el caldo.
 
 En un mortero majar la hierbabuena y añadir al guiso. Tapar la cacerola con papel de aluminio y dejar hasta que las alcachofas estén tiernas. Sacar las alcachofas a otro recipiente. Pasar la salsa por un chino añadiendo la maicena diluida en agua fría y dejar a fuego lento 3 minutos más. Emplatar las alcachofas salseándolas abundantemente.

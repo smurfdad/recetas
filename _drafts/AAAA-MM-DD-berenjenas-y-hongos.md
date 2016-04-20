@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas regular tamaño
 
 200 g champiñones
@@ -44,7 +43,6 @@ sal
 romero (opcional)
 
 <h3>Preparación</h3>
-
 Pelar y cortar las berenjenas en rodajas de 1 cm de espesor. Dar un hervor en 1 taza de agua con el vinagre. Dejar escurrir en un colador.
 
 Freir lentamente en el aceite los ajos cortados en láminas y la cebolla a la pluma. Cuando el sofrito esté dorado, agregar los pimientos cortados en tiritas, luego los champiñones cortados en láminas y, finalmente, las berenjenas escurridas. Agregar sal y pimienta al gusto y dejar a fuego lento y tapado durante 6 minutos. Vaciar en recipiente con tapa.

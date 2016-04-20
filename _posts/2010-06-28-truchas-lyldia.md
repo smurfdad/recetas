@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Cuatro truchas de ración
 
 Ajo
@@ -21,7 +20,6 @@ jamon picado
 una pastilla de avecrem de pescado.
 
 <h3>Preparación</h3>
-
 Se abren las truchas por la mitad quitandoles la espina central.
 
 Se rellenan con el jamón picado, el ajo y el perejil,también picaditos.Se cierra con un palillo la tripa, para que no se salga el relleno. Se fríen en una sartén.

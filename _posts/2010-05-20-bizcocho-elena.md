@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 200 grs. mantequilla
@@ -23,7 +22,6 @@ Para 6 personas.
 1 sobre royal (3 cucharadas)
 
 <h3>Preparación</h3>
-
 Batir bien las yemas con el azúcar.
 
 Cuando esté bien cremosa, añadir la mantequilla derretida, batiendo bien.

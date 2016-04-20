@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Pimientos del Piquillo
 
 centollo
@@ -51,6 +50,5 @@ nata líquida
 coñac
 
 <h3>Preparación</h3>
-
 Se pone en una cazuela un poco de mantequilla, se echa el centollo y las gambas, ya desmigados, se sala y se mezcla con un poco de harina y caldo de las gambas. Se deja enfriar y se rellenan los pimientos. Se sirve con salsa americana
 

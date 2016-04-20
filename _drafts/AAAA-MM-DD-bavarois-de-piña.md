@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata piña en almibar 1 Kg.
 
 250 grs. nata montada
@@ -34,7 +33,6 @@ Para 4 personas.
 1 limón
 
 <h3>Preparación</h3>
-
 En un molde redondo caramelizar las dos cucharadas de azúcar y reservar.
 
 En un cazo y a fuego lento, diluir los dos sobres de gelatina con el zumo de la piña en almíbar (1 vaso de los de agua). Cuando esté deshecho y fuera ya del fuego, añadir la piña y un vasito de agua y triturar con el minipimer. Añadir la piel rallada del limón y el zumo del limón.

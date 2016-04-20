@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 redondillo mediano
 
 1 cebolla grande
@@ -42,6 +41,5 @@ canela en polvo
 ciruelas
 
 <h3>Preparación</h3>
-
 En una olla ir rehogando el redondillo. Una vez dorado a fuego lento añadir la cebolla, los tomates bien troceados la sal la pimienta y el pimenton. Añadir agua hasta cubrir la carne y dejar cocer a fuego lento Cuando esté casi a punto, añadir la canela y las ciruelas.
 

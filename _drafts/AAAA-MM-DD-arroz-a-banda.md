@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Para 6 personas:
 
 400 gr. de arroz
@@ -52,7 +51,6 @@ Para 6 personas:
 Sal
 
 <h3>Preparación</h3>
-
 PREPARACIóN DEL CALDO:
 
 En un puchero poner aceite. Saltear la cebolla picada, después añadir el ajo picado, cuando esté frito añadir dos litros y medio de agua.
@@ -64,7 +62,6 @@ PREPARACION DEL ARROZ:
 En una paella poner un poco de aceite; cuando esté bien caliente poner el pescado troceado, después se añade el ajo picado y 1,2 litros de caldo colado. Cuando empiece a hervir repartir el arroz cociendo los primeros diez minutos a fuego vivo y después otros diez minutos a fuego lento.
 
 <h3>Observaciones</h3>
-
 Puede añadirse colorante alimentario para darle color.
 
 Puede añadirse o sustituir la sal por un dado de caldo concentrado, según gustos.

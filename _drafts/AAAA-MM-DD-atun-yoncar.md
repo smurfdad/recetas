@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Atún en aceite
 
 guindillas
@@ -32,6 +31,5 @@ anchoas en aceite
 mahonesa.
 
 <h3>Preparación</h3>
-
 Picar las guindillas y la cebolla muy finas. Mezclar el atún, con la mahonesa y el picadillo anterior. Colocar sobre el pan decorando con una anchoa.
 

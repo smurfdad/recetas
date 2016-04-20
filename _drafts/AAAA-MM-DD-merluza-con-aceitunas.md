@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Merluza 1 kg limpia y sin cabeza
 
 Tomate 1 taza triturado
@@ -47,6 +46,5 @@ Pimienta Blanca
 Sal
 
 <h3>Preparación</h3>
-
 Salpimentar la merluza y rebozarla en harina. Pelar y picar la cebolla y el diente de ajo. Picar el perejil y las aceitunas. Calentar el aceite en una sarten y sofreir el pescado por ambos lados. Escurrirlo y ponerlo en una fuente refractaria. En el mismo aceite dorar la cebolla y el ajo picados. Agregar el tomate triturado, el vino, las aceitunas y el perejil picados. Salpimentar y cocer a fuego suave 20 minutos. Mientras tanto, precalentar el horno a temperatura caliente (200&ordm;C - termostato 8). Verter la salsa sobre el pescado y cocer en el horno ya caliente durante 20 minutos. Servir enseguida.
 

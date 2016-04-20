@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. carne de ternera cortada en trozos pequeños.
 
 1 cebolla rallada
@@ -41,10 +40,8 @@ Sal
 Pimienta y especias
 
 <h3>Preparación</h3>
-
 Freír la cebolla hasta que tenga color dorado. Echar la carne y mover hasta que se absorba todo el agua. Añadir ajo y mover hasta que tenga color dorado. Añadir el agua y las especias y tapar. Vigilar de vez en cuando, si la carne necesita agua se le añade un poco hasta que esté tierna.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

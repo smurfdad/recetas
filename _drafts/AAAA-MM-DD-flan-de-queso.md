@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 onzas de queso crema
 
 Una lata de leche condensada
@@ -44,7 +43,6 @@ Una taza de azucar
 4 cdas. Agua
 
 <h3>Preparación</h3>
-
 Bata el queso crema anadiendo la leche evaporada poco a poco. Luego anada la leche condensada, luego los huevos de dos en dos, luego el azucar, la sal y la vainilla. Bata hasta que todo este bien unido.
 
 Caramelo:

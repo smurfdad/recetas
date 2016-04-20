@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 langostas individuales
 
 4 cucharadas de mantequilla
@@ -36,6 +35,5 @@ Nuez moscada
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Fundir la mantequilla en un bol al
 

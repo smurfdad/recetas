@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo
 
 1 cebolla
@@ -66,7 +65,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Limpiar bien el pollo y salpimentarlo.
 
 Colocar dentro la cebolla pelada.

@@ -11,7 +11,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 aguacates maduros
 
 1/2 cebolleta
@@ -25,7 +24,6 @@ zumo de 1/2 limón
 Salsa de mostaza
 
 <h3>Preparación</h3>
-
 Colocar la lechuga en una fuente de servir.
 
 Pelar los aguacates, cortarlos por la mitad y quitarles el hueso.

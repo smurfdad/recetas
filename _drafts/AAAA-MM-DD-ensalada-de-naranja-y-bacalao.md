@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de naranjas
 
 150 gr. de bacalao sin desalar
@@ -33,6 +32,5 @@ Para 4 personas.
 Aceite de oliva virgen
 
 <h3>Preparación</h3>
-
 Pelar y laminar los ajos, asarlos y reservarlos. Lavar el bacalao y dejarlo a remojo unas horas. Escurrirlo muy bien y asarlo sobre plancha. Limpiar de espinas y desmigar sobre los ajos. Pelar las naranjas y laminarlas sacándoles las pepitas y las partes blancas del centro. Mezclar todo e ir incorporando el aceite poco a poco hasta que esté bien ligado. Dejar macerar veinte minutos y adornar con hierbabuena. Servir frío.
 

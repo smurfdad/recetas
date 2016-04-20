@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 g de queso philadelphia
 
 1 cucharada de crema de leche
@@ -22,7 +21,6 @@ Para 4 personas.
 3 kiwis
 
 <h3>Preparación</h3>
-
 Batir el queso philadelphia en una batidora con la nata. Batimos también las dos claras a punto de nieve.
 
 Mezclamos ambos preparados con la ayuda de un tenedor y los reservamos apartados un momento.

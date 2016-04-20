@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Ingredientes para la masa:
 
 200 gr. de harina de trigo
@@ -63,7 +62,6 @@ Media cucharada de harina de trigo
 Sal, nuez moscada y pimienta
 
 <h3>Preparación</h3>
-
 Para la masa:
 
 Mezclar en un bol la harina de trigo, la harina de maíz, los huevos, la leche, la sal y el aceite de oliva, hasta conseguir una masa líquida pero densa sin grumos. (Si es necesario tritúralo con la batidora para que nos quede fina). A continuación untar con mantequilla una sartén (mejor utilizar una crepera que consiste en una sartén especial, más plana y más ancha que las demás, pero si no disponemos de ella también se pueden hacer en la sartén convencional). Poner al fuego la sartén y a continuación, derramar sobre ella dos cucharadas soperas de la mezcla anterior y repartirlas de manera que quede cubierto el fondo. Hay que tener en cuenta que no deben salir muy gordas, las crepes son más bien finas, de unos 2 milímetros de grosor aproximadamente. Con una espátula de madera, darle la vuelta y cuando esté doradita sacarla y reservar. Repetimos tantas veces hasta agotar la masa.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 chorizos
 
 2 cebollas medianas cortadas en tiras
@@ -33,7 +32,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Pinchar los chorizos y ponerlos en un recipiente para microondas tapado 6 minutos a potencia máxima, dándolos vuelta a mitad del tiempo.
 
 Colocar los chorizos sobre papel absorbente desechar la grasa y reservar.

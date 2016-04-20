@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Ud. conejo de 1,5 kg. aprox.
 
 3 rebanada pan
@@ -47,6 +46,5 @@ laurel
 1 rama perejil
 
 <h3>Preparación</h3>
-
 El conejo se trocea. En una sartén se pone el aceite y se fríen las rebanadas de pan, se retiran y se machacan en el mortero junto con el azafrán y los ajos fritos y se disuelve con un dl. de agua. En la grasa de freír el pan, se forma una tortilla con los 4 huevos, el pan rallado, la sal y la pimienta. Luego en la grasa que queda, se rehoga el conejo hasta dorar y se va poniendo en cacerola, que se vaya haciendo suavemente con el vino blanco. Se añade la tortilla cortada en trocitos como dados. Tapado se deja cocer muy despacio durante una hora, hasta que este tierno, rectificándolo de sal. Si quedara salsa demasiado espesa, se añade una pequeña porción de caldo o agua, dándole un hervor. Se presenta en fuente larga, con los trozos de tortilla. Se rehace el conejo, comenzando por los muslos y terminando por la cabeza.
 

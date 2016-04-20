@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 bacalao
 
 cebolla
@@ -35,6 +34,5 @@ aceite de oliva
 perejil
 
 <h3>Preparación</h3>
-
 Después de desalar bien el bacalao, escurrirlo, quitar espinas y piel y desmigarlo. Cocer las judías viudas. Picar la cebolla muy fina. Disponer en un plato las judías y en el centro el bacalao desmigado. Cubrir con la cebolla picada, un chorro de aceite de oliva y perejil picado. Las judías deben estar templadas, no frías para que resulte mas sabroso.
 

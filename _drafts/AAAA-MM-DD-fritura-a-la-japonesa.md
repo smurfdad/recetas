@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 langostinos
 
 Un calamar grande
@@ -58,7 +57,6 @@ Un vaso de agua
 3 cucharadas de salsa de soja
 
 <h3>Preparación</h3>
-
 Para preparar la salsa, mezcla todos los ingredientes en un cacito. Ponlo a calentar a fuego medio y, cuando rompa a hervir, retíralo y reserva.
 
 Pela los langostinos sin retirarles la hebra negra. Haz tres cortes diagonales en cada uno y aplástalos suavemente con los dedos. Colócalos sobre papel absorbente. Corta el tofu en dados pequeños.

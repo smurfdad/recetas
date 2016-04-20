@@ -9,7 +9,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Una rodaja de bonito gorda en un único trozo
 
 Leche.
@@ -19,7 +18,6 @@ Vino blanco (Montilla).
 Zumo de varios limones (dependiendo de la cantidad).
 
 <h3>Preparación</h3>
-
 Se limpia la rodaja de bonito y se mete unos 10 minutos en leche para que se desangre.
 
 Se escurre la leche del bonito, se lava ligeramente y se sala. Se le unta de mantequilla o se le ponen unas laminas de ésta por encima y se coloca en una cazuela de barro también untada previamente con mantequilla.

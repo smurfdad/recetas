@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 rodajas de rape.
 
 1 kg. de almejas.
@@ -28,5 +27,4 @@ sal
 pimienta blanca.
 
 <h3>Preparación</h3>
-
 Freír el rape con mantequilla. En la mantequilla de cocción añadir el fumet y el hinojo, dejar reducir y echar las almejas hasta que se abran. Retirar las almejas y añadir al caldo la crema de leche. Colocar el rape y las almejas en una bandeja resistente al horno, cubrirlo con la salsa y calentarlo antes de servirlo.

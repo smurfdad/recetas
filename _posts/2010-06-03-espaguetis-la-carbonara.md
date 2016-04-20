@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo espaguetis
 
 1 cebolla
@@ -25,7 +24,6 @@ pimienta blanca
 50 gr mantequilla
 
 <h3>Preparación</h3>
-
 Cocer los espaguetis como en las recetas anteriores.
 
 Picar muy fina la cebolla y rehogarla con la mantequilla, cuando este echa agregar el beicon en cuadraditos y freírlo.

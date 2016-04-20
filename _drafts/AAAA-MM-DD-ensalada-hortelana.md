@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 250 grs. de col blanca
 
 125 grs. de judias blancas redondas
@@ -45,7 +44,6 @@ el zumo de1/2 lima
 1/2 cucharadita de chile en polvo o cayena
 
 <h3>Preparación</h3>
-
 Hervir la col, las judías y la colifror en agua hirviendo con sal 3 minutos.
 
 Escurrir las verduras y colocar en una fuente. Distribuir por encima los brotes de soja.

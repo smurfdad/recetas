@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 contramuslos de pollo
 
 2 zanahorias
@@ -37,6 +36,5 @@ Para 2 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Se cortan todas las verduras en juliana y se ponen a cocer. Sobre ellas, en una vaporera, se colocan los contramuslos de pollo sazonados. Se deja cocer todo el conjunto durante media hora, dándole la vuelta al pollo a mitad de la cocción.
 

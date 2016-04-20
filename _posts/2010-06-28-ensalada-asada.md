@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg de berenjenas
 
 1/2 kg. de tomates
@@ -30,7 +29,6 @@ Limón
 10 dl: de aceite
 
 <h3>Preparación</h3>
-
 Se ponen en una rustidera las berenjenas, los tomates, los pimientos, las cebollas y los ajos tiernos. Se embadurna todo con aceite con una brocha y se mete al horno a fuego lento durante 90 minutos, aproximadamente.
 
 Si se ha asado todo menos la cebolla, se deja ésta y se saca todo lo demás. Se deja enfriar un poco, pero no mucho porque es mejor para pelarlos.

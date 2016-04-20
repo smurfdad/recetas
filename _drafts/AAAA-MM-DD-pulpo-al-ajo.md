@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Kilo y medio de pulpo
 
 6 dientes de ajo
@@ -33,10 +32,8 @@ Kilo y medio de pulpo
 Sal
 
 <h3>Preparación</h3>
-
 Se lava el pulpo y se maza. Se cuece y una vez cocido se parte en trozos pequeños que se saltean con el aceite y con los ajos picados.
 
 <h3>Observaciones</h3>
-
 Se sirve en cazuela de barro y se presenta hirviendo a la mesa.
 

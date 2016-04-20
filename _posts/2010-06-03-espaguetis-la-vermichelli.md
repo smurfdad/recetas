@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de espaguetis
 
 1/2 kilo de salsa boloñesa
@@ -19,7 +18,6 @@ Para 6 personas.
 50 gr mantequilla
 
 <h3>Preparación</h3>
-
 Cocer la pasta como en las recetas anteriores.
 
 Una vez fría, saltearla a fuego vivo con la mantequilla.

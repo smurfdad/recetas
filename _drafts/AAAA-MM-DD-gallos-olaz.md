@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 gallos medianos
 
 100 gr mejillones
@@ -51,7 +50,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Sazonar los gallos ya limpios con sal dándoles una vuelta en la plancha y reservar.
 
 Las gambas peladas y la merluza cortada a cuadraditos, la saltearemos un poco con mantequilla, para que se haga y reservar.

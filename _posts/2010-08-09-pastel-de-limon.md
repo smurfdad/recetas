@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 20 grs. de gelatina (c. de pescado)
 
 1 sobre de gelatina de limón
@@ -31,7 +30,6 @@ Ralladura de limón
 Hojas de gelatina
 
 <h3>Preparación</h3>
-
 Picar las galletas y mezclar con la mantequilla derretida. Forrar el molde con esta mezcla.
 
 Poner las hojas de gelatina en remojo con agua. Mezclar el queso Philadelphia, con el azúcar y la ralladura de limón.

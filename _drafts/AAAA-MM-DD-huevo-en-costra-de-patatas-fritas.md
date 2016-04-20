@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 8 lonchas de Jabugo
@@ -47,7 +46,6 @@ Perifollo
 Salsa holandesa
 
 <h3>Preparación</h3>
-
 Partir las patatas en láminas milimétricas, añadir sal y confitar a horno muy suave hasta que estén tiernas. Escalfar los huevos en agua con sal y vinagre el tiempo necesario para que cuaje la clara y la yema quede totalmente líquida. Pelar, despepitar y picar el tomate, y confitar en aceite de oliva y ajo. Tostar las rebanadas de pan y hacer unas
 
 tostadas de ajo con aceite virgen y Jabugo.

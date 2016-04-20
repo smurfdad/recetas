@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 champiñones grandes
 
 25 colas de langostino
@@ -40,7 +39,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Pelamos los langostinos, a 16 los dejamos con la colita y los abrimos a la mitad, dejándolos unidos por la cola; el resto los picamos en dados pequeños.
 
 Lavamos los champiñones y les quitamos los troncos, los colocamos en una bandejita de horno con un poco de aceite y sal; los metemos a horno precalentado a 160&ordm; C. durante diez minutos. Los sacamos, estarán casi hechos.

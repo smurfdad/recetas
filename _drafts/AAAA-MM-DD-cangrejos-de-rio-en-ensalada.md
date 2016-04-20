@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 20 cangrejos de río
 
 1 manojo de espárragos verdes
@@ -51,6 +50,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Capar los cangrejos. Lavarlos en agua fría y escurrirlos. Calentar el aceite en una sartén y agregar los cangrejos, salpimentar, y continuar la cocción hasta que estén rojos. Lavar y cortar los pimientos en trozos iguales y freírlos en el aceite restante muy caliente. Escurrirlos. Batir el vinagre con la sal, agregar el aceite poco a poco, los dientes de ajo y las aceitunas. Mezclar bien. Lavar los cogollos, escurrirlos u cortarlos en cuatro. Poner 1/2 cogollo en cada plato, y repartir los cangrejos y los espárragos. Rociar con la vinagreta y servir enseguida.
 

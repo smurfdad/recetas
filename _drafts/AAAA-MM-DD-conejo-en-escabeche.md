@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo
 
 400 ml de aceite
@@ -46,6 +45,5 @@ Pimienta blanca
 Tomillo
 
 <h3>Preparación</h3>
-
 Se dora el conejo troceado hasta que coja color dorado y después se pone a cocer en el resto de ingredientes, con la zanahoria cortada en dados y los ajos pelados, durante 1 hora a fuego lento.
 

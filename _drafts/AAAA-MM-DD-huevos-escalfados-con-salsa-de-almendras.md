@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos.
 
 8 cucharadas de leche.
@@ -44,7 +43,6 @@ Una ramita de perejil.
 Sal.
 
 <h3>Preparación</h3>
-
 Pelamos el diente de ajo y junto con las almendras y 8 cucharadas de leche picamos todo en la batidora hasta formar una crema.
 
 Sin dejar de batir incorporamos un chorrito de aceite de oliva 0&acute;4&ordm; para darle consistencia de mayonesa.

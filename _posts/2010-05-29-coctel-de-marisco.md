@@ -7,7 +7,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg. de gambas frescas.
 
 1/2 kg. de cigalitas.
@@ -19,7 +18,6 @@ Salsa mayonesa.
 Mayonesa.
 
 <h3>Preparación</h3>
-
 En una cazuela echamos agua con un buen puñado de sal, si es gorda mejor.
 
 Cuando el agua esté a punto de ebullición echamos primero las cigalas, esperamos un minuto y a continuación las gambas.

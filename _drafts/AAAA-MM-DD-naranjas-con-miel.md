@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1.000 gr. Naranjas (4 Ud.)
 
 250 ml. Nata montada
@@ -30,7 +29,6 @@ Para 6 personas.
 100 gr. Miel caliente
 
 <h3>Preparación</h3>
-
 En primer lugar, pelamos con cuidado las naranjas, procurando quitar a poder ser, la pulpa que les cubre. Luego las cortamos en ruedas y las colocamos en una fuente bien repartidas .En el centro de la fuente ponemos la nata.
 
 Seguidamente echamos la miel por encima.

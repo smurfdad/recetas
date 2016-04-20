@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de urta
 
 Un vaso de tomate frito
@@ -36,7 +35,6 @@ Nata montada
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Poner a derretir la mantequilla en una sartén grande.
 
 Tener limpia la urta y troceada. Agregarla a la sartén. Salpimentar y rehogar unos instantes el pescado. Añadir el brandy y flamear unos momentos, quemando el alcohol. Poner el tomate frito, dar un hervor y pasarlo todo a una cazuela de barro. Colocar la nata montada encima y meter al horno caliente unos tres minutos. Sacar y servir caliente.

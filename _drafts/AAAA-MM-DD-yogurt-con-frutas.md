@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 litro yogurt líquido natural
 
 Azúcar morena al gusto
@@ -30,6 +29,5 @@ Azúcar morena al gusto
 2 cambures
 
 <h3>Preparación</h3>
-
 Colocar en el vaso de la licuadora las frutas lavadas y picadas luego colocar el yogurt, y endulzar con el azúcar morena a su gusto, servir en vasos altos o copas con hielo.
 

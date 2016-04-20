@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 gr. de rúcola
 
 150 gr. de queso mozarella
@@ -35,6 +34,5 @@ Para 4 personas.
 sal, pimienta, aceite de oliva virgen extra
 
 <h3>Preparación</h3>
-
 Ponga una cacerola con agua a hervir. Cuando el agua empieza a hervir echamos la sal (dos cucharadas) y la pasta. Seguimos las instrucciones que indica el paquete para el tiempo de cocción. Mientras tanto pele los tomates, les quita las pepitas si tuvieran, cortándolos a dados. Corte la mozzarella también a dados y los manojos de rúcola. Colóquelo todo en un bol para ensaladas, eche sal, pimienta y aceite de oliva y remueva para mezclar. Escurra la pasta y viértala en el bol con los tomates, mozzarella y rúcola. Mezcle y sirva inmediatamente.
 

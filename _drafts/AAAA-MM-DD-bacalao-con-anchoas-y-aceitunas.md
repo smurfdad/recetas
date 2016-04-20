@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 g. de bacalao
 
 1 cebolla grande
@@ -45,7 +44,6 @@ Perejil
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Poner el bacalao en remojo durante 24 horas, cambiándole el agua varias veces.
 
 Sofreir las anchoas, el diente de ajo y la cebolla cortada en anillos. Añadir el bacalao, previamente pasado por harina.

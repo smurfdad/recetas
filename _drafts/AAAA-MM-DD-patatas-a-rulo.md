@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg. de patatas
 
 1/2 kg. de tomates
@@ -42,6 +41,5 @@ aceite
 unas hojas de lechuga
 
 <h3>Preparación</h3>
-
 Una vez hervidas las patatas, se pelan, cortándose a modo de rodajas o rulos. Se trocean los tomates, cebollas, pepinos, y los huevos previamente hechos duros. Se le añade el atún, mezclando bien todo y aliñándolo con el aceite, sal y un poco de pimienta, y colocando arriba, bien adornado, las aceitunas y las hojas de lechuga.
 

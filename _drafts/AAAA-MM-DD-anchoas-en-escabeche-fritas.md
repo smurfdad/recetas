@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 78 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kgr. de anchoas
 
 sal
@@ -41,10 +40,8 @@ harina
 aceite de oliva virgen
 
 <h3>Preparación</h3>
-
 Limpiar las anchoas y colocarlas abiertas durante unas 5 horas con sal, ajo, perejil y un poquito de vinagre. Al tiempo de hacerlas sacarlas del escabeche, pasarlas por harina y huevo y freirlas cuando esté muy caliente.
 
 <h3>Observaciones</h3>
-
 Puede hacerse tambien con sardinas, pero solo si son pequeñas y muy finas.
 

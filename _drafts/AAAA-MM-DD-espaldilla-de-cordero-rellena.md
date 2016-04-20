@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de espaldilla de cordero
 
 2 criadillas
@@ -34,7 +33,6 @@ Para 4 personas.
 sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Lavar las criadillas y cortar menudas.
 
 Deshuesar la espaldilla y por la parte interior rellenar con la panceta y criadillas. Todo bien sazonado.

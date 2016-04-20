@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 K. de cordero
 
 1 cebolla
@@ -44,7 +43,6 @@ Pimentón
 Agua.
 
 <h3>Preparación</h3>
-
 Salamos el cordero en trozos y lo ponemos en una cazuela que tenga el fondo cubierto de aceite. Añadimos la cebolla, dos ajos y el perejil picado en trozos grandes.
 
 Agregamos agua que cubra el guiso y lo ponemos a fuego lento 2 horas.

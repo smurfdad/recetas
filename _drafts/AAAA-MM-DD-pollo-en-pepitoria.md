@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo de 1,5 Kg
 
 2 cebollas
@@ -51,7 +50,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Trocear el pollo y sazonar con sal y pimienta blanca.
 
 Dorar el pollo en aceite bien caliente y pasarlo a una cazuela.

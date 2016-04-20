@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Pulpo Mediano
 
 Ajos (4 o 5 dientes)
@@ -34,6 +33,5 @@ Aceite de Oliva
 Pimentón
 
 <h3>Preparación</h3>
-
 Cocer el pulpo con una patata. Cuando la patata esté lista el pulpo estará tambien.Sacar el pulpo y escurrir. Añadir en crudo los demás ingredientes y aliñar
 

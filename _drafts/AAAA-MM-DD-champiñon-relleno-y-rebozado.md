@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Champiñones
 
 sal
@@ -36,6 +35,5 @@ jamón serrano picado
 bechamel espesa
 
 <h3>Preparación</h3>
-
 Limpios los champiñones, les quitamos los troncos y en una de las txapelas, ponemos un poquito de sal, pimienta, gotas de aceite, un poco de ajo picado, un poco de jamón y una cucharada de bechamel. Colocamos la otra txapela, encima de la bechamel, y apretamos un poco. Rebozamos en harina, huevo y pan rallado y freímos en aceite abundante y bien caliente. Adornamos con un borde de bechamel.
 

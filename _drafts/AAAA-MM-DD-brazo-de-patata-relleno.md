@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de patatas.
 
 1 lata de atún en aceite.
@@ -44,7 +43,6 @@ Pimienta.
 Nuez moscada.
 
 <h3>Preparación</h3>
-
 Se pelan las patatas y se cortan en trozos no demasiado pequeños, a continuación se hierven en agua con sal durante 15 minutos. Se van preparando también los huevos duros.
 
 Se escurren las patatas y se hace un puré con ellas, debiendo quedar espeso y fino. Se condimenta con la nuez moscada, la sal y la pimienta, añadiendo también la mantequilla y removiéndolo todo. Se extiende un troza de plástico film donde se reparte todo el puré. Picamos a continuación dos de los tres huevos, casi todas las aceitunas y los pimientos. Junto con el atún y un poco de mayonesa, colocamos todo sobre el puré.

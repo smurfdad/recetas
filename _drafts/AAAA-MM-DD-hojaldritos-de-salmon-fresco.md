@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de salmón fresco
 
 500 gr. de masa de hojaldre
@@ -46,7 +45,6 @@ pimienta
 2 cucharadas de harina
 
 <h3>Preparación</h3>
-
 Se hierve el arroz en agua sazonada con sal, durante 18 minutos. Se escurre y se deja enfriar. En otra cazuela se pone a hervir agua sazonada con sal. Cuando empiece a hervir se baja el fuego para que hierva despacio y entonces se pone dentro el salmón.
 
 Se pocha sólo un par de minutos y se apaga el fuego. Se deja enfriar el salmón en el agua de cocción. Una vez frío el salmón, se calienta la nata en un cazo pequeño y se le añade el queso rallado, a fuego muy suave, removiendo la mezcla con una cuchara de madera, hasta que se obtenga una crema espesa y homogénea. Se escurre el salmón y se le quita la piel y las espinas. Se desmiga con un tenedor y se añade a la crema anterior, junto con el arroz, la yema de huevo y el perejil. Se sazona el conjunto con sal y pimienta. Se mezcla todo bien y se deja enfriar. Se espolvorea harina sobre la mesa de trabajo y se extiende en ella el hojaldre, lo más fino posible. Se cortan triángulos.

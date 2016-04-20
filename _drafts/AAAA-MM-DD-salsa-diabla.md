@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 3 cucharadas soperas de cebolla picada
 
 2 pimientos rojos medianos picados
@@ -47,6 +46,5 @@ pimienta
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla, el pimiento y los ajos en un poco de aceite. Añadir todos los otros ingredientes y dejar reducir y espesar a fuego lento durante 30 minutos aproximadamente. Puede servirse fria o caliente.
 

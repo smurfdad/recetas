@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de berberechos
 
 350g de champignones en lata fileteados
@@ -41,7 +40,6 @@ Perejil picado
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 En una sartén de teflón colocar aceite de oliva y saltar los champignones.
 
 Cortar los huevos en mitades y en juliana los pimientos rojos.

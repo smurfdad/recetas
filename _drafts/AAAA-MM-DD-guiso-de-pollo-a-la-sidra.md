@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 400gr de pechuga de pollo.
 
 2 vasos de sidra.
@@ -39,7 +38,6 @@ Sal.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Cortamos las pechugas de pollo en trozos y salamos. Las rehogamos en una cazuela con dos cucharadas de aceite y la cebolla.
 
 Agregamos la sidra y el laurel y dejamos cocer a fuego lento durante 20 minutos.

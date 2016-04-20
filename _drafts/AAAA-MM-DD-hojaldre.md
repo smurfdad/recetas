@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de harina
 
 200 gr. de mantequilla
@@ -32,7 +31,6 @@ categories:
 800 gr. de mantequilla.
 
 <h3>Preparación</h3>
-
 Colocaremos en primer lugar en un bol o si no en la amasadora la harina, la sal, 200 gr. de mantequilla, pomada si se hace a mano y dura, en trocitos, si se hace a máquina. Se mezcla esto durante medio minuto y se le añade el agua. Amasamos hasta obtener una masa lisa.
 
 Una vez tengamos esto, hacemos una bola y dejamos reposar durante media hora como mínimo, en la cámara.

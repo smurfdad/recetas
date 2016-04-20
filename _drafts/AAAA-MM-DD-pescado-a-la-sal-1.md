@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pescado (cualquiera) de 1 kg
 
 3 kg de sal gorda
@@ -31,7 +30,6 @@ Para 4 personas.
 2 yemas de huevo crudas
 
 <h3>Preparación</h3>
-
 Mezclar la sal con las yemas e ir añadiendo un poco de agua, la suficiente para poder amasar el conjunto.
 
 Colocar la mitad de la mezcla en una fuente de horno. Poner encima el pescado con tripas (sale mejor) y añadir el resto de la mezcla por encima apretando un poco. Tenerlo en el horno unos 40 minutos.

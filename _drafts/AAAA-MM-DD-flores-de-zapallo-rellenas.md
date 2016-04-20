@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 8 flores de zapallo
 
 1/2 taza de queso rallado
@@ -49,6 +48,5 @@ perejil
 aceite necesario para freir
 
 <h3>Preparación</h3>
-
 Con cuidado se enjuagan las flores de zapallo se mezcla la ricota el queso rallado los condimentos y 4 huevos se rellenan las flores y se atan en la punta para que no se salga el relleno mezclar la harina el polvo de hornear los 2 huevos y la leche que quede chirla y se pasan las flores por la pasta y se frien en aceite caliente al sacarlas se ponen en papel absorvente
 

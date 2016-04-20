@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga
 
 12 gambas
@@ -47,7 +46,6 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Separa las hojas de la lechuga y ponlas a remojar en la fregadera con agua y un buen chorro de vinagre. Pasa hoja a hoja por el grifo de agua fría, escurre y pícala en juliana fina.
 
 Pon los huevos y las patatas a cocer durante 20 minutos.

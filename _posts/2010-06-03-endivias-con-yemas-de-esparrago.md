@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 6 endibias
 
 1 lata de yemas de espárragos
@@ -25,7 +24,6 @@ vinagre
 perejil
 
 <h3>Preparación</h3>
-
 Se sueltan las hojas de las endibias y se colocan en una fuente.
 
 Encima se ponen unas yemas de espárrago.

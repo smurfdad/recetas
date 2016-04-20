@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 solomillos de buey de 200 gramos.
 
 100 gramos de queso roquefort.
@@ -52,7 +51,6 @@ Para la guarnición:
 Sal.
 
 <h3>Preparación</h3>
-
 Abrimos los solomillos por la mitad a lo largo sin llegar a partirlo del todo y colocamos en su interior unos trozos de queso roquefort. Volvemos a tapar y con un loncha de tocino o de bacon envolvemos el lateral del solomillo, atamos con una cuerda de bridar para que no se suelte durante el cocinado.
 
 Cocinamos al estilo plancha el solomillo en una sartén o una parrilla. La sartén debe estar caliente y el solomillo ligeramente engrasado con aceite. Lo cocinamos vuelta y vuelta, al gusto del comensal. Salamos ligeramente el solomillo cuando esté cocinado. El calor que tiene junto con los jugos, funden la sal que hemos añadido. Retiramos el solomillo de la sartén.

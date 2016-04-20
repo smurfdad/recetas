@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 20 champiñones grandes y frescos
 
 1 cebolla picada
@@ -48,7 +47,6 @@ Sal y pimienta
 Pan rallado para espolvorear
 
 <h3>Preparación</h3>
-
 Limpiar bien los Champiñones con trapo húmedo, quitarles el tallo y reservarlos.
 
 Rehogar en sartén a fuego suave cebolla, laurel, albahaca, los tallos de champiñon picados agregar vino blanco, caldo de verduras y dejar reducir y luego enfriar.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de atún
 
 2 cebollas medianas
@@ -34,7 +33,6 @@ Para 4 personas.
 salsa de tomate
 
 <h3>Preparación</h3>
-
 Limpiar y trocear el atún en tacos.
 
 Sazonar con sal, pasarlo por harina y darle un golpe fuerte en la sartén.

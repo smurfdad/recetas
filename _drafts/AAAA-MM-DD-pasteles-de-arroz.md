@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 180 gr. de azúcar
 
 60 gr. de harina
@@ -43,7 +42,6 @@ Para 4 personas.
 hojaldre
 
 <h3>Preparación</h3>
-
 En un cazo se pone el azúcar, la harina, la Maizena y la vainilla. A continuación, se echan los huevos y la yemas, a los que se añade la mantequilla blanda y se mezcla todo, incorporando la leche poco a poco.
 
 Se forra un molde con hojaldre y se añade la mezcla anterior. Se mete al horno, que debe estar muy fuerte, durante un cuarto de hora, aproximadamente.

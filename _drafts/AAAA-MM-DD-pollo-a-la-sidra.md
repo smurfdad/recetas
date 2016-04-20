@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo de corral
 
 3 cebollas
@@ -40,7 +39,6 @@ Para 6 personas.
 Aceite de oliva virgen y sal marina
 
 <h3>Preparación</h3>
-
 Poner una cazuela a fuego lento con un poco de aceite y las cebollas cortadas en fina juliana; dejar hacer tapadas durante media hora. Agregar el pollo troceado y salado. Quince minutos más tarde, incorporar el medio litro de sidra, que dejaremos reducir a la mitad. Sucedido, se vierte el caldo de carne y las patatas peladas y troceadas. Diez minutos después, las manzanas peladas y en gajos, rectificar de sal y dejar hacer otros diez minutos más.
 
 Nota: según la calidad del pollo, tardará más o menos, por lo que habrá que adecuar la incorporación de los otros ingredientes en función de cómo vaya la hechura.

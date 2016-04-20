@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cadera de cerdo
 
 2 vasos de txakoli (vino blanco)
@@ -46,7 +45,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Ata la cadera con una lid de cocina, salpimiéntala y ponla a dorar en una sartén con un poco de aceite. Pásala a una fuente apta para el horno, riégala con el txakoli e introduce en el horno a 180&ordm; C durante 30 minutos. Retira la carne del horno, quítale la cuerda, corta la pieza en filetes y sírvelos en una fuente amplia.
 
 Pasa el jugo resultante a una cazuela y dale un hervor. Añade un poco de harina de maíz refinada diluida en agua, mezcla, cocina un poco hasta que espese y riega la carne. Decora con una rama de perejil.

@@ -22,7 +22,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarro de leche condensada
 
 1 tarro de leche hervida
@@ -46,7 +45,6 @@ La ralladura de un limon
 1 trozo de mantequilla
 
 <h3>Preparación</h3>
-
 Se mezclan las 3 leches dejando una tercera parte.
 
 Se pone a hervir y se le echa el resto de la leche previamente licuada con las 6 yemas y la harina de trigo.

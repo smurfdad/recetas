@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 panecillos de hamburguesas (u otro tipo de pan para hacer bocadillo).
 
 4 hojas de lechuga.
@@ -46,7 +45,6 @@ Para las hamburguesas de salmón:
 Sal.
 
 <h3>Preparación</h3>
-
 Para elaborar las hamburguesas, trituramos el salmón en la picadora, añadimos la cebolla troceada, la sal, la fécula de patata y la nata liquida, hasta formar una pasta manejable.
 
 Preparamos 8 hamburguesas y las cocinamos a la plancha vuelta y vuelta.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 6 Presas de pollo
 
 2 zapallitos medianos en torrejas
@@ -51,7 +50,6 @@ Sal
 1 cucharada de aceite
 
 <h3>Preparación</h3>
-
 Coloque a reposar por 20 a 30 minutos las presas de pollo en el jugo de limón para que pierdan el sabor a hormonas del criadero.
 
 Luego adobe con sal y aliños mientras prepara la verdura.

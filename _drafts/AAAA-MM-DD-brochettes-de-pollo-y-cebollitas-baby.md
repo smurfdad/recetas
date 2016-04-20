@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 pechugas de pollo cortadas en cubos
 
 200g de jamón cocido en cubos
@@ -39,7 +38,6 @@ Aceite
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Sellar los cubos de pollo junto con el jamón cocido, el jamón crudo y las cebollitas baby, en una sartén con un poco de aceite. Agregar el vino blanco y dejar reducir, salpimentar a gusto.
 
 Tomar un pincho de brochette colocar un trozo de pollo, luego uno de jamón cocido y luego media cebollita baby cortada longitudinalmente, luego otro de jamón crudo, repetimos la acción y dejamos como último un trozo de pollo.

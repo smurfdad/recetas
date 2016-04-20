@@ -22,7 +22,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo
 
 pimienta
@@ -48,7 +47,6 @@ tomillo, perejil, orégano
 100g crema de leche
 
 <h3>Preparación</h3>
-
 Cortar el conejo en presas pequeñas, deshechar los extremos de las patas, la cabeza y el hueso de la columna.(Reservar).
 
 Espolvorear las presas con sal, pimienta y dejarlas al fresco 1 hora.

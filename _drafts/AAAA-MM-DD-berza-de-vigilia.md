@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. de garbanzos
 
 3 tomates maduros
@@ -47,6 +46,5 @@ Una cucharadita de pimentón molido dulce
 Sal y agua
 
 <h3>Preparación</h3>
-
 Poner a remojar los garbanzos desde la noche anterior. Echar en una olla con agua los garbanzos, y agregarles los tomates, pimientos verdes y cebolla a trozos medianos. Poner la cabeza de ajo entera, haciéndole un corte. Agregar las acelgas, limpias y troceadas, y el laurel. Añadir el aceite de oliva, el pimentón y la pimienta. Poner sal y dejar cocer entre hora u hora y media. Apartar cuando estén tiernos los garbanzos, dejar reposar unos minutos y servir caliente.
 

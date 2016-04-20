@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de pan
 
 2 huevos
@@ -34,6 +33,5 @@ Para 4 personas.
 miel
 
 <h3>Preparación</h3>
-
 Se cortan rebanadas de pan no demasiado gruesas y se empapan en vino moscatel. Se fríen en aceite abundante, se sacan y se pasan por huevo batido. A continuación, se vuelven a freír hasta que se dore el huevo y tenga costra. Se deslíe a fuego lento un vaso de miel blanca en un poco de agua y se pasan las torrijas por este almíbar. Se colocan en una fuente y pueden decorarse con anises o canela.
 

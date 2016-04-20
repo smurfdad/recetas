@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 morcilla de burgos
 
 1 lamina de hojaldre (congelado)
@@ -32,7 +31,6 @@ Para 4 personas.
 mantequilla (para untar molde)
 
 <h3>Preparación</h3>
-
 Pinchar la morcilla y envolverla en la lámina de hojaldre.
 
 Untar fuente de horno con mantequilla.

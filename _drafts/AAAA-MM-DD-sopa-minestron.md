@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 litros de caldo de carne o de verdura
 
 300g de porotos colorados, previamente remojados en agua
@@ -55,7 +54,6 @@ Sal a gusto
 Queso rallado
 
 <h3>Preparación</h3>
-
 En una olla grande vierta 1 y 1/2 litro de caldo y ponga a hervir los porotos. Cuando éstos estén a medio cocer, agregue las zanahorias, el apio, las papas, los zapallitos y las arvejas, en ese orden de acuerdo a su tiempo de cocción.
 
 Luego agregue el resto del caldo y la salsa de tomate. Cuando hierva, agregue el repollo, luego la panceta, el perejil, el ajo y el arroz.

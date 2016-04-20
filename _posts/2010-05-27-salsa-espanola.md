@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 1 zanahoria
@@ -23,7 +22,6 @@ Para 6 personas.
 sal y agua
 
 <h3>Preparación</h3>
-
 Freír en un poco de aceite la zanahoria, cebolla y ajo picados.
 
 Cuando empiece a dorarse añadir una cucharada de harina y esperar hasta que se dore.

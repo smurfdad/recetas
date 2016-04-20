@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 filete de merluza
 
 Jugo de limón
@@ -38,7 +37,6 @@ Condimentos a gusto
 2 puerros en tiras
 
 <h3>Preparación</h3>
-
 Picar muy bien la acelga exprimida (sólo las hojas), ponerlas en un bol. Agregar la zanahoria, el ajo y el perejil, el huevo y los condimentos. Salpimentar los filetes y rociarlos con jugo de limón.
 
 Pincelar con aceite una hoja de papel de aluminio, distribuir los filetes escurrirdos, un poco aplanados y dispuestos unos pocos encimados sobre los otros.

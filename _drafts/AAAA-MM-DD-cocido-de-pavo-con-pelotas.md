@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Para las Pelotas (albóndigas):
 
 1/2 kg. de carne de pechuga de pavo picada
@@ -42,7 +41,6 @@ Un ramillete de perejil picado
 Sal
 
 <h3>Preparación</h3>
-
 Para las pelotas (albóndigas)
 
 Se hace una masa con la carne, el tocino, el perejil, los ajos, los huevos, previamente batidos, el zumo de: limón, la sal y la harina necesaria par que la masa quede tierna. Después se conforman, las pelotas al tamaño deseado y se reservan.

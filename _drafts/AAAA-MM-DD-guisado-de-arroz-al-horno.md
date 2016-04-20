@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 taza de arroz súper extra
 
 1 1/2 taza de agua
@@ -37,7 +36,6 @@ Para 6 personas.
 1 lata chica de champiñones
 
 <h3>Preparación</h3>
-
 Hierva el agua y apague el fuego. Vacié el arroz y deje remojando por 15 minutos.
 
 Escúrralo y vacíelo. En un refractario Agregue el contenido de las sopas (sin diluir) la mantequilla y los champiñones. Tape y horneé por 50 minutos a 200&deg; C.

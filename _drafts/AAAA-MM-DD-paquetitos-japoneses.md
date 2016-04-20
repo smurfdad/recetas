@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 g de camarones, pelados
 
 4 hongos secos grandes remojados y escurridos
@@ -54,7 +53,6 @@ Para la salsa:
 1/2 cucharadita de jengibre fresco, picado
 
 <h3>Preparación</h3>
-
 En una procesadora, coloque los hongos, las cebollitas de verdeo y el ajo. Añada los camarones y procese hasta obtener un picado fino. Pase a un bol e incorpore el pollo picado, la salsa de soja, el aceite y la salsa picante.
 
 Ponga 1 cucharada de la mezcla en el centro de cada cuadro de alga. Humedezca las orillas con agua y dóblelas hacia adentro para formar un paquetito. Coloque los paquetitos en la canasta de la vaporera, dejando 1 cm entre cada uno para que circule el vapor. Coloque la canastita en la vaporera con agua hirviendo; tape y cocine de 12 a 18 minutos.

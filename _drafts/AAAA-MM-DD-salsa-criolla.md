@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 media taza de salmuera (agua salada)
 
 4 cucharadas de aceite
@@ -40,6 +39,5 @@ orégano
 4 cucharaditas de ají molido (es como guindillas molidas)
 
 <h3>Preparación</h3>
-
 Machacar los ajos. En una botella limpia poner todos los ingredientes y agitar bien la botella hasta que todos los ingredientes estén bien mezclados. Dejar 4 o 5 días en el frigorífico antes de usar la salsa.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 alcachofas grandes.
 
 6 cucharadas de aceite de oliva.
@@ -39,7 +38,6 @@ Para 4 personas.
 Sal y pimienta blanca.
 
 <h3>Preparación</h3>
-
 Cocemos las alcachofas enteras en agua con unas gotas de limón.
 
 Sacamos sus hojas más duras hasta llegar al corazón de la alcachofa y limpiamos los corazones de la pelusilla que tiene en su interior.

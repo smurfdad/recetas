@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de costilla de cerdo.
 
 500 gr. de sepia.
@@ -45,7 +44,6 @@ aceite.
 sal.
 
 <h3>Preparación</h3>
-
 En una cazuela freír en aceite la costilla de cerdo. Reservar. Lavar y cortar la sepia y también freírla en el mismo aceite. Reservar con la costilla. Siempre en el mismo aceite freír la cebolla y el ajo picado a fuego muy lento y dejándole coger un color dorado oscuro. Después añadir el pimiento cortado pequeño y luego el tomate.
 
 Incorporar la costilla y la sepia y salarlo todo. Poner el arroz y freír todo el conjunto hasta que tome color subido. En este momento se echa litro y cuarto de agua hirviendo. Cocer a fuego vivo 7 minutos, 5 minutos a fuego lento o dentro del horno. Dejar reposar 2 minutos y servir.

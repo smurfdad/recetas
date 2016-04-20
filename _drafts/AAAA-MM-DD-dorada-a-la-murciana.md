@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 doradas de 600 gr.
 
 2 patatas
@@ -49,6 +48,5 @@ Sal
 Pimienta, pan rayado y aceite
 
 <h3>Preparación</h3>
-
 Deshuesar las doradas y abrirlas por la mitad. Preparar un caldo con la cabeza y la espina. En una sartén preparar un sofrito con la cebolla picada, el tomate troceado, el pimentón y la carne de las ñoras (previamente remojadas). Añadir al caldo. Cocer las acelgas, picarlas, agregar el ajo también picado, los piñones, el perejil, la pimienta, el pan rayado y sazonamos al gusto. Incorporar la mezcla al caldo anterior. Colocar las doradas en una rustidera, añadir las patatas, ajos y perejil. Salpimentar y añadir los piñones. Cocer en el horno (previamente calentado) durante 10 minutos a temperatura media.
 

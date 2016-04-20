@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 rodajas de merluza
 
 12 alcachofas
@@ -43,7 +42,6 @@ sal
 harina
 
 <h3>Preparación</h3>
-
 Picar fina la cebolla y el ajo, poniéndolo a rehogar con un poco de aceite.
 
 Cuando este echa añadir la merluza sazonada con sal y enharinada.

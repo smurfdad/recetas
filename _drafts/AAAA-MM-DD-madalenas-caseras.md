@@ -22,7 +22,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 9 huevos
 
 1/2 kg harina
@@ -38,6 +37,5 @@ rayadura naranja
 zumo naranja (ocional, quedan mas esponjosas)
 
 <h3>Preparación</h3>
-
 En un bol hechar todos los ingredientes y mezclarlos muy bien. Mejor con batidora con barillas. Cubrir los moldes por la mitad y meter en el horno a 180&ordm;.
 

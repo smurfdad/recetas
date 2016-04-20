@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de coles
 
 100 gr jamón serrano
@@ -25,7 +24,6 @@ harina
 3 dientes de ajo
 
 <h3>Preparación</h3>
-
 Poner una cazuela al fuego con agua y sal.
 
 Cuando rompa a hervir, echar las coles y dejarlas que se cuezan.

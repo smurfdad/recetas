@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pierna de lechazo de 1 kg. (aprox.)
 
 1,2 kg. de níscalos
@@ -44,7 +43,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se deshuesa la pierna de lechazo. En un recipiente se rehoga con 100 cc. de aceite media cebolla, se añade la sal. Acto seguido se incorpora el jamón troceado, los níscalos (bien lavados y cortados en trozos) y los piñones.
 
 Con este refrito se rellena la pierna, cosiéndola para que no pierda el contenido. Se sazona exteriormente con sal y se introduce en el horno a 160 &ordm;. En otros 100 cc. de aceite se rehogan la otra media cebolla junto con los dos tomates y las dos zanahorias, todo bien picado. El refrito se añade a la pierna cuando ésta lleve una hora en el horno, manteniendo el conjunto otros 15 minutos en el horno.

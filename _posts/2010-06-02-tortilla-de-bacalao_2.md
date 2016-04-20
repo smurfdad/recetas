@@ -10,7 +10,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 275 grs  bacalao
 
 4 huevos
@@ -24,7 +23,6 @@ Para 2 personas.
 1 cucharada de aceite
 
 <h3>Preparación</h3>
-
 Desalar el bacalao en agua durante 24 horas, cambiándole solamente una vez el agua.
 
 Pasado el tiempo, sacarlo, escurrirlo, quitarle las espinas y desmigarlo.

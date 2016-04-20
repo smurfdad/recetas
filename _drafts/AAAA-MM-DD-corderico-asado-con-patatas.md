@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 cordero lechal
 
 1 cabeza de ajos
@@ -33,6 +32,5 @@ Para 4 personas.
 3/4 l. de agua
 
 <h3>Preparación</h3>
-
 Se salpimenta el cordero y se coloca en una barreña de barro, con las costillas visibles, repartiendo por encima la cabeza de ajos troceada (con piel) y el laurel. Se pone el agua y se introduce a horno suave hasta verlo dorado; tardará unas 2 horas. A mitad de cocción se le da la vuelta. Se sirve en la misma barreña. Se puede acompañar de patatas a la panadera y una ensalada de hojas verdes.
 

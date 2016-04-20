@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 Pollo
 
 1 Cebolla
@@ -37,7 +36,6 @@ categories:
 1 cucharada de harina de trigo
 
 <h3>Preparación</h3>
-
 Se despresa el pollo, se sazona con sal y se frie en un poco de aceite
 
 Se retira el pollo y en el mismo aceite se ponen a dorar la cebolla y la zanahoria cortadas en rodajas delgadas, junto con los dientes de ajo. A esta fritura se agregan el pollo, el yogurth, la cerveza y la harina. Se pone en la olla de presión durante diez minutos. Finalmente se retira el pollo y el resto se licua para hacer una salsa pueden dejarse algunas rodajas de zanahoria para decorar.

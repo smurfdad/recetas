@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de salmón en pieza, limpio y sin espinas.
 
 4 cucharadas de zumo de limón.
@@ -41,7 +40,6 @@ sal y pimienta a gusto.
 4 cucharadas de aceite de oliva.
 
 <h3>Preparación</h3>
-
 Ponemos el salmón en una fuente con el jugo de limón, la sal y 2 cucharadas de aceite de oliva.
 
 Tapamos con papel aluminio y horneamos por 30 minutos aproximadamente.

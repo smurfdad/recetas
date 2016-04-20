@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 4 Pechugas
 
 12 Tiras delgadas de pimiento rojo y verde
@@ -31,7 +30,6 @@ categories:
 4 Tajadas de jamón
 
 <h3>Preparación</h3>
-
 Sazonar las pechugas al gusto
 
 Colocar encima del pollo una tajada de jamón, 3 tiras de pimientos, 3 esparragos y enrrollar cuidadosamente cada pechuga. Se pone a cocer en agua de hilo.

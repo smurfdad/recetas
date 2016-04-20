@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Espinacas congeladas: 1 kg.
 
 Huevos: 4.
@@ -27,7 +26,6 @@ Salsa Bechamel: un tazón.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Calentar un vaso de agua salada en una cazuela. Cocer las espinacas durante 15 minutos. Escurrir, y picarlas finamente.
 
 Colocar los huevos en un cazo. Cubrir con agua. Hervir durante 5 minutos. Retirar del fuego, pero no del cazo.

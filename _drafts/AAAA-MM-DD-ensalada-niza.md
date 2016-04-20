@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 Tomate picado en ruedas
 
 1/2 Cebolla picada en ruedas
@@ -43,7 +42,6 @@ Vinagreta (aderezo):
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Mezclar la mostaza, el aceite emulsionado, se le incorpora el vinagre balsámico.
 
 Presentación:

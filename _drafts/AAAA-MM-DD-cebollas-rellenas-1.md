@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 cebollas grandes
 
 3 fetas de jamón crudo
@@ -36,7 +35,6 @@ Pan rallado
 Nuez moscada, salvia y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Calentar el horno a temperatura media. Pelar las cebollas y cortar la parte superior, hacerles base y reservar las tapas.
 
 Ahuecar las cebollas y procesar la pulpa con jamón, salvia, queso blanco, queso rallado, pimienta, marsala y nuez moscada.

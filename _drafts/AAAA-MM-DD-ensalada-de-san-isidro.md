@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 lechugas
 
 1/4 kg. de bonito en escabeche
@@ -39,6 +38,5 @@ Para 2 personas.
 Vinagre y sal
 
 <h3>Preparación</h3>
-
 Picar la lechuga y ponerla en agua fría a remojo durante varias horas. La sacamos del agua y la escurrimos bien poniéndola después en una ensaladera. Le añadimos el bonito en escabeche cortado en trozos pequeños, las aceitunas, los huevos cortados en trocitos y la cebolla picada muy menudita. En una vasija aparte, mezclamos el vinagre con el aceite y sazonamos. Batimos la mezcla hasta formar una mezcla muy homogénea. Echar esta mezcla sobre la ensalada y servirla bien fría.
 

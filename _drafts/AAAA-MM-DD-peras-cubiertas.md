@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 6 peras maduras
 
 4 tablillas chicas de chocolate semiamargo
@@ -34,7 +33,6 @@ categories:
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Lave las peras, pélelas, quíteles el corazón. No quite los tallos.
 
 Derrita el chocolate a fuego bajo junto con la leche, moviendo continuamente. Añada el ron y la pizca de sal. Mezcle.
@@ -44,6 +42,5 @@ Tomando las peras del tallo sumérjalas en la salsa de chocolate.
 Póngalas sobre papel aluminio o encerado. Enfríe inmediatamente.
 
 <h3>Observaciones</h3>
-
 Esto mismo puede hacerse con fresas o manzanas.
 

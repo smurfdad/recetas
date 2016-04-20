@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 lomitos de cerdo
 
 100g de panceta ahumada picada
@@ -42,7 +41,6 @@ Sal y pimienta a gusto
 Salsa napolitana
 
 <h3>Preparación</h3>
-
 Martillar los lomitos de cerdo emparejar los bordes. Abrir los lomos al medio en forma de libro y salpimentarlos. En un recipiente colocar la panceta, el perejil, el ajo, el queso rallado y la miga de pan mezclar todo muy bien y salpimentar.
 
 Rellenar los lomos poniendo una cuchara de la preparación a 1cm del extremo y a 0,5cm. de los laterales enrollar y sujetar con palillos.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 sobre de gelatina de limón
 
 1 vaso de agua
@@ -21,7 +20,6 @@ Para 6 personas.
 1 bote de leche evaporada fría (meter en nevera)
 
 <h3>Preparación</h3>
-
 Poner el agua a calentar con el azúcar, y cuando vaya a empezar a hervir, añadir la gelatina y revolver bien hasta que se disuelva.
 
 Batir el bote de leche hasta que quede un poco montada y mezclar con lo anterior suavemente.

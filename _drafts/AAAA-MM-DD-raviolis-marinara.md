@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de Ravioles.
 
 2 Cucharadas de Aceite.
@@ -47,6 +46,5 @@ Para 6 personas.
 Sal y Pimienta al gusto.
 
 <h3>Preparación</h3>
-
 Cocinar los ravioles en agua con sal y aceite; cuando estén al dente, escurrirlos. Freír la cebolla con el aceite de oliva; agregar el ajo, la pasta de tomate, el tomate, el azúcar, la albahaca, sal y pimienta al gusto; cocinar a fuego lento hasta que esté a punto. Servir esta salsa sobre los ravioles, espolvoreando queso parmesano rallado.
 

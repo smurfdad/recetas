@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de Garbanzos
 
 1 lata de Habichuelas Coloradas
@@ -49,7 +48,6 @@ Para 5 personas.
 Sal a gusto
 
 <h3>Preparación</h3>
-
 Abrir y escurrir las latas de granos.
 
 Vierta todos los ingredientes en una escudilla y mezcle bien.
@@ -59,6 +57,5 @@ Deje reposar por una hora en la nevera antes de servir. Sirva sobre hojas de lec
 Puede prepararse con anticipacion y guardar en la nevera por 5 dias bien tapada.
 
 <h3>Observaciones</h3>
-
 Opcional: En epoca de verano, agregue 2 mangos picaditos para darle un toque dulce a la ensalada.
 

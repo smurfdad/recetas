@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 Medios tomates secos
 
 4 Cucharadas de harina
@@ -32,6 +31,5 @@ Para 4 personas.
 8 Cucharadas de agua
 
 <h3>Preparación</h3>
-
 Limpiar los tomates y ponerlos en una olla llena de agua para que reposen durante unas 12 horas. Pasado este tiempo, escurrirlo. Mezclar la harina con el agua y el bicarbonato. Remover hasta que no queden grumos, ha de formar una pasta muy espesa. Pasar los tomates por esta pasta y freírlos con aceite muy caliente durante 5 minutos, a medio cocer se les da la vuelta. Escurrirlos con papel absorbente y listos para servir.
 

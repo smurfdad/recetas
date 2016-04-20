@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 48 minutos.
 
 <h3>Ingredientes</h3>
-
 150 grs. de queso roquefort
 
 100 cl. de nata
@@ -33,10 +32,8 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Puretear bien el queso y mezclar con la nata hasta obtener una crema homogenea y sin trocitos de queso. Salpimentar al gusto
 
 <h3>Observaciones</h3>
-
 Se puede saborear con todo tipo de panes, galletas y grisines. El queso Roquefort puede sustituirse por Gorgonzola, cabrales o queso azul danes.
 

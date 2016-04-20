@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 900 grs. rape
 
 3 ramas de perejil
@@ -23,7 +22,6 @@ Para 6 personas.
 un poco de pimienta molida
 
 <h3>Preparación</h3>
-
 Se tritura el pescado, bien limpio, con la batidora, junto con el perejil, sal y pimienta.
 
 Añadir la nata y batir un poco más.

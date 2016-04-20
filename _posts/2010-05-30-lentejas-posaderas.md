@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 1 pimiento verde
@@ -23,7 +22,6 @@ un chorrito de vinagre
 aceite
 
 <h3>Preparación</h3>
-
 Cocemos las lentejas en agua con un chorrito de aceite de oliva, sal y un pimiento verde, aproximadamente 1 hora a fuego lento.
 
 En una sarten sofreimos la cebolla picada y salpimentada.

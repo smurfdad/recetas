@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs de solomillo de ternera
 
 1 cdta de harina de maíz mezclada con 2 cdas de agua
@@ -44,7 +43,6 @@ Para 6 personas.
 1 cdta de aceite de ajonjoli (sésamo)
 
 <h3>Preparación</h3>
-
 Lave la carne, séquela y cortela en tiras de 3 ó 4 cm de largo y de unos 5 mm de grueso. Cúbrala con 1/3 de la harina de maíz disuelta.
 
 Quite los extremos de la cebolleta y córtelas en trozos de 2 a 3 cm. Corte las partes más gruesas a la mitad. Pele y pique finamente el jengibre y el ajo.

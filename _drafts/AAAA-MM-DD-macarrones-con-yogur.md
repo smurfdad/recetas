@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de macarrones cocidos.
 
 4 dientes de ajo machacado
@@ -45,10 +44,8 @@ Pimienta
 Especias y Cayena
 
 <h3>Preparación</h3>
-
 Freír el ajo en el aceite hasta que esté dorado. Añadir el yogur, el perejil, sal y especias; mover muy bien. Hacer los macarrones con agua y una bolita de mantequilla para que no se peguen, añadir sal y dos hojas de laurel. Echar la mezcla sobre los macarrones calientes y servir.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 400 g de atún fresco
 
 2 tomates
@@ -43,7 +42,6 @@ Zumo de limón
 Sal y aceite
 
 <h3>Preparación</h3>
-
 Ponemos al fuego una cazuela con el aceite, las cebollas picadas finamente, los ajos picados y los tomates triturados. Sofreímos todo.
 
 Añadimos el atún en rodajas salpimentadas y proseguimos la cocción durante unos 8 minutos.

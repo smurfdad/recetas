@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 2 latas pequeñas de atún en aceite
@@ -24,7 +23,6 @@ huevo
 pan rallado
 
 <h3>Preparación</h3>
-
 Cocer los huevos con agua, sal y vinagre.
 
 Una vez cocidos y fríos, pelarlos y cortarlos por la mitad, extrayendo la yema.

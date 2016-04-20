@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gramos de bacalao (en seco)
 
 400 gramos de garbanzos
@@ -43,7 +42,6 @@ Aceite de oliva
 Pimentón dulce (o picante, según los gustos)
 
 <h3>Preparación</h3>
-
 El día antes pondremos a desalar el bacalao (siempre en agua bien fría para que no funda la grasa y cambiándosela tres veces), y por la noche los garbanzos a remojo. Empezamos la faena poniendo los garbanzos a cocer en agua con un chorro de aceite (cuando rompa a hervir, se baja el fuego para que vaya mas lento y no rompa las legumbres). En una olla aparte blanqueamos las espinacas (agua hirviendo con sal y bicarbonato, y meter y sacar la verdura) para quitarles un poco el amargor (a mí me encanta ese puntito de picante, pero reconozco que es fuerte). Mientras, en una sartén, hacemos un sofrito con los ajos, el puerro y la cebolla. Cuando empiece a tomar color, espolvoreamos una cucharadita de pimentón, e incorporamos el tomate pelado y sin pepitas.
 
 Este sofrito se puede enriquecer con una copita de vino blanco y/o con una taza de caldo de verduras. Una vez listo, se pasa por la Turmix o por el chino, y se devuelve a la sartén. Añadimos al sofrito las espinacas picadas en grueso, dejamos sudar unos minutos, y echamos el bacalao.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pescado(s)
 
 100 gr tocino
@@ -45,7 +44,6 @@ aceite
 sal a gusto
 
 <h3>Preparación</h3>
-
 Limpiar el pescado, hacerle unos cortes transversales por uno de sus lados y sazonar con sal.
 
 Colocar el pescado en una fuente y añadir la salsa de soya, aceite, un poco de jerez, unos trozos de limón sin cáscara y el jengibre picado.

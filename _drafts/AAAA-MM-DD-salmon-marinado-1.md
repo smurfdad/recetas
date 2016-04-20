@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 lomos de salmón
 
 1 taza azucar
@@ -38,6 +37,5 @@ Aceite de Oliva
 1 paño de algodón
 
 <h3>Preparación</h3>
-
 Se cogen los lomos de salmón con piel, sin lavar y se untan con aceite de oliva. Luego se mojan con la mezcla y se pega carne con carne. Se envuelve con un paño húmedo de algodón 2 días en la nevera.
 

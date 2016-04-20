@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs. de fussilli
 
 1 ajo picado
@@ -27,7 +26,6 @@ Para 6 personas.
 50 grs. queso rallado
 
 <h3>Preparación</h3>
-
 Cocer la pasta en abundante agua hirviendo, con sal y un chorrito de aceite, durante 10 minutos o hasta que estén cocidos. Escurrir, rociar con agua fría y reservar.
 
 Derretir la mantequilla en una sartén. Freír el ajo y los pistachos pelados.

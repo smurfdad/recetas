@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 carne picada
 
 1 lata de paté
@@ -19,7 +18,6 @@ Para 6 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla en un poco de aceite y a continuación echar la carne a freír.
 
 Condimentarla con la sal y pimienta y añadirle el paté mezclándolo todo ello muy bien.

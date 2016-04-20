@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 lonchas de jamón de York
 
 2 aguacates maduros
@@ -44,7 +43,6 @@ El fruto de 1 granada desgranada
 2 cdas de huevo hilado- Sal y pimienta
 
 <h3>Preparación</h3>
-
 Abra los aguacates, retire la semilla y vierta la pulpa en un cuenco grande. Rocíela con el jugo de limón y aplástela con un tenedor hasta hacer una pasta. A continuación, agregue el queso crema, mezcle bien y sazone con sal y pimienta. Añada la nata y bata todo hasta obtener una crema espesa.
 
 Seguidamente, lave y pique la lechuga escarola. Mézclela con la fruta de la granada y alíñelas con el aceite, el vinagre, sal y pimienta.

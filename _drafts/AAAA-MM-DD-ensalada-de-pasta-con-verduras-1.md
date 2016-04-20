@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 plumas (macarrón cortado al sesgo o fusilli): 300 gr.
 
 nabos : 150 gr.
@@ -44,7 +43,6 @@ chalote : 1
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Poner a cocer normalmente las pastas en su agua salada con una cucharada de aceite de oliva y hierbas de olor. Pelar los nabos y las zanahorias y cortarlos en cubitos o en palitos así como con el brócoli.
 
 Agregar a la cocción de las pastas los nabos y las zanahorias después de 7 minutos.

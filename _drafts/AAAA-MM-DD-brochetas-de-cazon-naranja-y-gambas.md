@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de cazón
 
 250 gr. de gambas sin pelar
@@ -44,7 +43,6 @@ Sal
 Pimienta negra molida
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes del adobo en un plato grande, meter el pescado durante 30 minutos. Pelar las naranjas y partirlas a gajos. Reservar
 
 Sacar el pescado del adobo e ir insertándolo en una brocheta larga junto con la naranja y las gambas. Hacer a la plancha a fuego fuerte, girar de vez en cuando para que se haga bien por todos los lados.

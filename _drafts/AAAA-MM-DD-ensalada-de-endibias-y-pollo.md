@@ -25,7 +25,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 endibias.
 
 2 pechugas de pollo.
@@ -53,6 +52,5 @@ Sal.
 2 cucharadas de vinagre de Jerez.
 
 <h3>Preparación</h3>
-
 Salpimentamos el pollo, lo freímos en aceite bien caliente y lo reservamos. Cortamos luego la lechuga en juliana y la colocamos en el centro del plato. Alrededor ponemos las endibias y, encima de ellas el pollo en lonchas. Cortamos las hojas de treviso en juliana y las colocamos adornando, en forma de corona. Por ultimo, hacemos una vinagreta mezclando el aceite, el vinagre, la mostaza, la sal, la pimienta y el tomate en dados, y salpimentamos con ella el conjunto. Finalmente, todo se adorna con las alcaparras.
 

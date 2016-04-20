@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 alcachofas pequeñas peladas y cortadas en rozos (frotar con limón, para que no se ennegrezcan)
 
 2 pimientos rojos, cortadas, en tiras
@@ -34,7 +33,6 @@ Sal
 Agua
 
 <h3>Preparación</h3>
-
 Se prepara un sofrito poniendo aceite en una paellera y calentándolo hasta que empiece a humear; se ponen entonces a sofreir las alcachofas y pimientos.
 
 Cuando se empieza a dorar, se agregan las judías y después el perejil y los ajos tiernos, cuando éstos se doren se añade el tomate picado, manteniendo todo, al fuego de cinco a siete minutos.

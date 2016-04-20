@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 latas de sardinas en agua, escurridas
 
 1 1/4 tazas de puré de papa
@@ -44,7 +43,6 @@ Pimienta de Cayena en polvo a gusto
 100g de pan rallado
 
 <h3>Preparación</h3>
-
 Enmanteque una asadera.
 
 En un bol grande, mezcle las sardinas, el puré de papa, las cebollitas de verdeo, el perejil, el ajo, la mostaza, el huevo, la sal y la pimienta.

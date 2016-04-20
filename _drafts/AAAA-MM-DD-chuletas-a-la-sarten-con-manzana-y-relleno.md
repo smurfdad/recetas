@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 1 cucharada de aceite
 
 6 chueltas de cerdo deshuesadas, de 1/2 pulgada de grosor
@@ -35,7 +34,6 @@ Para 6 personas.
 1 manzana mediana picada en rebanadas finas 1=paquete de 6 onzas de mezcla para relleno (stuffing mix) de cualquier sabor
 
 <h3>Preparación</h3>
-
 Calienta el aceite en un sartén grande a fuego medio alto. Agrega las chuletas y la cebolla, cocina las chuletas durante 4 minutos por cada lado, hasta que estén cocinadas por completo y mientras tanto revuelve las cebollas de vez en cuando. Saca las chuletas y las cebollas del sartén, cubrelas para que no se enfrien.
 
 Agregales las manzanas, el agua y el agua del jugo de la carne que quedó en el sartén. Deja que hierva. Agrega la mezcla de relleno y revuelve, completa con las chuletas y las cebollas.

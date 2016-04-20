@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr bacalao en trozos
 
 400 gr caracoles
@@ -52,7 +51,6 @@ sal
 agua
 
 <h3>Preparación</h3>
-
 Desalar el bacalao bien durante 24 horas.
 
 Limpiar bien los caracoles y engañarlos.

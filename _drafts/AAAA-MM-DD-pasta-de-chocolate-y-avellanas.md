@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de leche
 
 50 gr. aceite de avellanas
@@ -39,6 +38,5 @@ Para 8 personas.
 40 gr. de harina
 
 <h3>Preparación</h3>
-
 Conservar en el refrigerador y utilizar según las necesidades. Extender en capas muy finas sobre latas y cocer en el horno a 200/250&ordm;C durante 6 ó 7 minutos Al sacarlo del horno darle la forma deseada y dejarlo en un lugar fresco y seco.
 

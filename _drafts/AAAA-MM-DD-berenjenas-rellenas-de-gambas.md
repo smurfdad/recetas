@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 2 cebollas
@@ -38,7 +37,6 @@ Sal
 1 pastilla de Avecrem ajo/perejil
 
 <h3>Preparación</h3>
-
 Se parten las berenjenas a lo largo por la mitad y se asan en el horno.Una vez asadas, separar la pulpa de la berenjena con una cucharilla y con un tenedor chafarla y guardar.
 
 En una sartén se dora la cebolla que previamente hemos rallado con el aceite y un poco de sal. Una vez dorada la cebolla se le añaden las gambas que habremos descongelado,la masa de pulpa y la pastilla de Avecrem, dejándolo sofreir a fuego lento durante 5 minutos.

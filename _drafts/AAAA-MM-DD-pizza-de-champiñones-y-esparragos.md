@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Para la masa
 
 250g (2 tazas) de harina 0000
@@ -54,7 +53,6 @@ Sal y pimienta a gusto
 1 atado de espárragos ó una lata chica
 
 <h3>Preparación</h3>
-
 Lavar los espárragos y pelarles una capa de piel con el pela papas y ponerlos a hervir en una cacerola con agua salada entre 5 y 10 minutos, colarlos y cortar la mitad superior, reservarlos.
 
 En una sartén rehogar la cebolla en el aceite junto con los champiñones hasta que se cocinen y se doren a fuego mínimo, agregar los espárragos apagar el fuego y salpimentar. Preparar la masa para pizza como se indica en masas básicas y cocinar sin dorar.

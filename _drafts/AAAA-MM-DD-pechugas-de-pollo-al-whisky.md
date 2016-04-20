@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo
 
 300 gr. de champiñones
@@ -41,7 +40,6 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
-
 Limpiar los champiñones, lavarlos y cortarlos en láminas.
 
 Sazonar las pechugas con sal y pimienta y freírlas en un poco de aceite.

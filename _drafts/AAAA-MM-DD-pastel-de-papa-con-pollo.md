@@ -24,7 +24,6 @@ Para 10 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 kl de papas cocinadas
 
 1 cda. de mantequilla
@@ -68,7 +67,6 @@ Orégano seco al gusto
 Pimiento rojo en tiras para decorar
 
 <h3>Preparación</h3>
-
 Se mezcla el puré de papas con l amantequilla, la sal y los huevos y se aparta. Se hace tiras la pechuga de pollo y se aparta. En una sartén grande se agrega el aceite, el ajo, cebolla, pimiento, salsa china, pasta de tomate, hoja de laurel, sal y comino, concentrado de pollo, zanahoria rallada, arvejas, el pollo desmenuzado, cilantro y perejil, se mezcla todo y si hace falta se agrega un poco de caldo de gallina, la mezcla no debe quedar muy seca, pero tampoco jugosa.
 
 En un pirex grande, se pone una capa del pure de papas, una capa de la salsa de pollo y otra capa de pure de papa, se agrega el queso rallado las tiras de pimiento rojo decorando la fuente y se espolvorea el orégano.

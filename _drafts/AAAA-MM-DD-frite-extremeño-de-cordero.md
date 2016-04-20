@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 200 gr. de carne de cordero por persona
 
 perejil
@@ -32,7 +31,6 @@ laurel
 una corteza de pan
 
 <h3>Preparación</h3>
-
 Se fríen en primer lugar los ajos y la corteza de pan con un trozo de hígado de cordero.
 
 Cuando esté frito, se reserva en el mortero. En el mismo aceite se rehoga la carne troceada y al final se le añade un poco de pimentón. Se añaden al mortero sal, perejil, laurel y un pimiento choricero colorado, junto con un poco de vino blanco y se machaca, incorporando la salsa obtenida de la carne, que debe cocer hasta que quede tierna.

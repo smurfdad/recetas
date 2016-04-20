@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 1 zanahoria
 
 1 manzana
@@ -32,7 +31,6 @@ Para 1 personas.
 1 naranja
 
 <h3>Preparación</h3>
-
 Lavar la manzana, pelar la zanahoria y pasar por la licuadora. Rallar la pulpa del tomate y colar. Mezclar todos los jugos y agregar el zumo de la naranja exprimida.
 
 Servir frío recién hecho.

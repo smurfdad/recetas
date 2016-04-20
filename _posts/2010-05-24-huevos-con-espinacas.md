@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 1 kg. tomates
@@ -26,7 +25,6 @@ la leche necesaria para la bechamel
 aceite, sal y cebolla
 
 <h3>Preparación</h3>
-
 Cocer las espinacas, escurrirlas bien y reservar.
 
 Freír la cebolla en el aceite y cuando empiece a dorarse añadir el tomate y dejarlo hacer a fuego suave una media hora. Pasarlo por el pasapuré.

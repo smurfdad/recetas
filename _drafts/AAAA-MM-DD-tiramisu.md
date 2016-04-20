@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 grs de queso mascarpone
 
 4 yemas de huevo
@@ -38,7 +37,6 @@ categories:
 Cacao amargo en polvo
 
 <h3>Preparación</h3>
-
 Batid las yemas de los huevos con el azúcar hasta que tomen un color blanquecino.
 
 Añadid el queso mascarpone, el coñac y tened la precaución de mezclarlo todo bien para que no queden grumos.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Chipirones o Calamares 500 gr
 
 Tinta de calamar 2 sobres
@@ -45,7 +44,6 @@ Caldo de pescado
 Pimienta y Sal a gusto
 
 <h3>Preparación</h3>
-
 Lavar el tomate y cortarlo en cubitos pequeños, picar la cebolla y el morrón finamente. Colocar el aceite en una paella y rehogar allí la cebolla y el morrón a fuego mediano.
 
 Mientras tanto poner calentar el caldo hasta que rompa a hervir y reservar. Agregar a la paella el ajo picado y el tomate, remover unos segundos y añadir los chipirones, saltearlos hasta que se doren.

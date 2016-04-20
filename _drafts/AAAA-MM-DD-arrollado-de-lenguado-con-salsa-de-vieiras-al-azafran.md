@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de lenguado
 
 1 zanahoria
@@ -53,7 +52,6 @@ sal, pimienta y perejil, a gusto
 azafrán
 
 <h3>Preparación</h3>
-
 Aplanar los filetes de lenguado con papel film.
 
 Saltear en manteca y aceite, las verduras cortadas en brounoise.

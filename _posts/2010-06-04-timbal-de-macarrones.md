@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de macarrones
 
 1/2 kilo de salsa boloñesa
@@ -25,7 +24,6 @@ Para 6 personas.
 queso rallado
 
 <h3>Preparación</h3>
-
 Poner una cazuela al fuego, con agua, sal y aceite.
 
 Cuando rompa a hervir, echar los macarrones y dejarlos que se cuezan.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 4 Ud. cordero (manitas)
 
 2 Ud. cordero (sesos)
@@ -59,7 +58,6 @@ sal
 1 cuchara sopera harina
 
 <h3>Preparación</h3>
-
 Se cuecen por separado sesos, manita, lengua y mollejas con pimienta, cebolla, laurel, puerro y 4 clavos (sólo en manitas) y se fríe la carrillera. El agua de cocción de las manitas se reserva. Se cuecen los garbanzos con una punta de jamón, zanahoria y puerro. Se deja pochar 1/2 cebolla aparte y una vez caída se añade el tomate y los garbanzos cocidos. Cuando los ingredientes estén pasados, hechos una fritada, se pasa por la Turmix y se pone a punto de sal. Se limpia la manita de huesos y se reboza.
 
 Los sesos, una vez cocidos, se separan y se rebozan. Las lenguas cocidas se limpian de piel y se cortan a la mitad. La molleja cocida se limpia de venas. Se hace un refrito con pimentón, cebolla, ajo y una cucharada de harina, a lo cual se añade 2 dl de agua de cocción de las manitas que hemos reservado.Se pican dos chalotas y con un chorro de aceite se deja pochar, a lo cual se le añaden los 2 dl de jugo de carne. Se emplata con la fritada en el centro, se colocan manitas, sesos, lengua y molleja alrededor y se salsea al gusto con ambas salsas. Decorar con perejil.

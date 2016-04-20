@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 4 paqueticos de Galletas Maria
 
 2 tazas medianas de cafe al gusto
@@ -30,7 +29,6 @@ Para 2 personas.
 1 lata de leche condensada
 
 <h3>Preparación</h3>
-
 Preparas el café al gusto. Colocas 2 paquetes de galletas en cada taza.
 
 Le agregas el café a la mitad hasta que se hablanden las galletas. A continuación le añades un poquito más de café y un chorrito de leche condensada.

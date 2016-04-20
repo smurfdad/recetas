@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 dientes de ajo
 
 1 pimiento verde grande
@@ -30,7 +29,6 @@ vinagre
 400 gr ternera
 
 <h3>Preparación</h3>
-
 Poner las verduras en un cuenco, aderezar con sal, vinagre y un poco de aceite.
 
 Mojar el pan, escurrirlo y agregárselo.

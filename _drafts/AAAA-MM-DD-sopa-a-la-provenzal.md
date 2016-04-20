@@ -22,7 +22,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 500 gr. de pescado blanco de varias clases, quitarles las cabezas y las espinas, reservar todo
 
 500 gr. de cangrejos de mar
@@ -48,7 +47,6 @@ unas hebras de azafrán, en su defecto colorante amarillo (salsafrán)
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Con las raspas de pescado, 2 litros de agua, y las colas del puerro haz un caldo de pescado. Pica la cebolla, el ajo, el puerro y el perejil. En una cazuela de barro, pon el aceite y deja que se caliente. Añade la cebolla, el ajo y el puerro. Agrega las finas hierbas y deja dorar un poco. Cuando la cebolla esté blanda, añade el tomate los cangrejos y el pescado.
 
 Remover un poco y añade el caldo de pescado. Deja cocer durante 15-20 minutos. Haz una picada con el perejil y el azafrán. Añade a la sopa. Servir en la misma cazuela acompañado del pan tostado.

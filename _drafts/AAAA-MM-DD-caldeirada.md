@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 rape, 4 rodajas pequeñas
 
 merluza, 4 rodajas pequeñas
@@ -52,6 +51,5 @@ perejil, 1 ramita
 sal,
 
 <h3>Preparación</h3>
-
 En una cazuela de barro se pone el aceite, el agua, el pimentón, el azafrán, la cebolla cortada en rodajas finas, las patatas en rodajas y el pimiento verde troceado. Se coloca el pescado encima, previamente sazonado. Se trituran los tomates y se echan sobre el pescado; se le agrega una rama de perejil picado y se pone a fuego lento; haciéndolo hervir durante 20 minutos aproximadamente. Se retira y se sirve en la misma cazuela.
 

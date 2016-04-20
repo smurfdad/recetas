@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 4 piezas de pollo de preferencia pechuga o pierna y muslo.
 
 4 chiles anchos previamente hervidos con ajo y cebolla.
@@ -33,7 +32,6 @@ categories:
 1 trozo de canela.
 
 <h3>Preparación</h3>
-
 El pollo se hierve previamente con sal, cebolla y ajo. Se licua los chiles anchos, la raja de canela, la pimienta y 3 vasos de coca cola.
 
 En una cazuela se pone aceite a calentar y ya previamente caliente el aceite se sazona la mezcla (esta mezcla debe ser espesa por lo que se recomienda que

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 Ingredientes para el guiso:
 
 1/2 taza de maíz blanco pilado seco
@@ -79,7 +78,6 @@ Para envolver las hallacas:
 Suficientes hojas de plátano ahumada
 
 <h3>Preparación</h3>
-
 Preparación del guiso:
 
 En una olla, con capacidad para 12 litros, se colocan el aceite, la cebolla, el ajoporro, el cebollín, el ajo, las alcaparras, el pimentón, el tomate, el ají dulce, los encurtidos, las 2 tazas de caldo, la taza de vinagre y las 5 cucharaditas de sal. Se deja hervir por unos 10 minutos. Luego, se le agrega el cochino y se cocina por unos 40 minutos. Se agrega la gallina y se deja hervir por 40 minutos más.

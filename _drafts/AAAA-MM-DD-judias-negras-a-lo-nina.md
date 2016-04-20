@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kilo Judías negras
 
 1/2 cebolla
@@ -38,7 +37,6 @@ categories:
 aceite, el necesario para la fritura
 
 <h3>Preparación</h3>
-
 Después de limpias y lavadas las judías se ponen en un cazo y cuando rompa el hervor se les tira el agua, repitiendo esta operación dos veces. Pásense a la olla a presión, se cubren de agua fría, se les añaden el laurel y se dejan cocer durante unos veinte o treinta minutos proximadamente.
 
 En una sartén ponemos el aceite y se le añade la cebolla, el pimiento y el ajo; todo limpio y picadito. Cuando empiece a dorar se le incorpora el tomate, previamente pelado, quitadas las semillas y desmenuzado; se rehoga el conjunto hasta que empiece a freír, se le echa el chorizo y se agrega todo a las judías.

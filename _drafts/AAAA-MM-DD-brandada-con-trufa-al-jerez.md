@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 Kg. de Bacalao
 
 1/2 Kg. de patatas
@@ -34,7 +33,6 @@ categories:
 rebanadas de pan de molde
 
 <h3>Preparación</h3>
-
 Escurrir el Bacalao, colocarlo en una cazuela y cubrirlo con agua. Llevarlo al fuego hasta el momento en que arranque a hervir. Retirarlo de&iexcl; fuego y dejarlo reposar 20 minutos.
 
 Pelar las patatas, trocearlas y cocerlas en agua con muy poca sal durante unos 20 minutos, hasta que comiencen a deshacerse. Pasarlas por el pasapurés. Puede prepararse también con 1 sobre de puré de patata.

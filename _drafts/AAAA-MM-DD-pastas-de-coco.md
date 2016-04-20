@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote de leche condensada
 
 1 yema optativa
@@ -30,10 +29,8 @@ Para 6 personas.
 400 gr. coco rayado
 
 <h3>Preparación</h3>
-
 Mezcláis la leche condensada, yema y coco rayada hasta que se os forme una pasta untosa pero seca para que se pueda manipular y darle la forma de bolas. Las metéis a horno medio/fuerte (180 grados) hasta que empiecen a tomar un ligerísimo color oro.
 
 <h3>Observaciones</h3>
-
 Conservar en la nevera para que tengan una textura firme.
 

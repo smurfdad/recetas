@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 dientes de ajo
 
 puré de patatas
@@ -36,7 +35,6 @@ mantequilla
 1 paquete de lonchas de queso
 
 <h3>Preparación</h3>
-
 Hacer un puré de patatas espeso.
 
 Aparte, se ponen a cocer las espinacas, con agua y un poco de sal.

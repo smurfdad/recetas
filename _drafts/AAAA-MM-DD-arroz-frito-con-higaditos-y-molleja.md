@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 vasos de arroz
 
 1/2 vaso de aceite
@@ -36,12 +35,10 @@ Higaditos y mollejas de aves
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Lavar el arroz, freír en aceite muy caliente hasta dorarlo y sacarlo del aceite. Freír los higaditos y las mollejas. Hervir el agua con la 1/2 del aceite que queda, echar sal y pimienta.
 
 Añadir el arroz y cocer hasta que se seque el agua, bajar el fuego al máximo alrededor de 1/2 hora.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

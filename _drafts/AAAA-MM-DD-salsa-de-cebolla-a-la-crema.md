@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 grs de cebollas
 
 2 cucharadas de mantequilla
@@ -36,7 +35,6 @@ Pimienta blanca recién molida
 Nuez moscada recién rallada
 
 <h3>Preparación</h3>
-
 Pelar las cebollas, picarlas muy finas y glasearlas en la mantequilla caliente. Agregar el caldo, tapar la cazuela y dejar que repose todo junto con el fuego apagado.
 
 Pasar la mezcla resultante por la batidora hasta obtener un puré muy fino, añadir la crema fresca y dejar cocer 5 minutos muy lentamente. Sazonar con la sal, la pimienta y la nuez moscada al gusto.

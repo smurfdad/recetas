@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Medias pechugas
 
 3 Cucharadas de mantequilla
@@ -33,7 +32,6 @@ Aceite para freír
 Sal y pimienta blanca molida.
 
 <h3>Preparación</h3>
-
 Lava y pica el perejil y los cebollinos hasta conseguir una cucharada colmada. En un bol, mezcla bien la mantequilla ya reblandecida con los ajos, el perejil, los cebollinos y una cucharada de tomillo. Salpimenta. Pon la pasta sobre papel de plástico, forma un cilindro y envuélvelo bien apretado; mételo en el congelador unos 15 minutos.
 
 Mientras, abre las pechugas por la mitad, pero sin llegar al final. Saca la pasta del congelador, y córtala a lo largo en cuatro trozos; coloca una porción encima de cada pechuga y enróllalas metiendo las puntas hacia dentro.

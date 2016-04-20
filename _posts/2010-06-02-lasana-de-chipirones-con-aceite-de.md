@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pimiento verde
 
 2 cebollas
@@ -44,7 +43,6 @@ Para el aceite de cebollino
 tinta de chipirón
 
 <h3>Preparación</h3>
-
 Cocer 20 láminas de pasta con aceite y sal, durante 3 minutos, enfriar en agua y hielos para cortar la cocción. Reservar.
 
 En un cortapastas metálico colocamos una lámina de pasta y cubrimos con el relleno. Repetir la operación. Cubrir con pasta, añadir la cebolla (previamente frita en aceite suave), seguir con unos chipirones salteados con ajo y perejil y finalizar con otra lámina. Colocar la lasaña en el plato, hacer unas rayas con el aceite de oliva y el de cebollino y tapar con el aceite de chipirón (montar con aceite de oliva y con ayuda de una varilla, el jugo que han soltado los chipirones al saltearlos). Adornar con el cebollino.

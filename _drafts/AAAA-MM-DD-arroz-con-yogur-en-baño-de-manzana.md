@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Arroz:
 
 100 g de arroz largo
@@ -50,7 +49,6 @@ Sopa:
 1/2 limón en zumo
 
 <h3>Preparación</h3>
-
 Arroz:
 
 Escaldar el arroz en agua hirviendo 2 minutos, escurrir y lavar. Posteriormente ponerlo a cocer con la leche, el azúcar, las cortezas y la canela durante 20 minutos intentando que quede espeso. Dejar enfriar sin las cortezas ni la canela. Añadirle lentamente el yogur.

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo cortado en trocitos
 
 1 huevo
@@ -40,6 +39,5 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Lavar y secar los trozos de pollo, pasar la harina por un tamiz a un bol grande y añadir sal al gusto. Incorporar el huevo batido. Verter la leche, agregar la mantequilla fundida. Remover hasta que quede una masa fina y homogénea. Rebozar cada trozo en la masa, dejando que el exceso de la misma goteo. Freír el pollo en aceite abundante y en pequeñas cantidades hasta dorarlo. Retirar el pollo y dejarlo escurrir sobre papel absorbente antes de servir.
 

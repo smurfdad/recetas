@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de solomillo
 
 1 zanahoria
@@ -50,6 +49,5 @@ caldo
 sal
 
 <h3>Preparación</h3>
-
 Se prepara el solomillo, previamente sazonado, en una cazuela al fuego o metiéndolo en el horno con manteca, zanahoria y cebolla. Aparte se hace una salsa con mantequilla puesta al fuego en una sartén. En ella se fríe otra cebolla picada. Cuando esté dorada, se le vierte harina, zumo de limón, nuez moscada rallada, caldo y sal. Se pasa todo por el chino, añadiéndole después huevos duros picados, guisantes y unos taquitos de jamón. Se trincha el solomillo y se sirve, caliente, cubierto con la salsa anterior.
 

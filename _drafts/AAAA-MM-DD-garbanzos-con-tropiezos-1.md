@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de garbanzos
 
 1 cebolla
@@ -50,7 +49,6 @@ Perejil picado
 Agua y sal
 
 <h3>Preparación</h3>
-
 Pon los garbanzos en remojo de víspera. Pela y trocea la cebolla, la zanahoria, los ajos en láminas y póchalo todo en una cazuela con aceite. Sazona.
 
 Después añade la carne y el tocino y rehoga. Pon los garbanzos en la cazuela junto con el laurel y el chorizo. Cúbrelo con abundante agua y deja que cueza unos 45 o 50 minutos. Si quieres, puedes desgrasarlo una vez cocido.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 125 grs de camarones pelados, picados finos
 
 300 grs de carne magra de cerdo picada
@@ -56,7 +55,6 @@ SALSA
 1/2 taza de caldo de pollo
 
 <h3>Preparación</h3>
-
 Mezcle los camarones, el cerdo, la sal la cebolleta, las castañas, la soja y el jerez..
 
 Corte cada uno de los pimientos en tres o cuatro partes a lo largo. Elimine las semillas y las gruesas membranas. Rellene cada trozo de pimiento con la mezcla; córtelos por la mitad.

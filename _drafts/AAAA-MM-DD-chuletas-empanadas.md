@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Chuletas
 
 4 lonchas de queso
@@ -36,6 +35,5 @@ Para 4 personas.
 Pimentos del piquillo
 
 <h3>Preparación</h3>
-
 Abrir las chuletas como si fuera un libro. Introducir dentro una loncha de queso y otra de manzana. Sazonar con sal y pasar por harina, huevo y pan rallado. Freir hasta que estén doradas por dentro y por fuera. Hacer en otra sartén los pimientos con los ajos laminados hasta conseguir una salsa. Utilizar el preparado para salsear la carne.
 

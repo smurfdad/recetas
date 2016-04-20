@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos hermosos
 
 6 cucharadas soperas de queso parmesano
@@ -54,7 +53,6 @@ sal y pimienta
 una pizca de azúcar
 
 <h3>Preparación</h3>
-
 En una sartén se calienta el aceite de oliva y se sofríen la cebolla y el ajo, bien picados. Se añade el tomate en trozos. Se sazona con sal y una pizca de azúcar. Se espolvorea la albahaca por encima y se tiene a fuego suave, durante media hora, removiendo de vez en cuando.
 
 Se ponen los huevos en una cazuela con agua fría. Cuando empiece a hervir, se baja un poco el fuego y se tienen hirviendo durante 10 minutos. Transcurrido este tiempo, se pone la cazuela bajo el chorro de agua fría. Se dejan refrescar un poco y se pelan con cuidado.

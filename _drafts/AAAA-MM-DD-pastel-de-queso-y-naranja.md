@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 bizcocho redondo de unos 20 cm de di metro y 3 cm de alto
 
 1 tarrina de Queso Fresco Speisequark Nestlé
@@ -40,7 +39,6 @@ categories:
 1 cucharadita de azúcar avainillado
 
 <h3>Preparación</h3>
-
 Pela una naranja (sólo la parte más superficial) y corta la piel en tiritas muy finas. Pon en un cacito 175 g de azúcar y 150 ml (3/4 vaso) de agua y cuécelo durante 3 minutos; añade las tiritas de naranja y cuécelo un minuto más. Coloca el bizcocho en un molde de base desmontable y báñalo con la mitad de almíbar.
 
 Cuece el resto del almíbar hasta obtener un caramelo clarito; retíralo del fuego, añade el zumo de las naranjas y cu,celo de nuevo hasta que el caramelo, que se habrá solidificado al verter el zumo, se disuelva. Agrega el licor y cuécelo unos minutos más; resérvalo.

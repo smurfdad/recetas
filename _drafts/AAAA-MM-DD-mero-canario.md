@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de mero de 200 gramos cada una.
 
 1 cebolleta.
@@ -47,6 +46,5 @@ Aceite.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Las rodajas de mero se sazonan. Se pica la cebolleta y se sofríe en una cazuela ancha, con un diente de ajo y un poco de aceite. En una sartén aparte se fríen las rodajas de mero, pasadas previamente por harina, solo vuelta y vuelta. Se hace un majado con las avellanas, el huevo cocido, un diente de ajo, perejil picado, el Moriles y el caldo o agua. Colocamos el mero en una cazuela y se añade el majado, dejando que se haga durante unos cuatro minutos, a fuego suave. Se rectifica de sal y se sirve
 

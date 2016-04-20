@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 gr. ternera cortada en dados
 
 cebolla
@@ -48,7 +47,6 @@ caldo de carne
 vino de oporto
 
 <h3>Preparación</h3>
-
 Insertar en el pincho los trozos de ternera alternándolos con las verduras, de manera que la brocheta quede bonita y condimentar. Hacer a la plancha con un chorrito de aceite aromatizado con tomillo y romero. Si fuera necesario, también se podría acabar la brocheta en el horno.
 
 Para la salsa: Hacer una reducción con el vinagre de soja, el jugo de ave y el Oporto.

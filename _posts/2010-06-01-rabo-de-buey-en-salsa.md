@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 rabos de buey
 
 2 cebollas
@@ -39,7 +38,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se limpia bien la carne, quitando la grasa y las partes feas, y se trocea. Se sazonan los trozos de rabo, se pasan por harina y se fríen en una sartén. Se pasan a una olla multirrápida.
 
 En una sartén con aceite se sofríen la cebolla picada, el ajo picado, las zanahorias limpias y en rodajas y los pimientos picados. Cuando el sofrito esté casi hecho, se añaden los tomates pelados y troceados. Se sofríe todo junto, hasta que evapore el líquido. Se moja entonces con parte del vino blanco y se le da un hervor. Se pasa todo el sofrito a la olla, junto con el rabo de buey. Se añade una hoja de laurel, un poco de pimienta, el resto del vino blanco y un poco de caldo, hasta que quede cubierto. Se cierra la olla y, una vez empiece a salir vapor, se tiene una hora a fuego medio.

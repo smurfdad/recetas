@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 melón
 
 250 gr. de fresas
@@ -36,6 +35,5 @@ categories:
 2 copas de licor de melón (o brandy)
 
 <h3>Preparación</h3>
-
 Limpiar las fresas y partir en cuatro trozos. Cortar un pequeño casquete a uno de los extremos del melón para que pueda mantenerse de pie. Con un cuchillo afilado, practicar una abertura en la parte superior del melón, cortándolo en forma dentada. Extraer la pulpa y limpiarla de semillas y córtala en trocitos. Batir las claras a punto de nieve, añadiendo poco a poco 4 cucharadas de azúcar. Mezclar los trozos de melón, fresas y el helado. Rellenar el melón con esta mezcla y añadir el azúcar restante. Regar con licor y cubrir con las claras batidas, espolvorear con el azúcar en polvo y gratinar unos instantes en la parrilla del horno.
 

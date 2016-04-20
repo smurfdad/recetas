@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pata de cabra
 
 2 cabezas de ajos
@@ -47,6 +46,5 @@ Un manojo de perejil
 Sal, al gusto
 
 <h3>Preparación</h3>
-
 Limpiamos la pata de cabra de grasa y de la sangre que suelta, la atamos bien con un cordón un poco grueso y la colocamos en un caldero. Seguidamente la vamos dorando con el aceite junto con la cebolla picada en juliana y las especies para que la pata vaya cogiendo sabor.Pasados unos minutos, incorporamos el vino blanco y dejamos guisar a fuego lento.A cada media hora del tiempo de cocción le damos la vuelta a la pata para que no se nos pegue y se nos haga por los dos lados.
 

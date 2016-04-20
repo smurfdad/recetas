@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 cebolla mediana picada
 
 1 lata de azafrán
@@ -34,7 +33,6 @@ categories:
 Sal y Pimienta a gusto
 
 <h3>Preparación</h3>
-
 En una sartén colocamos el aceite de oliva, echamos la cebolla y cuando esta transparente echamos el vino y el azafrán y salpimentamos.
 
 Cocinar unos 10 minutos y le agregamos la crema condimentada con sal y pimienta negra recién molida. Cocinar a fuego bajo tapado 5 minutos más.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de espaguetis
 
 1/2 litro de salsa española
@@ -25,7 +24,6 @@ Para 6 personas.
 50 gr mantequilla
 
 <h3>Preparación</h3>
-
 Cocer los espaguetis como en las recetas anteriores.
 
 Picar la cebolla muy fina y ponerla a hacer despacio con la mantequilla.

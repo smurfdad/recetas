@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas grandes
 
 2 zanahorias
@@ -40,6 +39,5 @@ Mayonesa
 Espárragos
 
 <h3>Preparación</h3>
-
 Cocer las patatas y las zanahorias y dejar enfriar. Mientras, picar las aceitunas reservando algunas como adorno. Escurrir los guisantes y el bonito y desmenuzar este último. Picar las patatas, las zanahorias y los huevos cocidos y mezclar en una fuenta con las aceitunas picadas, el bonito y los guisantes. Cubrir con mayonesa y adornar con unos espárragos y las aceitunas que habíamos reservado.
 

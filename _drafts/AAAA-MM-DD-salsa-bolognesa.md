@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400g de carne picada
 
 400g de tomate
@@ -46,7 +45,6 @@ categories:
 Sal, pimienta, orégano, tomillo, a gusto
 
 <h3>Preparación</h3>
-
 Calentar el aceite y la manteca y rehogar la cebolla, la zanahoria, el apio, el ajo hasta que estén dorados.
 
 Agregar la carne y cocinar entre 10 y 15 minutos, incorporar el vino y dejar cocinar a fuego mínimo hasta que reduzca. Incorporar el tomate y el caldo condimentar a gusto con sal, pimienta, orégano, y tomillo a gusto.

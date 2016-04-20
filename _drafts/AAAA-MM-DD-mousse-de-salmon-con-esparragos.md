@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de espárragos
 
 sal
@@ -39,7 +38,6 @@ pimienta blanca molida
 250 gr. de nata
 
 <h3>Preparación</h3>
-
 Lavar los espárragos, pelar el tercio inferior y cortar el extremo final. Poner 1/4 de l. agua con sal en una cazuela, añadir las peladuras y recortes de los espárragos y cocer tapado 15 minutos. Colar el caldo y reservarlo.
 
 Cortar los espárragos a la mitad, y las mitades inferiores en rodajitas finas. Hervir de nuevo el caldo de los espárragos y cocer en él los espárragos, tapados, unos 5 minutos aproximadamente. Escurrirlos y reservar el caldo.
@@ -57,7 +55,6 @@ Cuando la masa comience a espesar ya tener un punto gelatinoso añadirle, poco a
 Para servirlo introducir el bol en agua caliente durante unos segundos y colocarlo en una fuente.
 
 <h3>Observaciones</h3>
-
 Cuando pase la temporada de los espárragos hágalo con brecol. El mousse de salmón puede hacerse también sin verdura.
 
 Para hervir el salmón utilice un fondo de pescado. Por lo demás la preparación es la misma.

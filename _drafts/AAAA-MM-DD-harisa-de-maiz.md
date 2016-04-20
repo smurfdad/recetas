@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 1/2 vaso de harina de maíz
 
 1 vaso de azúcar
@@ -39,6 +38,5 @@ Para 6 personas.
 Vainilla
 
 <h3>Preparación</h3>
-
 Mezclar el aceite y el azúcar, batir fuerte. Batir los huevos con la vainilla, echarlos sobre el aceite con azúcar. Añadir la harina y mover suavemente. Untar el molde con aceite, poner la mezcla igualándola con la mano. Cortar con la punta de un cuchillo en forma de triángulos. Meter en el horno hasta que esté la superficie tostada. Servir fría.
 

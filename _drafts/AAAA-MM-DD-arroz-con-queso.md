@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 vasitos de arroz
 
 100 grs.bacon
@@ -39,7 +38,6 @@ sal,aceite
 2 ajos
 
 <h3>Preparación</h3>
-
 Poner un poco de aceite en una olla.
 
 Sofreir el bacon y los champiñones.con los dos ajos cortados en dos trozos.

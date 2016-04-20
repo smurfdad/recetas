@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de bacalao desmigado desalado
 
 2 cebollas
@@ -34,7 +33,6 @@ Mahonesa
 Aceite
 
 <h3>Preparación</h3>
-
 Hervir las patatas y dejar enfriar. Pelar las patatas y pasarlas por un pasapurés. Cortar la cebolla a trozos pequeños y freírla. Cuando esté transparente añadir el bacalao aun más desmigado, y freírlo todo junto hasta que todo este dorado.
 
 Servir por separado el bacalao, el puré y la mahonesa.

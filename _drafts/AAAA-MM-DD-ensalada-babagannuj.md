@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. Berenjenas negras grandes.
 
 1/2 vaso de Tahina
@@ -42,6 +41,5 @@ Pimienta y Cayena según gusto
 Perejil cortado
 
 <h3>Preparación</h3>
-
 Asar las berenjenas, pelarlas y machacarlas. Triturar el ajo mezclado con la sal y la pimienta, añadir la Tahina y mezclar. Añadir las berenjenas y un poco de Cayena; mezclar bien. Adornar con perejil.
 

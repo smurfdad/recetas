@@ -35,5 +35,4 @@ Veremos cómo emulsiona hasta parecer una mayonesa cortada. En ese momento parti
 Ya con el aliño, los curruscos y la escarola solo falta montar la ensalada, y eso es tan sencillo como poner las hojas cortadas en una ensaladera grande, rociarla con el aliño de toma, remover bien, y adornar por la superficie con el pan frito.
 
 <h3>Observaciones</h3>
-
 Podemos repartir también unos trocitos casi desmenuzados de queso de Gamoneu, o de algún Cabrales suave.

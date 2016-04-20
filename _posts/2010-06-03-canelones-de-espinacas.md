@@ -10,7 +10,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo espinacas
 
 1 caja de canelones
@@ -24,7 +23,6 @@ Para 5 personas.
 aceite
 
 <h3>Preparación</h3>
-
 Cocer los canelones como en las recetas anteriores.
 
 Cocer las espinacas, con agua y sal.

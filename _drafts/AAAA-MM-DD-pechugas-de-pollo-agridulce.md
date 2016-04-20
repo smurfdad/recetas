@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo.
 
 1/4 l. de caldo.
@@ -37,6 +36,5 @@ Para 6 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Salpimentamos las pechugas limpias. Las freímos en un poco de aceite haciendo que queden bien doradas. Las reservamos. Caramelizados el azúcar, le añadimos el vinagre y luego el caldo y por ultimo un poco de pimienta rosa o verde. Para ligar la salsa, le agregamos harina de maíz disuelta en agua y dejamos que espese. Cortamos las pechugas en filetes y las incorporamos a la salsa, dejamos reposar un minuto y servimos acompañado con pimientos morrones o una ensalada.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Harina
 
 pan duro
@@ -37,7 +36,6 @@ aceite
 mantequilla
 
 <h3>Preparación</h3>
-
 Picar bastante cebolla y dorarla bastante a fuego lento bien en mantequilla, bien en mitad aceite mitad mantequilla.
 
 Añadir una cucharada de harina y dejar que se dore. Luego agregar bien sólo agua, bien mitad agua mitad vino blanco y dejar cocer de tres cuartos de hora a una hora.

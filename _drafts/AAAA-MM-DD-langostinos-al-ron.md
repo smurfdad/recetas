@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 dl. de aceite de oliva
 
 1 kg. de langostinos
@@ -34,7 +33,6 @@ sal
 1 limón
 
 <h3>Preparación</h3>
-
 Lavar los langostinos y dejar escurrir.
 
 En una sartén honda se calienta el aceite, incorporando seguidamente los langostinos, dejándolos freír a fuego medio durante 5 minutos y añadiéndoles paulatinamente la sal, el ron y el limón por este orden.

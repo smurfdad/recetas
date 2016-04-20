@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 k de borraja
 
 1 berenjena
@@ -55,6 +54,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Limpiar las borrajas y reservar las hojas que blanqueamos en agua hirviendo. Triturarlas junto con los huevos, sal, pimienta, harina y la leche y mantequilla templada. Con la obtención de la masa, hacer en sartén antiadherente unos crépes circulares sin darle la vuelta en el fuego. Reservar. Lavar y cortar las lechecillas a dados, rehogar a fuego lento junto con la cebolla picada muy fina. Añadir los tallos de borrajas cortados a trocitos pequeños, la berenjena cortada a dados y fritos, un tomate rallado y una pizca de harina. Dejar cocer unos minutos y con el resultado y una pizca de harina. Dejar cocer unos minutos y con resultado rellenar los crépes en forma de talego y atar con el cebollino. Presentarlas sobre una compota de tomate que se obtiene rehogando el tomate rallado con aceite, sal, azúcar y vinagre durante 20 ó 30 minutos a fuego lento.
 

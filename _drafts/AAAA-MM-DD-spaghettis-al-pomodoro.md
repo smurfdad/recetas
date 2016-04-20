@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de Spaghettis.
 
 1 Kg. de Tomate bien rojo, pelado, sin semilla y picado.
@@ -46,6 +45,5 @@ Para 6 personas.
 Sal y Pimienta al gusto.
 
 <h3>Preparación</h3>
-
 Cocer los espaguetis en agua con sal y aceite; escurrir. Freír la cebolla y el laurel en el aceite; agregar el ajo, el pimiento y rehogar; añadir la pasta de tomate, el tomate, sal y pimienta al gusto; cocinar a fuego lento por 45 minutos. Servir sobre los espaguetis espolvoreando queso parmesano.
 

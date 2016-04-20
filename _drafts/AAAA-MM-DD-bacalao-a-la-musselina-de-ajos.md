@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1,200 kg. bacalao (lomo)
 
 5 Ud. huevo
@@ -40,6 +39,5 @@ patata (varias)
 2 Ud. endibia
 
 <h3>Preparación</h3>
-
 Poner los tacos del bacalao ya remojado en una bandeja de horno con un poco de aceite e introducir al horno durante unos 8 minutos a unos 160 grados, volver a escurrir y colocar encima de rodajas de patata al vapor, colocar alrededor una juliana de endibias braseadas a la mantequilla. Cubrir con una mayonesa hecha con el resto del aceite, los huevos, la nata, los ajos tiernos fritos y las gotas de vinagre. Dorar al grill o al horno muy fuerte durante 2 minutos
 

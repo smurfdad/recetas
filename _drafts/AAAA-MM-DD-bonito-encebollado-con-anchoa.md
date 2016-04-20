@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Bonito en escabeche
 
 cebolla
@@ -30,6 +29,5 @@ anchoa en aceite
 alcaparras
 
 <h3>Preparación</h3>
-
 Se mezclan el bonito desmigado y la cebolla picada muy fina con la mahonesa. Se le agrega un chorrito de vinagre y unas alcaparras. Se extiende la mezcla sobre una rebanada de pan y se adorna con una anchoa.
 

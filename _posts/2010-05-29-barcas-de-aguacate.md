@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 aguacates no muy grandes.
 
 1 latita de anchoas en conserva.
@@ -19,7 +18,6 @@ Para 4 personas.
 Limón.
 
 <h3>Preparación</h3>
-
 Se lavan muy bien los aguacates,se cortan a lo largo,de tal manera que queden dos trozos lo más iguales posible.
 
 Se vacía la pulpa, teniendo cuidado de no romper la piel. A la pulpa se le echa unas gotitas de limón para que no se ponga oscura.

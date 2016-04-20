@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 melón de 2 <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>kg</span>.
 
 1 <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>yogurt</span>
@@ -26,7 +25,6 @@ jamón serrano o dulce en <span class=goog-spellcheck-word style=background: non
 sal y pimienta blanca
 
 <h3>Preparación</h3>
-
 Cortar el melón por la mitad y quitar las pepitas triturando la pulpa hasta conseguir una crema muy fina.
 
 Batir el <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>yogur</span>t con la crema de leche y añadir el melón con la sal y pimienta blanca.

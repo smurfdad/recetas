@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 80 g de salmón ahumado
 
 10 cucharadas de nata montada
@@ -38,7 +37,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Cortar el salmón en dados y unirlo a la nata montada. Añadir sal, unas gotas de zumo de limón y la pimienta de Cayena. Dejar enfriar.
 
 Mientras, cocer 4 patatas en agua con sal durante 20 minutos, refrescar, pelar y cortar en rodajas.

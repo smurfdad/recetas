@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 filetes de lomo de cerdo
 
 Nata liquida para cocinar
@@ -34,6 +33,5 @@ Pimienta fresca
 Sal
 
 <h3>Preparación</h3>
-
 En una sartén freímos los fieles y los apartamos. Vertemos el caldo de ave, la nata, la pimienta fresca, y dejamos que se caliente todo. Añadimos el paté y dejamos que se reduzca un poco la salsa. Añadimos los filetes para que terminen de cocinarse y ya esta.
 

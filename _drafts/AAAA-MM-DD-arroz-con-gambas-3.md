@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 vaso de arroz
 
 1 1/2 vasos de agua
@@ -37,10 +36,8 @@ Para 4 personas.
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Freír la cebolla en el aceite hasta que tenga color oscuro, sacarla y machacarla. Añadir las gambas al aceite y dejar hasta que se seque sus agua. Echar sal, pimienta, la cebolla y dejar hasta que absorbe el agua, bajar el fuego al máximo y dejar cocer.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

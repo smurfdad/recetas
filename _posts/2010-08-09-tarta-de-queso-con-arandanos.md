@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 tarrinas de queso Philadelphia
 
 1 paquete bizcochos de soletilla
@@ -23,7 +22,6 @@ Para 4 personas.
 Mermelada de arándanos
 
 <h3>Preparación</h3>
-
 Se desmenuzan los bizcochos y con ellos se cubre la base de un molde desmoldable. Se rocían con mantequilla derretida hasta que queden bien impregnados y se aprietan bien para que luego no suban a la superficie. Se reserva en el frigorífico para que endurezca un poco.
 
 Se disuelve la gelatina de limón según las instrucciones.

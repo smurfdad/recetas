@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 taza de harina de trigo
 
 2 huevos
@@ -34,7 +33,6 @@ Una pizca de sal
 1/2 taza de aceite.
 
 <h3>Preparación</h3>
-
 Tamizar la harina en un bol e incorporar la sal, hacer un agujero en el centro y añadir los huevos y un poco de leche. Batir e incorporar el resto de la leche y la margarina fundida removiendo constantemente.
 
 Aparte en una sartén dedicada a las crepés, calentar aceite (pero muy poco, solo para cubrir el fondo).

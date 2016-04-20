@@ -7,7 +7,6 @@ categories:
 - Setas y hongos
 ---
 <h3>Ingredientes</h3>
-
 500g. de champiñones
 
 1/2 taza de agua
@@ -25,7 +24,6 @@ categories:
 2 cucharadas de tomate
 
 <h3>Preparación</h3>
-
 Se calientan los champiñones e una cacerola conagua y limón durante 5 min. Se escurren y se ponen en un cuenco.
 
 En un cazo se mezcla el vinagre, la cebolla y el diente de ajo, y se pone a fuego suave hasta que la cebolla esté tierna entonces

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Mantequilla
 
 1 pimiento verde y 1/2 rojo
@@ -46,6 +45,5 @@ una pizca de pimienta blanca
 3 tazas de arroz cocido
 
 <h3>Preparación</h3>
-
 En una cacerola grande, calentar hasta derretirse la mantequilla. Sofreír los pimientos y los champiñones, espolvorear con harina y cocinar por 2 minutos. Agregar la sal, la pimienta, el caldo y la leche, bajar el fuego y cocer a fuego lento hasta que se espese la salsa. Agregar el salmón y continuar cociendo a fuego lento durante 5 minutos más. Quitar el salmón del fuego y batirle la yema de huevo. Servir sobre el arroz cocido.
 

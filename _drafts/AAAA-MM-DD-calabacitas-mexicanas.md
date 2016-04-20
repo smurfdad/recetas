@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 3 o 4 calabacitas medianas picadas en cuadros medianos
 
 3 o 4 jitomates romanos picados
@@ -45,7 +44,6 @@ Sal
 Aceite de oliva o canola
 
 <h3>Preparación</h3>
-
 En una sartén pones el aceite a calentar, cuando esté caliente agregas el ajo a que se acitrone, después agregas el jitomate, la cebolla y el jalapeño, ya sofrito agregas sal al gusto y las rajas de chile poblano y los granos de elote, ya sazonado agregas un poco de agua y después las calabacitas, dejas hevir hasta que las calabacitas estén suaves, apagas y agregas el orégano, si usas epazote agregas unos minutos antes de apagar.
 
 Dejas reposar un poco antes de servir.

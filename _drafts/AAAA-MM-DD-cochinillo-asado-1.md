@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 cochinillo (de 4 kgr. aprox.)
 
 100 gr. manteca de cerdo
@@ -31,6 +30,5 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Limpiar el cochinillo, hacerle una incisión en el espinazo por su parte interior, sazonar y pincharle la piel con una aguja. Untar (con una brocha), de manteca clarificada. Disponer una tartera de barro con la piel hacía abajo. Cubrir con papel de aluminio el rabo y las orejas para que no se quemen. Meter al horno a una temperatura de 180-200 grados durante 45 minutos. Dar la vuelta al cochinillo para que se haga por ambos lados y dejar en el horno durante hora y cuarto.
 

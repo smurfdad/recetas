@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 grs. de espaguetis
 
 200 grs. de chirlas
@@ -43,6 +42,5 @@ Sal
 Laurel
 
 <h3>Preparación</h3>
-
 Se cuecen los espaguetis en agua y sal, una hoja de laurel y un poco de aceite, para que queden más suaves. Cuando estén al dente, unos 10 minutos, se retira del fuego, se pasa por un colador y se le echa agua fría para evitar que se peguen. Mientras tanto en una cazuela se pone el aceite, se sofríen los ajos picados, añadiendo las almejas cuando estén abiertas, se les añade las gambas previamente cocidas, la pastilla de caldo y el perejil picado, se deja hervir un poco hasta que esté a punto y se retira del fuego. Seguidamente se vierte esta salsa sobre los espaguetis removiéndolos bien para que quede todo bien mezclado. .
 

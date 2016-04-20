@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/4 taza(125 ml) de sémola de trigo
 
 1 taza de agua
@@ -43,7 +42,6 @@ Para 4 personas.
 1 huevo poco batido
 
 <h3>Preparación</h3>
-
 Pon la sémola en remojo con el agua durante 30 min.
 
 Escúrrela y mézclala con el resto de los ingredientes.

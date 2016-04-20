@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 gr.de pechugas de pollo
 
 2 calabacines
@@ -39,7 +38,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se parten las pechugas en filetes finos. Se aplastan con cuidado y se doran por ambos lados en una sartén con dos cucharadas de aceite caliente. Antes de retirarlas del fuego, se vierte el zumo de dos limones y se salpimentan.
 
 Se lavan los otros dos limones, se cortan en rodajas finas, y se escaldan en agua hirviendo durante un minuto. Se escaldan tambien los calabacines y se pasan inmediatamente despues por agua fría y se cortan en rodajas finas.

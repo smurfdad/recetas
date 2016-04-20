@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 liebre, 1 joven
 
 aceite de oliva virgen, 250 ml.
@@ -65,6 +64,5 @@ sal,
 pimienta,
 
 <h3>Preparación</h3>
-
 Se limpia la liebre y se trocea; se pone en adobo durante doce horas. El adobo consiste en ajo, aceite, cebolla picada, tomillo, perejil, laurel, sal y pimienta, vino blanco y un poco de vinagre. Se escurren los trozos y se pasan por harina. Se doran en una sartén, se flambea con el brandy y se pasa a una cazuela (de meter al horno). Se pone la panceta, se deja dorar un poco y se ponen las legumbres. Se deja rehogar un poco y se pone el vino y el consomé, dejándola cocer lentamente. Una vez cocida se pasa a una fuente o cazuela (para ir directamente a la mesa), donde se ponen las legumbres y las patatas y se le echa la salsa por encima una vez pasada por un colador, y se espolvorea con perejil picado.
 

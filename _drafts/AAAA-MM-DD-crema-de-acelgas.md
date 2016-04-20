@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 300 grs de acelgas
 
 400 grs de patatas
@@ -40,6 +39,5 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Se pican la cebolla y el ajo y se rehogan a fuego muy lento en el aceite. Cuando están listos se les añaden las acelgas picadas, las patatas troceadas, la sal, la pimienta y se cubre con el caldo de ave. Se deja cocer hasta que la patata esté lista (el tiempo dependerá de la calidad de la patata). Después se tritura todo y se tamiza por un colador.
 

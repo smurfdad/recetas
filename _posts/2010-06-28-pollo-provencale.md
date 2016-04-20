@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Pechugas de pollo, deshuesadas y sin piel
 
 1/2 taza de harina
@@ -33,5 +32,4 @@ Para 4 personas.
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Caliente el aceite en un sartén grande. Pase el pollo por la harina ycocínelo. Remueva el pollo, déjelo a un lado y manténgalo caliente. Añadalos pimientos, cebolla y ajo a la olla y cocine todo hasta que esté suave. Agregue los tomates, albahaca y aceitunas. Cocine por 2 minutos. Añada elvino y cocine a fuego lento hasta que apenas esté espeso. Con una cuchara, ponga la salsa sobre el pollo.

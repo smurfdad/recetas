@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 4 papas hervidas en cubitos
 
 2 cebollas
@@ -35,7 +34,6 @@ categories:
 Perejil picado
 
 <h3>Preparación</h3>
-
 Cortar las cebollas en meios aros bien finitos y cocinar en una sartén con un poco de aceite hasta que estén blandas.
 
 Cortar la parte verde de la cebolla de verdeo bien fino.

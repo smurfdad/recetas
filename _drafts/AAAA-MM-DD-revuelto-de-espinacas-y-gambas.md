@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos
 
 500 gr. de espinacas
@@ -48,7 +47,6 @@ aceite
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Se pone a fundir la mantequilla con un poco de aceite. Se rehoga la media cebolla, bien picada. Se añade la harina en lluvia y se sofríe. Se va añadiendo la leche, removiendo la mezcla para que no se formen grumos. Se sazona con sal.
 
 Se cortan los rabos de las espinacas y se aclaran bien. En una cazuela se pone a hervir agua sazonada con sal. Cuando esté hirviendo, se echan las espinacas y se dejan hervir 2 minutos. Se refrescan y se escurren, prensándolas con las manos. Se pican y se mezclan con la bechamel anterior.

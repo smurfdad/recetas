@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 tzas miga de pan
 
 200g azúcar
@@ -44,7 +43,6 @@ Caramelo:
 Agua
 
 <h3>Preparación</h3>
-
 Humedecer con agua y jugo de limón los 200g de azúcar y preparar un caramelo. Acaramelar un molde.
 
 Escurrir y cortar las peras en láminas y acomodarlas escalonadas sobre la base del molde acaramelado. Reservar.

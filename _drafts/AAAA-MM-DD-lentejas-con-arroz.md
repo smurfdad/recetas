@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 84 minutos.
 
 <h3>Ingredientes</h3>
-
 500 grs. de lentejas
 
 250 grs. de arroz
@@ -42,6 +41,5 @@ medio vaso de aceite de oliva virgen
 sal
 
 <h3>Preparación</h3>
-
 Cocer las lentejas con todos los ingredientes durante 45 minutos, hasta que el caldo esté cremoso. Mientras tanto en otra olla se cuece el arroz con abundante agua con sal, y cuando esté listo se cuela y se lava. En el momento de comer se añade el arroz a las lentejas y se les da un hervor.
 

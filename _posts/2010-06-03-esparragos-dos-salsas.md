@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 24 espárragos
 
 1/2 cebolla
@@ -31,7 +30,6 @@ aceite de oliva
 salsa mayonesa
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y ponerla a rehogar despacio, cuando este a medio hacer, agregar el pimiento picado fino y dejarlo que se haga bien.
 
 Una vez echo apartar del fuego y dejar enfriar.

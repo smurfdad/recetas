@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 600 g de Bacalao en 8 trozos
 
 1 cebolla grande
@@ -38,7 +37,6 @@ harina
 aceite
 
 <h3>Preparación</h3>
-
 Escurrir el bacalao, enharinarlo y freírlo en aceite abundante hasta que resulte bien dorado. Reservarlo.
 
 Escaldar los tomates, pelarlos, eliminar las pepitas y picarlos finos. Pelar el calabacín y la berenjena y cortarlos a tiras. Pelar la cebolla y cortarla en lunitas. Pelar los pimientos asados y cortarlos en tiras, eliminando las semillas.

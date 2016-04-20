@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr. de jamón
 
 1 l. de agua
@@ -39,7 +38,6 @@ Para 6 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Se calientan el aceite en una cacerola. Se agrega el ajo, el jamón, el pan laminado y el pimentón y una vez rehogado, se vierte el agua. Se deja cocer durante 5 minutos y se sazona. Se pueden escalfar unos huevos para enriquecer la sopa. Se sirve muy caliente.
 
 El agua se puede sustituir por caldo blanco

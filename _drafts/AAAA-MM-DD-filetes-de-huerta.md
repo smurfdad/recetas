@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg de acelgas
 
 Harina
@@ -36,6 +35,5 @@ Agua
 Sal
 
 <h3>Preparación</h3>
-
 Limpiar bien las acelgas quitando lo verde y cortando las pencas en trozos de unos 5 cm, ponerlas a cocer en agua salada hirviendo durante unos 45 minutos. Preparar una sartén con aceite hirviendo y poner a freír en él las acelgas rebozadas en harina y huevo batido.
 

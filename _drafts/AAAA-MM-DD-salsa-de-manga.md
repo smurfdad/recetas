@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 cebollas pequeñas blancas
 
 1 manga mas bien grande
@@ -34,6 +33,5 @@ un chorrito ron
 nata
 
 <h3>Preparación</h3>
-
 Picamos finamente las cebollas y las sofreímos, mientras tostamos el azafrán, una vez dorada la cebolla ponemos el azafrán, y al poco la manga trozeada le vamos dando vueltas y escachando, le echamos un chorrito de ron (habana 7 años) y le ponemos la nata y lo revolvemos y al poco lo apartamos del fuego
 

@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 limón
 
 24 alcachofas
@@ -35,7 +34,6 @@ nuez moscada
 80 gr harina tostada
 
 <h3>Preparación</h3>
-
 Limpiar las alcachofas y cocerlas con agua, sal y limón. Reservar.
 
 Después se mezcla el arroz, con la nata y sazonar con pimienta blanca y nuez moscada.

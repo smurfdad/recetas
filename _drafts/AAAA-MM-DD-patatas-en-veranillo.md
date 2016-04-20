@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. y 1/2 de patatas
 
 3 tomates maduros
@@ -44,6 +43,5 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 En un perol se refríen, sin llegar a dorar, la cebolla, los pimientos y los dientes de ajo. A continuación se añade el tomate pelado y picado, una hoja de laurel, y un clavo. Se refríe todo durante cinco minutos a fuego medio y se vierte en una cacerola donde tendremos las patatas troceadas. Se cubre con agua y se deja hervir hasta que las patatas alcancen su punto.
 

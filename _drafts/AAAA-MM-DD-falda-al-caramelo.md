@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Kilo 1/2 de falda de ternera a tiras.
 
 2 cebollas medianas
@@ -39,6 +38,5 @@ Kilo 1/2 de falda de ternera a tiras.
 aceite y sal
 
 <h3>Preparación</h3>
-
 Se sala la carne y en la olla exprés se va friendo por tandas y se va sacando a un plato. En el aceite sobrante se dora la cebolla y la zanahoria, una vez dorada se hecha la carne, el vaso de vino, el tomate y el caramelo, se le hecha un poco de agua y se pone ha cocer hasta que este tierna. Una vez hecha se saca la carne, y la salsa se pasa por el pasapuré. Se sirve con patatas fritas.
 

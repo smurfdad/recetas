@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500gr de Sémola
 
 4 Huevos
@@ -36,6 +35,5 @@ categories:
 Azafrán
 
 <h3>Preparación</h3>
-
 Mezclar los huevos, el agua y el azafrán agregando chorritos de caldo sobre un poco de sémola en una bandeja grande (tafsim) e ir torciendo poco a poco. Luego se pasan por un tamiz grueso para sacarle los granos, luego se pasa por un colador mas fino (para sacar los mas delgados) y que quede un grano mediano uniforme.
 

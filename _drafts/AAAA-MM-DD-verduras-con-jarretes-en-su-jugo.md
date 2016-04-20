@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 alcachofas
 
 750 gr espárragos
@@ -56,7 +55,6 @@ sal
 1 chorro de coñac
 
 <h3>Preparación</h3>
-
 Poner una cazuela al fuego con un poco de aceite y dorar los jarretes.
 
 Una vez dorados se echa la cebolla picada, los ajos, la sal, el vino y a fuego lento se deja que se vayan haciendo en el horno sobre 1 hora y 1/2.

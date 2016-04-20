@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gramos de filetes de mero
 
 200 gramos de colas de gambas peladas
@@ -49,7 +48,6 @@ una escarola
 cebollino
 
 <h3>Preparación</h3>
-
 Pelamos y picamos la cebolla y el puerro y lo ponemos a sofreír en un puchero con un poco de aceite. Añadimos el tomate y lo dejamos hervir unos minutos; agregamos la carne de cangrejo desmigada y limpia. Incorporamos la nata y lo dejamos hervir durante 5 minutos.
 
 Aparte, en una sartén con una gota de aceite, salteamos las gambas a fuego vivo, dejándolas cruditas, añadimos sal y el brandy. Quemamos el alcohol y lo retiramos.

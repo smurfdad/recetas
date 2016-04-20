@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 pollo cocido
 
 1/2 litro de caldo de pollo desgrasado
@@ -36,6 +35,5 @@ Para 4 personas.
 2 cucharadas de fécula de maíz (o Maicena)
 
 <h3>Preparación</h3>
-
 Deshacer el pollo y triturarlo junto con la patata y la zanahoria. Añadir un poco de caldo, espesar con la fécula de maíz, agregar el resto del caldo y cocinar revolviendo hasta que tome cuerpo. Servir bien caliente.
 

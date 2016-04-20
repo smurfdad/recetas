@@ -9,7 +9,6 @@ categories:
 - Setas y hongos
 ---
 <h3>Ingredientes</h3>
-
 500 gr. de tallarines
 
 200 gr. de pechuga de pollo
@@ -37,7 +36,6 @@ pimienta negra
 perejil
 
 <h3>Preparación</h3>
-
 Pon a cocer en una cazuela con abundante agua los tallarines con un poco de sal y un chorrito de aceite. Escurre, refresca con agua y reserva.
 
 Limpia los champiñones, pícalos en láminas y dóralos en una cazuela con aceite y los dientes de ajo.
@@ -51,5 +49,4 @@ Una vez hecha la crema, agrega los tallarines, los champiñones, las tiras de po
 Dispón todo en una fuente, espolvorea con queso rallado y gratina en el horno durante 3 minutos. Sirve.
 
 <h3>Observaciones</h3>
-
 Un truco para dar un buen acabado a la pasta, es calentar previamente los platos o las fuentes en las que vaya a ser servida, porque el calor del recipiente ayuda a que la pasta se conserve lustrosa hasta el momento de su consumo.

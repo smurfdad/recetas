@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 un pollo de corral
 
 1/2 de Leche
@@ -31,7 +30,6 @@ un pollo de corral
 100 g de azucar
 
 <h3>Preparación</h3>
-
 Se cuece el pollo al horno o al microondas durante el tiempo necesario.Mientras se hace el pollo se hace una mezcla de leche y se le echa el zucar , se remueve hasta que el azucar esté disuelto.Una vez hecho el pollo , se hecha la mezcla de leche y azucar y se le echa por encima.
 
 Para que quede mas dulce aún le echamos mas azucar por encima.

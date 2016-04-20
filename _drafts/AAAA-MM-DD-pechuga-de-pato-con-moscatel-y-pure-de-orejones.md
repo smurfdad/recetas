@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 pechugas de pato de 350 gr.
 
 1/2 litro de caldo de ave
@@ -51,13 +50,11 @@ grasa de pato
 100 gr. de moscatel
 
 <h3>Preparación</h3>
-
 Ponemos los orejones a remojo con el moscatel. Salpimentamos las pechugas y las colocamos en una sartén al horno a 160 grados durante 3 minutos por cada lado, añadimos el azúcar moreno y las escalonias. Saltear hasta hacer un caramelo e incorporar el moscatel, dejar reducir a la mitad y añadir el caldo de pato. Volver a reducir y rectificar de sal en el último momento.
 
 Puré de orejones: Escurrimos los orejones, salteamos con la grasa de pato y añadimos vino dulce nuevamente. Dejar cocer e incorporar el caldo de pato, esperar hasta que espese y triturar fino hasta formar un puré.
 
 <h3>Observaciones</h3>
-
 Colocar las pechugas finas, napar con la salsas y poner el puré al lado.
 
 Receta típica de Aragón.

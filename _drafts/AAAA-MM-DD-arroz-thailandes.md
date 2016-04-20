@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250g de arroz hervido
 
 1 diente de ajo
@@ -43,6 +42,5 @@ Aceite
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Colocar aceite en una sartén y saltar el ajo y agregar la carne. Condimentar con sal y pimienta y salsa de soja, la cebolla y la salsa de tomate. Mezclar el arroz hervido con la preparación. Servir el arroz con pepinos en rodajas y un huevo frito arriba
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 manojos de espárragos (pueden utilizarse también los enlatados)
 
 4 huevos
@@ -36,6 +35,5 @@ pan frito
 sal
 
 <h3>Preparación</h3>
-
 Si son espárragos frescos, se cuecen con agua y sal; se escurren. Las rodajas de pan frito se cubren con yema de huevo mezclada con mostaza y mahonesa, y sobre ellas se ponen los espárragos, y sobre cada ración se escalfa un huevo. Se acompaña con salsa vinagreta
 

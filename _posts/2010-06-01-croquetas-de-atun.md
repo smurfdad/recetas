@@ -7,7 +7,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 1 cebolla y 1 pimiento verde
 
 150 grs. de mantequilla
@@ -23,7 +22,6 @@ categories:
 sal y aceite
 
 <h3>Preparación</h3>
-
 Picamos muy finamente la cebolla y el pimiento verde y los sofreimos en una
 
 sarten con mantequilla, a fuego muy suave. Añadimos el atun desmigado y la

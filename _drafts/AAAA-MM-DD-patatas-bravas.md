@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 gr. de patatas
 
 1 taza de tomate frito
@@ -34,7 +33,6 @@ Aceite de Oliva
 Sal
 
 <h3>Preparación</h3>
-
 Lavar bien las patatas y colocarlas en una cacerola, cubrirlas con agua, añadirles sal y cocerlas a fuego fuerte hasta que estén tiernas, pero con cuidado de que estén firmes y no deshechas.
 
 Colar las patatas y cuando pierdan el exceso de calor, pelarlas y cortarlas con un cuchillo afilado en trozos regulares.

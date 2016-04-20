@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 1,5 kg de mejillones
 
 1 vaso de vino blanco seco
@@ -37,7 +36,6 @@ categories:
 Perejil picado y sal
 
 <h3>Preparación</h3>
-
 En un bol batir enérgicamente las yemas de huevo junto con la nata líquida. En una cazuela amplia rehogar la cebolleta picada con la cucharada de mantequilla.
 
 Salar. Cuando empiece a estar transparente añadir el vino blanco y dejar que hierva unos minutos para que se reduzca la salsa a la mitad. De vez en cuando

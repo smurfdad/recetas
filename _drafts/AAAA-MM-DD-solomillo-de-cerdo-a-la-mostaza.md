@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos enteros
 
 mostaza de Dijon
@@ -34,6 +33,5 @@ nata
 soja
 
 <h3>Preparación</h3>
-
 Salpimentar los solomillos y untar con mostaza. Meter en el horno a 200 grados durante 15 minutos. Añadir un vaso de vino blanco. Hornear a 150 grados de 15 a 20 minutos. Sacar del horno y retirar los solomillos de la fuente. En la fuente añadir un chorreon de nata y un chorrito de soja. Dejar hervir un poco y tienes la salsa. Cortar en medallones los solomillos y servir la salsa aparte.
 

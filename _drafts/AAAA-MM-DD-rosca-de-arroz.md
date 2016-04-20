@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 250 g de arroz
 
 50 g de aceitunas
@@ -37,7 +36,6 @@ Para 5 personas.
 Mayonesa.
 
 <h3>Preparación</h3>
-
 Hervir el arroz en agua con sal.
 
 Pasar por agua fría y escurrir.

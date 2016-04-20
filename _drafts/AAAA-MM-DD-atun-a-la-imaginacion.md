@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 120 gr.de atun
 
 2 huevos duros
@@ -40,7 +39,6 @@ perejil
 20 gr. de aceite
 
 <h3>Preparación</h3>
-
 Poner en una cazuela el aceite, el zumo de tomate, el laurel y el pimiento cortado en tiras, y calentar a fuego lento.
 
 Agregar el atún y colocar el huevo partido por la mitad, en el centro de la cazuela.

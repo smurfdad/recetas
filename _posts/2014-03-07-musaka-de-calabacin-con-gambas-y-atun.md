@@ -12,7 +12,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 g de calabacín.
 
 200 g de bonito fresco.
@@ -26,7 +25,6 @@ Para 4 personas.
 50 g de cebolla.
 
 <h3>Preparación</h3>
-
 Limpiamos las gambas y el bonito de espinas y cáscaras.
 
 Hacemos un caldo con las cáscaras de las gambas y la piel y espinas del bonito.
@@ -46,5 +44,4 @@ Forramos el interior de una flanera colocando las lonchas de calabacín y añadi
 Calentamos al horno fuerte y acompañamos de una salsa ligera de naranja.
 
 <h3>Observaciones</h3>
-
 Una velouté es como una salsa bechamel o blanca pero sustituyendo la leche por un caldo, en este caso el obtenido de las cáscaras de las gambas y el bonito, o por un caldo de verduras.

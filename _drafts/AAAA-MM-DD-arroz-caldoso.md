@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de arroz
 
 100 gr. de jamón serrano
@@ -49,6 +48,5 @@ Ajos
 Sal
 
 <h3>Preparación</h3>
-
 Se vierte el aceite en una cazuela de barro y se pone en el fuego. A continuación, se echa la cebolla, los ajos, el laurel y los pimientos verdes y se rehoga, Se añade el jamón serrano, cortado en forma de dados, un poco de pimentón y los tomates. Cuando esté todo rehogado se echa el arroz, el agua, el picante, la guindilla roja y, por último, la sal. Se deja hervir durante unos 15 minutos y se sirve caldoso.
 

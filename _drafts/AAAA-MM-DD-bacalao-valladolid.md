@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 kg. de bacalao
 
 1 kg. de cebollas
@@ -48,7 +47,6 @@ Para 6 personas.
 sal pimienta
 
 <h3>Preparación</h3>
-
 Se trocea el bacalao y se pone a remojo durante 48 horas, cambiándole el agua cada seis horas. Se pica en juliana finita las cebollas, los pimientos y los ajos. Se pone en una cazuela al fuego con 100 cc. de aceite, se añade el picadito y lo estofamos lentamente.
 
 Transcurridos cinco minutos se pelan los tomates y se añaden a la cazuela, dándoles vueltas de vez en cuando, ayudados de una espumadera, se salpimenta y se deja tapado para que se poche muy despacito. A continuación se pone el bacalao fuera del agua en un trapo blanco seco.

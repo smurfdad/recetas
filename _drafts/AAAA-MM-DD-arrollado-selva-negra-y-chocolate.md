@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 7 huevos
 
 1 taza y media de azúcar impalpable
@@ -34,7 +33,6 @@ categories:
 1 cucharadita y media de vainilla
 
 <h3>Preparación</h3>
-
 Batir hasta que espesen las 7 yemas. Agregar el azúcar impalpable, la harina, sal, el Cacao Puro en Polvo Valor y la vainilla.
 
 Batir aparte las 7 claras a punto de nieve e incorporarlas con movimiento suave a la preparación anterior.

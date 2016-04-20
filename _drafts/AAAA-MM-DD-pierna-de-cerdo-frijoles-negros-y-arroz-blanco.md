@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 1 pierna de cerdo o trozo magro de cerdo en una pieza (2,5 Kg. aproximadamente)
 
 &frac12; cabeza de ajos
@@ -59,7 +58,6 @@ comino
 arroz blanco cocido.
 
 <h3>Preparación</h3>
-
 En un mortero poner todos los ingredientes de la pierna, menos la cebolla. Triturar y untar bien la carne. Poner encima la cebolla, cubrir y refrigerar por un tiempo de 12 horas.
 
 Hornear a 190&ordm; C durante 45 minutos por cada Kg. de peso de la carne. Lavar muy bien los frijoles y poner en remojo toda la noche.

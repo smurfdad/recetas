@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia a las finas hierbas
 
 1 pollo en 8 trozos
@@ -55,7 +54,6 @@ Tomillo
 200 ml. de leche
 
 <h3>Preparación</h3>
-
 Majar los ajos, almendras y huevos cocidos, y mezclar con el queso, la leche y el azafrán.
 
 Salpimentar el pollo y espolvorear con tomillo. Dorar el pollo y mantenerlo al calor.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 250 gr. de chocolate (10 barritas) Nestlé postre
 
 150 gr. de coco rallado
@@ -31,6 +30,5 @@ Para 4 personas.
 1/2 bote de leche condensada
 
 <h3>Preparación</h3>
-
 Fundir el chocolate al baño maría o en el microondas con la leche condensada. Añadir 100 gramos de coco rallado y mezclarlo bien. Dejarlo en el frigo hasta que la pasta se endurezca, unos 30 minutos. Formar bolitas y rebozarlas en el resto del coco, colocarlas en cápsulas de papel.
 

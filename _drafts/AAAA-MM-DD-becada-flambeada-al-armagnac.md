@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 becadas
 
 lombarda
@@ -44,7 +43,6 @@ aceite
 1/2 litro de caldo de carne
 
 <h3>Preparación</h3>
-
 Desplumar la becada y quitarle los ojos. Abrir el pecho, quitando el hueso y vaciando su interior para, posteriormente, separar el hígado y el corazón. Salpimentar por dentro y por fuera y volver a juntar el pecho, como si estuviera normal, sujetando la cabeza con un palillo.
 
 Cubrir la cabeza y el pico con papel de aluminio, mojar el resto con aceite de oliva y hornearlo a fuego muy caliente (180&ordm;-200&ordm;) durante 10 minutos.

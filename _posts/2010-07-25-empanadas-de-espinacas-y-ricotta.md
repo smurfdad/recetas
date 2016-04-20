@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para el relleno:
 
 250g de ricotta
@@ -31,7 +30,6 @@ Para el relleno:
 Sal, pimienta y nuez moscada a gusto
 
 <h3>Preparación</h3>
-
 Picar el morrón y las espinacas blanqueadas.
 
 En una sartén con aceite de oliva rehogar la cebolla En un recipiente mezclar la ricotta, con el queso de postre, el morrón picado, la espinaca, la cebolla, el queso parmesano y los huevos y condimentar con un poco de sal, pimienta y nuez moscada.

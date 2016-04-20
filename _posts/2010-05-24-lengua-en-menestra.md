@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lengua de ternera de 1 kg. aproximadamente
 
 1 cebolla
@@ -26,7 +25,6 @@ Para 6 personas.
 sal, aceite, vino blanco
 
 <h3>Preparación</h3>
-
 Limpiar la lengua bien, teniéndola 1/2 hora a remojo con agua y sal. Luego, pasarla por el grifo de agua, frotándola bien con un cuchillo.
 
 Poner a cocer con agua hasta que la cubra.

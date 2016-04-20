@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kilo de merluza
 
 1 Kilo de patatas
@@ -43,10 +42,8 @@ laurel
 aceite de oliva virgen
 
 <h3>Preparación</h3>
-
 Se corta la merluza en rodajas, se sala y se enharina. En una sartén se fríe el ajo y la cebolla finamente picados, acompañados en la parranda por un poquico de laurel. Cuando la cebolla esta pochada (trasparente), se añade la merluza y se fríe por ambos lados. Se añade un poquito de harina, el vino blanco, la salsa de tomate y el caldo de pescado. Se cuece a fuego lento hasta que la salsa espese. Se acompaña con las patatas hervidas y cortadas a trozos.
 
 <h3>Observaciones</h3>
-
 Plato de Teruel.
 

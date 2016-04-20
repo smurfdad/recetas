@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Para el bizcocho:
 
 6 huevos
@@ -52,7 +51,6 @@ Para la crema:
 1 palito de vainilla
 
 <h3>Preparación</h3>
-
 Batir enérgicamente las yemas con el azúcar hasta que aumenten de volumen. A continuación incorporar y mezclar bien la harina y la maizena. Por último montar las claras a punto de nieve e incorporar a la mezcla.
 
 Colocar en una placa de horno no muy alta un papel engrasado con mantequilla y verter sobre él la mezcla. Hornear a fuego mediano durante 15 a 20 minutos. Una vez cocido, desmoldar en caliente sobre un paño húmedo y retirar el papel. Extender sobre el bizcocho la crema pastelera y enrollar con ayuda del paño, dejándolo envuelto hasta que enfríe. Espolvorear con azúcar glace y almendra picada.

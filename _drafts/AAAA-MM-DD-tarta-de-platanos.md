@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 150 gr de hojaldre.
 
 5 o 6 plátanos.
@@ -34,7 +33,6 @@ Unas gotas de limón.
 1 vaso de agua.
 
 <h3>Preparación</h3>
-
 Preparamos un caramelo con el azúcar, el vaso de agua y unas gotas de limón, diluyéndolos a fuego lento y untando con el un molde.
 
 Pelamos los plátanos, los cortamos en trozos de la altura del molde y

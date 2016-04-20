@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 48 minutos.
 
 <h3>Ingredientes</h3>
-
 1,5 Kgr. de espinacas
 
 4 huevos
@@ -45,6 +44,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Si las espinacas son frescas, cocerlas al vapor durante tres minutos, si son congeladas, hervirlas en agua con sal unos diez minutos. Freir en el aceite la cebolla, el ajo picado y el jamón cortado en tiras. Cuando la cebolla empiece a tomar color, añadir las espinacas bien escurridas y rehogarlas durante unos minutos. Batir los huevos con la nata y el queso rallado y sazonar con sal y pimienta e incorporar a las espinacas. Se pone todo en una fuente e introducir en el horno a 175 grados durante 30 minutos.
 

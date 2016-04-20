@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote pequeño de leche condensada
 
 1/2 l. de leche
@@ -19,7 +18,6 @@ Para 6 personas.
 4 huevos
 
 <h3>Preparación</h3>
-
 Caramelizar un molde.
 
 Deshacer el chocolate con la leche hasta que de un hervor.

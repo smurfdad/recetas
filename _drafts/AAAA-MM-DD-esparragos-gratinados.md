@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 Chiles Rojos(pimientos morrones, pimienton)
 
 2 dientes de ajo
@@ -34,6 +33,5 @@ categories:
 1/2 taza de queso para derretir
 
 <h3>Preparación</h3>
-
 Se pican los pimientos rojos para darle color, la cebolla, los ajos en cuadritos. Se ponen los esparragos en una cacerola para horno/hornito. Se les esparce encima la cebolla, los pimientos y el ajo, el aceite de oliva, sal y pimienta y por ultimo el queso para gratinar cualquier tipo segun su gusto. Al horno por 10 minutos y listo.
 

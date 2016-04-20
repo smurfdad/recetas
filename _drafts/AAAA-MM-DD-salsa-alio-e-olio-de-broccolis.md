@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 cabeza de ajo picado
 
 3 plantas de bróccolis, limpios y blanqueados
@@ -32,7 +31,6 @@ categories:
 Sal y pimienta negra a gusto
 
 <h3>Preparación</h3>
-
 En una sartén bien grande y profunda, colocar el aceite de oliva y la manteca, cuando estén calientes rehogar rápidamente el ajo, a fuego bajo, dado que este se quema rápido, inmediatamente hechar las flores de broccoli.
 
 Condimentar con sal y pimienta, tapar y dejar a fuego bajo.

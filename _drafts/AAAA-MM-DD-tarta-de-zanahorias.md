@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 150gr de zanahorias ralladas.
 
 4 huevos.
@@ -40,7 +39,6 @@ Mantequilla y harina para untar el molde.
 Azúcar glass
 
 <h3>Preparación</h3>
-
 En un bol mezclamos con las varillas la mantequilla (blandita) con el azúcar. Agregamos los huevos de uno en uno sin parar de batir.
 
 Mezclamos las nueces y la zanahoria. Por ultimo añadimos la harina con la levadura.

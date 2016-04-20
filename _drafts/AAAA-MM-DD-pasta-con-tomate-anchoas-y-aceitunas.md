@@ -21,7 +21,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 2 cucharadas de aceite
 
 1/2 taza de cebolla, picadita
@@ -47,7 +46,6 @@ La pulpa picadita de 8 aceitunas negras y 8 aceitunas verdes
 1/2 taza de queso parmesano, rallado finamente.
 
 <h3>Preparación</h3>
-
 En una olla, se pone el aceite a calentar. Se agregan la cabolla y el ajo y se cocinan hasta marchitar, unos 4 minutos.
 
 Se agregan las anchoas. Se cocina 1 minuto revolviendo constantemente con cuchara de madera y desmenuzando las anchoas. Se agregan la albahaca, el perejil, la pimienta, el tomate y las aceitunas y se cocina la salsa revolviendo por 3 &ograve; 4 minutos. Se retira del fuego y se pone aparte.

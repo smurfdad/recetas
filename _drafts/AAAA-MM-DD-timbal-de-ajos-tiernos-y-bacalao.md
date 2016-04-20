@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para el bacalao al pil-pil:
 
 200 gr. de bacalao en lomo
@@ -44,7 +43,6 @@ Para la salsa y la guarnición:
 1 manojo de cebollino
 
 <h3>Preparación</h3>
-
 En una sartén pequeña con abundante aceite se rehogan los ajos tiernos, haciéndolos poco a poco, de modo que queden confitados, pero no fritos. Se reservan.
 
 Se pone al fuego otra cazuela con aceite y se doran en ella los dientes de ajo. Se sacan y se retira la cazuela del fuego. Cuando el aceite esté templado, se pone el bacalao con la piel hacia arriba y se pocha durante 8 minutos, también a fuego suave.

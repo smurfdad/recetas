@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 trozo de solomillo de 1 kg. de peso
 
 un poco de mostaza
@@ -19,7 +18,6 @@ un poco de vino blanco
 sal, aceite
 
 <h3>Preparación</h3>
-
 Salar el solomillo, atar para que quede redondo y untar todo entero con mostaza.
 
 Poner aceite en la olla rápida y cuando esté caliente dorar el solomillo por todas partes.

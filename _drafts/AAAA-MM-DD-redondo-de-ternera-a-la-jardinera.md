@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de redondo.
 
 2 cebollas medianas.
@@ -49,6 +48,5 @@ Medio kilo de puré de patata.
 Aceite.
 
 <h3>Preparación</h3>
-
 Se sala el redondo y se coloca en una placa de horno honda, cubierto con la cebolla, el tomate y el puerro picados. Añadir aceite, agua y vino y meterlo en el horno, a unos 180 grados, durante una hora. Durante el tiempo de la cocción, si hace falta, se añade agua. Sacar el redondo a un plato y reservarlo. La verdura, con su líquido, se pasa por el pasapurés y se pone en una cazuela. Cortar el redondo en lonchas y ponerlas a la cazuela. Si hay poca salsa, añadir agua o caldo, probar de sal y ligarla con fécula. A la cazuela se agrega la zanahoria cocida y troceada, las alcachofas, los guisantes y las habas. Espolvorearlo de perejil y acompañarlo de puré en el plato.
 

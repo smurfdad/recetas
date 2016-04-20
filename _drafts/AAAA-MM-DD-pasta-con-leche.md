@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Un cuarto de kilo de pasta corta.
 
 2 Tazas de leche.
@@ -37,6 +36,5 @@ Un cuarto de kilo de pasta corta.
 Queso blanco duro o amarillo de bola rayado.
 
 <h3>Preparación</h3>
-
 Preparar la pasta como de costumbre, sin que se pase de cocción, en un bol, sofreír la tocineta o el jamón hasta que esté bien doradito. Al colar la pasta, agregar las 2 cucharadas de mantequilla y llevar nuevamente a fuego lento, añadir la leche, la tocineta o jamón y los vegetales(opcional), cuando hierva nuevamente agregar el queso poco a poco y remover hasta que la leche tome una consistencia espesa (como la salsa bechamel). Servir inmediatamente, puede agregarle queso rallado y acompañar con trozos de pan tostado y mantequilla de ajo.
 

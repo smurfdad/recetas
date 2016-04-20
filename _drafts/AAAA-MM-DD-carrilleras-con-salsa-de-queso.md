@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 carrilleras de ternera.
 
 1 cebolla.
@@ -46,7 +45,6 @@ Zanahorias cocidas.
 Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos las carrilleras de nervios y otros tejidos y las ponemos a cocer en agua con sal, cebolla, puerro y tomate, durante una hora y cuarto. Colamos el caldo y reservamos la carne. Ponemos el caldo en un cazo con el queso y la nata. Dejamos cocer quince minutos, aproximadamente, hasta que se espese la salsa. Aparte, cocemos las zanahorias. Una vez cocidas las salteamos y las reservamos para guarnición.
 
 Cortamos las carrilleras en lonchas y las cubrimos con la salsa espesa. Antes de servir, espolvoreamos con perejil picado y añadimos las zanahorias.

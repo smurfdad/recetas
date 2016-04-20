@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 1/4 de kg. de carne de loco picado
 
 1 tomate
@@ -41,7 +40,6 @@ categories:
 Sal al gusto.
 
 <h3>Preparación</h3>
-
 En una olla se pone a calentar el aceite, luego se incorpora la carne y los ajos, pimienta y tomate.
 
 Una vez frito este aderezo se incluyen las 6 tazas de agua, y se deja hervir por espacio de un cuarto de hora.  Al ultimo minuto, antes de terminar la coccion, agregue los fideos y el oregano.

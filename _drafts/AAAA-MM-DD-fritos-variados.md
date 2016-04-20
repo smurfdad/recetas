@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 litro de leche para unas 15 croquetas
 
 8 cucharadas de harina
@@ -32,10 +31,8 @@ una nuez de mantequilla
 una pizca de sal.
 
 <h3>Preparación</h3>
-
 Poner en un cazo el aceite y la mantequilla, se echa la harina, se pone al fuego y se dan vueltas con una cuchara de palo; se va agregando la leche poco a poco hasta que quede un poco espesa. Dejar enfriar la masa y recoger pasando por harina, huevo y pan rallado, y no queda más que freír.
 
 <h3>Observaciones</h3>
-
 Todo esto vale para fritos de gamba, de queso, de huevo, de jamón y croquetas.
 

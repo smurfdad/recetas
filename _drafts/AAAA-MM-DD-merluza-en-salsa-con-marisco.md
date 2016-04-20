@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 50 minutos.
 
 <h3>Ingredientes</h3>
-
 1,5 kilos de merluza
 
 4 cucharadas de aceite
@@ -42,7 +41,6 @@ Para 4 personas.
 150 gramos de harina
 
 <h3>Preparación</h3>
-
 Limpiar la merluza y rebozarla en harina.
 
 Freír en aceite a fuego bajo y colocar en una cazuela.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. De puerros cortados en trozos gruesos
 
 4 huevos
@@ -39,10 +38,8 @@ media taza de hinojo picado
 1 taza de aceite
 
 <h3>Preparación</h3>
-
 Se calienta el aceite en una cacerola y se sofríen los puerros a fuego lento durante 10 minutos hasta que estén blandos, volviéndolos constantemente. A continuación se baten los huevos en un bol y se añade la harina, el queso, la leche, el hinojo, los puerros, la sal y pimienta, removiéndolos para que se mezclen bien todos los ingredientes. Después se pone la mezcla en una bandeja antiadherente y se mete a horno medio durante aproximadamente una hora.
 
 <h3>Observaciones</h3>
-
 Receta Griega
 

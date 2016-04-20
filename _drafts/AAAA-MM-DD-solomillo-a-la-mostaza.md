@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 solomillo de cerdo
 
 lonchas de bacon
@@ -36,7 +35,6 @@ lonchas de bacon
 200 ml. nata liquida
 
 <h3>Preparación</h3>
-
 Untar la carne con la mostaza y envolver con el bacon.
 
 Pelar las manzanas y cortar a cuadros. Cortar la cebolla en aros finos.

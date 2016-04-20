@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 36 minutos.
 
 <h3>Ingredientes</h3>
-
 2 aguacates medianos
 
 2 cucharadas de nata liquida
@@ -41,6 +40,5 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes y batir con la batidora electrica hasta obtener una crema homogenea. La nata puede reemplazarse por yogur natural.
 

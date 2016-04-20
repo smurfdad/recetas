@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 aguacates
 
 2 rodajas de piña maduras (si no es tropical, mejor enlatada)
@@ -26,7 +25,6 @@ el zumo de medio limón
 salsa de mostaza
 
 <h3>Preparación</h3>
-
 Colocar la lechuga en una fuente.
 
 Encima la piña y jamón cortados en trocitos.

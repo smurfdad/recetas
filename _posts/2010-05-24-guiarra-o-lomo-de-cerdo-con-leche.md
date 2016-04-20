@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de guiarra o lomo de cerdo en un trozo
 
 sal, aceite de oliva
@@ -21,7 +20,6 @@ sal, aceite de oliva
 harina
 
 <h3>Preparación</h3>
-
 Se pone sal al trozo de carne y se ata con una cuerda.
 
 En una cazuela se pone un poco de aceite, y cuando esté caliente se coloca la carne pasada por harina y las zanahorias peladas y picadas en trozos pequeños.

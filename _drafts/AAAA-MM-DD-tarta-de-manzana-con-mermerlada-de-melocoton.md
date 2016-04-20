@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 cucharadas de harina
 
 15 de azúcar
@@ -38,7 +37,6 @@ Para 4 personas.
 Mermelada de melocotón
 
 <h3>Preparación</h3>
-
 Se mezcla la harina, el azúcar, la leche, los huevos, la mantequilla, y 3 manzanas. Cuando esté todo bien batido, se unta un molde de aceite para que no se pegue, y se echa la mezcla anterior.
 
 Después se pelan las tres manzanas restantes para decorar la parte de arriba y se colocan en forma de media luna, hasta que esté todo cubierto.

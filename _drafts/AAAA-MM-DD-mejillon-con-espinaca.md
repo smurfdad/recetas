@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 Mejillones
 
 tomate
@@ -35,6 +34,5 @@ huevos
 pan rallado
 
 <h3>Preparación</h3>
-
 Se hierven los mejillones. Por otro lado, hacemos una bechamel y le añadimos el mejillón cocido, las espinacas cocidas, el tomate, los pimientos, la cebolla, el ajo y el huevo cocido, todo ello bien picado. Rellenamos con ello el mejillón y lo freímos en abundante aceite caliente.
 

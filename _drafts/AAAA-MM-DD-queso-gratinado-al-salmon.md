@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 quesos de cabra de Los Balanchares.
 
 200 gramos de salmón marinado, ya limpio sin piel ni espinas
@@ -40,6 +39,5 @@ Aceite de oliva virgen extra
 1 zanahoria
 
 <h3>Preparación</h3>
-
 Marinamos el salmón con la sal, el azúcar y el eneldo siguiendo la fórmula tradicional. Si no tenemos tiempo suficiente para marinarlo o no estamos muy seguros del resultado, podemos sustituirlo por salmón ahumado. Una vez marinado, lo cortamos en lonchas muy finas que colocaremos en los platos plegándolas de manera artística, imitando rosetones o flores. Ponemos los quesos en una bandeja refractaria, los metemos en el horno, precalentado a 200 grados y los gratinamos durante 7 minutos o hasta que estén dorados. Colocamos en plato, junto al salmón, regamos con aceite y decoramos con el puerro, cortado muy fino y frito, la zanahoria cortada en juliana y rebanadas de pan, cortadas muy finas y tostadas.
 

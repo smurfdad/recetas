@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 perdices
 
 3 cebollas
@@ -36,7 +35,6 @@ Para 4 personas.
 1/2 copa de jerez seco
 
 <h3>Preparación</h3>
-
 Limpiar las perdices retirándoles las plumas y eviscerándolas para acto seguido atarlas con una bramante.
 
 En una cazuela poner a rehogar la cebolla cortada en juliana fina (en tiras) junto con los ajos picados finos.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 berenjenas
 
 3 cebollas
@@ -32,7 +31,6 @@ Aceite de oliva
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Cocine las berenjenas unos 10 minutos en agua con sal.
 
 Escúrralas y córtelas en rodajas no muy gruesas.

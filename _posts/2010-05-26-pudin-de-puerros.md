@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 docena de puerros
 
 1 bote de leche evaporada
@@ -21,7 +20,6 @@ Para 6 personas.
 1 pastilla de caldo de carne
 
 <h3>Preparación</h3>
-
 Rehogar los puerros bien picados en la mantequilla y cuando estén hechos (a fuego lento para que no se frían) triturarlos junto con los demás ingredientes.
 
 Ponerlo en un molde alargado untado de mantequilla y pan rallado.

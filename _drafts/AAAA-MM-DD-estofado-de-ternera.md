@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de ternera
 
 1/2 vaso de vino blanco
@@ -46,7 +45,6 @@ pimienta negra
 agua
 
 <h3>Preparación</h3>
-
 Se pone la carne en una bandeja, ya cortada en tacos y sazonada con sal.
 
 Aparte picaremos fino, la zanahoria, la cebolla y el puerro, poniéndolo a hacer despacio.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo deshuesadas
 
 4 cucharadas de aceite
@@ -31,7 +30,6 @@ Para 4 personas.
 2 cubitos de
 
 <h3>Preparación</h3>
-
 Sazonar ligeramente las pechugas de pollo y rehogarlas en una sartén con el aceite.
 
 Cuando estén cocidas añadir la crema de leche y los cubitos de

@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 3 berenjenas
 
 2 pimientos
@@ -37,7 +36,6 @@ aceite
 vinagre
 
 <h3>Preparación</h3>
-
 Se limpian las verduras, excepto la cebolla, con un paño humedecido y se rocía cada pieza con aceite. Se ponen todas en la bandeja y se introducen en horno caliente. Cuando estén hechas se sacan y se ponen en plato hondo que se tapará para que &laquo;suden&raquo;.Así se facilita la operación de pelarlas.
 
 Una vez peladas se cortan en tiras y la cebolla en rodajas.

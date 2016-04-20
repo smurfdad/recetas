@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 225 g. de judías negras
 
 2 cucharadas de aceite de oliva
@@ -37,7 +36,6 @@ sal y pimienta recién molida
 2 cucharaditas de harina de maíz
 
 <h3>Preparación</h3>
-
 Poner las judías en remojo durante la noche, escurrir y colocar en una olla. Cubrir con abundante agua fresca, llevar a ebullición y hervir durante 10 minutos. Bajar el fuego y cocer 30 minutos más.
 
 Calentar el aceite en una cazuela, rehogar la cebolla, el ajo y el puerro hasta que queden blandos pero sin que se doren.
@@ -51,5 +49,4 @@ Tapar la cazuela y colocar en horno precalentado a 180ºC durante 1 hora y media
 Probar la salsa y sazonar al gusto. Diluir la harina de maiz en un poco de agua e incorporar a la cazuela sin dejar de remover. Volver a colocar en el horno otros 10 minutos.
 
 <h3>Observaciones</h3>
-
 Esta receta también se puede preparar en una gran olla en una placa a fuego lento, en lugar de en el horno

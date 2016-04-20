@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Champiñón
 
 cebolla
@@ -34,6 +33,5 @@ pimienta negra
 un poco de picante.
 
 <h3>Preparación</h3>
-
 Freímos la cebolla sin que se queme. Por otra parte se machaca el ajo, el perejil y el picante y se mezcla con la cebolla y los champiñones limpios. Se rehoga todo y se deja reposar antes de servir.
 

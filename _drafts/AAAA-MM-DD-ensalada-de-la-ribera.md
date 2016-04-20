@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 Cogollos de Tudela.
 
 1 Escarola.
@@ -44,6 +43,5 @@ Aceitunas verdes y negras.
 Sal, aceite de oliva virgen y vinagre.
 
 <h3>Preparación</h3>
-
 Se pone un tomate duro cortado en rodajas finas alrededor y los 6 cuartos de cogollos de Tudela. los espárragos se pelan y cuecen con sal y limón durante 20 minutos y se colocan en el plato con las puntas hacia arriba. En el centro de la fuente se pone la escarola los huevos cocidos y cortados en cuartos, las aceitunas verdes y negras bien esparcidas y las anchoas en el centro. Se termina con una picada de ajos frescos y la vinagreta.
 

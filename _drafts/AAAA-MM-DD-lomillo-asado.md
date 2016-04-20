@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lomillo de 2 a 2 1/2 libras
 
 1/2 taza de salsa soya
@@ -45,7 +44,6 @@ mostaza en grano
 1 cuchardita de sal
 
 <h3>Preparación</h3>
-
 Coloque el lomillo en un recipiente con tapa o una bolsa plástica grande.
 
 Mezcle todos los demás ingredientes en un recipiente hondo.

@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 Aceite de oliva
 
 1 diente Ajo
@@ -39,7 +38,6 @@ Huevo batido
 Sal
 
 <h3>Preparación</h3>
-
 Abre y descabeza las anchoas quitando tambien las espinas, o mejor aun, cuando las compres, pide en la pescaderia que te lo hagan.
 
 Salalas una a una y reserva.

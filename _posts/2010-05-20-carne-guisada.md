@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/4 kg. de aguja u otro trozo de guisar
 
 1 cebolla
@@ -27,7 +26,6 @@ un chorrito de coñac, vinagre y vino blanco
 mostaza
 
 <h3>Preparación</h3>
-
 Echar sal a la carne, untarla con mostaza y pasarla por harina, para después dorarla en una cazuela con un poco de aceite de oliva.
 
 Retirar la carne y rehogar la cebolla y zanahoria picadas.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,6 l. nata líquida
 
 12 yemas de huevo
@@ -34,6 +33,5 @@ Para 4 personas.
 azúcar moreno (un poco)
 
 <h3>Preparación</h3>
-
 Calentar la nata. Batir las yemas con el azúcar. Añadir un poco de nata a las yemas, y luego, unir poco a poco el resto de la nata. Cuajar la crema al baño maría. Añadir el extracto de vainilla. Enfriar. Para servir, espolvorear con azúcar moreno y quemar con un hierro.
 

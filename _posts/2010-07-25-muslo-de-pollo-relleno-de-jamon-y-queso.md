@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 muslos de pollo
 
 4 lonchas de jamón
@@ -37,7 +36,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Limpia los muslos, retirándole los huesos. Extiéndelos sobre una superficie plana y salpimiéntalos. Rellena cada muslo con una loncha de jamón y un par de trozos de queso. Envuélvelos y átalos con una cuerda especial de cocinar. Colócalos sobre la placa de horno, riégalos con un poco de aceite y el vino blanco. Cocínalos en el horno a 200&ordm;C durante 20 minutos.
 
 Pica la cebolleta y 2 dientes de ajo y ponlos a pochar en una cazuela con aceite. Añade la harina, rehoga brevemente y vierte el caldo. Sazona, espolvorea con perejil picado y deja cocer durante 6-8 minutos.

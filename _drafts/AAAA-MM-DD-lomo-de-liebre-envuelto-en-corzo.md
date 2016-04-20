@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 solomillos de corzo
 
 4 solomillos de liebre
@@ -59,7 +58,6 @@ romero
 4 cucharadas de aceite
 
 <h3>Preparación</h3>
-
 Abrir los solomillos de corzo en forma de libro y en su interior poner los de liebre, salpimentar, cerrarlos, envolver en las lonchas de tocino y atar. En una sartén con un poco de aceite rustirlo y ponerlo al horno a 200 grados durante 10 minutos. Dejar reposar y cortarlo en trozos gruesos.
 
 -PREPARACIóN DE LA SALSA:

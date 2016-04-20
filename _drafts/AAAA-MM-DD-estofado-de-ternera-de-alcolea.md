@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kgr. de meloso de ternera cortado a tacos
 
 2 zanahorias grandes
@@ -57,6 +56,5 @@ perejil
 1/2 pastilla de caldo concentrado de carne
 
 <h3>Preparación</h3>
-
 Colocar todos los ingredientes den la olla express a fuego lento y listo. Las patatas se pueden cortar a cuadritos y hacer fritas en la freidora, luego, al terminar, para servir se ponen por encima, pues si lo haceis en la olla express se deshacen.
 

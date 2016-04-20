@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 50 minutos.
 
 <h3>Ingredientes</h3>
-
 3 berenjenas gordas cortadas en rodajas.
 
 200 gramos de mozzarella cortada en rodajas.
@@ -43,7 +42,6 @@ poco sal.
 un poco de pimienta molida.
 
 <h3>Preparación</h3>
-
 Tomar el queso mozzarella y cortar en mitad numero en respecto a las rodajas de berenjenas.
 
 Ejemplo:10 rodajas de berenjenas igual 5 rodajas de mozzarella.

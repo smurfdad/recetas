@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de salsa de soja
 
 150 gr. de almendras
@@ -38,7 +37,6 @@ jengibre confitado (o cidra confitada)
 1 cucharada de curry en polvo
 
 <h3>Preparación</h3>
-
 Sacar la piña del almíbar, escurrirla y picarla. Picar también las almendras. En un cuenco mezclar el queso, el yogur y la piña picada. Añadir especias, aromas y fritas confitadas. Cuando se haya obtenido una mezcla cremosa de buena consistencia pasarla ala fuente de servicio y darle forma de tronco.
 
 Guarnecerlo con las almendras picadas que se dispondrán en una capa superficial y compacta. Poner a refrescar en el frigorífico.

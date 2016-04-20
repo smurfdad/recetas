@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 cabeza de ajo picado
@@ -38,7 +37,6 @@ categories:
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Prender el horno y cuando este caliente poner las berenjenas y asarlas en la rejilla dándoles vuelta cada tanto hasta que estén tostadas.
 
 Retirarlas del horno esperar que se entibien y con cuidado hacerles un tajo en forma longitudinal y sacarles raspando con el cuchillo toda la pulpa y el aceite de su interior colocándolo en un plato.

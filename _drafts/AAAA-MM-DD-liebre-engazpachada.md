@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 liebre
 
 1 kg. de tomates
@@ -43,6 +42,5 @@ Media barra de pan asentado
 Sal y Agua
 
 <h3>Preparación</h3>
-
 Hacer un gazpacho con el tomate, pimiento, ajo, cebolla, pan remojado, aceite, vinagre, sal y unos dos litros de agua. Una vez hecho el gazpacho, normal o con batidora, se pone en una olla grande a fuego lento. Limpiar la liebre y trocearla. Agregar enseguida la liebre a la olla con el gazpacho y dejar cocer a fuego lento unas tres o cuatro horas. Apartar del fuego y servir los trozos de liebre con la salsa reducida, acompañada de patatas a rodajas fritas con cebolla.
 

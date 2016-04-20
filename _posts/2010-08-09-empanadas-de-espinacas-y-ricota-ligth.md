@@ -8,7 +8,6 @@ categories:
 - Huevos y lacteos
 ---
 <h3>Ingredientes</h3>
-
 24 discos para empanadas
 
 Para el relleno:
@@ -32,7 +31,6 @@ Para el relleno:
 Sal, pimienta y nuez moscada a gusto
 
 <h3>Preparación</h3>
-
 Picar el morrón y las espinacas blanqueadas.
 
 En una sartén con aceite de oliva rehogar la cebolla.

@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 Fideos finos
 
 caldo de pescado
@@ -41,6 +40,5 @@ pimenton
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Dorar los ajos en aceite y retirarlos, saltear la sepia, poner un poco de pimenton y añadir los fideos, remover con una cuchara de madera hasta que esten dorados, añadir el caldo de pescado,rectificar de sal, cuando apenas quede caldo echar un puñado de angulas remover y hornear 3 minutos. Acompañar con alioli
 

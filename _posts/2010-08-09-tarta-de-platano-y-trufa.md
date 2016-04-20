@@ -7,7 +7,6 @@ categories:
 - Postres y dulces
 ---
 <h3>Ingredientes</h3>
-
 Para la base:
 
 250 gr. de chocolate de cobertura
@@ -47,7 +46,6 @@ hojas de menta
 frambuesas
 
 <h3>Preparación</h3>
-
 Para el bizcocho, separa las yemas de las claras y monta éstas con una batidora de varillas eléctrica. Cuando estén montadas, añade el azúcar y sigue montándolas un poco más.
 
 Funde el chocolate al baño María o en el microondas. Remuévelo de vez en cuando. Introduce la nata en el microondas y témplala. Añádela al chocolate sin dejar de remover. Agrega las yemas y sigue mezclando hasta que quede una masa homogénea. Vierte el chocolate sobre las claras montadas y mezcla suavemente con movimientos envolventes. Vierte la masa en un molde untado con un poco de mantequilla. Introduce en el horno a 175º C durante 25-30 minutos. Deja enfriar, desmóldalo y aplástalo un poco con las manos.
@@ -59,5 +57,4 @@ Para la trufa, pon la nata en una cazuela y espera a que hierva. Retírala del f
 Reparte las láminas de plátanos sobre el bizcocho, introduce la trufa en una manga pastelera y decora la superficie. Espolvorea con el cacao en polvo y adorna con unas hojas de menta y una frambuesa.
 
 <h3>Observaciones</h3>
-
 El plátano es una fruta muy delicada por lo que es aconsejable comprar poca cantidad. No os recomiendo guardarlas en el frigorífico porque además de perder aroma también se deteriora su aspecto externo (se ponen negros).

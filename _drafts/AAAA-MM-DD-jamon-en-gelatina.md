@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 800 g de jamón cocido cortado en lonchas de 1 cm de grosor
 
 100 g de pepinillos
@@ -43,6 +42,5 @@ Para ACOMPAñAR:
 100 g de pepinillos
 
 <h3>Preparación</h3>
-
 Cortar el jamón en dados. Lavar, secar el perejil y picarlo. Calentar el caldo y agregar las hojas de gelatina previamente remojadas en agua caliente, diluirlas y retirarlas del fuego, dejar enfriar. Cubrir el fondo de 6 moldes individuales con la gelatina, espolvorear con un poco de perejil y meter en la nevera hasta que se cuaje. Sacar de la nevera y llenar los moldes, alternando capas de jamón, pepinillos troceados y perejil. Cubrir con papel film y meter los moldes en la nevera durante 10 horas. Para desmoldar meter los moldes unos segundos en agua hirviendo. Servir con los tomates, las cebollitas y los pepinillos troceados.
 

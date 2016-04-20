@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gramos de cebolleta fresca.
 
 1 rama de apio blanco.
@@ -25,7 +24,6 @@ Una pizca de azúcar.
 Una pizca de mostaza.
 
 <h3>Preparación</h3>
-
 Cortamos las cebolletas en medias lunas, los tomates en rodajas finas y el apio en tiras largas y finas.
 
 Ponemos un cazo con agua y sal a hervir y le añadimos la cebolla para que cueza durante 2 minutos.

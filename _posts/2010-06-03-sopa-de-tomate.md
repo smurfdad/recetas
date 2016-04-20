@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tomates maduros
 
 1/2 cebolla mediana
@@ -28,7 +27,6 @@ sal
 3 pepinos
 
 <h3>Preparación</h3>
-
 Picar todas las verduras muy finas y ponerlas a rehogar despacio con un poco de aceite.
 
 Una vez echas, añadir el agua y un poco de sal, dejándolo hervir todo 10 minutos.

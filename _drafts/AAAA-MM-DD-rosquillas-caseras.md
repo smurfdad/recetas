@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 huevo
 
 1 tacita de anis
@@ -40,7 +39,6 @@ aceite para freir
 azucar glass
 
 <h3>Preparación</h3>
-
 Mezclar huevo, anis, aceite, azucar, levadura y sal hasta hacer una masa homogenea, e ir añadiendo harina poco a poco, tamizandola con un colador, hasta conseguir una masa que no se pegue en los dedos.
 
 Coger trozos de la masa, darles forma y freir en abundante aceite claiente a fuego lento hasta que se doren.

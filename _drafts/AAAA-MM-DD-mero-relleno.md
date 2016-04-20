@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 filetes grandes de mero.
 
 2 endibias.
@@ -43,7 +42,6 @@ Para 4 personas.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Lavamos las endibias y las cortamos en láminas longitudinales finas.
 
 Pelamos las zanahorias y las cortamos en tiras finas, al igual que pelamos los espárragos trigueros y los cortamos en tiras regulares.

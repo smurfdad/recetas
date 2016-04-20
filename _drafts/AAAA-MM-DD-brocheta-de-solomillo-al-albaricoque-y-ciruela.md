@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 gramos de calabacín cortada en cubos.
 
 500 gramos de solomillo de cerdo cortado en cubos.
@@ -43,7 +42,6 @@ Para la salsa:
 200 gramos de albaricoques secos y ciruelas secas.
 
 <h3>Preparación</h3>
-
 Cocemos ligeramente las verduras cortadas en dados unos 5 minutos en agua con un poco de sal y una vez cocidas las dejamos enfriar antes de ponerlas en la brocheta.
 
 Introducimos en las brochetas las verduras y el solomillo, de forma alterna.

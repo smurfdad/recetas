@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lbs. bacalao blanco
 
 2 unidades. patatas grandes
@@ -44,7 +43,6 @@ Para 6 personas.
 1 pizca picante
 
 <h3>Preparación</h3>
-
 Ponga el bacalao a desalar la noche anterior; bote el agua varias veces. Póngalo a hervir en abundante agua, botándola varias veces; déjelo ablandar.
 
 Escúrralo, saque huesos, espinas y pellejos y córtelo en trozos pequeños. Prepare un refrito con los condimentos molidos, sazone con sal, pimienta y picante. Agregue el limón al bacalao, póngalo en la salsa agregándole las patatas cortadas y, si desea, guisantes y zanahorias cocidas. Decore el plato con tiras de los morrones. Se sirve caliente.

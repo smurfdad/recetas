@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de arroz tipo arborio
 
 500 gr. de verduras verdes del tiempo
@@ -41,6 +40,5 @@ Para 5 personas.
 sal, aceite de oliva
 
 <h3>Preparación</h3>
-
 Limpiar bien las verduras y cortarlas a dados o en juliana. Cortar la cebolla y dorarla en aceite y mantequilla en una cazuela o puchero grande. Añadir el arroz junto a todas las verduras. Dejar tostar durante unos instantes, añadir el vaso de vino blanco y dejar que se evapore. Añadir un cazo del caldo caliente, llevarlo a ebullición e ir agregando cazos de caldo poco a poco y removiendo de vez en cuando. Comprobar el punto de sal. Cuando el arroz esté listo, añadir el queso parmesano, un poco de mantequilla y servir muy caliente.
 

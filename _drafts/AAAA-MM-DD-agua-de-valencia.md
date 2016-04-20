@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 botella champagne
 
 6 vasos zumo de naranja natural
@@ -34,6 +33,5 @@ azúcar
 Canela
 
 <h3>Preparación</h3>
-
 En una jarra se echa el champán, el zumo de naranja recién exprimido y el vaso de Cointreau. Si se desea, se puede añadir azúcar y canela.
 

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 2 cebollas grandes, cortadas en rebanadas
 
 3 cucharadas de aceite
@@ -38,7 +37,6 @@ tostadas
 100 gr de queso tipo manchego
 
 <h3>Preparación</h3>
-
 En una cauela de barro ponga a calentar el aceite y fria en el la cebolla hasta que se dore bien.
 
 Añada entonces 6 tazas de agua y el consome, y deje que la cebolla se cueza hasta que este bien blanda.

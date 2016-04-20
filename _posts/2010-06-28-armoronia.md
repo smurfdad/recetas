@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 trozo de medio kilo de calabaza partida en trozos
 
 1/4 de judias verdes planas partidas
@@ -27,7 +26,6 @@ Para 4 personas.
 6 cucharas de aceite de haber frito carne.
 
 <h3>Preparación</h3>
-
 Se ponen todos los ingredientes en una olla a presión.Se le añade sal
 
 Se rehogan muy bien para que suelten su sabor.

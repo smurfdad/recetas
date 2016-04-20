@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una plancha de masa de hojaldre sin cocer
 
 Setas
@@ -36,7 +35,6 @@ Sal
 Queso rallado
 
 <h3>Preparación</h3>
-
 Se estira la masa de hojaldre con un rodillo y se pincha un poco y de manera uniforme con un tenedor.
 
 Se pone esta masa sobre una bandeja de horno que previamente se habrá untado con mantequilla o aceite.

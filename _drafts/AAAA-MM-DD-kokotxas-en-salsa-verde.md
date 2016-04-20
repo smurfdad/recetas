@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de kokotxas
 
 1 cabeza de ajos
@@ -32,6 +31,5 @@ categories:
 2 cucharadas de perejil bien troceado
 
 <h3>Preparación</h3>
-
 Se vierte un chorrito de aceite en una cazuela de barro. Cuando está caliente, se añade el ajo bien troceado, se dora y se echan las kokotxas. Se deja hacer durante 30 min. Después, se le añade la guindilla y se deja hacer a fuego lento otros 5 min. Por último se espolvorea el perejil y se retira del fuego.
 

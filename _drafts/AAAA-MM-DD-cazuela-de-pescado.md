@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pescado
 
 1/4 kilo de cebolla
@@ -50,6 +49,5 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Todos los ingredientes los lavamos y cortamos en rodajas (incluyendo el pescado), los colocaremos en pisos, es decir, un piso de pescado, otro piso de cebolla, otro piso de pimientos, etc., todo esto estará en crudo. Luego se cuece todo al vapor durante 35 minutos. Se puede acompañar con gofio escaldado.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 200 gramos de queso Philadelphia
 
 250 gramos de nata líquida
@@ -44,7 +43,6 @@ Para 4 personas.
 vainilla y canela (para adornar).
 
 <h3>Preparación</h3>
-
 Triturar los plátanos, añadir el zumo de limón y mezclar.
 
 Trituras las galletas, añadir la mantequilla y colocar esta mezcla en la base de un molde redondo.

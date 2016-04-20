@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lomos de bacalao de unos 170 gr. cada uno
 
 1 cebolla hermosa
@@ -61,7 +60,6 @@ Para la guarnición:
 perejil picado
 
 <h3>Preparación</h3>
-
 En una fuente honda se ponen el vino blanco, el aceite, el ajo picado y el laurel desmenuzado. Se sazona con sal y pimienta y se mezcla bien. Se aclaran los lomos de pescado, se secan y se introducen en la marinada, empapándolos bien de la misma.
 
 Se tapa la fuente y se deja marinar unas 4 horas en el frigorífico.

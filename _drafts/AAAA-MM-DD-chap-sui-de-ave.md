@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 taza de Aceite.
 
 700 grs de Pechuga de Pollo picada
@@ -50,6 +49,5 @@ Condimento vegetal al gusto.
 Un poco de agua.
 
 <h3>Preparación</h3>
-
 Caliente en una sartén el aceite, incorpórele la carne de pollo picada y, cuando esté casi cocida, añada los pimientos, la cebolla, el apio y el germinado. Fría a fuego lento durante dos minutos. Después agregue una taza de agua hirviendo y el condimento vegetal al gusto; cubra el recipiente y deje que se cocine durante ocho minutos. Vierta la pasta (previamente cocida al dente) con el polvo de soya, la salsa de soya y el almidón sobre el guisado, dejando que se cocine durante dos minutos. Sirva inmediatamente despues de cocinar.
 

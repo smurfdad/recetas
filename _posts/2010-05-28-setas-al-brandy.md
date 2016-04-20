@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de setas de cultivo o 3 latas
 
 1 pastilla de caldo de carne
@@ -21,7 +20,6 @@ Para 8 personas.
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Echar aceite (que cubra el fondo) en una sartén grande o una cazuela plana. Ponerla al fuego suave.
 
 Poner dentro las setas y dejarlas hacer moviéndolas suavemente de vez en cuando.

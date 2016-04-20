@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 liebre
 
 aceite
@@ -45,10 +44,8 @@ aceite
 sal, 12 nueces.
 
 <h3>Preparación</h3>
-
 Limpiar y cortar a trozos la liebre, salarla, y rehogar en el aceite. Reservar. Dorar la cebolla y los dientes de ajo picados en el mismo aceite. Cuando tomen color, añadir la liebre, la manzana cortada en trocitos, la harina, el chocolate rallado, los vinos tinto y blanco, y un poco de agua. Machacar las nueces en el mortero y añadirlas al guiso. Dejar cocer 1h y media o hasta que esté tierna la carne. Sacar la salsa y pasarla por el chino apretujando bien. Verter sobre la liebre y dejar cocer unos minutos más. Antes de servir espolvorear con perejil picado.
 
 <h3>Observaciones</h3>
-
 Puede hacerse con conejo
 

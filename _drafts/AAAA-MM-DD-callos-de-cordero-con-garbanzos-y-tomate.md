@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de callos de cordero cocidos en agua y cortados.
 
 1 cebolla rallada.
@@ -41,6 +40,5 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Dejar los garbanzos en remojo 24 horas. Mezclar la cebolla con sal y pimienta. Freír la cebolla y el ajo machacado. Añadir el tomate y los garbanzos: cuando estén blandos añadir los callos. Echar un poco de caldo de callos. Añadir sal y pimienta según gusto. Dejar cocer 15 minutos.
 

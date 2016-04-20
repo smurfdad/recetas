@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga.
 
 2 yogures naturales.
@@ -42,7 +41,6 @@ Para 4 personas.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Ponemos a remojo la miga de pan en agua muy fría.
 
 Colocamos todos los ingredientes (lechuga, yogures, pepinillos, huevo cocido) en la jarra de la batidora con el vaso de agua y la miga de pan y los trituramos hasta formar una crema homogénea.

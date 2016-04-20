@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 melón.
 
 3 naranjas.
@@ -39,7 +38,6 @@ Para 4 personas.
 Pimienta negra recién molida.
 
 <h3>Preparación</h3>
-
 Exprimimos las naranjas y el limón, conservando los líquidos y las pieles, y colando los zumos.
 
 En un cazo colocado a fuego lento vertemos un vaso de agua agua con las cuatro cucharadas de miel.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg Langostinos,
 
 1 Kg de Carne de Jaiva,
@@ -41,6 +40,5 @@ Para 4 personas.
 Sal y Mayonesa a gusto.
 
 <h3>Preparación</h3>
-
 Se pica el pimentón, la cebolla y el ají en cuadritos. Luego mezclamos todo con los langostinos , carne de jaiva y los calamares, agregamos el limón, la sal y mayonesa a gusto.
 

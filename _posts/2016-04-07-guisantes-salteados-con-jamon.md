@@ -25,7 +25,6 @@ Para 4 personas.
 - aceite
 
 <h3>Preparación</h3>
-
 Poner una cazuela al fuego con agua y sal.
 
 Cuando rompa a hervir echar los guisantes y dejarlos cocer.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 25 cigalas de 25 g la unidad
 
 4 dl agua mineral
@@ -51,7 +50,6 @@ Láminas de gelatinas de agua de cigala
 60 gr. caviar de Cálix
 
 <h3>Preparación</h3>
-
 LAS CIGALAS:
 
 Separar el cuerpo de la cabeza. Saltear a fuego muy fuerte y brevemente las cabezas, debiendo quedar un poco crudas en el interior. Presionar las cabezas una a una con los dedos para extraer todo el coral. Colar y reservar.

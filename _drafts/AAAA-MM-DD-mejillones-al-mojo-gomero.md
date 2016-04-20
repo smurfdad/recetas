@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de mejillones
 
 1 tomate grande maduro
@@ -45,6 +44,5 @@ aceite
 vinagre
 
 <h3>Preparación</h3>
-
 Cueza los mejillones a su gusto, y prepare el mojo así: fría el tomate entero, y cuando esté blando, quítele la piel. En su licuadora eléctrica, ponga todos los ingredientes, y el tomate, y bátalo, -comprobando su buen gusto-. Vierta el mojo sobre los mejillones.
 

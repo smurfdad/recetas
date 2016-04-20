@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kg de lomo
 
 1 naranja
@@ -37,7 +36,6 @@ acite
 sal
 
 <h3>Preparación</h3>
-
 Cortar el lomo en doce lonchas sin llegar al final que el trozo forme como un libro.
 
 Intercalar una loncha de queso y otra de bacón, hasta terminar con las seis lonchas de cada cosa.

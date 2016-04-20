@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 chuletas de cerdo un poco gruesas
 
 400 grs. de patatas
@@ -29,10 +28,8 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Las chuletas, bien sazonadas, se pasan por harina y se fríen en aceite. La cebolla, tras cortarla muy menuda, se rehoga, agregando cuando toma color las patatas en rodajas (que se habrán frito con anterioridad) y dejando que se sofría todo durante unos minutos. Después se coloca la cebolla en una fuente situando encima las patatas y sobre ellas las chuletas. Los tomates, después de fritos, se colocan también en el recipiente como guarnición, espolvoreando el conjunto con pimienta blanca y perejil picado.
 
 <h3>Observaciones</h3>
-
 Este plato debe servirse bien caliente, cuando todavía está humeante.
 

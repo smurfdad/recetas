@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 litro de fumeet de pescado
 
 400 gr gambas
@@ -31,7 +30,6 @@ aceite
 1/2 copa de coñac
 
 <h3>Preparación</h3>
-
 Pelar las gambas y reservar, las cáscaras por un lado y las gambas por otro.
 
 Picar muy fino las verduras y ponerlas a rehogar con la mantequilla y un poco de aceite.

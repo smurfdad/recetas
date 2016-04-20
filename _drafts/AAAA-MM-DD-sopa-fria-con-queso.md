@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de tomates bien maduros
 
 5 cucharadas de aceite de oliva
@@ -39,7 +38,6 @@ categories:
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Se licúan los tomates con la albahaca, la salsa inglesa, el aceite de oliva, sal y pimienta. Esta mezcla se cuela y se deja reposar en la nevera.
 
 En un recipiente se mezclan el queso crema y el queso de cabra con el cebollín picadito, sal y pimienta. Luego se forman albóndigas de 2 centímetros de diámetro. Se apartan.

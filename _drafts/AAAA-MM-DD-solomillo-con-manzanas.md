@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos (lomito,solomo) de cerdo cortados en medallones gruesos
 
 1 cucharada de aceite
@@ -40,7 +39,6 @@ unas gotas de vinagre
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Caliente el aceite en una sartén y dore los medallones por todos los lados, a fuego medio, para que se hagan por dentro. Retírelos de la sartén, sázonelos con sal y pimienta y resérvelos al calor.
 
 A continuación, ponga los gajos de manzana en una sartén antiadherente al fuego, espolvoréelos con el azúcar y dórelos por ambos lados.

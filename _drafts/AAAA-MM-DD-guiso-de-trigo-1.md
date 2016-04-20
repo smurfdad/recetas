@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gr. de garbanzos remojados
 
 200 gr. de trigo remojado
@@ -43,6 +42,5 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Poner en una olla con agua hirviendo los garbanzos. Cuando esté a media cocción, agregar el trigo, que deberá estar bien limpio de cáscaras. Ir añadiendo agua fría para que se cuezan mejor los ingredientes. Dejar cocer 1 hora y cuarto e incorporar las judías verdes troceadas. Cocer otro cuarto de hora. Por otra parte, preparar un sofrito con el aceite, los tomates, pelados y triturados, la cebolla muy picada y la cucharadita de pimentón. Rectificar de sal. Incorporar el sofrito a la olla y rectificar todo de sal.
 

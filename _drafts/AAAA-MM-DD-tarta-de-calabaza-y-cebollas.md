@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tapa de tarta para horno
 
 1,5k de calabaza
@@ -44,7 +43,6 @@ Para 4 personas.
 Sal, pimienta y nuez moscada a gusto.
 
 <h3>Preparación</h3>
-
 Cortar la calabaza en rodajas con la cáscara, retirar las semillas, colocar en un recipiente antiadherente taparlas con papel aluminio y llevar al horno precalentado entre 30 y 40 minutos. También se puede hacer el mismo procedimiento en microondas (ver cocina con microondas, puré de calabazas).
 
 Retirar la calabaza del horno, quitarle la cáscara y hacer un puré.

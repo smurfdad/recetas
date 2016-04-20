@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 huevos
 
 Sal
@@ -44,7 +43,6 @@ Aceite para freír
 750 gramos de sardinas frescas
 
 <h3>Preparación</h3>
-
 Batir las yemas de huevo con un poco de sal y la cerveza. Ir añadiendo poco a poco la harina. Dejar reposar la masa 30 minutos.
 
 Picar la cebolla y sofreirala en un poco de aceite. Luego, retirar del fuego; añadir ajo, perejil y pan. Poner un poco de sal y mezclarlo bien.

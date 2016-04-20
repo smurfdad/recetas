@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 tazas de arroz (330 Grs)
 
 2 cucharadas de pulpa de tamarindo
@@ -51,7 +50,6 @@ Para 4 personas.
 2 colas de cebollas de verdeo (cebollitas de cambray) ó cebollines picados.
 
 <h3>Preparación</h3>
-
 Se remoja el arroz en agua caliente durante 3 minutos.
 
 Se fíen las cebollas y los ajos en aceite. Se añaden el comino, el cilantro, el cardomomo, el ají y el arroz, se mezclan bien y se dejan 1 minuto más. Se mezclan el caldo de pollo, la pulpa de tamarindo la miel y la salsa de soya. Se añade a lo anterior y se deja hervir durante 10 minutos ó hasta que quede poco líquido.

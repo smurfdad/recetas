@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 32 chipirones
 
 1/4 l. de aceite de oliva
@@ -43,7 +42,6 @@ Para 4 personas.
 1/4 kg. de arroz blanco para acompañar
 
 <h3>Preparación</h3>
-
 Se limpian uno a uno, guardando con cuidado en una tacita con agua la bolsa de tinta que lleva en el interior. Se limpia bien la bolsa exterior -el cuerpo-. se le da la vuelta (como a un calcetín) y se rellena con los tentáculos y demás partes carnosas del calamar, teniendo buen cuidado de raspar las ventosas para quitarles los aros y la boca -pico que tienen en medio de los tentáculos pequeños.
 
 Se sazonan y se saltean en una sartén que contenga poco aceite, teniendo cuidado de poner una tapadera para protegerse de los estallidos que producen desagradables salpicones. Hay que dorarlos un poco. Para preparar la salsa, se pone mucha cebolla troceada a rehogar suavemente, durante bastante tiempo, en una cazuela con el aceite de oliva. Se añaden los ajos partidos por la mitad y los pimientos verdes troceados y despepitados. Se deja que todo quede muy sudado y se añaden los tomates

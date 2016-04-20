@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos de cerdo
 
 1 Kg. de cebollas
@@ -40,7 +39,6 @@ Pimienta negra
 Ajo
 
 <h3>Preparación</h3>
-
 Picar las cebollas muy finas, y freír en aceite de oliva a fuego muy lento, moviendo con frecuencia para que no se peguen. Mantener el fuego bajo y añadir poco a poco el vino junto con dos cucharadas soperas de azucar hasta que la cebolla esté blanca y sin dejar que se seque.
 
 Limpiar bien los solomillos. Cuando la cebolla esté hecha, poner los solomillos enteros en una sartén con un poquito de aceite de oliva y los vamos haciendo durante ocho o diez minutos, dándoles vueltas. Los sazonamos y añadimos pimienta negra molida.

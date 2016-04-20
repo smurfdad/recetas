@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de carne picada
 
 1 cebolla rallada
@@ -37,10 +36,8 @@ Pimienta y especias
 Perejil picado
 
 <h3>Preparación</h3>
-
 Mezclar los ingredientes y amasar la mezcla. Moldear la carne en forma de dedos o albóndigas, sujetar en pinchos. Asar sobre carbón o fuego. Puede colocar las albóndigas en un molde y meter en horno. Servir caliente. Adornar con berros y patatas fritas.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

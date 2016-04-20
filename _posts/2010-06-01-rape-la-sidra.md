@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de rape en un trozo
 
 2 chalotas picadas
@@ -37,7 +36,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se sacan los lomo de rape. Se pone a cocer el hueso central en un litro de agua y la sidra. Se añade el puerro, la zanahoria, el laurel y unos granos de pimienta. Se sazona y se tiene hirviendo unos 10 minutos. Se cuela el caldo.
 
 Se pone a hervir el caldo a fuego suave. Se sazonan los lomos de rape con sal y pimienta y se echan al caldo hirviendo. Se tienen 5 minutos como máximo y se sacan a una fuente con la espumadera. Se reservan cerca del calor.

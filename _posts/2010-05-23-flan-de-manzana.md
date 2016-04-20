@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de manzanas
 
 3 bollos de leche
@@ -24,7 +23,6 @@ Para 6 personas.
 1 trozo de palo de canela
 
 <h3>Preparación</h3>
-
 Hacer caramelo y untar el fondo de un molde con ello.
 
 Cocer las manzanas cortadas en rodajas, con un poco de agua y otro poco de coñac, hasta que estén blandas.

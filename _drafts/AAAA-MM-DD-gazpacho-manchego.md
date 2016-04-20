@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 10 tomates maduros medianos
 
 2 pepinos
@@ -39,7 +38,6 @@ Para 4 personas.
 Sal, vinagre, aceite, pan y agua.
 
 <h3>Preparación</h3>
-
 Coger media barra de pan duro y romperla en un bol pequeño y añadir tres buenos chorros de vinagre (no usar de Jerez en esta receta) dos cucharadas grandes de aceite, sal (un par de cucharaditas) y un cuarto de
 
 litro de agua y dejar que el pan se ablande. Trocear los tomates con un cuchillo de sierra o de cortar el pan. Cada tomate en cuatro. pelar los pepinos con la puntilla quitándole los extremos

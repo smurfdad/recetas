@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 kilos de costillas, cortados en raciones de una o dos costillas.
 
 3 tazas de agua hirviendo
@@ -40,7 +39,6 @@ categories:
 1/2 cucharada de salsa picante
 
 <h3>Preparación</h3>
-
 En una olla grande ponga las costillas, el agua hirviendo, la cerveza, el ajo y la sal.
 
 Deje hervir lentamente, tape la olla y deje por una hora.Saque las costillas del caldo.

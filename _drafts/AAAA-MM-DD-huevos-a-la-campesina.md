@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 12 huevos cocidos
 
 50 gramos de jamon o 3 lonchas de baicon picados
@@ -43,7 +42,6 @@ pimienta
 1 taza de salsa mahonesa
 
 <h3>Preparación</h3>
-
 A los huevos se les quita la coronilla, es decir, hasta la tercera parte del huevo.
 
 Se extrae la yema con la punta de un cuchillo, cuidando de no romper la clara.

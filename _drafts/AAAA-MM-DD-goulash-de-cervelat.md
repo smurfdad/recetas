@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebollas
 
 4 patatas
@@ -34,12 +33,10 @@ paprika
 sal
 
 <h3>Preparación</h3>
-
 Freír las cebollas cortadas en un poco de aceite, sin dorarlas. Añadir las patatas. Sancochar. Cuando las patatas están suaves, añadir la salchicha cervelat, paprika y condimentar con sal.
 
 En caso de no tener salchicha cervelat, pueden reemplazarse con salchichas vienesas
 
 <h3>Observaciones</h3>
-
 (salchicha)
 

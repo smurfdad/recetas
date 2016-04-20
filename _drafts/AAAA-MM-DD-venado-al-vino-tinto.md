@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de pierna de venado deshuesada y troceada en dados
 
 500 gr. de cebolla pelada y troceada
@@ -49,6 +48,5 @@ Sal y pimienta en grano
 Una pizca de nuez moscada
 
 <h3>Preparación</h3>
-
 Poner a macerar el día anterior la carne con todos los ingredientes menos el aceite y el tomate. Colocar en una cacerola el venado junto con todos los ingredientes en crudo. Cocer lentamente hasta que reduzca el vino. Mojar con agua y terminar de cocer, aproximadamente una hora. Separar los trozos de carne, pasar la salsa por el chino y rectificar de sal. Mezclar la carne con la salsa y servir.
 

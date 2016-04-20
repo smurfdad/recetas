@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 dientes de ajo.
 
 2 huevos.
@@ -44,10 +43,8 @@ Vinagre.
 50 gramos de pasas de Corinto.
 
 <h3>Preparación</h3>
-
 Ponemos los piñones en remojo durante veinticuatro horas. Para hacer el gazpacho los ponemos en el vaso de la batidora junto a la miga de pan, también remojada, los huevos, los dientes de ajo pelados, un poco de vinagre y un poco de agua. Batimos y al mismo tiempo vamos añadiendo el aceite poco a poco, haciendo que la masa forme una emulsión parecida a la salsa mayonesa. Una vez conseguida, le añadimos agua, sal y vinagre hasta ponerla a nuestro gusto. Guardamos en el frigorífico porque hay que servirlo muy frío.
 
 <h3>Observaciones</h3>
-
 Se sirve muy frío con la guarnición del melón y la manzana, convenientemente pelados y cortados en daditos, y las pasas.
 

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 g de rape en rodajas
 
 400 g de mero o lubina en rodajas
@@ -66,7 +65,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Sazonar con sal y pimienta el pescado y los calamares y pasarlos por harina. Freír las almendras, sacarlas y reservarlas. En el mismo aceite, freír las cigalas y los langostinos, sacarlos y ponerlos en una cazuela de barro ancha y baja. Freír los calamares y, cuando empiecen a dorarse, pasarlos también a la cazuela.
 
 Freír el pescado y pasarlo a la cazuela. Rehogar la cebolla y, cuando empiece a dorarse añadir los tomates. Freír a fuego vivo y añadir el vino y el brandy, dejándolo reducir casi totalmente. Añadir a la sartén el caldo del pescado y un poco de sal.

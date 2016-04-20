@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de pasta (caracolillo pequeño)
 
 300 gr. de maíz de lata escurrido
@@ -60,7 +59,6 @@ pimienta blanca en grano
 una pizca de nuez moscada
 
 <h3>Preparación</h3>
-
 Se puede empezar elaborando la salsa: se pone a fundir la mantequilla en una cazuela y se sofríe la cebolla muy picada, a fuego suave, hasta que esté transparente. Se le añade la harina, removiendo con una cuchara de madera, y cuando empiece a tomar color se le añade la leche, sin dejar de remover y evitando que llegue a hervir. Se le agrega un chorro de concentrado de carne, el laurel, unos granos de pimienta blanca y una pizca de nuez moscada. Se deja hervir unos minutos, a fuego suave, removiendo de vez en cuando.
 
 Se corta el jamón en dados, se escurre bien el maíz y se cortan las cebolletas en juliana. Se cuece la pasta en agua sazonada con sal y con un chorro de aceite. Se unta una fuente con mantequilla y se reparte por el fondo la tercera parte del jamón en dados. Sobre él, se pone una capa de granos de maíz y otra de caracolillos cocidos. Se repite la operación hasta terminar los ingredientes y se reparte la juliana de cebolleta sobre el conjunto, reservando una pequeña parte para adornar el plato.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 8 papas medianas peladas
 
 8 cebollas chicas peladas
@@ -34,10 +33,8 @@ orégano
 sal
 
 <h3>Preparación</h3>
-
 Utilice una cacerola con borde bajo y fondo ancho y coloque las papas y las cebollas enteras peladas, condimente con ají molido, orégano y sal, rocíe con aceite de oliva. Cocine sobre fuego mínimo con la cacerola tapada. Dar vuelta las papas a los diez minutos y terminar la cocción siempre con tapa hasta constatar que un palillo puede introducirse suavemente en cada papa. Puede optar condimentando también con romero, salvia o hierbas de su preferencia.
 
 <h3>Observaciones</h3>
-
 Acompañan principalmente carnes.
 

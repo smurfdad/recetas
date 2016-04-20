@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de macarrones rayados
 
 150 gr. de panceta en dos filetes algo gruesos
@@ -25,7 +24,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Cortar la panceta en tiras, limpiar y picar la cebolla. En una sartén con un poco de aceite se sofríe la cebolla y la panceta, hasta que la cebolla se ablande. Añadimos a la sartén el tomate, se echa un poco de sal, y se deja
 
 cocer a fuego lento 10 minutos.

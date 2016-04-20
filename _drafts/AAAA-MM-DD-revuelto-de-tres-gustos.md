@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 gr. de champiñón
 
 150 gr. de gambas
@@ -32,7 +31,6 @@ un diente de ajo
 tres huevos
 
 <h3>Preparación</h3>
-
 Se limpia el champiñón, se pelan las gambas y el jamón se parte a cuadritos. En una sartén se fríe el ajo con el champiñón, se agregan las gambas y el jamón rehogándose todo.
 
 Se baten los huevos y se echan sobre los ingredientes sin dejar de remover. Una vez cuajados los huevos se sirve.

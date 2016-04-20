@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gramos de foie de pato.
 
 2 copas de coñac.
@@ -35,7 +34,6 @@ Para 8 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Maceramos el trozo de hígado de pato durante una hora en coñac junto con las uvas pasas.
 
 Escurrimos, cortamos el foie en lonchas no demasiado finas pero del tamaño de los panecillos, salpimentamos y cocinamos en la sartén antiadherente vuelta y vuelta 10 segundos por cada lado, no más porque se deshace.

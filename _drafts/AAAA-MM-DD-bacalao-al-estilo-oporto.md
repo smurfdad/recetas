@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de bacalao en tacos
 
 8 pimientos verdes medianos
@@ -38,7 +37,6 @@ pimentón dulce
 400 gr de patatas
 
 <h3>Preparación</h3>
-
 Desalar el bacalao, poniéndolo a remojo con agua fría.
 
 Mantenerlo durante tres días, cambiándole el agua tres veces al día.

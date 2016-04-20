@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1,5 kg de langostinos limpios
 
 30cc de aceite de oliva
@@ -42,7 +41,6 @@ categories:
 40g de manteca
 
 <h3>Preparación</h3>
-
 En una sartén colocar la manteca y el aceite, saltar la cebolla, el hinojo y el pimiento .
 
 Colocar el ajo y los langostinos,la pimienta negra y cocinar revolviendo hasta que los langostinos cambien de color.

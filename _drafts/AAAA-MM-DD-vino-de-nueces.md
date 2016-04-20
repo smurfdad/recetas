@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 1 litro de vino tinto
 
 1/4 litro de cazalla
@@ -33,10 +32,8 @@ Para 8 personas.
 7 nueces verdes
 
 <h3>Preparación</h3>
-
 Se pone todo junto y se remueve bien. Ha de ponerse el día de San Juan (24 de junio) y puede empezar a consumirse el día de Santiago (25 de Julio).
 
 <h3>Observaciones</h3>
-
 La cazalla es anís seco. Las nueces han de ser con la cáscara verde. Esta receta es de mi amiga Antonia.
 

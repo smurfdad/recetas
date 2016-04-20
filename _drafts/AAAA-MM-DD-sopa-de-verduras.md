@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 2 litro de caldo
 
 1 manojo de habichuelas
@@ -44,6 +43,5 @@ Para 4 personas.
 100 grs de mantequilla
 
 <h3>Preparación</h3>
-
 Las verduras ( zanahorias, col, cebolla y habichuelas) las cortamos a la juliana. En el caldero donde se vaya a preparar la sopa se añade la mantequilla junto con las verduras recién cortadas. Seguidamente le añadimos el caldo y deljamos que hierva unos minutos. Comprobamos que las verduras están tiernas y añadimos el resto de los ingredientes también cortados. Lo dejamos guisar a fuego lento y tapado durante 20 minutos.
 

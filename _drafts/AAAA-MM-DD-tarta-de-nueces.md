@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 leche, 1 taza
 
 azúcar, 1 taza
@@ -43,6 +42,5 @@ miel gallega, 1 cucharada sopera
 guindas
 
 <h3>Preparación</h3>
-
 Se pone en un cazo la leche, el azúcar y la miel, dejando cocer durante 10 minutos. Se le incorporan seguidamente los 3 huevos batidos, la nuez triturada y la ralladura de limón. Se mezcla bien para formar la crema y se retira. Se hace una masa, con el paquete de galletas y mantequilla, cubriendo con ella el fondo del molde, se pone encima la crema hecha anteriormente y se mete al horno moderado durante 1/2 hora. Se adorna con medias nueces peladas y guindas.
 

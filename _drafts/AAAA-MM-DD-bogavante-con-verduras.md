@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg. bogavante
 
 1 Ud. repollo
@@ -32,6 +31,5 @@ Para 6 personas.
 1/4 l. nata
 
 <h3>Preparación</h3>
-
 Cocemos el bogavante, escogemos la carne y la laminamos. Añadimos la salsa americana y la nata dejándolo posteriormente reducir. Pasamos la salsa por un colador para que quede fina. El repollo lo cocemos cortado en juliana y lo colocamos en los platos. Montamos los medallones y los caparazones y podemos servir la salsa aparte o napando el bogavante.
 

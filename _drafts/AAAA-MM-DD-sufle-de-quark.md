@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/4 l de leche.
 
 20 gr. de maicena.
@@ -45,7 +44,6 @@ Para 6 personas.
 Mantequilla y azúcar para el molde
 
 <h3>Preparación</h3>
-
 Se hierve la leche con la mitad del azúcar y la vainilla. Añadir la harina y la maicena, y remover para que no queden grumos. Dejamos cocer 5 minuto y
 
 quitamos la ramita de vainilla.

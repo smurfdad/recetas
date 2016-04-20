@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Para 2 personas:
 
 1 cebolla (mediana)
@@ -44,7 +43,6 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cortad la cebolla en aros. Salpimentadla y dorarla en una paella con un poco de aceite a fuego medio. Pasad las tiras de bacon vuelta y vuelta (solo para mezclar aromas y sabores) y añadir los dátiles deshuesados y partidos en dos mitades longitudinales. Reservar la mezcla.
 
 Cortad el pan a rebanadas. Untadlo con un poco de tomate y aceite. Colocad encima de cada rebanada un poco de la mezcla anterior y después una loncha de queso.

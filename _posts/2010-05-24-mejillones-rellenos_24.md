@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. mejillones
 
 1 zanahoria
@@ -27,7 +26,6 @@ Para 6 personas.
 pan rallado
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla, zanahoria, puerro y ajo, todo bien picado.
 
 Cuando esté a punto de dorar, añadir el coñac caliente y prender fuego.

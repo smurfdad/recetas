@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo
 
 2 perdices
@@ -51,7 +50,6 @@ Para 4 personas.
 sal ,perejil
 
 <h3>Preparación</h3>
-
 En una cazuela grande se pone el aceite y el vinagre. Se agregan el ajo, el laurel, la cebolla partida en tiras muy finas, la pimienta y un poquito de sal. Se trocean el conejo, las perdices y las codornices, en tajadas no muy grandes, y se añaden a la cazuela.
 
 Se pone todo a cocer a fuego medio durante 3/4 de hora. Una vez cocido se deja enfriar en el frigorífico. El escabeche puede conservarse durante algunos días.

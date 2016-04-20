@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kilo de pollo trozado o sólo filetes de pechuga.
 
 1 Tableta de concentrado de pollo.
@@ -49,7 +48,6 @@ Pimienta blanca en polvo.
 sal.
 
 <h3>Preparación</h3>
-
 En un sartén ponemos la mantequilla, los dientes de ajo picados y media cucharadita de genjibre. Calentamos a fuego suave hasta derretir la mantequilla, revolvemos y agregamos el pollo. Comenzamos a dorar y agregamos la tableta de pollo disuelta en 100 cc de cerveza. Luego ponemos sal y pimienta a gusto sobre las piezas de pollo, revolvemos y retiramos del fuego cuando el pollo esté algo dorado pero medio crudo aún. Le hacemos unos pinchazos con el tenedor y dejamos reposar durante 30 minutos para que se impregne mejor.
 
 En un recipiente refractario ponemos la cerveza, el aceite de oliva, el resto de genjibre y salpimentamos a gusto. Revolvemos todo para mezclar bien y agregamos las arvejas, la cebolla cortada en aros y el ajo machacado. Agregamos el pollo escurrido y llevamos a fuego medio al horno previamente calentado. Dejamos cocinar durante 30 minutos aproximadamente.

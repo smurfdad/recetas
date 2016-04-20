@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de espinacas
 
 50 gr mantequilla
@@ -34,7 +33,6 @@ Para 4 personas.
 200 ml nata liquida
 
 <h3>Preparación</h3>
-
 Poner una cazuela al fuego con agua y un poco de sal.
 
 Cuando rompa a hervir echar las espinacas ya limpias y dejarlas cocer.

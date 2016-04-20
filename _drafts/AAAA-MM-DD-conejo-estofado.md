@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 30 gr. de mantequilla
 
 2 cebollas grandes
@@ -52,7 +51,6 @@ Romero
 Sal
 
 <h3>Preparación</h3>
-
 Trocear el conejo.Pasarlos por harina y rehogar en una cazuela con aceite y mantequilla, hasta que estén doraditos.
 
 Añadir zanahoria, apio, cebolla, perejil y las hierbas aromáticas. Rociar con vino y cuando se evapore, añadir los tomates triturados.

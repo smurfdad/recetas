@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos
 
 300 gr espinacas
@@ -25,7 +24,6 @@ Para 4 personas.
 queso rallado
 
 <h3>Preparación</h3>
-
 Cocer las espinacas con agua y sal.
 
 Una vez cocidas escurrirlas y picarlas.

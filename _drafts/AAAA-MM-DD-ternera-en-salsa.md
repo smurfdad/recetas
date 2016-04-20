@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 700 grs de carne de ternera
 
 1 cebolla
@@ -48,7 +47,6 @@ Perejil
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Seleccionar un trozo de ternera -lomo bajo, tapa o aguja -, atarla con un hilo de bramante para que tenga buena forma y dorarla a fuego medio, por igual en el aceite y la mantequilla. Incorporar la cebolla- pelada y a láminas -, los puerros - de igual manera y solo lo blanco -, y los ajos - sin piel.
 
 Dejar cocer durante 20 minutos, con el mínimo fuego, y bien tapado, vigilando que no se agarra, en cuyo caso se añade un poco de caldo.

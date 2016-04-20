@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 125 gr. de azúcar
@@ -25,7 +24,6 @@ Leche condensada
 Confites para adornar
 
 <h3>Preparación</h3>
-
 Batir los huevos con el azúcar hasta que quede una pasta cremosa, a continuación añadir la harina tamizada y el chocolate en polvo junto con la levadura.
 
 Poner la pasta en un molde tipo cake, previamente engrasado e introducir en el microondas 6 minutos a máxima potencia. Adornar con la leche condensada y los confites.

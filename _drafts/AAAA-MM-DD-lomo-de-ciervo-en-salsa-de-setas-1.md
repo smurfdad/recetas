@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 18 filetes de tomo de ciervo de 75 gr.
 
 300 gr. de setas
@@ -49,7 +48,6 @@ Tabasco
 sal
 
 <h3>Preparación</h3>
-
 En un recipiente se vierte y se bate el tomillo, el orégano, la cabeza de ajo, el pimentón dulce y el picante, el aceite de oliva y la mostaza. Se sazonan los filetes, se vierte sobre ellos el adobo y se deja reposar durante una semana o diez días. Pasado este tiempo se sacan y se preparan directamente sobre una plancha bien caliente. Se sirven con la salsa de setas por encima.
 
 SALSA DE SETAS:

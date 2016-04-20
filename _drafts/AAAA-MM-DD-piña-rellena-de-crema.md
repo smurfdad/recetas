@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 6 piñas enanas vacías, relleno de las piñas partido en trozos pequeños
 
 1 piel de limón
@@ -40,6 +39,5 @@ categories:
 crema espesa
 
 <h3>Preparación</h3>
-
 Se pone la piel de limón con la leche caliente, la canela y el azúcar a hervir. Se mezcla el almidón de maíz con los huevos y la leche fría. Cuando la leche haya hervido, incorporar la mezcla de la leche fría y remover constantemente hasta que espese, añadir los trocitos de piña, rellenar las piñas y dejar enfriar.
 

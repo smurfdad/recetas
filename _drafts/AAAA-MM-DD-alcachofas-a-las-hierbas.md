@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 4 alcachofas grandes
 
 4 cucharas soperas aceite de oliva
@@ -36,6 +35,5 @@ tomillo
 sal
 
 <h3>Preparación</h3>
-
 Quitar las hojas duras de las alcachofas y los tallos. Cortarlas por la mitad. Salarlas. Echar el zumo de limón, el aceite y las hierbas. Colocar en una fuente para microondas. Poner en el horno microondas, durante 10 minutos a la máxima potencia.
 

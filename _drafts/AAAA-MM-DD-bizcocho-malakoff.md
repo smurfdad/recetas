@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 CREMA DE ALMENDRAS:
 
 100 gr. de margarina o mantequilla
@@ -48,7 +47,6 @@ SALSA:
 3 paquetes de bizcochos saboyanos de 140 gr. cada paquete
 
 <h3>Preparación</h3>
-
 LA CREMA:
 
 Batir la mantequilla y añadirle el azúcar, la vainilla azucarada y las dos yemas de huevo.Batir hasta que la masa se quede clarita. Añadirle la nata liquida y las almendras molidas y mezclar.

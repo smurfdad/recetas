@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 melón
 
 Ron coñac u otro licor
@@ -19,7 +18,6 @@ azúcar a gusto
 el zumo de un limón
 
 <h3>Preparación</h3>
-
 Cortar el melón por la mitad a lo ancho.
 
 Cortar los casquetes de las dos mitades para que se mantengan tiesos y meterlos en la nevera.

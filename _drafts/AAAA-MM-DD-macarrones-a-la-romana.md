@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs. de macarrones
 
 200 grs. de pollo o ternera
@@ -43,7 +42,6 @@ Sal
 Pimienta blanca molida
 
 <h3>Preparación</h3>
-
 Hervir la pasta en agua salada y dejarla cocer hasta que esté al dente.
 
 Cortar el pollo en cuadritos y secarlos. Salpimentar, rebozar en un poco de harina y hacer que se doren en mantequilla.

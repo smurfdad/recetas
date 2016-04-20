@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500g de nalga, bola de lomo, o cuadrada fileteada para milanesas
 
 4 a 5 huevos batidos
@@ -44,7 +43,6 @@ Sal a gusto
 Aceite para freír
 
 <h3>Preparación</h3>
-
 Pelar y cortar las papas en bastones y resrvar sumergidas en un recipiente con agua hasta el momento de cocción.
 
 Limpiar la carne elegida de grasa y golpear con el batebife par ablandar y salar. Preparar tres recipientes uno con harina, otro con huevos batidos, sal, ajo, perejil y mostaza y en el tercero pan rallado. Pasar de a una las milanesas primero por la harina luego por el los huevos y por último por el pan rallado aplastando bien con las palmas de las manos para que se pegue el pan rallado.

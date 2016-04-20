@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250g de arroz
 
 1 cebolla mediana picada
@@ -30,7 +29,6 @@ Queso parmesano rallado en hebras
 Sal y Pimienta a gusto
 
 <h3>Preparación</h3>
-
 Asar los morrones al horno o sobre fuego, pelarlos y quitarles las semillas y nervaduras blancas, y cortar en tiras.
 
 Ponemos en una cacerola el aceite de oliva, colocamos las cebollas y cuando están transparentes incorporamos el arroz y lo sellamos hasta que esté transparente, luego agregamos la mitad del caldo con azafrán diluido y salpimentamos cocinamos a fuego suave 10 minutos.

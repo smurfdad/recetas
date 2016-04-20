@@ -24,7 +24,6 @@ Para 2 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 2 lomos de bacalao desalado
 
 2 dientes de ajo
@@ -40,7 +39,6 @@ Perejil fresco
 Harina
 
 <h3>Preparación</h3>
-
 Enharinar los lomos y poner la sartén a fuego lento.
 
 Cuando el aceite esté templado, añadir los ajos laminados y la almendra.

@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 12 rebanadas de pan integral
 
 300 gramos de rodajas de piña (no en almíbar).
@@ -42,6 +41,5 @@ Para 1 personas.
 6 hojas de lechuga
 
 <h3>Preparación</h3>
-
 Pica la piña en cubitos y ponla sobre un colador para que suelte todo el jugo. Aparte, mezcla bien la mayonesa, la mostaza, la cebolleta y el tabasco. Unta con esta mezcla una cara de cada rebanada de pan, cubre la mitad de ellas con el jamón, luego la piña y la lechuga, encima de todo el queso, y tapa con la otra mitad de las rebanadas.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 260 gr. de arroz
 
 600 gr. de karrakelas
@@ -69,7 +68,6 @@ aceite de girasol
 harina.
 
 <h3>Preparación</h3>
-
 Para el caldo de ave: en un cazo con agua se ponen el muslo de pollo, un puerro, media cebolla, una zanahoria y el ramillete aromático. Se sazona con sal. Cuando rompa a hervir, se espuma y se baja el fuego, dejándolo que hierva suavemente, durante 40 o 45 minutos.
 
 Para el arroz con karrakelas:

@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 500 g de zanahorias
 
 500 g de puerros
@@ -52,7 +51,6 @@ algunas lonchas finas de pan seco
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Lleve a ebullición 5 litros de agua en una marmita: añada las verduras cortadas finas (las zanahorias, los puerros, las patatas, los nabos, las alubias, las habas).
 
 Añada a continuación el confit de oca, las cebollas, el ajo aplastado y el ramillete de hierbas.

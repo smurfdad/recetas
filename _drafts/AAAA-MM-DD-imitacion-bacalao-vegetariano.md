@@ -22,7 +22,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla grande picada
 
 3 dientes de ajo picados
@@ -54,7 +53,6 @@ una lata de pimientos morrones en tiras
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 En el aceite de oliva , fr&igrave;a la cebolla y el ajo,integre las zanahorias y luego la col a que sancoche un poco.
 
 Agregue el jitomate,el pur&egrave; y deje hervir hasta que se cuezan bien la col y la zanahoria.

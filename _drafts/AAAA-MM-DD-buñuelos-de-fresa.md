@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 24 fresas
 
 Aceite para freír
@@ -44,7 +43,6 @@ Azúcar con canela
 Sal
 
 <h3>Preparación</h3>
-
 Se mezcla harina, levadura, 1 yema, cucharada de aceite,licor, sal y leche, y se hace una masa. Se deja reposar 3 horas a temperatura ambiente.
 
 Ya reposado, se mezcla todo con una clara montada a punto de nieve. Y se comienza a calentar el aceite en la sartén para freír.

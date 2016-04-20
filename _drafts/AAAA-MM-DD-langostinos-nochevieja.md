@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 tomate
 
 1/2 cebolla
@@ -40,10 +39,8 @@ un poco de agua
 1/2 kg. de langostinos
 
 <h3>Preparación</h3>
-
 Se pone todo al fuego durante media hora, excepto los langostinos. Después se añaden los langostinos, se salan y se dejan a fuego lento durante diez minutos. Se sirven solos, sin salsa.
 
 <h3>Observaciones</h3>
-
 Si se quiere puede pasarse lo que queda en el puchero por el pasapurés, añadiendo una parte de agua caliente, pero debe servirse siempre a parte.
 

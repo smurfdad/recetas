@@ -23,7 +23,6 @@ Para 10 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 2 libras de mitades de patatas rojas
 
 3 dientes de ajo, asados
@@ -37,7 +36,6 @@ Para 10 personas.
 1 taza de queso cheddar desmenuzado
 
 <h3>Preparación</h3>
-
 Colocar las patatas y suficiente agua como para cubrirlas en una olla de 3 cuartos de galón. Haz hervir. Reduce a fuego medio, cocina de 20 a 25 minutos o hasta que estén tiernas. Escurre.
 
 Machacar un poco las patatas, el ajo, la mantequilla, la sal y la pimienta de modo que las patatas queden en pedazos grandes.
@@ -45,6 +43,5 @@ Machacar un poco las patatas, el ajo, la mantequilla, la sal y la pimienta de mo
 Espolvorear con queso antes de servir.
 
 <h3>Observaciones</h3>
-
 Para darle más sabor, agrégale 1 chile chipotle picado.
 

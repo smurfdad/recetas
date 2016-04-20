@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 pimientos verdes
 
 4 cebollas
@@ -45,7 +44,6 @@ laurel
 sal
 
 <h3>Preparación</h3>
-
 Se prepara la carne, con los dientes de ajo (sin simiente y pasados por el prensa-ajos), con el perejil, el huevo, la miga de pan remojada en leche, sal y pimienta y se amasa todo. Las verduras se vacían, con cuidado para que no se rompan los calabacines.
 
 Se lavan, se pelan (o no), se parten por la mitad y se vacían, sin llegar hasta el fondo. Los pimientos. Se quita el rabo, la simiente y los nervios, después de haberlos lavado Los tomates. Se lavan, se vacían y se ponen con un poco de sal, boca abajo.Las patas y cebollas. Se pelan y se vacían

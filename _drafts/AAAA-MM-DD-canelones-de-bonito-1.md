@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 caja de canelones de 20 láminas.
 
 250 gr. de bonito en lata (mitad en aceite, mitad en escabeche).
@@ -40,7 +39,6 @@ sal.
 100 gr. de queso rallado.
 
 <h3>Preparación</h3>
-
 Cocer los canelones en agua hirviendo con sal y aceite. Cuando estén tiernos, sacarlos uno a uno y ponerlos sobre un trapo limpio. Picar las cebollas muy finitas y ponerlas a fuego lento con aceite hasta que estén tiernas y con un poco de color.
 
 Echar el tomate y darle un hervor. Escurrir el bonito y desmenuzarlo con un tenedor y añadirlo al tomate hasta que quede bien mezclado. Poner este relleno en el centro de los canelones y enrollarlos.

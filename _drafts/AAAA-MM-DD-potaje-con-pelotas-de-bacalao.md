@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de garbanzos
 
 1/2 kg. de habichuelas
@@ -55,6 +54,5 @@ Sal y pimienta
 1 huevo
 
 <h3>Preparación</h3>
-
 Para hacer las pelotas se mezclan todos los ingredientes para las pelotas en cantidades al gusto y se fríen las pelotas con harina y huevo. Para el potaje se ponen a cocer los garbanzos y las habichuelas (previamente remojadas 24 horas) en una olla a presión. Cuando está hervido rectificamos de agua y sal y añadimos la mezcla del mortero picado, el tomate y la cebolla fritas y las pelotas, lo dejamos hervir unos 10 minutos. Servir caliente.
 

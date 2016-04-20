@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gramos de carne de cangrejo ruso.
 
 1/4 cebolleta fresca.
@@ -29,7 +28,6 @@ Unas hojas de lechuga.
 2 cucharadas de vinagre de manzana.
 
 <h3>Preparación</h3>
-
 Troceamos la carne del cangrejo ruso y reservamos.
 
 Preparamos la mayonesa y añadimos cuatro cucharadas de salsa de tomate muy fina, así como un picado de lechuga en juliana muy fino.

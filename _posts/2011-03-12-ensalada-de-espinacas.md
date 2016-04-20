@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 bolsa de espinacas.
 
 1 pechuga de pollo cocida y desmenuzada.
@@ -33,7 +32,6 @@ Vinagreta:
 sal y pimienta al gusto.
 
 <h3>Preparación</h3>
-
 Las espinacas crudas en trozos se acomodan en una ensaladera, encima se pone la pechuga y los granos de elote, se bañan con la vinagreta.
 
 Para preparar la vinagreta se licua la yema, cebolla, ajo, perejil y mostaza, poco a poco se agrega en hilo delgado el aceite, al final el vinagre, sal y pimienta.

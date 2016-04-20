@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de batata rosada
 
 2 batatas cortadas en hojuelas para hacer chips
@@ -43,7 +42,6 @@ Hojas de cilantro fresco para decorar
 Aceite para freír los chips de batata
 
 <h3>Preparación</h3>
-
 Preparar un buen caldo de pollo.
 
 Pelar las batatas y picarlas en trozos. Cocinarlas en el caldo de pollo con las ramas de canela.
@@ -55,6 +53,5 @@ Pelar las dos batatas restantes y cortarlas en hojuelas con un pelador de patata
 Servir la sopa caliente y agregar en cada plato una cucharada de crema de leche. Adornar con hojas de cilantro y dos chips de batata.
 
 <h3>Observaciones</h3>
-
 La crema de leche se puede sustituir por yogur natural.
 

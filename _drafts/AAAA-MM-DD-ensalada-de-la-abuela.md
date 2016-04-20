@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 tomates medianos.
 
 200 gramos de bacalao.
@@ -39,6 +38,5 @@ Aceitunas.
 1 pimiento rojo asado.
 
 <h3>Preparación</h3>
-
 Se pelan los tomates (dos si se prepara un plato para cuatro comensales) y se parten por la mitad. A continuación, se aliña con sal y pimienta, y añadimos ñora molida. Lo dejamos en la nevera. Después, asamos a la parrilla el bacalao con los dientes de ajo. Cuando esté bien asado y haya perdido el caldo, se pica todo, se mezcla y se echa por encima de los trozos de tomate. Se aliña con aceite y ñora. En cada plato se coloca un medio tomate junto a un cogollo de lechuga, un trozo de pimiento rojo y aceitunas trituradas.
 

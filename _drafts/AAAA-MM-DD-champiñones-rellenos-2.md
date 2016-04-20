@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 80 ccs de aceite
 
 2 dientes de ajo
@@ -43,7 +42,6 @@ pan rallado
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Limpiar bien los champiñones y cortarlos con cuidado de no romperlos, los troncos se reservan.
 
 En una sartén con aceite, preparar un sofrito con los ajos cortados, el pimiento verde troceado y la cebolla cortada finamente.Cuando ya esté, añadiremos la carne picada, sal al gusto y los troncos de los champiñones cortados en rodajitas.

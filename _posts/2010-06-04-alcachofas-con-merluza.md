@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 24 alcachofas
 
 8 ruedas de merluza
@@ -24,7 +23,6 @@ harina
 aceite
 
 <h3>Preparación</h3>
-
 Limpiar las alcachofas y cocerlas con un poco de agua y sal.
 
 Una vez cocidas y escurridas, disponerlas en una cazuela de barro.

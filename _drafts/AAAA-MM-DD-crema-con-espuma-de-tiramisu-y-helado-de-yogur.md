@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Para la crema:
 
 1 litro de nata
@@ -63,7 +62,6 @@ Para la espuma de tiramisú:
 2 cargas
 
 <h3>Preparación</h3>
-
 Crema:
 
 Mezclar las yemas, la nata, el azúcar. Verter en platos soperos y cocer al horno 5 minutos a 90 grados.

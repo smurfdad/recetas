@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 pimientos grandes
 
 750g carne picada especial
@@ -45,7 +44,6 @@ Para 6 personas.
 1 taza de vino blanco
 
 <h3>Preparación</h3>
-
 Picar la cebolla y el ajo finamente. En un recipiente para microondas poner aceite , la cebolla y el ajo y cocinar 3 minutos a potencia 90%.
 
 En un bol mezclar las carne picada con los huevos batidos, pan rallado y perejil picado. Salpimentar la mezcla y añadir el rehogado del microondas.

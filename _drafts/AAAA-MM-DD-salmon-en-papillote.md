@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1,200 grs. de salmón
 
 piperrada
@@ -30,7 +29,6 @@ piperrada
 sal
 
 <h3>Preparación</h3>
-
 Cortar el salmón en rodajas y reservar.
 
 Preparar una piperrada: se compone de cebollas, pimientos verdes, pimientos rojos, tomate natural o salsa de tomate y si se quiere unos pimientos choriceros.

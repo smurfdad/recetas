@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Chipirón grande
 
 ajo
@@ -44,7 +43,6 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Se limpian bien los chipirones, se cortan en tiras finas, salteándolos con un poco de aceite y ajo hasta que se doren.
 
 Salsa: En una cazuela ponemos aceite, ajo, cebolla ,pimiento verde picado y dejamos que se rehoguen. Se le añade un poco de tomate, vino blanco y fumet y se deja cocer. Cuando esté cocido, se pasa todo por el túrmix y un colador fino. Se añaden las tintas del chipirón. Se sazona todo, se mezclan los chipirones y la salsa y se deja hervir unos diez minutos.

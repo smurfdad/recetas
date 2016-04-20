@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 o 4 langostinos por persona
 
 1 lonchita de beicon muy fino por langostino
@@ -25,7 +24,6 @@ Para 4 personas.
 Tomatitos cherry (adorno/opcional)
 
 <h3>Preparación</h3>
-
 Pelar los langostinos y envolver cada uno con una lonchita de beicon, atar con un palillo, saltear en una sartén hasta dorar un poquito el beicon. Apartar.
 
 Preparar una salsita dorando la harina, añadimos la nata removiendo como si fuese una besamel y añadimos el vino.

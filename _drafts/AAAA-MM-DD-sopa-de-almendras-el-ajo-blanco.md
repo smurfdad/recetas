@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 50 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gramos de almendras crudas.
 
 200 gramos de pan de pueblo, asentado, del día anterior.
@@ -52,7 +51,6 @@ o
 1 manzana, pelada y cortada en daditos pequeños.
 
 <h3>Preparación</h3>
-
 Poner un cazo con agua al fuego y cuando empiece a hervir, echar las almendras y mantenerlas 2 ó 3 minutos, sacarlas del agua, pelarlas y reservarlas.
 
 Remojar la miga de pan con un poco de agua.

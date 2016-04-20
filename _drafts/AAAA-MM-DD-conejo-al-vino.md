@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 conejo campero
 
 1 tacita de aceite de oliva
@@ -42,7 +41,6 @@ laurel
 una ramita de tomillo y sal.
 
 <h3>Preparación</h3>
-
 En una olla de barro, se pone al fuego el aceite.
 
 Se le echan los ajos pelados y enteros, la cebolla a cascos, las almendras, el perejil, el laurel y el hígado del conejo.

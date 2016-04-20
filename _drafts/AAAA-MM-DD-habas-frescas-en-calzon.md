@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de habas
 
 5 lonchas de beicon
@@ -40,7 +39,6 @@ aceite
 caldo de habas
 
 <h3>Preparación</h3>
-
 Limpiar las habas y cocerlas en abundante agua con un poco de sal.
 
 Una vez cocidas se escurren y se reservan.

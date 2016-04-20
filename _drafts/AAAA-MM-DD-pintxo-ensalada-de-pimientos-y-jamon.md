@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Pimiento rojo
 
 pimiento verde
@@ -34,6 +33,5 @@ queso Emmental
 mahonesa
 
 <h3>Preparación</h3>
-
 Se pican los pimientos, el jamón y el queso. Se mezclan los ingredientes con la mahonesa y se coloca sobre una rebanada de pan. Se decora con una pizca de pimentón picante.
 

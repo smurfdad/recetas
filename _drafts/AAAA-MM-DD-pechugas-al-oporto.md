@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Pechugas.
 
 1 Bandejita de champiñones.
@@ -34,6 +33,5 @@ Mantequilla.
 Un poquito de Oporto ó un vino tinto un tanto afrutado.
 
 <h3>Preparación</h3>
-
 En una cazuela se doran las pechugas, una vez bien hechas se retiran y se ponen los champiñones, todo ello con una base en la cazuela de mantequilla. Se añade la nata, sal y una pastillita de avecrem, las pechugas y los champiñones. Se tapa y a fuego lento se deja unos 15 minutos, añadiendo el chorrito de Oporto ó de vino tinto.
 

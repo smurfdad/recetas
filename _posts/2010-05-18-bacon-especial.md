@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lonchas grandes de bacon
 
 1 paquete de puré de patatas
@@ -23,7 +22,6 @@ sal, pimienta
 queso rallado
 
 <h3>Preparación</h3>
-
 Hacer el puré de patatas como indica el paquete pero con menos líquido para que quede más seco.
 
 Freír las lonchas de bacón.

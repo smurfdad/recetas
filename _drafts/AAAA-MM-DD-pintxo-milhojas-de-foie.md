@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Foie
 
 patata en rodajas
@@ -32,6 +31,5 @@ ciruelas
 pan tostado
 
 <h3>Preparación</h3>
-
 Es un milhojas en el que se ponen las patatas cocidas en rodajas, el foie cocido, el kiwi en lonchas y las ciruelas. Todo ello sobre una rebanada de pan tostado
 

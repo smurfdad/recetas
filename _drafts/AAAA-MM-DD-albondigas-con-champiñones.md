@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 huevos.
 
 Sal.
@@ -55,7 +54,6 @@ Para el Picadillo:
 1 loncha de jamón.
 
 <h3>Preparación</h3>
-
 Mezclamos bien la carne con los huevos, la sal, la pimienta y la miga de pan. Se forman las albóndigas, se pasan por harina y se fríen. Mientras tanto, en otra cazuela se fríe la cebolla picada y se le añade la salsa de tomate. Se rehoga bien y se agregan las albóndigas fritas.
 
 Por ultimo, se añade el vino blanco y los champiñones limpios y troceados. Se rectifica de sal y se deja cocer a fuego suave durante media hora. Si es necesario, se añade agua.

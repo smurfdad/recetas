@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 16 Camarones grandes y pelados
 
 1 Cebolla en trozos
@@ -37,6 +36,5 @@ Jugo de lim&ograve;n como sazonador
 ajo en polvo,sal,pimienta molida al gusto
 
 <h3>Preparación</h3>
-
 Los camarones se sazonan con limón,sal,ajo y pimienta, se van ensartando en unos palillos de madera largos y de manera alternada: Camarón;tocino,pimiento verde,cebolla y pimiento rojo. Repetir la operaci&ograve;n hasta llenar los palillos. Ponerlos sobre una parrilla antiadherente a fuego bajo hasta que todos los ingredientes est&egrave;n ligeramente asados.
 

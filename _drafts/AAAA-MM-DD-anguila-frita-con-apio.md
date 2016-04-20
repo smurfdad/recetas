@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 anguila de al menos medio kilo
 
 300 gramos de apio
@@ -53,10 +52,8 @@ Para 4 personas.
 1 cucharada de agua
 
 <h3>Preparación</h3>
-
 Cortar la anguila en trozos de 5 centímetros. Cortar el apio en trozos de 3 centímetros Cortar el jengibre en juliana Cortar el pimiento en tiras de 3 centímetros. Mezclar todos los ingredientes a excepción del aceite para freír y pasta de soja, mezclar bien los ingredientes. Calentar las 3 tazas de aceite en el wok y freír los trozos de anguila, cuando el aceite este bien caliente por 30 segundos, sacarlos del wok y quitar el aceite. Saltear el jengibre, pimiento y la pasta de soja con 2 cucharadas de aceite, añadir el apio y saltearlo hasta que este al dente, añadirle la anguila y los ingredientes que tenemos mezclados, darle al conjunto un hervor y servir.
 
 <h3>Observaciones</h3>
-
 Cocina cantonesa
 

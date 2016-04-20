@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 15 laminas de lasaña
 
 150 g carne picada de ternera
@@ -61,7 +60,6 @@ PARA BECHAMEL:
 Nuez moscada
 
 <h3>Preparación</h3>
-
 Cocemos las laminas de lasaña el tiempo que nos indiquen en la caja, o la remojamos si son precocidas. Escurrimos y reservamos.
 
 RELLENO (Ragú):
@@ -77,6 +75,5 @@ formen grumos. Se sala y se añade un poco de nuez moscada, se lleva a ebullici�
 Encendemos el horno a 250 grados. A continuación untamos una bandeja con mantequilla. Añadimos una capa de ragú, otra de bechamel y espolvoreamos con queso parmesano. Se tapan con 3 laminas de lasaña. Se siguen colocando del mismo modo capas, hasta que se acaben las laminas. Terminamos con el ragú que sobra, con la bechamel y con queso parmesano. Lo metemos al horno durante 20 minutos y lo dejamos reposar 10 minutos antes de servir.
 
 <h3>Observaciones</h3>
-
 El vino marsala lo podrás sustituir por cualquier vino dulce. Con Jerez dulce da muy buenos resultados.
 

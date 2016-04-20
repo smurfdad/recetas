@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de Arroz
 
 1 Cebolla
@@ -30,7 +29,6 @@ Para 6 personas.
 100 gr. de Mozzarella
 
 <h3>Preparación</h3>
-
 Preparar el arroz rehogando la cebolla y el arroz en la mantequilla. Incorporar el caldo a medida que lo absorva el arroz. Dejas al denete. Añadir la amntequilla restante y el parmesano. Enfriar toda la noche. Luego mezclar con los huevos batidos. Enharinar las manos, cojer arroz, poner unos trocitos de jamón y mozzarella, hacer una bola, y envolver en pan rallado.
 
 Dejar 30 min. en la nevera. Freir en abundante aceite muy caliente. Escurrir en papel absorvente, y ya está.

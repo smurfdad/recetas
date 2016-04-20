@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 docena de filloas
 
 Azúcar
@@ -30,6 +29,5 @@ Azúcar
 Tocino
 
 <h3>Preparación</h3>
-
 Espolvorear las filloas con azúcar y enrollarlas. Calentar una sartén y untar con tocino la superficie de la misma, colocando encima las filloas y dejando que se hagan hasta que tomen un color dorado por ambos lados.
 

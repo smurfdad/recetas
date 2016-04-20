@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. De judías verdes
 
 8 filetes de lenguado
@@ -47,10 +46,8 @@ Pimienta
 Agua
 
 <h3>Preparación</h3>
-
 Pica el pimiento y la cebolleta, coloca en un bol, añade aceite, vinagre y sal y deja macerar. Pela las patatas y córtalas en rodajas de 1 centímetro. Limpia las judías, retírales los hilos y corta en juliana fina. Pon agua en la olla rápida, añade las judías, echa un poco de sal, coloca la cesta para cocer al vapor y pon dentro las patatas. Cuece durante 5 minutos. Retira todo de la olla y reserva. Salpimenta los filetes de lenguado. Limpia los espárragos, retírales la parte inferior. Con cada filete (es importante que la parte de la piel quede en el interior) envuelve un espárrago. Pon nuevamente la olla al fuego, coloca la cesta y encima los rollitos de pescado.
 
 <h3>Observaciones</h3>
-
 Sirve las vainas en el centro, alrededor coloca las patatas y encima las popietas de lenguado. Salsea con la vinagreta.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de pechugas de pavo
 
 4 lonchas de beicon
@@ -36,7 +35,6 @@ Pimienta
 Sal
 
 <h3>Preparación</h3>
-
 Salpimentar los filetes. Untar queso philadelphia por una cara. Enrrollarlos sobre sí mismos y después enrollar una loncha de beicon, y poner un palillo para mantenerlos cerrados.
 
 Disponer de una fuente de horno, y regar con aceite de oliva. Cocinar en el horno a 200&ordm; y alrededor de 30 minutos. Pueden hacerse rodajitas, o servir enteros acompañados de guarnición.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo.
 
 300 gramos de zanahorias.
@@ -57,7 +56,6 @@ Pimienta.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 El conejo se limpia y se trocea. En una cazuela ponemos un chorro de aceite y sofreímos la cebolla, el ajo, el pimiento y las zanahorias, todo bien picado. Sazonamos y añadimos el tomillo y la albahaca. Por ultimo, incorporamos un poco de harina para espesar la salsa.
 
 Aparte, enharinamos y sazonamos el conejo. Lo doramos en otra sartén con aceite caliente. Cuando todos los trozos de conejo estén doraditos, los ponemos en la cazuela con las verduras rehogadas. Agregamos el vino, agua y la salsa de tomate, y dejamos que cueza media hora. Cinco minutos antes de acabar la cocción, incorporamos las aceitunas deshuesadas

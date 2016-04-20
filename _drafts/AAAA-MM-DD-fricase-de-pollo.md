@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Un pollo.
 
 Una taza de leche evaporada pura.
@@ -51,7 +50,6 @@ Jugo de un limón.
 Dos hojas de laurel.
 
 <h3>Preparación</h3>
-
 Corta el pollo en trozos chicos. Sécalos y luego los rocías con el jugo de limón. Después los aderezas con sal, pimienta y un poco de salsa de soja.
 
 Enharina los trozos, ahora ya puedes freírlos en margarina y un poco de aceite.

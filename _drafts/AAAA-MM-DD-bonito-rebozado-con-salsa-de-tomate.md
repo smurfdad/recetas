@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tajada de bonito de 800 gr.
 
 800 gr. de tomate pera
@@ -45,7 +44,6 @@ aceite virgen extra
 sal
 
 <h3>Preparación</h3>
-
 Pica 2 dientes de ajo y las cebollas y ponlas dorar en una cazuela con aceite. Cuando se doren, agrega el tomate troceado, una pizca de sal y otra pizca de azúcar. Cocina a fuego suave hasta que esté a tu gusto (20 minutos). Pasa la salsa por el pasapurés y resérvala.
 
 Saca los lomos de la rodaja de bonito, retírale la piel y las espinas y córtalos en filetes de 1 centímetro de grosor.

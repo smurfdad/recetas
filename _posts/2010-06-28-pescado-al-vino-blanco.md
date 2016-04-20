@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Dos filetes o cuatro medallones de merluza, pero sin piel y sin espinas.
 
 Patatas
@@ -29,7 +28,6 @@ Pimienta
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 En una fuente se ponen en un lado, el tomate salpimentado en rodajas, cantidad según gusto. Y al otro lado, las patatas también en rodajas y previamente fritas un poco en la sartén. En medio de la fuente, la merluza salpimentada según gusto.
 
 Se echa un poco de aceite y un poco de vino blanco. Luego se espolvorea un poco con el ajo y el perejil picados, esto también según gusto.

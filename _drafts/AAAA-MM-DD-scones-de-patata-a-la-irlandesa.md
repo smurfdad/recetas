@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 harina
 
 1 cucharada levadura
@@ -45,7 +44,6 @@ harina
 1 yema batida
 
 <h3>Preparación</h3>
-
 Mezclar la manteca de cerdo 125 gr. mantequilla, la sal y el azúcar con las patatas. Desleir la levadura con la leche y añadir a la masa de las patatas. Agregar el huevo y la yema.
 
 incorporar la harina y amasar hasta que sea una pasta elástica reservar en un cuenco grande para que suba. Extender la masa con un rodillo dejándola de un 1 cm de espesor, cortarla a redondeles. Con los 50gr restantes mantequilla pintar los redondeles , poner uno encima de otro , Hornear en latas en mantecadas los scones dobles a 230 grados de 20 a 30 minutos , hasta que hayan subido y estén dorados.

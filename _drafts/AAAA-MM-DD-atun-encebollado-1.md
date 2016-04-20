@@ -24,7 +24,6 @@ Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 rodaja atún
 
 1 Ud. cebolla grande
@@ -40,7 +39,6 @@ pimienta negra en grano
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Limpiamos y cortamos en tacos el atún. Cortamos la cebolla por la mitad y hacemos tiras finas.
 
 En aceite caliente, ponemos la cebolla y la pochamos, añadimos el laurel, los granos de pimienta y los clavos, dejamos pochar un poco y añadimos el pescado. Dejamos hacer un poco y damos la vuelta. Dejamos otros cinco minutos más o menos y añadimos el vino. Dejamos pochar a fuego no muy fuerte y retiramos.

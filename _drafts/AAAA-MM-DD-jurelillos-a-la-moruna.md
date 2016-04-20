@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de jurelillos
 
 4 dientes de ajo
@@ -44,6 +43,5 @@ una pizca de cúrcuma
 sal
 
 <h3>Preparación</h3>
-
 Preparamos el pescado, eviscerándolo pero dejándole la cabeza. Pelamos el tomate y lo picamos en trocitos, de la misma manera que los ajos y el perejil. En una cazuela de barro colocamos los jurelillos y sobre éstos ponemos el resto de los ingredientes, todo en crudo. Lo dejamos cocer 20 minutos, con el recipiente tapado.
 

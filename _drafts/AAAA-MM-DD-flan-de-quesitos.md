@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 L. de leche
 
 2 yemas
@@ -36,7 +35,6 @@ Para 4 personas.
 Caramelo líquido
 
 <h3>Preparación</h3>
-
 Verter la leche en un cazo y añadir las dos yemas, los cuatro quesitos aplastados, el sobre de cuajada y el azúcar. Mezclar bien y batir con la batidora para que no queden grumos.
 
 Hervir el resultado de la mezcla, removiéndolo para que no se pegue. Una vez hervido, verter en una flanera grande o en cuatro individuales previamente acarameladas. Dejar enfriar para que se cuaje bien.

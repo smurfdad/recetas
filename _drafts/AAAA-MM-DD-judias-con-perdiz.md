@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 gr. de judías blancas
 
 una cebolla
@@ -40,7 +39,6 @@ laurel
 pimentón
 
 <h3>Preparación</h3>
-
 Se ponen a remojo las judías de víspera. En agua fría se ponen a cocer con todos los ingredientes en crudo, excepto la perdiz, a la que daremos una ligera vuelta en la sartén.
 
 La cebolla y la cabeza de ajos enteras. Tapar y cocer a fuego lento. Añadir agua fría a medida que lo necesiten. Una vez cocidas, incorporar la sal y el vinagre y un -refrito con aceite y pimentón, dejándolas hervir diez minutos más.

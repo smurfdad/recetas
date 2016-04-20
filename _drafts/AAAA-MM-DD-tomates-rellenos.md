@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 tomates medianos
 
 1 lata de atún
@@ -34,6 +33,5 @@ aceitunas
 mayonesa
 
 <h3>Preparación</h3>
-
 Se vacían los tomates , quitándole una tapa por arriba. Se pone la pulpa en un escurridor. Una vez sacada la mayor parte de agua de la pulpa, se pica bien picada, y se pisa con un tenedor, mezclando con el bonito, los huevos, y un poco de mayonesa. Se rellenan los tomates, se cubren con mayonesa, y se adornan con una aceituna cada uno.
 

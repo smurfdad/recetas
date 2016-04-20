@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 salsa mayonesa
 
 tomate kepchup
@@ -28,12 +27,10 @@ tomate kepchup
 unas gotas de martini rojo
 
 <h3>Preparación</h3>
-
 Poner la salsa en un Bol y añadirle el martini, mezclando bien.
 
 Después ir añadiendo el kechup sin dejar de remover hasta que obtenga una tonalidad rosa.
 
 <h3>Observaciones</h3>
-
 Esta salsa se emplea para la preparación de los cócteles de marisco y como acompañamiento de algunas ensaladas.
 

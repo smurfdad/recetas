@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,200 Kg de costilla de cerdo
 
 4 ó 5 patatas
@@ -36,7 +35,6 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Pelar y cortar en rodajas gruesas las patatas.
 
 En una placa de horno poner un poco de aceite y cubrir el fondo con las patatas.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de pollo troceado.
 
 500 gramos de conejo troceado.
@@ -49,7 +48,6 @@ Agua
 Sal.
 
 <h3>Preparación</h3>
-
 Hay que tener en cuenta que el arroz ideal para una buena paella es el característico valenciano, llamado arroz bomba con el que las paellas alcanzan su grado óptimo si bien en su defecto pueden emplearse otras variedades.
 
 Primeramente situaremos este reciente o paella sobre la cocina y verteremos sobre ella aceite que deberá quedar en el centro del recipiente. Seguidamente nivelaremos y encendemos el fuego. Una vez tengamos el aceite calentado pondremos conejo y pollo y lo sofreiremos hasta que adquiera un color dorado, dándole vuelta para que se haga uniformemente. A continuación echamos las verduras y las sofreímos igualmente pasando seguidamente a verter el tomate que doraremos del mismo modo removiendo constantemente.

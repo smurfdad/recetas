@@ -7,7 +7,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 4 lomos de merluza (150 grs. cada uno).
 
 4 cabezas de ajo
@@ -27,7 +26,6 @@ Para la guarnición
 4 dientes de ajo sal
 
 <h3>Preparación</h3>
-
 Cuece en un cacito las cabezas de ajo enteras a fuego muy suave y tapadas durante 5 minutos. Deja enfriar totalmente el aceite con las cabezas de ajo dentro.
 
 Prepara con ese mismo aceite frio y la yema de huevo una mahonesa. Sazonala con sal. Introduce en agua hirviendo con sal durante 3 minutos los trozos de pescado. Apartalos y dejalos escurrir.

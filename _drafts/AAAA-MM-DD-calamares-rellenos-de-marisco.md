@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 calamares, 12 medianos
 
 gambas, peladas y picadas, 200 gr.
@@ -64,6 +63,5 @@ pan frito, 4 costrones
 perejil, picado
 
 <h3>Preparación</h3>
-
 Limpiar los calamares reservando los tentáculos. En un cazo se pone la mitad del aceite, se deja calentar, se ponen los ajos y todos los ingredientes picados y se dejan pochar lentamente, se pone la harina, se fríe bien y se echa el vino, removiendo bien con una espátula de madera, quedando el relleno preparado. Con una cuchara rellenamos los calamares y los cerramos con el tentáculo y un palillo. En una cazuela ponemos un chorro de aceite, lo dejamos calentar bien y ponemos los calamares. Se dejan doran un poco y se les da la vuelta. Se pone el pan rallado por encima y el caldo de pescado. Se mete al horno moderado, durante 1 hora. Cada cuarto de hora se riegan con el mismo caldo donde ponemos el azafrán para que coja un color rosado. Se sirve son arroz blanco, costrones de pan frito y perejil picado.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Seis huevos
 
 2 litros de leche
@@ -30,7 +29,6 @@ Seis huevos
 una pizca de canela
 
 <h3>Preparación</h3>
-
 Se pone la leche a hervir, batiendo tres claras de huevo que queden a punto de nieve. Con una cuchara sopera se coge en porciones la clara batida y se va echando en la leche hirviendo, dándole una vuelta, sacándola y depositándola en un recipiente.
 
 Se baten las yemas con azúcar, se echa en la leche hirviendo, añadiéndole una cucharadita de maicena, removiéndola un poco hasta conseguir una crema que después echaremos a la clara depositada en el recipiente, polvoreándose con un poco de canela y almendra picada.

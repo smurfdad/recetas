@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 8 patas enteras
 
 2 cebollas
@@ -44,7 +43,6 @@ perejil
 2 yemas de huevo
 
 <h3>Preparación</h3>
-
 Cortar cada pata en cuatro trozos.
 
 Poner en una cazuela, con media cebolla, una rama de perejil, 2 hojas de laurel, el vino, el agua, sal y la cabeza de ajos, hirviendo todo durante dos horas.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para la masa
 
 250g(2 tazas) de harina
@@ -48,7 +47,6 @@ Para el relleno
 150g de jamón cocido
 
 <h3>Preparación</h3>
-
 Preparar la masa para pizza como se indica en masas básicas. Cocinar la masa para pizza sin dorar (prepizza), agregar la salsa de tomates, colocar sobre la salsa la mozzarella que cubra toda la superficie de la masa llegando a &frac12; cm del borde.
 
 Volver al horno y un minuto antes colocar una aceituna por porción y una en el centro, espolvorear con el orégano, hornear 1minuto mas, servir sobre base de madera y cortar ocho porciones

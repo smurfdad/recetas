@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pato mediano
 
 Sal, pimienta y 2 granos de cardamomo
@@ -41,11 +40,9 @@ Para el relleno:
 Sal, pimienta, nuez moscada, y zumo de 1 limón.
 
 <h3>Preparación</h3>
-
 Limpiar bien el pato y lavarlo; adobarlo con sal y pimienta. Mezclar muy bien los ingredientes del relleno con una cuchara. rellenar el pato y coser; atar las patas. Cocer en agua con sal, cardamomo a fuego lento. Sacar del caldo, dejar enfriar; meter en el horno. Servir caliente.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 
 En vez de pato se puede rellenar una oca. Al cocer el pato puede echar con el cardamomo dos dientes de clavo para darle un sabor más rico.

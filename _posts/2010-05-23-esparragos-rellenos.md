@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 espárragos muy gruesos
 
 12 lonchas salmón ahumado (si son grandes la mitad)
@@ -22,7 +21,6 @@ sal
 1 limón
 
 <h3>Preparación</h3>
-
 Cortar cada espárrago por la mitad, a lo largo.
 
 Rellenar cada uno con una tira de salmón, cortada del tamaño del espárrago.

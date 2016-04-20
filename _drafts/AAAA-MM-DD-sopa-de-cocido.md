@@ -23,12 +23,10 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Caldo de cocido: 2 litros
 
 Fideos: 200 grs. (finos, del n&ordm; 0)
 
 <h3>Preparación</h3>
-
 En el caldo hirviente se cuecen los fideos, a fuego lento y con la olla tapada, durante 3 minutos.
 

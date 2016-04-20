@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 Ud. cebolla
 
 1 cabeza ajo
@@ -40,10 +39,8 @@ pimienta negra en grano
 1 Kg. de bacalao
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla, la cabeza de ajo, los granos de pimienta y el perejil, a fuego lento, durante aproximadamente 1 hora. Añadir el pimiento choricero y rehogar 2 minutos más, incorporar a continuación el agua y dejar cocer otros 15 minutos. Triturar la salsa con un pasapurés y llevar otra vez al fuego. Incorporar los lomos de bacalao y dejar hacer unos minutos.
 
 <h3>Observaciones</h3>
-
 Decorar el plato con tiras de pimiento fritas y ajos fritos.
 

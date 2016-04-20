@@ -10,7 +10,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 caja de canelones
 
 1/2 litro de leche
@@ -40,7 +39,6 @@ PARA NAPAR:
 1/2 litro de leche
 
 <h3>Preparación</h3>
-
 Poner una cazuela con agua, un poco de aceite y sal.
 
 Cuando rompa a hervir, echar los canelones y dejarlos que se cuezan.

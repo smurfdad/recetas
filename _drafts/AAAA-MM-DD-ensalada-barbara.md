@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 2 lechugas pequeñas
 
 1 taza pan frito en cubitos
@@ -54,7 +53,6 @@ jugo de dos limones
 sal
 
 <h3>Preparación</h3>
-
 Colocar en la procesadora de alimentos las yemas el ajo la mostaza y el azucarcon el aparato funcionando,incorporar lentamente el aceite de oliva en chorritos hasta que la mezcla tome la consistencia de una mayonesa. Agregar el jugo de limon,la crema acida, el queso, el cebollin, la pimienta y la sal.
 
 Cortar la lechuga en trozos pequeños, dispornerla en una fuente grande y bañar con la salsa. Revolver bien para que la lechuga se impregne completamente,decorar con los cubitos de pan frito y los trozos de panceta y si desea. Espolvorear mas queso rallado.

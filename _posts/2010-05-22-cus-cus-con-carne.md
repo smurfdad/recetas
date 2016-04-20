@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de carne para guisar troceada
 
 1/2 kg. de sémola de trigo
@@ -40,7 +39,6 @@ Para 8 personas.
 aceite, sal
 
 <h3>Preparación</h3>
-
 Extender la sémola sobre una bandeja grande. Rociarla con el agua, un poco de sal y las tres cucharadas de aceite.
 
 Con la ayuda de las manos, manosear la sémola de forma que vayan quedando una especie de bolitas como si fueran granos de arroz. Reservarlo hasta su uso, tapado con un trapo.

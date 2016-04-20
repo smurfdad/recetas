@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de lentejas.
 
 1 morcilla.
@@ -39,6 +38,5 @@ Aceite de oliva.
 Sal.
 
 <h3>Preparación</h3>
-
 Ponemos a cocer las lentejas, con sal, durante unos tres cuartos de hora, según sean de tiernas. Aparte, cocemos la morcilla, pinchada por varios sitios, para que suelte la grasa y no se reviente. En una sartén aparte, con un poco de aceite, sofreímos la cebolla y el ajo. Cuando la cebolla y el ajo están dorados, se aparta la sartén del fuego, se añade el pimentón e inmediatamente, antes de que se ponga negro, se vuelca sobre las lentejas junto con la morcilla en rodajas. Se deja reposar unos minutos y se sirve.
 

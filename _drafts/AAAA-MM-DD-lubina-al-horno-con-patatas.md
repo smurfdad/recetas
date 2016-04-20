@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 lubinas de ración
 
 1 pimiento rojo
@@ -53,6 +52,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 En una bandeja de horno colocamos las patatas cortadas en rodajas y sobre ellas las verduras picadas con un poco de orégano. Sazonamos y regamos con aceite antes de meter en el horno a 180&ordm;. Después de 10 minutos colocamos en la bandeja las lubinas, sazonadas, e incorporamos el vino blanco, el caldo de pescado, el zumo del limón y unos dados de mantequilla sobre el pescado. Tras 20 o 25 minutos debería estar listo.
 

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 2 pechugas de pollo
 
 3 tazas de agua
@@ -48,7 +47,6 @@ Para 6 personas.
 6 papas amarilla o blancas
 
 <h3>Preparación</h3>
-
 Cocinar el pollo en agua, cuando este listo sacar el pollo y deshilachar. Reservar el caldo. En una taza de caldo remojar el pan sin corteza
 
 Un una olla freir la cebola cuando este transparente agregar el ajo, aji, sal pimienta incorporar el pan, cocinar, moviendo para que no se pegue en el fondo de la olla, agregando de poquitos el caldo hastas que se sienta que el pan este cocido. Agregar el pollo, y la leche evaporada.

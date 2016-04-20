@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 vasos de agua de zumo de naranja
 
 1 vaso de agua
@@ -21,7 +20,6 @@ Para 6 personas.
 4 huevos
 
 <h3>Preparación</h3>
-
 Poner el agua con el azúcar a calentar. Cuando esté a punto de hervir deshacer bien la gelatina de limón.
 
 Añadir el zumo de naranja.

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 20 mejillones.
 
 1 cebolla mediana.
@@ -32,7 +31,6 @@ Para 4 personas.
 1 pellizco de pimienta y azafrán.
 
 <h3>Preparación</h3>
-
 Limpiamos bien los mejillones y abrimos al vapor (es decir con su propio agua).
 
 Retiramos la carne y reservamos.

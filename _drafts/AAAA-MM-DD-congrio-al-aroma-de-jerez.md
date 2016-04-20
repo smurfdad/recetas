@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 800 gramos de congrio limpio.
 
 1 cebolla.
@@ -41,6 +40,5 @@ Aceite.
 Sal.
 
 <h3>Preparación</h3>
-
 La cebolla, finamente picada, se pone a pochar en una sartén con un chorro de aceite, la hoja de laurel y los granos de pimienta. Cuando la cebolla este ligeramente dorada, incorporamos las tajadas de congrio sazonadas. Rehogamos dos minutos y añadimos vinagre y agua, sin cubrir el pescado. Dejamos que cueza entre diez y quince minutos. Si fuese necesario, se añade más agua para que el congrio no quede seco. Cuando el pescado este hecho lo ponemos en una fuente. Echamos las yemas y el perejil a la cazuela y batimos todo bien. Servimos cubriendo las tajadas de congrio con la salsa.
 

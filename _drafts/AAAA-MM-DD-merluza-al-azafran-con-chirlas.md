@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs de merluza en filetes
 
 1 pimiento verde
@@ -52,7 +51,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Poner en una cazuela aceite de oliva, y rehogar la cebolla, los ajos y el pimiento verde picado. Agregar el tomate troceado y rehogar bien. Añadir una cucharada de harina y remover.
 
 Añadir el vino y el caldo. Salpimentar la merluza, rebozarla con harina y ponerla en la cazuela. Agregar las chirlas, un poco de azafrán y dejar cocer a fuego lento durante 20 minutos con el perejil picado.

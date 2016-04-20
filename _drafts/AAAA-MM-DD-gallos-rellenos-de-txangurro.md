@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 gallos de ración
 
 1 txangurro grande
@@ -54,7 +53,6 @@ Las espinas de los gallos
 Recortes de la carcasa del txangurro
 
 <h3>Preparación</h3>
-
 Se limpian bien los gallos, sin quitarles la cabeza. Se les quita la piel, se abren por el lomo y se sacan las espinas. Con las espinas, verduras, aromáticos y recortes del txangurro, se hace un fumet y se deja cocer 20 minutos.
 
 Se pone a cocer el txangurro en una cazuela con agua, sal y 2 cl. de vino blanco durante 20 ó 25 minutos. Se deja templar y luego se saca la carne por un lado y el coral e interiores por otro.

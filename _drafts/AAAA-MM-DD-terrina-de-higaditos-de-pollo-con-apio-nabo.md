@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 g de higaditos de pollo
 
 200 g de apio nabo pelado
@@ -47,7 +46,6 @@ Para 6 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Si el apio nabo es fresco, cortarlo en tiras finas y ponerlo a cocer 5 minutos en agua hirviente ligeramente salada, luego escurrirlo, reducirlo en un puré fino agregando la sal de apio y reservar.
 
 Si se trata de apio nabo en conserva, escurrirlo y ponerlo en agua fría durante 10 minutos para quitarle el sabor a salmuera. Luego escurrirlo y ponerlo a cocer 5 minutos en agua hirviente ligeramente salada. Escurrirlo, reducirlo en un puré fino, agregando la sal de apio y reservar.

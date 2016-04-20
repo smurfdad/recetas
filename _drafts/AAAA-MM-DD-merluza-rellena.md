@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 merluza de 1,5 kg.
 
 1/2 kg. de salmón fresco
@@ -46,7 +45,6 @@ Aceite y sal
 Unas ramitas de perejil
 
 <h3>Preparación</h3>
-
 Una vez limpia la merluza , ábrela por la mitad retirándole la espina central . Sazona y cubre con las hojas de espinaca previamente escaldadas. A continuación , coloca encima el salmón cortado en tiras.
 
 Cierra la pieza de merluza y átala con una cuerda de liz.

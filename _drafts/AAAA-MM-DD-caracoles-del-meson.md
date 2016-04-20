@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2kg de Caracoles
 
 2 chorizos
@@ -57,6 +56,5 @@ Pimienta
 Sal
 
 <h3>Preparación</h3>
-
 Lavar los caracoles con sal hasta que no suelten nada de broza. Poner a cocer los caracoles en una cazuela con agua fría y añadir el laurel, el ajo y cebolla. Espumar mientras se cuecen durante 1 hora. En una cazuela aparte poner el aceite. Picar muy fino la cebolla, el jamón y el chorizo y rehogar bien y reservar al calor. Cortar la panceta picada a cuadraditos pequeños, freír en una sartén y reservar. En esa misma grasa freír las rebanadas de pan cortadas en cuadrados con el vinagre para hacer los picatostes. En la cazuela donde tenemos el jamón y el chorizo agregar los caracoles bien escurridos, la majada y el caldo blanco. Dejar hervir 15 minutos aproximadamente. Rectificar de sal. Poco antes de servir, batir los huevos y añadir a los caracoles para ligar la salsa. Servir en cazuela de barro.
 

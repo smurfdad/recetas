@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina (175g) de queso philadelphia
 
 1 Kg de cinta de lomo de cerdo
@@ -38,7 +37,6 @@ Para 6 personas.
 3 cucharadas de mantequilla
 
 <h3>Preparación</h3>
-
 Se hacen 12 de cortes en la cinta de lomo, en filetes pero sin llegar a cortar hasta el final; deberán quedar en forma de limón. Se va metiendo en cada corte un trozo de piña, otro de bacon y queso Philadelphia.
 
 Se embrida bien para que no se desmorone, se unta con mantequilla y se mete en el horno durante 40 min. a temperatura bastante fuerte.

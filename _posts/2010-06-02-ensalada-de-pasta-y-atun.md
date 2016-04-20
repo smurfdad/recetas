@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 tazas de fideos cocidos
 
 2 latas de atún en agua (escurrido)
@@ -27,5 +26,4 @@ Para 4 personas.
 4 tazas de lechuga romana
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes excepto la lechuga en un bowl, servir sobre la lechuga.

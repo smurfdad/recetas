@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 50 gr de mantequilla
 
 100 gr de queso roquefort
@@ -28,12 +27,10 @@ categories:
 200 ml de nata liquida
 
 <h3>Preparación</h3>
-
 Poner la mantequilla junto con el queso en una cazo, para que se vaya deshaciendo despacio.
 
 Una vez diluido, incorporar la nata mezclando con la varilla y a fuego lento hasta que la salsa adquiera la consistencia deseada.
 
 <h3>Observaciones</h3>
-
 Esta salsa es utilizada como acompañamiento de carnes a la plancha.
 

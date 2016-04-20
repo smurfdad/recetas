@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 2 tazas de arroz
 
 50 gr. de queso parmesano rallado
@@ -39,7 +38,6 @@ categories:
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Pique la cebolla muy menuda, sofríala en el aceite hasta dorarla, escurra los champiñones, trocéelos y rehoguelos durante 2 min.
 
 Agregue el caldo de pollo, salpimiente y cuando rompa el hervor agregue el arroz, deje hervir nuevamente, baje la llama al mínimo y tape hasta que consuma todo el liquido.

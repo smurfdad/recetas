@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 taza de nueces quebradas (o cacahuates)
 
 2 tazas de azúcar mascabado
@@ -34,7 +33,6 @@ categories:
 1/4 cucharada cafetera de sal
 
 <h3>Preparación</h3>
-
 Mezcle en un recipiente el azúcar, 1/2 taza de agua, la sal y la leche.
 
 Póngalo a fuego alto, sin dejar de mover, hasta que dé un hervor.

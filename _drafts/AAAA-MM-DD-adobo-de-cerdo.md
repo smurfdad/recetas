@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de lomo de cerdo cortado en trozos
 
 1 cucharadita de pimiento
@@ -42,7 +41,6 @@ Para 6 personas.
 Oregano, comino, sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Macerar por una hora los trozos de cerdo con el vinagre, el pimiento, los ajos y el chile, las hojas de laurel, el oregano, el comino, la sal y la pimienta.
 
 Freir los trozos de cerdo con el jitomate en aceite caliente. Cocer con la olla tapada a fuego lento hasta que este cocida la carne.

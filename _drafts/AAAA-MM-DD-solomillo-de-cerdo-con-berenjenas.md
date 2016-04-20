@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 700 gramos de solomillo.
 
 1 berenjena.
@@ -52,6 +51,5 @@ Perejil picado.
 Sal.
 
 <h3>Preparación</h3>
-
 En una cazuela se pone la mantequilla, el caldo de carne el brandy, el Jerez u Oporto y la sal, y se deja que reduzca a fuego lento, hasta que la salsa espese. Si queda ligera se puede ligar con fécula. Se espolvorea con perejil picado. La berenjena, cortada en lonchas, condimentada y pasada por harina, se fríe, se escurre y se coloca en una fuente de servir. El solomillo, cortado en filetes, se salpimienta, se pasa por pan rallado y se fríe. Una vez frito, se coloca en una fuente de servir, junto con las berenjenas. Por ultimo, se salsea con la salsa bien caliente.
 

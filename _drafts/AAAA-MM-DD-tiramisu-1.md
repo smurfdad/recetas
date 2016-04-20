@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 420 minutos.
 
 <h3>Ingredientes</h3>
-
 1 vaso de azúcar
 
 24 bizcochos blandos, de soletilla
@@ -41,7 +40,6 @@ Para 8 personas.
 500 gramos de queso mascarpone
 
 <h3>Preparación</h3>
-
 Echar un cuarto del azúcar en la nata líquida y montarla, debe estar fría y a ser posible en un recipiente metálico frío, hasta que quede compacta. Separar las claras y las yemas de los huevos. Montar las claras a punto de nieve, mejor si se echan unas gotas de limón o vinagre. Mezclar bien con la batidora el queso mascarpone y las yemas de huevo, añadiendo el resto del azúcar. Cuando el queso y las yemas estén mezclados juntar con la nata montada y las claras a punto de nieve y mezclar todo bien, pero despacio. En el café caliente disolver un tercio del chocolate en polvo y echar un chorrito del licor. Mojar ligeramente en el café preparado, los bizcochos y disponer la mitad de ellos cubriendo el fondo de una fuente. Echar la mitad de la mezcla sobre los bizcochos cubriéndolos uniformemente.
 
 Poner una nueva capa de bizcochos mojados sobre la mezcla. Echar el resto de la mezcla sobre la segunda capa de bizcochos. Espolvorear bien el chocolate en polvo sobre la mezcla. Dejar reposar al menos 6 horas, preferible 24 horas.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo troceado o 6 muslos
 
 1 lata grande de pimientos
@@ -29,7 +28,6 @@ un poco de aceite
 sal, harina
 
 <h3>Preparación</h3>
-
 Echar sal al pollo, pasar por harina y dorar en aceite de oliva.
 
 Sacar el pollo y dorar la cebolla picada.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. carne en una sola pieza (lomito)
 
 130 gr. chocolate
@@ -37,6 +36,5 @@ Para 6 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 En un caldero poner algo de aceite para dorar la pieza de carne, luego agregar la cebolla y dorar, agregar el puré de tomate y el caldo, cocinar tapado a fuego lento hasta que ablande (media hora), luego agregar el chocolate hasta que disuelva menear el caldo y dejar espesar un poco. Acompañar con arroz blanco o puré.
 

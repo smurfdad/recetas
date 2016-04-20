@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 150 gr jamón york
@@ -27,7 +26,6 @@ colorante amarillo
 agua
 
 <h3>Preparación</h3>
-
 Cocer el arroz, con el colorante y el agua.
 
 Una vez cocido reservar.

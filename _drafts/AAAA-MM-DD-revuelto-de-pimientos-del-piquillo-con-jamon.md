@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 pimientos del piquillo rojos
 
 8 pimientos del piquillo verdes
@@ -36,6 +35,5 @@ Para 4 personas.
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 En primer lugar cortamos los pimientos en juliana fina, ponemos una sartén con un poco de aceite y el ajo cortado muy fino, añadimos el jamón cortado en pequeños dados, sobre fuego lento dejamos dorar, añadimos los pimientos y dejamos que se rehoguen, sazonamos de sal, añadimos los huevos y a fuego lento los vamos trabajando hasta cuajar.
 

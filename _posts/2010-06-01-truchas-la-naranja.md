@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 truchas
 
 2 dientes de ajos
@@ -25,7 +24,6 @@ pimienta
 aceite y sal
 
 <h3>Preparación</h3>
-
 Rociamos el fondo de la placa del horno con un chorro de aceite. Colocamos las
 
 truchas limpias y salpimentadas sobre la placa. Picamos muy fino los dientes

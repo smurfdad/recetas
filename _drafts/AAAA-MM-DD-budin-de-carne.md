@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gr. pollo del cocido
 
 300 gr. carne de cocido (morcillo)
@@ -36,6 +35,5 @@ Para 6 personas.
 mantequilla (un poquito)
 
 <h3>Preparación</h3>
-
 Picar las carnes, tanto la de pollo como el morcillo, mezclándolos bien. Añadir el tomate frito y los huevos bien batidos. Mezclar bien toda la pasta resultante. Untar un molde con un poco de mantequilla y poner en él toda la mezcla preparada. Poner al microondas durante aproximadamente 20-30 minutos. Comprobar que ya está hecho pinchándolo. Dejar enfriar y desmoldar como un flan. Colocar en una fuente con un poco de lechuga picada en juliana alrededor. Cubrir con un poco de mayonesa.
 

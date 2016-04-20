@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 calabacín
 
 1 cebolla
@@ -34,6 +33,5 @@ categories:
 3 pimientos choriceros
 
 <h3>Preparación</h3>
-
 Se corta el calabacín y se le da un hervor de dos minutos en agua. Se escurre. Por otro lado hacemos un sofrito con cebolla y pimiento verde cortados finos. Le añadimos bacalao desmigado, lo rehogamos todo y le echamos tomate, carne de pimientos choriceros y dejamos que se haga todo junto. A continuación rellenamos los calabacines con el ajoarriero y decoramos a nuestro gusto.
 

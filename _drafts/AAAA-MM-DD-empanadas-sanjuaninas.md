@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tapa de tarta para horno (ver masas básicas en panadería y repostería)
 
 500g de nalga cortada en escalopes
@@ -50,7 +49,6 @@ Sal y ají molido a gusto
 1 tomate sin piel ni semillas picado
 
 <h3>Preparación</h3>
-
 Cortar la carne en tiritas de &frac12; cm de espesor y luego en cuadraditos.
 
 Calentar en una olla la grasa o manteca, agregar las cebollas picadas, el pimiento morrón y el tomate condimentar con sal. Tapar la cacerola y cocinar a fuego moderado revolviendo de tanto en tanto hasta que estén transparentes pero no doradas. Adicionar la carne revolviendo y cuando cambie de color, retirar la olla del fuego. Condimentar con el ají molido, el pimentón, el comino y más sal si fuera necesario.

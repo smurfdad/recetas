@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 rodaja de atún por cada 2 personas
 
 1/2 vaso de vinagre de modena
@@ -44,7 +43,6 @@ Pimienta negra en grano
 Sal
 
 <h3>Preparación</h3>
-
 Picar ajo y cebolla. Echar por encima de las rodajas de atún, vinagre, aceite, cebolla, ajo, sal y las especias dejar como mínimo dos horas en la nevera.
 
 Después freír a la plancha sin aceíte, porque ya lo lleva la salsa.

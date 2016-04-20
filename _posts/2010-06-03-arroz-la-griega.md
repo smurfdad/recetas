@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr arroz
 
 5 salchichas tipo Frankfurt
@@ -23,7 +22,6 @@ Para 4 personas.
 1 cebolla
 
 <h3>Preparación</h3>
-
 Cocer el arroz con agua y un poco de sal.
 
 Una vez cocido, lavarlo y escurrirlo. Reservar.

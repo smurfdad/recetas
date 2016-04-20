@@ -23,7 +23,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 pollo grande deshuesado
 
 2 cebollas troceadas
@@ -37,7 +36,6 @@ pollo grande deshuesado
 1/4 de l. de caldo de pescado (puede ser de pastilla)
 
 <h3>Preparación</h3>
-
 Saltear las gambas con la cebolla y los tronquitos. Dejar enfriar. Pelar las gambas, quitarles la cabeza.
 
 Extended la carne del pollo sobre el mármol; sazonar con sal y pimienta y rellenad con el sofrito, colocando los tronquitos a lo largo y las gambas intercaladas. Atar el pollo como si fuese un redondo de carne y saltear en aceite bien caliente, regando a continuación con el coñac.

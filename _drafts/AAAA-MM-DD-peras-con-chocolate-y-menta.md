@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 peras
 
 menta
@@ -34,6 +33,5 @@ azucar
 cacao
 
 <h3>Preparación</h3>
-
 Pelar y escalfar las peras en agua con azúcar, menta y zumo de limón. Cuando estén bien tiernas, retirar y dejar enfriar. Cortarlas en cuartos. Espolvorear con cacao y algunas hojas de menta fresca.
 

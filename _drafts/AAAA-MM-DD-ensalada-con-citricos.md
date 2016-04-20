@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 manzana verde
 
 1 planta de lechuga
@@ -43,7 +42,6 @@ Sal y pimienta
 Canela
 
 <h3>Preparación</h3>
-
 Lavar y escurrir la lechuga y acomodar sobre un plato en forma de colchón.
 
 Pelar y cortar la manzana, el pomelo y las naranjas en trocitos de 0,5 cm rociarlos con el jugo de limón y ubicarlos sobre el colchon de lechuga.

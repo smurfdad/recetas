@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 16 alitas de pollo
 
 sal y pimienta
@@ -41,7 +40,6 @@ ajo y perejil a gusto
 una pizca de pimentón
 
 <h3>Preparación</h3>
-
 Corta la punta de las alitas (la ultima articulacion)
 
 Deshuesar hasta llegar a la otra articulacion dejando el huesito de la última parte.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 endibias.
 
 100 gramos de gambas peladas.
@@ -49,7 +48,6 @@ Vinagreta guarnecida:
 Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos, lavamos y secamos las hojas de endibia.
 
 Salteamos las gambas peladas en una sartén con unas cucharadas de aceite caliente.

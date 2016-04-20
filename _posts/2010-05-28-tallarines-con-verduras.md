@@ -11,7 +11,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. tallarines
 
 1 chorro de aceite de oliva
@@ -31,7 +30,6 @@ Para 6 personas.
 sirve cualquier verdura que sea larga
 
 <h3>Preparación</h3>
-
 Cocer los tallarines como indica el paquete.
 
 En una cazuela baja que sirva para sacar a la mesa rehogar la cebolla con el bacon.

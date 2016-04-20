@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Salchichas
 
 Lonchas de queso
@@ -34,6 +33,5 @@ Pan rallado
 Aceite
 
 <h3>Preparación</h3>
-
 Enroscar alrededor de cada salchicha 1 loncha de queso y otra de jamón york. Pasarla por huevo batido, luego pan rayado, freír y ya está.
 

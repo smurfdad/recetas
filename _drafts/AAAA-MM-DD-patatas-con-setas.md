@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de patatas
 
 1 Cebolla
@@ -44,7 +43,6 @@ Para 4 personas.
 aceite, sal y pimentón.
 
 <h3>Preparación</h3>
-
 Pelar y trocear las patatas. Pelar y picar la cebolla. Cortar en dados el pimiento y el chorizo
 
 En una cazuela de barro, calentar aceite y rehogar la cebolla hasta que este transparente. A continuación añadir el pimiento, las patatas y las setas. Rehogar de 8 a 10 minutos. Añadir el pimentón y remover para que no se queme.

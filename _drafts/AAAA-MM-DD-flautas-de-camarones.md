@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 paquete de tortillinas tía rosa de harina.
 
 300 grs. de camarones semicocidos pelados
@@ -38,7 +37,6 @@ aceite lo suficiente.
 un ajo machacado.
 
 <h3>Preparación</h3>
-
 Se pican finamente todos los ingredientes, se sazonan con la sal y la pimienta, despues, se mezclan con la mantequilla y espera que se concentren todos los ingredientes con el ajo machacado. y espera.
 
 Mientras van destendiendo las tortillinas de harina, para ponerle un poco de la mezcla preparada a cada una de las torillinas y se enredan como un taco, sosteniendolo con un palillo.

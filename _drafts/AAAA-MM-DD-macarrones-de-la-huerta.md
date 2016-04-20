@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350g de macarrones
 
 2 ají morrón medianos
@@ -43,7 +42,6 @@ Para 4 personas.
 250 de queso parmesano rallado
 
 <h3>Preparación</h3>
-
 Poner los morrones en una asadera o plancha sobre fuego para pelarlos, quitarles las semillas y las nervaduras blancas y cortarlos en tiras.
 
 Colocar en una cacerola abundante agua salada a hervir. En una sartén antiadherente colocar el aceite de oliva y la manteca, el ajo e inmediatamente las flores de broccolis y las chauchas cocidas, los morrones y condimentar con sal y pimienta.

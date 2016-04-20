@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500g de coditos
 
 150g de panceta ahumada cortada en cubitos
@@ -43,5 +42,4 @@ Sal y pimienta.
 50g de manteca
 
 <h3>Preparación</h3>
-
 Preparar una olla con agua salada a hervir. En una sartén grande coloque el aceite de oliva y 50g de manteca, caliéntelos a fuego máximo, salpimentar la carne y saltearla junto con la panceta y los champiñones, 2 ó 3 minutos de cada lado, luego incorporar el coñac y flambear para desglasar, agregar el vino blanco con el extracto de carne disuelto y dejar reducir. A continuación agregar el caldo con el curry y el pimentón disueltos, agregar la crema de leche condimentar con sal y pimienta negra de molinillo, mantener a fuego mínimo tapado. Cocinar la pasta en el agua hirviendo colar un minuto antes de que estén a punto y volcar en la sartén con la salsa y salter1 minuto. Se pueden servir en cazuelas individuales.

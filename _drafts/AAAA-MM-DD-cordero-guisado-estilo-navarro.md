@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,750 kg. de pierna o paletilla de cordero troceada
 
 1 tomate maduro hermoso
@@ -48,7 +47,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Se pone en una cazuela aceite y manteca de cerdo. Cuando esté bien caliente, se fríe la corteza de pan hasta que quede dorada. Se saca y se reserva. En esa misma grasa se ponen los trozos de cordero, bien limpios y secos, y sazonados con sal y pimienta. Se rehogan bien.
 
 Se añaden el tomate pelado y picado y la media cucharada de pimentón. Se rehoga todo junto a fuego suave para que no se agarre. Una vez bien sofrito el conjunto, se cubre con el caldo de carne y se pone a hervir con tapadera, durante 40 minutos, hasta que esté bien tierno el cordero.

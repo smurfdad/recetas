@@ -25,7 +25,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 100 gr. de cebolla pelada y picada
 
 2 dientes de ajo
@@ -57,6 +56,5 @@ Media copa de brandy de Jerez
 Una cucharada de harina
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla y el ajo en el aceite. Añadir el tomate, remover y dejar estofar. Espolvorear con la harina, remover y añadir el brandy y el vino, evaporar. Añadir el caldo y hervir diez minutos lentamente. Agregar el pescado y el marisco. Cocer cinco minutos. Rectificar de sal. Servir con el arroz y el perejil picado por encima.
 

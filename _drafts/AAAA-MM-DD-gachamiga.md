@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de magro de cerdo
 
 400 gr. de higado
@@ -46,7 +45,6 @@ canela
 1/4 kg de harina
 
 <h3>Preparación</h3>
-
 Se parte la carne a trozos, sazonándola y friéndola en abundante aceite, separando la carne una vez frita. En el aceite que ha quedado, se echa la harina, dándole vueltas hasta que se torre.
 
 En un mortero, se pican los ajos y la mitad de&iexcl; hígado, se añade agua y las especias, echando todo en la sartén, dando vueltas hasta que se va el aceite. La masa debe quedar granillosa.La gachamiga se come en la sartén, mojando trozos de pan.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes grandes de trucha
 
 2 cebolletas
@@ -35,7 +34,6 @@ pimienta
 perejil picado
 
 <h3>Preparación</h3>
-
 Pica las cebolletas y los dientes de ajo. Ponlos a dorar en una cazuela con un poco de aceite. Añade la harina y rehoga brevemente.
 
 Vierte el vino y el caldo de los espárragos. Espolvorea con un poco de perejil picado y mueve suavemente hasta que espese.

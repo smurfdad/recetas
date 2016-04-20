@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo cortadas en listas
 
 4 lascas de jamón cortados en listitas
@@ -46,7 +45,6 @@ agua
 sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 En un sartén sofría las pechugas hasta que comience a cambiar de color, añada el jamón, la cebolla y el ajo.
 
 Sofría a fuego alto moviendo continuamente por 1 o 2 minutos.

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 2 Cebollas grandes
 
 3 Tomates grandes
@@ -36,6 +35,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Pelar la cebolla, la picamos en juliana muy fina). La lavamos bajo el chorro de agua con un poco de sal para que se le vaya un poco el sabor fuerte. Esto en Chile se conoce como amortiguar. La reservamos. Pelamos el tomate, lo picamos en daditos pequeños y lo ponemos en una ensaladera. Le añadimos la cebolla ya escurrida. Lo mezclamos muy bien, le ponemos aceite y sal. Picamos el perejil muy finamente y le espolvoreamos sobre nuestra ensalada a la chilena. Consumir preferentemente acompañado de Charquicán, Porotos con riendas o bien en una calurosa tarde con una marraqueta muy crujiente.
 

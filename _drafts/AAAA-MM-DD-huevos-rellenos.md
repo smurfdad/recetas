@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 7 huevos
 
 2 porciones de quesitos
@@ -34,6 +33,5 @@ Para 4 personas.
 1 lechuga
 
 <h3>Preparación</h3>
-
 Cocer seis huevos durante 10 ó 12 minutos. Refrescarlos con agua fría y pelarlos en cuanto estén fríos. Partirlos horizontalmente y sacar las yemas que se irán colocando en un recipiente, machacarlas. Abrir la lata de bonito y escurrir el aceite, mezclar con las yemas, añadir la nata y las porciones de queso. Machacar con un tenedor, mezclándolo bien, rectificar de sal. Rellenar las claras con esta mezcla. Lavar la lechuga y cortarla en tiras finitas, cubrir con ella el fondo de una fuente y poner los huevos encima. Por último hacer una mayonesa casera y cubrir los huevos con ésta.
 

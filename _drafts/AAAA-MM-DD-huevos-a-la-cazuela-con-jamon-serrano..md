@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos.
 
 4 lonchas de jamón serrano.
@@ -38,7 +37,6 @@ Sal.
 Salsa de tomate o frito.
 
 <h3>Preparación</h3>
-
 Preparamos 4 cazuelitas de barro pequeñas de las denominadas de ración. En el fondo de estas cazuelitas colocamos unas tiras de pimiento rojo, una cucharada de aceite de oliva y unas tiras de jamón serrano y un par de cucharadas de tomate.
 
 Encima del pimiento y del jamón cascamos el huevo.

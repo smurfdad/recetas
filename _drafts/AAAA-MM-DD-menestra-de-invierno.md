@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 espinacas (pencas)
 
 judías verdes
@@ -44,7 +43,6 @@ borraja
 bacon (en trozos grandes)
 
 <h3>Preparación</h3>
-
 En primer lugar se cuece cada una de las verduras por separado y se guarda el caldo de cocción de los cardos que se añadirá a la menestra.
 
 Se dora el bacon partido en trozos grandes en un poco de aceite y cuando esté hecho se añade el caldo de los cardos y dos cucharadas de harina. Se rehoga la harina sin quemarla para conseguir la salsa de la menestra y se deja cocer un poco para quitar el sabor de la harina.

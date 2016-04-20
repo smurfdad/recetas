@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 patatas
 
 1/2 kilo bacalao
@@ -48,7 +47,6 @@ PARA LA SALSA:
 1 pizca de azúcar
 
 <h3>Preparación</h3>
-
 Poner el bacalao a desalar durante dos días, cambiándole el agua tres veces al día.
 
 Una vez desalado ponerlo en una cazuela con un poco de agua y cocerlo.

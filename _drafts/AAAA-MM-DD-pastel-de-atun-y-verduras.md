@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gramos de atún en aceite.
 
 2 huevos.
@@ -44,7 +43,6 @@ Para 4 personas.
 Mayonesa para acompañar
 
 <h3>Preparación</h3>
-
 Pasamos por la batidora el atún, los huevos ligeramente batidos, las rebanadas de pan de molde, la salsa de tomate, el coñac, la sal y la pimienta formando una crema homogénea.
 
 Troceamos la zanahoria cocida y las vainas cocidas en tiras finas.
@@ -56,6 +54,5 @@ Introducimos 12 a 14 minutos a 75% de potencia en el microondas.
 Desmoldamos y una vez frio se puede acompañar con mayonesa, unos pepinillos..
 
 <h3>Observaciones</h3>
-
 Se puede utilizar como aperitivo cortándolo y colocándolo sobre rebanadas de pan tostado.
 

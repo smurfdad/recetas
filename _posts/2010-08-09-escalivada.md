@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 4 berenjenas grandes
 
 8 pimientos rojos de carne gruesa
@@ -19,7 +18,6 @@ categories:
 Sal
 
 <h3>Preparación</h3>
-
 Asar las berenjenas y los pimientos a la brasa o al horno. Al sacarlos, mantenerlos 15 minutos en un recipiente tapado.
 
 Quitarles la piel y las semillas a los pimientos. Pelar las berenjenas retirando también la parte del tallo. Pelar y picar los ajos.

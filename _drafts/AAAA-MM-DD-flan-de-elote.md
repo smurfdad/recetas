@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de granos de elote
 
 1 barra de mantequilla o margarina
@@ -34,6 +33,5 @@ Para 6 personas.
 1 lata de leche condensada
 
 <h3>Preparación</h3>
-
 Todos los ingredientes se licúan y se vacian a un molde refractario, se mete al horno a temperatura media y se deja unos 30 min. Se comprueba con un palillo de dientes que ya esté cocido. Se sirve frío.
 

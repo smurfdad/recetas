@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 8 chuletas de cerdo.
 
 Aceite.
@@ -49,7 +48,6 @@ Medio vaso de nata líquida.
 Sal.
 
 <h3>Preparación</h3>
-
 Hacemos la salsa pochando en aceite la cebolleta picada y el perejil, también picado, añadiendo el caldo y la nata.
 
 Lo dejamos cocer unos minutos y lo trituramos todo, pasándolo luego por el chino si se desea que la salsa quede más fina. Rectificamos de sal. A continuación freímos las chuletas salpimentadas y las servimos acompañadas con la salsa en el fondo y unos pimientos rojos fritos.

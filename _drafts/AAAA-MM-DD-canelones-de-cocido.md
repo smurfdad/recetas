@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Carne cocida: lacón, ternera, costilla... sobrante del cocido
 
 Caldo limpio: 700 cc.
@@ -40,6 +39,5 @@ Queso rallado
 Canelones: 20 placas
 
 <h3>Preparación</h3>
-
 Preparamos una velouté (como si fuese una bechamel pero sustituyendo la leche por un caldo de carne, de pescado o de verduras) de carne con harina, mantequilla y caldo limpio y cuando la tenemos lista le incorporamos la carne sobrante del cocido bien picada. Cocemos diez minutos en agua hirviendo los canelones y los refrescamos. Rellenamos los canelones con la carne y los colocamos sobre una bandeja con fondo de salsa de tomate. Preparamos una bechamel con harina, mantequilla y leche y cubrimos los canelones. Añadimos queso rallado y unos trocitos de mantequilla para que se gratine uniformemente. Gratinamos y servimos muy caliente
 

@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 manzana verde
 
 3 ramas de apio (celery)
@@ -33,6 +32,5 @@ categories:
 100 cc de mayonesa
 
 <h3>Preparación</h3>
-
 Cortar todo en cubitos y preparar la salsa con la crema y la mayonesa. Salpimentar, servir fría.
 

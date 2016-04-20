@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 3 patatas medianas hervidas con cáscara
 
 100g de apio picado
@@ -39,7 +38,6 @@ Aceite de oliva
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Se quita las cascaras a las patatas, se las corta en daditos y se mezclan con el apio y la cebolla.
 
 Realizar un preparado de aceite de oliva, mayonesa, crema de leche, mostaza, pimienta y sal (que quede líquido) batiendo bien con un tenedor.

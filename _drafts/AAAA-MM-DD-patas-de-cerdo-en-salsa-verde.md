@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 patas de cerdo
 
 2 cebollas
@@ -42,7 +41,6 @@ agua
 sal
 
 <h3>Preparación</h3>
-
 Poner las patas a cocer con agua y sal.
 
 Una vez cocidas escurrirlas y dejarlas enfriar.

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs de arroz
 
 175 grs de garbanzos puestos a remojo la noche anterior
@@ -28,7 +27,6 @@ Sal
 Agua
 
 <h3>Preparación</h3>
-
 En una cazuela ponemos a cocer en agua fria (unos dos litros) y sal, los garbanzos escurridos. Los dejamos cocer hasta que queden tiernos.
 
 En una cazuela de barro resistente al fuego, vertemos el aceite y lo calentamos un poco, añadimos el arroz y las pasas, y lo rehogamos todo durante un par de minutos.

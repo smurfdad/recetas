@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 palitos de cangrejo
 
 300 gr. gambas peladas
@@ -24,7 +23,6 @@ Para 6 personas.
 Pasta de canelones
 
 <h3>Preparación</h3>
-
 Es muy fácil. Sólo tienes que poner todos los ingredientes en un recipiente y los trituras. Enrollas los canelones.
 
 Se sirven fríos con salsa rosa. La cantidad de los ingredientes va al gusto del consumidor.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 rodajas pan de molde
 
 6 huevos
@@ -17,7 +16,6 @@ Para 6 personas.
 1/4 salsa de tomate
 
 <h3>Preparación</h3>
-
 Se corta el pan de molde en redondeles más bien grandes.
 
 En el centro de estos redondeles se hace un hueco donde se van colocando las yemas de los huevos.

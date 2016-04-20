@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia a las finas hierbas
 
 4 rodajas de salmón
@@ -46,7 +45,6 @@ pimienta
 lima
 
 <h3>Preparación</h3>
-
 Macera el salmón salpimentado en el zumo de limón durante 1 hora (dar la vuelta)
 
 En una cazuela de horno poner la manteuilla, la cebolla, el ajo y la salvia y hornear a 200&ordm; durante 3 min. Añadir la sidra y hornear 1 min.A continuación añadir a la mezcla la nata y el queso y mezclar.

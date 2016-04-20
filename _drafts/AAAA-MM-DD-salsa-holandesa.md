@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 gr de mantequilla
 
 2 yemas de huevo
@@ -30,10 +29,8 @@ sal
 zumo de 1/2 limón
 
 <h3>Preparación</h3>
-
 Montar las yemas con el limón al baño María, una vez montadas ir incorporando la mantequilla en chorro fino, batiendo enérgicamente.
 
 <h3>Observaciones</h3>
-
 Como acompañamiento de pescados y hortalizas hervidos.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 300 gr. de solomillo
 
 sal de ajo
@@ -34,6 +33,5 @@ mantequilla
 1 loncha de bacón
 
 <h3>Preparación</h3>
-
 Se limpia el solomillo, eliminando nervios y grasa. Se corta dándole forma de medallón y se condimenta con sal de ajo, las espacias, mantequilla y sal. Se envuelve el medallón rodeándolo con la tira de bacón y se asa a fuego lento, sobre la placa de su cocina eléctrica.
 

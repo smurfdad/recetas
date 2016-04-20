@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 dientes de ajo pelados
 
 300/400 gr. de sepia limpia
@@ -41,7 +40,6 @@ Para 6 personas.
 una pizca de pimienta
 
 <h3>Preparación</h3>
-
 Sofreir en una sartén 2 dientes de ajo pelados y la cebolla troceada en trocitos pequeños.
 
 Cortar la sepia en daditos pequeños y añadir a la sartén, sofreir la sepia añadiendo el vasito de vino blanco y la tinta de calamar. Cocer a fuego lento y añadir una pastilla de caldo concentrado de pescado.

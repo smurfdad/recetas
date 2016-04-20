@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 70 minutos.
 
 <h3>Ingredientes</h3>
-
 1 1/2 k de costillitas de puerco
 
 1 1/2 barras de mantequilla
@@ -51,7 +50,6 @@ Para 4 personas.
 2 dientes de ajo picaditos
 
 <h3>Preparación</h3>
-
 Se ponen a hervir 2 litros de agua con ajo y cebolla (al gusto, independientemente de la cebolla y el ajo picados para la salsa) y ahi se meten las costillas a cocer por 20 minutos.
 
 Aparte se derrite la mantequilla y se le agregan los demas ingredientes (expecto las costillas).

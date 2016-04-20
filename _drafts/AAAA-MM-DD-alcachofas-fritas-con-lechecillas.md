@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 k de alcachofas
 
 300 g de lechecillas
@@ -39,6 +38,5 @@ Para 4 personas.
 sal gris
 
 <h3>Preparación</h3>
-
 Blanquear las lechecillas dejándolas toda la noche en agua. Escaldar las lechecillas en agua con una hoja de laurel y ajo durante 3 minutos. Cortar las lechecillas a cuadrados. Cortar los ajos tiernos a bastoncillos finos. Cortar las alcachofas muy finas y freírlas en aceite muy fuerte. Cuando estén casi doradas incorporar las lechecillas y los ajos tiernos. Colar y servir. Añadir un poco de sal gris.
 

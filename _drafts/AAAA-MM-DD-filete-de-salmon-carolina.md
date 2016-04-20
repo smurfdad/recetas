@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 1 filete ó lonja de salmon
 
 2 manojo de esparragos frescos
@@ -51,7 +50,6 @@ ajo picado finamente
 mantequilla
 
 <h3>Preparación</h3>
-
 Precalentar el horno a 175&deg; por espacio de 10 minutos.
 
 Se engrasa previamente una pavera con el aceite de oliva y se acomoda la lonja de salmón con la piel hacia abajo.

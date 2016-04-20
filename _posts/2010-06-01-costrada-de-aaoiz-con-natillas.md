@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 l. de crema pastelera
 
 200 gr. de azúcar
@@ -29,7 +28,6 @@ natillas
 canela en polvo
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes en este orden:
 
 huevos, azúcar, mantequilla, margarina y harina. Después, se coloca la masa en un molde de pastelería cubriendo todo el fondo. Seguidamente, se coloca la crema pastelera y se termina cubriendo con otra capa de la masa ya citada. Se introduce en el horno a 180º durante 50 minutos.

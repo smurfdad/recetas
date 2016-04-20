@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Un cogollo de lechuga por persona
 
 Ajos picados finamente
@@ -34,7 +33,6 @@ Pimentón
 Sal.
 
 <h3>Preparación</h3>
-
 Se cortan las puntas de la lechuga, un poco el tallo, procurando que queden juntas las hojas. Se cortan en cuatro a lo largo.
 
 Los ajos se doran en aceite, se le añade vinagre y pimentón, también sal.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg de alubias verdes
 
 1/2 kg de zanahorias
@@ -37,7 +36,6 @@ nuez moscada
 sal
 
 <h3>Preparación</h3>
-
 Se limpian las verduras se lavan y cuecen por separado. Tienen que quedar al dente Se unta un molde, tipo plum-cake, generosamente, con mantequilla y se espolvorea con pan rallado.
 
 En un cazo se derrite la mantequilla, se estofa la cabolla menuda, se añade la harina, la leche caliente y se hace una bechamel. Se añade parte del caldo de cocer las zanahorias y las alubias, se sazona y se deja que cueza cinco minutos, con la placa al mínimo.

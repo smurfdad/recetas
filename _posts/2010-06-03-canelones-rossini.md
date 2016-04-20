@@ -10,7 +10,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 caja de canelones
 
 300 gr carne picada
@@ -46,7 +45,6 @@ PARA NAPAR:
 1/2 litro de leche
 
 <h3>Preparación</h3>
-
 Picar fina la cebolla y el ajo.
 
 Poner en una cazuela los 60 gr de mantequilla y rehogar la verdura.

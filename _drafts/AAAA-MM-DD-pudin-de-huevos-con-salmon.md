@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gramos de salmón fresco.
 
 1/4 litro de nata líquida.
@@ -38,7 +37,6 @@ Pimienta blanca.
 Mayonesa y salsa rosa.
 
 <h3>Preparación</h3>
-
 En un molde rectangular untamos la mantequilla y en el fondo colocamos un poco de pan rallado.
 
 En una batidora ponemos los huevos, la nata, sal y pimienta y trituramos hasta formar una crema uniforme.

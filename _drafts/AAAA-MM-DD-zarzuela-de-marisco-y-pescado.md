@@ -22,7 +22,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 800 gr. de calamres en trozos
 
 500 gr.de gambas
@@ -58,7 +57,6 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Lavar bien las almejas y los mejillones. Cocerlos en recipientes aparte en un vaso de agua cada uno, hasta que se abran. Colar el caldo de cocción y reservarlos. Retirar las conchas a los mejillones y la mitad vacía de las almejas. Cocinar en agua con sal las gambas y las cigalas durante 8 minutos.
 
 Retirar, reservar el caldo de cocción y colarlo. Una vez fríos, se pelan y se reservan. Unir los tres caldos de cocción y poner al fuego. Reducir a 100 ml. y reservar. Rehogar en una sartén con aceite la cebolla y los ajos. Añadir el azafrán, el tomate y el laurel. Dejar cocer unos minutos.

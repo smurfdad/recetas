@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo
 
 1 caja de nata
@@ -39,7 +38,6 @@ Pimienta
 Aceite
 
 <h3>Preparación</h3>
-
 En un recipiente de barro, se colocan las 4 lonchas de jamón y se rocían con aceite y se colocan los 100grs. de queso repartidos proporcionalmente. Seguidamente se ponen las pechugas salpimentadas y se baña todo con la nata.
 
 Se precalienta al horno a 170 grados y se coloca la fuente de barro al horno . Se tiene sobre 30 minutos comprobando de vez en cuando la cocción.

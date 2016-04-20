@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 90 minutos.
 
 <h3>Ingredientes</h3>
-
 1 magret de pato.
 
 1 decilitro de vino de Oporto.
@@ -41,7 +40,6 @@ Sal.
 150 gramos de azúcar.
 
 <h3>Preparación</h3>
-
 Pelamos la fruta y ponemos a cocer cada fruta por separado con su peso en azúcar a fuego suave.
 
 En una sartén hacemos a la plancha el magret, cuadriculando antes con un cuchillo la parte de la grasa.

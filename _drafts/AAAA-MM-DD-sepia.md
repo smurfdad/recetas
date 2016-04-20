@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 sepias pequeñas
 
 ajo muy picado
@@ -34,6 +33,5 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Se hace la sepia a la plancha con aceite y sal. Cuando esté dorada se retira y se cubre con la vinagreta por encima
 

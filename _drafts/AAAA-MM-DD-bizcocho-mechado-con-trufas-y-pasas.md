@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de queso fresco
 
 3 huevos
@@ -36,10 +35,8 @@ Para 4 personas.
 mantequilla
 
 <h3>Preparación</h3>
-
 Se separan las yemas y se baten incorporando poco a poco el azúcar, a continuación se va añadiendo la harina lentamente hasta conseguir una masa homogénea. Con posterioridad se incorporan las claras previamente batidas a punto de nieve, y la levadura, sin dejar de batir. Se forra un molde con papel de aluminio y se untan bien las paredes y el fondo con margarina. Se vierte la masa en el molde y en el momento de meterlo al horno, previamente calentado a 200 grados, se le añaden las pasas y la trufa. Cuando empieza a esponjar se baja el horno a 100 grados. Es imprescindible no abrir el horno. Tiempo de cocción 30 minutos.
 
 <h3>Observaciones</h3>
-
 Se sirve acompañado de crema pastelera blanda o natillas espesa al gusto. Se recomienda también con mermelada de mora o frambuesa.
 

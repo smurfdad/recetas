@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 trozos de bacalao desalado
 
 500 grs de alcachofas
@@ -42,7 +41,6 @@ aceite de oliva virgen
 sal
 
 <h3>Preparación</h3>
-
 Se limpian, se trocean y se fríen las alcachofas. Se reservan. En un mortero se machacan las avellanas y las almendras hasta conseguir una pasta uniforme.
 
 Se enharina ligeramente el bacalao, perfectamente escurrido y se frie ligeramente. Se reserva el bacalao en un plato

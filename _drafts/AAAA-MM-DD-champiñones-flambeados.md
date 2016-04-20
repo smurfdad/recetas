@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 12 champiñones grande
 
 75 gr. de mantequilla
@@ -36,6 +35,5 @@ pimienta
 1 copa de coñac
 
 <h3>Preparación</h3>
-
 Limpie bien los champiñones, y quíteles el tallo. En el interior, ponga el ajo picado y el perejil, junto con un poco de sal y pimienta. Póngalos sobre la placa de su cocina eléctrica, rociándolos con 40 gr. de mantequilla fundida, durante 10 6 12 minutos, a fuego moderado. Póngalos sobre un plato caliente, vierta sobre ellos la copa de coñac, y, al momento de servirlos, prenda fuego al coñac.
 

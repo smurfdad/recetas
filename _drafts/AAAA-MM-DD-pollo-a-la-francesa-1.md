@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo de 1,5 a 2k cortado en cuatro
 
 150g de manteca
@@ -37,7 +36,6 @@ Aceite de oliva
 250cc de oporto o jerez
 
 <h3>Preparación</h3>
-
 En una cacerola de teflón se coloca la manteca y un chorro de aceite de oliva, luego se hacen capas de aceitunas y apios se salpimienta y se agrega el jerez y arriba de todo las presas del pollo, si se seca demasiado se puede agregar caldo de pollo.
 
 Se tapa la cacerola y se deja 70 minutos sin revolver. Se retiran las presas a un costado y en una fuente de servir se colocan las aceitunas y los apios y encima las presas del pollo.

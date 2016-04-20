@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 tapas para empanadas
 
 Para el relleno
@@ -42,7 +41,6 @@ Para el relleno
 1cuchara de perejil picado
 
 <h3>Preparación</h3>
-
 En una sartén con dos cucharas de aceite rehogar la cebolla, el tomate, las berenjenas y el ajo, condimentar con sal y pimienta y dejar que se cocine a fuego bajo hasta que e haga una salsa espesa, apagar el fuego y agregar la cuchara de perejil picado.
 
 En un recipiente mezclar la preparación con la mozzarella y las aceitunas y rellenar los discos con una cucharada de la preparación humedecer los bordes con agua cerrar las empanadas haciéndoles el repulgo y llevar al horno caliente sobre una placa enmantecada hasta que estén doradas pintarlas con un poco de huevo batido y agua.

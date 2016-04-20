@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 truchas de 250 g cada una
 
 150 g. de nueces
@@ -38,6 +37,5 @@ perejil
 20 g. de tomillo en polvo
 
 <h3>Preparación</h3>
-
 Se limpian las truchas, se salan y se introducen las ramitas de tomillo en su interior. Se pone el aceite en una sartén y, cuando esté caliente, se le añaden las truchas, dorándolas bien por ambos lados. Se agregan las nueces y el tomillo en polvo y se terminan de cocer en el horno.
 

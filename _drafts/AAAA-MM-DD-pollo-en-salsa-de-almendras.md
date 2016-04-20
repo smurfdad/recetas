@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 27 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de pechuga de pollo cortada en daditos (se puede sustituir por cualquier otro tipo de carne).
 
 4 dientes de ajo.
@@ -46,7 +45,6 @@ Una pastilla de Avecrem
 Sal
 
 <h3>Preparación</h3>
-
 LA CARNE:
 
 Sazonamos la carne al gusto, incluyendo las especias que mas nos gusten, y la sofreimos un poco.
@@ -72,6 +70,5 @@ Cuando haya desaparecido casi todo el vino de la carne, echamos la salsa y remov
 Y ya está. Se puede servir acompañada de patatas fritas o cualquier otra cosa que nos guste como guarnicion.
 
 <h3>Observaciones</h3>
-
 Es un plato sencillo, se prepara rapidamente y admite muchas variaciones en cuanto al tipo de carne o las especias.
 

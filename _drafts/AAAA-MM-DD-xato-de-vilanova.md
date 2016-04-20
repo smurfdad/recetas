@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Para el plato:
 
 2 escarolas
@@ -53,10 +52,8 @@ Sal
 Vino (Opcional)
 
 <h3>Preparación</h3>
-
 Picar en un mortero los dientes de ajo con la sal, para que no salten. Una vez bien machacados, ir añadiendo las almendras y las avellana y trabajarlo todo junto hasta que forme una pasta homogénea. Raspar la parte interior de las ñoras escaldadas o maceradas con vino y añadir la pulpa obtenida al mortero. Una vez todo homogeneizado, poner la miga del pan empapada de vinagre, un poco escurrida, y continuar trabajándolo. Una vez listo, añadir lentamente el aceite y vino de la maceración de las ñoras (a voluntad), mientras se remueve, tambien lentamente, para dar a la salsa la consistencia deseada. En una bandeja, colocar la escarola bien escurrida y un poco de salsa, removiendo bieny sirviéndolo después en los platos. Allí se acompaña con el atún, el bacalao, las anchoas y las aceitunas, y se deja que cada comensal, a su gusto, se ponga un poco mas de salsa.
 
 <h3>Observaciones</h3>
-
 Receta típica de Vilanova i la Geltrú.
 

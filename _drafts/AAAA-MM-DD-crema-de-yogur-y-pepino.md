@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 tazas de yogur
 
 2 dientes de ajo machacados
@@ -36,6 +35,5 @@ Para 6 personas.
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Pelar los pepinos y quitarles las semillas. Escurrirlos en un colador y rallarlos. Mezclar con el yogur y sazonar con los ajos machacados, el perejil picado, la sal y la pimienta recién molida al gusto. Acompañar con pan árabe o vegetales crudos picados.
 

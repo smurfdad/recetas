@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para el bizcocho:
 
 4 huevos
@@ -48,7 +47,6 @@ Para la cubierta que absorberá el bizcocho o torta:
 2 medidas de la lata de leche condensada de leche.
 
 <h3>Preparación</h3>
-
 Se baten las yemas con el azúcar y se reservan.
 
 Se montan las claras a punto de nieve, y cuando estén bien firmes se le agregan las yemas con el azúcar, la harina, la fécula, los polvos de hornear o levadura en polvo y finalmente la mantequilla. Se bate por 4 minutos más y se hornea por media hora en un envase rectangular preferiblemente engrasado con mantequilla a una temperatura de 200 grados.

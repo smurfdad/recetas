@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de conejo
 
 1 dl de aceite
@@ -44,7 +43,6 @@ sal
 pimienta negra
 
 <h3>Preparación</h3>
-
 En el aceite dorar el pan de molde y en ese mismo aceite dorar los ajos y las almendras. Sacar del aceite y reservarlo todo.
 
 En ese mismo aceite, rehogar la cebolla finamente picada y el conejo troceado y dejarlo rehogar por espacio de 10 minutos.

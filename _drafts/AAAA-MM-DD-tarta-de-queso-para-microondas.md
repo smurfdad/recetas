@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 l. de leche
 
 1 brik de nata
@@ -38,6 +37,5 @@ Para 6 personas.
 caramelo para untar el molde
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes en la batidora, menos el caramelo con el que se untara un recipiente especial para microondas. Cuando la mezcla sea homogénea se echa al recipiente y se introduce en el microondas a máxima potencia de 10 a 15 minutos dependiendo de la potencia de su microondas. Se saca y se deja enfriar.
 

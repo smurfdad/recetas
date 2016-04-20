@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de habas tiernas
 
 3 tomates gordos y maduros
@@ -39,7 +38,6 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Se pelan las habas tiernas y con mucho aceite, se fríen a fuego lento hasta que se hacen.
 
 Cuando se enfrían, se añaden los tomates pelados y troceados y a continuación las sardinas de bota también troceadas y desrraspadas, en pequeñas porciones.

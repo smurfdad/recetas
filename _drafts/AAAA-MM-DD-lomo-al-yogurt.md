@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 Filetes de lomo.
 
 2 Yogures naturales.
@@ -36,6 +35,5 @@ Aceite.
 Sal.
 
 <h3>Preparación</h3>
-
 Sofreír el lomo en un chorrito de aceite, se echa la cebolla troceada y se deja pochar, hasta que esté transparente. Luego se añaden los yogures, se mueven, y se añade también la pastilla de avecrem. Dejar unos 10 a 15 minutos a fuego medio hasta que el yogur se disuelva. Al sofreír el lomo dejarlo sin terminar de hacer, de forma que al echar la cebolla quede totalmente hecho.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr carne picada
 
 1 cebolla mediana
@@ -36,7 +35,6 @@ Para 4 personas.
 queso rallado
 
 <h3>Preparación</h3>
-
 Cocer las patatas con agua y un poco de sal.
 
 Una vez cocidas dejarlas enfriar.

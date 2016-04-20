@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 24 minutos.
 
 <h3>Ingredientes</h3>
-
 2 huevos
 
 2 yogures de limón
@@ -37,7 +36,6 @@ Para 6 personas.
 125 gr. de mantequilla
 
 <h3>Preparación</h3>
-
 Derretimos 100 gr de mantequilla que mezclamos en un bol con los demás ingredientes.
 
 Con los 25 gr untamos la fuente que irá al horno.

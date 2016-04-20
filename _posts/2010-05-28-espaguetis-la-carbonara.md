@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. spaguetis
 
 50 grs. bacon
@@ -25,7 +24,6 @@ Para 8 personas.
 50 grs. queso rallado
 
 <h3>Preparación</h3>
-
 Cocer los spaguetis como indica el paquete.
 
 Freír en la mantequilla el bacon y después añadirle el jamón, todo ello cortado en trocitos.

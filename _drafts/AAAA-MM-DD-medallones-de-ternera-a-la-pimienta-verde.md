@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 medallones de ternera de unos 180 gramos
 
 4 cucharaditas de pimienta verde
@@ -40,6 +39,5 @@ Para 4 personas.
 Sal, harina y una cuchara de concentrado de tomate
 
 <h3>Preparación</h3>
-
 Se rebozan los medallones en harina y se doran en la sartén a fuego lento, con una cucharadita de mantequilla. Se ponen en un plato, se rocían con el coñac y se cubren. Se calienta el jugo de la carne con el vino blanco, se le añade la pimienta verde (sin granos) y se lleva a ebullición. Después se deja a fuego medio y se vierte sobre los medallones. Se mezcla la fécula con la nata, se añade media cucharada de concentrado de tomate para dar un poco de color a la nata y se vierte sobre la carne. Se vuelve a poner todo en el fuego a baja temperatura (unos 20 minutos). Se sirve caliente con un poco de arroz o patatas.
 

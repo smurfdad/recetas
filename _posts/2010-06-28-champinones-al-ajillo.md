@@ -9,7 +9,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 gms. de champiñones es trozos.
 
 2 dientes de ajo.
@@ -31,7 +30,6 @@ Aceite de maiz.
 Sal al gusto.
 
 <h3>Preparación</h3>
-
 Para la salsa: en una sarten se calienta el aceite y se le agrega el ajo y el chile a modo de que se dore, luego se muele con todo y aceite.
 
 Para los champiñones, en un cacerola (si es de barro mejor) se pone a sofreir con el aceite de oliva, la cebolla, los diente de ajo y una ramita de epazote, por minuto y medio, se le agregan los champiñones y hasta que el caldillo de champiñones empieza a desaparecer se le agrega la salsa a su gusto.

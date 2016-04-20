@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de picadillo
 
 2 dientes de ajo
@@ -22,7 +21,6 @@ Sal
 4 huevos
 
 <h3>Preparación</h3>
-
 El picadillo ha de ser de lomo de cerdo.
 
 Se hecha en una cazuela y se mezcla con los ajos machacados en el mortero junto con la sal y un poco de agua. Se mezcla todo ello con el pimentón picante.

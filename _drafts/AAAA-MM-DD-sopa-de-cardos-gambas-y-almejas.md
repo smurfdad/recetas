@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de cardos blancos.
 
 150 gramos de gamba roja fresca.
@@ -48,7 +47,6 @@ Para 8 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Lavamos las pencas de los cardos y quitamos las hebras con la ayuda de un pelador.
 
 Los troceamos en daditos pequeños y los blanqueamos en agua y un poco de leche justo que les cubra dando 2 hervores, y cambiando el agua y la leche. Los sacamos y los escurrimos.

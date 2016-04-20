@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 plátano
 
 4 yogures
@@ -32,6 +31,5 @@ Para 4 personas.
 1 vasito de leche
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes y batir. Colocar en el frigorífico y servir muy frío.
 

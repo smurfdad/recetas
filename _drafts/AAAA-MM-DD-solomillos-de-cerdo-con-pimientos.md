@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos de cerdo
 
 aceite
@@ -36,7 +35,6 @@ Tomate frito
 1 lata de pimientos rojos del piquillo
 
 <h3>Preparación</h3>
-
 En una fuente de barro freir los solomillos de cerdos cortados en tacos.
 
 Cuando esten a medio freir agregarles una cebolla muy picada. Dejar que se haga y agregar un chorrito de leche, en este momento es cuando hay que echar la sal. En una fuente honda colocar los pimientos en tiras ( las tiras hay que hacerlas con las manos , no vale el cuchillo) agregar aceite crudo y sal. Dejar reposar.
@@ -44,6 +42,5 @@ Cuando esten a medio freir agregarles una cebolla muy picada. Dejar que se haga 
 A los solomillos les echaremos un poco de tomate frito orlando y los pimientos que en poco tiempo chuparan el aceite ... dejar cocer un poco todo junto remover y enseguida a comer
 
 <h3>Observaciones</h3>
-
 Este guiso se puede preparar la vispera
 

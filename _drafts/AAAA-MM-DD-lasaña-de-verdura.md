@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 o 4 laminas grande de lasaña.
 
 200 gramos de judías verdes.
@@ -44,7 +43,6 @@ Salsa bechamel.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Cocemos la pasta en agua con sal, con un chorro de aceite, y la refrescamos. Cocemos también las judías verdes, la zanahoria y la coliflor y lo picamos todo en trocitos. Las espinacas se cuecen aparte y se pican.
 
 Hacemos un sofrito con los dientes de ajo en l minas y el tomate. Cuando este rehogado añadimos las verduras, excepto las espinacas, y tres o cuatro cucharadas de bechamel, mezclándolo todo bien.

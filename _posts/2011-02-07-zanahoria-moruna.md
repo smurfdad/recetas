@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de aceite de oliva
 
 1 cucharada sopera de vinagre
@@ -27,5 +26,4 @@ Para 4 personas.
 10 grs. de orégano
 
 <h3>Preparación</h3>
-
 Pelar las zanahorias y cocerlas, cortadas en rodajas durante unos 10 minutos. Esparcir las rodajas en una fuente. Rociarlas con el aceite. Aderezar con sal, pimienta, comino y orégano, por éste orden y repartiéndolo todo bien por las rodajas. Rociar por igual con el vinagre. Dejar enfriar y servir.

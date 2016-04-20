@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Pollo cortado en raciones
 
 125 gr. Bacón ahumado en 4 lonchas
@@ -50,10 +49,8 @@ Sal y pimienta recién molida
 Perejil para adornar
 
 <h3>Preparación</h3>
-
 Se calienta el horno a 200 grados. Se colocan los trozos de pollo sobre las lonchas de bacón ahumado en una cazuela honda de barro y se ponen alrededor las verduras. Se pone en cada trozo de pollo un poco de mostaza y ajo machacado, se riega con los líquidos y se salpimenta. La cazuela se tapa y se mete al horno en la parte superior por 30 minutos, se reduce la temperatura a unos 100 grados y se deja cociendo hasta que todos los ingredientes estén a punto.
 
 <h3>Observaciones</h3>
-
 Arroz blanco para acompañar, si gusta
 

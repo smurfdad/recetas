@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 Galletas cuadradas
 
 Nata
@@ -40,7 +39,6 @@ Azúcar
 Coñac
 
 <h3>Preparación</h3>
-
 Por una parte las galletas rehogadas con café y un chorrito de coñac; y azúcar si te gusta muy dulce.
 
 Y para cubrir las galletas, en un bol ponemos la nata bien mezclada con el coco y nata. Se van haciendo pisos con las galletas mojadas y cubriéndolas con la mezcla hecha. Tan gorda como se desee. Y se cubre al final más espesa con nata y cola-cao y trocitos de chocolate rallado.

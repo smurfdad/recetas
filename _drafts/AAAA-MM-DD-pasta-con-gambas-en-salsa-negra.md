@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs de pasta
 
 150 grs de gambas peladas
@@ -45,6 +44,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Se cuece la pasta en abundante agua con sal y se reserva. Se prepara la salsa negra dorando la cebolla muy picada en aceite de oliva. Cuando está bien pasada se le agrega una cucharada de harina, un vaso de vino blanco, sal, la tinta de sepia y el perejil bien picado. Se deja reducir hasta ligar bien la salsa, añadiendo más vino o agua si fuese necesario. En aceite de oliva se saltean los ajos laminados con las gambas peladas, un chorro de vino blanco y la pasta cocida. Se sirve en un plato aderezando al gusto con la salsa negra.
 

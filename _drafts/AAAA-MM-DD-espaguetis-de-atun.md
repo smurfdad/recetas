@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de atun de 500g
 
 media cebolla grande
@@ -41,6 +40,5 @@ un cuadrito de mantequilla
 un paquete de espaguetis 500g
 
 <h3>Preparación</h3>
-
 Pica la cebolla y ponla a dorar en un sarten con el aceite el atun y el ajo,cuando este listo agrega el pure de tomate y deja consumir 5 minutos,despues añades los espaguetis cocinados, la mantequilla y el oregano,mantenlo a fuego lento 5 minutos y estara listo para servir.
 

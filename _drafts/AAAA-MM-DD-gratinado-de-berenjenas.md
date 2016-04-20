@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas blancas
 
 20 gr. de harina.
@@ -38,7 +37,6 @@ albahaca
 1 diente de ajo.
 
 <h3>Preparación</h3>
-
 Cortar las berenjenas en rodajas en sentido longitudinal. Pasarlas por harina y freírlas hasta que cojan un poco de color. Ponerlas a escurrir, recogiendo el aceite que sobre.
 
 Se hace una salsa de tomate, sin pepitas ni piel. Se añade la albahaca y el ajo picado.

@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gramos de espaguetis.
 
 250 gramos de setas.
@@ -29,7 +28,6 @@ Sal.
 250 gramos de salsa de tomate casera.
 
 <h3>Preparación</h3>
-
 Salteamos el diente de ajo cortado en láminas y cuando esté casi dorado añadimos las setas limpias y fileteadas cocinando durante 10 minutos a fuego suave y tapado.
 
 Agregamos la calabaza troceada o redondeada con un sacabolas y cocinamos otros 5 minutos. Damos un hervor a los guisantes y reservamos.

@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 Kg de Manitas de Cordero
 
 1 Cabeza de Ajo
@@ -52,7 +51,6 @@ REFRITO:
 Sal. Si es necesario
 
 <h3>Preparación</h3>
-
 Lavar mucho las manitas y en una de las aguas echar vinagre y esperar. Trocearlas y quitarle los pelos. Echarlas en una cazuela con agua hasta que las cubra. Añadir la cabeza de ajos, el Laurel, el chorizo y el jamón. Cocer durante 2 ó 3 horas. Hasta que estén tiernas. Antes de que estén, añadir la morcilla. Con una espumadera quitar la espuma que suelta. Cuando estén casi cocidas, sacar todo y dejar sólo las Manitas.
 
 REFRITO: En una sartein, pochar la cebolla con un ajo picado y un tomate maduro triturado. Añadir una punta de arina para que espese. Refreirlo todo. Y echarlo a las manitas.

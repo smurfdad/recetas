@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 24 tapas para empanadas para hacerlas
 
 500g de nalga cortada en escalopes
@@ -31,7 +30,6 @@ Para 4 personas.
 3 huevos duros
 
 <h3>Preparación</h3>
-
 Cortar la carne en tiritas de 1/2 cm de espesor y luego en cuadraditos.
 
 Calentar en una olla la grasa o manteca, agregar las cebollas picadas condimentar con sal. Tapar la olla y cocinar a fuego moderado revolviendo de tanto en tanto hasta que estén transparentes pero no doradas. Adicionar la carne revolviendo y cuando cambie de color, retirar la cacerola del fuego. Condimentar con el ají molido el pimentón, el comino y más sal si fuera necesario. Incorporar las pasa de uva previamente remojadas 20 minutos en agua tibia y escurrirlas sobre papel absorbente.

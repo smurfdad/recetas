@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 24 langostinos (Congelados)
 
 3 ajos picados
@@ -38,7 +37,6 @@ Para 4 personas.
 Perejil picado
 
 <h3>Preparación</h3>
-
 Una vez que los langostinos estén descongelados por completo, ábrelos por la mitad y colócalos en una fuente de horno con la cáscara hacia abajo. Sazónalos y riégalos con una salsa que habrás hecho anteriormente mezclando ajo picado, guindilla, también picada, y aceite. Mete en el horno caliente a 125 grados durante 10 minutos y saca.
 
 Riega los langostinos con su propio jugo, que han soltado al asarse en el horno. Aparte, flambea el brandy y agrégale perejil picado. Con esta mezcla rocía los langostinos y sirve.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Trozos de carne de buena calidad, extremadamente frescos.
 
 Sal y pimienta al gusto
@@ -59,7 +58,6 @@ Salsa Worcestershire
 Tabasco
 
 <h3>Preparación</h3>
-
 Eliminar la grasa y tejido conjuntivo de los filetes, cortar la carne en pequeñas lonchas de 5 milímetros de grosor, siguiendo las fibras y no a través. Tomaremos unas hojas de plástico, que las aceitaremos y meteremos las lonchas salpimentadas entre dos hojas. Con un mazo vamos golpeando sobre la carne y esta se ira extendiendo, el proceso de golpeo habrá terminado cuando se trasparente la luz a través de la carne. Quitaremos una hoja de plástico y la loncha la pondremos sobre la fuente de servir, en la fuente quitaremos la otra hoja de plástico, así haremos con todas las lonchas que vayamos a preparar.
 
 Adornaremos la fuente con filetes de anchoa y tiras de pimiento verde entrecruzados, formando rombos, con las alcaparras, cebollino y pimiento picado espolvorearemos por encima de la carne.

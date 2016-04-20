@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 120 gr. de arroz redondo.
 
 1 litro de leche.
@@ -39,7 +38,6 @@ categories:
 Canela en polvo.
 
 <h3>Preparación</h3>
-
 Poner la leche y la varita de canela en un cazo y llevarla a ebullición a fuego muy fuerte.
 
 No olvidarse de remojar antes el interior del cazo del agua, para evitar que la leche se desborde al hervir. Dejar que cueza 2 ó 3 minutos para, después, retirarla del fuego y sacar la varita de canela. Incorporar el arroz y la corteza de limón triturada (sin la parte blanca), removiendo constantemente con la espátula hasta conseguir una mezcla homogénea. Cocer la mezcla a fuego muy lento y remover frecuentemente con la espátula durante 20 minutos más, hasta lograr que la leche espese.

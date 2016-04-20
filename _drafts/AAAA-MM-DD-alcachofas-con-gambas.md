@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 24 alcachofas
 
 250 gr. de gambas (camarones)
@@ -42,6 +41,5 @@ nuez moscada y pimienta al gusto
 sal
 
 <h3>Preparación</h3>
-
 Quitar la hojas duras a las alcachofas, rociarlas con limón y cocerlas en agua con sal durante 30 minutos. En una cazuela de barro, sofreír los ajos, lo blanco y lo verde, y la cebolla todo bien picado. Agregar las gambas (rehogar 5 minutos), las alcachofas y la taza de caldo. Salpimentar, añadir nuez moscada y dejar que espese.
 

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de patitas
 
 1 cebolla
@@ -31,7 +30,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Una vez troceadas y limpias las patitas, se cuecen en agua abundante, con media cebolla y una hoja de laurel, se escurren y se reservan.
 
 En una cazuela de barro con aceite se sofríe la otra media cebolla, a continuación se rehoga el tocino de jamón hecho daditos, añadiéndose una cucharada de harina dando vueltas rápidas con cuchara de madera.

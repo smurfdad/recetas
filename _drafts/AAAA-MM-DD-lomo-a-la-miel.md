@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. de lomo de cerdo
 
 Medio vaso de aceite de oliva virgen extra de la Sierra de Cádiz
@@ -49,6 +48,5 @@ Media cebolla
 Tres cucharadas de miel de Benamahoma
 
 <h3>Preparación</h3>
-
 Poner aceite de oliva en una sartén a fuego lento y sofreír los ajos y la cebolla picados. Agregar el tomate ya frito y rehogar. Echar las pasas, los higos, las almendras y los dátiles, junto con la zanahoria fileteada y el vino blanco. Dejar reducir a fuego lento. Poner el lomo, limpio y entero, en una fuente para el horno y echarle por encima el sofrito anterior de tomate frito con los demás ingredientes. Meter al horno previamente calentado, y dejar a fuego medio hasta que el lomo esté tierno, alrededor de una hora. Sacar el lomo y trincharlo en lonchas. Servirlo acompañado de la misma salsa, en caliente.
 

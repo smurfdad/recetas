@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1/4 de kg. de judías blancas
 
 1/4 de kg. de costilla de cerdo fresca
@@ -45,6 +44,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Poner a cocer las judías en un puchero con el agua. Agregar la costilla, el tocino, el hueso, los hinojos y un poco de sal. Dejar cocer una hora. Incorporar las patatas peladas y troceadas. Cuando vuelva a hervir agregar el arroz, cocer 20 minutos y servir.
 

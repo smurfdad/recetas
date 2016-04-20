@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos de 400 g cada uno cortados en 16 librillos
 
 100g de queso de cabra fresco
@@ -46,6 +45,5 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Rellenar los librillos con el queso y las nueces, atar con un palillo y salpimentar. Rebozar con harina y huevo y freír en aceite de oliva. Retirar y guardar al calor. Quitar el aceite de la sartén y verter el moscatel y la miel llevar a ebullición y echar el jugo, cocer la salsa y rectificar de sal. Emplatar salseando los bocaditos.
 

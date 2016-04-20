@@ -12,7 +12,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gr. de arroz
 
 1,200 gr. de caldo de pescado (fumet)
@@ -46,11 +45,9 @@ Para 6 personas.
 4 ajos a rodajitas
 
 <h3>Preparación</h3>
-
 Colocar en la paella el aceite y poner a calentar, ir añadiendo las judías, después el pimiento bien limpio de semillas, los ajos, el tomate, el laurel, las hebras de azafrán, los mejillones, las almejas, la sepia y luego las gambas, todo por este orden y dejando unos minutos freír antes de añadir el siguiente ingrediente. Se añade el arroz y se sofríe un poco, se añade el caldo de pescado y los mariscos que quedan, se añade el limón exprimido y colado para que no caigan semillas y se deja cocer aproximadamente 20 minutos.
 
 <h3>Observaciones</h3>
-
 Puede añadirse colorante alimentario para darle color.
 
 Puede añadirse o sustituir la sal por un dado de caldo concentrado, según gustos.

@@ -21,7 +21,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 pulmones de cerdo
 
 1/2 kilo de sangrecilla
@@ -35,7 +34,6 @@ Para 4 personas.
 4 dientes de ajo
 
 <h3>Preparación</h3>
-
 Picar muy fino la cebolla, el pimiento y el ajo.
 
 Seguidamente pondremos la verdura, con un poco de aceite a fuego lento, para que se vaya haciendo despacio.

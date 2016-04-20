@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 paletilla de cordero en trozos
 
 400 g de cuello de cordero
@@ -46,7 +45,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Calentar el aceite en una cazuela de fondo grueso y dorar en él los trozos de cordero. Sazonar con sal, pimienta y comino. Regar con el vino y 1 vaso de agua.
 
 Tapar y cocer 30 minutos a fuego lento. Raspar, lavar y cortar las zanahorias en rodajas. Pelar y prensar los ajos. Pelar y picar la cebolla menuda.

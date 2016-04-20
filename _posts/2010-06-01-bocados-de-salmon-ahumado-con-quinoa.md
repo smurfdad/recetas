@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 lonchas de salmón ahumado
 
 200 gr. de quinoa (cereal que se vende en herboristerías)
@@ -45,7 +44,6 @@ Además harán falta
 6 aros de acero inoxidable de 9 cm. de diámetro y 2 cm. de altura.
 
 <h3>Preparación</h3>
-
 Se pone agua en una cazuela y se sazona con sal. Cuando rompa a hervir, se echa la quinoa en lluvia. Se hierve 10 minutos y se escurre. En una sartén se ponen 50 gr. de tocino fresco, muy picado, y se rehoga. Se añade allí la quinoa, se saltea y se saca a un bol, dejándola enfriar. Se les quita la cáscara a los huevos duros y se cortan en dados.
 
 Se pela el pepino, se le quitan las pepitas y se corta también en dados. Se escalda el tomate durante 10 minutos en agua hirviendo, se pasa enseguida a agua fría, se pela y se corta en cuartos. Se le quitan el agua y las semillas. La pulpa se corta en dados. Se cortan tiras de salmón ahumado de 2 cm. de anchura y se cortan también 6 círculos de salmón, de 9 cm. de diámetro. Se coloca un aro en el centro de cada plato y se forra todo el borde interior con las tiras de salmón.

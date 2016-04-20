@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 papas grandes
 
 350 gramos de pat&egrave; de foi-gras
@@ -38,7 +37,6 @@ Sal
 Paprika
 
 <h3>Preparación</h3>
-
 Se cortan las cuatro papas en rodajas grandes y finas.
 
 Se ponen a cocer en agua con sal hasta que est&egrave;n al dente.

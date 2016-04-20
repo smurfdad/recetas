@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de habas tiernas
 
 200 gr. de guisantes tiernos
@@ -37,7 +36,6 @@ Para 4 personas.
 16 láminas de trufa de verano
 
 <h3>Preparación</h3>
-
 Las habas y los guisantes:
 
 Escaldarlos al dente, enfriarlos y, después pelarlos. Mezclar con un poco de vinagreta de mostaza y menta.

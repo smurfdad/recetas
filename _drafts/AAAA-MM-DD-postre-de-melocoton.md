@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 24 minutos.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 bote de melocoton en almíbar (grande)
@@ -35,6 +34,5 @@ Para 4 personas.
 5 bizcochos de soletillas
 
 <h3>Preparación</h3>
-
 Se empapan los bizcochos con la leche y se trituran con el melocoton escurrido, se pone un poco del almibar (del melocoton) el azucar y la leche. Se baten bien los huevos y se añaden. Se vierte en un molde caramelizadoy se introduce 13 min. en el microondas a la máxima potencia. Se retira y se deja enfriar. Se adorna con nata montada y con medio melocoton.
 

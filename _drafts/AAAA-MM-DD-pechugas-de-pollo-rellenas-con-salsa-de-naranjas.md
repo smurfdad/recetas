@@ -23,7 +23,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 1 Pechuga de pollo finitas
 
 Pistachos
@@ -45,7 +44,6 @@ jugo de naranja
 manteca 2 cucharadas
 
 <h3>Preparación</h3>
-
 Se coloca la pechuga y se rellena con pistachos, menta, queso para fondue, y se envuelven.
 
 Se los pasa por harina y después se fríen en aceite caliente (no mucho).
@@ -53,6 +51,5 @@ Se los pasa por harina y después se fríen en aceite caliente (no mucho).
 Luego se le agrega el ron a la olla con las pechugas, se deja que se flameen. Se retiran las pechugas, se le agrega los gajos de naranja, y el jugo de naranja, y después la manteca para espesar.
 
 <h3>Observaciones</h3>
-
 Esta salsa se sirve para acompañar el pollo.
 

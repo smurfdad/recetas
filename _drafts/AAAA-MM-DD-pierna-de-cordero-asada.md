@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pierna cortada en rodajas
 
 4 dientes de ajo
@@ -40,7 +39,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Poner un poco de aceite en una placa de horno y cubrir la base de la misma con las patatas cortadas en rodajas gruesas.
 
 Sazonar con sal la carne y ponerla encima metiéndola al horno a continuación.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 g. de espárragos.
 
 200 g. de queso de fundir en lonchas.
@@ -42,7 +41,6 @@ Para 4 personas.
 1 chorrito de leche.
 
 <h3>Preparación</h3>
-
 Se corta en lonchas el salmón fresco y se hacen rollitos con el salmón y queso de fundir dentro.
 
 En una fuente de horno untada de aceite se ponen unas rodajas de tomate y encima de cada rodaja un rollito de salmón.

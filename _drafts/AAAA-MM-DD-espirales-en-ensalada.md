@@ -22,7 +22,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 Pasta de espirales
 
 Aceitunas negras
@@ -38,7 +37,6 @@ Aceite
 Huevo
 
 <h3>Preparación</h3>
-
 Cocer la pasta en abundante agua con sal, mientras picar las aceitunas, el bonito, y el huevo duro
 
 Una vez cocida la pasta y enfriada bajo el chorro de agua fria, escurrir bien y añadir a la fuente donde esté todo picado, mezclar con una mayonesa.

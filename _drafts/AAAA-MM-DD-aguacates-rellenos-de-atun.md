@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 aguacates
 
 2 latas de atún en aceite
@@ -34,7 +33,6 @@ categories:
 5 palitos de cangrejo (surimi)
 
 <h3>Preparación</h3>
-
 Preparamos el relleno:
 
 Picamos los palitos de cangrejo, desmenuzamos el atún escurrido y lo mezclamos con el resto de los ingredientes. Partimos los aguacates por la mitad y les sacamos el hueso clavando un cuchillo en él y girando. Con la ayuda de una cucharilla vamos introduciendo el relleno en las mitades de aguacates.

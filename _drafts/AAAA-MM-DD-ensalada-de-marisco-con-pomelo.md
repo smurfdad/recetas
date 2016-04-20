@@ -25,7 +25,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gramos de gambas cocidas y peladas.
 
 200 gramos de langostinos cocidos y pelados.
@@ -49,7 +48,6 @@ Sal.
 1 cucharada de vinagre de vino blanco.
 
 <h3>Preparación</h3>
-
 Limpiamos las lechugas seleccionadas y las reservamos.
 
 Pelamos el pomelo y lo cortamos en gajos (si el pomelo es muy grande, cortamos los gajos a la mitad).

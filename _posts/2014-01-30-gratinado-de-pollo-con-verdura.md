@@ -9,7 +9,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 pechuga de pollo hermosa.
 
 1 cebolla.
@@ -25,7 +24,6 @@ Aceite de oliva virgen.
 Un chorrito de vinagre.
 
 <h3>Preparación</h3>
-
 Cortar en trocitos la pechuga y salpimentar. En una cazuela poner a dorar la cebolla cortada en juliana. Añadir el pollo y dorarlo bien con la cebolla.
 
 Regar ligeramente con un chorrito de vinagre. Añadir el brécol cortado en pequeñas ramitas y cocinar durante 20 minutos.

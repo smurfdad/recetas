@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 1,5 Kg. de calabacines
 
 5 huevos
@@ -31,7 +30,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Lavar y secar los calabacines.
 
 Rallarlos y colocarlos en un colador con sal gorda durante una hora.
@@ -59,5 +57,4 @@ Dejar enfriar.
 Servir frío o tibio con una salsa de tomate.
 
 <h3>Observaciones</h3>
-
 Puedes servir este flan como primer plato o como guarnición para acompañar un plato de carne o de pescado

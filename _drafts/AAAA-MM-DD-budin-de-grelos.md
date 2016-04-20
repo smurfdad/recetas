@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 manojos de grelos
 
 4 patatas grandes
@@ -36,7 +35,6 @@ Aceite
 Pan rallado
 
 <h3>Preparación</h3>
-
 Se cuecen los grelos picados muy finos hasta que estén muy tiernos. Se cuecen también las patatas en abundante agua con sal, se dejan escurrir bien y se esmagan.
 
 En una sartén con un fondo de aceite se fríe la cebolla picada muy fina hasta que esté transparente y se agregan los grelos mezclándolos bien con la cebolla.

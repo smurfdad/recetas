@@ -22,7 +22,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 125 Gr. de de frijolito chino
 
 1/2 Pimiento rojo en juliana
@@ -40,10 +39,8 @@ categories:
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Calentar el aceite e incorporar las verduras y saltearlas y revolver muy bien. Agregar la salsa de soya, sal y pimienta al final.
 
 <h3>Observaciones</h3>
-
 Puedes agregarle trocitos de pollo (pre-cocinado en una olla con agua y una pizca de sal) mientras se saltean las verduras.
 

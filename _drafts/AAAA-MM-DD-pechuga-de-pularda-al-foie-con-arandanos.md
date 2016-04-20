@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 pechugas de pularda sin hueso ni piel
 
 120 gr. de paté de foie
@@ -43,12 +42,10 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Abrir las pechugas en doble librillo. Rellenar con el foie, envolverlas y forrarlas con el bacón bien pegado. Sazonarlas y asarlas en una rustidera , quitando la grasa sobrante, verter el vino, después el jugo y los arándanos. Cocer 3 minutos y poner a punto de sazón.
 
 Presentar las pechugas en un plato salseando por encima. Acompañar con maíz salteado en mantequilla.
 
 <h3>Observaciones</h3>
-
 Receta aragonesa
 

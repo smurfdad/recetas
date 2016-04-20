@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr de bacalao desalado y limpio
 
 250 ml de aceite de oliva
@@ -46,7 +45,6 @@ Sal
 1 cucharada de perejil picado
 
 <h3>Preparación</h3>
-
 Trocear las lechugas que hayais escogido, lavarlas y luego centrifugarlas bien. Deben quedar secas y tersas.
 
 Ponemos el aceite en un sote o en un cazo y asi en frio introducimos el bacalao desalado, con la piel hacia arriba. El fuego debe estar al minimo ya que lo vamos a pochar en el aceite. De este aceite saldra el aliño para la terminacion del plato.

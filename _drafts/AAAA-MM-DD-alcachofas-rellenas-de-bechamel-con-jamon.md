@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 alcachofas
 
 1 limón
@@ -50,7 +49,6 @@ Para la salsa bechamel con jamón:
 Pimienta y sal
 
 <h3>Preparación</h3>
-
 Limpiar y pelar las alcachofas, frotarlas con limón para que no se oscurezcan. Dejar el tronco y eliminar la pelusa que suelen tener en el centro. Hervirlas en abundante agua, con sal y el resto del limón. Una vez cocidas se enfrían y se escurren con cuidado.
 
 Para la salsa:

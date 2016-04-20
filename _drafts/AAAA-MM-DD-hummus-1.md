@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 taza de garbanzo
 
 1 cebolla picada
@@ -38,10 +37,8 @@ Para 6 personas.
 1/2 taza de aceite de oliva
 
 <h3>Preparación</h3>
-
 Remojar los garbanzos en agua desde la noche anterior. Cocinar en agua hirviendo por una hora aproximadamente. Escurrir. Agregar un poco de aceite de oliva, la cebolla, el ajo picadito, la sal y el comino. Cocinar todo unos minutos. Triturar la preparación ya cocinada junto con más aceite de oliva y el jugo de limón hasta que resulte una mezcla homogénea. Si queda muy espesa, agregar un poco de agua. Acompañar con pan árabe o vegetales crudos picados.Comer como pasapalo o en la preparación de sándwiches árabes.
 
 <h3>Observaciones</h3>
-
 Crema de garbanzo
 

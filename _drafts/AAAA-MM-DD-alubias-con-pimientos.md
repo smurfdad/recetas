@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 300 g de alubias blancas
 
 1 cebolla mediana picada
@@ -47,6 +46,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Poner las alubias blancas en remojo en agua fría durante 8 horas. Escurrirlas y ponerlas en una cazuela con el caldo y el ramito de hierbas. Llevar a ebullición y cocer con la cazuela destapada, a fuego suave de una a una hora y media, o hasta que las alubias estén tiernas. Escurrir los pimientos y cortarlos en tiras. Calentar el aceite, rehogar la cebolla y el diente de ajo, sin que cojan color, agregar el pimentón y darle unas vueltas. Incorporar los pimientos y agregarlo a las alubias cuando estén tiernas. Retirar el ramito de hierbas, salpimentar si es necesario y espolvorear el guiso con las hierbas picadas. Servir muy caliente.
 

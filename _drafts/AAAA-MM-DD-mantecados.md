@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de manteca
 
 250 grs. de azúcar glass
@@ -32,6 +31,5 @@ Para 8 personas.
 250 grs. de harina
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes en un recipiente y se mezclan con las manos. Después, se hacen bolitas y se ponen en una bandeja. Meter al horno durante 30 minutos, a temperatura de 190&ordm;C.
 

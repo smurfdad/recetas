@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 filetes ternera
 
 2 cucharadas harina
@@ -46,7 +45,6 @@ medio vaso de caldo de ave
 Tomillo
 
 <h3>Preparación</h3>
-
 Espolvorear la carne con harina condimentada con pimienta sofreír el bacon y la cebolla, retirar y en el mismo jugo freir la carne.
 
 Retirar, poner el resto de harina en la sartén, agregar el vino y el caldo y remover hasta que espese.

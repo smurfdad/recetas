@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 calabacines.
 
 16 tomatitos enanos.
@@ -36,7 +35,6 @@ Una pizca de pimienta.
 Sal.
 
 <h3>Preparación</h3>
-
 Trocemos la cebolla y la mezclamos con los tomatitos lavados, salpimentamos y asamos en una sartén hasta que se doren ligeramente con una pizca de aceite.
 
 Limpiamos los calabacines y los troceamos de forma gruesa a lo largo, salamos ligeramente y asamos en la parrilla.

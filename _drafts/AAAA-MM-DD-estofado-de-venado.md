@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 800 gr. de carne de venado
 
 500 gr. de cebolla
@@ -43,6 +42,5 @@ Un vaso de agua
 Pimienta en grano y sal
 
 <h3>Preparación</h3>
-
 Hacer un sofrito con la cebolla, el ajo troceado y el laurel. Poner la carne, echar el vino y la sal. Rehogar. Cubrir de agua y colocar las zanahorias peladas y troceadas. Dejar cocer bastante tiempo hasta ablandar la carne. Apartar y servir caliente.
 

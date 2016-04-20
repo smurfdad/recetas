@@ -37,7 +37,6 @@ Para barnizar:
 - 1 cucharada de agua.
 
 <h3>Preparación</h3>
-
 Precaliente el horno a 190ºC.
 
 Para preparar el relleno, caliente el aceite, agregue la cebolla y el ajo, sofría durante 5 minutos, agregue el arroz y el resto de los ingredientes y deje cocinar a fuego lento durante 5 minutos mas, sazone al gusto y deje enfriar.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. merluza (puede ser congelada)
 
 1 limón
@@ -29,7 +28,6 @@ sal
 1 lechuga
 
 <h3>Preparación</h3>
-
 Dejar descongelar la merluza, si es congelada.
 
 Hacer 2 lomos sin piel ni espinas.

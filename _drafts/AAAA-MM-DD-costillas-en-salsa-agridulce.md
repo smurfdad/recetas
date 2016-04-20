@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1/2 Kg. De costillas de res cortadas en pedazos pequeños
 
 2 cucharadas de salsa catsup
@@ -39,6 +38,5 @@ El jugo de una naranja
 1 traste para llevar
 
 <h3>Preparación</h3>
-
 Enjuague las costillas al chorro del agua, póngalas en una cazuela con tapadera, desmoróneles encima el caldo de pollo y las dos cucharadas de aceite, déjelas a fuego medio, hasta que doren, revuelva la catsup con el jugo de naranja y la soya, y cuando ya estén doradas las costillas revuelva estos ingredientes con dos pizcas de sal, deje cocinar 10 minutos a fuego lento.
 

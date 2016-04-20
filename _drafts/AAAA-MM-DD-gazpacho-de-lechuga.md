@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Las hojas verdes de 2 o 3 lechugas
 
 2 o 3 yogures de leche de cabra o soja
@@ -36,7 +35,6 @@ Vinagre balsámico
 Aceite de oliva, sal y pimienta
 
 <h3>Preparación</h3>
-
 Se colocan todos los ingredientes en el vaso de la batidora (mezcladora) con un poco de agua y se procede a triturarlos hasta formar una crema homogénea.
 
 Se salpimienta y se aliña con un chorro de aceite y unas gotitas de vinagre.

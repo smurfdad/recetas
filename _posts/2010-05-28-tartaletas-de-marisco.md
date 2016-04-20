@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Para la masa:
 
 1 yema de huevo
@@ -31,7 +30,6 @@ Para el relleno:
 400 grs. de aceite
 
 <h3>Preparación</h3>
-
 Modo de hacer la masa:
 
 Se mezcla la yema con la mantequilla y un poco de sal.

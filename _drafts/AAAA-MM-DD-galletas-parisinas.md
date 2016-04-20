@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 gramos de harina
 
 250 gramos de azúcar
@@ -38,7 +37,6 @@ categories:
 un poco de azúcar moreno para decorar
 
 <h3>Preparación</h3>
-
 Poner la harina sobre una superficie limpia, echar el azúcar por encima, hacer un hueco en el centro dónde se colocará el huevo entero y la yema y se añade la mantequilla cortada en copos.
 
 Amasar rápidamente hasta obtener una masa homogénea.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gramos de pepino.
 
 16 cerezas.
@@ -45,7 +44,6 @@ Sal.
 Una pizca de albahaca seca.
 
 <h3>Preparación</h3>
-
 Limpiamos los pepinos y los pelamos.
 
 Cortamos los filetes de anchoas en tiritas finas.

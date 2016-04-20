@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 k de borrajas
 
 3 patatas
@@ -34,6 +33,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Limpiar las borrajas, pelar las patatas y cortarlas a trozos. Las sazonamos y ponemos a cocer 20 minutos. La borraja y las patatas se escurren y se apaña con aceite de oliva crudo.
 

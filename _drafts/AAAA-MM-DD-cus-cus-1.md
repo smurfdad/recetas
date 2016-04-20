@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Harina para cuzcuz.
 
 2 cebollas.
@@ -42,7 +41,6 @@ Aceite.
 Cuzcutera.
 
 <h3>Preparación</h3>
-
 La cuzcutera consta de dos partes: la olla y un recipiente con el fondo perforado con múltiples orificios que encaja en la olla a modo de tapadera y que contendrá, en su momento, la harina.
 
 Echamos en la olla de la cuzcutera, la carne, una cebolla cortada en juliana y uno de los tomates troceados; se le muele las pimientas, el azafrán y se le rocía con aceite removiéndose todo muy bien con cuchara de palo.

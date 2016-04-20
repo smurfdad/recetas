@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 cebollas medianas
 
 3-4 lonchas de bacon
@@ -34,7 +33,6 @@ Para 4 personas.
 Sal, aceite y pimienta
 
 <h3>Preparación</h3>
-
 Cortar las cebollas finas y pocharlas a fuego lento. Cuando estén pochadas añadir la tarrina de queso y rehogar hasta que se mezcle bien.
 
 Aparte preparar los libros con trozos de bacon en su interior, salpimentar y dorar (para que no se abran, aplastarlos con un paleta y pincharlos con un palillo)

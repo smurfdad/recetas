@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 litro de leche
 
 pan rallado
@@ -38,7 +37,6 @@ una corteza de limón
 aceite de girasol
 
 <h3>Preparación</h3>
-
 Poner a hervir la leche con el azúcar,la canela y el limón.
 
 Batir los huevos e ir agregando poco a poco el pan rallado hasta lograr una papilla. Ir echando en el aceite caliente pequeñas bolitas de esta masa. Cuando estén fritas, echarlas escurridas en la leche. Dejar enfriar y servir frío.

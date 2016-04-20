@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de espinacas ya cocidas
 
 200 gr. de gambas
@@ -38,7 +37,6 @@ Pimienta
 Ajo
 
 <h3>Preparación</h3>
-
 Cocer las espinacas en agua con sal y aceite y reservar. Pelar las gambas y saltearlas con un poco de ajo y mantequilla. Batir los huevos, añadir la nata, salpimentar y añadir las gambas y las espinacas picadas finamente. Mezclar bien el conjunto.
 
 Untar un molde de mantequilla y espolvorear con par rallado. Verter el conjunto en un molde. Introducir en el horno durante unos 45 minutos al baño María. Servir frío con mahonesa o salsa tártara.

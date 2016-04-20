@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 libras de yuca hervidas en sal y ajo
 
 La yuca debe estar en trocitos medianos
@@ -40,7 +39,6 @@ La yuca debe estar en trocitos medianos
 sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Sofria en el aceite los ajos, añadir pimientos y cebolla.
 
 Eche sobre la yuca
@@ -52,6 +50,5 @@ Sazone a gusto
 Mueva con una cuchara de madera
 
 <h3>Observaciones</h3>
-
 Es bien rica para acompañar cualqueir tipo de carne frita incluyendo las aves. Tambien es buena como aperitivo.
 

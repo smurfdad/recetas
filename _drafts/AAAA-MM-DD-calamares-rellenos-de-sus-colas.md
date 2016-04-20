@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 calamares, 8
 
 cebolla, 1 grande
@@ -51,7 +50,6 @@ arroz, 100 gr.
 pan frito,
 
 <h3>Preparación</h3>
-
 Calamares: Limpiamos los calamares con mucho cuidado para no romper la bolsa, reservando además las colas y los saquitos de tinta.
 
 Relleno: Cortamos las colas en trozos pequeños, ponemos en una sartén honda al fuego 1/2 cebolla picada muy fina y la rehogamos con un chorro de aceite, añadimos 1 dl. de vino y dejamos hacer. Terminamos con el pimiento rojo asado, la zanahoria y el huevo, todo ello picado muy fino. Ligamos con la cucharadita de harina.

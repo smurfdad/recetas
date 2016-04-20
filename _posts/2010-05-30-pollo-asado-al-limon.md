@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 pollo grandote.
 
 1 limon hermoso.
@@ -19,7 +18,6 @@ Pimienta.
 Sal.
 
 <h3>Preparación</h3>
-
 Una vez que el pollo está muy bien limpio por dentro y por fuera, se salpimienta y se introduce el limón dentro del pollo y se vierte un poquito de aceite o manteca.
 
 En una fuente refractaria se coloca y se introduce en el horno (previamente calentado a 80/100 grados).

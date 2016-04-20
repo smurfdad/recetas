@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 g de anacardos ligeramente tostados
 
 100 g de azúcar
@@ -32,6 +31,5 @@ Para 4 personas.
 20 g de mantequilla
 
 <h3>Preparación</h3>
-
 Cocer el agua con el azúcar. Añadir los anacardos y remover hasta que la mezcla se vaya granulando y a la vez oscureciendo ligeramente. Fuera del fuego, agregar la mantequilla. Dejar enfriar los anacardos sobre una superficie lisa y seca. Consumir fríos.
 

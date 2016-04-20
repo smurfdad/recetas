@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 24 canelones
 
 200 g de carne picada
@@ -57,6 +56,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Cocer los canelones durante 10 minutos, con abundante agua y sal. Sumergir en agua fría y extenderlos sobre un paño para que sequen bien. Poner aceite a calentar en una sartén grande. Cuando esté caliente, echar la cebolla finamente picada y, al comenzar a dorar, incorporar la carne picada, la pechuga de pollo deshuesada y cortada muy menuda, el jerez y los hígados limpios y picados. Sazonar con sal y añadir la sesada previamente cocida en agua con sal y troceada. Freír todo bien y triturar con el tenedor para formar una pasta con la que se rellenan los canelones. Prepara una salsa bechamel, con la mantequilla, la harina y la leche. En una sartén de horno, extender una capa de bechamel, colocar sobre ella los canelones rellenos y cubrir con el resto de la salsa. Echar encima la salsa de tomate, el jamón serrano cortado en tirar y las trufas picadas. Finalmente espolvorear todo con queso rallado y gratinar en el horno.
 

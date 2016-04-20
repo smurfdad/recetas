@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 350 gramos de manzanas y peras.
 
 100 gramos de azúcar.
@@ -37,7 +36,6 @@ Zumo de limón.
 1/4 litro de nata liquida.
 
 <h3>Preparación</h3>
-
 Pelamos las manzanas y las peras, las troceamos y las cocemos con un poco de azúcar.
 
 Cuando estén blandas las pasamos por la batidora y por el chino.

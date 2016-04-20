@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 tomate
 
 1 taza de arroz cocinado (sencillo reventado)
@@ -47,7 +46,6 @@ Se puede escoger uno de los siguientes ingredientes extra:
 - preparar unos huevos revueltos antes de empezar con el modo de preparación
 
 <h3>Preparación</h3>
-
 Se sofríen en la mantequilla la cebolla, el ají y el cilantro.
 
 Cuando están muy crujientes se les agrega alguno de los ingredientes extra.

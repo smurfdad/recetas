@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 lonchas de bacón
 
 12 dátiles
@@ -42,6 +41,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cortar los tomates por la mitad, sazonar con sal y ponerlos boca abajo en un colador durante 30 minutos para que suelten el agua. Cubrirlos con el pan rallado mezclado con las hierbas y rociarlos con aceite. Meterlos al horno precalentado a 220 grados durante 10 minutos. Deshuesar los dátiles y enrollarles el bacón, formar las brochetas alternando los dátiles con las salchichas troceadas. Untar con un poco de aceite y ponerlas bajo el grill del horno durante 5 minutos, dándoles vueltas para que se doren por igual. Servirlas con los tomates.
 

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 caja de canelones
 
 400 gr de bacalao (desalarlo en agua)
@@ -50,6 +49,5 @@ sal
 50 g piñones (optativo)
 
 <h3>Preparación</h3>
-
 Pasar por harina el bacalao, freírlo y apartarlo. Cortar los ajos tiernos y freírlos que queden blandos. Añadir el bacalao y la crema de leche batir hasta que espese. Salpimentar. Dejar enfriar. ( Si sale muy líquida añadir harina) Cocer las placas de los canelones hasta que estén al dente. Extender sobre un paño de cocina. Rellenarlos con la brandada de bacalao. Hervir los ajos con la leche. Pasarlo por la batidora, cubrir los canelones, espolvorear con el queso rallado, los piñones y hornear .
 

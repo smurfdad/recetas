@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 66 minutos.
 
 <h3>Ingredientes</h3>
-
 300g. de harina de fuerza
 
 20 gr. de levadura fresca de panadería
@@ -37,6 +36,5 @@ Para 5 personas.
 1 pizca de azúcar
 
 <h3>Preparación</h3>
-
 Poner el agua, la manteca y la sal a unos 40 grados de temperatura, todo mezclado.Añadir la levadura y mezclar; después la harina y amasar unos 4 minutos.Sacar la masa y dejar reposar unos 30 minutos para que leve.Amasar para sacar el aire y dar forma de bollos(salen unos 10).Dejar que doblen su volumen unos 20 minutos. Freir en aceite caliente hasta que estén dorados.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 latas de atún
 
 1 lata de verduras mixtas grande
@@ -46,7 +45,6 @@ leche
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Mezclar todo, excepto el pan, la leche y la mantequilla.
 
 En un refractario engrasado con la mantequilla se van acomodando capas de pan a la mitad y pasado por leche de un lado, se pone una capa de la mezcla de los ingredientes, una capa de queso rallado, otra de pan y asi sucesivamente hasta terminar con una capa de queso rallado.

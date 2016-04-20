@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de rabo de toro troceado
 
 una bresa de verduras:
@@ -52,7 +51,6 @@ una bresa de verduras:
 1 litro de vino tinto
 
 <h3>Preparación</h3>
-
 Se marina el rabo de toro durante 8 horas en el vino, la bresa de verduras  y el bouquet garni
 
 Se saca el rabo de toro y se escurre bien. El vino, junto con la bresa de verduras y el bouquet garni, se reserva

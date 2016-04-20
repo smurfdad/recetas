@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Rebanaditas de pan
 
 Pimientos del piquillo asados (De lata, si son buenos, valen)
@@ -36,6 +35,5 @@ Boquerones en vinagre
 Tomates
 
 <h3>Preparación</h3>
-
 Se fríen los pimientos verdes previamente cortados en filetitos del tamaño de la rebanada. Sobre cada rebanada previamente untada con tomate, se ponen (por este orden) un trozo de pimiento verde, una anchoa y un boquerón, y por último 1/2 pimiento de piquillo. No hay problema si se enfría el pimiento verde, ya que se sirve del tiempo.
 

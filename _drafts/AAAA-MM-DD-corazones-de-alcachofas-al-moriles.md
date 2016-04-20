@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 Kg. de alcachofas
 
 1/4 de litro de aceite de oliva
@@ -44,6 +43,5 @@ sal
 1,50 litros de caldo blanco
 
 <h3>Preparación</h3>
-
 Se limpian las alcachofas y se trocean en dos mitades. En cada cacerola se refríen los ajos en el aceite; cuando estén dorados se añaden las alcachofas salpimentadas, rehogando unos dos minutos, para seguidamente añadir el vino y después el caldo. En un mortero se majan el azafrán y la hierbabuena, que se añaden al guiso, tapando la cacerola con papel de aluminio, hasta que las alcachofas estén tiernas, sacándolas a otro recipiente. Pasando la salsa por un chino a otra cacerola, diluyendo en unas cucharadas de agua fría la maicena, incorporándola a la salsa, que se dejará unos tres minutos más, transcurridos, se rociarán encima de las alcachofas.
 

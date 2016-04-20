@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 4 chuletas de lomo de cerdo sin hueso
 
 4 lonchas de jamón, de cualquier variedad
@@ -37,7 +36,6 @@ Para 4 personas.
 1 cucharadita de aceite de oliva
 
 <h3>Preparación</h3>
-
 Haz un corte de 2 pulgadas de largo en uno de los costados de la chuleta para formar una bolsa. Cubre cada loncha de jamón con una rebanada de queso y 1/4 de espinaca, enrolla. Coloca 1 rollito de jamón en la bolsa de cada chuleta, presiona los bordes del corte para unir.
 
 Espolvorea ambos lados de las chuletas con la salvia

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tacitas de arroz (puede ser liofilizado).
 
 1 cebolla picada.
@@ -39,7 +38,6 @@ Medio litro de caldo de carne.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Tras rehogar la cebolla en un poco de aceite, añadimos arroz y lo sofreímos. Añadimos el cava y dejamos que se absorba totalmente. A continuación vamos añadiendo el caldo caliente, poco a poco, y dejamos que cueza durante veinticinco minutos.
 
 Rectificamos de sal, y dos minutos antes de terminar la cocción, añadimos el queso y la nata. Si el arroz no es liofilizado, debemos consumirlo enseguida.

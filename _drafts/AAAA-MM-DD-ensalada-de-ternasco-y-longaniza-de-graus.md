@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 gr. de ensaladas variadas
 
 200 gr. de longaniza de Graus oreada
@@ -41,12 +40,10 @@ pimienta
 un ajo picado
 
 <h3>Preparación</h3>
-
 Aderezamos con sal y aceite las ensaladas, salteamos la longaniza troceada y, a continuación, salpimentamos las lechecillas, las pasamos por harina y salteamos con el ajo picado y añadimos la longaniza.
 
 Retiramos los ingredientes de la sartén y desglosamos ésta con vinagre de frutas rojas. Añadir una cucharada de agua y salsear con este jugo las lechecillas y la longaniza.
 
 <h3>Observaciones</h3>
-
 Típica de Graus (Maravilloso pueblo de Huesca)
 

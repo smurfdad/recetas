@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos duros.
 
 50 gramos de aceitunas negras.
@@ -42,7 +41,6 @@ Lechuga picada.
 Mayonesa.
 
 <h3>Preparación</h3>
-
 Cocinamos los huevos durante 10 minutos en agua hirviendo hasta que estén bien duros. Se dejan enfriar, se pelan y se cortan por la mitad en sentido longitudinal, retirando cuidadosamente las yemas.
 
 Utilizamos 4 boles. En cada uno colocamos dos yemas y una cucharada de mayonesa, que machacaremos bien con un tenedor hasta formar una crema.

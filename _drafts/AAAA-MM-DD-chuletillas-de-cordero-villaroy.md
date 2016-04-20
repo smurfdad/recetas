@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 chuletas de cordero, 2kg.
 
 bechamel,
@@ -40,6 +39,5 @@ sal,
 patatas
 
 <h3>Preparación</h3>
-
 Se fríen las chuletas pasadas por harina y se dejan enfriar. Se hace una salsa bechamel y se cubren las chuletas con ella, después se pasan por huevo batido y pan rallado y se fríen en abundante aceite. Servir con patatas paja, guisantes y tomate.
 

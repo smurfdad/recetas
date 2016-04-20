@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 mostaza
 
 pimienta negra en grano
@@ -23,7 +22,6 @@ pimienta negra en grano
 oregano, sal gorda y tomate
 
 <h3>Preparación</h3>
-
 Trituramos en un mortero 1 cucharada de mostaza, 4 granos de pimienta negra,
 
 los ajos y el vinagre. Colocamos el majado en la placa del horno. Colocamos

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 litro de leche
 
 1 palo de canela
@@ -51,6 +50,5 @@ Mantequilla
 Miel.
 
 <h3>Preparación</h3>
-
 Se empieza remojando el palo de canela en ron. Después se hierve la leche, la canela y el palo, y se vierte el azúcar y el ron sobre las yemas. Hacer al baño María. Añadir la nata líquida, enfriar y mover. Cuando esté frío, se introduce en la heladora hasta que se solidifique. Sin heladora, preparar la natillas con medio litro de leche e incorporar cuando esté fría tres claras a punto de nieve y medio litro de nata montada. Para la tartita, es preciso pelar y cortar las manzanas, y engrasar con mantequilla los moldes. Una vez forradas con lonchas de manzanas, rellenar con más manzanas espolvoreadas de azúcar y canela. Poner una bolita de mantequilla, cubrir de papel transparente y hacer en el microondas al máximo dos minutos.
 

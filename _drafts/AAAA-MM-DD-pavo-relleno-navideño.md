@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 pavo, una pieza de 6 kg.
 
 lomo de cerdo, 1 kg. picado
@@ -77,10 +76,8 @@ vino blanco, 1 vaso
 oporto, 1 vaso
 
 <h3>Preparación</h3>
-
 En un soté puesto al fuego, con un poquito de aceite, doramos las carnes. Echamos la manzana y todos los ingredientes y dejamos cocer un poco. Flambeamos con el brandy y el jerez, quedando el relleno preparado. Se rellena el pavo y se cose. Se ata bien con un cordel y listo para asar. En una cacerola, ponemos el aceite, el pavo y lo metemos en el horno. Cuando esté dorado, ponemos la cabeza de ajos machacada y todas las legumbres picadas. Dejamos cocer un poco, y añadimos el vino y el caldo. Tapamos la cacerola y dejamos cocer durante 2 horas. Se retira a una fuente y se pasa la salsa. El caldo de pavo, se hace con los menudos del pavo y legumbres.
 
 <h3>Observaciones</h3>
-
 Se sirve acompañado de coles de Bruselas.
 

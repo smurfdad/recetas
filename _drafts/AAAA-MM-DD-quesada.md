@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 de mantequilla
 
 1 yogur natural
@@ -36,7 +35,6 @@ Para 8 personas.
 4 de leche
 
 <h3>Preparación</h3>
-
 Batir bien todos los ingredientes. Untar el molde de mantequilla. Precalentar el horno y meter la mezcla.
 
 Sacar cuando este la parte de arriba dorada, dejar enfriar y desmoldar.Tomar frío.

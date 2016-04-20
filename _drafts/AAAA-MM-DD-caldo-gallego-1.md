@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Caldo de cocido
 
 Habas
@@ -34,6 +33,5 @@ Patatas
 Unto
 
 <h3>Preparación</h3>
-
 Escaldamos los grelos en agua muy caliente para limpiarlos y que pierdan algo de verde. Ponemos el caldo limpio a calentar y cuando hierva añadimos las patatas, cortadas como para tortilla, los grelos escaldados, las habas remojadas del día anterior y el trozo de unto. Que cueza muy fuerte al principio y a fuego a lento posteriormente.
 

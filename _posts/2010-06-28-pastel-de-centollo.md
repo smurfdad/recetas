@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Un centollo del cantábrico como de un kilo de peso
 
 una pizca de pimienta
@@ -21,7 +20,6 @@ una pizca de pimienta
 200 c.c. de nata líquida
 
 <h3>Preparación</h3>
-
 Cocer el centollo en agua hirviendo con sal durante 15 minutos. Cuando esté frio se escoge la carne del cuerpo y de las patas.
 
 Aparte, en un bol batimos los huevos y añadimos la pasta de tomate, la nata líquida y la carne del centollo, mezclando bien.

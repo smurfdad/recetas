@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 tazas de café expreso frío
 
 1/4 taza licor de café
@@ -42,7 +41,6 @@ categories:
 5 hojas de colapez
 
 <h3>Preparación</h3>
-
 Mezclar el café con el licor y luego batir las yemas hasta que estén espesas. Agregar el queso, revolver, y finalmente incorporar la crema semibatida.
 
 Reservar una taza de la mezcla de café y licor, poner las cinco hojas de colapez. Cuando estén hidratadas, disolverlas al baño María y agregar a la mezcla de crema con queso.

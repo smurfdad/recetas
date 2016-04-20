@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 PARA LA SALSA:
 
 500 gramos de salsa de tomate
@@ -58,7 +57,6 @@ Queso parmesano rallado
 Pimienta
 
 <h3>Preparación</h3>
-
 Preparar las brasciole extendiendo los filetes y rellenándolos con el ajo y el perejil picados, el queso rallado y una pizca de pimienta. Cerrarlas con palillos.
 
 Sofreir en el aceite, a fuego lento, la cebolla, la zanahoria y el apio, hasta que la cebolla esté casi dorada.
@@ -68,6 +66,5 @@ Añadir las brasciole rehogándolas durante dos minutos y, a continuación, aña
 Al presentar las brasciole retiraremos previamente los palillos y las acompañaremos con la salsa. La que sobre puede ser utilizada como condimento de cualquier tipo de pasta, arroz, etc.
 
 <h3>Observaciones</h3>
-
 Si fuera necesario añadiríamos un poquito de agua de vez en cuando durante el tiempo de cocción.
 

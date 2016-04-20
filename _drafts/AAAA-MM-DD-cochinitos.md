@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 libra de harina de trigo
 
 1 gaseosa soda
@@ -38,7 +37,6 @@ Salchichas
 Color
 
 <h3>Preparación</h3>
-
 Se revuelve la harina con la soda, los huevos, la sal y se le hecha un poquito de color.
 
 Se coge una tajada de mortadela, se le pone encima una tajada de queso, encima una salchicha, se enrolla y se sujeta con un palillo.

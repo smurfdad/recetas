@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia a las finas hierbas
 
 750 gr. de carne picada
@@ -50,7 +49,6 @@ aguardiente
 aceite
 
 <h3>Preparación</h3>
-
 Mezcla los quesos, tomate, cebolla, hierbas, pan y salpimenta y amasa bien todos los ingredientes.
 
 Forma albóndigas, enharina, fríe y escurre, para a continuación regar con un poquito de aguardiente.

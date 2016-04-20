@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400cc de leche descremada
 
 2 huevos
@@ -36,7 +35,6 @@ Para 4 personas.
 2 cdas de edulcorante líquido
 
 <h3>Preparación</h3>
-
 Batir los huevos y las claras y agregar la esencia de vainilla.
 
 Disolver el café en la leche y colocar el edulcorante.

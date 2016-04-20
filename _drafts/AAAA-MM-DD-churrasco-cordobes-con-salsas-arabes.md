@@ -23,7 +23,6 @@ Para 1 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 solomillo de cerdo ibérico.
 
 Sal gorda.
@@ -57,6 +56,5 @@ Salsa verde:
 Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos el churrasco quitándole el cordón y las fibras blancas. Hacemos pequeños cortes a lo ancho del solomillo dejando entre corte y corte un centímetro. Ponemos el solomillo, con los cortes hacia el fuego, en una barbacoa de carbón de encina; una vez dorada esta cara, le damos la vuelta y le echamos sal gorda. Mantenemos en el fuego hasta que esté dorado y en su punto. Servimos en compañía de dos salsas árabes: la roja y la verde. Hacemos la salsa roja majando los ajos con un poco de aceite y, a medida que vaya espesando, añadimos el resto de los ingredientes y el aceite. Sazonamos a nuestro gusto. Hacemos la salsa verde cortando el perejil, introduciéndolo en una muñequilla y lavándolo. Lo escurrimos bien y lo trituramos junto a los demás ingredientes, añadiendo poco a poco el aceite. Pasamos por el pasapurés y sazonamos a nuestro gusto.
 

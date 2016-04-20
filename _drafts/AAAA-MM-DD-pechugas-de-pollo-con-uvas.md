@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Pechugas de pollo sin piel 4
 
 Uvas peladas y descarozadas 1 kg.
@@ -53,7 +52,6 @@ Azúcar 50 gramos
 Mostaza de Dijón 1/2 cda
 
 <h3>Preparación</h3>
-
 Pelar las manzanas verdes y quitarles el centro. Cortarlas en rodajas gruesas y llevarlas a una fuente con vino blanco y mantequilla. Cubrir con abundante azúcar y llevar al horno a cocinar.
 
 Salpimentar las pechugas y condimentarlas con curry, pimentón y mostaza de Dijón. Cocinar en una sartén con aceite de oliva a fuego suave. Primero dorar el lado sin mostaza y luego dar vuelta.

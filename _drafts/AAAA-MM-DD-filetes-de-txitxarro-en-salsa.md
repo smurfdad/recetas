@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lomos de txitxarro grande
 
 1/2 kg. de tomate pelado y escurrido
@@ -48,7 +47,6 @@ sal
 perejil picado
 
 <h3>Preparación</h3>
-
 En una cazuela con un poco de aceite de oliva se sofríen la cebolla picada, el ajo machacado y el tomate escurrido y aplastado con un tenedor. En un cazo pequeño se pone el vinagre con el azúcar y pimienta negra del molinillo. Se calienta hasta que caramelice.
 
 Entonces se añade la hoja de laurel y se mezcla con el sofrito de tomate. Se deja hervir todo junto durante unos minutos. Se aclaran bien los lomos de txitxarro. Se les quitan todas las espinas. Se secan con papel absorbente y se sazonan de sal. Se doran poniéndolos unos segundos a fuego vivo en una sartén antiadherente. Tiene que quedar casi crudo por dentro.

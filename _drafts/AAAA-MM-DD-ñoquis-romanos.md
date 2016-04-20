@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250g sémola
 
 2 yemas
@@ -39,7 +38,6 @@ Crema de leche
 Sal
 
 <h3>Preparación</h3>
-
 Colocar en un recipiente la leche fría, la sémola y la sal.
 
 Mezclar y llevar a fuego moderado hasta que espese, revolviendo para que no se formen grumos. Retirar.

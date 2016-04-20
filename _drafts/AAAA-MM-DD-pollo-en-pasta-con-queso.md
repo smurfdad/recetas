@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia a las hierbas
 
 2 pechugas de pollo
@@ -43,7 +42,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Rehogar en la 1/2 de la mantequilla el pollo durante 4 min. por cada lado. Escurrir bien el aceite y córtarlas del tamaño de bocado. Salpimentar y mezclar con el queso, el maíz y la bechamel.
 
 Estirar las láminas de pasta, engrasar, pinchar con tenedor y repartir toda la mezcla sobre 1 lámina.
@@ -51,6 +49,5 @@ Estirar las láminas de pasta, engrasar, pinchar con tenedor y repartir toda la 
 A continuación, pintar los bordes con huevo y cubrir con la otra lámina cerrando bien los borde. Hornear a 190&ordm; durante 35 min. aprox.
 
 <h3>Observaciones</h3>
-
 Posibilidad de presentación: servir en porciones con verduras variadas.
 

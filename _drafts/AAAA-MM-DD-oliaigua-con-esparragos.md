@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Puñado de espárragos
 
 1 Cebolla tierna
@@ -36,6 +35,5 @@ Para 4 personas.
 Pan duro
 
 <h3>Preparación</h3>
-
 Limpiar los espárragos y cortarles la parte dura de la raíz. Colocarlos en una cazuela junto a la cebolla, los tomates, los ajos, el perejil y un poco de agua. Llevar a ebullición sin sofreír. Cuando todo sea tierno añadir las sopas de pan.
 

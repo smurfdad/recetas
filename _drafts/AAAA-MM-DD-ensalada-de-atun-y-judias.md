@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 100 g. de judías blancas secas
 
 1200 g. de atún en aceite
@@ -40,6 +39,5 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Remojar las judías toda la noche. Escurrir. Hervir durante 1,5 horas y escurrir. Aliñar con ajo triturado, aceite, vinagre y cebollas picadas en trozos pequeños. Desmenuzar el aún y mezclarlo. Salpicar con perejil picado y servir.
 

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 25cc aceite
@@ -48,7 +47,6 @@ Cubierta:
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Cortar el extremo superior de las berenjenas y luego por la mitad. Pelar la base de cada una dejando una tira de piel de cada lado. Espolvorear con sal y dejar descansar 20&acute;en un colador para que suelten el sabor amargo. Secar con papel absorbente de cocina, colocarlas en un recipiente para microondas y rociarlas con aceite. Cubrir y cocinar en Máximo (100% de potencia). Reservar. Cubierta:
 
 Cortar las cebollas y el pimiento en tiras. Colocarlos en un bol junto al aceite y los ajos. Cubrir y cocinar 6&acute;en Máximo (100% de potencia)

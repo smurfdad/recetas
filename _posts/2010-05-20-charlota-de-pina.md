@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 24 bizcochos de soletilla
 
 kirch u otro licor
@@ -22,7 +21,6 @@ kirch u otro licor
 1 clara de huevo
 
 <h3>Preparación</h3>
-
 Montar la nata con 2 cucharadas de azúcar glass.
 
 Montar la clara a punto de nieve.

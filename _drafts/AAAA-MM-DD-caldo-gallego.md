@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 carne fresca de ternera (falda o jarrete)
 
 carne salda de cerdo (costilla, tocino)
@@ -36,7 +35,6 @@ habas blancas
 un trozo de unto (unos 50 grms)
 
 <h3>Preparación</h3>
-
 Poner al fuego agua abundante con sal en una olla alta y grande junto con el pedazo de unto y las habas crudas. Cuando hierva añadir las carnes todas juntas y dejar cocer a fuego mediano asi como 1 hora. A media cocion añadir 1 plato sopero bien lleno de patatas cortadas en lascas y a medida que las carnes vayan estando tiernas se retiran y se van traspasando a otra olla manteniendolas con un poco de caldo del cocido. Al final, y ya todo cocido y traspasado, se resala y se le añaden los grelos o el repollo, troceados y dejandolo cocer hasta que esten en su punto. Las carnes se sirven como complemento, bien recalentandolas en la misma olla del caldo o bien aparte con el caldo que le habiamos reservado.
 
 Trucos y consejos

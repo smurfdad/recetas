@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 vaso de azúcar
@@ -34,7 +33,6 @@ Para 4 personas.
 Caramelo líquido
 
 <h3>Preparación</h3>
-
 Se ponen todos los ingredientes en un recipiente y se baten. Una vez, la mezcla esté bien batida, se echa en otro recipiente previamente untado de caramelo y se mete en el microondas durante 16 minutos a 600 W.
 
 Pasado este tiempo, se saca y se le da la vuelta en un plato. Se mete en el frigorífico. Cuando esté frío ya está listo para comer.

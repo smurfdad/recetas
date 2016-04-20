@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 lomos de merluza.
 
 1 docena de langostinos.
@@ -42,7 +41,6 @@ Aceite de oliva.
 Brécol.
 
 <h3>Preparación</h3>
-
 Hacemos una salsa negra y reservamos: Para ello, pochamos la cebolla y el pimiento verde cortado en juliana. Una vez pochada la verdura, añadimos la tinta negra del calamar, un poco de harina y mojamos con el caldo de pescado. Dejamos hervir unos instantes; pasamos por el pasapurés y ponemos a punto de sal. Debe quedar una salsa con cierto cuerpo, color negro brillante y sabor a mar.
 
 Por otra parte pelamos los langostinos, y les dejamos el último segmento de la cola.

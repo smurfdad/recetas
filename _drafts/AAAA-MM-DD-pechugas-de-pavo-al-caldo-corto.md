@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de pechuga de pavo fileteada
 
 50 gr. de cebolla cortada en juliana fina
@@ -44,7 +43,6 @@ Para 4 personas.
 sal y pimienta en grano.
 
 <h3>Preparación</h3>
-
 Cocer todas las verduras con sal y pimienta en grano. Colocar los filetes, sazonados, en una fuente para horno y colocar las verduras con su caldo por encima. Cocer al horno o al fuego, durante 15-20 minutos.
 
 Servir las pechugas con la verdura de guarnición.

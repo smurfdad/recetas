@@ -33,7 +33,6 @@ Para 4 personas.
 - perejil picado
 
 <h3>Preparación</h3>
-
 Pon a remojo, el arroz de víspera y las lentejas con una hora de antelación. Pon las lentejas en la olla rápida, agrega el chorizo, el tocino y los 4 dientes de ajo con piel. Pica finamente la cebolla y añádela. Agrega la pimienta y la sal. Pon la tapa y deja cocer durante 15 minutos.
 
 Pon un poco de aceite en una cazuela, añade la cabeza de ajos entera, rehoga un poco y añade el arroz. Vierte el agua (triple cantidad que de arroz) y deja cocer durante 20 minutos.

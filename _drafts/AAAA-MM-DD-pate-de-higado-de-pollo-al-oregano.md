@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Pollo 10 higaditos
 
 Cebolla 1 mediana
@@ -41,7 +40,6 @@ Sal
 Pimienta Blanca
 
 <h3>Preparación</h3>
-
 Limpiar los hígados, salpimentar y dejar reposar unos minutos. En una sartén con aceite, dorar la cebolla picada y salpimentada. Añadir los hígados y dejar hacer a fuego lento 10 minutos, removiendo.
 
 Agregar el vino junto con el laurel, y dejar hacer muy despacio 15 minutos más, con la sartén tapada, dando vueltas de vez en cuando. Casi al final agregar el orégano, se deja hacer un par de minutos más, y luego que repose con la sartén tapada y el fuego apagado.

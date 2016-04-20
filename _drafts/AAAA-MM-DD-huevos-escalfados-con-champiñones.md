@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos
 
 300 g de champiñones
@@ -42,6 +41,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Retirar la parte terrosa de los champiñones. Limpiarlos con un paño húmedo, si no están muy sucios y trocearlos. Pelar las cebollas y rehogarlas en 1 dl con aceite. Agregar los champiñones y saltearlos a fuego vivo. Salpimentar y reservar. Llevar a ebullición 2 l de agua con el vinagre. Cascar los huevos de uno en uno en una taza y deslizarlos desde el borde de la cazuela al agua hirviendo. Bajar el fuego y envolver la yema con al clara, con la ayuda de una espumadera, continuar la cocción durante 4 minutos. Sacarlos de la cazuela y ponerlos en un recipiente con agua fría. Freír las rodajas de pan en el aceite caliente, repartir la preparación de las cebollas y champiñones en 4 cazuelitas pequeñas y poner encima los huevos. Espolvorear con el cebollino picado y servir enseguida.
 

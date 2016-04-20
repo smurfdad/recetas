@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 cabrito, sin la cabeza
 
 1 cabeza de ajos
@@ -34,7 +33,6 @@ Para 4 personas.
 vinagre aromático de tomillo hierbas
 
 <h3>Preparación</h3>
-
 Se salpimenta el cabrito y se coloca en una barreña de barro, con las costillas visibles, repartiendo sobre él trozos de ajos sin pelar y las hojas de laurel. Se introduce en un horno de leña, no muy fuerte, durante una hora y media, aproximadamente
 
 A mitad de cocción se le da la vuelta, continuando la cocción hasta que esté dorado.

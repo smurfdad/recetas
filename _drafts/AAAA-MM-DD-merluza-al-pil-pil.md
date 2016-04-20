@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Una merluza mediana (2 Kg. aprox.).
 
 1/4 l. de aceite.
@@ -35,7 +34,6 @@ Perejil.
 Sal.
 
 <h3>Preparación</h3>
-
 En la pescadería pida que quiten las escamas, la cabeza, las espinas y corten la merluza en lomos, aproximadamente del tamaño de la palma de la mano.
 
 Salamos el pescado y picamos los dientes de ajo y el perejil. Ponemos el aceite en una cazuela de barro a fuego lento y cuando esté un poco caliente, echamos el ajo y el perejil y lo sofreimos durante un par de minutos.

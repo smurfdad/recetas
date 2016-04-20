@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de rapé limpio
 
 16 pimientos del piquillo
@@ -35,6 +34,5 @@ Para 4 personas.
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 En una sartén ponemos un poco de aceite y los ajos cortados en láminas, a fuego lento dejamos dorar, añadimos los medallones de rapé y los pimientos, sazonamos de sal, añadimos un poco de fumé y metemos a horno fuerte por espacio de seis minutos aproximadamente.
 

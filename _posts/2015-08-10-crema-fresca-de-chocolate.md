@@ -18,7 +18,6 @@ tags:
 - Claras Montadas 150g
 
 <h3>Preparación</h3>
-
 Comenzamos mezclando en un cazo leche, la nata, el azúcar y el chocolate troceado. Calentamos removiendo hasta conseguir que se disuelva el chocolate y que la mezcla sea uniforme. Retirar del fuego y reservar.
 
 Separar las claras, añadirles azúcar y montar con la ayuda de la batidora.

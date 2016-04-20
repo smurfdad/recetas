@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 chuleticas de cordero
 
 4 patatas grandes
@@ -31,7 +30,6 @@ Comino, sal y pimienta al gusto
 Aj&igrave; para decorar.
 
 <h3>Preparación</h3>
-
 Se lavan y se cepillan bien las patatas. Con todo y c&agrave;scara, se espolvorean con comino y sal y se envuelven en papel de aluminio. Van al horno por una hora a 350&ordm;F o 180&ordm;C.
 
 Se colocan en la licuadora, el manojo de menta, el az&ugrave;car, el vinagre, una cucharada de agua y una pizca de sal. Se mezcla todo hasta que quede una salsa l&igrave;quida.

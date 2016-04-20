@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gramos de sepia
 
 180 gramos de alubia blanca (en crudo)
@@ -48,7 +47,6 @@ laurel
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Ponemos a remojo las alubias el día anterior. Al día siguiente, vertemos las alubias en una cazuela, las cubrimos con agua fría (dos dedos por encima), añadimos dos cucharadas de aceite de oliva y ponemos a fuego fuerte.
 
 Cuando comience a hervir, añadimos media cebolla, el puerro y dejamos cocinar durante 45 minutos a fuego medio.

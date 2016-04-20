@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 muslos de pollo deshuesados.
 
 4 lonchas de jamón curado.
@@ -44,6 +43,5 @@ Aceite.
 Pimienta.
 
 <h3>Preparación</h3>
-
 Se salan los muslos de pollo, se rellenan con el jamón, se enrollan y se cierran con palillos. Las patatas peladas se cortan en lonchas de medio centímetro y se colocan en el fondo de una placa de horno, poniendo encima la cebolla y el pimiento cortados en juliana. Encima se colocan los muslos de pollo se salpimientan y se le agrega aceite y un vaso de agua. Se mete la placa en el horno, a 180 grados, durante unos 40 minutos. Si se queda seco, se le pone más agua. Si la salsa queda muy ligera, se puede ligar con fécula.
 

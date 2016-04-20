@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de tomates
 
 2 pimientos verdes
@@ -37,6 +36,5 @@ Pimentón
 Orégano
 
 <h3>Preparación</h3>
-
 En un caldero ponemos un chorrito de aceite junto con los pimientos, los ajos y las cebollas, picados en trozos pequeños. Cuando la cebolla esté transparante añadimos los tomates, los cuales deben de estar lavados, picados y degranados. Lo dejamos guisar unos 5 minutos y le añadimos tres cucharadas de azúcar, una cucharda de pimentón y sazonamos levemente.Para finalizar le vertemos el agua hasta cubrir los tomates y dejamos que hierva unos minutos.
 

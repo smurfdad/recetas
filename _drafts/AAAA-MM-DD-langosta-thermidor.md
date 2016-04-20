@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 langosta, 2 piezas de 600-700 gr.
 
 bechamel, 250 ml.
@@ -55,6 +54,5 @@ perejil, 1 rama
 lechuga, unas hojas
 
 <h3>Preparación</h3>
-
 Se abren a la mitad y se vacían los caparazones y se cubre la bordura con el puré de patata. En una sartén se fríe la charlota y se echa la langosta cortada en trozos pequeños, se pica la trufa y se flambea con el brandy y se pone la bechamel, la nata y las yemas de huevo. Se rellenan las langostas y se gratinan con el queso rallado, quedando un color dorado. Se pasa a una fuente con blonda o se sirve directamente. La langosta se cuece en poca agua (sólo que la cubre), con bastante sal, vinagre y laurel durante 18 ó 20 minutos.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gramos de pasta corta.
 
 150 gramos de tocineta.
@@ -45,7 +44,6 @@ Para 4 personas.
 Sal, pimienta, oregano, albahaca y queso parmesano reggiano al gusto.
 
 <h3>Preparación</h3>
-
 En un recipiente se coloca agua suficiente para hervir la pasta con un poco de sal.
 
 En otro se coloca la tocineta finamente picada con las 2 cucharadas de aceite y los 2 dientes de ajos finamente picados, una vez que la tocineta y el ajo esten en su punto ideal se agrega la pasta de tomate y la copa de vino conjuntamente con el vaso de caldo selecionado.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. de lentejas.
 
 1 cebolla mediana.
@@ -59,6 +58,5 @@ Harina la que admita la masa.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Se dejan en remojo las lentejas un par de horas antes de cocinarlas. En un perol cocemos las lentejas con el agua suficiente, el laurel y unos dientes de ajo. Cinco minutos antes de apartarlas le agregamos las patatas troceadas y el sofrito, que habremos realizado a parte, compuesto de la cebolla bien dorada, los ajos, el pimiento choricero y l pimentón, agregándoselo todo a las lentejas al tiempo que le añadimos la sal y los papajotes. La realización de los papajotes está basada en la mezcla de todos los ingredientes, una vez mezclados se fríen en abundante aceite de oliva hasta conseguir el dorado deseado.
 

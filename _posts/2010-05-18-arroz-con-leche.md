@@ -18,7 +18,6 @@ Para 8 personas.
 - canela para espolvorear
 
 <h3>Preparación</h3>
-
 Poner la leche a hervir en una cazuela baja y grande.
 
 Cuando hierva añadir el palo de canela, la corteza de limón y el arroz.

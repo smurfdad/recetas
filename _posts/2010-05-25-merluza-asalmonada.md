@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. merluza, en 2 lomos, sin piel ni espinas
 
 1 limón
@@ -23,7 +22,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se colocan los lomos de merluza en una fuente de horno.
 
 Se echa sal, el zumo de limón y la mantequilla repartida en trozos.

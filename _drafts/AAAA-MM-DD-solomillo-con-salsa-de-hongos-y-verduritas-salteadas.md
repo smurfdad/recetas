@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 solomillos de buey de 200 gramos.
 
 4 hongos.
@@ -41,7 +40,6 @@ Sal.
 1 bote de verduras tipo menestra cocida para la guarnición.
 
 <h3>Preparación</h3>
-
 Cocinamos al estilo plancha el solomillo en una sartén o una parrilla. La sartén debe estar caliente y el solomillo ligeramente engrasado con aceite.
 
 Lo cocinamos vuelta y vuelta, al gusto del comensal.

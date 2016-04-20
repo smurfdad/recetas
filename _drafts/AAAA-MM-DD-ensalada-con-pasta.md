@@ -22,7 +22,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 250g de fideos tirabuzón
 
 4 tomates pelados, despepitados cortados en cubitos
@@ -40,7 +39,6 @@ categories:
 El jugo de un limón, sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Hervir la pasta en abundante agua con sal, cuando este al dente colar, dejar enfriar y reservar.
 
 Hacer una emulsión con el aceite, el jugo de limón, la mostaza, la sal y la pimienta.

@@ -22,7 +22,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 2 litros de caldo de pollo
 
 3/4 taza de arroz blanco de grano largo
@@ -36,7 +35,6 @@ categories:
 80cc de jugo de limón
 
 <h3>Preparación</h3>
-
 En una cacerola grande, poner a hervir el caldo a fuego moderado, agregar el arroz, las cebollitas de verdeo, el perejil y la ralladura de limón.
 
 Cuando suelte el hervor, bajar la llama para que la mezcla siga hirviendo, tapar y cocinar por 20 minutos, hasta que el arroz esté suave.

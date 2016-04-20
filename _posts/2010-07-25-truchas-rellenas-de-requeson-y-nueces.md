@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 truchas
 
 150 gr. de jamón serrano
@@ -27,7 +26,6 @@ aceite virgen extra
 perejil
 
 <h3>Preparación</h3>
-
 Limpia las truchas, retirando la espina central. Introduce dentro de cada una loncha de jamón serrano. Pásalas por harina y fríelas en una sartén con aceite. Colócalas en una fuente amplia.
 
 Casca y pela las nueces. Mezcla en un bol el requesón, la mitad de las nueces y el resto del jamón picado. Coloca la mezcla en una manga pastelera y rellena las truchas.

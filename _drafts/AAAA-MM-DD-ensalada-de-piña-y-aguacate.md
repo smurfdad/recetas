@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 piña
 
 2 aguacates
@@ -31,6 +30,5 @@ sal, pimienta
 mayonesa al gusto.
 
 <h3>Preparación</h3>
-
 Cortamos la piña a lo largo, sacamos el centro, lo cortamos en cuadritos igual que el aguacate. Agregamos sal , pimienta y mayonesa. Se vuelve a rellenar la piña. Se adorna con tiras de aguacate.
 

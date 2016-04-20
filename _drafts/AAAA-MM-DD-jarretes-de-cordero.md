@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 jarretes de cordero de leche
 
 1 cebolla
@@ -46,7 +45,6 @@ harina para enharinar
 sal
 
 <h3>Preparación</h3>
-
 Se calienta un poco de aceite de oliva en la olla. Cuando esté caliente, se sofríen la cebolla y la zanahoria, ambas picadas. Se añade un ramo de perejil. En una sartén, se doran los jarretes, previamente sazonados y pasados por harina. Una vez dorados, se sacan y se reservan.
 
 En la misma olla, sobre el sofrito de verdura, se ponen los jarretes ya dorados. Se añade el tomate cortado en dados pequeños. Se moja el conjunto con un poco de caldo de carne o con un poco de agua. Se cierra la olla y se tiene 20 minutos al fuego (según cómo sea el cordero).

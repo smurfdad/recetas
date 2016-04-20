@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 4 patatas horneadas, todavía calientes.
 
 1 taza de queso rallado fino.
@@ -33,10 +32,8 @@ Para 4 personas.
 3 tomates.
 
 <h3>Preparación</h3>
-
 Se parten por la mitad las patatas y se ponen en un plato para microondas. Se hace una mezcla con el queso y el jamón y los tomates picados muy finos y se rellena una mitad de cada patata con esta mezcla. Se cocina en el microondas a temperatura alta durante 3 minutos o hasta que el queso se derrita, rotando el plato después de 1 minuto y medio. Queda muy bien echarle más queso por encima.
 
 <h3>Observaciones</h3>
-
 Para acompañar la comida podéis servir las patatas con zanahorias pequeñitas u otros vegetales. También se puede sustituir el jamón por carne sazonada.
 

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Pollo de 1,8 Kg aprox.
 
 1 Cebolla o cebolleta
@@ -40,7 +39,6 @@ perejil
 aceite, sal y pimienta blanca.
 
 <h3>Preparación</h3>
-
 Salpimentamos el pollo previamente troceado y lo freimos hasta que quede crujiente la piel, lo reservamos.
 
 picamos la cebolla, el ajo y el tomate (sin las semillas), salpimentamos y lo sofreimos en una cazuela alta, cuando esté doradito, le añadimos el caldo de ave y el perejil picado y lo dejamos cocer durante 5 minutos.

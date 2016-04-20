@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Patata 2 cocidas
 
 Tomate 2
@@ -43,7 +42,6 @@ Vinagre
 Sal gorda
 
 <h3>Preparación</h3>
-
 Limpiar los tomates y partirlos en rodajas colocándolas en el fondo de una fuente. Después, añadir la patata pelada y en lonchas. Sazonar con sal gorda.
 
 A continuación, poner los pimientos rojos y el verde en tiras finas.

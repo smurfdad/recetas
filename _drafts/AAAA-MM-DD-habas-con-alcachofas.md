@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 docena alcachofas
 
 1/2 kilo habas
@@ -30,7 +29,6 @@ Para 4 personas.
 200 gr jamón
 
 <h3>Preparación</h3>
-
 Cocer las alcachofas y las habas, una vez cocidas, escurrirlas, reservando parte del caldo.
 
 En una sartén se fríe el jamón troceado, una vez frito se le añade una cucharada de harina y se mezcla bien.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 tomates maduros
 
 2 pimientos verdes
@@ -36,6 +35,5 @@ vinagre de yema
 sal
 
 <h3>Preparación</h3>
-
 Se trocean los tomates y los pimientos en crudo, quitando las semillas y enjuagándolos bien. Se agrega la cebolla a trozos y se adereza con el vinagre, la sal y el aceite. Se sirve como guarnición acompañando el pescado asado en la plancha.
 

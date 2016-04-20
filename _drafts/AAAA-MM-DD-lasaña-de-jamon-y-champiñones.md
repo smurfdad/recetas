@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 450 gr. hojas de lasaña secas.
 
 3 cucharadas de aceite de oliva.
@@ -44,6 +43,5 @@ Pan rallado.
 230 gr. mozzarella rallada.
 
 <h3>Preparación</h3>
-
 Cocinar las hojas de lasaña en agua hirviendo hasta que estén al dente. Para el relleno calentar el aceite en una cacerola grande y saltear la cebolla hasta que esté suave. Poner los champiñones y saltear brevemente. Sumar los tomates y el perejil y cocinar 40 minutos más, agregando el vino a medida que se va secando la salsa. Condimentar. Engrasar un molde con aceite y colocar por encima el pan rallado. Colocar de forma alternada capas de masa y de relleno, y sobre este rociar con el jamón y la mozzarella. Hornear 20 minutos y gratinar, dejar reposar tres minutos más y servir.
 

@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 2 kilos de mejillones
 
 1 cebolla grande cortada en trozos
@@ -49,7 +48,6 @@ Perejil
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Lavar convenientemente los mejillones verificando que estén bien cerrados, si esta abierto desecharlo.
 
 Colocar los mejillones en una olla grande con agua previamente salada, el perejil, los dientes de ajo enteros y pelados, la cebolla, el vino blanco tapar y llevar a fuego fuerte hasta que se abran luego dejar hervir durante 3 minutos mas escurrir los mejillones y descartar ahora los que quedaron cerrados, reservar en un bowl el líquido de la cocción.

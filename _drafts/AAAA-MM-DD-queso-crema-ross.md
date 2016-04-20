@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 5 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Queso Crema Grande
 
 1 cebollita cambray o bien cebollita de verdeos un manojito chiquito
@@ -35,7 +34,6 @@ Para 5 personas.
 sal y pimienta para sazonar
 
 <h3>Preparación</h3>
-
 Limpíar: la cebollita Cambray (quitar la primera capita de la cebolla y quitar la parte del rabo)
 
 Cortar: finamente con cuchillo, o bien con el procesador (picar), el surimi, cebollita, y perejil, que quede super mega finitos, mas no que quede como papilla.

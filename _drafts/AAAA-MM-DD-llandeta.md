@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas grandes
 
 1 mújol grande
@@ -64,7 +63,6 @@ Sal
 2,5 l. de agua
 
 <h3>Preparación</h3>
-
 Se cortan las patatas en rodajas gruesas, el mújol se divide en seis porciones y se cortan los calamares longitudinalmente. Se reserva.
 
 Se fríe el pan duro con los hígados de rape y a continuación se añade el agua y el aceite, junto con el resto de los ingredientes. Debe cocer a fuego lento de 20 a 25 minutos.

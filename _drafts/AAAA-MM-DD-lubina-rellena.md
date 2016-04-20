@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lubina de 1500 gr. aproximadamente
 
 250 gr. champiñón
@@ -48,7 +47,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Quitar la espina de la lubina, salar y rociar con zumo de limón.
 
 Para hacer el relleno:

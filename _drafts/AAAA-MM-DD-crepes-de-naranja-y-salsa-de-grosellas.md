@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 crepes
 
 2 yemas de huevo
@@ -46,6 +45,5 @@ Para LA SALSA:
 unas hojas de menta
 
 <h3>Preparación</h3>
-
 Calentar a fuego suave, los huevos, con el azúcar y el zumo de naranja. Remover con una cuchara de madera y retirar del fuego antes de que hierva. Ponerla en un recipiente frío y agregar la mantequilla. Batir ligeramente de vez en cuando para que no se forme una costra. Cocer la juliana de naranja durante 4 minutos. Calentar la mermelada con dos cucharadas de agua. Pasar por un colador. Repartir la crema en los crepes, doblarlos y servirlos en platos individuales. Adornar con la salsa de grosellas, la juliana de naranja y las hojas de menta.
 

@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 2 berenjenas grandes.
 
 100gr de arroz cocido.
@@ -43,7 +42,6 @@ una nuez de mantequilla o aceite de oliva
 1/2 litro de leche
 
 <h3>Preparación</h3>
-
 Cortamos las berenjenas a lo largo por la mitad, hacemos unos cortes
 
 en el interior y colocamos en una placa de horno, sazonándolas y echándoles

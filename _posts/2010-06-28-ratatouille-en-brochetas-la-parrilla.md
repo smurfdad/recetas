@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Marinado:
 
 1/2 taza de vino blanco
@@ -31,5 +30,4 @@ Marinado:
 2 tomates, picados en pedazos grandes
 
 <h3>Preparación</h3>
-
 Prepare el marinado y deje a un lado. Coloque a los vegetales en las brochetas. Coloque a las brochetas en el marinado por 30 minutos. Coloque a las brochetas sobre la parrilla, lejos del sector más caliente. Cocínelas hasta que apenas estén suaves.

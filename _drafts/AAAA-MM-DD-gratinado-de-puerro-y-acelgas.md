@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 g de pencas de acelga
 
 300 g de puerros
@@ -48,6 +47,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Pelar las pencas y cortarlas en juliana fina. Cocerlas al vapor durante 15 minutos. Limpiar los puerros y cortar la parte blanca en rodajas. Calentar el aceite y rehogar los dientes de ajo con los puerros, agregar el bacón y la juliana de acelga, salpimentar. Disponer el conjunto en una fuente de horno. En un bol batir los huevos con la leche, el queso rallado, pimienta y sal. Agregar 1 cucharada de cebollino y cubrir las verduras. Meter en el horno precalentado a 200 grados de 15 a 20 minutos. Sacar del horno espolvorear con el cebollino picado y servir enseguida.
 

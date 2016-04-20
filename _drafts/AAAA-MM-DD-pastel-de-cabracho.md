@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de krabarroka (cabracho) limpia, desescamada, y sin cabeza
 
 1/4 kg. de salsa de tomate
@@ -38,7 +37,6 @@ Sal
 Pimienta blanca recién molida
 
 <h3>Preparación</h3>
-
 Se cuece el pescado después de limpio, en un puchero con agua y un punto de sal, lo necesario para que podamos desespinarlo y desmenuzarlo. Una vez hecho esto, lo dejaremos en un recipiente, reservándolo.
 
 En un molde antiadherente de 1 1/2 litros de capacidad, lo untamos de mantequilla y espolvoreamos con pan rallado, dejándolo un rato en el frigorífico. En un recipiente tipo ensaladera, batimos bien los huevos hasta que monten un poco, le añadimos el cuarto de litro de salsa de tomate, el cuarto de litro de nata y el pescado desmenuzado.

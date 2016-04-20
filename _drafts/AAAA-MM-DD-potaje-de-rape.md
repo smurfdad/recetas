@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de almejas
 
 500 gr. de garbanzos
@@ -54,7 +53,6 @@ Aceite
 Pimienta en grano
 
 <h3>Preparación</h3>
-
 Poner los garbanzos en la olla exprés con agua templada (habiendo estado a remojo anteriormente), 1/4 de cebolla, pimienta, los clavos, aceite y perejil. Cocer 1 hora.
 
 Hacer un caldo con la espina y la cabeza del rape, 1/4 de cebolla, laurel, perejil, pimienta y sal.

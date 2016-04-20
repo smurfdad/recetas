@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pechuga de pavo grande como para 4 personas
 
 2 dientes de ajo
@@ -42,7 +41,6 @@ salsa de tomate
 patatas fritas.
 
 <h3>Preparación</h3>
-
 Cortar la pechuga de pavo en filetes finos y salarlos. A continuación untar bien por ambos lados con la mostaza y dejar macerar durante 1 hora.
 
 Transcurrido este tiempo pasar los filetes por harina, que habrá tamizado previamente, y freírlos en aceite de oliva muy caliente, junto con dos dientes de ajos golpeados y aplastados.

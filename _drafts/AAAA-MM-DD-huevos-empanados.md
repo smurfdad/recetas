@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Seis huevos
 
 besamel
@@ -34,6 +33,5 @@ tomate frito
 150 gr. de pan rallado
 
 <h3>Preparación</h3>
-
 Primero freír los huevos, dejándolos enfriar. Se envuelven con besamel, rebozándoles con huevo batido y se empanan, listos para freír. Este plato se acompaña con salsa de tomate frito.
 

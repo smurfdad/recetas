@@ -7,7 +7,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 1/4 Kg. de costillas de cerdo.
 
 6 tacitas de arroz.
@@ -27,7 +26,6 @@ garbanzos cocidos.
 azafrán, aceite y sal.
 
 <h3>Preparación</h3>
-
 Poner aceite en una sartén honda y freir las
 
 costillas partidas en trozos pequeños. Añadir la patata cortada

@@ -11,7 +11,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 pimientos rojos grandes, que al comprarlos comprobemos que tienen la carne dura.
 
 2 huevos hervidos.
@@ -23,7 +22,6 @@ un diente de ajo. optativo.
 aceite de oliva.
 
 <h3>Preparación</h3>
-
 limpiamos los pimientos con un paño de cocina o papel y los metemos a horno medio durante treinta o cuarenta minutos o hasta que comprobemos que empiezan a estar blanditos.
 
 sacamos del horno y dejamos enfriar.

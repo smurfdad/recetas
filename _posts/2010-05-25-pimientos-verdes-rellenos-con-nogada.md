@@ -11,7 +11,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 24 pimientos verdes medianos
 
 1/2 kg. de carne cocida picada muy fino
@@ -31,7 +30,6 @@ Para 8 personas.
 sal, pimienta, aceite
 
 <h3>Preparación</h3>
-
 FARSA O RELLENO:
 
 Picar la cebolla en trozos menudos y ponerla en una cazuela, con aceite, a dorar, a fuego no muy fuerte.

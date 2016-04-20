@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gramos carne troceada.
 
 12 zanahorias torneadas.
@@ -51,7 +50,6 @@ Sal.
 Caldo.
 
 <h3>Preparación</h3>
-
 Troceamos la carne, la sazonamos, la pasamos por harina y la freímos en una sartén con aceite.
 
 Cuando la carne este dorada, añadimos las patatas y las zanahorias peladas y troceadas. También incorporamos los champiñones, las cebollitas, los guisantes y el vaso de vino. Rehogamos un par de minutos y cubrimos todo con caldo o agua.

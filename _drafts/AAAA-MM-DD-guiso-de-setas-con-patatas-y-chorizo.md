@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg de setas
 
 1/2 kg de patatas
@@ -42,7 +41,6 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Se pone el aceite a calentar. Se echa la cebolla bien picadita, el pimiento y los ajos a fuego lento.
 
 Cuando esté pochado se echan las patatas cortadas en rodajas finas, que se van rehogando y luego las setas. Por último el chorizo en rodajas y las tomatillas. Todo se sigue rehogando.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 160 gr arroz
 
 4 bolsas de tinta de calamar
@@ -21,7 +20,6 @@ caldo de pescado
 1 cebolla
 
 <h3>Preparación</h3>
-
 Picar la cebolla muy fina y rehogarla con un poco de aceite.
 
 Cuando este echa, añadir los chipirones troceados, dejándolos que se hagan.

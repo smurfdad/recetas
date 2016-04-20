@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 huevo
 
 5 cucharadas de azúcar
@@ -40,7 +39,6 @@ Aceite para freír
 Azúcar glass
 
 <h3>Preparación</h3>
-
 Batir el huevo con el azúcar, añadir el aceite frito y frío, el zumo de naranja y el anís.
 
 Ir añadiendo harina y amasar con las manos hasta que quede una masa compacta y que no se pegue a las manos.

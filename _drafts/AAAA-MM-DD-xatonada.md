@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Salsa xató:
 
 1 escarola de cabello de ángel
@@ -62,10 +61,8 @@ Un trocito de guindilla
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Emulsionar muy bien los elementos sólidos de la salsa con ayuda de un triturador, adicionar el vinagre y después el aceite a chorro fino y trabajarla muy bien para que la salsa quede completamente fina y ligada. Cubrir el fondo de una bandeja plana con la escarola, disponer con armonía el bacalao y el atún, aliñar con la salsa y decorar con las anchoas, aceitunas, rábanos y tomates cereza.
 
 <h3>Observaciones</h3>
-
 La xatonada se suele acompañar con tortillas rellenas.
 

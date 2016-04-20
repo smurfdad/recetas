@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 Kgr. de jamoncitos de pollo
 
 1/2 Kgr. de champiñones
@@ -46,10 +45,8 @@ pimentón
 sal
 
 <h3>Preparación</h3>
-
 Partir la cebolla en trocitos y sofreirla. Pasar los jamoncitos por harina y añadir a la sartén, añadir el pimentón y la sal y freirlos hasta que estén dorados. Añadir entonces el brandy y flambear, moviéndolos hasta que se apague el fuego. Cubrir con el caldo de verduras y poner a fuego lento, lo mas lento posible, que solo burbujee y dejar cocer así el mayor tiempo posible, una hora u hora y media comprobamos que la carne esté muy muy tierna y añadimos los guisantes. Mientras tanto se saltean los champiñones cortados a láminas con un ajo y freimos en otra sartén la patata cortada a cuadraditos. Se mezcla todo, se pone a hervir, y solo empezar a hervir se apaga el fuego.
 
 <h3>Observaciones</h3>
-
 Los jamoncitos de pollo pueden sustituirse por jarretes.
 

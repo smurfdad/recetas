@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1,5 kg. de pollo partido en 6 pedazos
 
 400 g de arroz
@@ -50,6 +49,5 @@ pimentón dulce
 sal.
 
 <h3>Preparación</h3>
-
 Se pone al fuego una cacerola de hierro, con el aceite. Se fríe el tocino en cuadraditos, y una vez dorado, se añaden los trozos de pollo, dejándolo dorarse unos minutos por cada lado. Una vez frito el pollo se retira y se echa a fuego fuerte la langosta, viva. Se tapa y se deja unos minutos de cada lado. Se retira también y se echan a fuego fuerte los tomates, previamente pelados y picados. A media cocción se echan los ajos previamente majados en el mortero, se rehogan un poco y se agrega el pollo, dejándolo todo a fuego suave unos cinco minutos. Entonces se incorpora la cola de langosta cortada en seis rodajas, y se agrega un poco de pimentón molido. Se remueve todo y se agrega el arroz, procurando que se impregne bien con la salsa. Una vez bien rehogado el arroz, se riega con 1,5 litros (unos 6 vasos de los de agua) de caldo (hecho con la cabeza, patas y cuernos de la langosta, sal, perejil, cebolletas y unos dos litros de agua, se dejará hervir todo durante 1 hora y se cuela). Se deja cocer todo veinte minutos a fuego fuerte y, unos minutos antes de sacarlo del fuego, se adorna con unas tiras de pimiento morrón. Se sirve en la misma cazuela.
 

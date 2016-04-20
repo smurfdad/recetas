@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 libra de raíz de apio pelada y picada en ruedas
 
 mantequilla
@@ -34,7 +33,6 @@ una pizca de nuez moscada
 almendras enteras
 
 <h3>Preparación</h3>
-
 En una sartén pequeña, a fuego mediano, pase las almendras por mantequilla, revolviendo, por dos o tres minutos.
 
 En una cacerola, hierva el apio en agua hasta que esté tierno. Cuele y escurra bien. Meta en un bol grande y maje bien con un majador de papas. Cuele por un tamiz, apretando con la parte de atrás de una cuchara grande.

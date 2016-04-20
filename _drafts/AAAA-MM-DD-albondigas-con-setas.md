@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cucharón de caldo de carne.
 
 300 gr. de carne de cerdo picada.
@@ -46,7 +45,6 @@ pimienta.
 500 gr. de setas.
 
 <h3>Preparación</h3>
-
 Mezclar las carnes con el pan, los huevos crudos, el ajo picado, sal y pimienta. Dejar reposar un poco. Formar las albóndigas, enharinarlas y freírlas. Dejar un poco de aceite y freír la cebolla picada.
 
 Cuando esté dorada añadir la copa de jerez, el cucharón de caldo de carne e incorporarla a las albóndigas fritas. Aparte freír las setas y añadirlas a. las albóndigas. Cocer diez minutos todo junto antes de servir.

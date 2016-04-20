@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 450 g de filetes de lubina (super fresco)
 
 450 g de filetes de dorada (super fresca)
@@ -43,12 +42,10 @@ sal pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Cortar finamente los filetes de pescado. Regarlos con el zumo de las limas.
 
 Salpimentar. Añadir el perejil y las escalonias bien picados. Mezclar. Reservar mínimo 15 minutos en la nevera. Mientras limpiar la lechuga, escurrirla bien. Recortarla para adornar el fondo de cada plato. Partir la masa de pescado en 6 partes iguales. Colocar cada tártaro sobre el nido de lechuga, colocar en el centro una cucharadita de huevos de salmón.
 
 <h3>Observaciones</h3>
-
 Se puede adornar con más cosas: rodajas de tomate, huevo duro etc.
 

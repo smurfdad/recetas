@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 huevos
 
 1 1/2 taza de harina con polvos
@@ -38,6 +37,5 @@ Para 8 personas.
 Ralladura de naranja o limón o si prefiere, esencia de vainilla.
 
 <h3>Preparación</h3>
-
 Se bate la mantequilla con el azúcar hasta que esté espumosa, se le agregan los huevos de a uno, alternando con la harina cernida mezclada con el polvo de hornear y la ralladura o esencia. Vaciar a un molde enmantequillado y llevar a horno medio pre-calentado por 20 a 25 minutos.
 

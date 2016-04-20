@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg de lomo de cerdo
 
 200g de jamón cocido en cubos
@@ -36,7 +35,6 @@ Aceite
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Sellar los cubitos de cerdo junto con el jamón cocido, el jamón crudo y las cebollitas baby, en una sartén con un poco de aceite. Agregar el vino blanco y dejar reducir, salpimentar a gusto.
 
 Tomar un pinche de brochette colocar un trozo de cerdo, luego uno de jamón cocido y luego media cebollita baby cortada longitudinalmente, luego otro de jamón crudo, repetimos la acción y dejamos como último un trozo de lomo.

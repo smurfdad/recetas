@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de merluza.
 
 3 cebolletas.
@@ -45,7 +44,6 @@ Caldo de pescado.
 Sal.
 
 <h3>Preparación</h3>
-
 Se pica un diente de ajo y la cebolleta y sé pocha en una sartén con un poco de aceite. El otro diente de ajo se machaca con el pan frito, un poco de caldo y unas hebras de Azafrán.
 
 Las rodajas de merluza se salan, se envuelven en harina y se fríen ligeramente, vuelta y vuelta, en el aceite donde se ha frito la cebolleta.

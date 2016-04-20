@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 300 gr. de queso Philadelphia
 
 150 gr. de yogur griego
@@ -36,7 +35,6 @@ Fruta de temporada en daditos
 1 lámina de pasta brisa descongelada
 
 <h3>Preparación</h3>
-
 Rocíar la fruta con el limón. Batir el queso y el yogur más 50 gr. de azúcar. Hervir un poco de agua con el resto del azúcar hasta lograr un almíbar claro.
 
 Estirar la pasta, forrar un molde engrasado y pinchar con un tenedor. Poner papel de aluminio y hornear a 182&ordm; durante 20 min.

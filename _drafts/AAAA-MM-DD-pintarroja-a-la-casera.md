@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pintarroja.
 
 1 cebolleta.
@@ -50,7 +49,6 @@ Caldo de pescado o agua.
 1 cucharadita de harina.
 
 <h3>Preparación</h3>
-
 La pintarroja se limpia, se le quita la piel, se trocea y se sazona. Las verduras y el ajo picado se ponen a rehogar. Una vez que todo esta pochado, se agrega el laurel y el azafrán, añadimos la harina, rehogamos bien e incorporamos el pescado.
 
 Se añade el caldo de pescado o agua y se deja cocer durante cinco minutos. El conjunto se espolvorea con una mezcla de pan rallado y perejil picado y se pone a gratinar durante tres minutos.

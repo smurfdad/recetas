@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. Lomo de cerdo (trozo)
 
 2 latas de coca-cola
@@ -32,7 +31,6 @@ Para 4 personas.
 Aceite
 
 <h3>Preparación</h3>
-
 Poner el aceite en la olla y dar unas vueltas al lomo para que se dore por fuera. A continuación, añadir la coca-cola y el sobre y medio de sopa de cebolla.
 
 Dejar cocer una hora aproximadamente.

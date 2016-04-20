@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. puerros o endibias cocidos y escurridos
 
 100 grs. jamón
@@ -21,7 +20,6 @@ sal, pimienta.
 50 grs. queso rallado
 
 <h3>Preparación</h3>
-
 Ya cocidas y escurridas las verduras envolver cada puerro o cada trozo de endibia (estas últimas cortadas en 2 ó 4 trozos) con una loncha de jamón.
 
 Colocarlas en una fuente de horno.

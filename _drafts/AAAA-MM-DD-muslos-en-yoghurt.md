@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 muslos de pollo sin piel.
 
 1 taza de yoghurt natural simple.
@@ -37,7 +36,6 @@ Para 4 personas.
 sal y pimienta al gusto.
 
 <h3>Preparación</h3>
-
 Coloque los muslos,ajo,cebolla y el yoghurt en un taz&ograve;n,dejelos sazonar.D&egrave;les vuelta para que se cubran por todas partes,marine en refrigeraci&ograve;n por unas 2 a 3 horas.
 
 Caliente una sart&egrave;n y agregue el aceite.

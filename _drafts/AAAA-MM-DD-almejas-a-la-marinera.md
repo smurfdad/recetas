@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 72 almejas
 
 1 cebolla
@@ -38,7 +37,6 @@ harina
 1 guindilla cayena
 
 <h3>Preparación</h3>
-
 Picar fina la cebolla y el ajo y rehogar con un poco de aceite.
 
 A continuación agregar las almejas y un poco de harina por los bordes de la cazuela.

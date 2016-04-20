@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. de barra de pan del día anterior
 
 1 Vaso de leche
@@ -39,6 +38,5 @@ Para 6 personas.
 1 Cucharada de mantequilla
 
 <h3>Preparación</h3>
-
 Poner las pasas en remojo durante 15 minutos. Poner a hervir la leche con el azúcar y la canela. Dejar reposar durante 30 minutos, remover con un tenedor quitando los grumos que puedan haber quedado. Añadir los huevos batidos y las pasas. Mezclarlo bien. Coger una bandeja y untarla de mantequilla. Echar el puding de manera que forme una capa de unos 2 cm. de grosor. Clavarle 2 ó 3 palillos al puding y cocer en el horno a 180 grados durante 25 minutos. Sacar los palillos, si están secos el puding ya está listo, y si no lo están, dejar cocer unos minutos más.
 

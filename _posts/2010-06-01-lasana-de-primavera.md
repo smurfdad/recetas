@@ -8,7 +8,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 6 placas de lasaña.
 
 1/4 l. de bechamel.
@@ -30,7 +29,6 @@ Agua y aceite.
 Puré de guisantes.
 
 <h3>Preparación</h3>
-
 Limpia y cuece las zanahorias, las judías verdes,
 
 las coliflor y el brécol por  separado hasta que estén tiernas. A continuación escurre y pícalas. Cuece la

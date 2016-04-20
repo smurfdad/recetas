@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 pollo entero o un kilo de pechugas o muslos
 
 1 cubito o tableta de pollo
@@ -43,7 +42,6 @@ unos dientes de ajo
 sal.
 
 <h3>Preparación</h3>
-
 En un sartén sofreimos en la margarina, los dientes de ajo picados y el
 
 jenjibre. Calentamos a fuego suave hasta derretir la mantequilla, revolvemos

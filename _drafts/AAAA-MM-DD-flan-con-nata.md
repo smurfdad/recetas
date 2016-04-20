@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 litro leche
 
 La corteza de un limón
@@ -40,7 +39,6 @@ La corteza de un limón
 Nata montada para acompañar
 
 <h3>Preparación</h3>
-
 Poner a hervir la leche con la corteza del limón, la canela y la vainilla. Batir enérgicamente los huevos en un bol y agregar poco a poco la leche hirviendo.
 
 Preparar un caramelo con 50 grs de azúcar y una cucharada de zumo. Vertirlo en moldes de flan y dejar que se enfrie. Poner la crema preparada en los moldes, y cocerlos en un molde al horno durante 20 minutos.

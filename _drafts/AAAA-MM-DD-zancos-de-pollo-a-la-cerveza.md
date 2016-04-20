@@ -24,7 +24,6 @@ Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 zancos de pollo, 2
 
 cebolla, 1 picada en juliana
@@ -50,6 +49,5 @@ tomillo,
 sal,
 
 <h3>Preparación</h3>
-
 Se dora el pollo en un poquito de aceite. Seguidamente se echa el Sherry y las cervezas y se mete en el horno junto con la verdura, que estará toda en crudo. Se deja hacer hasta que pinche bien a una temperatura de 135 grados.
 

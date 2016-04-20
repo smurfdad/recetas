@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 300 gr. De vainas
 
 700 gr. De calamares
@@ -42,7 +41,6 @@ Aceite virgen extra hojiblanca
 Sal
 
 <h3>Preparación</h3>
-
 Pica la cebolleta finamente, el tomate en cuadraditos, los ajos laminados y rehoga brevemente en una cazuela con aceite. Sazona.
 
 Limpia los calamares y trocéalos.

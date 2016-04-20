@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de ternera
 
 harina
@@ -38,7 +37,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Cortar la carne en tacos sazonarla con sal y pasarla por harina, dándole un golpe fuerte en la sartén.
 
 Después pelar y cortar la cebolla en juliana fina y la pondremos a rehogar con mantequilla y un poco de aceite.

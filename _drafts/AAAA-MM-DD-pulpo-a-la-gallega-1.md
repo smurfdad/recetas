@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kilos de pulpo
 
 1 cebolla pequeña
@@ -39,7 +38,6 @@ Para 6 personas.
 Sal gruesa
 
 <h3>Preparación</h3>
-
 Lavar el pulpo y Mazarlo para que ablande. Poner el agua a hervir con la cebolla en una cacerola, cuando rompa a hervir introducir el pulpo en la cazuela y levantarlo dos o tres veces, volviéndolo a meter. Dejarlo cocer durante 45 minutos,
 
 pincharlo y si está blando retirarlo del fuego. Cuando se vaya a servir, después de haberlo dejado reposar unos 15 minutos, quitarlo de la cazuela y cortar en trozos no muy gruesos con tijeras. Freír los ajos en una sartencita con abundante aceite y cortados a rodajas.

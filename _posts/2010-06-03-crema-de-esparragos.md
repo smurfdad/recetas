@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 litro de leche
 
 60 gr harina
@@ -24,7 +23,6 @@ caldo de espárragos
 sal
 
 <h3>Preparación</h3>
-
 Poner la mantequilla en una cazuela a derretir.
 
 Una vez diluida, agregar la harina y mezclar bien.

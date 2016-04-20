@@ -7,7 +7,6 @@ categories:
 - Postres y dulces
 ---
 <h3>Ingredientes</h3>
-
 3 onzas de chocolate
 
 2 cucharadas de mantequilla
@@ -21,7 +20,6 @@ categories:
 1 clara
 
 <h3>Preparación</h3>
-
 Deshacer la harina en el agua.
 
 Poner al fuego en un cazo e incorporar la mantequilla y el chocolate en trocitos.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 -Cuatro paletillas de cordero.
 
 -800 g. de patatas.
@@ -41,10 +40,8 @@ Para 4 personas.
 -Aceite de oliva y sal.
 
 <h3>Preparación</h3>
-
 Sazonar y untar con manteca de cerdo las paletillas, colocarlas en una fuente de asar junto a los ajos partidos y el laurel, se espolvorean con la pimienta y se ponen en el horno muy fuerte durante 15 minutos. Reducir la potencia y mantener otros 35 minutos, rociando la carne con el tomillo casi al final. Las patatas se utilizan como guarnición, fritas en aceite o asadas en el mismo horno.
 
 <h3>Observaciones</h3>
-
 Receta Aragonesa
 

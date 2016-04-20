@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 costillitas de cerdo deshuesadas cortadas en tiras
 
 50cc de aceite
@@ -38,7 +37,6 @@ Perejil picado
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Salpimiente las tiras de cerdo. Saltear en una sartén con aceite el cerdo hasta que las tiritas estén cocidas.Batir los huevos con el limón y salpimentar la preparación.
 
 En la sartén que esta el cerdo colocar la preparación de los huevos y haga un revuelto con la carne de cerdo.

@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pavo de 4 kilos.
 
 500 gramos de carne de cerdo picada.
@@ -47,7 +46,6 @@ Guarniciones:
 Manzanas, ciruelas pasas, castañas, uvas moscatel.
 
 <h3>Preparación</h3>
-
 Deshuesamos el pavo por la parte del espinazo, teniendo mucho cuidado de no rasgar la piel porque luego tenemos que coserlo por la piel.
 
 Las ciruelas pasas las dejamos una hora macerando con el vino de Jerez.

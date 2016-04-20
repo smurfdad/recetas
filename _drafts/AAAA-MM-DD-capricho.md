@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pan
 
 pimiento del piquillo (Lodosa)
@@ -34,6 +33,5 @@ mahonesa
 salsa rosa.
 
 <h3>Preparación</h3>
-
 Se corta una rebanada de pan y se coloca encima el pimiento del piquillo acompañado por dos anchoas. Se pone una rodaja de huevo encima y se adorna con ambas salsas.
 

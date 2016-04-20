@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 gr. de filetes de bacalao fresco
 
 50 gr. de harina
@@ -52,10 +51,8 @@ Para la salsa
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Empiece preparando la salsa. Caliente el aceite y rehogue las cebollas hasta que estén casi deshechas. Agregue el ajo, suba el fuego y déjelo hasta que la mezcla esté dorada. Añada el pimiento y los tomates y cuézalo lentamente 20 minutos; luego, agregue las aceitunas, el vino, sal y pimienta, y deje cocer destapado 10 minutos más. Mientras , corte el bacalao en trozos, salpiméntelos y páselos por harina. Caliente el aceite y la mantequilla y fríalos hasta que estén dorados. Sírvalos con salsa por encima.
 
 <h3>Observaciones</h3>
-
 Receta típica portuguesa
 

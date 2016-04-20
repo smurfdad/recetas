@@ -24,7 +24,6 @@ Para 16 personas.
 <b>Tiempo</b> 80 minutos.
 
 <h3>Ingredientes</h3>
-
 1 paquete de 6 onzas de mezcla para relleno de pollo
 
 2 manzanas, peladas, sin el corazón y picadas
@@ -42,7 +41,6 @@ Para 16 personas.
 1/2 cucharadita de pimienta
 
 <h3>Preparación</h3>
-
 PREPARA la mezcla para rellenos como el indica el empaque. Retira del fuego, agrega suavemente las manzanas, las frutas secas, las pacanas y la salvia.
 
 PRECALIENTA el horno a 400&ordm;F. Desenrolla el lomo de cerdo, coloca la mezcla del relleno de forma pareja sobre la carne. Enrolla el lomo, comenzando por uno de los lados largos, para encerrar el relleno. Coloca, con la punta hacia abajo, sobre una bandeja (plancha) para horno cubierta con papel de aluminio y rociado con aceite antiadherente. Sazona con sal y pimienta.

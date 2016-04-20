@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor grande
 
 3 huevos
@@ -19,7 +18,6 @@ Para 4 personas.
 perejil
 
 <h3>Preparación</h3>
-
 Limpiar y cortar la coliflor.
 
 Poner una cazuela al fuego con agua y sal.

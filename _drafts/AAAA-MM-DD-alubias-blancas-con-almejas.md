@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 &frac34; kilo de Alubias blancas
 
 &frac12; kilo de almejas finas
@@ -46,7 +45,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Se ponen las alubias en remojo en agua fría, durante la noche anterior.
 
 A la mañana siguiente se escurren, se trasladan a una cacerola y se les añade la cebolla picada, el tomate pelado y cortado en trozos pequeños, el laurel, el ajo, el perejil, el pimentón y el aceite crudo; se sacude la cacerola para mezclarlo todo y se cubre con agua fría. Cuando rompe el hervor, se baja la llama, se pone el azafrán ligeramente tostado y se deja cocer lentamente, procurando que las alubias estén siempre cubiertas de agua para que no suelten la piel. Una vez tiernas, se sazonan de sal y se siguen cociendo muy despacio.

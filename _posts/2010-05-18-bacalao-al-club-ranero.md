@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 y 1/2 Kg. bacalao en tajadas no muy finas
 
 1 cebolla grande
@@ -27,7 +26,6 @@ perejil
 1/4 aceite de oliva virgen
 
 <h3>Preparación</h3>
-
 Hacer primeramente el pisto:
 
 Freír a fuego lento la cebolla, pimientos verdes y 1 ajo finamente picados.

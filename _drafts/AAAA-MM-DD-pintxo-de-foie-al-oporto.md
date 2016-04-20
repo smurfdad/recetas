@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Foie de oca
 
 oporto
@@ -34,6 +33,5 @@ mantequilla
 trevisso
 
 <h3>Preparación</h3>
-
 Tostar el pan, hacer un círculo con un molde de flanera y montar la compota de manzana sobre el círculo de pan. Cortar la loncha de foie de oca, rociar de oporto y salpimentar. Colocarla sobre la sábana de manzana. Se acompaña con dos bolas de mantequilla y trevisso en juliana
 

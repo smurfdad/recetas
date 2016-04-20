@@ -9,7 +9,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 filetes grandes de trucha asalmonada
 
 12 pimientos del piquillo
@@ -35,7 +34,6 @@ azúcar
 pimienta
 
 <h3>Preparación</h3>
-
 Aplasta los dientes de ajo y échalos a una sartén con abundante aceite. Retira la piel de los filetes de trucha, córtalos en 8 trozos y salpimiéntalos.
 
 Pasa los trozos de trucha por harina y huevo y fríelos por los dos lados en la sartén con los dientes de ajo.

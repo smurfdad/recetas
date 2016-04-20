@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Puerro
 
 1 Cebolla tierna
@@ -58,6 +57,5 @@ Tomillo
 6 Cucharadas de aceite
 
 <h3>Preparación</h3>
-
 Picar los ajos, la cebolla y la parte blanca del puerro. Freír con aceite. Cuando la cebolla empiece a volverse transparente añadir el pimiento verde cortado a trocitos, el perejil, el apio, el tomillo, los tomates enteros, los champiñones cortados en láminas y el calabacín cortado en cuadraditos. Freír un momento y llenar de agua. Cuando hierva hay que añadir los guisantes, las judías, la coliflor, la patata y la acelga, todo cortado a trocitos. Dejar cocer 20 minutos y listo para servir.
 

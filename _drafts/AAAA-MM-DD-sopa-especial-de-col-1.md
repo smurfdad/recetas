@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Col mediana.
 
 1 Bola de chorizo.
@@ -48,7 +47,6 @@ Cominos.
 Agua.
 
 <h3>Preparación</h3>
-
 Se licua el tomate, el pedacito de cebolla, los 2 dientes de ajo, los 2 cuadros de consomate y le agregas agua.
 
 En una sarten pones la bola de chorizo y el tocino a freir y después vacias la col partida finamente hasta que esta blandita

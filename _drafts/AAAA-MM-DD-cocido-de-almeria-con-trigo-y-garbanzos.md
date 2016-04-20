@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gramos de garbanzos.
 
 100 gramos de trigo.
@@ -44,7 +43,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Cocer el día anterior los granos de trigo en una cazuela con agua durante 45 minutos y dejar hasta el día siguiente en la misma cazuela para que engorde el trigo.
 
 En una cazuela poner los garbanzos, que se habrán dejado en agua templada desde la noche anterior, con el hueso de espinazo y la carne de cocido y se cuecen durante dos horas, añadiéndoles un poco de sal. Una vez que los garbanzos estén tiernos se añade el trigo escurrido.

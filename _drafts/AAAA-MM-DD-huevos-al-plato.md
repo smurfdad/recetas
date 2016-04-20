@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 5 huevos.
 
 250 gramos de chorizo.
@@ -40,6 +39,5 @@ Sal.
 Aceite.
 
 <h3>Preparación</h3>
-
 En una tartera de horno, con un poco de aceite, se saltea el chorizo troceado. Sobre el se echa el queso en triángulos finos, reservando un poco para añadir al final. En un Bol. Se coloca uno de los huevos, harina de maíz disuelta en leche, la nata y un poco de sal. Se bate bien y la crema resultante se vuelca sobre la tartera. Se cascan encima los demás huevos, se espolvorean con el resto del queso y se pone el conjunto a gratinar, a potencia media, durante unos 6 minutos, hasta que los huevos cuajen
 

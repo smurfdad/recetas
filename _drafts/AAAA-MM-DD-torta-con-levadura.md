@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 50 minutos.
 
 <h3>Ingredientes</h3>
-
 700grs harina
 
 4 huevos
@@ -46,7 +45,6 @@ Relleno:
 2 manzanas ralladas
 
 <h3>Preparación</h3>
-
 Masa colocar en la amasadora la harina,sal,huevos,ralladura de limon y la levadura disuelta con un poco de leche,amasar bien tiene que quedar una masa bien lisa,luego tapar y dejar levar.
 
 Por otro lado con la manteca pomada se bate y agrega el azucar y se bate bien ,y agregar las manzanas y terminar de imcorporar.

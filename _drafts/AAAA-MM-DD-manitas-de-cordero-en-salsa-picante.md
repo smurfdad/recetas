@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Kg. De manitas de cordero deshuesadas
 
 1/2 cebolla
@@ -42,6 +41,5 @@ Kg. De manitas de cordero deshuesadas
 Aceite de oliva y sal
 
 <h3>Preparación</h3>
-
 Cocer las manitas bien limpias con 3 hojas de laurel, 3 dientes de ajo, la cebolla cortada por la mitad, el perejil, el agua suficiente para que lo cubra y sal. Cocer en olla express 1 hora, o la mitad del tiempo si es en olla ultrarápida. Aparte freír en unas 6 cucharadas de aceite una hoja de laurel, un diente de ajo y el comino, cuando este dorado añadir la harina y a continuación el pimentón. Revolver bien y añadir al contenido de la olla, continuando la cocción unos minutos mas a fuego fuerte para que reduzca la salsa.
 

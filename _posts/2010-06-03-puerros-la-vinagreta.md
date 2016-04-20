@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 20 blancos de puerro
 
 aceite
@@ -23,7 +22,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Limpiar bien los puerros y ponerlos a cocer con agua y sal.
 
 Una vez cocidos, sacarlos del agua y disponerlos sobre una fuente, dejándolos que sé enfríen bien.

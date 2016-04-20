@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de ternera medianos
 
 4 dientes de ajo
@@ -44,7 +43,6 @@ harina
 sal
 
 <h3>Preparación</h3>
-
 Poner la carne en una bandeja y sazonar con sal, pimienta blanca y curry.
 
 Después pasar por harina y reservar.

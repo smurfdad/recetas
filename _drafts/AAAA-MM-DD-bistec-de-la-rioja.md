@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 bistecs de buey
 
 2 cucharadas de mantequilla
@@ -38,7 +37,6 @@ Perejil
 Sal y Pimienta
 
 <h3>Preparación</h3>
-
 En un mortero, triturar el ajo pelado y un poco de perejil; añadir la mantequilla a temperatura ambiente y removerla para que se mezcle bien con el ajo y el perejil.
 
 A continuación, cortar menudos los filetes de anchoas y ponerlos al mortero, junto con las alcaparras; mezclarlo con cuidado, para que estos últimos ingredientes no queden demasiado troceados.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 apio blanco en rama o cortado a trocitos
 
 manzanas en trozos
@@ -37,6 +36,5 @@ queso en trocitos
 mahonesa
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes y se sirve
 

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 12 Tortillas
 
 12 Tomates verdes
@@ -45,11 +44,9 @@ Sal
 1 Cebolla cortada en aros
 
 <h3>Preparación</h3>
-
 Corte las tortillas en cuadraditos y dórelas en aceite. Escurra la grasa. Licúe los tomates, los chiles y el ajo. Fríalos hasta que estén tiernos, sañada la sal y la rama de epazote. Agregue 3 tazas de agua. Cuando la salsa este hirviendo añada las tortillas; déjelas un momento, para que no se ablanden demasiado. Apague el fuego. Sirva con queso desmoronado, la nata y las rebanadas de cebolla.
 
 <h3>Observaciones</h3>
-
 Los Chiláquiles verdes entran dentro de la gama de Antojitos.
 
 Los españoles trajeron a América las Carnes de Buey, Cerdo y Pollo, el Aceite, la Nata y el Queso, se aficionaron en México a las Tortillas, al Frijol (alubias), al Chile, al Jitomate (Tomate), al Tomatillo (Tomate Verde) y a Hierbas Aromáticas como el Epazote, el Cilantro y el Acuyo u Hoja Santa.

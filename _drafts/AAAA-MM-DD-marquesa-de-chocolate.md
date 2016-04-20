@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 taza de azúcar
 
 1 lata de leche condensada
@@ -45,7 +44,6 @@ Ron al gusto
 8 huevos
 
 <h3>Preparación</h3>
-
 Batir la mantequilla a punto de crema, luego mezclar con la nevazúcar, añadir solo los amarillos de huevos.
 
 Remojar las plantillas en rón, cuidado no se lo tome.

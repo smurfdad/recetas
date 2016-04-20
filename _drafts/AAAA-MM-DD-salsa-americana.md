@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 litro de fumeet de pescado
 
 2 cebollas
@@ -38,7 +37,6 @@ categories:
 1/2 copa de coñac
 
 <h3>Preparación</h3>
-
 Picar finas las verduras y ponerlas en una cazuela a rehogar con un poco de aceite.
 
 Cuando estén echas las verduras, añadir las gambas rehogarlas un poco y agregar el coñac, prendiéndole fuego a continuación, para quemar el alcohol (flambear).

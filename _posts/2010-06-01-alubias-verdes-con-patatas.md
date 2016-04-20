@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg de alubias
 
 1/2 kg de patatas
@@ -21,7 +20,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se eligen alubias frescas muy tiernas que se tronchen con un crujido Se lavan y escurren En recipiente grande se pone a hervir un litro y medio de agua (aproximadamente) con calor fuerte en la placa
 
 Mientras, se quitan las puntas y hebra a las alubias. Las redonda no hay que pelarlas. Las anchas se cortan a lo largo par que queden finitas y se cortan en trozos regulares. Cuando el agua hierve fuerte, se echa sal y un chorrito de aceite.

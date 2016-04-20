@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 y 1/2 de mejillones
 
 2 limones
@@ -35,7 +34,6 @@ Para 4 personas.
 sal y perejil
 
 <h3>Preparación</h3>
-
 Limpiar los mejillones y colocarlos con el resto de ingredientes, salvo el perejil, en una cazuela amplia (los limones se cortan en 4 trozos). Poner a fuego medio-alto durante 8-10 minutos.
 
 Remover bien y servir con todo el jugo de cocción espolvoreando el perejil picado.

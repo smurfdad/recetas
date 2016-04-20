@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Ud. conejo cortado en trozos
 
 1 kg. cebolla
@@ -40,6 +39,5 @@ Para 4 personas.
 vino blanco al gusto
 
 <h3>Preparación</h3>
-
 Lo primero de todo se sofríe el conejo, cuando está medio sofrito se le añade la cebolla, los dientes de ajo y cuando lleva unos 15 minutos hirviendo, se pone el marisco y a continuación el vino. Cuando ha pasado hora u hora y media el plato está preparado para servir.
 

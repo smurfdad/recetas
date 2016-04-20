@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Lenteja pequeña, 1/4 kg
 
 medio pimiento
@@ -44,7 +43,6 @@ una docena de almejas medianas
 una tacita de crema de leche
 
 <h3>Preparación</h3>
-
 En una cazuela regular, se ponen las lentejas con agua, y todos los ingredientes, menos las especias, las almejas, la crema de leche, el chorizo y la morcilla, que se echaran casi al final de la cocción, una vez ya cocidas las lentejas (a fuego lento) y mirando que no quede sin agua.
 
 Se le echara el resto de cosas, diez o doce minutos más de cocción y listas, para chuparse los dedos, gracias y que aproveche.

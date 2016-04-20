@@ -12,7 +12,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 libra de fresas maduras
 
 100 gramos de azúcar
@@ -40,7 +39,6 @@ galletas macarena paquete
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Mezclar la mantequilla derretida y las migas de galleta y cubrir un molde delgado para pie con una capa delgada de la mezcla.
 
 Luego refrigerar por una hora.
@@ -58,5 +56,4 @@ Vertir la mezcla en el molde sobre la cama de las galletas macarena, refirgerar 
 Llevar al refrigerador nuevamente hasta que la superficie esté firme.
 
 <h3>Observaciones</h3>
-
 Puede acompañarse con salsa de moras y crema inglesa.

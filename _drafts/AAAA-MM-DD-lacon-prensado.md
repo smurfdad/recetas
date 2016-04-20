@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 Lacón: 1 entero, deshuesado
 
 Vino blanco: 2 vasos
@@ -46,6 +45,5 @@ Tomillo: al gusto
 Agua: para cocer el lacón
 
 <h3>Preparación</h3>
-
 Se desala el lacón durante 48 horas en abundante agua. Se deshuesa (o, al comprarlo, se pide al carnicero que lo haga). Se cuece durante 3 horas con todos los ingredientes. Una vez cocido, se le retira la piel y se envuelve en un paño bien apretado para que suelte el agua. A continuación se envuelve en otro paño seco y se prensa durante 12 horas.
 

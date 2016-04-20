@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 27 minutos.
 
 <h3>Ingredientes</h3>
-
 500 grs. de harina
 
 100 grs. de mantequilla
@@ -37,6 +36,5 @@ Para 6 personas.
 10 grs. de sal
 
 <h3>Preparación</h3>
-
 Derretir la mantequilla, batir los huevos y mientras tanto poner el horno a precalentar. Amasar bien la harina con el resto de los componentes, y cuando la masa esté formada, introducir en el horno, ya precalentado a 225 grados durante 20 minutos.
 

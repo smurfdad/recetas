@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 patatas medianas/persona
 
 1 botecito de nata liquida
@@ -34,7 +33,6 @@ mantequilla
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Precalentar el horno a 180&ordm;.
 
 Pelar las patatas y cortarlas en lonchas muy finas (es más fácil si se dispone de una máquina).
@@ -54,7 +52,6 @@ Entre capa y capa, meter el ajo cortado en trocitos, y de vez en cuando, dispone
 Meter al horno entre 1h 15 y 1h 1/2 a fuego vivo, al final en posición de gratinado.
 
 <h3>Observaciones</h3>
-
 Las lonchas de patatas deben de ser muy finas.
 
 El estado de cocción se verifica plantando un cuchillo en el plato: si esta blando, se podrá ir retirando.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Ingredientes
 
 360 grs. filete de res limpio
@@ -52,7 +51,6 @@ Salsa de whisky
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Preparación
 
 Sellar la carne con aceite de oliva y terminar la cocción en el horno.

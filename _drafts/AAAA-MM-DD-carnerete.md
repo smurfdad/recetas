@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rebanadas de pan.
 
 Un diente de ajo.
@@ -40,6 +39,5 @@ Aceite de oliva.
 Agua.
 
 <h3>Preparación</h3>
-
 Freímos pan cortado en rebanadas en abundante aceite de oliva y lo reservamos en un plato. A continuación freímos el ajo entero y el pimiento rojo, y lo sacamos bien escurrido y lo ponemos en un mortero para majarlo. En una cacerola ponemos un poco de agua, vinagre y sal, el aceite ya utilizado para freír el pan, el ajo y el pimiento, y también echamos el majado del mortero, dejándola en el fuego hasta que todo hierva un poquito. Un poco antes de apartarla del fuego le partimos tantos huevos como comensales haya para que se cuajen en el cardo. A la hora de comerlo, se trocean los picatostes en el plato y se sirve.
 

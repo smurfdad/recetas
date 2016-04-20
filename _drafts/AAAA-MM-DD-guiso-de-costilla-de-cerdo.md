@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 2 pimientos verdes
@@ -52,7 +51,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Pica la cebolla, los pimientos, el tomate y las zanahorias y pon en una cazuela con aceite a rehogar. Añade las costillas de cerdo, la harina y el vino blanco. Añade agua hasta cubrir. Sazona y deja cocer durante 25-30 minutos. Pela, trocea y fríe las patatas. Cuando el guiso este hecho, añade las patatas, las habas, y los guisantes.
 
 Sirve en una fuente y adorna con los espárragos.

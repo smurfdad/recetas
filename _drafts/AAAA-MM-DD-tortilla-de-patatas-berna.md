@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr. de patatas
 
 Sal y pimienta molida
@@ -30,7 +29,6 @@ Sal y pimienta molida
 6 cucharadas de aceite de oliva
 
 <h3>Preparación</h3>
-
 Hervir las patatas con piel el día anterior.
 
 Pelar las patatas, rallarlas gruesas y salpimentar.
@@ -40,6 +38,5 @@ Poner 3 cucharadas de aceite en una paella y, cuando esté caliente, verter las 
 Este plato se sirve caliente.
 
 <h3>Observaciones</h3>
-
 Plato recomendado en una dieta para controlar el exceso del colesterol.
 

@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 2 filetes medianos de pechuga de pavo
 
 una cuchara de aceite de oliva
@@ -45,6 +44,5 @@ tomillo
 sal y pimienta en cantidad necesaria
 
 <h3>Preparación</h3>
-
 Dorar los filetes de pavo en una sartén antiadherente de ambos lados con tapa. Verter a continuación el vino y dejar que se evapore a fuego fuerte. Picar las hierbas aromaticas y el ajo. Untar un molde para horno con aceite y depositar en él los filetes de pavo. Salpimentar y espolvorear con las hierbas y ajo picados. Verter el yogur sobre la carne y hornear a 200&deg; durante unos 10 minutos. Servir enseguida con una ensalada de verduras crudas.
 

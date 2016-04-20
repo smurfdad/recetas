@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de habas pequeñas
 
 1/2 kg de guisantes
@@ -35,7 +34,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se pelan los guisantes, las habas, las alcachofas, las cebollitas y los espárragos. Se cuecen por separado, dejándolas firmes y se reservan
 
 SALSA

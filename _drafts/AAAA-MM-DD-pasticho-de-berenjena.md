@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 berenjenas de regular tamaño, moradita, o negra, es importante esto
 
 3 dientes de ajo
@@ -39,7 +38,6 @@ Para 6 personas.
 1 cebolla grande picadita
 
 <h3>Preparación</h3>
-
 Se pelan las berenjenas y se cortan a lo largo, no muy gruesas. Se ponen a hervir con un poquito de sal y una hoja de laurel por unos 10 minutos. Se escurre el agua y se ponen a refrescar.
 
 En una sartén se pone el aceite, cebolla, tomate, orégano y ajo y se deja hervir hasta formarse una salsa espesa.

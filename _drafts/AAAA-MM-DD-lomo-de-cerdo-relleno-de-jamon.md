@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de lomo de cerdo gruesos
 
 50 gr. de jamón serrano
@@ -58,7 +57,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Con un cuchillo bien afilado, se abren los filetes de lomo a modo de libro, sin llegar a partirlos en dos, para introducir en el centro el relleno. Se pican bien el jamón y los huevos duros. Se mezclan ambos ingredientes y se les añade la nata fresca. Se sazonan los filetes de lomo con sal y se les introduce el relleno anterior, repartido entre los cuatro filetes.
 
 Se cierran bien con las manos y se pasan por huevo batido y pan rallado. En una sartén se pone a calentar aceite abundante y se fríen allí los filetes de lomo, dorándolos por ambos lados. En una fuente de servir, rodeando el borde, se colocan las hojas más bonitas de la lechuga, bien lavadas. Se sazonan de sal, aceite de oliva y unas gotas de vinagre.

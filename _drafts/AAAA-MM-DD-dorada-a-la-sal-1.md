@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 dorada fresca de unos 2 kilos.
 
 Sal gorda para cubrir el pescado (aproximadamente 2 kg)
@@ -33,7 +32,6 @@ Salsa mayonesa.
 Patatas enanas cocidas.
 
 <h3>Preparación</h3>
-
 En una fuente de horno colocamos una capa de sal, salpicando con un poquito de agua para que se pueda moldear.
 
 Ponemos la dorada encima y la cubrimos de sal.

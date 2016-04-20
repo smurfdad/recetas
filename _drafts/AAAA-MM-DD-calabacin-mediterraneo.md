@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 calabacines gordos
 
 150 gramos queso
@@ -32,7 +31,6 @@ Para 4 personas.
 sal y orégano
 
 <h3>Preparación</h3>
-
 Cortar los calabacines en lonchas de 2 cm. Mojar con aceite y salar muy poco.
 
 Colocarlos en una bandeja para el horno o en la sartén. Hacerlos al grill o rehogarlos en la sartén.

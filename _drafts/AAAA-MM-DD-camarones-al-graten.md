@@ -22,7 +22,6 @@ categories:
 Para 7 personas.
 
 <h3>Ingredientes</h3>
-
 1 pan grande en rebanadas
 
 1/2 kg. de camarones cocidos
@@ -40,7 +39,6 @@ Para 7 personas.
 Mazo de perejil para adornar
 
 <h3>Preparación</h3>
-
 El queso se mezcla con las yemas, la crema de leche y una clara para formar la pasta. Aparte se enmantequilla el molde refractario y se procede a armar el plato
 
 Las rebanadas de pan se les unta con mantequilla opr los dos lados debidamente derretida. Se cubre el molde con los panes, luego con la mezcla, luego con los camarones.

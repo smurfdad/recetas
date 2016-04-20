@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 libra de pulpa de mango
 
 1 lata de crema de leche grande
@@ -34,7 +33,6 @@ Para 4 personas.
 2 cucharadas de azúcar
 
 <h3>Preparación</h3>
-
 Licuar todos los ingredientes, a excepción de las claras de huevo que se baten a punto de nieve con el azúcar.
 
 Servir en copas, llevar al refrigerador por 1 hora y decorar con la nieve.

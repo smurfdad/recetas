@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 vasos de harina
 
 1 l. leche
@@ -34,7 +33,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Preparar la pasta de los creps mezclando con batidor 2 vasos de leche, 2 vasos de harina, el royal, la sal y los huevos batidos. Dejar reposar 10 minutos.
 
 En una sartén ir friendo los creps mojando el fondo con un poco de aceite y echando con un cazo una porción de pasta que cubra el fondo de la sartén. Darle la vuelta.
@@ -52,6 +50,5 @@ Triturarla mucho para que suelte el jugo, pasarla por el pasapurés y añadirlo 
 En fuente larga colocar los créps. Cubrir con la salsa. Meter en el gratinador y servir.
 
 <h3>Observaciones</h3>
-
 Se pueden rellenar del relleno del bonito para canelones
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 trucha asalmonada grande
 
 4 cucharadas de vinagre de Jerez
@@ -48,7 +47,6 @@ Para la confitura:
 2 cucharadas de aceite de oliva
 
 <h3>Preparación</h3>
-
 En un recipiente grande, poner cebolla cortada en rodajas, pereji1, tomillo, laurel, sal, pimienta en grano y vinagre. Colocar encima la trucha, una vez limpia, y cubrirla con agua fría.
 
 Poner al fuego, dejándola hasta que rompa a hervir; conservar en su caldo hasta que esté templada. Retirar con cuidado, quitar la piel y espinas y colocar los filetes en platos individuales.

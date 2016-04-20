@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 chuletas
 
 6 lonchas de jamón dulce
@@ -56,7 +55,6 @@ Azúcar
 Orégano molido
 
 <h3>Preparación</h3>
-
 Pelar y picar finamente la cebolla y la zanahoria. Escaldar, pelar y despepitar los tomates. Cortarlos a dados. Poner un poco de aceite en una sartén antiadherente, añadir la cebolla y la zanahoria y dejar que se ablanden.
 
 Cuando estén, incorporar el tomate y dejar reducir a fuego lento. Sazonar son la sal, pimienta un poco de azúcar para quitar al acidez y el orégano molido y reservar. Dorar las chuletas salpimentadas en la sartén. Poner en una bandeja para horno la salsa de tomate bien estendida por toda la bandeja.

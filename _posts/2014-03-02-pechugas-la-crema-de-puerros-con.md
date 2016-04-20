@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo
 
 3 blancos de puerro
@@ -32,7 +31,6 @@ manteca
 1 cucharada de maicena
 
 <h3>Preparación</h3>
-
 Salpimentar las pechugas y dorarlas de ambos lados en aceite caliente, colocarlas en una fuente y cocinar a horno moderado.
 
 Picar el puerro y rehogarlo en el mismo aceite que doramos las pechugas, agregando una cucharada de manteca(5 minutos aproximadamente)luego incorporar el vino, y después de unos minutos la crema.

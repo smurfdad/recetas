@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 27 minutos.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de salmón
 
 1 cebolla
@@ -41,7 +40,6 @@ Sal
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Se pica bien fino la cebolla
 
 En una sartén grande se pone el aceite a calentar

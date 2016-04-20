@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 capón de 2 1/2 k limpio
 
 2 cebollas
@@ -53,6 +52,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cocer por separado en un poco de agua hirviendo las ciruelas y los orejones. Trabajar la mantequilla a temperatura ambiente con las hierbas picadas. Despegar la piel del capón, introduciendo los dedos por la abertura del cuello y por la parte posterior, sin que se rompa la piel. Repartir la mantequilla preparada sobre las pechugas y los muslos. Sazonar el capón por dentro y por fuera atarlo. En una fuente de horno disponer la cebolla troceada. Poner encima el capón rociar con el aceite y meter en el horno precalentado a 200 grados durante 90 minutos aproximadamente. Rociarlo varias veces con el jugo de la cocción. Retirar el capón del horno y taparlo con papel de aluminio. Colar el jugo de la cocción a un cazo. Llevar a ebullición cocer durante 2 minutos y rectificar la sazón si fuera necesario. Rehogar las castañas, las ciruelas y los orejones en la grasa de pato caliente. Servir el capón entero con la guarnición de las castañas y la salsa aparte.
 

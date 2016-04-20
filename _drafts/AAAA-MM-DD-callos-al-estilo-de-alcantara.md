@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Un kilo de callos de ternera
 
 cebollas
@@ -38,7 +37,6 @@ cominos
 tomates
 
 <h3>Preparación</h3>
-
 Se cuecen los callos con un poco de laurel y cebolla.
 
 En un recipiente se pone un poco de aceite, se sofríe la cebolla y el tomate, añadiendo a continuación los callos, que se habrán cortado en pequeños trozos y se deja que se rehogue. En el mortero se machaca el perejil, ajo, guindillas y cominos con la sal necesaria.

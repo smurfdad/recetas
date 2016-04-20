@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 Kg. de cordero (se recomienda el costillar)
 
 2 cebollas
@@ -42,7 +41,6 @@ Hojas de laurel
 Sal
 
 <h3>Preparación</h3>
-
 Trocear el cordero y ponerlo en una cazuela junto con los ajos troceados y el aceite. Rehogar hasta que tome un poco de color. Añadir la harina y el pimentón. Dar unas vueltas y en seguida agregar el vino.
 
 Añadirle el resto de los ingredientes y la cantidad de guindilla deseada. Cubrir todo con agua y dejar cocer unas 2 horas.

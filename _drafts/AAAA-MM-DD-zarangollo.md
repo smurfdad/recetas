@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 Kg. de calabacines
@@ -36,7 +35,6 @@ Para 4 personas.
 sal y orégano
 
 <h3>Preparación</h3>
-
 En una cazuela de barro pondremos a sofreir la cebolla cortada muy pequeña con el aceite de oliva.
 
 Una vez esté transparente, añadir los calabacines y las patatas cortados a cuadraditos también muy finos.
@@ -48,6 +46,5 @@ A continuación, batir los huevos y añadirlos lentamente removiendo para que se
 Finalmente incorporar el óregano.
 
 <h3>Observaciones</h3>
-
 Plato regional de Murcia, la Huerta de Europa
 

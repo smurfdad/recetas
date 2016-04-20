@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 10 ajetes.
 
 300 gramos de mollejas (a poder ser de cordero).
@@ -41,7 +40,6 @@ Pimienta.
 Harina.
 
 <h3>Preparación</h3>
-
 Los ajetes se limpian, se cortan en juliana y se reservan.
 
 Las mollejas, una vez limpias, cortadas y salpimentadas, se pasan por harina y se fríen en aceite, con los dientes de ajo previamente dorados.

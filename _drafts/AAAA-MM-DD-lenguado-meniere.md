@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 gallos de 250 gr cada uno
 
 aceite
@@ -41,7 +40,6 @@ aceite
 16 patatas pequeñas
 
 <h3>Preparación</h3>
-
 Sazonar los lenguados con sal y freír.
 
 Aparte picar muy fino las alcaparras y el perejil.

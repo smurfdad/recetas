@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pan
 
 anchoa
@@ -28,6 +27,5 @@ anchoa
 huevo cocido
 
 <h3>Preparación</h3>
-
 En una rebanada de pan se colocan dos anchoas en forma de cuadrado. El centro se rellena con la clara de un huevo cocido, bien picadita. Se sirve con unas gotas de Tabasco y salsa Perrins
 

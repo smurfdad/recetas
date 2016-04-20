@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 gramos de almendra molida
 
 250 gramos de azúcar
@@ -36,6 +35,5 @@ ralladura de limón
 100 gramos de mantequilla
 
 <h3>Preparación</h3>
-
 Se baten los huevos con el azúcar hasta punto de escritura, se le añade la mantequilla (que debe estar blanda) luego, la almendra y la ralladura de limón. Se mezcla todo bien y se le añade el coñac. En un molde untado con mantequilla, se echa la pasta y se mete en el horno bien caliente, a unos 225 grados, unos 20 a 25 minutos. Puede dejarse unos 5 minutos más cubriéndola con aluminio, con el horno apagado. Sacar y desmoldar cuando esté templada. Echar el azúcar glasé cuando esté fría.
 

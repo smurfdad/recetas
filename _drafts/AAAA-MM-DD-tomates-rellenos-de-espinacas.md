@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tomates hermosos bien duros
 
 350 gr. de espinacas frescas
@@ -48,7 +47,6 @@ pimienta
 4 hojas bonitas de lechuga
 
 <h3>Preparación</h3>
-
 Se aclaran los tomates y se secan. Con un cuchillo muy afilado se practican 4 o 6 incisiones en cada tomate, de arriba abajo, haciendo una especie de pétalos, pero sin que éstos se suelten del todo.
 
 Se separan ligeramente los pétalos y se colocan los tomates en una fuente honda, bien sujetos de pié. Se bate la vinagreta hasta que emulsione y se rocían los tomates con ella. Se meten al frigorífico y se tienen 2 horas.

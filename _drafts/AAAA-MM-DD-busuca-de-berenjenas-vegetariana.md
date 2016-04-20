@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de berenjenas
 
 4 cucharadas de harina
@@ -40,7 +39,6 @@ Para 4 personas.
 200 ccs de aceite
 
 <h3>Preparación</h3>
-
 Se pelan las berenjenas y se cortan en rodajas.
 
 Se ponen en una cacerola con agua fría.

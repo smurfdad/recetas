@@ -22,7 +22,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 8 yogures naturales (si es posible griego)
 
 1 pepino grande
@@ -36,7 +35,6 @@ Para 3 personas.
 2 ramitas de menta fresca
 
 <h3>Preparación</h3>
-
 Poner una gasa dentro del colador chino y dejar que los yogures escurran durante 30 minutos encima de un bol para eliminar todo el suero.
 
 Pelar el pepino y rallarlo encima de una escurridora, añadir una cucharadita de sal y dejar que suelte al agua unos 15 minutos.

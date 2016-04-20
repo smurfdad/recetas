@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 rodajas de bacalao
 
 16 almejas
@@ -43,7 +42,6 @@ perejil
 fumeet de pescado
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y el ajo y rehogarlo con un poco de aceite.
 
 Una vez echas añadir el bacalao sazonado con sal y enharinado, haciéndolo un poco por ambos lados.

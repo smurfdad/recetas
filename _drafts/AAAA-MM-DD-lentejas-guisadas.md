@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 320 grs. de lentejas
 
 1 cebolla roja
@@ -40,7 +39,6 @@ aceite, agua y sal
 berza cocida para acompañar
 
 <h3>Preparación</h3>
-
 En una cazuela con agua, pon a cocer, a fuego lento, las lentejas con la cebolla picada y las zanahorias. Sazona y espera unos 45 - 50 minutos.
 
 Aparte, cuece los chorizos y el tocino para desgrasarlos.

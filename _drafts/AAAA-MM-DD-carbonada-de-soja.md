@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 cebollas
 
 3 ajíes
@@ -34,6 +33,5 @@ ajo, perejil, albahaca, orégano, tomillo
 3 tazas de soja molida
 
 <h3>Preparación</h3>
-
 Todo picado, se mezcla en aceite o en manteca y en cacerola tapada, con sal y a gusto, moviéndolo para evitar que se queme. Cuando está dorado, se deja en reposo unos minutos.
 

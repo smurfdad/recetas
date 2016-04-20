@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 450 gr. arroz
 
 450 gr. carne picada
@@ -52,6 +51,5 @@ perejil y albahaca picado
 aceite
 
 <h3>Preparación</h3>
-
 Sazone la carne con sal y pimienta. Sofría en la mantequilla y el aceite, el ajo, la tocineta y la cebolla picada. Agregue la carne sazonada y mueva unos minutos, luego los tomates pelados y picados, perejil y albahaca y deje cocer a fuego moderado removiendo. Cuando la carne haya perdido el color rojizo, agregue el arroz uniéndolo bien. Sofría un poco más y vierta el caldo hirviendo, cocine como arroz corriente. Sirva espolvoreado con el queso parmesano por encima. Para hacer el caldo de pollo hierva las 4 tazas de agua con 2 pastillas de caldo de carne o pollo.
 

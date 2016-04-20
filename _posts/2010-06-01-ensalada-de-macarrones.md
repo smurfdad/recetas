@@ -10,7 +10,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 500 gramos de macarrones
 
 250 gramos de atún en aceite
@@ -34,7 +33,6 @@ Para 5 personas.
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Cocer la pasta en abundante agua hirviendo ligeramente salada hasta que este al dente.
 
 Escurrirla y pasarla por debajo del grifo del agua fria para que se refresque.

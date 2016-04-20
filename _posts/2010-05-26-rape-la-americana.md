@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de rape en rodajas, sin espina
 
 3 cebollas, picadas finas
@@ -27,7 +26,6 @@ Para 6 personas.
 1 copita de coñac
 
 <h3>Preparación</h3>
-
 Salpimentar el rape y freír después de haberlo pasado por harina.
 
 Colocarlo en una cazuela de barro o similar.

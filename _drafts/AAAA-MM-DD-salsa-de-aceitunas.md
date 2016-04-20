@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 12 minutos.
 
 <h3>Ingredientes</h3>
-
 200 grs. de queso tipo Petit Suisse u otro queso tipo crema
 
 50 grs. de aceitunas verdes deshuesadas y picadas
@@ -35,7 +34,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Mezclar bien todos los ingredientes.
 
 Esta salsa tambien puede hacerse utilizando como base una mayonesa espesa.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 grs. de kokotxas de merluza o de bacalao
 
 2 huevos
@@ -34,6 +33,5 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Las kokotxas se lavan en agua muy fría y se ponen a secar sobre un paño de cocina blanco. A continuación se salan, se pasan por harina y huevos batidos y se fríen en aceite hirviendo.
 

@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 Tarta:
 
 1 paquete galletas María molidas
@@ -48,7 +47,6 @@ Mousse:
 4 sobres de gelatina sin sabor derretidas al momento
 
 <h3>Preparación</h3>
-
 Se mezclan los ingredientes de la tarta y se hornea 8 minutos.
 
 Se licúan los ingredientes del relleno, se vacían sobre la tarta y se hornea durante 20 minutos. Deja enfriar.

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 muslos de pollo.
 
 2 dientes de ajo.
@@ -44,7 +43,6 @@ Perejil picado.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Sazonamos los muslos de pollo, los freímos y se reserva. En una cazuela, con un poco de aceite, se ponen a pochar el tomate, el ajo picado y la guindilla. Cuando estén ligeramente dorados, añadimos el pollo y las aceitunas deshuesadas y fileteadas. Se rehoga todo y, a continuación, incorporamos el vino blanco. Rectificamos de sal y añadimos el perejil picado.
 
 Lo dejamos a cocer a fuego suave hasta que el vino se haya evaporado, en unos diez minutos aproximadamente.

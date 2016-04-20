@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 Ud. langostino
 
 1 Ud. pimiento rojo
@@ -62,7 +61,6 @@ perejil
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Ensartar en cada brocheta el pimiento rojo, los langostinos, el rape, los champiñones y la cebolla intercalándolos hasta finalizar los ingredientes, salpimentar y hacer en una sartén con un chorrito de aceite. Reservar y en el mismo aceite saltear el tomate, las sisas y el cebollino.
 
 Para hacer la salsa:

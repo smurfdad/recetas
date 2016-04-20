@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 un melón de kilo y medio
 
 el zumo de medio limón
@@ -32,7 +31,6 @@ dos cucharadas rasas soperas de azúcar
 un poco de canela molida
 
 <h3>Preparación</h3>
-
 Se abre el melón en dos mitades y se limpia de semillas. Con un sacabocados se van vaciando dichas mitades y reservando las correspondientes bolitas, así como también el jugo que va produciendo el propio melón.
 
 Se mezcla después dicho jugo con el zumo de limón, el azúcar y la canela y se remueve la mezcla hasta la disolución del azúcar.

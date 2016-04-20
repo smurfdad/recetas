@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 berenjenas grandes
 
 2 dientes de ajo
@@ -30,6 +29,5 @@ categories:
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Cortar las berenjenas al medio y a lo largo, eliminándoles el cabito. Hacerle cortes en diagonal para marcarles la pulpa. Ponerlas en un colador con sal gruesa y dejarlas 20 minutos hasta que suelten el jugo amargo. Lavarlas, secarlas, ponerlas en una fuente para horno y espolvorearlas con el ajo picado. Rociarlas con el aceite y hornear hasta que estén tiernas.
 

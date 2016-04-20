@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1.000 gr. Piña
 
 1/2 Limón
@@ -37,6 +36,5 @@ Para 6 personas.
 30 gr. Cucharadas de miel
 
 <h3>Preparación</h3>
-
 Cortamos los extremos de la Piña, la partimos a lo largo y la vaciamos sin romperla. Reservamos la pulpa de la Piña, después de haber retirado la parte leñosa del corazón. Pelamos y cortamos el resto de las frutas .Mezclamos todas las frutas . Calentamos el zumo de medio limón y la miel y lo vertemos sobre las frutas. Dejamos enfriar. Colocamos la ensalada sobre las medias piñas vacías y servimos.
 

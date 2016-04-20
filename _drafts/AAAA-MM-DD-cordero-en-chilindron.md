@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Delantero de cordero
 
 aceite
@@ -42,7 +41,6 @@ tomate
 cebolla
 
 <h3>Preparación</h3>
-
 Trocear y rehogar en una cazuela el cordero en mitad de aceite y mitad de manteca. Si se tiene la telilla del cordero, se pica y se añade a la cazuela para que se derrita.
 
 En una sarten con aceite freir la cebolla picada muy menuda y junto con los ajos y el tomate sazonar todo y dejarlo cocer hasta que reduzca a la mitad. Pasarlo todo por el chino y verterlo sobre el cordero que cocerá lentamente hasta que esté tierno.

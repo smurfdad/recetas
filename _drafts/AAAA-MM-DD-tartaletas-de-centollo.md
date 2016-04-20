@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 centollo cocido.
 
 Unas hojas de lechuga.
@@ -39,7 +38,6 @@ Unas gotas de tabasco.
 20 tartaletas pequeñas saladas de pasta quebrada o de hojaldre.
 
 <h3>Preparación</h3>
-
 Una vez cocido el centollo sacamos toda su carne y la desmigamos.
 
 Picamos un poco de lechuga, las gambas cocidas y peladas y los langostinos cocidos.

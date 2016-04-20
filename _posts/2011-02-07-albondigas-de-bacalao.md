@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de bacalao
 
 900 gr. de patatas
@@ -27,7 +26,6 @@ Aceite de oliva para freír
 3 ramitas de perejil
 
 <h3>Preparación</h3>
-
 Se pone a remojo el bacalao durante doce horas. Pasado ese tiempo, se pone a cocer el bacalao en una cazuela con dos litros de agua durante diez minutos, a fuego medio. Luego, se saca y se reserva.
 
 Se pelan y se trocean las patatas. Se calienta un litro de agua en una cazuela y cuando hierva, se echan las patatas y el bacalao, para que cuezan juntos durante 20 minutos.

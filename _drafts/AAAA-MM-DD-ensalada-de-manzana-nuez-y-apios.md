@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 planta de apio picada fina
 
 1 manzana verde
@@ -37,7 +36,6 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Se pela, la manzana, se frota con el limón y se la corta en dados pequeños.
 
 En una ensaladera se colocan los apios, la manzana y las nueces enteras arriba.

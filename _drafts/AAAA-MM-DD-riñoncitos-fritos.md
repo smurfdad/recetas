@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 riñones de vaca.
 
 Vinagre.
@@ -40,6 +39,5 @@ Aceite.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Los riñones se limpian de grasa, se cortan en dados y se sumergen en agua hirviendo, con vinagre, durante media hora. Pasado este tiempo, se escurren y se salan. La cebolla y el ajo se pochan en una sartén, con un poco de aceite, y antes de que se doren se agregan los riñones troceados y el vino. Se tapa la sartén y se deja que el conjunto cueza, a fuego lento, unos veinte minutos o media hora. Si la salsa queda ligera se liga con fécula diluida en agua. Antes de servir, se le pone perejil picado.
 

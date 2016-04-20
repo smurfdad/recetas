@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 rabos de ternera
 
 2 cebollas
@@ -50,7 +49,6 @@ sal
 patatas asadas
 
 <h3>Preparación</h3>
-
 Picar la cebolla, la zanahoria y las setas hasta hacer un puré. Rehogar el puré con un poco de aceite y mantequilla, al 50%, y reservarlo. Salar el rabo, pasarlo por harina y freírlo en aceite muy caliente, durante unos 2 minutos, aproximadamente.
 
 Poner en una cazuela el puré de verduras y setas, junto con el rabo frito y el vino blanco, a fuego lento durante unos 15 minutos y remover varias veces. En este tiempo el vino blanco se habrá reducido. Añadir el vino tinto y dejar cocer hasta que el rabo esté tierno. Si durante la cocción se reduce mucho el vino tinto, añadir caldo normal. Hecho el rabo, se añade el tomate y el caldo concentrado y se deja cocer unos 15 minutos, aproximadamente.

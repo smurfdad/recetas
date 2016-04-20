@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de calamares enteros
 
 1/2 kg. de pescado en filetes sin piel
@@ -47,6 +46,5 @@ hojas de laurel
 Ramita de tomillo.
 
 <h3>Preparación</h3>
-
 Limpiar los calamares y cortarlos en rebanadas y las patas en trozos. Hacer una salsa con la cebolla picada, el tomate picado, el vino, el ajo, la sal, la pimienta y un ramito de tomillo y laurel(para retirar despues) Introducir los calamares en esta salsa y cocerlos durante 45 minutos. Añadir después el pescado en trozos (o gambas peladas en su lugar)y cocinarlo 20 minutos más. Un ratito antes de completar la cocción agregar la canela en polvo. Retirar las ramitas de tomillo y laurel y servir.
 

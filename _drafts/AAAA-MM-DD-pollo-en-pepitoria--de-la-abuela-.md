@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Un pollo troceado.
 
 Media Cebolla Grande.
@@ -41,11 +40,9 @@ Sal
 Agua
 
 <h3>Preparación</h3>
-
 Poner a cocer un huevo. 15 minutos desde que empieza a cocer. Salar y sofreir el Pollo dejándolo un poco crudo. Cortar la cebolla en trozos pequeños y pocharla en una sartén en el aceite de freir el pollo. En el almirez machacar las almendras crudas, los ajos y la yema del huevo. Pasar el pollo sofrito a una cazuela. Añadir la cebolla y el machacado. Añadir agua hasta casi cubrir el pollo. Dejar cocer.
 
 <h3>Observaciones</h3>
-
 Probar con machacar en crudo el hígado del pollo.
 
 Probar con añadir vino blanco o coñac.

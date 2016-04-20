@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Harina integral de trigo 500 g
 
 Manteca 100 g
@@ -52,7 +51,6 @@ Sal  (opcional) 1 cdta.
 Aceite de oliva 1 y 1/2 cdas.
 
 <h3>Preparación</h3>
-
 Molde para tartas (de unos 20 cm. de diámetro, preferentemente desmontable), Olla (grande), Tabla, Cuchillo (filoso), Palo de amasar, Colador, Sartén (grande, profunda), Cuchara de madera
 
 Encienda el horno para precalentar a temperatura media/alta. Forme una corona o volcán con la harina y coloque en el medio la manteca cortada en cuadraditos. Vierta de a poco el agua, a medida que va incorporando la harina a la manteca y trabaje rápidamente hasta formar un bollo.

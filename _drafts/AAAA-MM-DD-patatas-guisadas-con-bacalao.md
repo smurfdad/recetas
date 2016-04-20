@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de bacalao
 
 4 ó 5 patatas
@@ -34,7 +33,6 @@ Para 4 personas.
 1 pimiento verde
 
 <h3>Preparación</h3>
-
 Pelar y picar fina la verdura, poniéndola a rehogar en una cazuela con un poco de aceite de oliva.
 
 Una vez echa añadir el bacalao desmigado y desalado, rehogandolo bien.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 PARA EL HOJALDRE:
 
 200 gr. de harina
@@ -51,7 +50,6 @@ PARA LA CREMA PASTELERA:
 1 l de leche
 
 <h3>Preparación</h3>
-
 PREPARACION DEL HOJALDRE:
 
 En un bol se echa la harina, el aceite y la leche y se amasa todo junto hasta conseguir una masa compacta. Se estira y se aplasta bien con el rodillo y se corta en tiras, se enrollan en los tubos y se fríen en aceite abundante y caliente, se retiran de los tubos cuando todavía están calientes y se espolvorean con azúcar y canela.

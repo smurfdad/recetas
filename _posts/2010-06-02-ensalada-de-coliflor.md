@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor mediana
 
 3 dientes de ajo
@@ -24,7 +23,6 @@ vinagre
 1/4 litro de agua
 
 <h3>Preparación</h3>
-
 Limpiar y cortar los troncos a la coliflor.
 
 Cortar el ajo en laminas, freírlo con un poco de aceite y cuando empiece a tomar color, añadir el pimentón y retirar del fuego.

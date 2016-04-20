@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebollas o cebolletas.
 
 1 kilo de tomates maduros.
@@ -45,7 +44,6 @@ Medio litro de agua.
 Sal.
 
 <h3>Preparación</h3>
-
 Picamos la cebolla y fileteamos el ajo. Rehogamos todo en una cazuela con aceite.
 
 A continuación, picamos los tomates y los echamos a la cazuela. Rehogamos unos minutos y le incorporamos el agua, dejando que cueza a fuego lento durante 20-25 minutos, sazonándolo con sal y azúcar.
@@ -55,6 +53,5 @@ Después de este tiempo, lo trituramos con la ayuda de un pasapuré o una batido
 Al servir, en cada plato pondremos unos costrones de pan frito, untado con ajo y menta picada.
 
 <h3>Observaciones</h3>
-
 Este plato se puede servir frío o caliente.
 

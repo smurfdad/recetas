@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 paquetes de espinacas congeladas
 
 3 huevos
@@ -36,7 +35,6 @@ sal
 1 tácita de nata líquida
 
 <h3>Preparación</h3>
-
 Cocer las espinacas con agua y sal.
 
 Una vez cocidas, escurrirlas y picarlas finas.

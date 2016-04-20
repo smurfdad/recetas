@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 g de hígado de cerdo
 
 500 g de papada de cerdo
@@ -42,6 +41,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Lavar las patatas y ponerlas a asar con piel. Mientras se asan pondremos en una cazuela el aceite de oliva y cuando esté caliente echaremos la papada partida a cuadrados sin la piel. La rehogaremos, y cuando esté dorada, añadiremos el hígado y el riñón cortado de la misma manera que la papada y dejaremos que se termine de rehogar todo sin hacerlas demasiado porque las vísceras resultarían duras. Para finalizar el plato pondremos por encima las patatas abiertas, rociando el guiso con una picada de ajo con el vinagre y el perejil. Tomar muy caliente.
 

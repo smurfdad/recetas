@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 300 gr. de langostinos pelados.
 
 500 gr. de filete de pescado.
@@ -47,7 +46,6 @@ sal y pimienta.
 1 cubo de caldo concentrado de pollo
 
 <h3>Preparación</h3>
-
 Fría la manteca junto con la cebolla y el ajo picados.
 
 Agregue los tomates pelados y cortados, los pimentones picados y el color, el laurel, la mejorana y salpimiente.

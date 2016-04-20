@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 sal
@@ -21,7 +20,6 @@ huevo
 aceite
 
 <h3>Preparación</h3>
-
 Cortar las berenjenas en rodajas.
 
 Sazonarlas con sal, pasarlas por harina y huevo y freírlas en abundante aceite caliente.

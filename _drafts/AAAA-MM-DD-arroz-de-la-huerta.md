@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Para 6 personas:
 
 400 gr. de arroz
@@ -50,13 +49,11 @@ Para 6 personas:
 Sal
 
 <h3>Preparación</h3>
-
 Colocar la paella al fuego con el aceite y un poco de sal, cuando esté caliente poner los caracoles, el pollo y el conejo, freír a fuego lento hasta que se doren, añadir las judías y la verdura y freír unos minutos más. Añadir el tomate y freír.
 
 Una vez frito se añade el agua y cuando empieza a hervir la sal, se deja hervir 25 minutos. Añadir el arroz bien repartido y cocer los primeros 10 minutos a fuego vivo y los 5 - 8 minutos restantes a fuego lento hasta que quede en su punto.
 
 <h3>Observaciones</h3>
-
 Puede añadirse colorante alimentario para darle color.
 
 Puede añadirse o sustituir la sal por un dado de caldo concentrado, según gustos.

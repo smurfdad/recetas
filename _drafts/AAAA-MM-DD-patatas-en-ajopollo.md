@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 de kg. de patatas
 
 12 almendras peladas
@@ -47,6 +46,5 @@ unas hebras de azafrán
 sal
 
 <h3>Preparación</h3>
-
 Pelar las patatas y partirlas en cuadrados grandes. Calentar el agua en un cazuela y poner en ella la hoja de laurel, el perejil, los granos de pimienta, el azafrán, las patatas y un poco de sal. Tapar y cocer a fuego lento. Mientras, majar en el mortero por este orden el ajo con un poco de sal, las almendras y la miga de pan. Incorporar el aceite en un hilo fino y remover. Desleírlo con un poco del caldo de la cocción de las patatas. Cuando las patatas estén cocidas, se retira la cazuela del fuego y se vierte sobre ellas el majado. No ha de hervir para que no se corte.
 

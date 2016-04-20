@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Kilo y medio de rape de la parte ancha.
 
 100 gramos de pimentón.
@@ -60,6 +59,5 @@ Perejil picado.
 Medio huevo cocido.
 
 <h3>Preparación</h3>
-
 El rape, limpio de telillas y de la espina central, se sazona y se pasa por el pimentón para que se impregne bien. Lo envolvemos en papel aluminio y lo cocemos en agua salada durante diez minutos. Se saca el rape del paquete y se corta en rodajas de medio centímetro de espesor. Para servir, en una fuente ponemos unas hojas de lechuga cortada en juliana. Alrededor colocamos las rodajas de rape y, finalmente, los langostinos abiertos por la mitad sobre la lechuga.
 

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/4 kg. de salmón fresco
 
 8 lonchas finas de salmón ahumado o marinado
@@ -27,7 +26,6 @@ el zumo de dos limones
 10 gotas de tabasco
 
 <h3>Preparación</h3>
-
 Picar muy menudo las alcaparras, pepinillos y cebolletas.
 
 Quitar la piel al salmón, lavarlo, secarlo y cortarlo en daditos muy pequeños.

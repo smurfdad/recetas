@@ -22,7 +22,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 800 gr. de champiñones
 
 1 cebolla
@@ -46,7 +45,6 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Pica la cebolla, el tomate y 2 dientes de ajo. Ponlos a rehogar en una cazuela con 3 cucharadas de aceite.
 
 Limpia los champiñones, retirándole la tierra del tallo. Filetea los champiñones(reserva 8) y agrégalos a la cazuela. Rehoga brevemente. Incorpora el arroz y vierte el agua caliente. Sazona y deja cocer a fuego suave hasta que se evapore por lo menos 1/2 litro (unos 30 minutos). Tritura con la batidora para conseguir una crema homogénea.
@@ -56,6 +54,5 @@ Filetea un ajo, los higadillos y los champiñones reservados anteriormente. Dora
 Unta las rebanadas de pan frito con un diente de ajo, colócalas en un plato y decora con una rama de perejil. Sirve la sopa en una sopera y coloca encima el salteado.
 
 <h3>Observaciones</h3>
-
 Cuando cocinéis con hígados de pollo es muy importante retirar con mucho cuidado la bolsita de la hiel, sin que se rompa, ya que de lo contrario os amargará el plato. Para evitar cualquier sabor extaño, conviene también recortar el trozo de higadito que se encuentra en contacto con dicha hiel.
 

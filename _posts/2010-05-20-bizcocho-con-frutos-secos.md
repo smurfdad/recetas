@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 yogur de limón(o natural con ralladura de limón)
 
 1 medida del yogur de aceite de girasol
@@ -27,7 +26,6 @@ Para 8 personas.
 15 nueces
 
 <h3>Preparación</h3>
-
 Remojar de víspera las ciruelas en agua con un poco de licor o vino dulce.
 
 Escurrirlas bien, picarlas en trocitos, mezclarlas con las nueces también cortadas en trocitos y rebozarlas en un poco de la harina.

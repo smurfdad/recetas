@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 chuletillas de cordero.
 
 2 dientes de ajo picado y 2 enteros.
@@ -48,6 +47,5 @@ Un cuarto de cava.
 Sal.
 
 <h3>Preparación</h3>
-
 En primer lugar, montamos las claras con una batidora y le añadimos harina, sal, levadura, las yemas y el cava, todo poco a poco, hasta conseguir el espesor deseado. Dejamos reposar una hora y obtendremos una excelente pasta Orly. A continuación, salamos las chuletillas, las colocamos en una placa de horno y les ponemos por encima el ajo picado y unas gotas de aceite. Las metemos en el horno, a unos 200 grados, durante cinco minutos. Las sacamos y dejamos que se enfríen. Rebozamos las chuletas con la pasta Orly y las freímos en una sartén, con abundante aceite caliente, con dos dientes de ajo enteros. Las escurrimos bien y las servimos acompañadas de salsa de tomate.
 

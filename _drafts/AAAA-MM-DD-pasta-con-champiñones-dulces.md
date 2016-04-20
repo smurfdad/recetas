@@ -24,7 +24,6 @@ Para 2 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 sal
 
 pimienta
@@ -50,7 +49,6 @@ crema de leche
 pasta (a su gusto)
 
 <h3>Preparación</h3>
-
 Poner a hervir la pasta.
 
 Mientras empezaremos la salsa.

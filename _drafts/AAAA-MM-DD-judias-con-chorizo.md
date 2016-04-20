@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 Judias
 
 Cebolla.
@@ -40,6 +39,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Poner la noche anterior las judias en agua. Echar todo junto en la cazuela y poner a cocer a fuego muy lento durante muchas horas. Corregir de sal a última hora para que no se encallen.
 

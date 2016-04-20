@@ -35,7 +35,6 @@ Salsa escalibada:
 - aceite para pintar las hortalizas
 
 <h3>Preparación</h3>
-
 Separar la coliflor en ramitos, lavarlos y cocerlos en agua hirviendo con sal unos 20 minutos, de modo que quede cocida pero firme. Escurrirlos, pasar ramo a ramo por harina y huevo batido y freírlos en aceite caliente. Servir los ramos de coliflor cocidos y rebozados con la salsa escalibada.
 
 Salsa escalibada:

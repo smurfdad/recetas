@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 patatas medianas
 
 3 zanahorias
@@ -27,7 +26,6 @@ Para 4 personas.
 salsa mayonesa
 
 <h3>Preparación</h3>
-
 Poner a cocer con agua y sal, las patatas, la zanahoria y los huevos, cada uno por separado.
 
 Una vez este todo cocido y frío, cortar en cuadraditos pequeños.

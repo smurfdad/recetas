@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de cocochas
 
 1 cebolla
@@ -35,7 +34,6 @@ perejil
 1 vasito de vino blanco
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y el ajo, poniendo en una cazuela de barro, con un poco de aceite a rehogar despacio.
 
 Una vez echa añadir las cocochas sazonadas con sal y enharinadas.

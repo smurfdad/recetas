@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 raspas y cabezas de pescados
 
 1 cebolla
@@ -33,6 +32,5 @@ raspas y cabezas de pescados
 2 litros de agua
 
 <h3>Preparación</h3>
-
 Poner todo junto en una marmita y dejar reducir despacio hasta que quede un litro de caldo aproximadamente.
 

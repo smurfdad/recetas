@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 grs. de lengua de ternera
 
 1 puerro
@@ -38,7 +37,6 @@ Medio litro de vino tinto
 Aceite y sal
 
 <h3>Preparación</h3>
-
 Se lava la lengua y se pone a cocer en agua abundante con media cebolla partida, el puerro troceado, la pimienta negra y sal.
 
 Cuando esté tierna se enfría al chorro de agua y después se quita la piel y se filetea.

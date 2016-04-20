@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. hojaldre congelado
 
 200 grs. queso roquefort
@@ -23,7 +22,6 @@ Para 8 personas.
 4 huevos
 
 <h3>Preparación</h3>
-
 Una vez descongelado el hojaldre, extenderlo y forrar con ello un molde redondo de los desmontables.
 
 Triturar el roquefort con la nata y los huevos batidos.

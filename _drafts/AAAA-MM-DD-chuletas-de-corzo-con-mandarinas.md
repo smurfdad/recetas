@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 chuletas de corzo
 
 10 mandarinas
@@ -66,7 +65,6 @@ huesos de corzo
 1 l. de caldo de ave
 
 <h3>Preparación</h3>
-
 En un recipiente que no sea metálico se ponen los huesos del corzo, la cebolla, la zanahoria, las chalotas y el apio, todo pelado y troceado. Se añaden el ramillete aromático, la pimienta en grano y las bayas de enebro, machacadas. Se cubre todo con el vino tinto y se mete al frigorífico, durante 24 horas.
 
 Transcurridas las 24 horas, se cuela el vino a un recipiente. Se separan los huesos de las verduras. En una cazuela grande, se pone un poco de aceite a fuego fuerte. Se doran allí los huesos de la marinada y se sacan.

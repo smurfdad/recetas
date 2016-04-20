@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 g de Bacalao de la parte de la cola
 
 6 puerros grandes
@@ -38,7 +37,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 En el momento de preparar la receta, escurrir el Bacalao y cortarlo en trozos medianos.
 
 Limpiar los puerros, eliminando la parte verde y cortar la parte blanca en rodajas anchas. Pelar las patatas y cortarlas en trozos medianos.

@@ -21,7 +21,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1/2 l de consomé
@@ -63,7 +62,6 @@ Para la mantequilla de bacón
 100 g de mantequilla
 
 <h3>Preparación</h3>
-
 Para el consomé, tostar en una brasera al horno, a 180&ordm;C, la carcasa de pollo y el hueso de ternera. Escurrir bien la grasa e introducir en una olla con los demás ingredientes ya limpios. Agregar el agua mineral en frío y dejar hervir a fuego lento hasta que se consuma la mitad aproximadamente (es importante desengrasar).
 
 Para los tallarines, añadir 5 gramos de agar&amp;agar al medio litro de consomé y arrancar el hervor para disolverlo. Poner a punto de sal.
@@ -79,6 +77,5 @@ Poner en el centro del plato los tallarines de consomé, imitando lo máximo pos
 Poner unos 5 dados de parmesano alrededor de los tallarines. Repartir una cucharada sopera de nata reducida alrededor de los tallarines y depositar un cordón de yema calentada sobre la nata. Rociar los tallarines con aceite de tartufo.
 
 <h3>Observaciones</h3>
-
 Sale de litro a litro y medio de consomé. Reducir la cantidad según sus necesidades.
 

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. de langostinos. También valen congelados, los frescos aunque son más caros, realmente merece la pena.
 
 2 Aguacates medianos.
@@ -34,6 +33,5 @@ Para 4 personas.
 Mayonesa.
 
 <h3>Preparación</h3>
-
 Lo importante es darle el punto optimo de cocción a los langostinos. Para ello pondremos agua con un chorrito de aceite y abundante sal a cocer. Cuando rompa el hervor, echamos los langostinos los dejamos 1 minuto al fuego, y pasado ese tiempo, retiramos la olla del calor. Los langostinos siguen dentro del agua. Los dejaremos en esa agua caliente hasta que estén cocidos, mas o menos necesitarán 3 o 4 minutos más. Se puede poner un chorrito de vinagre al agua durante este proceso, quedan mas duritos y tersos. Ahora los sacamos del agua caliente y los enfriamos rápidamente en agua con mucho hielo. Una vez fríos, solo queda pelarlos. Podéis dejar la cola y queda más decorativo. Para montar la ensalada, sólo os queda cortar una juliana de lechuga, pelar el aguacate y abrirlo en abanico. La mayonesa o la salsa que queráis es mejor servirla en el plato pero sin que tape el marisco.
 

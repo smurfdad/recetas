@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 de macarrones
 
 1/4 tomate frito
@@ -23,7 +22,6 @@ unos taqitos de bacon
 mantequilla o margarina
 
 <h3>Preparación</h3>
-
 Se ponen a cocer en abundante agua con sal cuando esté hirviendo.
 
 Cuando estén cocidos se pasan a un escurreverduras rociándolos con agua para que no se peguen.

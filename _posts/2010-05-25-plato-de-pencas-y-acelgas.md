@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. acelgas
 
 1 paquete de puré de patata
@@ -23,7 +22,6 @@ Para 6 personas.
 aceite
 
 <h3>Preparación</h3>
-
 Cocer por separado lo verde y las pencas de las acelgas.
 
 A lo verde para cocerlas añadirle la cebolla picada y después escurrirlas y rehogarlas con el ajo fileteado.

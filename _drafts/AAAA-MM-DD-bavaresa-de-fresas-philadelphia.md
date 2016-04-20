@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs. de fresas
 
 300 grs. de azucar
@@ -38,7 +37,6 @@ Para 4 personas.
 100 grs. de mermelada de fresa
 
 <h3>Preparación</h3>
-
 Remojar en agua fría la gelatina, durante 5 minutos y a continuación, en ese mismo agua, calentar hasta que se disuelva.
 
 Triturar con la batidora las fresas (apartar 12 fresas para decorar), el azúcar, el queso, la nata, el zumo de medio limón, la corteza del mismo rallada, y la gelatina.

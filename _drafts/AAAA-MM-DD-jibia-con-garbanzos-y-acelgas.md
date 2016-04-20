@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 jibia
 
 400 grs de garbanzos cocidos
@@ -46,6 +45,5 @@ Sal
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Una vez lavadas y troceadas las acelgas, se cuecen durante 15 minutos en el caldo de pescado y se reservan. Se laminan los ajos y se rehogan en el aceite de oliva, después se añade la cebolla picada y, cuando está blanda, se agrega la jibia limpia y cortada en dados y la pimienta recién molida. Se añade el zumo de limón y se deja cocer el pescado en su propio jugo. Cuando la jibia empiece a estar tierna se añaden los garbanzos, las acelgas con el caldo y una cucharada de pimentón dulce. Se deja reducir y se sirve.
 

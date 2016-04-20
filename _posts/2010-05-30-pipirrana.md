@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 3 tomates grandes para ensalada.
 
 1/4 Kg. de zanahorias.
@@ -25,7 +24,6 @@ Aceite de oliva.
 Sal.
 
 <h3>Preparación</h3>
-
 En un recipiente apropiado vamos echando, una vez pelados y picados muy menudamente los tomates, igualmente los pimientos y las cebollas.
 
 Los pepinillos los cortamos en obleas finas y añadimos las alcaparras.

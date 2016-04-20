@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400 gr. de alubia
 
 1 puerro
@@ -46,7 +45,6 @@ Sal
 Perejil
 
 <h3>Preparación</h3>
-
 Pon las alubias (previamente remojadas) a cocer en un puchero con el puerro, el tomate, los dientes de ajo, las zanahorias, la cebolla y un puñadito de comino.
 
 Deshuesa la pierna de cordero, átala con una lid y ponla en la cazuela.

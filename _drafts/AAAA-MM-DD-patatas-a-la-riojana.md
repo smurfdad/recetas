@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 Kg de patatas
 
 1 cebolla mediana
@@ -36,7 +35,6 @@ Para 4 personas.
 consomé
 
 <h3>Preparación</h3>
-
 Pelar las patatas y cortarlas a mordiscos y reservar.
 
 El chorizo cortarlo en rodajas finas y reservar.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 10 o 12 sobaos
 
 1/2 l. de nata
@@ -32,7 +31,6 @@ Para 4 personas.
 1/2 tableta de Turrón Alicante
 
 <h3>Preparación</h3>
-
 Se ponen los sobaos en una bandeja de cristal hasta que la cubra. Se hace el flan royal como indica la caja. Una vez hecho el flan se echa encima de los sobaos, se mete en la nevera y se deja enfriar.
 
 Se monta la nata y se reserva un poco para deshacer el turrón. La nata debe estar bien montada. Una vez montada se echa encima de los bizcochos remojados con el flan y se vuelve a meter en la nevera.

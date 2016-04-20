@@ -23,13 +23,11 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 pechugas de pollo por persona
 
 queso emental
 
 <h3>Preparación</h3>
-
 Cortar las pechugas de pollo en lonchas finas.
 
 Cortar el queso emental en trozos largos y delgados.

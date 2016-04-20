@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 6 Cucharadas de aceite de oliva
 
 1 Cucharada de vinagre d vino tinto
@@ -43,7 +42,6 @@ Verdura mixtas
 Queso parmesano, rallado
 
 <h3>Preparación</h3>
-
 En un tazón, mezcle el aceite, vinagre jugo de limon, ajo, mostaza Dijon, sal y pimieta.
 
 Agregue los camoranes cocinado aceituna y tomates.

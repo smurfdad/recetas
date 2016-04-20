@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de garbanzos
 
 2 rabos de cerdo
@@ -40,7 +39,6 @@ Para 6 personas.
 1 berza pequeña
 
 <h3>Preparación</h3>
-
 Poner los garbanzos con agua fría a remojo la noche anterior.
 
 Por la mañana cambiarles el agua poner todos los ingredientes y dejar cocer a fuego lento.

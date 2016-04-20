@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 vaso de aceite de oliva
 
 1 l de leche
@@ -41,6 +40,5 @@ canela en polvo
 mantequilla.
 
 <h3>Preparación</h3>
-
 Cortar el pan en cuadraditos y freírlo en una sartén con aceite. Escurrir los picatostes y reservar. Tostar la harina en una sartén honda junto con la matalahuva. A continuación añadir la leche, el azúcar y los picatostes de pan, removiendo lentamente para que no se pegue. Una vez que alcanza una textura consistente, se vacía en una fuente untada ligeramente con mantequilla, y se espolvorea con canela para adornar. Se sirve enseguida.
 

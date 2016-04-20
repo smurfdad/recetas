@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Morros de ternera
 
 Para la salsa:
@@ -34,7 +33,6 @@ vino blanco
 caldo de carne
 
 <h3>Preparación</h3>
-
 Se cuecen los morros y, una vez hecho esto se rebozan.
 
 Se hace una salsa perdiguera a base de harina, cebolla, vino blanco y caldo de carne.

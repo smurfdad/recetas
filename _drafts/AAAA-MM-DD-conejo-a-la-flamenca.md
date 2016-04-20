@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo de 1, 5 kg., limpio
 
 10 ciruelas pasas sin hueso
@@ -51,6 +50,5 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Se ponen a macerar en el brandy las pasas y las ciruelas durante 3 horas. Se trocea el conejo y, se untan los trozos con algo de sal y pimienta. Se pelan las cebollitas, dejándolas enteras, se pela la cebolla y se pica muy fina. Se pone al fuego una cazuela con aceite, se fríe el bacón y, a continuación, se van añadiendo los trozos de conejo. Cuando estén bien dorados, se sacan y se reservan. Las cebollitas se sofríen por todos lados y se sacan. Después se tuesta ligeramente la cebolla picada, se introduce de nuevo el conejo y se espolvorea con tomillo. Se tapa la cazuela y se deja cocer a fuego muy bajo durante media hora. Transcurrido este tiempo, se le da la vuelta, se agregan las pasas y las ciruelas bien escurridas, también las cebollitas, y se continúa la cocción, con la tapadera puesta, otra media hora. Se rocía con el vino tinto y se deja unos minutos antes de servir, bien caliente.
 

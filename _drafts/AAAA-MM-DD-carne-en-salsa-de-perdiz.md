@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1,5 kg. jarrete
 
 1 Ud. cebolla grande
@@ -41,6 +40,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Poner todos los ingredientes en crudo en la olla, taparla con papel de aluminio. Cocer a fuego lento hasta que el jarrete esté muy tierno. Pasar la salsa por un pasapurés y listo.
 

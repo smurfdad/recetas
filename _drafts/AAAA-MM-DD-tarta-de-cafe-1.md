@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 25 gr. de café
 
 5 bizcochos de plantilla
@@ -39,6 +38,5 @@ mantequilla
 almendras
 
 <h3>Preparación</h3>
-
 Se prepara una crema consistente y fina batiendo la mantequilla con la yema de un huevo, azúcar y abundante café cargado. Se mojan con café y vino dulce unos bizcochos de los llamados de plantilla. En una fuente amplia se coloca una tanda de bizcochos remojados, a los que se les habrán cortado las puntas. A continuación, se cubren con crema y se añade otra capa de bizcochos y así sucesivamente hasta cuatro pisos, procurando que la última sea una capa de crema. Asimismo, con ayuda de una espátula se unta de crema por los costados para darle mejor aspecto. Se adorna con almendras fritas picadas muy menudas.
 

@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 lbs. de zanahoria peladas y cosidas,pueden ser de las que ya vienen listas para comer
 
 6 huevos
@@ -36,7 +35,6 @@ Para 8 personas.
 2 cdas. de polvo de hornear
 
 <h3>Preparación</h3>
-
 Pre-caliente el horno a 350 grados.
 
 Engrase un molde de 8 por 8 por 8.

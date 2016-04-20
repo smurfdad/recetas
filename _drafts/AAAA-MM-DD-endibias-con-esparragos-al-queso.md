@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 endibias
 
 1 vaso de crema de leche
@@ -34,7 +33,6 @@ Para 4 personas.
 50g de queso Roquefort
 
 <h3>Preparación</h3>
-
 Separa las endibias en hojas y corta la parte dura de los esparragos.
 
 Hierve los esparragos durante 3 minutos y escurrelos.

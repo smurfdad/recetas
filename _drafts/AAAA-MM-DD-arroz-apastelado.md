@@ -24,7 +24,6 @@ Para 10 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pimiento verde
 
 1 pimiento rojo
@@ -50,7 +49,6 @@ una pizca de oregano
 1 platano verde rayado
 
 <h3>Preparación</h3>
-
 Sofria en el aceite la cebolal, pimientos ajos.
 
 Añada el platano rayado.

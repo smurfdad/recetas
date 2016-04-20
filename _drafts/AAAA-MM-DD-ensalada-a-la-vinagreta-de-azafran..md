@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 50 gramos de jamón de pato.
 
 Medio pepino.
@@ -49,7 +48,6 @@ Vinagreta:
 1 diente de ajo picado.
 
 <h3>Preparación</h3>
-
 Comenzamos limpiando bien todos los ingredientes. Colocamos las hojas de lechuga sobre el plato, formando un circulo. Cortamos un tomate en gajos y los colocamos sobre las hojas de lechuga. En el centro ponemos un puñado de berros.
 
 Aparte, fileteamos unos champiñones y cortamos en rodajas el pepino y los ponemos sobre el tomate. Cubrimos todos con los granos de maíz. Entonces, hacemos la vinagreta y con ella rociamos la ensalada.

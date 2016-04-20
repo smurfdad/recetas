@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 375 g de ajonjolí
 
 2 tazas de aceite de oliva
@@ -45,6 +44,5 @@ harina, la que admita la masa
 azúcar glass para espolvorear.
 
 <h3>Preparación</h3>
-
 Poner en un recipiente la manteca a fuego y derretirla. Una vez derretida agregarle el aceite y todos los ingredientes excepto la harina. Mezclar todos los ingredientes muy bien y a continuación incorporar la harina que admita, la masa deberá quedar consistente. Se deja reposar 10 ó 15 minutos. Precalentar el horno a 190 grados. Poner esta masa en una mesa de mármol o superficie plana para cortar las tortitas a nuestro gusto. Se hornean ahora a unos 190 C durante 15 minutos aproximadamente. Al sacarlas del horno se espolvorean con azúcar glass. Una vez frías, se suelen envolver en papeles de colores para presentarlas.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tapa de tarta para horno (ver masas básicas en panadería y repostería)
 
 250g de jamón cocido picado
@@ -38,7 +37,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 En un recipiente mezclar todos los ingredientes, el jamón, el queso, el tomate, los huevos duros, los huevos batidos condimentados y mezclar bien de manera envolvente.
 
 Se unta una tartera con aceite y se forra con la tapa de tarta, se coloca el relleno en forma pareja, se coloca la tapa superior, se hace el repulgo, si sobra masa se puede usar para decorar la superficie de la tarta, se pinta con huevo batido, se pincha en forma pareja con un tenedor y se lleva a horno moderado hasta que este dorada

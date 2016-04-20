@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 doradas de 1/2 kg.
 
 1 tomate
@@ -43,7 +42,6 @@ Pimienta
 Sal
 
 <h3>Preparación</h3>
-
 Pide en la pescadería que te fileteen las doradas. Salpimienta los filetes y ponlos a freír por los dos lados en una sartén con un poco de aceite.
 
 Pela el tomate, córtalo en dados, añade un poco de aceite, un chorrito de vinagre de modena y sal.
@@ -55,6 +53,5 @@ Limpia los espárragos, retírales el tallo, sazónalos y saltéalos brevemente 
 Sirve en una fuente, los filetes de dorada y acompaña de los espárragos.
 
 <h3>Observaciones</h3>
-
 Recuerda que el pescado hay que hacerlo solo el tiempo necesario para que desaparezca el color rosáceo de su carne.
 

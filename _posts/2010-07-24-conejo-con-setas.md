@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo tierno troceado
 
 200 gr. de setas
@@ -25,7 +24,6 @@ Para 4 personas.
 1 cucharada de harina
 
 <h3>Preparación</h3>
-
 Se sazona el conejo y se dora con el aceite en una cazuela. Se añade la cebolla finamente picada y se sofríe hasta verla tierna.
 
 Se incorporan entonces las setas limpias y troceadas y los ajos picados, rehogando todo un tiempo. Se añade la harina removiendo.

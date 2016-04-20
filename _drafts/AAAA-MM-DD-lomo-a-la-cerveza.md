@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 filetes de lomo de cerdo
 
 Harina
@@ -36,6 +35,5 @@ Sal
 Pimienta negra molida
 
 <h3>Preparación</h3>
-
 Se salpimentan los filetes de lomo y se pasan por harina, se fríen en una sartén con abundante aceite y se van apartando a una cazuela. Una vez todos los filetes fritos se cubren con cerveza y un vasito de agua y se pone a cocer a fuego lento aproximadamente durante 45 minutos. Están buenísimos.
 

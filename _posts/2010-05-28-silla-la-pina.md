@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>kg</span>. de cinta de chuletas de cerdo en un trozo
 
 1 lata de piña grande
@@ -22,7 +21,6 @@ Para 8 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 En una fuente de horno colocar la carne entera, rociada de  aceite, sal y pimienta. Meter a horno fuerte.
 
 Cuando esté dorada añadir el jugo de la piña, el vino y la mitad de la piña cortada en <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>trocitos</span>.

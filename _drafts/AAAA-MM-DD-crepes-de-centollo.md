@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 centollo de 1 de kilo.
 
 200 mililitros de nata liquida.
@@ -62,7 +61,6 @@ Vino blanco.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Ponemos a cocer el centollo en agua hirviendo con sal, pimienta negra y laurel, durante 15 minutos. Sacamos el marisco del agua, dejamos que se temple y desmenuzamos toda su carne.
 
 Picamos la cebolleta, la zanahoria, el ajo y el tomate en brounoisse (picado fino) y pochamos en un poco de aceite de oliva. Añadimos las partes blandas del centollo, flambeamos con un poco de coñac, lo trituramos y lo pasamos por el chino.

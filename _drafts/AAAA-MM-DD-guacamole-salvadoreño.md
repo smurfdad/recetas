@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 ó 5 aguacates maduros,
 
 1 cebolla pequeña,
@@ -32,6 +31,5 @@ el zumo de un limón,
 sal y pimienta negra.
 
 <h3>Preparación</h3>
-
 Pica la cebolla bien fina y colócala en un recipiente pequeño. Agrégale el zumo de limón, sal y pimienta al gusto y déjala reposar. Mientras tanto pela los aguacates y pícalos en daditos (puedes hacerlos puré si lo deseas). Pela los huevos y pica dos. El otro lo partes en gajos. Mezcla los aguacates, huevos picados y cebolla de una vez. Prueba de sal. Adorna por encima con el huevo en gajitos.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pechuga de pollo o gallina
 
 1 pimiento
@@ -45,7 +44,6 @@ Para 4 personas.
 Sal, comino, orégano, pimienta.
 
 <h3>Preparación</h3>
-
 Cocer la pechuga de pollo con el pimiento, zanahoria en rodajas, 1 ajo, especies varias para condimentar (orégano, comino) Hacer un caldo. Retirar del fuego cuando la carne esté cocida, tomar la pechuga y cortarla en trozos pequeños. Reservar el caldo de cocción y poner el pan de molde en una tasa con un poco de caldo, para que se remoje bien. Cocer aparte el ají y molerlo.
 
 Picar la cebolla finamente, freir junto al segundo diente de ajo, sal y pimienta. Cuando esté bien frita la cebolla, agregar el pollo en cubitos, el ají molido, el pan remojado y un poco del caldo reservado. No debe quedar muy líquido. Agregar luego de unos minutos las nueces molidas y minutos antes de retirarlo del fuego, agregar poco a poco la leche, verificando que no quede muy líquido. Acompañar de preferencia con arroz blanco.

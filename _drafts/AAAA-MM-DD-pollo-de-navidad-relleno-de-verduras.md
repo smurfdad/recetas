@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 360 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo entero de 3 Kg. Aproximadamente
 
 salsa de soja sin sal o salsa kelpamare
@@ -60,7 +59,6 @@ coñac aromatizado a la trufa
 1/2 l. de caldo de verduras sin sal
 
 <h3>Preparación</h3>
-
 Una vez el pollo bien limpio y chamuscado, lo pintamos por dentro y por fuera con la salsa kelpamare (o la de soja sin sal),el zumo del medio limón y sazonamos también por dentro y por fuera con la pimienta y el orégano. Reservamos en un sitio fresco.
 
 Mientras en una cazuela, salteamos la cebolla, el pimiento y la zanahoria a trocitos no demasiado pequeños. Añadimos el puerro a rodajas y las alcachofas y los ajos fileteados. Incorporamos la berenjena a tacos de 1 cm. Cuando ya casi esté sofrito, sazonamos con pimienta, la piel del limón a trocitos y un poquito de salsa kelpamare o soja.

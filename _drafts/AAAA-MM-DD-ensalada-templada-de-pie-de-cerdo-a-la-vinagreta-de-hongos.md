@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 manitas de cerdo
 
 2 hongos medianos
@@ -51,7 +50,6 @@ sal
 pimienta negra en grano
 
 <h3>Preparación</h3>
-
 En una olla exprés con agua se cuecen las manitas, partidas por la mitad, hasta que estén tiernas, junto con puerros, zanahorias, cebollas, sal y pimienta negra en grano. Una vez cocidas, se dejan enfriar y se deshuesan.
 
 Entre las dos mitades de cada manita colocar tiras de hongos, cortadas longitudinalmente. Se envuelven individualmente en papel de aluminio y se dejan enfriar hasta que se endurezcan.

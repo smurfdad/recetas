@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 liebre
 
 Tocino
@@ -50,7 +49,6 @@ Vinagre
 Tacos de jamón
 
 <h3>Preparación</h3>
-
 Después de quitar la piel y levantar el interior (hay que tener cuidado de levantar el hígado y la sangre), se prepara en trozos, que se lavan en agua fresca y se ponen en adobo con trozos de cebolla y zanahorias, puerros, una hojita de laurel, unos granitos de pimienta negra, 2 dientes de ajo, 1 clavito, sal y vinagre, y se tiene en dicho adobo durante 24 horas.
 
 Se prepara en una sartén o cacerola, unos trocitos de tocino con unas gotas de aceite. Cuando esté frito el tocino, se saca y se rehoga en la misma grasa unos trocitos de jamón, sacándolos cuando estén bien rehogados. Se sacan del adobo los trozos de liebre y se secan en una servilleta, se rebozan ligeramente en harina y se rehogan en la grasa del jamón. Cuando estén doraditos se les añaden todas las verduras que han estado en adobo, añadiendo 1/2 cebolla más, y que se vayan haciendo con los trozos de liebre. Una vez que haya tomado su color la cebolla, se retiran los trozos de liebre, se desgrasa la cebolla, se le añade 1 vaso de vino tinto y otro blanco.

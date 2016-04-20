@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 rodajas de merluza
 
 aceite de oliva
@@ -34,7 +33,6 @@ aceite de oliva
 1 limón
 
 <h3>Preparación</h3>
-
 Sazonar la merluza con sal y mojarla un poco con aceite y echarla en la plancha bien caliente, marcándola bien por ambos lados.
 
 Echar un poco de aceite en una bandeja de horno, poner la merluza y meter a horno medio hasta que se termine de hacer.

@@ -22,7 +22,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 Jibia: 1 mediana (podemos congelar la tinta para otro plato)
 
 Pimiento rojo: 1
@@ -40,6 +39,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Doramos el pimiento rojo y lo reservamos. En el mismo aceite ponemos la jibia, limpia y cortada en trozos, y la cebolla muy picada. Después de dorarla un poco le añadimos agua hasta cubrirla y dejamos cocer. A media cocción añadimos los fideos, el azafrán y la salsa de tomate, así como agua si hiciese falta (con cubrir los fideos será suficiente). Dejamos cocer a fuego lento hasta que los fideos estén listos. Añadimos el pimiento rojo que habíamos reservado y servimos
 

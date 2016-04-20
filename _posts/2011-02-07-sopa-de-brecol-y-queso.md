@@ -12,7 +12,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 1 taza de cebolla picadita
 
 2 dientes de ajo
@@ -30,7 +29,6 @@ Para 4 personas.
 8 onzas de queso bajo en grasa
 
 <h3>Preparación</h3>
-
 Calienta una sartén sobre la cual has rociado con anterioridad aerosol vegetal. De inmediato añada la cebolla, el ajo, salteé por 3 minutos o hasta que ablanden.
 
 Agrege el caldo de pollo y el brécol y lo dejas hervir a temperatura mediana alta, despues bajas la temperatura a mediana y lo dejas durante 10 minutos.

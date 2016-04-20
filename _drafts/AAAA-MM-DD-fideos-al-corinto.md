@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Pollo de Kilo y medio
 
 1 Taza de azúcar
@@ -49,7 +48,6 @@ Perejil
 1 Cabeza de ajo
 
 <h3>Preparación</h3>
-
 Se limpia el pollo y se trocea. Preparamos una olla e introducimos medio vaso de aceite, el pollo troceado, el perejil y ajo picado, la especia y la sal. Todos estos ingredientes se rehogan y una vez rehogados, se les añade, 1/2 litro de agua y se deja cocinar a llave medir.
 
 PREPARACION DE LA SALSA DULCE

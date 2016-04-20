@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 kg. de patatas de buena calidad
 
 1 cabeza de merluza y su espinazo
@@ -54,7 +53,6 @@ sal
 pimienta blanca.
 
 <h3>Preparación</h3>
-
 Se pone agua fría en una cazuela y se introducen el espinazo y la cabeza de merluza, así como el puerro, la zanahoria y media cebolla. Se le añade la hoja de laurel y el vino blanco, y se sazona todo con sal y pimienta blanca. Se pone la cazuela al fuego. Cuando empiece a hervir, se prueba de sazonamiento y se tiene hirviendo a fuego medio, durante 15 minutos.
 
 Transcurrido ese tiempo, se retira del fuego y se reserva. En otra cazuela se pone aceite de oliva y se sofríe la otra media cebolla, muy picada, junto con dos dientes de ajo, también muy picados. Cuando la cebolla esté blanda, se incorporan las patatas peladas y cortadas estilo madre. Se rehoga bien el conjunto. Se espolvorea harina por encima y se mezcla bien.

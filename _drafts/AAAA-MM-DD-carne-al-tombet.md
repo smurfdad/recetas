@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pierna de cordero
 
 1/4 l. de aceite de oliva
@@ -36,7 +35,6 @@ Para 4 personas.
 1 copa de brandy
 
 <h3>Preparación</h3>
-
 Cortamos la pierna de cordero en trozos de dos dedos de grueso.
 
 Ponemos el aceite a calentar y una vez que esté a punto, rehogamos la carne acompañada del ajo, el laurel y la canela (procurando retirar el laurel y el ajo cuando estén dorados para que no amarguen).

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo
 
 2 cocos
@@ -41,7 +40,6 @@ limón
 1 cucharada de harina
 
 <h3>Preparación</h3>
-
 El pollo se parte en presas; se adoba y se pone a dorar en mantequilla hasta que quede a punto.
 
 A los cocos se les saca la leche. Y uno y otro se parten en trocitos pequeños.

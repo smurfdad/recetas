@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 20 puerros cocidos
 
 1/2 litro de crema de leche
@@ -43,7 +42,6 @@ Aceite
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Bate los huevos en un cuenco, añade la crema y el sobre de caldo para saborizar. Ponlo a punto de sal y mezcla.
 
 Vierte un poco de crema en el fondo de un molde untado con manteca y pan rallado.

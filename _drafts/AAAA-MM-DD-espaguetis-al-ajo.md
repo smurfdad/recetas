@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 g de espaguetis
 
 2 dientes de ajo picados
@@ -41,6 +40,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cocer los espaguetis en abundante agua mineral con sal de 8 a 10 minutos, deben quedar al dente. Escurrir y reservar. Calentar el aceite en una sartén y cocer a fuego bajo durante 5 minutos. Agregar el perejil y salpimentar. Incorporar la pasta mezclar rápidamente y servir muy caliente con el queso aparte.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Aguacates 2 grandres
 
 Aceite de oliva 2 cucharadas
@@ -42,6 +41,5 @@ Apio 2 tallos blancos en rodajitas
 Jamón 75 grs serrano en lonchas finas
 
 <h3>Preparación</h3>
-
 Ponga el jamón serrano en lonchas finitas que cortará a tiras o utilice de igual forma un jamón ahumado. Ponga el aceite y el vinagre en un cuenco, salpimiente bien v mezcle. Añada los tomates, albahaca, apio y jamón. Para servir corte los aguacates por la mitad a lo largo y quite los huesos. Rellénelos con la mezcla de tomate y póngalos en fuentes individuales. Adorne con hojas frescas de albahaca o de mostaza picada y con berros.
 

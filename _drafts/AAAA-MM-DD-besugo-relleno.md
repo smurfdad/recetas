@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Besugo
 
 100 gr. de jamón
@@ -56,6 +55,5 @@ Una ramita de perejil
 Sal
 
 <h3>Preparación</h3>
-
 Disolvemos las pastilla de caldo en 1/4 litro de agua caliente. Abrimos el besugo por la mitad y retiramos la espina central. Trinchamos el jamón, el huevo duro, las almendras y el perejil y lo mezclamos todo con una cucharada de pan rallado, el huevo batido, los piñones y las pasas previamente remojadas en agua caliente. Rellenamos el besugo con esta mezcla, lo cerramos sujetándolo con palillos y lo sazonamos con sal. Cortamos las patatas en discos y las ponemos en una fuente de horno. Colocamos encima el pescado, lo rociamos con el aceite, el vino, el caldo y el zumo de limón. Lo espolvoreamos con el resto de pan rallado y lo cocemos a horno moderado de 30 a 45 minutos aprox. Durante la cocción debemos rociarlo de vez en cuando con su propio jugo.
 

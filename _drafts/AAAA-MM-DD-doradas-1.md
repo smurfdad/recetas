@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 doradas de aprox 500 gr.
 
 100 gr. de jamón de jork
@@ -36,7 +35,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Se limpian bien las doradas y se ponen en una fuente de horno. Se pican los ajos, los tomates y el jamón de jork.
 
 Una parte de esta mezcla se mete dentro de la dorada, en la parte que ocupaban las tripas y el resto se echa por encima de las doradas.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Aceite de oliva 4 cdas.
 
 Pimienta a gusto
@@ -40,7 +39,6 @@ Cangrejo 60 grs.
 Sake a gusto
 
 <h3>Preparación</h3>
-
 Retirar el tallo de los champiñones (elegirlos más bien grandes) y limpiar bien para que no quede ningún residuo de tierra. Colocar en una fuente refractaria, ligeramente enmantecada y reservar.
 
 Mezclar en un recipiente el queso con las aceitunas picadas, el perejil picado, la carne de cangrejo picada, la mostaza, la sal y la pimienta.

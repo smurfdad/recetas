@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 barras de pan de tostadas o una barra grande del día anterior
 
 1 l. de leche
@@ -23,7 +22,6 @@ Para 8 personas.
 azúcar y canela en polvo, para espolvorear
 
 <h3>Preparación</h3>
-
 Cortar el pan en rodajas de 1 cm. y medio de grosor aproximadamente, y colocarlas en una bandeja alta.
 
 Poner al fuego la leche, azúcar, palo de canela y corteza de limón al fuego hasta que hierva, revolviendo.

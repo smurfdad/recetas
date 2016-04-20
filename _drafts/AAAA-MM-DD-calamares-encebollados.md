@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de calamares
 
 dos cebollas medianas
@@ -36,10 +35,8 @@ un vaso pequeño de vino
 aceite
 
 <h3>Preparación</h3>
-
 En una cazuela se pone: el aceite, las cebollas picadas, los calamares limpios y cortados, el laurel, el perejil, el vaso de vino Y el colorante. Se deja cocer a fuego lento hasta que los calamares estén tiernos.
 
 <h3>Observaciones</h3>
-
 Se puede servir solo, como aperitivo, o, como primer plato, acompañado de arroz blanco
 

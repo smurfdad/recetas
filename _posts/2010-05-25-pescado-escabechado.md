@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de pescado
 
 1 cebolla en rodajas
@@ -23,7 +22,6 @@ un poco de pimentón
 aceite, sal, vinagre, vino blanco
 
 <h3>Preparación</h3>
-
 Limpiar y secar el pescado. Darle sal.
 
 Pasar por harina y freír en aceite de oliva.
@@ -43,5 +41,4 @@ Esta fórmula tiene la ventaja de que se conserva bien unos cuantos días.
 Se puede servir frío o caliente.
 
 <h3>Observaciones</h3>
-
 Se puede utilizar sardinas, chicharros, verdel, trucha...

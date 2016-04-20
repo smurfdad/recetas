@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg de lomo cortado en cubos de 2 cm de lado aproximadamente
 
 4 chorizos de puro cerdo
@@ -38,7 +37,6 @@ categories:
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Pinchar con un tenedor los chorizos colocarlos en un recipiente tapado y llevar a fuego vivo para que larguen toda la grasa, retirarlos con espumadera y colocar sobre papel absorbente, cuando estén tibios hacerles un leve corte longitudinal y sacarles la piel, por último cortarlos en rodajas de 1cm de espesor.
 
 En una sartén de teflón colocar la manteca y sellar los trozos de lomo junto con la panceta y los chorizos, salpimentar retirar y reservar.

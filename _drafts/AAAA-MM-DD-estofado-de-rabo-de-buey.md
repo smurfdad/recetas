@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de rabo de buey
 
 2 cebollas
@@ -48,7 +47,6 @@ pimienta blanca
 aceite
 
 <h3>Preparación</h3>
-
 Cortar el rabo por la junta de los huesos.
 
 Sazonarlos con sal, pasarlos por harina y freírlo. Reservar.

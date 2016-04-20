@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 6 rebanadas de pan de hogaza del día anterior
 
 cominos
@@ -46,6 +45,5 @@ sal
 aceite de oliva
 
 <h3>Preparación</h3>
-
 En una olla calentar un litro de agua con sal. Machacar los cominos y un par de dientes de ajo. Echar la mezcla en la olla. En una sartén con aceite freír los chicharrones y el pimiento rojo y echar este sofrito a la olla. Añadir a continuación las morcillas y dejar cocer hasta que al pincharlas el agua salga clara. Poner cada rebanada de pan en una cazoleta, y dejar durante unos minutos calentar en la lumbre. Dejar calentar el calducho durante 10 minutos y rociar sobre las rebanadas de pan. Servir inmediatamente.
 

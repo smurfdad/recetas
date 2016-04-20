@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 Col de &frac12; Kg.
 
 1 tacita de Leche
@@ -40,7 +39,6 @@ Cacahuetes salados
 Queso rallado
 
 <h3>Preparación</h3>
-
 Se corta la col a tiras y se cuece con agua salada y un poco de pimienta negra.
 
 Aparte se prepara un bechamel espesita con la mantequilla o margarina, la harina y la leche.

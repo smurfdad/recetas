@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 gr. harina
 
 250 gr. azúcar
@@ -39,7 +38,6 @@ Para 6 personas.
 2 Ud. zumo de naranja
 
 <h3>Preparación</h3>
-
 Se deja la mantequilla fuera de la nevera para que se ablande. Una vez que ya esté lista para poder trabajar, se mezcla todo en un recipiente lo suficientemente grande y se bate con la batidora durante un buen rato para que los ingredientes se mezclen bien. Se echa en un molde de uno 20 por 30 cm y se mete en el horno precalentado a un temperatura de 200 grados (más o menos, dependiendo del horno).
 
 Una vez hecho, se desmolda y se coloca en la bandeja del revés y se le rocía por encima con el zumo de 2 ó 3 naranjas . Se puede adornar con virutas de chocolate.

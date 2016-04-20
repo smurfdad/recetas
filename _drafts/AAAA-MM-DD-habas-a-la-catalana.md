@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kg. de habas
 
 200 g de tocino
@@ -49,7 +48,6 @@ Menta
 Aceite y sal
 
 <h3>Preparación</h3>
-
 Freír la cebolla finamente picada y los ajos en una cazuela de barro con aceite. Rehogar bien y añadir un ramo compuesto por perejil, tomillo, laurel, hierbabuena y menta. Una vez dorada la cebolla, añadir el tocino partido y la butifarra. Rehogar varios minutos más y, por último, incorporar las habas peladas. Remueve bien y vierte el jerez y un vaso de agua por encima. Sazona con sal si es preciso y deja cocer las habas hasta que estén en su punto.
 
 Durante la cocción, también se puede echar lomo y manteca de cerdo, tomates, pimientos e incluso un poco de azúcar, pero nunca jamón. Servir en una fuente y adornar con hojas de lechuga o huevos cocidos.

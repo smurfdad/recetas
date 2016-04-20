@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de sobras de asado de buey
 
 250 gr. de champiñones
@@ -37,7 +36,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se corta la carne de buey en tiras de 5 cm. de largo. Se pone a calentar el aceite en una sartén. Se añade la mantequilla y se pone a sofreír al cebolla picada durante un par de minutos.
 
 Se añaden los champiñones, una vez desprovistos de la base terrosa y lavados en agua fría.Los champiñones pequeños se añaden enteros y los más grandes se cortan en cuartos. Se sofríe todo y se añade el pimiento verde picado. Se sofríe de nuevo el conjunto y, de momento, no se sazona.

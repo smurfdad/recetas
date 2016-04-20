@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 24 pimientos del piquillo
 
 1/2 kg de merluza
@@ -36,7 +35,6 @@ huevo
 sal
 
 <h3>Preparación</h3>
-
 En cazuela se ponen 4 cucharadas de aceite con las verduras picadas muy menudas, sazonadas y tapadas para que cuezan despacio, hasta que estén tiernas. Se añaden 2 cucharadas soperas de salsa de tomate y después el pescado desmenuzado. Se da unas vueltas.
 
 Se calienta el coñac, se prende, se vuelca sobre el pescado y se falmbea Se rellenan los pimientos. Se pasan por harina y huevo y se fríen o, simplemente, se colocan solapados, sin rebozar, en una cazuela de barro.

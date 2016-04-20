@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 filetes de solomillo de 300 grs.
 
 150 grs. de nata líquida
@@ -21,7 +20,6 @@ Para 6 personas.
 aceite de oliva, sal
 
 <h3>Preparación</h3>
-
 Quitar la grasa a los filetes, sazonarlos.
 
 En un cazo de fondo grueso, calentar el aceite e incorporar el caldo de carne, la nata y el queso.

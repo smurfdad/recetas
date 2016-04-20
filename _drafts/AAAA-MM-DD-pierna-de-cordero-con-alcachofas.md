@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 piernas de cordero lechal
 
 2 puerros
@@ -40,7 +39,6 @@ Para 4 personas.
 Aceite y sal
 
 <h3>Preparación</h3>
-
 Sazonar, enharinar y freír en una cazuela las piernas de cordero, hasta que se dore. Se añaden las verduras (menos las alcachofas) lavadas y troceadas hasta que se ablanden.
 
 Se agrega el vino tinto dejándolo cocer a fuego lento hasta reducirlo y queden las piernas tiernas.

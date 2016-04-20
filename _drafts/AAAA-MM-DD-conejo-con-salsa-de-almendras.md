@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo.
 
 50 gramos de almendras naturales.
@@ -42,7 +41,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 En una cazuela con un poco de aceite de oliva rehogamos los ajos troceados en láminas, la cebolla cortada en juliana (tiras finas) y la rama de perejil. Cuando esté cocinada la verdura añadimos las almendras y dejamos que sofría todo el conjunto durante 5 minutos. Posteriormente, escurrimos las verduras del aceite y las trituramos con la batidora.
 
 El conejo lo troceamos y rehogamos en el mismo aceite.

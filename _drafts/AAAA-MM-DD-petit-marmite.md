@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 zanahorias
 
 3 dientes de ajo
@@ -42,7 +41,6 @@ Para 4 personas.
 2 litros de agua
 
 <h3>Preparación</h3>
-
 Poner la carne en una cazuela con el agua a cocer.
 
 Una vez cocida la carne, sacarla, picarla fina y reservar.

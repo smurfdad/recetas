@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 Gr. de lentejas
 
 4 Patatas
@@ -37,6 +36,5 @@ Para 4 personas.
 2 Hojas de laurel
 
 <h3>Preparación</h3>
-
 Cortar las patatas a dados, la cebolla en juliana y el ajo laminado. Seguidamente, freír los ajos y la cebolla. Hervir las lentejas junto al laurel. A media cocción, añadir las patatas y los ajos. Dejar cocer unos 40 minutos. Este plato mejora hecho de un día para otro, ha de quedar espeso.
 

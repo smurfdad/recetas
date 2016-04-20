@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 tortillas de harina cortadas en pequeños círculos.
 
 Aceite para freir.
@@ -44,7 +43,6 @@ Aceite para freir.
 Sal y pimienta al gusto.
 
 <h3>Preparación</h3>
-
 Fría las tortillas en aceite y quite el exceso de grasa con papel absorbente.
 
 En poco aceite fría el ajo, cebolla, tocino y el champiñón; añada la crema, espinacas, nuez moscada y deje espesar. Sazone con sal y pimienta.

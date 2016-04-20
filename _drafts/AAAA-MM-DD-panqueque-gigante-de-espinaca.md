@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg de espinaca
 
 125 g de zanahoria
@@ -42,7 +41,6 @@ harina leudante
 queso rallado
 
 <h3>Preparación</h3>
-
 Lavar la espinaca, quitarle los cabitos y hervir con el agua del lavado.
 
 Escurrir, picar y reservar.

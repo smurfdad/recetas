@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 rebanadas de pan de molde sin corteza.
 
 25 gramos de caviar.
@@ -41,7 +40,6 @@ Para 4 personas.
 1 rodaja de limón.
 
 <h3>Preparación</h3>
-
 Picamos el tomate, la lechuga, las aceitunas y las anchoas. Mezclamos los ingredientes con 4 cucharadas de mayonesa.
 
 Untamos el pan con esta mezcla y cubrimos con caviar.

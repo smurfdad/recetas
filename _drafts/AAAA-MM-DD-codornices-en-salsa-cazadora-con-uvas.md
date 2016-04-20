@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 codornices
 
 1 cebolla roja
@@ -57,7 +56,6 @@ sal
 oregano
 
 <h3>Preparación</h3>
-
 Picar los ajos en laminas y poner a pochar en aceite a fuego muy lento en la olla rapida. Picar la cebolla, agregarla y dejar que se dore un poco. Picar el pimiento y la zanahoria, incorporarlos y cocinar un poco. Picar el tomate y añadirlo. Cocinar durante diez minutos.
 
 Limpiar las codornices y atarlas, salpimentar y dorar en una sarten con un poco de aceite. Añadir a la olla de las verduras, añadir tambien el vino tinto y el agua. agregar 20 granos de uva, los clavos, la pimienta, el oregano y la onza de chocolate. Poner la tapa y cocinar durante seis minutos contados desde que empieza a salir el vapor. Retirar las codornices, quitarles la cuerda y colocarlas en una fuente. Pasar la salsa por el pasapures y salsear las codornices. Servir el resto de la salsa en una salsera.
@@ -65,6 +63,5 @@ Limpiar las codornices y atarlas, salpimentar y dorar en una sarten con un poco 
 Picar la tocineta en daditos, dorarlos en una sarten con un poco de aceite. Añadir el resto de las uvas y saltear brevemente, sirviendolo al lado de las codornices.
 
 <h3>Observaciones</h3>
-
 Para guisar las codornices no es necesario atarlas, pero si se atan, siempre quedan mucho mas curiosas y originales a la hora de presentarlas en los platos.
 

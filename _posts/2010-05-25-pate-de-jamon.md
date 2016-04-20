@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. jamón york
 
 1 latita de anchoas
@@ -19,7 +18,6 @@ Para 6 personas.
 180 grs. mantequilla
 
 <h3>Preparación</h3>
-
 Trocear el jamón y las anchoas.
 
 Unirlo con la mantequilla y el paté, y después con las anchoas bien picaditas.

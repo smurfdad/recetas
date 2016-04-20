@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 250g azúcar
 
 1/2 litro agua
@@ -31,7 +30,6 @@ Para 5 personas.
 12 yemas
 
 <h3>Preparación</h3>
-
 Poner el azúcar en una cacerola, mojar con el agua hasta hacer un almíbar espeso.
 
 Untar con la tercera parte del almíbar 8 flaneritas.

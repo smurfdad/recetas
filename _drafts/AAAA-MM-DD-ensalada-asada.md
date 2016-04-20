@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 berenjena.
 
 2 pimientos rojos de asar.
@@ -39,7 +38,6 @@ Para 4 personas.
 4 cucharadas de zumo de limón.
 
 <h3>Preparación</h3>
-
 Asamos todas las verduras limpias, enteras y juntas en el horno con un poco de sal y un chorrito de aceite de oliva.
 
 Una vez asadas, las pelamos y las troceamos.

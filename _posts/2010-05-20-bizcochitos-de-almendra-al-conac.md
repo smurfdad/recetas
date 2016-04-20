@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 150 grs. de azúcar
 
 150 grs. de mantequilla
@@ -27,7 +26,6 @@ Para 6 personas.
 tostada y picada
 
 <h3>Preparación</h3>
-
 Batir los huevos enteros con el azúcar hasta que estén esponjosos.
 
 Añadir, sin batir, la harina mezclada con el royal.

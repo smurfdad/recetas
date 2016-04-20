@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 rodajas de salmón
 
 1 patata grande
@@ -41,11 +40,9 @@ Perejil picado
 Aceite de oliva, sal y pimienta
 
 <h3>Preparación</h3>
-
 Cortar la patata como para tortilla, la cebolla en aros y el pimiento también en aros. Freír cada cosa por separado hasta que estén al punto (la patata como si fuera para tortilla, no tiene que dorarse mucho). Picar el ajo menudo y mézclalo con el vino blanco y el perejil. Cortar el tomate en rodajas finas. Untar una fuente de horno con aceite de oliva, poquito, y pon un lecho de rodajas de patata, encima la cebolla, encima el pimiento, encima el tomate, y para terminar las rodajas de salmón debidamente salpimentadas. Mete a horno fuerte cinco minutos, echa por encima la mezcla de vino blanco ajo perejil, y dejar cinco minutos mas. El tiempo depende de lo grueso que sea el salmón y como te guste de hecho.
 
 <h3>Observaciones</h3>
-
 Lo de freír las patatas, la cebolla y el pimiento se puede hacer
 
 en la freidora sin mayor problema. Hay quien prefiere freír también un

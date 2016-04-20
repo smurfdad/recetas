@@ -22,7 +22,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 bola de nieve de limon
 
 1/2 frasco de queso crema
@@ -30,6 +29,5 @@ Para 5 personas.
 4 rebanadas de sandias
 
 <h3>Preparación</h3>
-
 Sirve en un plato una bola de nieve y acomoda el queso crema alrededor formado un hielera de petalos.Forma con la sandia la segunda fila de petalos de flor.
 

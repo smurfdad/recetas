@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 4 trozos de rape
 
 Aceite de oliva
@@ -34,6 +33,5 @@ Patatas fritas
 Ensalada
 
 <h3>Preparación</h3>
-
 Se pone un poco de aceite a calentar en la plancha o sartén. Mientras, se sazona el rape y, cuando el aceite está caliente, se incorpora a la sartén, dejando que se haga de 3 a 5 minutos por cada lado (dependiendo del tamaño del rape). Se puede servir acompañado de patatas fritas y ensalada.
 

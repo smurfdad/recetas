@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Compota de higos:
 
 500 gramos de higos frescos lavados y cortados por la mitad
@@ -52,7 +51,6 @@ Cerdo Asado:
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Para la compota
 
 Pon todos los ingredientes para la compota en una cacerola.Deja que empiece a hervir a fuego medio.

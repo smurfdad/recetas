@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 hígado de ternera de aproximadamente 1 Kg.
 
 Un trozo de panceta
@@ -36,6 +35,5 @@ Galletas saladas
 Pimientos de padrón
 
 <h3>Preparación</h3>
-
 Cocer el hígado, limpio de nervios, con las especias que hayamos elegido. Cuando esté en su punto cocido, pasarlo por el pasapurés hasta conseguir una masa. Freír en una sartén la panceta y retirar. En la grasa de la panceta freír la masa del hígado. Incorporar el caldo de cocción a la masa. Reducir el caldo hasta la mitad y servirlo junto con la panceta troceada, las galletas saladas y pimientos de padrón fritos.
 

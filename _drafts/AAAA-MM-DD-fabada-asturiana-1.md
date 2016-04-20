@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de aceite
 
 4 hebras de azafrán
@@ -41,7 +40,6 @@ Para 6 personas.
 250 gramos de tocino
 
 <h3>Preparación</h3>
-
 Las fabes, el chorizo y la morcilla se deben poner la noche antes a remojo (en recipientes aparte). Se pochan las fabes con dos litros de agua fría al fuego, sin esperar a que hierva se agrega el pimentón, el azafrán o colorante, el aceite y todos los demás ingredientes.
 
 Se dejan a fuego bajísimo durante cuatro o cinco horas.

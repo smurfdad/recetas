@@ -22,7 +22,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 1/2 kilo de pasta de lacitos con espinaca
 
 1 cebolla picada en cuadritos
@@ -46,6 +45,5 @@ Perejil picado
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Cocer la pasta, y al estar lista enfriarla en abundante agua fría, luego en un bol colocar la pasta y con un tenedor grande mezclar todos los vegetales con la pasta y luego colocarle el atún aparte mezclar la mayonesa con la mostaza y colocarle la sal y la pimienta colocarle esto a la pasta mezclar bien y luego colocarle parte del queso parmesano y el perjil mezclar y decorar al final con ambos.
 

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de ricota descremada
 
 2 claras
@@ -52,7 +51,6 @@ Terminación:
 Salsa de tomates y ajo diet.
 
 <h3>Preparación</h3>
-
 Estirar la masa de ricota sobre papel de aluminio en forma rectangular, cubrir con el relleno y enrollar. Cocina a baño de María 45' a temperatura media.
 
 Enfriar, cortar en rodajas y calentar en horno cubierto con salsa diet de tomate y ajo.

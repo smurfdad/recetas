@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de hongos
 
 200 gr. de níscalos
@@ -76,7 +75,6 @@ leche
 sal y pimienta Se prepara de víspera
 
 <h3>Preparación</h3>
-
 De víspera, se limpian todos los tipos de setas y se saltean cada uno por su lado, en aceite bien caliente. Se pasan después por un escurridor sobre un bol, para recoger el jugo que suelten.
 
 Se pone un poco de mantequilla en una cazuela y se rehogan la chalota muy picada y el ajo, también picado, sin que llegue a dorarse. Se moja el conjunto con el caldo de ave y con el jugo que han soltado las setas. Se deja reducir a 1 dl. aproximadamente.

@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 tazas de harina
 
 1 kg. de zanahorias crudas
@@ -34,6 +33,5 @@ Para 8 personas.
 1 leche condensada
 
 <h3>Preparación</h3>
-
 Se raya la zanahoria finamente y se incorporan el resto de los ingredientes. Se mete al horno por 20 minutos.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 hojas de lombarda.
 
 250 gramos de queso crema.
@@ -36,7 +35,6 @@ Para 4 personas.
 1/2 cucharadita de perejil picado.
 
 <h3>Preparación</h3>
-
 Cocemos las hojas de lombarda en agua hirviendo con sal durante 10 minutos y una vez tiernas, escurrimos y reservamos.
 
 Picamos la cebolleta fresca junto con las aceitunas verdes sin hueso y juntamos con el queso en crema hasta obtener una pasta homogénea.

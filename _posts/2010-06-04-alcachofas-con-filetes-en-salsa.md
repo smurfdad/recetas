@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 docena de alcachofas
 
 1/2 kilo de filetes de lomo bajo
@@ -30,7 +29,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Limpiar las alcachofas y cocerlas con agua y un poco de sal.
 
 Una vez cocidas, escurrirlas y reservar.

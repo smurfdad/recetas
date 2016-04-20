@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 costillas de cordero de palo
 
 sal
@@ -48,7 +47,6 @@ pan rallado
 patatas chips
 
 <h3>Preparación</h3>
-
 Con un cuchillo fino limpiar los palos de las costillas, bajando toda la carne a la maza.
 
 Sazonar con sal y hacerlas un poco a la plancha.

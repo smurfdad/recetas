@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 k de judías blancas cocidas
 
 2 tomates para ensalada
@@ -40,6 +39,5 @@ Unas hojas de escarola rizada, lisa y achicoria roja
 Aceite de oliva, vinagre y sal
 
 <h3>Preparación</h3>
-
 En una ensaladera se colocan las judías blancas cocidas y los tomates, la cebolla, el pimiento verde y los huevos duros; todo picado de forma regular. Se cortan las hojas de escarola y achicoria en trozos muy pequeñitos, y se añaden a la ensaladera junto con las alcaparras. Se prepara la salsa con 12 cucharadas de aceite de oliva, 6 cucharadas de vinagre y la sal. Se mezcla con todos los ingredientes. Se sirve en cuencos individuales con adornos de huevo duro.
 

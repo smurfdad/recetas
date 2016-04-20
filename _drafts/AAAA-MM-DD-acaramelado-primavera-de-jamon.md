@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 g. de jamón cocido
 
 1 cucharada de perejil picado
@@ -44,7 +43,6 @@ sal, paprika
 azúcar molida
 
 <h3>Preparación</h3>
-
 Una vez bien picados el jamón y la cebolla, mezclar con el coñac y el perejil.
 
 Dejar en reposo durante 20 minutos bien tapado.

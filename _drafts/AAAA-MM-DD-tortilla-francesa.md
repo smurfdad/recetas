@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 Huevo
 
 Sal
@@ -30,7 +29,6 @@ Sal
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 En un plato hondo se bate el huevo hasta que quede bastante espumoso con la sal a gusto.
 
 En una sartén antiadherente que sea mas bien pequeña, se pone aceite de oliva a calentar a fuego moderado, y cuando lo notemos caliente (veremos que se pone menos denso) y sin dejar que humee (pues eso es señal de que el aceite se quema y el sabor cambia) echamos el huevo batido.

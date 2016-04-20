@@ -23,7 +23,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 3 puñados de arroz por persona
 
 100 gr de bacon(panceta)
@@ -53,7 +52,6 @@ salsa de soja
 perejil picado
 
 <h3>Preparación</h3>
-
 Cocer el arroz,pasar por agua fria escurrir y reservar.
 
 Mientras tanto, picar muy finos los ajos, las cebollas y las cebollitas tiernas

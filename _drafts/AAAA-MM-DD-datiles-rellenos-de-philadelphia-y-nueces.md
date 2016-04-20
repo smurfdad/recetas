@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 200 grs. de queso Philadelphia
 
 20 nueces
@@ -30,7 +29,6 @@ Para 4 personas.
 20 dátiles
 
 <h3>Preparación</h3>
-
 DáTILES RELLENOS DE PHILADELPHIA Y NUECES
 
 Las nueces se pican muy finas y se baten con el queso Philadelphia. Se deshuesan los dátiles. Después, con la ayuda de una manga pastelera, se rellenan con la mezcla.

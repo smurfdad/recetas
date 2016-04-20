@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo mediano.
 
 2 cebolletas o cebollas.
@@ -48,6 +47,5 @@ Pimienta.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 El pollo se corta en trozos medianos, se salpimienta y se fríe en abundante aceite, con tres dientes de ajo. Cuando este frito se saca de la sartén y se reserva. En otra sartén, con un chorro de aceite de freír el pollo, sé pochan la cebolla y la zanahoria muy picadita. Cuando estén bien doradas, se añade la harina, se rehoga un poco y se le agrega el pollo frito, el caldo, los guisantes y medio vaso de agua. Se deja guisar durante treinta minutos. Pasado este tiempo, se separa el pollo de la salsa, se pasa esta por el chino, se vuelca sobre el pollo y se espolvorea con perejil picado.
 

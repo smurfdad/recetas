@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Una perdiz.
 
 1 kg. de lechuga.
@@ -46,6 +45,5 @@ Sal.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Limpiamos la perdiz y la cocemos con agua, añadiéndole el vinagre, la cabeza de ajos troceada, el aceite de oliva y sal. Desechamos el caldo y dejamos escurrir la perdiz, dejándola enfriar, seguidamente la deshuesamos y picamos. Picamos la lechuga, añadimos la perdiz, el tomate y la mahonesa, removiéndolo todo bien. Adornar con huevo cocido rallado.
 

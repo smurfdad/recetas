@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 200grs crema de leche
 
 1/2 taza de leche
@@ -38,10 +37,8 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Colocar en un bols la crema,la leche y el queso rallado,llevamos a baño maria hasta que el queso rallado se disuelva,luego salpimentamos y agregamos los champiñones cortados en finas laminas que anteriormente rehogamos unos minutos con manteca.
 
 <h3>Observaciones</h3>
-
 Esta salsa es ideal para pastas.
 

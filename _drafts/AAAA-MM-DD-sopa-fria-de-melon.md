@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de melón (maduro y dulce)
 
 1 cucharada de zumo de limón
@@ -37,7 +36,6 @@ Para 4 personas.
 1 toque de coñac (opcional)
 
 <h3>Preparación</h3>
-
 Se le quita al melón la cáscara y las semillas.
 
 En una trituradora de alimentos se hace un puré con melón, zumo de limón, sal, nuez moscada y pimienta

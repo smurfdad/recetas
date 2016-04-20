@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/4 tazas de aceite
 
 2 cebollas
@@ -67,7 +66,6 @@ Para 8 personas.
 2 lbs. de arroz.
 
 <h3>Preparación</h3>
-
 Haga un sofrito con el aceite, la cebolla, los ajos y el ají. Añádale el pollo en pedazos, los mariscos limpios, el jamón, la carne de cerdo y el pescado.
 
 Cocine todo virándolo de vez en cuando hasta que la mezcla se dore ligeramente. Añada la salsa de tomate, los pimientos morrones molidos, el agua de los pimientos, la sal, la pimienta, el pimentón, el vinagre y el vino seco. Cuando el pollo esté un poco blando, añádale el arroz. Cocine a fuego lento o al horno, a 300 grados F. o hasta que el grano esté blando, unos 30 minutos. Sirva en cacerola de barro con petit pois y pimientos. Da unas 14 raciones.

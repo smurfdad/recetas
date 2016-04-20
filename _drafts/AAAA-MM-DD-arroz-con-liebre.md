@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 Una liebre o un conejo de 1,5 kg aprox.
 
 1 kg de arroz
@@ -35,7 +34,6 @@ Aceite de oliva
 Dos cucharadas de tomate frito
 
 <h3>Preparación</h3>
-
 Se trocea la liebre o el conejo y se sazona.
 
 Se pone el aceite a calentar, se echa la liebre y la cebolla y se refríe hasta la cebolla esté dorada.

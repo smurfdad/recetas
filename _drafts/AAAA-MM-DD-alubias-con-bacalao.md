@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. alubia en conserva
 
 300 gr. bacalao migas
@@ -38,6 +37,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 En una cazuela poner un chorro de aceite de oliva, en el que se doran los ajos, se incorpora la harina, se trabaja un poco y se le añade el vino y las judías, luego el agua y después el bacalao. Se cuece todo a fuego lento unos 10 minutos, se espolvorea con perejil y ya esta listo para servir.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Harina
 
 mantequilla
@@ -38,6 +37,5 @@ gambas
 huevo
 
 <h3>Preparación</h3>
-
 Se hace una bechamel ligera a la cual se le echa un poquito de ajo y perejil. Se cogen dos gambas pinchadas en un mismo palillo, se envuelven en bechamel, se pasan por harina y huevo y se fríen en abundante aceite.
 

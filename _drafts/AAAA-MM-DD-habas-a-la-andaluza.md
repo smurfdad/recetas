@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kg. de habas frescas
 
 1 cebolla
@@ -41,6 +40,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 En una cacerola se dora el tocino cortado en trozos, la cebolla picada y el ajo. A continuación, se añaden las habas desprovistas de sus vainas, una copa de vino blanco, sal, pimienta y una rama de menta. Se tapa y se deja cocer todo el tiempo necesario para que las habas estén tiernas.
 

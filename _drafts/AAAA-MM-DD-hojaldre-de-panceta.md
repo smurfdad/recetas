@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de masa de hojaldre
 
 150 grs. de queso rallado
@@ -32,7 +31,6 @@ Para 2 personas.
 1 huevo
 
 <h3>Preparación</h3>
-
 Hornear la masa de hojaldre a horno fuerte y pintada con huevo batido hasta que esté casi hecha y tome color dorado.
 
 Mientras, pasar la panceta por la sartén para que suelte la grasa cuidando de no hacerla demasiado porque tendrá que ir al horno. Escurrir y reservar.

@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pimientos rojos, grandes y hermosos
 
 1 Cebolla mediana
@@ -33,7 +32,6 @@ agua o caldo de carne
 Azafran o colorante alimentario
 
 <h3>Preparación</h3>
-
 Lavamos los pimientos, los secamos con un paño y con un cuchillo afilado, cortamos cada pimiento alrededor del tallo, haciendo un agujero lo suficientemente grande para poder rellenar los pimientos, quitamos todas las semillas y la parte blanca, reservando la parte del pimiento y el tallo, que nos servirá de tapa.
 
 En una sartén ancha, sofreímos suavemente la cebolla, fínamente picada, durante 5 minutos

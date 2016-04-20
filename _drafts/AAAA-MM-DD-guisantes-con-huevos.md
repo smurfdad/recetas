@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo guisantes
 
 150 gr jamón serrano
@@ -38,7 +37,6 @@ aceite
 4 huevos
 
 <h3>Preparación</h3>
-
 Cocer los guisantes con agua y un poco de sal. Una vez cocidos reservarlos.
 
 Picar la cebolla y los ajos muy fino, poniéndolo en una cazuela con un poco de aceite a rehogar un poco.

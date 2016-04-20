@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 alcachofas medianas
 
 2 huevos
@@ -31,7 +30,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se limpian las alcachofas quitando las hojas de fuera. Se cortan en cuartos y se les quita la pelusa del interior. Se ponen a cocer durante 20 minutos en abundante agua sazonada con sal y con un poco de zumo de limón.
 
 Mientras tanto, se prepara la bechamel: se rehoga la mantequilla con la harina y se añade la leche, poco a poco, sin dejar de remover con la varilla, para que no haga grumos. Se sazona de sal. Cuando esté casi hecha la bechamel, se incorporan los huevos bien batidos y la mitad del queso manchego rallado, mezclando enérgicamente con la varilla.

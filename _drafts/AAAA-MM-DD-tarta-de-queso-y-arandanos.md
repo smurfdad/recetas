@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 galletas maria
 
 mantequilla
@@ -36,7 +35,6 @@ mermelada de arandanos
 3 huevos enteros y una clara
 
 <h3>Preparación</h3>
-
 Trocear las galletas
 
 Poner a derretir la mantequilla, incorporar las galletas hasta que quede una masa compacta -poner en el fondo de la fuente -en un bol, mezclar el queso y el azúcar -añadir los3huevos sin dejar de remover y despues la clara -montar un poquito la nata a mano -añadir la nata a la mezcla anterior -poner todo sobre la masa en la fuente -hornear a 190&ordm;C de 20 a 30 minutos -dejar enfriar y cubrir con la mermelada -poner en la nevera

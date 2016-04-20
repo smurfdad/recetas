@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 pan de molde
 
 4 huevos
@@ -22,7 +21,6 @@ Para 6 personas.
 un poco de sal
 
 <h3>Preparación</h3>
-
 Se parte el pan en forma de triángulo. Después de untarlo con mantequilla se pone a tostar.
 
 Se baten los huevos como para tortilla y se añade la mantequilla y el queso, triturándolo todo junto.

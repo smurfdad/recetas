@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de salchichas frescas de cerdo de carnicería
 
 1 kg. de cebolla
@@ -38,6 +37,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Sofreír en una cazuela el ajo picado y la cebolla cortada muy fina. Cuando tome color la cebolla, agregar las salchichas enteras, refreírlas y poner un poco de agua. Dar un hervor y echarle la hoja de laurel y el vino fino. Dejar cocer a fuego lento hasta hacer una salsa y evaporar el alcohol del vino. Servir caliente.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 dientes de ajo.
 
 2 litros de agua o de caldo de ave.
@@ -43,7 +42,6 @@ Unos tallos de cebollino.
 Sal.
 
 <h3>Preparación</h3>
-
 Rehidratamos los pimientos rojos secos en agua fría y con un cuchillo raspamos la pulpa de la piel. Reservamos la pulpa.
 
 Cortamos el pan en rodajas y lo tostamos en el horno a 250&ordm; C.

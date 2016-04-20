@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 750 gramos de patatas
 
 2 pimientos rojos
@@ -40,7 +39,6 @@ un vaso de vino blanco
 sal y guindilla
 
 <h3>Preparación</h3>
-
 Pelar las patatas, lavarlas y cortarlas en dados gordos. Pelar la cebolla y el ajo y picarlos menudos. Lavar y cortar en tiras los pimientos, suprimiendo las pepitas.
 
 Calentar el aceite en una cazuela, preferiblemente de barro.

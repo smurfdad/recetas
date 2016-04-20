@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 vieiras
 
 8 ostras grandes
@@ -33,7 +32,6 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
-
 Se abren las vieiras y se separan las partes blancas de las anaranjadas (coral). La parte blanca es la que se va a usar. Se lavan varias veces en agua fresca y se escurren.
 
 Se abren las ostras y se reserva el agua de las mismas, sin desperdiciar nada, pues hará falta para la salsa. Se quitan los rabos de las espinacas y se lavan en agua fría. Se escurren y se secan. Se pela la zanahoria y se sacan las bolitas pequeñas, con la ayuda de un sacabolas. Se echan las bolitas de zanahoria en un cazo con agua hirviendo, sazonada.

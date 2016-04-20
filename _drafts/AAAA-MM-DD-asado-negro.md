@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 a 2 1/2 kilos de muchacho cuadrado res con su grasa
 
 1/4 de taza aceite
@@ -48,7 +47,6 @@ categories:
 4 tazas de agua
 
 <h3>Preparación</h3>
-
 Se limpia muy bien la carne, se le deja la grasa.
 
 Se prepara un adobo mezclando 1/4 de taza de aceite, la cebolla, los ajos, el pimentón, la salsa inglesa, la mejorana u orégano, la sal y la pimienta.

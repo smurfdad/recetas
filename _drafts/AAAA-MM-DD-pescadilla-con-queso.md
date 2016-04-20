@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pescadillas pequeñas.
 
 100 gramos de pan rallado.
@@ -48,7 +47,6 @@ Verduras cocidas.
 Patatas paja.
 
 <h3>Preparación</h3>
-
 Las pescadillas se limpian y se les quita las espinas como si fueran anchoas. Se sazonan y espolvorean con queso rallado. Se rebozan con una mezcla de harina, levadura y huevo y se fríen con dos dientes de ajo, lo justo para que queden jugosas.
 
 Las verduras cocidas se saltean con un poco de aceite y se espolvorea con perejil picado.
@@ -56,6 +54,5 @@ Las verduras cocidas se saltean con un poco de aceite y se espolvorea con pereji
 Se sirven acompañadas de las verduras y patatas paja.
 
 <h3>Observaciones</h3>
-
 Se puede decorar el plato con un limón.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 8 trozos de bacalao
 
 200 gramos de pimiento verde
@@ -30,6 +29,5 @@ categories:
 1 bote de tomate preparado y condimentado.
 
 <h3>Preparación</h3>
-
 Poner en una cazuela 1 decilitro de aceite, el pimiento verde y la cebolla, colocar encima los trozos de bacalao y darle una vuelta ligándolo bien. Añadir el tomate y seguir ligando. En un momento está hecho, dependiendo el punto siempre del grosor del bacalao.
 

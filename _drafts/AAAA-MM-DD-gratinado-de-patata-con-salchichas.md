@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas hermosas
 
 10 salchichas Frankfurt
@@ -45,7 +44,6 @@ pimienta
 50 gr. de queso rallado
 
 <h3>Preparación</h3>
-
 Se pelan las patatas, se aclaran y se cortan en trozos hermosos. Se echan en una cazuela con agua fría, sazonada con sal. Se enciende el fuego y se tiene unos 30 minutos desde que empieza a hervir.
 
 Transcurrido este tiempo, se pasa la patata por el pasapurés, al tiempo que se le añade la mantequilla en trozos. Se mezcla bien con una cuchara de madera y se va añadiendo también la nata, poco a poco, sin dejar de mezclar. Se corta el bacon en bastones pequeños y se dora en una sartén sin aceite y a fuego muy fuerte. Se incorporan los bastones fritos al puré de patata.

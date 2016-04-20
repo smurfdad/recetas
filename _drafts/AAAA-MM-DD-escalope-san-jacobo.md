@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de ternera
 
 4 lonchas de jamón york
@@ -38,7 +37,6 @@ huevo
 pan rallado
 
 <h3>Preparación</h3>
-
 Poner cuatro filetes extendidos y sazonarlos con sal.
 
 Poner una loncha de jamón york y una de queso encima de un filete y taparlo con otro.

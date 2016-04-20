@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 litro de leche.
 
 200 gramos de azúcar.
@@ -25,7 +24,6 @@ Para la crema de Jijona:
 1 copa de brandy y un poco de anís seco.
 
 <h3>Preparación</h3>
-
 Poner la mezcla de leche en un molde de frigorífico, cortar a trozos, pasar por harina y huevo y freír.
 
 Ya en plato de presentación se riega con la crema de Jijona.

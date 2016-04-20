@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla mediana
 
 3 dientes de ajo
@@ -23,7 +22,6 @@ sal
 1 litro de agua
 
 <h3>Preparación</h3>
-
 Picar fina la cebolla y el ajo y poner al fuego a hacer despacio, con un poco de aceite.
 
 Una vez este la verdura rehogada, añadir el tomate pelado y troceado y las alubias, rehogando bien.

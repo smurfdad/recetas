@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 100 grs. de jamón o bacon
 
 1/2 kg. de carne picada
@@ -24,7 +23,6 @@ sal, ajo perejil
 harina y huevo para rebozar
 
 <h3>Preparación</h3>
-
 En una sartén con aceite se pone la cebolla, ajo y perejil muy picados, a rehogar.
 
 Cuando esté dorado se echa la carne picada y se rehoga, hasta que esté un poco hecha, momento en el que se retira.

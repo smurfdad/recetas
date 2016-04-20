@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 3 pechugas de pollo o un pollo limpio de piel y huesos a ser posible troceado en tacos.
 
 1/4 litro de nata liquida.
@@ -35,7 +34,6 @@ aceite de oliva.
 1/2 vaso de agua.
 
 <h3>Preparación</h3>
-
 Se pone en una cazuela el aceite a ser posible de oliva, alrededor de 1/4 litro y se le añade el pollo que se va friendo.
 
 Una vez frito se aparta en una fuente y se pone a pochar la cebolla

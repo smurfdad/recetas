@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg de judías verdes
 
 200 gr. de jamón serrano
@@ -38,7 +37,6 @@ sal
 un poco de harina
 
 <h3>Preparación</h3>
-
 Limpiar las judías verdes retirándoles las puntas y las hebras laterales.
 
 Cortarlas en dos en sentido longitudinal y por la mitad.

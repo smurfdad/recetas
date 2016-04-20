@@ -22,7 +22,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 4 Patatas
 
 Pimentón
@@ -34,6 +33,5 @@ Pimiento verde
 Chorizo
 
 <h3>Preparación</h3>
-
 Freir la cebolla con aceite, cuando ste hecha meter la patata; cubrir con agua, echar tambien el pimiento verde entero, el pimentón (una cucharada pequeña), media pastilla starlux, sal, cocer y listo; echar para mejor un par de cachitos de chorizo en medio de la cocción.
 

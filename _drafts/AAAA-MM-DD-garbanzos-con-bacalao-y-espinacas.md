@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 500g de garbanzos
 
 500g de espinacas
@@ -43,7 +42,6 @@ Laurel
 Aceite
 
 <h3>Preparación</h3>
-
 Poner en remojo el bacalao durante un día, cambiándole el agua varias veces, y los garbanzos medio día o una noche de remojo.
 
 Poner a cocinar los garbanzos y el bacalao en una olla con agua fría, con muy poca sal dado que el bacalao es salado, y una hoja pequeña de laurel.

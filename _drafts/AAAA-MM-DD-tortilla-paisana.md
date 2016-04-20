@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 guisantes
 
 pimiento morron
@@ -40,6 +39,5 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
-
 batir bien los huevos con una pizca de sal y pimienta, y picarle un diente de ajos, echar los demás ingredientes picados menudos, (exepto los guisantes)las cantidades son pocas, osea una patata un puñadito de guisantes etc. todos los ingredientes se frien en abundante aceite, una vez hecho se retiran y se agregan al batido de huevos, se retira el aceite de la sarten y se deja el necesario para cuajar la tortilla.
 

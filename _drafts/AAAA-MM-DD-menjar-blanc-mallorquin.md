@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Litro de leche
 
 100 Gr. de azúcar
@@ -34,6 +33,5 @@ Piel de limón
 Canela
 
 <h3>Preparación</h3>
-
 Deshacer el trigo con leche bien fría y mezclar el resto de leche con el azúcar, el limón y la canela. Poner al fuego hasta que llegue a ebullición. Añadir el trigo y dejar cocer durante 3 minutos sin dejar de remover, ha de quedar bien espeso.
 

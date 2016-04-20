@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 kilo y cuarto de cordero
 
 2 cebollas
@@ -42,7 +41,6 @@ caldo
 harina
 
 <h3>Preparación</h3>
-
 Poner a remojo los pimientos choriceros y trocearlos.
 
 Cortar el cordero en trozos regulares y reservarlo.

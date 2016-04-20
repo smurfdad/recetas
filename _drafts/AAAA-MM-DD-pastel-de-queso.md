@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 cucharadas de azúcar
 
 8 porciones de quesitos el caserio
@@ -38,7 +37,6 @@ Para 4 personas.
 bizcochos de soletilla.
 
 <h3>Preparación</h3>
-
 En una cazuela se echa el azúcar, un poco de leche, la cuajada, los quesitos, la nata entera y los huevos.
 
 Todo ello se bate con la batidora hasta dejarlo bien homogeneo.
@@ -50,6 +48,5 @@ Se tiene preparado un recipiente con caramelo liquido en el fondo y acto seguido
 Cuando este frío se saca para una fuente (se vuelve como si fuera un flan).
 
 <h3>Observaciones</h3>
-
 Este pastel esta mejor de un día para otro, es decir, cuando esta reposado,porque al darle la vuelta el caramelo liquido empapa a los bizcocho
 

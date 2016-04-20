@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 de kilo de carne troceada de res.
 
 Una lata de champiñones de 300 gramos aproximadamente.
@@ -38,7 +37,6 @@ Un poco de jenjibre rallado.
 Aceite o mantequilla.
 
 <h3>Preparación</h3>
-
 Se sofríe la cebolla dorada en aceite o mantequilla, cuando está dorada se ralla el jenjibre y se añade la carne troceada junto a la cebolla. Una vez dorada se echa el vaso de vino y se añaden los champiñones.
 
 Se deja cocer todo a fuego lento para que la carne absorba el vino y los sabores de los ingredientes hasta que esté tierna.

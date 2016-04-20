@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 grs. de pimiento verde y rojo
 
 Un buen pellizco de azafrán en polvo o hebras
@@ -34,7 +33,6 @@ Sal y pimienta negra recién molida
 1,5 ml. de mostaza en polvo
 
 <h3>Preparación</h3>
-
 Mezclar el azafrán con el vino blanco. Ponerlo en una cecerla grande con el caldo claiente, el arroz y sal y pimienta al gusto. Tapar la cecerola y dejar cocer suavemente hasta que el arroz esté tierno y haya absorbido todo el líquido (20-30 min.). Enfriar.
 
 Hacer el aliño con el aceite, vinagre, perejil y ajo y mostaza seca. Revolver el arroz con el pimiento en una ensaladera junto con el aliño y sazonar generosamente, añadiendo más aceite y vinagre si fuera necesario.

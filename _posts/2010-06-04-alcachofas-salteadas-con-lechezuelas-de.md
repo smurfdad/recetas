@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kilo alcachofas
 
 1/2 kilo lechezuelas
@@ -24,7 +23,6 @@ harina
 perejil
 
 <h3>Preparación</h3>
-
 Cocer las alcachofas. Una vez cocidas se pone una cazuela con aceite y los ajos picados finos y el jamón.
 
 Rehogar bien y añadir una cucharada de harina. Agregar las alcachofas y parte del caldo de cocción dejando hervir cinco minutos.

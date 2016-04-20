@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 chirimoyas de tamaño medio y bien maduras
 
 400 ml de Nata Liquida
@@ -35,7 +34,6 @@ Para 6 personas.
 1 Hoja de Gelatina
 
 <h3>Preparación</h3>
-
 Pelar y deshuesar las chirimoyas. Batir fuertemente en la batidora y pasar por un chino fino. Poner la gelatina a remojo en agua fría (Unos 10 minutos).
 
 Reservar unas dos cucharaditas y montar el resto. Hacer un merengue a punto de nieve duro (que el tenedor se aguante de pie) con las claras y el azúcar.

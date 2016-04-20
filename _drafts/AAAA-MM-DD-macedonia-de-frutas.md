@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 plátano
 
 1 naranja
@@ -40,6 +39,5 @@ Zumo de naranja
 Azúcar
 
 <h3>Preparación</h3>
-
 Se cortan todas las frutas en dados, más o menos del mismo tamaño, y se maceran con azúcar y zumo de naranja.
 

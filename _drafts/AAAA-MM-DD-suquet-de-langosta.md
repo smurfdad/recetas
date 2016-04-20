@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. langosta
 
 1/2 vaso aceite de oliva
@@ -49,6 +48,5 @@ PARA EL CALDO
 1 Ud. pimiento rojo pequeño
 
 <h3>Preparación</h3>
-
 Se pone una cazuela de barro y en ella se vierte el aceite, la cebolla troceada, los dientes de ajo y el laurel. Cuando esté medio sofrito, se incorpora el tomate y un poco de cognac. Cuando el sofrito esté listo, se corta la langosta y se mete en el sofrito. Se remueve durante 5 minutos, se incorpora el caldo de pescado y una picada de perejil, ajo y almendra.
 

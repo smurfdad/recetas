@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 Aceite
 
 sal
@@ -41,6 +40,5 @@ tomate frito
 mahonesa
 
 <h3>Preparación</h3>
-
 Refreír la cebolla en una cucharada de aceite, añadir una nuez de mantequilla, dos cucharadas de harina y un vaso de leche. Hacer una bechamel espesa, añadir el pescado cocido, tintar la masa con el tomate frito, dejar enfriar, colocar en el pan y decorar con mahonesa
 

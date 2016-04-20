@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 patatas cocidas
 
 aceite vegetal
@@ -47,6 +46,5 @@ yemas de huevo (batidas)
 especias.
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes y se aliña con el aceite, el vinagre, el azúcar y una pizca de sal.
 

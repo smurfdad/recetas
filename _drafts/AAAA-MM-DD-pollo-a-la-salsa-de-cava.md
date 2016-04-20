@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo de 1,500 Kg. como mínimo
 
 75 gr. de mantequilla
@@ -38,7 +37,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Una vez bien desplumado y eviscerado el animal, salpimentadlo generosamente por su interior. Atadlo luego con un bramante para que se esté quieto durante la cocción.
 
 Poned el horno a temperatura media. Alcanzada ésta, poned en la fuente en que vayáis a hacer el asado 50 gr. de mantequilla.

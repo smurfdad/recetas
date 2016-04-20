@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 2 Kg de filetes de abadejo
 
 1 cebolla
@@ -45,7 +44,6 @@ Pimienta a gusto
 1 cucharada de vinagre
 
 <h3>Preparación</h3>
-
 Cortar la cebolla en aros y el pimiento en tiras. Pelar las papas y cortarlas en rodajas parejas (a la española).
 
 Colocar en una cacerola 2 a 3 tazas de agua y 1 hoja de laurel. Cuando rompa el hervor, colocar una canasta para vapor con el pescado, el pimiento, la cebolla y rociar con aceite.Cocinar 7 minutos y luego salpimentar.

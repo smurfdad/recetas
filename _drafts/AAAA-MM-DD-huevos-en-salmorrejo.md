@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de lomo de cerdo
 
 4 pinchos de longaniza
@@ -46,6 +45,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Freír el lomo, la longaniza y el jamón y reservar. En el aceite sobrante freímos el ajo picado, poniéndole a continuación harina y añadiéndole el caldo de carne. Haremos una mezcla totalmente homogénea. Vertemos la salsa anterior resultante y todos los ingredientes en un recipiente rectificando de sal. Cocemos 10 minutos. Presentamos en 4 cazuelas de barro los componentes con la salsa y añadimos guisantes, espárragos y los huevos crudos, poniendo todo a cuajar. Hecho esto una vez cuajada, está listo para servir.
 

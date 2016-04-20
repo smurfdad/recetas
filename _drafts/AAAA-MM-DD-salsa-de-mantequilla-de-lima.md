@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 taza de vino blanco
 
 1/4 de taza de jugo de lima fresca
@@ -32,7 +31,6 @@ categories:
 1/4 taza mantequilla sin sal, fría
 
 <h3>Preparación</h3>
-
 En una cacerola pequeña, combine el vino, el jugo de lima, el azúcar y la ralladura de lima. Lleve a ebullición. Reduzca la temperatura a media y cocine a fuego lento hasta reducir la mitad.
 
 Ponga la salsa en un tazón pequeño. Bata la mantequilla en la salsa, hasta que la mantequilla se derrita y la salsa tenga la consistencia de mayonesa. Sírvala con pescado, mariscos, o con verduras frescas cocidas.

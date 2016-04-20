@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 champiñones grandes
 
 1 cebolleta
@@ -34,6 +33,5 @@ Para 4 personas.
 1 cucharada de aceite (Para rehogar)
 
 <h3>Preparación</h3>
-
 Rehogar la cebolleta, los taquitos de jamón y los tallos de los champiñones. Rellenar con esto los champiñones y meterlos enteros en la sartén que se usó antes.Regar con el jerez, tapar la sartén y dejar 5-7 min.
 

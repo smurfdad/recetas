@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 200 gramos de queso Philadelphia regular o light
 
 1 kilo de bacalao
@@ -38,7 +37,6 @@ albahaca fresca
 50 gramos de almendras
 
 <h3>Preparación</h3>
-
 Saltear el bacalao cortado a dados y añadir las alcachofas. En un mortero, mezclar el ajo, el perejil y las almendras. Añadir después el queso Philadelphia.
 
 En una cazuela, poner el bacalao con las alcachofas y cubrir con la mezcla anterior, diluida en el caldo resultante de hervir las alcachofas.

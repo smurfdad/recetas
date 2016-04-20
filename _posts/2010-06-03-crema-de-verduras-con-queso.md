@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 litro y 1/2 de agua
 
 200 gr alubia verde
@@ -26,7 +25,6 @@ Para 4 personas.
 3 quesitos en porciones
 
 <h3>Preparación</h3>
-
 Se pone el agua en una cazuela y cuando empiece a hervir se echa poco a poco las verduras.
 
 Dejarlas hervir hasta que estén bien cocidas.

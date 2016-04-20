@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de cabeza de rape
 
 250 gr. de cangrejos
@@ -43,7 +42,6 @@ Para 4 personas.
 Sal y pimienta en grano
 
 <h3>Preparación</h3>
-
 Limpiar y escurrir el pescado.
 
 En una olla poner el pescado, la cebolla y la zanahoria peladas y cortadas en trozos, el tomate entero, el puerro lavado y también cortado en trozos, el vino blanco, 2 litros de agua fría, la sal y la pimienta. Dejarlo cocer lentamente durante unos 45 minutos.

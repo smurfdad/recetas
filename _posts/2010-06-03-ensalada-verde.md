@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 gr alubia verde
 
 1 lechuga
@@ -22,7 +21,6 @@ Para 4 personas.
 1 lata de maíz dulce
 
 <h3>Preparación</h3>
-
 Trocear la alubia verde y cocerla con agua y sal.
 
 Pelar y limpiar la alcachofa y cocer los corazones con agua y sal.

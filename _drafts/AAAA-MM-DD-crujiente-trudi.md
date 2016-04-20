@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Para la masa sablé:
 
 100 g de harina
@@ -62,7 +61,6 @@ Para la mousse de queso:
 200 g de queso Philadelphia
 
 <h3>Preparación</h3>
-
 Preparación de la MASA SABLé:
 
 Ponga los ingredientes por el mismo orden en la batidora y mezcle hasta que quede una pasta dura pero fácil de amasar.

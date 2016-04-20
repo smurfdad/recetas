@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 pechugas
 
 8 lonchas de jamón de york finas
@@ -33,7 +32,6 @@ sal
 1 cucharadita pequeña de bobril
 
 <h3>Preparación</h3>
-
 Sazonar las pechugas con sal y darles una vuelta en la plancha y reservar.
 
 Picar la cebolla y el ajo muy fino y poner a hacer despacio, cuando este echa añadir la carne picada y rehogar bien hasta que este echa.

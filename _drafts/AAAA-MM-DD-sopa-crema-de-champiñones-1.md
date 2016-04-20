@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 50g de manteca
 
 25g de harina
@@ -41,7 +40,6 @@ Para 4 personas.
 Sal y pimienta blanca a gusto
 
 <h3>Preparación</h3>
-
 En una olla grande ponga a calentar 25g de manteca a fuego medio, eche la harina y revuelva con cuchara de madera hasta que tome un ligero color dorado. Incorpore gradualmente la crema, sin dejar de revolver para evitar que se formen grumos, luego agregue el caldo, la sal y la pimienta, y lleve a hervor.
 
 En una sartén de teflón, coloque los otros 25 g de manteca cuando esté bien caliente, baje la llama y rehogue la cebolla, añada los champiñones y rehógelos junto con la cebolla hasta que estén dorados. Retire 4 cucharadas de ésta mezcla y reserve.

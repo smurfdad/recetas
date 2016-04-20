@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 manzanas golden.
 
 1 manzana royal gala.
@@ -26,7 +25,6 @@ Para 4 personas.
 1 ramillete de menta para decorar.
 
 <h3>Preparación</h3>
-
 Pelamos las manzanas golden y junto con el azúcar, unas hojas de menta y el zumo de medio limón, cocemos a fuego lento en una cazuela tapada a fuego lento durante 30 minutos.
 
 Una vez cocidas las manzanas, las trituramos junto con las 2 hojas de menta y dejamos enfriar.

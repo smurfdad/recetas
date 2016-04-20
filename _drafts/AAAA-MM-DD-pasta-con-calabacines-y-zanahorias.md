@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 	
 
 Comensales: 4
@@ -49,7 +48,6 @@ guindilla
 sal
 
 <h3>Preparación</h3>
-
 Lavar bien los calabacines y cortarlos a rodajas finas. Pelar las zanahorias y rallarlas con un rallador de agujeros gordos.
 
 Una vez preparada la verdura, en una cazuela rehogar los ajos y una guindilla (opcional) en suficiente aceite y una vez dorados retirarlos.

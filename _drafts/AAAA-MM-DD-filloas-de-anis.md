@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Agua: 750 cc.
 
 Huevos: 6
@@ -34,6 +33,5 @@ Anís: 1 chorrito
 Sal: al gusto
 
 <h3>Preparación</h3>
-
 Echar en un bol todos los ingredientes y mezclar bien. Tiene que quedar una pasta uniforme. Dejar reposar una hora. Engrasar una sartén (mejor de hierro) con tocino y, cuando esté bien caliente, echar un cacillo de pasta, repartiéndola uniformemente por toda la sartén. Cuando esté hecha por un lado (esto es a ojo), darle la vuelta a la filloa y dejar que se haga por el otro lado. Retirar de la sartén a un paño para quitar el exceso de grasa y no humedecer el plato con excesivo calor. Pasar a un plato. Repetir esta operación hasta terminar la pasta.
 

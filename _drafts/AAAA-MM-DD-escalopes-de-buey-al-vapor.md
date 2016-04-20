@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 filetes de contra.
 
 4 zanahorias.
@@ -49,6 +48,5 @@ Pimienta.
 Perejil picado y Sal.
 
 <h3>Preparación</h3>
-
 En el fondo de la vaporera ponemos dos litros de agua, una hoja de laurel, un puerro, media cebolla, cuatro granos de pimienta negra y una zanahoria. Dejamos cocer media hora. En la rejilla ponemos la coliflor, dos tomates, la parte blanca del puerro y la zanahoria. Estos dos últimos ingredientes, cortados en juliana. Cocemos al vapor durante 8 minutos. Salpimentamos los filetes y los colocamos en la rejilla sobre las verduras. Dejamos cocer al vapor entre 5 y 10 minutos. En una sartén ponemos a reducir un chorrito de vinagre y un poco de caldo de la vaporera. Una vez reducido, lo ligamos con harina de maíz y espolvoreamos con perejil picado. Servimos la carne con las verduras y salseamos. A las verduras podemos darle un último toque con un chorrito de aceite de oliva.
 

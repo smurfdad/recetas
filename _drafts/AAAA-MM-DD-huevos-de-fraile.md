@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de harina de garbanzo
 
 1 lt. de agua
@@ -38,6 +37,5 @@ Sal
 Vinagre
 
 <h3>Preparación</h3>
-
 Hacer una masa con harina de garbanzo, agua y sal. Cortar a taquitos pequeños una vez que la masa haya enfriado y cuajado a temperatura ambiente. A continuación se aliña con cebolla picada, aceite de oliva y vinagre. Remover todo y servir en una fuente.
 

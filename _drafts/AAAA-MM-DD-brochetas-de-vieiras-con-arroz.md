@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 vieiras
 
 6 lonchas de bacón
@@ -45,6 +44,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cocer el arroz en abundante agua con sal. Escurrirlo y en el momento de servir, saltearlo en 1/2 dl aceite. Calentar 1/2 dl de aceite en una sartén y saltear las vieiras son el coral. Escurrirlas sobre papel absorbente y pasarlas por el perejil y los dientes de ajo picados. Envolverlas en 1/2 loncha de bacón y pasarlas por el pan rallado y el huevo batido. Formar las brochetas y servirlas con el arroz salvaje.
 

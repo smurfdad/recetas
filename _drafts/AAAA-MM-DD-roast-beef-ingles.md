@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de lomo de ternera.
 
 1/2 cucharada de mostaza de calidad.
@@ -47,7 +46,6 @@ Pimienta negra.
 Guarniciones (verduritas asadas o cocidas al vapor y luego salteadas).
 
 <h3>Preparación</h3>
-
 Limpiamos la pieza de posible trozos de grasa.
 
 Esta preparación es la de una pieza de lomo de ternera o de vaca, asada entera y que se consume bastante rosada en su interior, casi de aspecto crudo.

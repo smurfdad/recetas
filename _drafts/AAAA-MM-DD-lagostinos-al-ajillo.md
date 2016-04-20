@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg de langostinos de tamaño medio
 
 2 dientes de ajo
@@ -34,7 +33,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se colocan los langostinos en un plato o fuente resistente al microondas de forma decorativa.
 
 Se les pone sal fina y los ajos y perejil picaditos, se rocía con un buen chorro de aceite de oliva y se meten en el microondas 5 minutos.

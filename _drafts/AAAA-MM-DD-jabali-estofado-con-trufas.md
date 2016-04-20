@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 138 minutos.
 
 <h3>Ingredientes</h3>
-
 600 grs. carne de jabalí a tacos
 
 800 grs. de cebolla
@@ -49,11 +48,9 @@ Para 4 personas.
 1 trufa
 
 <h3>Preparación</h3>
-
 Preparar el sofrito con la cebolla, los ajos sin pelar, la carne de jabalí, pimienta, laurel, perejil y la trufa desmenuzada. Cuando la carne tome color, se sala, se añade el vinagre, el brandy y agua sin que lo llegue a cubrir todo. Se cortan los tomates en gajos y se añaden, se deja todo a fuego lento durante una hora y media, después se cortan las patatas ya peladas en trozos, se añaden y se deja a fuego lento durante media hora mas.
 
 <h3>Observaciones</h3>
-
 Cocina típica aragonesa.
 
 uede sustituirse la carne de jabalí por ternera, y hacer así un estofado de ternera.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 2 pechugas cortadas en filetes
 
 nata líquida
@@ -35,7 +34,6 @@ sal
 pimienta molida y en grano
 
 <h3>Preparación</h3>
-
 Se sazonan y se fríen las pechugas y se reservan.
 
 En la misma sartén deshacemos el foiegras y añadimos la nata, removiendo hasta que queda una salsa compacta. Se añaden los granos de pimienta al gusto.

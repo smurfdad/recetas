@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 liebre limpia
 
 4 papas medianas
@@ -50,7 +49,6 @@ Aceite de oliva
 Sal a gusto
 
 <h3>Preparación</h3>
-
 Cortar la liebre en presas sazonarlas con el ajo picado remojado en aceite de oliva y dejarlo macerar 60 minutos.
 
 En una olla de barro se coloca un poco de manteca la cebolla, ajo el tomate el laurel el pimentón un chorrito de aceto y el vino blanco. Tape la olla y dejar cocinar lentamente hasta que todo este cocido.

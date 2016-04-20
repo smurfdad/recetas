@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 dorada de 1,5 kg. aproximadamente
 
 2 zanahorias
@@ -46,7 +45,6 @@ Sal
 Pimienta blanca
 
 <h3>Preparación</h3>
-
 Se retira la tripa de la dorada. Se le quitan las escamas y se aclara con agua fría. Se seca con papel absorbente. Se pone aceite en una sartén y, cuando esté caliente, se doran unos dientes de ajo enteros. Se pone a hervir agua sazonada con sal.
 
 Mientras hierve, se pelan las verduras, se aclaran bien y se cortan en bastones no muy finos. Cuando hierva el agua se echan las verduras y se les da un hervor. Se sacan a un escurridor.

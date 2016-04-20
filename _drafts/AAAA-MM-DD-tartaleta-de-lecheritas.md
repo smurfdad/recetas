@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Lecheritas de ternera
 
 chalota
@@ -38,6 +37,5 @@ perejil
 tartaleta de hojaldre
 
 <h3>Preparación</h3>
-
 Damos un hervor de cinco minutos a las lecheritas, las refrescamos y las cortamos. Por otro lado, rehogamos una chalota picada fina, le añadimos las lecheritas y, una vez caliente, añadimos coñac y lo flambeamos. Se le añade salsa de tomate y se coloca en la tartaleta. Para finalizar, lo cubrimos con pasta fresca y perejil
 

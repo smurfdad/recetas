@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 2 manojos de borrajas
 
 1/2 l. de leche desnatada
@@ -43,7 +42,6 @@ para la guarnición:
 1 cebolla tierna
 
 <h3>Preparación</h3>
-
 Limpiar las borrajas. Separamos las hojas grandes para hervir y cogemos únicamente las pequeñas y tiernas y prácticamente sin tallo. Ponemos en la batidora con la leche, harina, huevos, sal y pimienta.
 
 Batimos hasta obtener una crema fina y líquida.

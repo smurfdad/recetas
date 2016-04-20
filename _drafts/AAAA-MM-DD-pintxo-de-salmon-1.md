@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pan de molde
 
 bonito
@@ -32,6 +31,5 @@ salmón
 cebolla
 
 <h3>Preparación</h3>
-
 Se corta el pan de molde en cuadrados pequeños. Se unta una capa de salsa rosa, se añade una capa de bonito mezclado con salsa rosa, se pone encima otra capa de pan, se vuelve a untar con salsa rosa, se le pone una tira de salmón ahumado y finalmente unas tiras de cebolla
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de arroz
 
 2 cebolletas
@@ -45,7 +44,6 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Pela las patatas, córtalas en rodajas y fríelas a fuego fuerte en una sartén hasta que se doren.
 
 Pica las cebolletas y corta los ajos frescos en trozos de unos 5 centímetros. Dóralos en una cazuela amplia y baja con 4 cucharadas de aceite. Incorpora las patatas.
@@ -55,6 +53,5 @@ Cuando esté rehogado, añade el arroz, mezcla bien y añade el vino blanco y el
 Pela el huevo cocido, córtalo en 4. Decora la cazuela con los trozos de huevo y una rama de perejil.
 
 <h3>Observaciones</h3>
-
 Una vez hecho el arroz, lo mejor es taparlo con un trapo limpio y dejarlo reposar durante 4-5 minutos antes de servir.
 

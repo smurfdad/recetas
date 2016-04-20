@@ -7,7 +7,6 @@ categories:
 - Postres y dulces
 ---
 <h3>Ingredientes</h3>
-
 100 gr de clara de huevo
 
 100 gr. de azúcar
@@ -19,7 +18,6 @@ avellanas tostadas
 polvo de avellana
 
 <h3>Preparación</h3>
-
 Os presentamos un preparado que es muy útil como acompañamiento del té o café, es decir de petit fours. Tienen la ventaja que se pueden conservar varios días en un lugar seco y cerrado, por periodo de 3-4 días, lo que nos permite elaborar cantidades grandes.
 
 Empezaremos calentando el azúcar isomalt hasta alcanzar los 125 grados. En el caso de no disponer de azúcar isomalt, lo substituiremos por el de granillo (normal). El resultado será similar, pero la consistencia del merengue que elaboraremos a continuación, no será igual, aguantara menos el paso de las horas.

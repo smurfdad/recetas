@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Ud. conejo troceado
 
 2 cabeza ajo
@@ -40,6 +39,5 @@ Para 4 personas.
 1 pizca sal y pimienta
 
 <h3>Preparación</h3>
-
 Sazonar el conejo, y sofreirlo en una cazuela, con los ajos hasta que se dore. Luego se le añaden, las especias y el vino blanco. Dejar evaporar el alcohol, después añadir el agua y dejar cocinar a fuego lento. Rectificar de sal y acabar espolvoreando el plato con perejil picado.
 

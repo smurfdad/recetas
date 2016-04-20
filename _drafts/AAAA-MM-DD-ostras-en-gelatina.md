@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 24 ostras
 
 1 manojo de berros
@@ -44,6 +43,5 @@ pimienta
 sal gorda
 
 <h3>Preparación</h3>
-
 Lavar los berros en agua fría, escurrirlos y secarlos bien. Abrir las ostras, recuperar su caldo, colarlo y ponerlo en un cazo a calentar son que hierva. Agregar las hojas de gelatina, previamente remojadas en agua. Mezclar suavemente y sazonar con pimienta. Meter en la nevera durante 15 minutos. Retirar las ostras de las conchas y ponerlas en un paño limpio. Lavar y secar las conchas. Pelar y picar fino las escalonias, rehogarlas el aceite caliente, mojar con el vino blanco y reducir a fuego suave hasta que el vino se consuma. Retirar del fuego y agregar el zumo de limón y la mitad de los berros picados. Repartir la preparación en el fondo de cada concha, colocar encima una ostra y sazonar con pimienta. Cubrir con la gelatina y meter en la nevera durante 2 horas. Al momento de servirlas, repartir una cucharada de huevas sobre las ostras y adornar con las hojas de berros.
 

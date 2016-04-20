@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo de 200 gr. cada una
 
 4 lonchas de queso
@@ -47,6 +46,5 @@ pimienta
 harina.
 
 <h3>Preparación</h3>
-
 Aplastar las pechugas de pollo y sazonarlas. Enharinarlas. En una sartén, dorar las pechugas con la mantequilla, añadir la cebolla y rehogarla, agregar la copa de brandy y flamear. Añadir la leche y las pasas y cuando hierva, poner sobre cada pechuga una loncha de jamón y una de queso. Tapar y dejar cocer hasta que se haya fundido el queso. Si la salsa queda algo clara, sacar las pechugas y dejar reducir hasta que espese un poco más. Servir bien caliente.
 

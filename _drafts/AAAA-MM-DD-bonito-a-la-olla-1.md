@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 rodaja de bonito de aprox. 1/2 kg
 
 1 cebolla
@@ -40,6 +39,5 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Se echa en la olla presión un par de cucharadas de aceite, el tomate y la cebolla cortados en rodajas, la raja de bonito entera, el vaso de vino, el vinagre, la sal y el agua hasta cubrirlo todo. Se tapa la olla y se deja cocer unos 30 minutos.
 

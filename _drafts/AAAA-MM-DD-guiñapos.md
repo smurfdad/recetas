@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 Kg. de harina
 
 Agua
@@ -52,6 +51,5 @@ Laurel
 1/4 de almejas
 
 <h3>Preparación</h3>
-
 Se prepara la masa echando en el agua un puñado de harina por cada comensal; el agua para hacer la masa debe de estar templada. Se amasa como para hacer pan. Después se repizca la masa y se hacen los borullos como granos de trigo hinchados. En una cazuela se hace un sofrito (usando el Aceite de Oliva Virgen Extra) con las judías verdes, el pimiento verde, el conejo, la cebolla el ajo y el tomate. Una vez hecho el sofrito se le añade el pimentón y el agua (un litro) Se pone a hervir todo añadiendo los borullos cernidos y se remueve para que no se apelmacen; a continuación se incorporan las almejas, el pimiento asado, las guindillas y el laurel y se deja cocer unos veinte minutos hasta que los borullos estén tiernos. Cuando estén cocidos y suaves se retiran del fuego. Se sirven y se comen en la sartén.
 

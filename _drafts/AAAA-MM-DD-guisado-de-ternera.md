@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de morcillo
 
 1/2 de patatas mondadas
@@ -42,7 +41,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Mezclamos la harina con la mantequilla que ya está fundida en una cacerola al fuego, sofreímos la carne, cortada a trozos regulares, hasta que esté suficientemente dorada; ahora echamos el vino blanco sin dejar de remover hasta que rompa a hervir. Conseguido esto añadimos una cebolla de buen tamaño entera y con un clavo incrustado, sal, pimienta y un ramito de hierbas; tapamos a medias y dejamos hervir al fuego lento de su placa durante una hora.
 
 Una vez la carne esté blanda, se agregan las patatas en trozos -si no hubiera suficiente caldo para que se guisen añadiremos un poco más de agua-, tapamos a medías la cacerola otra vez y esperamos a que las patatas estén hechas para servir.

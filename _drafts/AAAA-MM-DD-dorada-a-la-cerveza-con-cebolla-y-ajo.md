@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 dorada de 1,250 kg.
 
 1 kg. de cebollas
@@ -46,7 +45,6 @@ sal
 cilantro
 
 <h3>Preparación</h3>
-
 Se pelan las cebollas y se cortan en juliana fina. Se rehogan en una cazuela con un poco de aceite y otro poco de mantequilla. Se sazona con un poco de sal y una pizca de azúcar. Se moja con la cerveza y se deja cocer a fuego suave para que quede la cebolla muy hecha y reduzca el líquido.
 
 Por otra parte, se limpia bien la dorada, dejándola entera. Se sazona y se soba con un poco de aceite. Se pelan las dos cabezas de ajos y se introducen éstos en un cazo con agua fría. Se enciende el fuego y, cuando dé un hervor, se escurren. Se vuelven a cubrir con agua fría y se repite la operación. Se escurren de nuevo y se cubren de leche. Se pone a hervir y se tiene a fuego suave unos 20 o 30 minutos.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de bacalao
 
 1 cebolla
@@ -25,7 +24,6 @@ ajo molido
 harina
 
 <h3>Preparación</h3>
-
 Se pone el bacalao a remojo y se cambia el agua 3 veces en 48 horas. (Si se hace esta receta con bacalao fresco no es necesario cambiar el agua 3 veces, pues se desala más rápidamente).
 
 Se echa un poco de aceite en una cazuela y se añade el tomate triturado con un poco de tomillo y el ajo molido.

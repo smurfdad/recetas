@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 grs de lomo de cordero deshuesado, enrollado, atado y cortado en medallones
 
 100 grs de mostaza de Dijon
@@ -36,6 +35,5 @@ aceite de oliva
 sal y pimienta en grano
 
 <h3>Preparación</h3>
-
 En una sartén con aceite de oliva, freir los medallones hasta que estén dorados por ambos lados, dándoles la vuelta con una espátula. Trasladarlos a un plato y reservarlos calientes. En un bol, mezclar el jugo de cocción de la carne, la mostaza, el caldo de carne previamente calentado y el azúcar. Espolvorear con un poco de sal y pimienta recién molida, batirlo bien y trasladarlo a un cazo. Ponerlo a fuego medio hasta que empiee a hervir, removiendo con una cuchara de madera. Distribuir los medallones en platos, bañarlos con la salsa y servirlos enseguida, acompañados de una guarnición de patatas fritas y crudités.
 

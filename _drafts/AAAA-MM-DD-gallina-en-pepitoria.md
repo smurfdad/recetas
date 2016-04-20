@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de gallina
 
 2 cebollas medianas
@@ -50,7 +49,6 @@ condimento amarillo
 perejil
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y el ajo y rehogar despacio.
 
 Una vez echo, agregar un majado de pan frito, azafrán, pimienta y el colorante.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr de jamon de cerdo
 
 400 cc de aceite
@@ -36,7 +35,6 @@ ajo
 Pure de patatas
 
 <h3>Preparación</h3>
-
 Cocer los trozos de jamón en la mezcla de vino y aceite. Primero se echa el aceite, luego el jamón y a los 5 minutos el vino.
 
 Dejarlo a fuego lento 1 hora; después quitar un poco de salsa y freír en esa salsa cebolla muy picada y ajo hasta que este bien hecha. Sacar la sartén del fuego y echarle el puré ya hecho.

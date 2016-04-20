@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 jarretes
 
 2 cebollas medianas
@@ -46,7 +45,6 @@ pimienta blanca
 consomé
 
 <h3>Preparación</h3>
-
 Sazonar los jarretes con sal y pimienta blanca.
 
 Pasar por harina y darles un golpe fuerte en la sartén.

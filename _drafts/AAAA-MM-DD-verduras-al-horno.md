@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 750 gramos de calabacines.
 
 500 gramos de berenjenas.
@@ -47,7 +46,6 @@ Ajo.
 Cebolla.
 
 <h3>Preparación</h3>
-
 Lavamos la berenjena y la cortamos en rodajas. Salamos y dejamos escurrir media hora para que suelte toda el agua. Luego pasamos por agua fría y secamos. En una fuente resistente al horno, colocamos el calabacín en rodajas, los tomates, también en rodajas, y las berenjenas por la parte de fuera.
 
 Rociamos el conjunto con aceite y lo metemos en el horno durante 25 minutos, a 170 grados. Retiramos y espolvoreamos con la albahaca picada y el orégano.
@@ -55,6 +53,5 @@ Rociamos el conjunto con aceite y lo metemos en el horno durante 25 minutos, a 1
 También incorporamos el refrito que hemos hecho con la cebolla picada, el ajo y las setas.
 
 <h3>Observaciones</h3>
-
 Podemos acompañarlo con taquitos de jamón y queso.
 

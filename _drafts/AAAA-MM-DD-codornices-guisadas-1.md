@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 codornices
 
 1 cebolla hermosa
@@ -42,7 +41,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Se limpian bien las codornices. Se sazonan con sal y se soban con aceite. Se meten al horno muy caliente, durante breves minutos, para que se doren ligeramente, sin llegar a hacerse. Se sacan y se reservan cerca del calor.
 
 Se pone aceite en una sartén y se rehoga la cebolla, muy picada, hasta que se dore. Se cubre con el caldo y se le añaden la zanahoria y el puerro, limpios y troceados. Se deja hervir unos 15 minutos.

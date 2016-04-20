@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500g de pasta
 
 100cc de aceite
@@ -52,7 +51,6 @@ Azafrán
 Sal
 
 <h3>Preparación</h3>
-
 En una cacerola se dora en aceite, la cebolla, se colocan luego los pimientos, el pimentón, el jamón y se sala a gusto. Al estar cocidos estos ingredientes se les agregan las almejas y los mejillones y luego se le incorporan los langostinos.
 
 Se vierte el caldo con el azafrán diluido en él y cuando hierve se le incorpora el puré de tomates, el laurel y se salpimienta a gusto.

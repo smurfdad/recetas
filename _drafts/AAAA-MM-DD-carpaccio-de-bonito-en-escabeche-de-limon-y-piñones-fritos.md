@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Un lomo de bonito del Norte
 
 Una cebolla
@@ -38,7 +37,6 @@ Aceite de oliva
 Piñones
 
 <h3>Preparación</h3>
-
 Limpiar el lomo de bonito y envolverlo con film transparente. Meterlo al congelador hasta que quede duro.
 
 Para el escabeche, poner aceite en una sartén, añadir la cebolla en trozos grandes, el laurel, los ajos y la pimienta negra. Sofreír a fuego lento hasta que coja color. Al retirarlo, añadir el zumo de limón y una pizca de sal.

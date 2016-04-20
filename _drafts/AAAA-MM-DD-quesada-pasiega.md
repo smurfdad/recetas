@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de leche cuajada o requesón
 
 4 Huevos
@@ -40,7 +39,6 @@ Ralladura de 1 limón
 1 chorrito de coñac
 
 <h3>Preparación</h3>
-
 En un bol o cazuela poner la leche cuajada, los huevos, el azúcar, la canela, la ralladura del limón y un chorrito de coñac y mezclar estos ingredientes suavemente con las manos.
 
 En otro recipiente calentar la mantequilla, verterla sobre la mezcla anterior e incorporar lentamente la harina, mezclándolo todo bien.

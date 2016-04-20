@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 9 huevos
 
 100 gr. de champiñón
@@ -44,7 +43,6 @@ sal
 2 cucharadas de vino blanco
 
 <h3>Preparación</h3>
-
 Se vacía cada huevo en un molde pequeño y se ponen a cocer al baño maría.
 
 Una vez hecho esto, se sacan los huevos del molde y se ponen en una bandeja. Después el jamón, el corazón de cordero, champiñones, pimientos y la cebolla se pican en trozos pequeños y se refríen, añadiéndoles las gambas y una cucharadita de harina, sazonándolo con perejil, ajos, sal, dos cucharadas de vino blanco y un poco de agua. Poner la salsa a los huevos en el momento de servirlos. La salsa se debe dejar cocer unos minutos.

@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 400 gr. de arroz
 
 una lata pequeña de guisantes
@@ -35,7 +34,6 @@ medio vaso de vino blanco
 salsa de tomate
 
 <h3>Preparación</h3>
-
 Se hierve el arroz y se refresca bajo chorro de agua para que los granos queden sueltos. Se saltean en una sartén con aceite. Se limpian y se cortan los calamares y se reserva la tinta. En una cacerola se fríe la cebolla cortada fina, se añaden los calamares y se dejan tapados unos pocos minutos.
 
 Se añade medio vaso de vino y se deja cocer, tapada la cazuela, hasta que se reduzca el vino. Se añade el tomate y la tinta mezclada con un poco de agua. Se deja cocer.

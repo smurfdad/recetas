@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 Hinojos Frescos
 
 2 Cebollas
@@ -48,7 +47,6 @@ Perejil
 Sal y Pimienta al Gusto
 
 <h3>Preparación</h3>
-
 Se sancochan los hinojos picados en julianas. Los tomates se introducen en agua caliente para poder quitarles la piel.
 
 Las cebollas se pican en julianas y los ajos se pican bien menuditos; se sofrien en la mantequilla. Cuando las cebollas estén marchitas doraditas), se le agregan los hongos picaditos en rueditas, la sal y la pimienta al gusto.

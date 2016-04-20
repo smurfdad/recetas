@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 gr. de hongos de la variedad Boletus (Edulis o Pinícola)
 
 250 gr. de jamón ibérico con bastante hebra
@@ -40,10 +39,8 @@ pimienta blanca
 sal
 
 <h3>Preparación</h3>
-
 Se pone en una sartén el aceite, los ajos en láminas, la pimienta y el vino blanco. Se sofríe sin dejar quemar los ajos, se añaden los hongos bien limpios y sazonados de sal, cortados en lonchas de, aproximadamente, 1 cm. de espesor, y al romper a hervir se le añaden las hierbas aromáticas. Se deja un minuto. Se tienen cortadas las tiras de jamón y se ponen los hongos entre ellas. Se sazona con la salsa y se sirve muy caliente.
 
 <h3>Observaciones</h3>
-
 Se puede adornar este plato con alguna patata tipo cachelo y limón.
 

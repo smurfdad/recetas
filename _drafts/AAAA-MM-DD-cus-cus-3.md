@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de sémola de cus cus.
 
 2 cucharadas de aceite de oliva.
@@ -61,7 +60,6 @@ Pimienta negra recién molida.
 Harissa (salsa picante): 8 cucharaditas de pimienta Cayena, 4 cucharaditas de comino en polvo y 2 cucharaditas de sal.
 
 <h3>Preparación</h3>
-
 Preparar la harissa mezclando todos los ingredientes con una cucharada de agua. Ponerlo en un bol pequeño y revolver.
 
 Poner la sémola de cus cus en una fuente algo profunda. Agregarle 1/2 litro de agua salada y el aceite, gota a gota, mientras se frota suavemente con las manos para que los granos se humedezcan todos por igual. Cubrirlo con papel de aluminio y dejarlo en reposo, a temperatura ambiente, un cuarto de hora. Calentar el aceite en una cacerola. Poner la carne y la cebolla. Agregar la pimienta de Jamaica, sal, un pizca de pimienta negra y dorar a fuego vivo durante unos minutos. Agregar las zanahorias, los nabos, el repollo y los tomates. Cubrir con agua y cocer hasta que comience a hervir. Bajar la intensidad del fuego. Poner sobre la cacerola un colador plano (como el que se utiliza para cocer verduras al vapor) y cubrirlo con un paño de cocina. Poner el cus cus sobre el trapo, poco a poco, frotándolo con las manos para que le llegue el vapor antes de seguir agregando más. Dejar cocer descubierto y sin tocarlo más durante 20 minutos. Retirar el cus cus y ponerlo en una fuente.

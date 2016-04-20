@@ -13,7 +13,6 @@ Para 8 personas.
 <b>Tiempo</b> 50 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo pescado (solo espinazos, cabezas )
 
 2 puñados de arroz lavado
@@ -45,7 +44,6 @@ sal, pimienta al gusto
 1 cucharita de sazonado
 
 <h3>Preparación</h3>
-
 En una olla grande poner un chorrito de aceite, dorar los ajos, cebolla pimenton el pescado (huesos), luego agregar el agua, dejar hervir 25 minutos a mas, si se desea.
 
 colar y agregar el arroz y dejar cocer 18 minutos junto con el yuyo molido.

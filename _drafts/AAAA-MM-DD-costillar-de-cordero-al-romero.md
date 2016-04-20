@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 costillar de cordero de 1.300 gramos.
 
 4 cucharadas de aceite.
@@ -44,7 +43,6 @@ Sal.
 300 gramos de coles de Bruselas.
 
 <h3>Preparación</h3>
-
 Salamos el costillar, lo rociamos con aceite y lo metemos en el horno, a 160 grados, durante diez o quince minutos, dándole la vuelta. Con la ayuda de la batidora hacemos una mezcla de romero picado, agua, vino blanco, ajos, vinagre y perejil.
 
 Añadimos esta mezcla al cordero y lo dejamos en el horno unos cuarenta minutos mas, rociándolo con su jugo de vez en cuando. Para la guarnición, salteamos las coles de Bruselas una vez cocidas y las servimos acompañando al cordero.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 1 diente de ajo
@@ -36,6 +35,5 @@ sal
 hojas de menta
 
 <h3>Preparación</h3>
-
 Se lavan las berenjenas, se cortan en rodajas y se cuecen en agua hirviendo. Una vez cocidas, se escurren muy bien y se aliñan con la sal, el aceite, el vinagre, el ajo picado y unas hojas de menta troceadas.
 

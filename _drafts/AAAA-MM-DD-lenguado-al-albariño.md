@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 lenguado, 8 filetes
 
 camarones, 200 gr., pelados
@@ -58,6 +57,5 @@ florones de hojaldre, 4
 yemas de huevo, 2
 
 <h3>Preparación</h3>
-
 Se pelan los lenguados, se filetean y con las espinas se hace el fumet con el puerro, un chorro de aceite y una rama de perejil. (Poca cantidad de agua para que salga con buen sabor) En una fuente honda ponemos los filetes a pochar con los camarones, los champiñones y el vino y se mete al horno, tapado, 5 minutos. En un cazo ponemos la mantequilla y hacemos la bechamel con el vino de los filetes y el fumet, se pone nata y se deja cocer bien. Se retira del fuego y se ponen las yemas de huevo quedando la salsa terminada. En una fuente ponemos los filetes con los camarones y los champiñones. Se adorna con las patatas y los florones de hojaldre y perejil picado.
 

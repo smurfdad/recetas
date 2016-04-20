@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Queso crema philadelphia
 
 Mermelada de Fresa
@@ -30,7 +29,6 @@ Chile chipotle de lata
 Galletas para canapes
 
 <h3>Preparación</h3>
-
 1. en la licuadora mezcle 200g de mermelada de fresa con 1 chile chipotle
 
 2. en un platon vierta la mezcla sobre el queso

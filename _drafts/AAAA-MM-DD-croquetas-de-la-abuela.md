@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr. de carne picada de pollo
 
 100 gr. de carne picada de cerdo
@@ -44,7 +43,6 @@ Para 4 personas.
 Aceite, Sal y Pimienta
 
 <h3>Preparación</h3>
-
 En una sartén saltear con aceite la cebolla, las carnes picadas y la patata. Salpimentarlo y añadir la harina, la mantequilla y la leche.
 
 Removerlo bien para que no haga grumos, y dejarlo cocer hasta que quede una pasta espesa. Dejar reposar esta pasta unas 5 horas.

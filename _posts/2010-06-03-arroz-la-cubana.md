@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 160 gr arroz
 
 1/2 kilo de salsa de tomate
@@ -27,7 +26,6 @@ huevo
 2 dientes de ajo
 
 <h3>Preparación</h3>
-
 Picar fina la cebolla y el ajo y rehogar con un poco de aceite.
 
 A continuación añadir el arroz y doble cantidad de agua.

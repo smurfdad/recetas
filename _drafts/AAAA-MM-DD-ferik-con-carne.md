@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de carne para guisar en trozos pequeños
 
 1 cebolla pequeña rallada
@@ -39,10 +38,8 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Lavar la carne, cocerla en agua, sal y una cebolla. Lavar el Ferik, echarlo a la carne cocida, dejar a fuego lento añadiendo agua cuanto lo necesite. Freír la cebolla rallada en aceite muy caliente, hasta que esté dorada, echarla sobre el Ferik, añadir sal y pimienta, servir caliente.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

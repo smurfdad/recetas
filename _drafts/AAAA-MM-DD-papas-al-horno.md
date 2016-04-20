@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 kilos de papas medianas, todas del mismo tamaño
 
 sal
@@ -56,7 +55,6 @@ mantequilla
 1 taza de caldo
 
 <h3>Preparación</h3>
-
 Se pelan las papas y se les quitan una lasca por debajo para que se asienten en el fondo del recipiente; se vacía su interior por la parte de arriba con una cucharilla para colocarle el relleno. Se dejan al fuego cubiertas de agua y sal durante dos minutos, se sacan, se pone a escurrir boca abajo y sin dejarlas enfriar, se rellenan con la pasta siguiente:
 
 Se hace una fritura con el aceite, el ajo, cebolla, pimiento y finalmente el tomate sin piel ni semilla; cuando esté hecha se le pone la carne del cocido molida, las almendras nolidas, las dos yemas (reservanco las claras), el perejíl y la pimienta. Se amasa la mezcla y se rellenan las papas.

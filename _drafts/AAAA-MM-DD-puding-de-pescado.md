@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 1 litro de nata liquida
 
 12 huevos
@@ -37,7 +36,6 @@ pimienta blanca
 salsa rosa
 
 <h3>Preparación</h3>
-
 En una cazuela poner la merluza a cocer con agua y sal durante unos minutos.
 
 Proceder a la limpieza de las gambas, pelándolas y retirándoles la cabeza. Reservar.

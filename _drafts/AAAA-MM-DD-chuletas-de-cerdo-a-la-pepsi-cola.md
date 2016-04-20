@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 chuletas de cerdo ahumadas
 
 1 pepsi-cola en lata
@@ -34,7 +33,6 @@ pizca de pimienta negra
 una tacita de leche
 
 <h3>Preparación</h3>
-
 Se colocan las chuletas en un sarten hondo, con las 2 chuletas y la pepsi.
 
 se dejan que hiervan y se cocinen. Como ya vienen ahumadas es al gusto de cada quien.

@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs. de bonito
 
 5 dientes de ajo
@@ -36,6 +35,5 @@ Vinagre
 Sal
 
 <h3>Preparación</h3>
-
 Se sazona el bonito y se pone en una pota o cazuela de barro. Se le añaden los dientes de ajo y las hojas de laurel, y se cubre con aceite y vinagre en una proporción de dos partes de aceite por una de vinagre. Se deja cocer de 15 a 20 minutos, dependiendo del grosor de los trozos de bonito.
 

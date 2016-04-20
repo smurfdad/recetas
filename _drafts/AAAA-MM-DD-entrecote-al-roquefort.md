@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 filetes de unos 300 gr. de entrecote.
 
 100 gr. Roquefort societe.
@@ -36,7 +35,6 @@ Hierbas: a su gusto
 Pimienta.
 
 <h3>Preparación</h3>
-
 El entrecot se hace a la plancha a su gusto.
 
 En un cazo se pone el roquefort poco a poco, fundiéndolo con la nata y aderezándolo con las hierbas, la pimienta y sal a su gusto.

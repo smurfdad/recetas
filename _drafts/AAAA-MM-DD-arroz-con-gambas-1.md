@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 Gambas
 
 3 Dientes de ajo
@@ -41,7 +40,6 @@ Para 4 personas.
 1 cuchara de tomate triturado
 
 <h3>Preparación</h3>
-
 Pelamos las gambas. Las cascaras de éstas las introducimos en una cacerola con agua para cocerlas.Desechamos las cascaras y el liquido de éstas nos servirá para la coción del arroz.
 
 En una sartén echamos el aceite,los dientes de ajo pelados, la guindilla,el azafrán, el tomate y la pastilla de caldo desmenuzada, cuando empiecen a dorarse se añade las gambas peladas.5 minutos después con el fuego moderado se añade el arroz que anteriormente cocimos con el agua de las cáscaras de las gambas.Se mezcla bien y listo para comer.

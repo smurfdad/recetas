@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 grs. de choclate de hacer
 
 5 huevos
@@ -19,7 +18,6 @@ Para 4 personas.
 50 grs. de azúcar
 
 <h3>Preparación</h3>
-
 Fundir el chocolate en un poco de agua o de café. (En el microondas 2 minutos).
 
 Separar las 5 claras de las yemas.

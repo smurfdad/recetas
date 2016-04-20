@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de salmón fresco
 
 250 g. de salmón ahumado
@@ -61,7 +60,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Hervir el caldo y escalfar el salmón fresco 3min. Escurrir y y enfriar.
 
 Mojar el pan desmigado en la leche. Poner gelatina 10 min. en agua fria, hervir el vino, añadir la gelatina escurrida, mezclar, sazonar, verter en una fuente y dejar cuajar.

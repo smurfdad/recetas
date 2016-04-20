@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de carne de cerdo picada
 
 250 gr. de carne de ternera picada
@@ -52,7 +51,6 @@ Harina y Aceite
 Sal y Pimienta
 
 <h3>Preparación</h3>
-
 Haz primero la salsa fundiendo la manteca de cerdo, añade la cebolla y la zanahoria y cuando comiencen a tomar color, intégrales 1/2 cucharada de harina y, poco a poco y sin dejar de mezclar, el caldo, el vino y el tomate.
 
 Baja el fuego al mínimo y déjala cocer para que reduzca lentamente. Mientras, prepara las albóndigas, mezclando el pan con las carnes, el perejil y los ajos, los huevos, sal y pimienta.

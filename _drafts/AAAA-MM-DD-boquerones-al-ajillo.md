@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. boquerón
 
 6 diente ajo
@@ -34,6 +33,5 @@ aceite de oliva
 perejil
 
 <h3>Preparación</h3>
-
 Dorar el ajo y la guindilla en el aceite bien caliente. Añadir los boquerones sin espinas y saltear sin dejar que se hagan mucho. Retirar del fuego y espolvorear con perejil.
 

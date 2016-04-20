@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Sobre de puré de patatas, preparado con leche.
 
 1 Frasco de tomate frito casero.
@@ -32,7 +31,6 @@ Para 4 personas.
 1 sobrecito de queso rallado.
 
 <h3>Preparación</h3>
-
 En una fuente se pone primero, extendido, el tomate frito, después sobre el tomate, los huevos cortados en rodajas, y todo ello se cubre con el puré de patatas, por último se espolvorea de queso rallado y se gratina unos minutos.
 
 Se sirve inmediatamente, caliente.

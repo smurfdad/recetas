@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de bacalao
 
 1 kg. de naranjas
@@ -36,6 +35,5 @@ aceite de oliva
 aceitunas negras
 
 <h3>Preparación</h3>
-
 Se asan los trozos de bacalao desalado, al que se le habrán quitado las espinas y el pellejo. Se esparcen en una fuente y se van colocando encima de ellos trozos de cebolla y rodajas de naranjas chinas, sin cáscara ni pepitas. Se rocía con aceite crudo y se añaden aceitunas, preferentemente negras, así como rodajas de huevo duro.
 

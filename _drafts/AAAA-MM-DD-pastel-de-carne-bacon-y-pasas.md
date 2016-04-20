@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kgr. de carne picada
 
 1 trozo de miga de pan
@@ -38,7 +37,6 @@ Brandy
 Pasas
 
 <h3>Preparación</h3>
-
 Utilizar un molde rectangular, forrarlo por todas sus paredes con tiras de bacón. Mojar la miga de pan con la leche.
 
 Salpimentar la carne y mezclarla con pasas y aceitunas.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Para 1 pionono
 
 50 g de harina
@@ -52,7 +51,6 @@ Sal y pimienta
 250g de queso mozzarella rallado
 
 <h3>Preparación</h3>
-
 Preparar la salsa blanca y la de tomates
 
 Mezclar la espinaca, la cebolla, el queso y la salsa blanca. Salpimentar y rellenar el arrollado.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de anguila
 
 1,200 kg. de patatas
@@ -42,7 +41,6 @@ Azafrán
 Sal
 
 <h3>Preparación</h3>
-
 En una cacerola se calienta el aceite y se rehogan la cebolla, el ajo y el laurel.
 
 Se cortan las patatas en forma de dientes de ajo grandes y se añaden al rehogo.

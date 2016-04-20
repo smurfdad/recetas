@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 cebolla.
 
 2 pimientos verdes.
@@ -45,7 +44,6 @@ Aceite de oliva.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 En primer lugar, picamos los ingredientes vegetales: la cebolla, finamente; los pimientos verdes, en tiras; el tomate, en cuadraditos; y el calabacín en tiras.
 
 Lo rehogamos todo en aceite, salamos, y cuando este tierno, añadimos al jamón.

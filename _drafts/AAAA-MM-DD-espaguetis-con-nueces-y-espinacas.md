@@ -21,7 +21,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 400 gr. de espaguetis
 
 100 gr. de nueces
@@ -39,7 +38,6 @@ sal y nuez moscada
 parmesano rallado
 
 <h3>Preparación</h3>
-
 Poner a cocer las espinacas limpias y cortadas en trozos muy pequeños en una cacerola con un poco de agua con sal a fuego fuerte.
 
 Preparar una bechamel con la mantequilla, la harina y la leche. Salar y aromatizar con un poco de nuez moscada.

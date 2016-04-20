@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 350 gr. de melocotones o albaricoques en conserva
 
 3 huevos
@@ -39,7 +38,6 @@ Para 4 personas.
 50 gr. almendras
 
 <h3>Preparación</h3>
-
 Colocar la mantequilla en un bol y meterlo al microondas durante 1 minuto. Verter en un bol mayor y añadir la leche ,los huevos,el azucar,y la harina mezclando bien todos los ingredientes cada vez, antes de añadir el siguiente. Se obtendra una crema lisa.
 
 Enmantequillar una fuente un poco honda o un molde de tartaleta que sean refractarios. Colocar los albaricoques o melocotones sobre el fondo con la parte abombada hacia arriba y esparcir las almendras trituradas por encima y cubrir con la crema. Cocer 8 minutos a un programa medio. Parar y volver a poner el horno esta vez a la potencia mayor unos 4 minutos

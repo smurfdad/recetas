@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 Cabrito o Baifo
 
 1 vaso de Vino
@@ -42,7 +41,6 @@ Vinagre
 Sal
 
 <h3>Preparación</h3>
-
 Una vez que se ha troceado el cabrito, se pone en un recipiente con vino y sal y se deja reposar durante una hora, más o menos.
 
 Después se fríe y se va poniendo en un caldero. Con el mismo aceite de la carne, freímos los ajos, el pan y las almendras. Luego majamos estos ingredientes con una cucharada de cominos y 7 u 8 pimientas negras.

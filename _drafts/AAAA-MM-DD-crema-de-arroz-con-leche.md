@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1,5 lt. de leche
 
 150 gr. de arroz
@@ -44,6 +43,5 @@ Cuatro cucharadas de azúcar
 Corteza de limón, canela en polvo y en rama
 
 <h3>Preparación</h3>
-
 Hervir la leche con el arroz, el azúcar, una ramita de canela y la corteza del limón. Cocer removiendo unos veinte minutos. Retirar la corteza y la canela. Añadir la gelatina escurrida y remover hasta que se disuelva. Pasarla a un cuenco y dejar enfriar. Mezclar el arroz con la nata líquida e incorporar las claras previamente batidas a punto de nieve con azúcar. Preparar en un molde una capa o fondo de bizcocho y rellenarlo con la mezcla de arroz y nata. Dejarlo enfriar en el frigorífico un cuarto de hora. Sacar y desmoldar. Espolvorearle canela molida y servir frío.
 

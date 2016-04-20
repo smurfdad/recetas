@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 tomates medianos
 
 6 cucharadas de arroz
@@ -28,7 +27,6 @@ un poco de pimienta negra molida
 2 ajos en trozos
 
 <h3>Preparación</h3>
-
 Cortar la parte superior de los tomates, como si fuera un casquete.
 
 Vaciarlos de su interior, que se colocarán en un bol.

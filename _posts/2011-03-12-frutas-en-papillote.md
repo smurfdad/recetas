@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 manzanas.
 
 2 melocotones.
@@ -25,7 +24,6 @@ Zumo de medio limón.
 3 cucharadas ron.
 
 <h3>Preparación</h3>
-
 Lavamos las manzanas, pelamos, cortamos por la mitad en sentido longitudinal y les quitamos el corazón y las semillas. Embadurnamos las manzanas con el zumo de limón para que no se oxiden y oscurezcan.
 
 Pelamos los melocotones, quitamos el hueso y cortamos en rodajitas.

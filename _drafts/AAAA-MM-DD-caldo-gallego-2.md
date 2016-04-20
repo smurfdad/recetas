@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Un puñado de alubias blancas
 
 un hueso de jamón
@@ -34,7 +33,6 @@ medio kilo de grelos
 sal
 
 <h3>Preparación</h3>
-
 La víspera se ponen en remojo las alubias.
 
 Se ponen a cocer a fuego lento las alubias, bien cubiertas de agua.

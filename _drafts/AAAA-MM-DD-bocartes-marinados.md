@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kgr de bocartes
 
 500 cc de vinagre
@@ -38,6 +37,5 @@ Ajo
 Perejil
 
 <h3>Preparación</h3>
-
 Se limpian los bocartes de cabeza y tripa y se ponen a macerar durante 2 horas en una solución hecha con el vinagre, el agua y la sal. Una vez marinados se filetean, recortando las espinas y quitándoles la piel y se disponen en capas, aliñándolos con ajo picado al gusto y perejil. Se cubren con aceite de oliva.
 

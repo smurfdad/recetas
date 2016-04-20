@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 un pollo de kilo y medio
 
 sal
@@ -31,7 +30,6 @@ harina
 consomé
 
 <h3>Preparación</h3>
-
 Cortar el pollo en trozos y sazonar con sal.
 
 Poner una cazuela con aceite y freír bien el pollo.

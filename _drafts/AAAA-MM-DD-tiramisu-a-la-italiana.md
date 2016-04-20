@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200grs. de queso philadephia
 
 2 cucharadas de brandy de jerez
@@ -40,7 +39,6 @@ Para 4 personas.
 Canela o cacao en polvo
 
 <h3>Preparación</h3>
-
 Montar las claras de huevo, que queden a punto de nieve. Montar por separado la nata líquida hasta que nos quede dura. Mezclar el azúcar con el queso.
 
 Realizados los 3 pasos anteriores, mezclarlos en el mismo bol o recipiente. Bañamos en el café previamente preparado y frío, los bizcochos que colocaremos en el recipiente definitivo, junto con el brandy. Pondremos una tanda de bizcochos y otra de la mezcla de nata, azúcar y claras... sucesivamente.

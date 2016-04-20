@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 truchas
 
 12 lonchas de jamón serrano
@@ -36,7 +35,6 @@ harina
 sal
 
 <h3>Preparación</h3>
-
 Con la ayuda de unas tijeras eviscerar las truchas para después retirar las aletas y agallas.
 
 Pasar las truchas por el chorro de agua fría para después secarlas bien con el trapo.

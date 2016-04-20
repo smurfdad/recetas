@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Aceite de oliva 50 cc
 
 Azúcar 25 g
@@ -50,7 +49,6 @@ Zanahorias 2 Unidades
 Pan de campo 1
 
 <h3>Preparación</h3>
-
 Troce los conejos y pase las piezas por harina.
 
 Pele las papas, las zanahorias y corte en cubos.

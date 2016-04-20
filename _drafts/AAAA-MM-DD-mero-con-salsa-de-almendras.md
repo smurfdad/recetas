@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de pez mero
 
 4 tomates medianos frescos
@@ -47,7 +46,6 @@ Perejil picado
 Sal a gusto
 
 <h3>Preparación</h3>
-
 Sazonar convenientemente el pescado y colocarlo en una fuente de horno con un poco de aceite de oliva y colocarle encima el vino blanco y cocinar a horno moderado durante 12 minutos.
 
 Colocar en una sartén de teflón un chorro de aceite de oliva con un poco de manteca y freír allí la cebolla picada cuando comienza a dorarse la cebolla agregarle los tomates picados, pelados sin semillas, luego agregarle las almendras picadas y dos cucharadas de pimentón dulce.

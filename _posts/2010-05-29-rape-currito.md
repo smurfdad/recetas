@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de rape
 
 8 almejas
@@ -35,7 +34,6 @@ sal
 1 chorrito de jerez seco agua
 
 <h3>Preparación</h3>
-
 Cocer los espárragos y reservar el agua. Una vez limpio el rape, se corta en rodajas si es pequeño o se toman los lomos si es grande.
 
 En una cazuela de barro con aceite y los ajos, puesto al fuego vivo de plancha, se echa la harina y el agua de cocer los espárragos. Se añaden las almejas y las gambas enteras, punto de sal y un chorrito de jerez seco. Se muevo la cazuela con cierta regularidad, hasta que se vaya espesando la salsa.

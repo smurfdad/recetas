@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 1 lata pequeña de melocotones
@@ -21,7 +20,6 @@ Para 8 personas.
 125 grs. de harina
 
 <h3>Preparación</h3>
-
 En un bol se echan 4 huevos y el azúcar.
 
 Se baten a punto de relieve.(Que al coger una porción con la cuchara y dejarla caer, se forme como un cordón en la masa).

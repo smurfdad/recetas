@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de Espinacas
 
 1 Huevo
@@ -42,6 +41,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Poner a hervir con sal las espinacas. Poner en una sartén aceite y freir los dientes de ajos partidos al medio (4). Cuando ya están un poco fritos los dientes, poner a freir 3 hojas de Laurel, que no se quemen. Después de fritos, majarlo todo en el mortero con sal. Poner en ese aceite las espinacas, freirlas. Cuando estén fritas, echarle el pan rallado, moverlo todo hasta que se fría el pan. Echarle el pimentón colorado, freirlo un poco, echarle el majado con agua (1 mortero). Cuando hierva echarle un poco de vinagre. Echarle un huevo y revolver un poco. Cuando se vea que está hecho retirar del fuego &iexcl;&iexcl; y listo para servir &iexcl;&iexcl; .
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 k de atún en una rodaja
 
 200 g de bacón en lonchas de 1/2 cm
@@ -50,6 +49,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Calentar la mitad del aceite en una sartén y dorar el atún por los dos lados. Calentar el aceite restante en una cazuela y rehogar el bacón cortado en dados, las cebollas y los ajos picados, los tomates pelados y troceados, el atún y el laurel y el tomillo desmigados. Mojar con el vino blanco. Tapar la cazuela, cocer a fuego medio durante 20 minutos. Retirar el atún de la cazuela, reservar al calor y continuar la cocción hasta que el líquido de la cocción se haya reducido a la mitad. Agregar la mantequilla mezclada con las anchoas trituradas y batir con las varillas. Incorporar el atún a la salsa, calentar unos minutos y servir.
 

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Para el bizcocho:
 
 150 gr. harina.
@@ -59,7 +58,6 @@ piel rallada de dos naranjas.
 65 gr. de almendras troceadas.
 
 <h3>Preparación</h3>
-
 Para el bizcocho:
 
 Poner en la batidora los huevos y el azúcar y batir hasta ponerlos blancos y espumosos. Tamizar las harinas, la levadura y el cacao e incorporarlos. Cocer en molde redondo de 26/28 cm. a 170 grados durante 40 minutos.

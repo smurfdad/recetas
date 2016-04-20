@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 calamares, 250 gr.
 
 cebolla, 1
@@ -47,6 +46,5 @@ jerez, 1 copita
 caldo de ave, un poco
 
 <h3>Preparación</h3>
-
 Se limpian bien los calamares, sacando el esófago, las pieles y apartando las cabezas. Se dejan escurrir bien. En una sartén se rehoga ligeramente el jamón. Seguidamente se hace un rollito con el relleno elegido y se mete en el interior de cada calamar. Se tapa con la cabeza atravesando un palillo para que no se salga el relleno. En una cazuela aparte con aceite de oliva, se sofríen las verduras. Cuando estén bien salteadas, se le añaden los calamares, que deberán quedar cubiertos con dicho refrito. Se les da un toque de Sherry y se dejan al fuego, cubiertos, durante 10 minutos aproximadamente.
 

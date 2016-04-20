@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 calabacines gruesos (1/2 k aproximadamente)
 
 400 g de cebolla picada
@@ -42,6 +41,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Partir los calabacines en dos y abrirlos por la mitad a lo largo. Cocerlos en agua hirviendo con sal durante 10 minutos. Retirar la carne de los calabacines si que se rompa la piel. Rehogar la cebolla en 1 dl de aceite caliente, sin que coja color, agregar la carne de los calabacines picada y el jamón. Salpimentar. Rellenar los calabacines, repartir el pan rallado y el queso. Rociar con aceite y meter en el horno precalentado a 180 grados durante 10 minutos. Encender el grill del horno y gratinar los calabacines durante 5 minutos. Servirlos muy calientes.
 

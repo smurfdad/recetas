@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gramos de bacalao limpio y desalado.
 
 300 gramos de patatas peladas y cortadas en rodajas delgadas.
@@ -45,6 +44,5 @@ Vinagre de Pedro Ximénez.
 1 naranja.
 
 <h3>Preparación</h3>
-
 Freímos las patatas lentamente para que queden tiernas, las escurrimos y ponemos como base. Cubrimos con una capa de salmorejo y, encima, colocamos el bacalao cortado en láminas. Adornamos con ruedas de naranja. Espolvoreamos con eneldo y cebolleta picada. Hacemos una salsa vinagreta con ocho cucharadas de aceite, una de vinagre y picadillo de puerro y cebollino. Regamos la ensalada y servimos.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 6 Ud. albóndigas (por persona)
 
 2 Ud. cebolla
@@ -55,6 +54,5 @@ aceite de oliva
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Macerar durante 24 horas una de las cebollas, los dientes de ajo y las zanahorias, todo picado junto con la salsa de tomate, la salsa de soja, el concentrado de carne, el vino tinto, el laurel, las hierbas aromáticas y la pimienta. Freír, en aceite de oliva, a fuego lento, una de las cebollas, el champiñón, las zanahorias, los ajos de la maceración y la panceta, todo picado. Añadir las albóndigas fritas, los guisantes y el caldo de la maceración colado. Cubrir con agua, sazonar y dejar cocer durante 1 hora a fuego lento. Dejar reposar al menos 8 horas y servir acompañado de patatas fritas en dados.
 

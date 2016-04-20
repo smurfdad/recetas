@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 berza
 
 1 kg. de rabo de buey
@@ -48,6 +47,5 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Salpimentar el rabo, rehogarlo en el aceite y añadir la verdura, el coñac y el vino tinto. Dejar reducir y cubrir con consomé o agua. Dejar hacer hasta que el rabo esté blando. Desmigar el rabo. Pochar un poco de cebolla, añadir las setas y, una vez hechas, añadir la carne del rabo. Previamente habremos pasado la salsa por un pasapuré. Añadir un par de cazos de la salsa y dejar hervir durante 3 minutos aproximadamente.
 

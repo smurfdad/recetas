@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 caja de canelones
 
 1 lata grande de bonito en aceite
@@ -22,7 +21,6 @@ Para 6 personas.
 1/2 kg. salsa bechamel ligera(que no esté espesa)
 
 <h3>Preparación</h3>
-
 Se cuecen los canelones como indica el paquete.
 
 Se escurren y se meten en un recipiente con abundante agua fría para que no se peguen unos a otros.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de huesos y carne de ternera
 
 1 cebolla
@@ -34,7 +33,6 @@ categories:
 2 litros de agua
 
 <h3>Preparación</h3>
-
 Picar finas las verduras y ponerlas en una placa de horno junto con la carne y los huesos, metiendo todo al horno.
 
 Cuando estén los huesos tostados, pasarlos junto con las verduras a una marmita.

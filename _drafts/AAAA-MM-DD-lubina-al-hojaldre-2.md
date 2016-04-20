@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 g. de gambas peladas
 
 500 g. de champiñones
@@ -39,7 +38,6 @@ Para 4 personas.
 1 huevo batido
 
 <h3>Preparación</h3>
-
 Rehogar las gambas y champiñones con aceite, añadir un poco de leche o fumet
 
 de pescado, cocer un poco para que espese.

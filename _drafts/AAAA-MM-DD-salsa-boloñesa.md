@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de carne picada
 
 2 cebollas
@@ -36,7 +35,6 @@ aceite
 1/2 litro de salsa de tomate
 
 <h3>Preparación</h3>
-
 Picar las verduras finas y ponerlas a rehogar con un poco de aceite.
 
 Cuando estén echas, agregar la carne, sazonarla con sal, dejándola que se haga bien.

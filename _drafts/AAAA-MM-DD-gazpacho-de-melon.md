@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Melón rocío de miel 1 kg
 
 Pepino 1
@@ -42,7 +41,6 @@ Cebolla morada 1
 Ciboulette a gusto
 
 <h3>Preparación</h3>
-
 Abra el melón por la mitad, retire las semillas, pélelo y corte la pulpa en trozos. Colóquela en la licuadora junto con 1/2 pepino y 1/2 pimiento verde, pelados y sin semillas, cortados en trozos. Incorpore
 
 el vinagre, el aceite de oliva, y licue.

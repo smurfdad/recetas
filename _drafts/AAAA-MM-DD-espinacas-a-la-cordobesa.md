@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de espinacas
 
 4 dientes de ajo
@@ -42,7 +41,6 @@ agua
 sal
 
 <h3>Preparación</h3>
-
 Poner una cazuela con agua y un poco de sal.
 
 Cuando rompa a hervir, echar las espinacas ya limpias y dejarlas cocer.

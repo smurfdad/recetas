@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de rape en un trozo
 
 4 ó 5 cebollas
@@ -23,7 +22,6 @@ Para 6 personas.
 un buen chorro de vino blanco
 
 <h3>Preparación</h3>
-
 Poner en una cazuela a cocer lo verde de los puerros y sal con el agua suficiente para que cubra el rape.
 
 Cuando el puerro esté cocido, añadir el rape y dejar hervir a fuego lento, el tiempo justo para poder quitar el hueso.

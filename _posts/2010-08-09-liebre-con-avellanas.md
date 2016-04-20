@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 liebre en cuartos
 
 50 gr. de avellanas
@@ -43,7 +42,6 @@ ralladura de nuez moscada
 harina
 
 <h3>Preparación</h3>
-
 Se maja parte de las avellanas y se reservan.
 
 En una olla a presión se dora con el aceite la cebolla, los pimientos y los

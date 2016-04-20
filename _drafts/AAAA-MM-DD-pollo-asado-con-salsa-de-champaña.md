@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 de taza de aceite DELEITE.
 
 1 cebolla pequeña cortada lo más finamente posible.
@@ -51,7 +50,6 @@ sal al gusto.
 1 taza de zanahoria(s) celery y cebolla repartida en partes iguales, cortadas en cubos.
 
 <h3>Preparación</h3>
-
 Mezclar bien la mantequilla con el ciboullete y la pimienta. Colocar esta mezcla entre la piel y la carne del pollo y de sobrar un poco, embadurnar la superficie exterior del pollo. Colocar el cuello sobre una bandeja que tenga la mezcla de verduras y el aceite DELEITE. Sobre la bandeja una rejilla que quede separada y sobre esta el pollo.
 
 Llevar la bandeja a un horno que esté a 215&ordm;C por aproximadamente una hora, cuidando de bañar cada cierto tiempo el pollo con los jugos que van quedando en el fondo de la bandeja. Cuando el pollo esté dorado, retirarlo y agregar a la bandeja 1/2 taza de Champaña, desglazar bien raspando todos lo que haya quedado pegado, colar y reservar.

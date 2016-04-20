@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 gr. de mantequilla
 
 250 gr. de harina
@@ -41,7 +40,6 @@ Mantequilla y harina (para untar el molde)
 Azúcar glass
 
 <h3>Preparación</h3>
-
 En un bol, echa la mantequilla blanda y el azúcar. Seguidamente, vete añadiendo los huevos uno a uno mezclando con una batidora de varillas. A continuación, agrega la harina con la levadura y sigue mezclando con ayuda de una espátula. Vierte la masa en un molde untado con mantequilla y espolvoreado con harina. Echar las pasas (previamente maceradas) y las guindas, ambas rebozadas en harina. Repártelas por el cake. Mete el molde al horno caliente a 200 grados durante 10 minutos. Transcurrido este tiempo, baja la temperatura del horno a 175 grados y deja otros 30 minutos aproximadamente. Retira del horno, deja enfriar y desmolda.
 
 Para servir, espolvorea el plum-cake con azúcar glass y trocéalo

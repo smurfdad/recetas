@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 200 grs. de col blanca
 
 200 grs. de lombarda (col morada)
@@ -43,7 +42,6 @@ zumo de manzana
 queso blanco
 
 <h3>Preparación</h3>
-
 Poner la lombarda y la col blanca, cortada en tiras en un cuenco.
 
 Para hacer la salsa, mezclar 2 cucharadas de mahonesa con 2 de zumo de manzana, 2 de queso blanco y 2 cucharaditas de mostaza. Salpimentar.

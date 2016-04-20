@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Pan
 
 salmón ahumado
@@ -30,7 +29,6 @@ salmón ahumado
 huevo cocido
 
 <h3>Preparación</h3>
-
 Se coloca una loncha de salmón sobre el pan y, sobre ésta, una rodaja de huevo cocido.
 
 Finalmente, y como adorno, se ralla huevo por encima.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg lomo cerdo o vacuno
 
 Sal, pimienta
@@ -39,7 +38,6 @@ Sal, pimienta
 Verduras para acompañar
 
 <h3>Preparación</h3>
-
 Limpie el trozo de lomo, retirando telas y grasas, amárrelo con cordel igual que un arrollado, espolvoréelo con sal, pimienta y lleve a horno caliente en fuente aceitada 15 a 20 min. hasta que dore.
 
 Elimínele las amarras, corte en tajadas de 2 cm, sin llegar a separarlas y coloque, entre cada una, una tajada de tocino y otra de piña. Luego amarre a lo largo y lleve a horno regular hasta su completa cocción (15 min. aprox.), bañándolo de vez en cuando con el oporto y la tableta de caldo de carne Maggi, disuelta en 2 tazas de agua caliente.

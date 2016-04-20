@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 coliflor, 100 gr.
 
 zanahoria, 100 gr.
@@ -39,7 +38,6 @@ jamón ibérico, 20 gr.
 aceite de oliva virgen,
 
 <h3>Preparación</h3>
-
 Cocemos la coliflor en abundante agua, pasándola ligeramente de cocción. Refrescamos y trituramos por un chino y después con la Túrmix hasta que quede muy fina. Rectificamos con sal, pimienta y nuez moscada, damos un pequeño hervor y reservamos.
 
 Verduras y setas: Blanqueamos por separado en abundante agua con sal las verduras y las setas, refrescamos y cortamos en bastoncillos la zanahoria y el calabacín. Si la colmenilla es pequeña la dejamos entera, si no la cortamos bien.

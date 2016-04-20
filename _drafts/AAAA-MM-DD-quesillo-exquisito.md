@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 5 huevos
 
 1 lata grande de leche condensada
@@ -46,6 +45,5 @@ guindas rojas para decorar
 una cucharada de vainilla.
 
 <h3>Preparación</h3>
-
 En una olla realizar el caramelo derritiendo el azúcar y el agua, hasta que tome un fuerte color marrón y reservar. Luego en la licuadora mezclar la lata de leche condensada, los huevos y la leche liquida, 1/2 taza de los duraznos y 1/2 taza de las fresas, agregar el licor y la vainilla, batir por 2 minutos. Esta preparación se agrega al caramelo y se coloca a baño de maria por aprox. 1 hora. Para servir se espera que se enfríe en la nevera por 2 horas o más y se desmolda. Se adorna con la crema de leche batida, las fresas y los duraznos restantes y alrededor del plato las guindas.
 

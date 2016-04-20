@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1/2 taza de arroz
@@ -45,7 +44,6 @@ aceite para freír
 sal a gusto
 
 <h3>Preparación</h3>
-
 Lavar el arroz y mientras escurre, asar los tomates, la cebolla y los dientes de ajo.
 
 A continuación, licuar los tomates, la cebolla y los ajos, verter en una cacerola de barro o un recipiente de cocinar arroz con un poco de aceite y freir durante unos minutos.

@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 20 langostinos.
 
 20 medallones de pulpo cocido.
@@ -41,7 +40,6 @@ Pimentón dulce y picante.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Pelamos los langostinos.
 
 Troceamos en dados el rape.

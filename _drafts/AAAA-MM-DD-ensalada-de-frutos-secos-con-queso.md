@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga
 
 1 achicoria roja
@@ -49,7 +48,6 @@ Vinagre
 Pimienta y sal
 
 <h3>Preparación</h3>
-
 Se lava la lechuga y la achicoria y se cortan en juliana.
 
 Se pelan las almendras y las avellanas y se pican ligeramente en un mortero junto con las nueces. Se le añade a la pasta resultante el aceite, el vinagre, la sal y la pimienta y se mezcla todo.

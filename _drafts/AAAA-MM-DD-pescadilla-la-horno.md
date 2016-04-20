@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una bolsa de filetes de pescadilla congelada de 500 gr. aproximadamente.
 
 Una cebolla
@@ -34,7 +33,6 @@ perejil
 vino blanco
 
 <h3>Preparación</h3>
-
 Se saca del congelador la pescadilla con tiempo suficiente para su descongelación. Facilitará esta labor el rociarla con el zumo de un limón.
 
 Se pica finamente cebolla y ajo sobre una fuente de horno, sazonándolo con sal y añadiendo tres cucharadas de aceite.

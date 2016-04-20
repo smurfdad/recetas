@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rebanadas de pan de barra
 
 4 anchoas
@@ -38,7 +37,6 @@ clara de huevo rallada
 aceitunas verdes sin hueso
 
 <h3>Preparación</h3>
-
 Salsa rosa: Se hace con una mahonesa añadiendo tomate ketchup, una cucharadita de mostaza, gotas de salsa Perrins, un chorrito de coñac y unas gotas de Tabasco.
 
 Elaboración del pintxo: Se tuesta el pan, se le unta una capa de salsa rosa, una tira a cada lado de pimiento rojo y verde, la anchoa encima, el huevo rallado y la aceituna.

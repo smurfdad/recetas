@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de cerezas grandes y maduras.
 
 1 copa de Kirsch (licor de cerezas).
@@ -18,7 +17,6 @@ Para 4 personas.
 200 gramos de azúcar moreno.
 
 <h3>Preparación</h3>
-
 Deshuesamos las cerezas.
 
 Mezclamos las cerezas y el azúcar moreno en una cazuela y cubrimos de agua.

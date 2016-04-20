@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de pechuga de pavo
 
 1 l. de caldo de ave
@@ -57,7 +56,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se pone a hervir el caldo de ave, bien sazonado de sal y pimienta, con una hoja de laurel y una rama de romero. Se meten ahí las pechugas de pavo y se tienen hirviendo a fuego suave, durante 15 minutos, con tapadera.
 
 Una vez transcurridos los 15 minutos, se retira la cazuela del fuego y se deja reposar con las pechugas dentro. Se cortan las rebanadas de pan en dados. Se meten al horno caliente y se tienen ahí hasta que estén dorados y duros.

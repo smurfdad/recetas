@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1  patata  grande.
 
 1  puerro.
@@ -44,7 +43,6 @@ Para 2 personas.
 sal.
 
 <h3>Preparación</h3>
-
 Cortar la patata en cuadrados, el puerro en rodajas y  la coliflor en trocitos.
 
 Poned la olla a fuego suave y con el aceite rehogar las patatas, el puerro y  la coliflor sin dejar que tomen color.

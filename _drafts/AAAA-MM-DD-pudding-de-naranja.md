@@ -23,7 +23,6 @@ Para 3 personas.
 <b>Tiempo</b> 24 minutos.
 
 <h3>Ingredientes</h3>
-
 3 medias noches
 
 1 vaso de agua
@@ -37,6 +36,5 @@ ralladura de naranja
 piñones
 
 <h3>Preparación</h3>
-
 Se disuelve el agua templada con la leche condensada y se mezcla conlas medias noches desmigadas, a continuacion se mezclan los huevos batidos la ralladura de naranja y los piñones, en un molde para microondas se echa caramelo líquido y a continuación la mezcla preparada, se pone en el microondas 15 minutos. Se sirve frio.
 

@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 Cola de langosta cocida
 
 brotes de soja
@@ -43,6 +42,5 @@ limón
 pan
 
 <h3>Preparación</h3>
-
 Filetear la cola de langosta. Preparar una ensalada con los ingredientes señalados. Colocar, en una rebanada, de pan dos filetes de langosta y, sobre ellos, la ensalada. Decorar al gusto
 

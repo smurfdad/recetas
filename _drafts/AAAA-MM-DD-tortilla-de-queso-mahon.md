@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 2 Huevos
 
 50 gr. de Queso Mahón curado
@@ -30,6 +29,5 @@ Para 1 personas.
 Aceite
 
 <h3>Preparación</h3>
-
 Batir los huevos y rallar el queso. Mezclarlo, echar una pizca de sal y preparar la tortilla. Debido a que el Queso Mahón curado tiene un sabor muy fuerte, no se le ha de poner mucha sal.
 

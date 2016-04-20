@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de angulas o gulas
 
 4 Dientes de ajo
@@ -34,6 +33,5 @@ Para 6 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Sazonamos las gulas y ponemos el aceite en una cazuela de barro y cuando esté muy caliente agregamos los ajos fileteados. Cuando empiecen a dorarse, añadimos la guindilla y las angulas/gulas. Damos una vueltas con una cuchara de madera y retiramos cuando el aceite hierva de nuevo.
 

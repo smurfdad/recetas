@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Cebollas: 500 g.
 
 Harina.
@@ -41,7 +40,6 @@ Caldo: una pastilla.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Calentar 1 litro de agua en un cazo. Disolver allí la pastilla de caldo.
 
 Pelar y lavar las cebollas. Cortar en rodajas. Separar en aros.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de manzanas.
 
 100 gramos de harina.
@@ -44,7 +43,6 @@ Para 4 personas.
 Azúcar par el dorado.
 
 <h3>Preparación</h3>
-
 Precalentamos el horno a 180&ordm;.
 
 Pelamos el kilo de manzanas y las descorazonamos, las ponemos en una cazuela al fuego con un vaso de agua hasta que se forme una compota.

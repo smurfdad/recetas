@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de carne picada
 
 1 cebolla picada fino
@@ -37,10 +36,8 @@ Pimienta y especias
 Zumo de 1/2 limón
 
 <h3>Preparación</h3>
-
 Mezclar los ingredientes. Moldear en forma de albóndigas y colocar un colador. Poner agua en un recipiente hasta la mitad, y colocar el colador encima, tapar bien. Calentar el agua hasta que cuece bien la carne. Adornar con perejil y servir caliente.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

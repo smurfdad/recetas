@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de ñoquis de sémola
 
 250 g de salsa blanca
@@ -44,7 +43,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Preparar los ñoquis de sémola, y la salsa blanca como se indica. Aparte en una sartén, rehogar en aceite de oliva la cebolla, la zanahoria, y el apio, agregar el jamón, salpimentar y añadir la salsa blanca revolver apagar el fuego y espolvorear con perejil picado.
 
 Disponer los ñoquis sobre una fuente enmantecada uno al lado del otro en filas paralelas, bañarlos con la salsa y el queso gruyere rallado y gratinar en el horno 8 minutos.

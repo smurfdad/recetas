@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250g de arroz
 
 2 atados de espinacas limpias y lavadas sin los tallos
@@ -43,7 +42,6 @@ Para 4 personas.
 Sal, pimienta y nuez moscada
 
 <h3>Preparación</h3>
-
 En una sartén colocar 25g de manteca y dos cucharadas de aceite cuando esté caliente colocar las hojas de espinacas y cuando estén blandas y cocidas retirar del fuego reservar y dejar enfriar.
 
 Mientras tanto en una olla de teflón colocar 100g de manteca rehogar la cebolla, el puerro y el arroz, a fuego muy bajo cuando este transparente el arroz echar los 50g de fécula revolviendo constantemente con cuchara de madera e ir agregando despacito la leche, continuar revolviendo constantemente hasta que rompa el hervor, apagar el fuego condimentar con la sal, la pimienta la nuez moscada y el queso rallado, revolver bien y dejar tapado.

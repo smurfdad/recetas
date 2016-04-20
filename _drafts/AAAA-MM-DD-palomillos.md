@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de magro
 
 250 gr. de tocino
@@ -44,7 +43,6 @@ clavo
 un poco de vinagre
 
 <h3>Preparación</h3>
-
 Se pica toda la carne. Los ajos se machacan en un mortero con una cucharada de vinagre, mezclándose con la carne picada y agregándose las especias y la sal.
 
 Con esta masa se forman unas bolas que envolvemos con el telo y atamos con un hilo para poderlos colgar y dejar secar, aproximadamente durante tres días. Cuando ya lo están, se asan a la brasa.

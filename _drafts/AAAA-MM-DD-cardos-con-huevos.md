@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 cardo mediano
 
 4 dientes de ajo
@@ -38,7 +37,6 @@ pimienta
 cominos
 
 <h3>Preparación</h3>
-
 Se limpia el cardo raspando los tallos y retirando todo lo verde.
 
 Se parte en trozos y se pone a cocer con agua y sal y un poco de limón para que se blanquee. Aparte, en una sartén con aceite, se fríe el pan y dos dientes de ajo.

@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata y media de pimientos del piquillo
 
 250 grs. chatka (sirven también palitos de surimi)
@@ -28,7 +27,6 @@ Para 6 personas.
 250 grs. nata líquida
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla, zanahoria, puerro y ajo picados, en aceite de oliva.
 
 Reservar 1/4 del conjunto cuando empiece a dorarse.

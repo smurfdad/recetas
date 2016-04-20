@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 rebanadas de pan de molde sin corteza.
 
 1 palito de cangrejo.
@@ -35,7 +34,6 @@ Para 4 personas.
 8 colas de gambas
 
 <h3>Preparación</h3>
-
 Cocemos en agua con sal durante 5 minutos las colas de gambas y las pelamos. Picamos muy finas las verduras y el cangrejo y mezclamos con mayonesa.
 
 Cortamos las rebanadas de pan por la mitad y a su vez por la mitad otra vez y cubrimos con la ensaladilla.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de judías verdes.
 
 8 espárragos gordos cocidos.
@@ -32,7 +31,6 @@ Para 6 personas.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos las judías las troceamos y las cocemos en agua con sal. Abrimos por la mitad los espárragos cocidos y los doramos en una plancha o en una sartén, con un poco de aceite. Colocamos los espárragos en los platos y encima ponemos las judías calientes y bien escurridas.
 
 Vertemos sobre el conjunto un sofrito de ajo y aceite y servimos.

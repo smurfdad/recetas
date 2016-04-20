@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 kilos de cardo
 
 1 cebolla
@@ -27,7 +26,6 @@ aceite
 100 gr almendra molida
 
 <h3>Preparación</h3>
-
 Poner una cazuela al fuego con agua, sal y una cucharada de harina.
 
 Cuando rompa a hervir echar el cardo y dejar que se cueza.

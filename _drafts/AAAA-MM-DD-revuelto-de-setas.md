@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs. de Pleurotus
 
 5 huevos
@@ -34,6 +33,5 @@ Aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Dorar los ajos en un poco de aceite y retirarlos una vez dorados. En ese mismo aceite, saltear las setas troceadas con un poco de sal hasta que estén tiernas. Escurrir, si es necesario, el exceso de aceite e incorporar los huevos batidos, cuajando el revuelto al gusto.
 

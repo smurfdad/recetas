@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 pato, 2 tiernos
 
 naranjas, 4
@@ -59,6 +58,5 @@ pimienta,
 consomé, o caldo de ave, 250 ml.
 
 <h3>Preparación</h3>
-
 En una placa de asar ponemos los patos con la grasa de cerdo y las legumbres. Al estar dorados se echa el caldo y se tapa para que no se quede seco. Una vez asados se retiran y se deshuesan. Para preparar la salsa se pone en un cazo el zumo y el azúcar y e hace un caramelo, se añaden las mondas y se dejan cocer, se le pone el Cointreau y la salsa, dejándola hervir un poco. Se pelan las naranjas y se separan los gajos para la guarnición. En una fuente honda se ponen las cuatros pechugas y los cuatro muslos, se ponen los gajos por encima y la salsa, se mete al horno unos minutos y listo para servir.
 

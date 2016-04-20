@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 grs de solomillo de cerdo
 
 1 cda de harina de maíz mezclada con 1 1/2 cdas de agua
@@ -46,7 +45,6 @@ sal
 2 cdas de vinagre de arroz blanco
 
 <h3>Preparación</h3>
-
 Lave la carne, séquela y córtela en trozos de unos 1,5 por 1 cm
 
 En un cuenco, bata bien la harina de maíz, la sal y el huevo. Meta la carne y rebócela.

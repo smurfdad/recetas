@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de atún en aceite
 
 2 huevos
@@ -43,7 +42,6 @@ sal
 perejil picado
 
 <h3>Preparación</h3>
-
 Separar yemas y claras. En un cuenco se baten las yemas y en otro, se montan las claras a punto de nieve. En este momento, se añade a las yemas batidas la maizena y sin dejar de batir, las claras. Colocamos esta pasta en un molde rectangular untado de mantequilla y forrado con papel de aluminio y lo introducimos a horno medio durante 25 minutos.
 
 Mientras tanto, mezclamos el resto de los ingredientes: el atún, el queso fresco, el perejil, la cebolla, la mahonesa y el limón. Cuando la pasta horneada esté fría, la cubriremos con este relleno. Después, la enrollaremos sobre sí misma, desechando el papel de aluminio.

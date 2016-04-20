@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia a las finas hierbas
 
 300 gr. de salmón en lonchas finas
@@ -46,7 +45,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Batir los huevos, el queso, la leche, la nata y reservar. Engrasar 6 moldes pequeños y poner sobre ellos una capa de patatas, eneldo, sal, pimienta, cebolla y una rodaja de salmón y repitir la operación hasta terminar con patatas.
 
 Verter la mezcla de huevos y queso y hornear a 210&ordm; hasta dorar. Dejar reposar 5 min.

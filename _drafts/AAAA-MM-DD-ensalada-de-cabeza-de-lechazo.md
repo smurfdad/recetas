@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cabezas de lechazo
 
 2 tomates
@@ -55,7 +54,6 @@ aceite de oliva
 mahonesa
 
 <h3>Preparación</h3>
-
 Deshuesar las cabezas de lechazo, recuperando los sesos, las lenguas y las carrilladas. Cocer en un caldo corto de verduras las lenguas (90 mn) y las carrilladas (30 mn).
 
 Escaldar los sesos en agua con sal, vinagre, el ramillete de hierbas y el zumo de limón. Hervir en agua con sal las espinacas y envolver en cada una medio seso. Hacer ocho trozos de pasta Brick y envolver los rollitos de sesos y espinacas. Hervir la cáscara de naranja cortada en daditos. Escaldar el tomate, pelar y quitar las pepitas.

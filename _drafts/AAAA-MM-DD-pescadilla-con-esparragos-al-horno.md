@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 800 gramos de pescadilla (colas).
 
 8 espárragos blancos cocidos.
@@ -47,6 +46,5 @@ Medio tomate.
 Medio limón.
 
 <h3>Preparación</h3>
-
 Las colas de pescadilla se limpian, se les quita la espina y se parten por la mitad. Se sazonan y se colocan en una placa del horno. Encima del pescado se pone el tomate, cortados en lonchas finas, y sobre este, los espárragos abiertos por la mitad, si son gruesos. Luego se añade el aceite, el zumo de limón y el vaso de caldo, espolvoreando por encima con queso rallado. Se mete la pescadilla en el horno, durante diez minutos aproximadamente -dependiendo del grosor de las piezasa 180 grados. Cuando la pescadilla este hecha, se liga el caldo, calentándolo en una sartén, espolvoreando con perejil picado. Con esta salsa se cubre la pescadilla. Se decora con el tomate y el limón.
 

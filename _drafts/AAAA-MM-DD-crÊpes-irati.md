@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Langostinos
 
 setas
@@ -34,6 +33,5 @@ Maizena
 sal
 
 <h3>Preparación</h3>
-
 Se hacen los cr&ecirc;pes batiendo un huevo con harina leche y sal. Se echa a una sartén con un poco de mantequilla y se hacen como una torta. Por otro lado se rehogan los langostinos y las setas, junto con los ajos. Cuando estén hechos se rellenan los cr&ecirc;pes enrollándolos listos para servir calientes.
 

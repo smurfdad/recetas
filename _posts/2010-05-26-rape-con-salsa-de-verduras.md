@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de rape sin espina, en rodajas.
 
 2 cebollas
@@ -25,7 +24,6 @@ un chorrito de vino blanco
 aceite de oliva, sal
 
 <h3>Preparación</h3>
-
 Echar sal, pasar por harina y freír en aceite no muy caliente cada rodaja de rape.
 
 Colocar en una cazuela de barro o similar.

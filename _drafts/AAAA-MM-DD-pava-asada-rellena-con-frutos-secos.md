@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pava de 3,5 kg.
 
 1 kg. de coles de Bruselas
@@ -80,7 +79,6 @@ pasta choux preparada con:
 4 huevos
 
 <h3>Preparación</h3>
-
 Una vez que la pava está vacía de interiores, se le quitan el cuello y las alas, y se reservan. También se reserva el hígado, después de haberle quitado la hiel. Se deshuesa la pava, empezando por la espalda, y, una vez deshuesada, se aligera de carne, que se incorporará al relleno.
 
 Para preparar el relleno

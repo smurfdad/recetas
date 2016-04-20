@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia
 
 500 gr. de cerezas deshuesadas
@@ -36,7 +35,6 @@ Para 4 personas.
 Limón
 
 <h3>Preparación</h3>
-
 En un cazo poner un vasito de agua, la mitad del azúcar, las cerezas y cocer 5 min. Escurrir y dejar enfriar.
 
 Mezclar el resto del azúcar, la leche y la fruta confitada picada menudita.

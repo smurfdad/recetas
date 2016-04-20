@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de faisán
 
 1 cebolla
@@ -42,6 +41,5 @@ Para 4 personas.
 Pimienta molida y sal
 
 <h3>Preparación</h3>
-
 Cocer todos los ingredientes, excepto los huevos y el brandy, hasta que la carne esté tierna. Pasar todo por la batidora, junto con los huevos y el brandy. Engrasar un molde con aceite de oliva y verter la pasta anterior, tapar y meter al horno unos 45 minutos. Sacar y dejar enfriar unas dos horas. Desmoldar y servir acompañado de pan, para untar.
 

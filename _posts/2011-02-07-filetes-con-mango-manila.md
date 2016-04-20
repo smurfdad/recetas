@@ -12,7 +12,6 @@ Para 6 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 6 filetes de pescado de tu preferencia
 
 3 mangos manila grandes
@@ -24,7 +23,6 @@ Para 6 personas.
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Unta los filetes con aceite por ambos lados, sazónalos con sal y pimienta.
 
 Pela y rebana los mangos, ponlos en un recipiente, añade los filetes, bañalos con el vino y deja marinar 15 minutos.

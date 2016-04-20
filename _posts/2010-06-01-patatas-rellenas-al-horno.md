@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 8 ó 10 patatas
 
 100 gr. de jamón
@@ -21,7 +20,6 @@ Para 6 personas.
 leche
 
 <h3>Preparación</h3>
-
 Se limpian bien las patatas frotándolas con un cepillo debajo del grifo Se meten en el horno y se asan, hasta que estén tiernas
 
 Mientras se asan, se pica el jamón (o bacon) y se mezcla con el queso, rallado, o cortado a cuadraditos Cuando las patatas están asadas, se les quita una boina y se vacían, con cuidado de que nos e rompan Se les pone una nuez de mantequilla en el fondo

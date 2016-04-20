@@ -11,7 +11,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas grandes cocidas en rodajas (en la olla rápida,7 minutos)
 
 2 zanahorias grandes cocidas (en la olla rápida, 7 minutos)
@@ -27,7 +26,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Colocar en el fondo de una fuente de horno profunda las rodajas de patata espolvoreadas con sal. Repartir la tercera parte de la mantequilla en trocitos.
 
 Encima, las zanahorias en rodajas, también con sal y la tercera parte de la mantequilla en trocitos.

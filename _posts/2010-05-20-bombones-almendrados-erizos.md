@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de cobertura de chocolate o sucedáneo
 
 250 grs. de avellanas, nueces o almendras troceadas
@@ -17,7 +16,6 @@ Para 6 personas.
 100 grs. de crispis (trigo inflado)
 
 <h3>Preparación</h3>
-
 Deshacer el chocolate al baño maría en fuego suave.
 
 Añadir las avellanas y mezclar bien.

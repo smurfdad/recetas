@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 200 gr. de carne de cangrejo, escurrida y desmenuzada
 
 1/2 taza de queso cheddar desmenuzado
@@ -34,7 +33,6 @@ categories:
 36 sombreros de hongos
 
 <h3>Preparación</h3>
-
 Precalienta el horno a 175 &deg;C (350&deg;F). Mezcla todos los ingredientes excepto los hongos.
 
 Rellena los sombreritos de hongos con la mezcla. Colócalos en una bandeja para hornear.

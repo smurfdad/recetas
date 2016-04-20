@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. almeja
 
 3 diente ajo
@@ -38,7 +37,6 @@ pimienta blanca molida
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Se pone aceite en una cazuela de barro y se echan los ajos, enseguida se fríen y se añade la galleta picada, el perejil, la pimienta y el zumo de naranja.
 
 Se echan las almejas, se refríen, pero no se pone nada de agua, sólo se hacen con el zumo de naranja y el agua que sueltan ellas. Cuando estén abiertas se retiran del fuego y se sirven.

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr pescadilla congelada, ya limpia y sin piel
 
 1 litro y 1/2 de agua
@@ -30,7 +29,6 @@ sal
 nata liquida
 
 <h3>Preparación</h3>
-
 En una cazuela poner el agua, el laurel y las verduras enteras, dejándolas cocer 20 minutos.
 
 Cuando estén cocidas añadir la pescadilla y cocer cinco minutos.

@@ -22,7 +22,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 3 aguacates grandes
 
 150 gr. de almendras crudas peladas
@@ -32,6 +31,5 @@ Para 3 personas.
 6 cucharadas de brandy, ron u otro licor fuerte y aromático.
 
 <h3>Preparación</h3>
-
 Picar las almendras y mezclarlas con el azúcar. Luego cortar los aguacates por la mitad a lo largo y quitar el hueso, rellenar el centro con la mezcla de almendras y azúcar. En el momento de servir, calentar el brandy y prenderlo, volcarlo por encima de los aguacates y presentar ardiendo en la mesa.
 

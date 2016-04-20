@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 g. de champiñones a láminas
 
 1/2 pastilla de caldo de pescado
@@ -55,7 +54,6 @@ Perejil
 Sal
 
 <h3>Preparación</h3>
-
 Rehogar en una sartén con mantequilla, cebolla picada sin dejar que se dore y los ajos. Añadir pimientos, tomates pelados y troceados, champiñones y media pastilla de caldo y hervir 5 minutos.
 
 Pasarlo todo por la batidora junto con la leche y el queso hasta formar una crema. Dar un pequeño hervor y añadir el perejil finamente picado.

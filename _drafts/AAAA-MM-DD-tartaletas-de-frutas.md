@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia
 
 200 gr. de hojaldre
@@ -42,7 +41,6 @@ Para 4 personas.
 Mantequilla
 
 <h3>Preparación</h3>
-
 Cortar el hojaldre en 8 trozos. Colocarlos en una bandeja de horno engrasada y pintar con la clara. Pinchar con un tenedor y hornear a 190&ordm; durante 30 min. y deja enfriar.
 
 Repartir el queso en crema y las frutas. Disolver la gelatina en el zumo de manzana y cocer 1 min. Pintar las tartaletas. Enfriar y servir.

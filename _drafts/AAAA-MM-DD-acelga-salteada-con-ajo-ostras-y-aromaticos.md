@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 8 pencas de acelga
 
 8 ostras
@@ -43,6 +42,5 @@ Estragón
 Perifollo
 
 <h3>Preparación</h3>
-
 Abrir las ostras y desprenderlas de las valvas. Cocer las acelgas, refrescar y saltear con aceite y ajo. Para la salsa, mezclar la soja, el aceite y el vinagre. Envolver las ostras en las pencas de acelga y hornear 2 minutos a 200 grados. Emplatar y servir con un bouquet de aromáticos.
 

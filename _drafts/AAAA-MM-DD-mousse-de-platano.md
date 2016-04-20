@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 plátanos maduros
 
 6 cucharadas de leche condensada
@@ -34,7 +33,6 @@ Zumo de un limón
 Canela o chocolate rallado
 
 <h3>Preparación</h3>
-
 Con una batidora, se mezclan los plátanos, la leche condensada, el limón y las tres yemas de huevo.
 
 Se baten a punto de nieve fuerte las tres claras de huevo, y se mezclan a mano con movimientos envolventes con la mezcla anterior.

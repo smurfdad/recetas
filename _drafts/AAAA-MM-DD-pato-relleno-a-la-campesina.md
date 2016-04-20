@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 pato de 1 Kg.
 
 50 gramos de panceta ahumada
@@ -50,7 +49,6 @@ Aceitunas negras descarozadas
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Lavar con cuidado el pato exterior e interiormente. Salarlo y pincelarlo.
 
 Saltear a fuego vivo la panceta ahumada, junto a la cebolla y el apio picado, la miga de pan, la leche, las hiervas, la sal y la pimienta fresca molida. Unir con el huevo y rellenar con esta preparación el pato.

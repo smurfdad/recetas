@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 pimiento rojo
 
 1 pimiento verde
@@ -44,6 +43,5 @@ Aceite de oliva 0,4&ordm;
 Sal
 
 <h3>Preparación</h3>
-
 Para preparar el pisto se cortan las verduras en dados y se pochan en un fondo de aceite de oliva, primero las más duras (cebollas, pimientos y ajos) y después el calabacín. Una vez listas se añade la hoja de laurel, los tomates pelados y cortados también en dados y la cucharada de pimentón dulce. Se tapa el puchero y se deja cocer durante 20 minutos. Se sirven habitualmente acompañado de huevos fritos.
 

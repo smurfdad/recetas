@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 g de hígado de cordero.
 
 3 cucharadas de mantequilla.
@@ -40,7 +39,6 @@ Harina.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Cortamos el hígado de cordero en filetes de 1 centímetro de grosor.
 
 Pasamos por harina y reservamos 2 cucharadas de harina para más tarde. Ponemos la mantequilla y el aceite a calentar.

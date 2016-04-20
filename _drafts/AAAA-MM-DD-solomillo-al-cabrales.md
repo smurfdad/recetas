@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Solomillo de ternera
 
 Queso de Cabrales
@@ -34,7 +33,6 @@ Sal y pimienta
 Nata
 
 <h3>Preparación</h3>
-
 Se coge el solomillo mas bien grueso y se le echa, sal, pimienta y un poco de aceite. Se deja reposar durante una hora.
 
 Se pasa por la sartén con un poquito de aceite, al gusto de cada persona. Yo generalmente para esta receta lo dejo mas bien poco hecho.

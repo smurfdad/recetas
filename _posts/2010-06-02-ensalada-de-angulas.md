@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga
 
 600 gr angulas
@@ -22,7 +21,6 @@ vinagre de estragón
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Lavar y picar la lechuga en juliana fina.
 
 Picar el ajo muy fino y agregarlo a la lechuga.

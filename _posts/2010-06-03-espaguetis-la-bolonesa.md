@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de espaguetis
 
 200 gr picadillo de ternera
@@ -29,7 +28,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Cocer la pasta por espacio de 10 minutos en abundante agua hirviendo con un poco de aceite y sal.
 
 Una vez cocida la pasta, refrescar debajo del chorro de agua fría hasta su total enfriado.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 redondo de cerdo de l kilo
 
 2 manzanas reinetas hermosas
@@ -46,7 +45,6 @@ Harina
 1/2 vaso de agua
 
 <h3>Preparación</h3>
-
 Salpimentar el redondo y pasarlo por harina . En una olla a presión calentar las tres cucharadas de aceite, echar el redondo y dorarlo.
 
 Una vez que el redondo está bien dorado se saca de la olla y se echa la cebolla y los dos dientes de ajo, luego las dos manzanas que se habrán pelado y añadir el medio vaso de vino blanco mientras se revuelve.

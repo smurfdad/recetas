@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 solomillo de cerdo
 
 100 gr. de azúcar
@@ -42,7 +41,6 @@ Nuez moscada
 1 limón
 
 <h3>Preparación</h3>
-
 Dorar el solomillo a fuego fuerte. Retirar, y pochar una cebolla picada muy fina. Añadir el solomillo salpimentado, un poco de nuez moscada, el vaso de vino y el foie gras. Hacer en la olla unos 20 minutos.
 
 Poner el azúcar disuelto en agua con un chorrito de limón en un recipiente a fuego lento para hacer caramelo, sin que se queme.

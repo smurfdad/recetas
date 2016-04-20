@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 de pollo de la parte de la pechuga
 
 1 hueso de ternera de la pata o rodilla
@@ -47,7 +46,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Limpiar las hortalizas y cortarlas en trozos pequeños, excepto la cebolla.
 
 En una olla poner todos los ingredientes, con unos 2 l. de agua con sal.
@@ -61,6 +59,5 @@ Una vez cocido el caldo, escurrir.
 Se pueden triturar las hortalizas y hacer un puré con el caldo o bien servirlas aparte como segundo plato con la carne.
 
 <h3>Observaciones</h3>
-
 Este caldo puede consumirse sin problemas ya que es bajo en grasa y en colesterol.
 

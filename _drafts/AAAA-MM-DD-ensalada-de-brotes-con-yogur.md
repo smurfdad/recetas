@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 2 tazas de brotes de alfalfa frescos
 
 2 tomates
@@ -39,6 +38,5 @@ categories:
 Sal marina
 
 <h3>Preparación</h3>
-
 Mezclar los brotes de alfalfa con el tomate y el apio picados, añadiendo la albahaca picada. Aplastar el diente de ajo en un mortero, agregar el jugo de limón y el yogur y batir bien.
 

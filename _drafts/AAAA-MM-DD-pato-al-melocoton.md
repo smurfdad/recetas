@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pato
 
 Sal
@@ -44,7 +43,6 @@ Laurel
 1 Tomate maduro
 
 <h3>Preparación</h3>
-
 El pato pelado y limpio se sazona con sal y pimienta y se pone al horno de su cocina eléctrica con un poco de aceite o manteca de cerdo.
 
 Cuando está dorado se añade cebolla, zanahoria, puerro, ajo, tomillo, laurel y un tomate maduro; todo ello cortado en trozos.

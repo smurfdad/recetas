@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 Kilo y medio de pulpo
 
 6 dientes de ajo
@@ -39,11 +38,9 @@ Sal gruesa
 Agua
 
 <h3>Preparación</h3>
-
 El pulpo puede ser congelado, curado o fresco. En los dos primeros casos no es necesario mazarlo, pero si es fresco el secreto de que esté tierno consiste en mazarlo antes de cocerlo. Se pone a hervir abundante agua en una olla a poder ser de cobre o de porcelana (en aluminio no queda tan bien). El pulpo se mete y se saca tres veces para asustarlo, pues así escaldado queda más tierno. Se deja cocer durante dos horas y media o tres. Si no va a servirse en el momento es mejor no retirarlo del agua. Se corta luego en trozos con una tijera y se sazona con sal gruesa, el pimentón picante y el dulce (la cantidad de picante varía según el gusto), los ajos muy picados y el aceite. Todo en crudo. (Para la ajada se doran los ajos, pero en este caso no.) Puede servirse tanto caliente como frío, preferiblemente en platos de madera.
 
 <h3>Observaciones</h3>
-
 El caldo resultante de hervir el pulpo, parece muy fuerte, pero es estupendo para hacer un arroz.
 
 Lo reservas para el día siguiente, y simplemente con hacer un sofrito de cebollitas y ajos, te sale con este caldo un arroz buenísimo.

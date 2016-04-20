@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 2 cucharadas de aceite vegetal de oliva
 
 2 cucharadas de buen vinagre
@@ -41,7 +40,6 @@ Una pizca de mostaza en polvo
 Verduras de ensalada diversas: lechuga, escarola, endivia...
 
 <h3>Preparación</h3>
-
 En un cuenco, mezclar el aceite, el vinagre, el licor, la menta, la sal y la mostaza.
 
 Pelar las peras, quitar el corazón y cortar en rodajas. Agregar al aliño y remover bien pero con cuidado para que no se rompan. Tapar y meter en la nevera hasta el momento de servir.

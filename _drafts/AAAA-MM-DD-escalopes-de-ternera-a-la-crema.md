@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 escalopes de ternera
 
 40 gr. de manteca
@@ -38,7 +37,6 @@ Jugo de limón
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Cortar las escalopes en bastones de más o menos &frac12; centímetro. Salpimentarlos.
 
 Poner la manteca a derretir durante 1 minutos a Potencia 90%. Añadir la ternera y el caldo y cocinarla por 13 minutos a Potencia 90%.

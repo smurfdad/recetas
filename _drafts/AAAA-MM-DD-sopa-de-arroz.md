@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Una pizca de sal
 
 Una pastilla de caldo de carne Starlux
@@ -40,6 +39,5 @@ Un chorrito de aceite de oliva
 Un poco de perejil seco
 
 <h3>Preparación</h3>
-
 Se pone el agua a calentar con el caldo de carne. Cuando esté deshecha la pastilla de caldo de carne, se echa el aceite, el perejil, el ajo previamente frito, el arroz y la sal. Cuando empiece a hervir, se baja el fuego y se deja 20 minutos a fuego lento en un fuego medio. Pasado este tiempo se sirve caliente y el el acto pues si se deja algún tiempo en espera se absorverá el caldo y se quedará la sopa seca.
 

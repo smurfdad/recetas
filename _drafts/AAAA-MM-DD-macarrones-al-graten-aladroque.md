@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. macarrón grueso
 
 2 pastillas para preparar caldo de pollo
@@ -39,6 +38,5 @@ Un chorrito de aceite de oliva
 100 gr. de queso Cadí semiduro Eddam
 
 <h3>Preparación</h3>
-
 Calentar 1,5 litros de agua añadir los cubitos de caldo disueltos y un chorro de aceite de oliva. Cocer los macarrones al punto. Una vez estén hechos escurrir sin echar agua fría encima. Una vez secos mezclar con la bechamel recién hecha y el bote de salsa boloñesa en un recipiente metálico. Rallar el queso Eddam por encima y gratinar hasta que éste se funda.
 

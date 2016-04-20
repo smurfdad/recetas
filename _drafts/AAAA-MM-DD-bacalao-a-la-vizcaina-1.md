@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 8 trozos bacalao cortados 10x7 centímetros
 
 4 dientes de ajo (optativo)
@@ -33,7 +32,6 @@ salsa vizcaina
 1 cucharada Sopera manteca de cerdo o tocino derretido	
 
 <h3>Preparación</h3>
-
 Con 24/36 horas de antelación, pondremos el bacalao a remojo con agua fría, durante el tiempo de remojo cambiaremos al menos 4/6 veces el agua es decir cada 6 horas, cuando cambiemos las aguas lo haremos sacando las tajadas y limpiando bien el recipiente pues si no nos quedaría sal en el fondo y el desalado no seria perfecto. Una vez desalado lo desescamaremos con mucho cuidado de no estropear la piel y lo pondremos en una cazuela con agua fría al fuego hasta que empiece a subir a la superficie una espumilla, momento en que sacaremos las tajadas del agua y les quitaremos las espinas lo máximo posible pero sin desbaratar las tajadas.
 
 (para las espinas finitas puede usarse una pinza de depilar).

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebollas
 
 150 g. de bacon
@@ -40,7 +39,6 @@ mantequilla
 aceite
 
 <h3>Preparación</h3>
-
 Pelar las cebollas y cortarlas en aros finos.
 
 Calentar un poco de aceite en una sartén y dorar las cebollas a fuego lento. Cuando vayan quedando transparentes, echar el bacon cortado en trocitos y dejar hacer un poco más.

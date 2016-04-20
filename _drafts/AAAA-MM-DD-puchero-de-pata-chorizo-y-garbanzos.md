@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 pata de ternera, 4
 
 chorizo, 500 gr.
@@ -55,6 +54,5 @@ agua,
 sal,
 
 <h3>Preparación</h3>
-
 Se limpian las patas, se cortan, se blanquean y se pasan a una olla limpia. Se cubren con agua y se echan: una cebolla, una cabeza de ajo, el puerro y un poquito de sal. Se pone a cocer durante 3 horas a fuego lento. En una tartera, se cuecen los garbanzos con los chorizos. En una sartén se pone aceite y se hace un refrito con ajo, cebolla, tomate, pimentón y la harina. Se refríe y se echa en la pata. Algunos de los garbanzos, se pasan por el chino para espesar la salsa; se echan los cominos y se sirve en una cazuela de barro bien caliente.
 

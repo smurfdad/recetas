@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 calamares medianos limpios, con las patas
 
 300 g de gambones
@@ -46,6 +45,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cortar los calamares en aros. Calentar el aceite en una sartén de fondo grueso, los calamares y los gambones durante un par de minutos. Retirarlos del wok y reservar. Rehogar en el mismo aceite los dientes de ajo y las escalonias cortadas en juliana. Una vez rehogadas mojar con el caldo de pescado y el zumo de limón. Salpimentar. Llevar a ebullición y agregar de nuevo los calamares, bajar el fuego y continuar la cocción hasta que los calamares estén tiernos. Agregar los gambones, las aceitunas partidas por la mitad y el perejil picado. Calentar el conjunto, sin que hierva y servir en el acto.
 

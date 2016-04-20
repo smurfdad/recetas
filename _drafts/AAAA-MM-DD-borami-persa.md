@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 42 minutos.
 
 <h3>Ingredientes</h3>
-
 250 grs. de Espinacas.
 
 1 Cebolla.
@@ -37,6 +36,5 @@ Para 6 personas.
 Hierbabuena (Menta) fresca o seca (optativo).
 
 <h3>Preparación</h3>
-
 Picar las Espinacas muy finitas. Picar la cebolla y freírla en una sartén con aceite. Añadir un poco de canela. Cuando este dorada añadir las espinacas picadas y freír. Cuando esl conjunto esté frito. retirar del fuego y reservar. Batir el yoghurt. Añadir las espinacas al yoghurt, mezclar. Añadir la sal y el ajo, pasar por el minipimer. Espolvorear con hierbabuena seca o bien con una hojita de menta fresca. Dejar reposar en la nevera y servir muy frío.
 

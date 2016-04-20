@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 2 puerros
@@ -33,7 +32,6 @@ harina
 litro y medio de agua
 
 <h3>Preparación</h3>
-
 Picar la verdura y ponerla en una cazuela con un poco de aceite a rehogar despacio.
 
 Una vez echa añadir la merluza, sin espinas y troceada, el rape igual que la merluza y las gambas enteras, incluida cabeza y cáscara.

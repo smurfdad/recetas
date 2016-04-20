@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 220 g. De arroz largo aromático
 
 300 ml. De agua
@@ -47,7 +46,6 @@ Para 2 personas.
 1 cebolleta cortada a laminas.
 
 <h3>Preparación</h3>
-
 Poner el arroz en una cacerola mediana y de fondo pesado, añadir el agua y llevar rápidamente a ebullición. Cubrir con una tapadera que ajuste bien, reducir al mínimo el fuego (para que no se queme el arroz del fondo) y dejar cocer durante 15 minutos. Poner muy alto el fuego de 15 a 20 segundos, retirar la cacerola y dejarla aparte durante unos 12 minutos, sin levantar la tapa. (para que no se escape el vapor).
 
 Calentar a fuego vivo el aceite en una sartén, saltear el pollo hasta que esté dorado y tierno, reservar a parte. Recalentar la sartén y freír la cebolla, removiendo de vez en cuando, durante 3 minutos o hasta que empiece a ablandarse. Verter el vasito de agua, la salsa de soja, el mirin y el dashi, darle vueltas hasta disolver el dashi y llevar a ebullición. Cocer el caldo durante 3 minutos o hasta que la cebolla esté blanda.
@@ -61,6 +59,5 @@ Los líquidos se mezclarán con el arroz, y aportarán su sabor.
 Para servir, servir a modo de lasaña, se coge de arriba a bajo.
 
 <h3>Observaciones</h3>
-
 El arroz tiene que quedar apelmazadito, conforme se va sirviendo, va escapando vapor del interior, con lo que se mantiene bien calentito durante un buen rato.
 

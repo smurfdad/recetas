@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350g de fideos caracol
 
 1 pechuga de pollo cortadas en tiras bien finitas
@@ -51,7 +50,6 @@ Para 4 personas.
 Sal y pimienta a gusto.
 
 <h3>Preparación</h3>
-
 Poner una cacerola con abundante agua salada a hervir. En una sartén rehogar en aceite y manteca la cebolla, la cebolla de verdeo, la panceta y el ajo, agregar el pollo y dorarlo, salpimentar, agregar el coñac y flambear, luego agregar el vino y dejar reducir.
 
 Por último, diluir la mostaza en la crema de leche y agregar a la preparación, cocinar a fuego bajo 3 minutos más revolviendo con cuchara de madera, rectificar el condimento de ser necesario dejar cocinando tapado a fuego mínimo.

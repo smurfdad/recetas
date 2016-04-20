@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de arroz de grano redondo
 
 250 gr. de berberechos
@@ -32,6 +31,5 @@ sal
 cebollino
 
 <h3>Preparación</h3>
-
 Limpiamos los mejillones ayudándonos de una puntilla, para eliminar las
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 8 cucharadas de nueces sin cáscara.
 
 2 cucharadas grandes de avellanas sin cáscara.
@@ -41,11 +40,9 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Machacar las avellanas y nueces y la miga de pan muy bien. Añadir el ajo y triturar hasta que la mezcla esté muy tierna. Añadir el caldo de pollo poco a poco para hacer una salsa medianamente espesa. Añadir zumo de limón y colar; poner en un recipiente de barro. Servir la salsa con carne, pollo o arroz.
 
 <h3>Observaciones</h3>
-
 Esta salsa debe usarse para pollo y carne.
 
 Receta árabe.

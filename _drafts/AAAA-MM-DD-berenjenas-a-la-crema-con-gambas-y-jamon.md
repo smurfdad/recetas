@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 berenjenas
 
 250 g de gambas
@@ -46,7 +45,6 @@ Para la besamel
 Sal, pimienta y nuez moscada.
 
 <h3>Preparación</h3>
-
 Lavar las gambas y pelarlas. Poner las cáscaras a cocer con la mitad de la leche, dejar cocer un rato y reservar. Cortar las berenjenas y rociarlas con sal para quitarles el amargor. Pelar los ajos.
 
 Poner una sartén con aceite y dorar los ajos, retirarlos y en el mismo aceite freir las berenjenas pasadas por harina, cuando estén en su punto sacarlas y ponerlas sobre papel de cocina.

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebollas
 
 6 huevos
@@ -40,7 +39,6 @@ pimienta negra
 4 vasos de agua
 
 <h3>Preparación</h3>
-
 Freir la cebolla muy bien hasta tener un color rojizo fuerte. Añadir el agua.
 
 Añadir el arroz al agua hirviendo. Antes de cocer el arroz totalmente, añadir los huevos uno tras el otro para conservar la yema completa.

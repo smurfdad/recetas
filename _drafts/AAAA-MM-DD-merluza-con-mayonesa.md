@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de merluza
 
 4 patatas
@@ -34,6 +33,5 @@ Sal
 Mayonesa
 
 <h3>Preparación</h3>
-
 Se ponen a cocer las patatas cortadas en rodajas en abundante agua con sal y una cebolla. Cuando falten 5 minutos para que estén hechas se agrega la merluza. Se escurrirá todo cuando estén listas las patatas. Se sirve acompañada de mayonesa.
 

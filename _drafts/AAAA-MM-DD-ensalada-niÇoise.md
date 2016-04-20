@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 g. de judías verdes
 
 4 tomates de ensalada
@@ -45,7 +44,6 @@ filetes de anchoa (opcionales)
 perejil fresco y cebollinos troceados
 
 <h3>Preparación</h3>
-
 Dar un ligero hervor a las judías para que queden crujientes y verdes. Escurrirlas, enfriarlas con agua y volverlas a colar.
 
 Pelar y trocear los tomates. Escurrir los garbanzos.

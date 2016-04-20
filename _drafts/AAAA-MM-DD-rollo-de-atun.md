@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr. de espinacas
 
 1 cebolla hermosa
@@ -62,7 +61,6 @@ tabasco y paprika
 25 gr. de mantequilla
 
 <h3>Preparación</h3>
-
 Se ponen a fundir 50 gr. de mantequilla en una cazuela. Se añaden dos cucharadas de caldo y se echan las espinacas limpias y bien escurridas. Se rehogan durante 5 minutos. Se escurren bien y se aplastan un poco para quitarles bien el agua. Se pasan por la batidora.
 
 En un cazo se pone a fundir otro poco de mantequilla y se sofríe la cebolla muy picada, hasta que esté transparente. Se espolvorea harina por encima y se mezcla bien. Se va añadiendo la leche, poco a poco, sin dejar de remover. Se tiene hirviendo unos minutos, mientras se remueve sin parar. Se separan las yemas de las claras. Se añade el queso rallado a las yemas y se incorporan a la salsa anterior, junto con las espinacas y una pizca de nuez moscada. Se sazona el conjunto con sal y pimienta. Se baten las 6 claras de huevo a punto de nieve firme y se añaden a la preparación anterior. Se unta de aceite una placa de horno rectangular (la medida perfecta sería 25 x 36 cm.).

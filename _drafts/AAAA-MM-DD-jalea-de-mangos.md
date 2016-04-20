@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 8 mangos medianos verdes, pelados y picados
 
 8 tazs de agua
@@ -30,6 +29,5 @@ Para 8 personas.
 2 tazas de azucar
 
 <h3>Preparación</h3>
-
 Se ponen a cocinar los mangosen el agua con la olla destapada, hasta que esten blandos.Se retiran, se escurren y se licuan muy bien.Se mezclancon el azucar y se ponen el fuego, revolviendodesde que empiece a hervir, hasta que se vea completamente el fondo de la paila. Se retira y se pone en una bandeja
 

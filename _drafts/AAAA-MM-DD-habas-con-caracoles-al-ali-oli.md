@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 750 gr. de habas
 
 1/2 kg de caracoles
@@ -36,7 +35,6 @@ categories:
 sal a discreción
 
 <h3>Preparación</h3>
-
 Una vez los caracoles bien limpios y escaldados, póngase una cacerola sobre la placa de su cocina eléctrica; con bastante aceite se rehoga la cebolla, perejil y guisantes, todo bien picado, junto con jamón en tiritas y ajo, removiéndolo bien. Déjese cocer durante un buen rato. Las habas también se cuecen sobre la placa de su cocina eléctrica, teniendo en cuenta que la cocción de los caracoles debe ser bastante más larga que la cocción de las habas.
 
 Presentar separadamente en la misma fuente, acompañados de la salsa fría de ali óli. Este plato se mejora tomándose con huevo duro picado como acompañamiento.

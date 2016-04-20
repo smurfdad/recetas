@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kgr. de mero
 
 Harina
@@ -36,7 +35,6 @@ Aceite
 Guindillas
 
 <h3>Preparación</h3>
-
 Una vez limpio el mero se sazona, se reboza con harina, se pasa por huevo batido y se fríe en aceite hasta que esté dorado.
 
 En una sartén, aparte, se fríen las guindillas, se escurren y se salan.

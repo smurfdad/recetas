@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg de mejillones
 
 1 cebolla
@@ -25,7 +24,6 @@ Para 4 personas.
 1 litro de agua
 
 <h3>Preparación</h3>
-
 Picar la cebolla y el puerro, y rehogamos en mantequilla.
 
 Limpiar los mejillones y abrirlos al vapor. Sacamos y separamos la carne de la concha.

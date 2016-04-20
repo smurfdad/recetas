@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 12 Ud. cordero costillas
 
 2 cuchara sopera pimentón
@@ -39,6 +38,5 @@ PARA LA GUARNICIóN
 150 gr. patatas fritas de bolsa
 
 <h3>Preparación</h3>
-
 Para el adobo, mezclaremos los dientes de ajo y el perejil, ambos picados, el pimentón, y el vino blanco. Se salan las costillas y se mezclan con el adobo. Se ponen a macerar un par de horas. Se fríen las costillas en una sartén con un poco de aceite de oliva, y se sirven acompañadas con unas patatas fritas caseras. Para dar un toque diferente a las patatas, se pueden espolvorear con una pizca de pimentón.
 

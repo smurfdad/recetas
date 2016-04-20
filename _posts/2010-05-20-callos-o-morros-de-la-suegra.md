@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de callos o morros
 
 1 cebolla y media
@@ -33,7 +32,6 @@ Para 6 personas.
 unos taquitos de chorizo
 
 <h3>Preparación</h3>
-
 Se limpian bien los callos o morros, raspando con un cuchillo. Si tienen rebordes negros, se cortan para que queden bien limpios.
 
 Se ponen a remojo en un recipiente con agua y dos puñados de sal y se deja 1/2 hora.

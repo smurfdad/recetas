@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo de unos 2 kilos.
 
 400 gramos de setas frescas.
@@ -30,7 +29,6 @@ Sal.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Limpiamos el pollo y lo troceamos. Reservamos el hígado del pollo para la salsa.
 
 Colocamos una cazuela al fuego, añadimos una cucharada de aceite de oliva y rehogamos los trozos de pollo ligeramente espolvoreados con un poco de sal.

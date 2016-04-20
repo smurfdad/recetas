@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 trozos de rodaballo
 
 6 gambas grandes
@@ -55,6 +54,5 @@ Para 4 personas.
 aceite y sal.
 
 <h3>Preparación</h3>
-
 Salar el pescado, limpiar bien de arena las almejas y picar finamente la cebolla, el tomate, los ajos y el perejil. En una, sartén con aceite, freir el pan, las avellanas y el pimiento. Seguidamente machacar en un mortero junto con el azafrán hasta obtener una pasta no muy fina. En una cazuela hacer un sofrito con la cebolla, tomate, ajos y perejil. Dejar dorar y añadir el coñac, el vino y la picada. Incorporar el pescado, cubrir con el caldo, dejar cocer l0 m., y agregqr las gambas medio fritas y las almejas. Dear hervir 3m. más.
 

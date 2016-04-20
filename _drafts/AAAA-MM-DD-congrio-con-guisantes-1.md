@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 pedazos de congrio.
 
 1/4 de aceite de oliva.
@@ -37,6 +36,5 @@ Para 6 personas.
 harina.
 
 <h3>Preparación</h3>
-
 En una cazuela de barro poner el aceite a calentar con los ajos enteros y pelados. Añadir el congrio ligeramente enharinado y freírlo dándole a la cazuela un ligero movimiento de vaivén. Darle la vuelta al congrio y añadir el caldo de pescado y los guisantes. Reducir el fuego y terminar la cocción removiendo la cazuela a menudo. Servir inmediatamente muy caliente.
 

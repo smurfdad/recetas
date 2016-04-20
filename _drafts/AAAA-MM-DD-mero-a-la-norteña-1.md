@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebollas
 
 2 huevos
@@ -34,7 +33,6 @@ Para 4 personas.
 750 grs. de mero en rodajas
 
 <h3>Preparación</h3>
-
 Se hace un sofrito con la cebolla, los tomates, los ajos y perejil picado, añadiendo un poco de agua al final para dejarlo más líquido. Una vez el sofrito está listo, añadimos las rodajas de mero, salamos y dejamos que se haga a fuego bajo.
 
 Para servir, colocamos las rodajas en una bandeja, pasamos el sofrito por la batidora y lo añadimos a la salsa resultante. Se acompaña con mayonesa.

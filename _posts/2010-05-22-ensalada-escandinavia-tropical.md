@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 lonchas grandes de salmón ahumado
 
 3 hojas de lechuga o 1 endivia
@@ -23,7 +22,6 @@ Para 6 personas.
 limón, sal, vinagre y aceite de oliva
 
 <h3>Preparación</h3>
-
 Colocar los filetes de salmón en una fuente de servir, en el centro y a lo largo, cabalgados unos sobre otros.
 
 Cortar la lechuga o endibia en juliana: lavar las hojas y escurrirlas, enrollarlas todas juntas y prietas y cortar sobre una tabla en filetitos finos. Aliñarla con sal, vinagre y aceite.

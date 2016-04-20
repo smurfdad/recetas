@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 8 pimientos de Arnoia
 
 2 pechugas de pollo
@@ -37,6 +36,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Cortar en juliana los pimientos y la cebolla y poner a freír en una sartén a fuego suave. Mientras, dorar los ajos laminados en una sartén y cuando estén dorados incorporar las pechugas cortadas en dados no muy grandes y sazonadas. Dejar freír hasta que estén hechas. Cuando estén los pimientos y la cebolla, sacarlos para una fuente y sazonar. Colocar por encima los trozos de pechuga.
 

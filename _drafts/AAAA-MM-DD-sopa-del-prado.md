@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 4 puerros picados
 
 2 dientes de ajo picados
@@ -45,7 +44,6 @@ Nuez moscada en polvo
 Perejil fresco picado
 
 <h3>Preparación</h3>
-
 En una sartén con aceite saltear los puerros, los ajos, los hongos y los echalotes.
 
 En una licuadora colocar 3/4 litros (750cc) de caldo y licuar junto con el salteado de verduras y hongos.

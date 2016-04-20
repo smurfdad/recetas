@@ -22,7 +22,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 taza de agua
 
 1 caja de gelatina de mango
@@ -42,7 +41,6 @@ hojas ( de menta o de jardin)
 crema batida para decorar al gusto
 
 <h3>Preparación</h3>
-
 En una cacerola hierva el agua , retire del fueto y diluta la gelatina espere a que entibie.
 
 Licue la gelatina con los mangos, separando el añmibar. agrefue la leche, vuelva a licuar vierta la mezcla en copas de coctel y refrigere gasta cuaje la gelatina.

@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 calabacines
 
 2 latas pequeñas de atún en aceite de oliva (160 grs aprox.)
@@ -44,6 +43,5 @@ Nuez moscada
 Queso rallado
 
 <h3>Preparación</h3>
-
 Se prepara una bechamel con 2 cucharadas de mantequilla, 2 de harina, 2 vasos de leche y nuez moscada. Se reserva. Después, se cortan los calabacines por la mitad y se les retira la pulpa, que se pica y se sofríe con la cebollita picada. Una vez listas las verduras se les añade el atún desmigado y unas cucharadas de la bechamel, y con esta preparación se rellenan los calabacines. Se cubre con el resto de la bechamel, poniendo encima queso rallado y dados de mantequilla para gratinarlos a 250 &ordm; durante cinco minutos.
 

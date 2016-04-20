@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote de tomate frito
 
 4 rodajas de chorizo(tipo pamplonica)
@@ -23,7 +22,6 @@ Para 4 personas.
 1 lata pequeña de guisantes
 
 <h3>Preparación</h3>
-
 Poner un poco de tomate en el fondo de cada cazuela de barro.
 
 Cascar los huevos encima y poner alrededor una rodaja de chorizo, una de salchichón, 2 yemas de espárrago y unos pocos guisantes.

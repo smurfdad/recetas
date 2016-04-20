@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 1kg de calabacín.
 
 1 cebolla.
@@ -37,7 +36,6 @@ Sal.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Lavar el calabacín y cortarlo en daditos. Pelamos y troceamos la patata y la cebolla.
 
 En un cazo, calentamos 2 cucharadas de aceite y saltear el calabacín, la patata y la cebolla con el ajo, el romero y una pizca de sal.

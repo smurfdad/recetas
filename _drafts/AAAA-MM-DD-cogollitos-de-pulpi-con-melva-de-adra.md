@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cogollitos de Pulpí
 
 2 dientes de ajo
@@ -38,6 +37,5 @@ Unas cucharadas de vinagre de Jerez
 Sal
 
 <h3>Preparación</h3>
-
 Lavamos bien los cogollos y los cortamos longitudinalmente en cuatro cuartos cada uno. Los ajos se pican menuditos, se fríen en aceite de oliva virgen y se dejan enfriar en el mismo aceite. En un plato o fuente intercalamos los cogollitos y los filetes de melva canutera; en el centro colocamos el tomate en rodajas. Sazonamos todo y con una cuchara ponemos el aceite con los ajos fritos sobre los cogollos. Para terminar, rociamos con unas gotitas de vinagre de Jerez al gusto.
 

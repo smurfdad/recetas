@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Aceite
 
 1 Cebolla
@@ -48,6 +47,5 @@ Sal
 1 Pedacito de puerro
 
 <h3>Preparación</h3>
-
 En una cacerola con agua se ponen todos los ingredientes en crudo y se cubre con agua y después se deja cocer a fuego lento unos 25 minutos.
 

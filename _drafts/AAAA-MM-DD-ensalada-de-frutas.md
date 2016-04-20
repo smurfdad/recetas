@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 mandarinas
 
 1 lata de piña en almíbar
@@ -39,6 +38,5 @@ Para 4 personas.
 2 cucharadas de Cointreau
 
 <h3>Preparación</h3>
-
 Pelar las mandarinas, separar los gajos y, si se quiere, quitarles la piel. Escurrir la piña y cortarla en trocitos. Limpiar las fresas y lavarlas en abundante agua. Mezclar todos los ingredientes, excepto las nueces, en una ensaladera de cristal y salpicar las frutas con el azúcar. Aparte, batir el queso hasta que se ponga cremoso e incorporarlo. Añadir el licor, revolver y a la hora de servir, espolvorear con las nueces.
 

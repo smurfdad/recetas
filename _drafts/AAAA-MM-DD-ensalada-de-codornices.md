@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 codornices escabechadas, (ó 4 raciones de perdiz escabechada)
 
 2 cogollos de lechuga
@@ -41,7 +40,6 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Se desmenuzan las codornices retirando los huesos. Se corta la lechuga y la zanahoria en juliana. En cuatro platos trincheros se reparten las hortalizas armónicamente y en el centro se coloca una cantidad proporcional de las codornices.
 
 Se adereza con una vinagreta preparada del siguiente modo: En un mortero se maja la yema y se va añadiendo a chorro el aceite, de manera que se ligue un poco; se añade el vinagre, la mostaza, la sal y la pimienta

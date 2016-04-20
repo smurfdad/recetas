@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Sal a gusto
 
 Queso de cabra 200 grs.
@@ -34,7 +33,6 @@ Pimienta a gusto
 Leche 600 ml.
 
 <h3>Preparación</h3>
-
 Lavar las berenjenas, secarlas y cortarlas en láminas de 1 cm. de grosor en sentido longitudinal, pero sin llegar al final. Disponerlas en un recipiente, cubriéndolas con agua y sal y dejarlas reposar durante 20 minutos para evitar el sabor amargo. Escurrirlas bien y secarlas con papel absorbente.
 
 Sazonar las berenjenas con sal y pimienta.

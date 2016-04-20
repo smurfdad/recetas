@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 30 cucharadas de leche
 
 3 huevos
@@ -36,7 +35,6 @@ canela
 aceite
 
 <h3>Preparación</h3>
-
 Se baten, a un lado del fuego, en una cazuela, el azúcar y los huevos durante 1 minuto. Se añade la leche hirviendo con su canela, se baten bien fuera del fuego para que no hierva. De una barra de pan se hacen ronchas de 1,5 cm. de grosor por 4 a 6 de ancho, y se colocan en una tartera, vertiendo la crema sobre ellas.
 
 A los 30 minutos, se les dá la vuelta y se dejan a remojo otros 35 ó 40 minutos.

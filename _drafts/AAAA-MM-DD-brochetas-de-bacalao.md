@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 4 ó 6 tiras de Bacalao de la parte más gruesa
 
 8 lonchas delgadas de tocino ahumado
@@ -33,7 +32,6 @@ categories:
 16 champiñones aceite
 
 <h3>Preparación</h3>
-
 Desalar el Bacalao según se ha indicado. Cortarlo en dados de&iexcl; tamaño de una nuez (según sea el tamaño, saldrán 3 o 4 dados de cada tira de BACALAO ISLANDIA.
 
 Envolver cada dado de pescado con 112 loncha de tocino ahumado.

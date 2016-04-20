@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 alcachofas
 
 30 g de mantequilla
@@ -36,6 +35,5 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Limpia las alcachofas crudas levantando cada hoja. Pela el fondo de la alcachofa como si fuera una patata. Lávalas en agua con zumo de limón o vinagre, échalas en una olla con agua fría abundante, cuécelas y déjalas hervir hasta que la parte inferior de la alcachofa se pueda retirar fácilmente, en ese momento, sácalas del agua, ráspalas, escávalas un poco y guarneciéndolas con una buena cucharada de espinacas. Recúbrelas con salsa Mornay, un poco de queso rallado y gratínalas unos minutos en horno caliente.
 

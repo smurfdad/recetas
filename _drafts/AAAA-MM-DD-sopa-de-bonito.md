@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gramos de bonito en un trozo.
 
 1 cebolla o cebolleta.
@@ -44,7 +43,6 @@ Caldo de bonito o agua.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Primero hay que limpiar el bonito de pieles y espinas, y con ellas hacemos un caldo.
 
 Se pica finamente el ajo y la cebolla y sé pocha en el aceite. Cuando el picado empiece a dorarse, añadimos el bonito en trozos pequeños, la salsa de tomate, la sal y la pimienta.

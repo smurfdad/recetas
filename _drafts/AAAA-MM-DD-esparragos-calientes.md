@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 l. de leche
 
 300 gr. de harina
@@ -44,7 +43,6 @@ sal
 24 espárragos cocidos
 
 <h3>Preparación</h3>
-
 PREPARACION DE LA CREMA DE ESPINACAS:
 
 Se hace una bechamel con la leche, la harina, pimienta, sal y la mitad de la mantequilla, a la que se añaden las espinacas cocidas y picadas.

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 12 minutos.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pavo o de pollo
 
 1 latita de olivas negras sin hueso
@@ -36,7 +35,6 @@ Mantequilla
 una cucharadita de albahaca triturada
 
 <h3>Preparación</h3>
-
 en una cazuela fundir la mantequilla y añadir el brik de tomate frito hasta que este bien caliente y rompa a hervir, añadir las olivas negras sin hueso y mantener unos minutos a fuego lento moviendo constantemente para que no se pegue el tomate a la cazuela.
 
 en una sarten aparte con otro poquito de mantequilla se colocan las pechugas y se salpimentan al gusto, volteandolas a fuego lento para que se vayan poniendo doraditas.
@@ -48,7 +46,6 @@ Retirar las pechugas y colocar sobre el plato, añadiendo la salsa a los lateral
 Finalmente esparcir la albahaca picada sobre el plato.
 
 <h3>Observaciones</h3>
-
 Se puede sustituir las olivas negras por cebolletas
 
 Se puede sustituir la albahaca por finas hiervas o por oregano

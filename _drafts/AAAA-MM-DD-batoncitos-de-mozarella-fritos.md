@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400g de queso mozarella bien frío
 
 50g de harina
@@ -34,7 +33,6 @@ Sal y pimienta
 1 diente de ajo picado(optativo)
 
 <h3>Preparación</h3>
-
 Para hacer esta preparación es necesario que el queso se encuentre bien frío para eso llevarlo 20 a 25 minutos al freezer o congelador. Luego con un cuchillo de hoja grande pasar el filo por el fuego y cortar rebanadas de 1cm y luego tiras de 1cm.
 
 Preparar tres recipientes uno con harina, otro con los huevos batidos condimentados con sal, un poco de pimienta y ajo (optativo).

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 Mayonesa de 1 huevo
 
 3 cucharaditas de curry
@@ -31,6 +30,5 @@ Mayonesa de 1 huevo
 5 gotas de tabasco
 
 <h3>Preparación</h3>
-
 Añadir el curry y el tabasco a la mayonesa y mezclar bien.
 

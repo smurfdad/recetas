@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 rodajas de merluza
 
 300 gr setas
@@ -34,7 +33,6 @@ Para 4 personas.
 200 ml nata liquida
 
 <h3>Preparación</h3>
-
 Sazonar la merluza con sal, mojarla un poco con aceite y ponerla en la plancha bien caliente marcándola por ambos lados.
 
 Preparar una fuente de horno untada con un poco de aceite, poner la merluza y meter al horno hasta que se termine de hacer.

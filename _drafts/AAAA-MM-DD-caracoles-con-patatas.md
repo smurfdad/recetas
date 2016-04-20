@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,200 kg. de caracoles
 
 8 Patatas grandes
@@ -40,6 +39,5 @@ Para 4 personas.
 1 Rama de menta
 
 <h3>Preparación</h3>
-
 Limpiar y cocer los caracoles para que vayan saliendo del caparazón. Poner las hierbas aromáticas, la zanahoria y la cebolla atadas con un cordón muy fino y añadirlo a la olla en la que tengamos los caracoles junto a un poco de sal. Dejar cocer 30 minutos. Añadir las patatas enteras sin pelar y dejar cocer hasta que las patatas estén hechas. Una vez listo escurrirlo y acompañarlo con salsa blanca.
 

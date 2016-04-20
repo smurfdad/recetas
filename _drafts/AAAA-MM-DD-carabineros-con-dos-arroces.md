@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 8 carabineros grandes
 
 50 gr. de arroz basmati cocido
@@ -65,7 +64,6 @@ canela
 1/2 Cayena
 
 <h3>Preparación</h3>
-
 Salsa de nécoras: Dorar una guarnición aromática de cebolla, puerro, zanahoria y apio. Añadir las nécoras y saltearlas. Machacarlas. Flambear con brandy. Mojar con vino blanco y evaporar. Añadir un poco de concentrado de tomate y especiar con laurel, orégano, piel de naranja, un clavo, canela y 1/2 Cayena. Mojar con agua y cocer tapado una hora. Colar y reducir a consistencia de salsa.
 
 Acabado: Se saltean los dos arroces (previamente cocidos: el basmati durante 10 minutos, el de Camarga durante 35 minutos) con los ajos tiernos y el calabacín. Se colocan en el centro del plato. Se cuecen a la plancha los carabineros pelados pero con cabeza. Se colocan encima del arroz. Se acaba salseando con un cordón de la salsa de nécoras.

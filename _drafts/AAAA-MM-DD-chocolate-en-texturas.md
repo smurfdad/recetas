@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Para el crocant:
 
 275 gr. de harina de almendra
@@ -85,7 +84,6 @@ Para la salsa:
 50 gr. de glucosa
 
 <h3>Preparación</h3>
-
 Para hacer el crocant: semi tostar la almendra. Cocer a 160 grados el fondant y la glucosa. Añadir la pasta fundida y remover. Finalmente agregar el polvo de almendra. Mezclar y verter en silplats. Estirar finamente, cortar tiritas y darles forma cuadrada.
 
 Para hacer el pañuelo: Cocer a 160 grados glucosa y fondant. Luego añadir la pasta fundida. Mezclar y verter encima del silplat.

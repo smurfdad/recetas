@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 unidades. conejo
 
 100 g. champiñones
@@ -47,7 +46,6 @@ Para 6 personas.
 1 pizca sal y pimienta negra
 
 <h3>Preparación</h3>
-
 Empezaremos la elaboración propiamente dicha, troceando el conejo, al gusto. Cuanto más pequeño lo troceemos mejor será para repartirlo en el plato, aunque también podemos trocearlo en cuatro, dividiendo en dos patas y dos costillares. Reservaremos el hígado que cocinaremos a continuación.
 
 Antes de freír el conejo lo salpimentaremos bien. Freiremos el conejo en una cazuela de barro, si queremos mantener las viejas tradiciones, pero si queremos ser mas prácticos, podremos freír el conejo en una salteadora o sartén de tamaño adecuado.

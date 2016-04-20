@@ -23,7 +23,6 @@ categories:
 Para 7 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo tierno partido en piezas
 
 1 cebolla grande
@@ -61,6 +60,5 @@ chiles jalapeños en vinagre
 sal al gusto
 
 <h3>Preparación</h3>
-
 Se pone a cocer el pollo con la cebolla,el ajo y las yerbas de olor en 1 cucharada de manteca se frie el pan,se remoja con la leche y se muele con los jitomates los comonos y la sal,y luego se cuela,en la manteca restante se acitronan las cebollas y se añaden los jitomates ya que estan bien fritos se le agregan el caldo y el pollo se deja hervir 5 minutos y se añaden las manzanas y el vino, cuando las manzanas esten cocidas se retira el pollo del fuego y se sirve en un platon adornado con los chiles en vinagre.
 

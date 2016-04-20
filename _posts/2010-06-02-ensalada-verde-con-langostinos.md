@@ -10,7 +10,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 6 langostinos pelados
 
 1/2 taza de tomate picado
@@ -24,7 +23,6 @@ Para 1 personas.
 1 taza de lechuga romana
 
 <h3>Preparación</h3>
-
 Revolver todos los ingredientes excepto la lechuga en un bowl.
 
 Servirla sobre una cama de lechuga romana.

@@ -7,7 +7,6 @@ categories:
 - Entrantes y bocadillos
 ---
 <h3>Ingredientes</h3>
-
 1litro de leche
 
 125 gr mantequilla
@@ -29,7 +28,6 @@ pimienta blanca
 nuez moscada
 
 <h3>Preparación</h3>
-
 Poner en una cazuela la mantequilla a deshacer.
 
 Una vez diluida, añadir el jamón picadito y rehogar un poco.

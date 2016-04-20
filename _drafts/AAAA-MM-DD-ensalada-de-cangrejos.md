@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 lata de cangrejos
 
 3 manzanas
@@ -37,7 +36,6 @@ zumo de limón
 estragón
 
 <h3>Preparación</h3>
-
 Pelar las manzanas, cortarlas en dados pequeños y rociarlas con el limón para que no se oscurezcan.
 
 Pelar las zanahorias y cortarlas en juliana.

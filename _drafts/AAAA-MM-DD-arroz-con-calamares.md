@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500g de arroz
 
 750g de tubos de calamar limpios, o anillos de calamar
@@ -47,7 +46,6 @@ Para 4 personas.
 Sal, pimienta.
 
 <h3>Preparación</h3>
-
 Se cortan los tubos de calamar en aros y se fondean en una olla con la manteca, luego se apartan en un recipiente.
 
 En la misma manteca se fondean la cebolla y el puerro, se agregan el arroz y los calamares revolviendo con cuchara de madera.

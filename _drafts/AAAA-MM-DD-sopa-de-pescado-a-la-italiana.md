@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750g de mejillones con caparazón
 
 500g de filet de merluza o similar sin espinas cortados en cubitos
@@ -48,7 +47,6 @@ Para 4 personas.
 70g de perejil picado
 
 <h3>Preparación</h3>
-
 Hierva los mejillones en una olla con agua, retirarlos del fuego apenas se abren, deseche los que quedan cerrados.
 
 Separe las valvas de los caparazones.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo entero.
 
 2 ciruelas secas.
@@ -46,7 +45,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Quitamos la cabeza y las patas traseras del conejo.
 
 Deshuesamos el conejo, primero romperemos el esternón para poder abrirlo por la mitad y comenzar a quitar costilla tras costilla.

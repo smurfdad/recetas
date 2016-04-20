@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de solomillo.
 
 2 riñones de cordero.
@@ -36,6 +35,5 @@ Sal.
 Pimienta.
 
 <h3>Preparación</h3>
-
 Los filetes de solomillo se aplastan con la pala del cuchillo. Se cortan los riñones y se colocan entre los filetes de solomillo. Cada uno de los bocadillos se envuelve a su vez con los filetes de panceta y se atan con una cuerda. Los cuatro atados se fríen en aceite no muy caliente, durante tres o cuatro minutos por cada lado. Se sirven acompañados de patatas panaderas.
 

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 truchas de ración
 
 7 lonchas de bacon
@@ -27,7 +26,6 @@ sal
 harina
 
 <h3>Preparación</h3>
-
 Limpiar las truchas, quitándoles las tripas y la espina central. Secarlas y echarles sal.
 
 Cada una se rocía por dentro con un poco de zumo de limón y se le pone una loncha de bacon. Se cierran.

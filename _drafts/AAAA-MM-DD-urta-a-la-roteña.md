@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Una urta de 1 a 2 kg.
 
 250 gr. de cebolla
@@ -46,6 +45,5 @@ Pimienta en grano
 Nuez moscada Sal
 
 <h3>Preparación</h3>
-
 Limpiar y descamar la urta entera, dándole unos cortes transversales en los lomos. Preparar una cazuela para el horno y poner un fondo con aceite y los ajos picados, la cebolla y los tomates a rodajas, los pimientos troceados, la hoja de laurel, la pimienta y salar. Poner la urta encima, entera y rociarle zumo de limón y por encima un picadillo de más tomate, pimientos y cebolla. Rociarle aceite, pimienta en grano y nuez moscada. Meter al horno, y rociarla con su propio jugo y unas gotas de limón. Estará unos veinte minutos por cada kilogramo de pescado en el horno, para sacarla y servirla caliente.
 

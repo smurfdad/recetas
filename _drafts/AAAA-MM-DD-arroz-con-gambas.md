@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 tazas (de café) de arroz
 
 1 cebolla pequeña
@@ -39,6 +38,5 @@ Para 4 personas.
 25 g (1 cucharada sopera) de nata líquida
 
 <h3>Preparación</h3>
-
 Pelar las gambas y saltear las cabezas en un poco de aceite. Añadir dos vasos de agua, cocerlo 2 min y triturarlo. Colarlo por el chino. Rehogar los cuerpos de las gambas en aceite. Retirarlos. Estofar la cebolla picada en ese mismo aceite. Añadir el arroz y el jerez. Dejar que se evapore. Incorporar los cuerpos de las gambas. Verter el caldo poco apoco sin dejar de mover con cuchara de palo. Cocerlo hasta que quede al dente y un poco caldoso, (20-25 min. aprox.). Añadir el queso y la nata semimontada al final. Sazonar.
 

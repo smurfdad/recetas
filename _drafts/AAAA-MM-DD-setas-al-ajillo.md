@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs. de Pleurotus
 
 Guindilla (opcional)
@@ -34,6 +33,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 En una sartén, o cazuela de barro, se ponen a dorar en aceite los ajos fileteados. Cuando estén dorados añadir la guindilla, las setas troceadas y salar. Hacer las setas, removiendo, hasta que estén tiernas. Servir inmediatamente.
 

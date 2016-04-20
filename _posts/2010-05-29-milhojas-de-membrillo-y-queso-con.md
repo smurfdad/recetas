@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr de queso semicurado
 
 400 gr de membrillo
@@ -26,7 +25,6 @@ Para el helado
 200 gr de azúcar
 
 <h3>Preparación</h3>
-
 Cortar en tiras el queso y el membrillo. Superponer una capa de queso y una de membrillo alternativamente hasta hacer ocho capas. Cortar con un cuchillo o cortapastas para dar forma a los mil hojas. Adornar con la miel.
 
 Preparacion del helado:

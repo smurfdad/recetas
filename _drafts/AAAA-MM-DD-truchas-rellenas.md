@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 truchas
 
 4 lonchas de bacon
@@ -40,7 +39,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Se limpian las truchas, quitando la espina central con cuidado de que no se rompan. Se rellenan con una loncha de bacon y otra de jamon serrano, y una cortada de pimiento y otra de cebolla.
 
 Colocamos las truchas rellenadas en una fuente para el horno, previamente untada con aceite o manteca. Cubrimos con el zumo de naranja, y sazonamos. Para la decoracion podemos poner un par de lonchas de naranja por encima.

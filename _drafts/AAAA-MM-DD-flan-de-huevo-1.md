@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 Huevos enteros
 
 4 Cucharadas colmadas de azúcar
@@ -32,7 +31,6 @@ Para 6 personas.
 3 Cucharadas azúcar para caramelizar el molde.
 
 <h3>Preparación</h3>
-
 Con las tres cucharadas caramelizar una flanera de
 
 capacidad suficiente para las cantidades. Mezclar la leche, los huevos y el azúcar. Batir con una batidora, pasar la mezcla por un colador y ponerla en la flanera, taparla con su tapa.

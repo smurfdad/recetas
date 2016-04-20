@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 barrita de margarina
 
 1 cebolla grande finamente picada
@@ -47,7 +46,6 @@ sal al gusto
 Crema
 
 <h3>Preparación</h3>
-
 En la margarina se acitrona la cebolla,se añaden los granos de elote,las rajas y las calabacitas,se fríen 2 minutos y se agregan los champiñones y la flor de calabaza,se deja freír 4 minutos y se agrega el caldo.
 
 Se hecha sal y se deja hervir todo a fuego lento durante 10 o 12 minutos.

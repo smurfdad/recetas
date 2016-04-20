@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 12 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Taza de Harina
 
 2 Huevos
@@ -37,7 +36,6 @@ Sal
 Agua
 
 <h3>Preparación</h3>
-
 En un bol, poner la harina, una pizca de sal y la levadura. Sobre ella echar los huevos ya batidos y remover. Agregar la leche y un poquito de agua, (la mezcla debe quedar como la textura de un buen Chocolate con churros)
 
 Dejar reposar 10 minutos.

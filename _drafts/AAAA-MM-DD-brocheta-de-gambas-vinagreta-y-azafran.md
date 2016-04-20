@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 20 gambas (1 Kg.)
 
 200 gr. calabacín
@@ -53,7 +52,6 @@ sal
 75 gr. coulis de tomate casero
 
 <h3>Preparación</h3>
-
 Pelar las gambas, guardar las colas en frío. Lavar y cortar las verduras a dados (0.5 x 0.5)
 
 Escaldar los calabacines, escurrir. Saltear las otras verduras con aceite de oliva. Dejar escurrir 2 horas. Añadir el coulis de tomate y el tomillo picado. Aliñar con sal y pimiento Espelette. Acanalar el medio calabacín, cocer en agua hirviendo y salada. Refrescar, escurrir y cortar en finas rodajas. Salsa vinagreta: Mezclar 25 gr. de zumo de limón con una pizca de sal y pimiento Espelette, 10 pistilos de azafrán y 100 gr. de aceite de oliva. Mezclarlo todo hasta la disolución del azafrán.

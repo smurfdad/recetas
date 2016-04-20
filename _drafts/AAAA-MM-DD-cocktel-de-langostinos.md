@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 24 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gramos de langostinos cocidos y pelados.
 
 1/2 lechuga.
@@ -41,7 +40,6 @@ Para 4 personas.
 Una granada.
 
 <h3>Preparación</h3>
-
 Cortamos en cubos la piña y la patata cocida, y rociamos con jugo de limón.
 
 Mezclamos la mayonesa con el ketchup.

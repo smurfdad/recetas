@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 mantequilla, 100 gr. para la masa
 
 harina, 200 gr. para la masa
@@ -46,6 +45,5 @@ sal,
 gelatina,
 
 <h3>Preparación</h3>
-
 Se amasan los ingredientes de la base. Se deja enfriar en la nevera alrededor de 1 ó 2 horas. Transcurrido ese tiempo se estira la masa sobre un molde, picándola en el fondo para que no se suba. Se cuece hasta que se convierta en una especie de corteza. Aparte se cuecen el azúcar, los huevos y la sal (bien batidos) junto a la leche. Se añade el requesón y la nata montada y se espera a que la pasta quede compacta. En un puchero aparte se ponen 300 gr. de gelatina alimenticia. Cuando ésta suba se quita del fuego. Se deja enfriar. Se vierte la pasta de requesón sobre la masa de corteza y se agrega a su vez la gelatina. Se deja enfriar hasta que cuaje la pasta en la masa y queda lista para servir.
 

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 dientes de ajo
 
 4 pimientos choriceros
@@ -23,7 +22,6 @@ sal
 1 litro de agua
 
 <h3>Preparación</h3>
-
 Pelar y picar los ajos y freírlos con un poco de aceite de oliva.
 
 Agregar los pimientos troceados y rehogar bien. Después añadir el pan troceado y freírlo un poco.

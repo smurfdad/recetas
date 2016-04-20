@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de fresas
 
 3/4 de taza de azúcar
@@ -34,7 +33,6 @@ Para 6 personas.
 2 cuchraradas de Ron
 
 <h3>Preparación</h3>
-
 Lavar bien las fresas y apartar algunas en una taza. Verter el jugo de mandarina y el ron en un recipiente y agregar las fresas dejandolas macerar por una hora.
 
 Retirar las fresas de la maceración. Agregar el jugo que quedó a la taza de fresas que se apartaron para licuarlas junto con la crema y el azúcar.

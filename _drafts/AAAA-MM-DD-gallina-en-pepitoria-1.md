@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 gallina
 
 1 cebolla
@@ -48,6 +47,5 @@ harina
 perejil
 
 <h3>Preparación</h3>
-
 Se trocea la gallina, se enharina, se van colocando en un cazuela los trozos, se cuela el aceite y se retira un poco, se sofríe una cebolla picada y se rehoga la.harina, se machaca en un mortero las almendras los piñones !as nueces y el perejil, se añade el vino y agua, se pone a cocer en olla a presión de 15 a 20 minutos, cuando baja la presión de esta, se abre, se deshace la yema en el mortero junto al zumo de limón, se echa en la gallina y se pone a cocer unos cinco minutos.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kg de Niscalos
 
 4 dientes de ajo picado muy pequeñito
@@ -37,6 +36,5 @@ Para 4 personas.
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Limpiar bien los niscalos, lavarlos bajo el chorro del agua fuerte para que queden bien limpiecitos y cortarles un poco los pies ( el tronco), disponerlos en una fuente refractaria para el horno con el tronco hacia arriba, introducirlos en el horno por unos 10 min. a 180&ordm;C hasta que hayan soltado el agua (retirarles el agua sobrante). Aparte mezclar los ajos bien picaditos junto con el perejil, el pan rallado, la sal y la pimienta y espolvorear con esto las setas, luego rociar con el aceite e introducirlas de nuevo al horno a 180&ordm;C y cocerlo 10 min. mas hasta que esten doradas y servir calientes.
 

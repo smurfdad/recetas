@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 cajas grandes de gelatina de cereza
 
 1 taza de azúcar
@@ -44,7 +43,6 @@ Para la tartaleta:
 1/2 barra de mantequilla fundida
 
 <h3>Preparación</h3>
-
 Aplana las galletas Marías a que queden molidas y mézclalas con la mantequilla y el azúcar. Con esto forra un molde refractario grande y mételo al refrigerador.
 
 Disuelve las gelatinas en la mitad del agua caliente y agrégales el resto del agua fría, el azúcar y las fresas picadas; de preferencia reserva cinco fresas para que decores el postre; mete al refrigerador.

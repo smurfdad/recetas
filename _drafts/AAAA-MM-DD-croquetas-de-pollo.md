@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 vasos de leche
 
 60 gr. de harina
@@ -43,7 +42,6 @@ aceite, sal
 300 gr. de pollo asado o cocido
 
 <h3>Preparación</h3>
-
 Pela y pica finamente la cebolla. Funde la mantequilla, añade la cebolla y freírla 5 minutos, sin que se dore. Añade la harina, remueve, deja dorar y vierte la leche caliente.
 
 Sazona con sal, pimienta y nuez moscada y cuece hasta que espese, añade el pollo picado, y mezcla. Forma las croquetas, pásalas por huevo batido y pan rallado. Fríelas en abundante aceite, escúrrelas y sírvelas calientes

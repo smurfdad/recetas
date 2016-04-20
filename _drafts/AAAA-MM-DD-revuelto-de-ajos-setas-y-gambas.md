@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Huevos: 4
 
 Setas de cardo: 200 grs. (Pleurotus Ostreatus)
@@ -38,6 +37,5 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Se rehogan las setas en aceite de oliva. Cuando casi están hechas se añaden los brotes de ajos tiernos y las gambas, y cuando éstas estén listas se incorpora el huevo batido, que se cuaja colocando y retirando la sartén del fuego y revolviendo con una espátula de madera.
 

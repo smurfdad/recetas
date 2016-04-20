@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 k de col
 
 2 cebollas medianas
@@ -42,6 +41,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Separar las hojas de col y cortar la parte dura. Lavar las hojas y escaldarlas durante 4 minutos en agua hirviendo con sal. Escurrir apretando las hojas con una cuchara de madera para que suelten todo el agua. Picar la col y reservar. Pelar, descorazonar y cortar en dados las manzanas. Calentar la mantequilla con 1 cucharada de aceite y rehogar las manzanas con las ciruelas troceadas. Sazonar con la canela, pimienta y sal. En un sartén grande calentar el aceite restante y saltear la col a fuego vivo. Salpimentar. Servir la col con la preparación de las manzanas en el centro.
 

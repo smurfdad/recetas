@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 Prepizza
 
 1 Lata de atún de 110gr
@@ -48,7 +47,6 @@ Salsa barbacoa
 Oregano
 
 <h3>Preparación</h3>
-
 Primero ponemos las cucharadas de tomate sobre la masa de la pizza,a continuacion le añadimos el queso y el atún,despues troceamos las salchichas y las vamos añadiendo;luego agregamos el maiz y los champiñones;despues le añadimos los mejillones, las aceitunas y el pimiento, espolvoreamos un poco de oregano para que le de mas sabor y para terminar le añadimos la salsa barbacoa.
 
 A continuación la metemos en el horno precalentado, unos 15-20 minutos a una temperatura de 200&ordm;

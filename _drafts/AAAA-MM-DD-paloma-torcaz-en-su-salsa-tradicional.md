@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 palomas
 
 2 cebollas
@@ -56,7 +55,6 @@ Para la marinada
 pimienta molida
 
 <h3>Preparación</h3>
-
 Se limpian bien las palomas y se atan con un cordel fino de cocina. Meter las palomas en el vino tinto, las verduras y la pimienta molida, dejándolas 24 horas en la nevera.
 
 Una vez transcurrido el tiempo, se sacan las plomas de la marinada, se escurren bien y se secan con un paño. En una cazuela se doran las palomas con aceite de oliva. Seguidamente, se incorporan las verduras troceadas y la manzana. Cuando estén bien rehogadas y esté blanda la cebolla, agregar el vino de la marinada, el coñac, el caldo de caza y la pastilla rayada de chocolate.

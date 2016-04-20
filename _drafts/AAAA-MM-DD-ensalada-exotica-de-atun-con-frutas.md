@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 300 gramos de atún al natural
 
 Una cabeza de lechuga escarola
@@ -47,7 +46,6 @@ Jugo de 2 limones
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Se pican las peras y se les pone un poquito de limón.
 
 Se prepara una salsa mezclando la cebolla morada picadita fina, la crema de leche, la mostaza, la miel, sal, pimienta y el jugo de limón restante.

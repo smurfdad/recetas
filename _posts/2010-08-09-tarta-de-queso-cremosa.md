@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 huevos
 
 1 yogur natural
@@ -26,7 +25,6 @@ Para 8 personas.
 100 grs. de queso philadelphia
 
 <h3>Preparación</h3>
-
 Batimos las yemas con el azúcar, luego echamos la harina envolviéndola bien con el huevo, la leche, la nata y el queso.
 
 Batimos todo bien con la batidora. Y lo vaciamos en un molde untado de mantequilla, al horno 150º y 30 minutos.

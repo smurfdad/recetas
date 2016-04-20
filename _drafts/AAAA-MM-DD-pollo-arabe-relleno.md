@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo grande deshuesado
 
 1 grano de almáciga
@@ -46,10 +45,8 @@ Para el relleno:
 Sal, pimienta y especias
 
 <h3>Preparación</h3>
-
 Mezclar los ingredientes del relleno, adobar. Rellenar el pollo y coser. Cocer el pollo en agua hirviendo con una cebolla, almáciga, cardamomo, sal y los huesos. Sacar el pollo y freír. Servir entero adornado con lechuga y tomate. No dejar enfriar, cortar en rodajas y servir.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

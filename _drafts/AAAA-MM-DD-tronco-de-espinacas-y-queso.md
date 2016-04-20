@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 estuche de espinacas
 
 20 cl. aceite de oliva
@@ -38,7 +37,6 @@ Sal y Pimienta
 Mantequilla
 
 <h3>Preparación</h3>
-
 Untar ligeramente con mantequilla un molde rectangular y forrar con papel de aluminio también engrasado.
 
 Poner las espinacas, en un cazo al fuego, con la mitad del aceite de oliva y dejar hasta que se haya evaporado todo el líquido; retirar del fuego y mezclar con el parrasen.

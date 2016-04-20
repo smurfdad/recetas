@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos.
 
 300 gramos de bacalao desalado.
@@ -42,7 +41,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Cortamos la cebolla el pimiento verde y la calabaza en daditos pequeños.
 
 Ponemos una sartén a fuego suave con un poco de aceite y la cebolla finamente picada (dejar hacer tapada hasta que esté blanda) A continuación añadimos los pimientos verdes.

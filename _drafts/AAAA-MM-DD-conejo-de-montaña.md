@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo
 
 cebolla
@@ -49,7 +48,6 @@ agua
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Trocear el conejo y freír un poco. Lavar las setas y los hongos cuidadosamente y secar con un trapo de cocina. Rehogar en una cazuela la cebolla picada, añadir el conejo, los hongos y las setas y el tomate.
 
 En un mortero machacar el ajo, pimentón, tomillo, y una miga de pan untada con vinagre de jerez. Añadir esto a la cazuela y cubrir con caldo y agua y dejar hacer. Corregir el punto de sal y pimienta.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr. de carne de pierna de cordero
 
 75 gr. de jamón
@@ -33,7 +32,6 @@ miga de pan harina y huevos para rebozar
 aceite para freír
 
 <h3>Preparación</h3>
-
 Se pican finamente el cordero, el jamón y el tocino haciendo una masa a la que se incorpora la miga de pan remojada en vino, bien escurrida, el huevo, sal, tomillo, orégano, pimienta y nuez moscada.
 
 Se ponen a cocer 8 hojas del repollo durante 10 minutos y a continuación se refrescan al chorrón de agua, se escurren y se reservan.

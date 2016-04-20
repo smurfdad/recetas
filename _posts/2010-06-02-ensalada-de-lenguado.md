@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 filetes de lenguado
 
 2 corazones de escarola
@@ -32,7 +31,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Limpiar los calabacines cortándolos en rodajas y freírlos con un poco de aceite de oliva.
 
 Limpiar los corazones de ambas ensaladas y limpiar bien.

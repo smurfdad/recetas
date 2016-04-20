@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg. de alas de pollo, cortadas por la articulación o 2 pollos en trocitos
 
 6 dientes de ajo
@@ -21,7 +20,6 @@ un chorrito de vinagre
 un chorrito de vino blanco
 
 <h3>Preparación</h3>
-
 Picar los ajos. Echar sal y aceite a las alas. Mezclar con los ajos y dejar macerar 1 hora por lo menos, en una bandeja de horno.
 
 Meter en el horno fuerte durante 1/2 hora.

@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 2 tarros de piña (ananás)
 
 l tarro o frasco de crema de leche
@@ -31,6 +30,5 @@ l tarro o frasco de crema de leche
 l libra de queso Holandés o queso crema
 
 <h3>Preparación</h3>
-
 Partir la piña en cuadritos, picar el apio muy finamente, partir el queso en cuadritos pequeños, llevar a una ensaladera y revolver todos los ingredientes con la crema de leche.
 

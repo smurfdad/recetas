@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 conejo
 
 3/4 kg de papas
@@ -48,7 +47,6 @@ Perejil picado
 Sal a gusto
 
 <h3>Preparación</h3>
-
 Corte el conejo en trozos y sazónelo. En una sartén grande se coloca aceite y se saltean los trozos de conejo. A medida que se van dorando los trozos se van pasando a una cacerola.
 
 Agregar la cebolla y el vino tapar la cacerola y dejar reducir durante 10 minutos. En una procesadora coloque el ajo el orégano picado el tomillo y el perejil. Diluya la preparación en una o dos cucharadas de aceite y un poco de caldo y procesar. Luego viertalo a la cacerola.

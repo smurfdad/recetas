@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 masa
 
 3 huevos
@@ -45,7 +44,6 @@ perejil
 aceite para freir
 
 <h3>Preparación</h3>
-
 Batir los huevos agregar sal y pimienta,ajo y perejil bien picados,estragon,queso rallado,el pollo cocido y por ultimo agregamos la harina y unimos muy bien que no queden grumos.
 
 Dejamos reposar 15m,y luego freimos en aceite pero el fuego debe estar mediano no fuerte.

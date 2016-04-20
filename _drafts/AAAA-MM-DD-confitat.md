@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/4 Kg. de butifarra
 
 1/2 Kg. de lomo
@@ -34,6 +33,5 @@ sal
 pimienta (opcional)
 
 <h3>Preparación</h3>
-
 Salpimentar la costilla, freír todos los trozos en el aceite caliente. Colocar los pedazos en frascos de boca ancha y cubrir con la grasa de freír. Puede conservarse durante
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tartaletas de masa quebrada.
 
 4 claras de huevo.
@@ -38,7 +37,6 @@ Azúcar glass al gusto.
 30 gramos de coco rallado.
 
 <h3>Preparación</h3>
-
 Montamos las claras a punto de nieve con una pizca de sal y azúcar glass añadiendo al gusto según se van montando las claras.
 
 Se deben de montar las claras hasta que queden espumosas, blancas y duras. Esto se comprueba dando la vuelta al recipiente donde hemos montado las claras y que éstas no se muevan y no se caigan.
@@ -54,6 +52,5 @@ Decoramos con el coco rallado y espolvoreamos con un poco de canela en polvo.
 En el plato donde vayamos a servir el postre, podemos acompañar con un poco de salsa de chocolate (cobertura de chocolate derretida al baño maría con leche o agua para rebajar su textura).
 
 <h3>Observaciones</h3>
-
 Este merengue se debe consumir al instante porque con el tiempo tienden a bajarse.
 

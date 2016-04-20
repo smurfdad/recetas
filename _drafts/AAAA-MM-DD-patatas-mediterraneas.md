@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas medianas
 
 1 pimiento rojo
@@ -46,7 +45,6 @@ Perejil picado
 Agua y sal
 
 <h3>Preparación</h3>
-
 Cuece las patatas con piel a fuego lento para que no se rompan, poniendo en el agua sal y un chorrito de vinagre. Una vez cocidas, pélalas y corta a lo largo la parte superior a 1 o 2 cm.
 
 Vacía con una cuchara la pulpa de las patatas y resérvala.

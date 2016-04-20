@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 peras
 
 1 litro y medio de vino tinto
@@ -34,6 +33,5 @@ Para 6 personas.
 1 rama de canela
 
 <h3>Preparación</h3>
-
 Se eligen seis peras de Puígcerdá. Se pelan y se les deja el rabito. Se introduce en una cazuela el vino, el azúcar, la pimienta negra en grano y la rama de canela. Al arrancar el hervor, se introducen las peras. Se dejan hervir de cinco a siete minutos. Se dejan enfriar y se sirven a temperatura ambiente.
 

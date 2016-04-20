@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1,200  kg. de conejo
 
 1/4 de mostaza
@@ -21,7 +20,6 @@ Para 6 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Cortar el conejo en trozos pequeños y dorarlo en el aceite.
 
 Quitar el aceite y añadir la mostaza
@@ -37,6 +35,5 @@ Pinchar para ver si está hecho.
 Probar la salsa y añadir la sal y pimienta (no poner al principio).
 
 <h3>Observaciones</h3>
-
 Tambien sirve para el pollo
 

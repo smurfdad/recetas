@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 gr. de tornillos
 
 una pastilla de caldo de carne
@@ -36,7 +35,6 @@ un chorrito de aceite
 un diente de ajo
 
 <h3>Preparación</h3>
-
 En una olla hervir agua, cuando esté en ebullición añadir la pastilla de caldo, los tornillos y un chorrito de aceite, dejar a fuego lento durante unos 15 minutos y remover de vez en cuando, cuando estén listos escurrir y ponerlos en una fuente.
 
 Aparte, freir el diente de ajo en trocitos y el bacon hasta que esté todo dorado, a continuación añadir los champiñones, después de un minuto añadir la nata y remover continuamente durante unos 10 minutos.

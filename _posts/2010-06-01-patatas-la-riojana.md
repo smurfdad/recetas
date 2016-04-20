@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 1 Kg de patatas
 
 2 chorizos
@@ -25,7 +24,6 @@ categories:
 pimenton,aceite,sal y aguaIngredientes:
 
 <h3>Preparación</h3>
-
 Picamos la cebolla y el pimiento verde y lo ponemos a rehogar con aceite,
 
 un poco de sal, ajo y laurel. Rompemos las patatas y las añadimos, junto

@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 9 hojas de gelatina fina
 
 1 vaso grande de agua
@@ -25,7 +24,6 @@ Para 8 personas.
 1 paquete de bizcochos de soletilla
 
 <h3>Preparación</h3>
-
 Poner a remojo en un recipiente con agua fría, la gelatina cortada en trozos, 5 minutos.
 
 Pelar los kiwis. Reservar uno cortado en filetes y el resto triturarlo y cocerlo un poco con una cucharada de azúcar.

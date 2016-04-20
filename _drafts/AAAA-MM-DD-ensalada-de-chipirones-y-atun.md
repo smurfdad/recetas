@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 chipirones medianos.
 
 8 hojas de lechuga cortada en juliana.
@@ -51,7 +50,6 @@ Un cuarto vaso de vinagre de sidra.
 Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos los chipirones, los cortamos en aros finos y les damos un hervor de dos minutos, en agua con sal, para que no se pongan duros.
 
 Cortamos la lechuga en juliana y la distribuimos en el fondo de cuatro platos. Cortamos los tomates en forma de corona, sin romper sus picos, vaciando parte de su interior para rellenarlos de atún, y los colocamos en el centro de cada plato. Distribuimos los chipirones sobre la lechuga y encima ponemos las anchoas.

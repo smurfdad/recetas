@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 Para el Caldo:
 
 1/4 de kilo de merluza
@@ -64,7 +63,6 @@ Para la Sopa:
 1 ramita de hierbabuena
 
 <h3>Preparación</h3>
-
 Poner los garbanzos en remojo la noche anterior.
 
 Poner una olla al fuego con unos 3 litros de agua y echar en ella la gallina, los huesos, los garbanzos remojados; las patatas peladas y cortadas; la cebolla, pelada y cortada por la mitad; las zanahorias, cortadas en rodajas y el resto de las verduras bien limpias y cortadas en trozos grandes. Tapar la olla y dejar cocer a fuego lento durante 2 horas y 1/2 o 3 horas.

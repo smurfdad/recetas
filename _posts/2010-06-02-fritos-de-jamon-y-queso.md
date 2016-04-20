@@ -7,7 +7,6 @@ categories:
 - Entrantes y bocadillos
 ---
 <h3>Ingredientes</h3>
-
 1 litro de leche
 
 125 gr mantequilla
@@ -31,7 +30,6 @@ huevo batido
 pan rallado
 
 <h3>Preparación</h3>
-
 Poner la mantequilla al fuego, para que se vaya deshaciendo. A continuación agregar la harina, e ir removiendo unos minutos, para que la harina se mezcle bien con la mantequilla.
 
 A continuación añadir la leche poco a poco, sin dejar de remover para que no salgan brumos.

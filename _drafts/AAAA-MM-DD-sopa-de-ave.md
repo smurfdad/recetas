@@ -24,7 +24,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 esqueletos de pollo
 
 4 zanahorias
@@ -50,7 +49,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Para hacer el caldo cuece el verde de los puerros, los esqueletos de pollo, 2 zanahorias (lo verde también), los dientes de ajo y las cebollas en agua con sal durante 30 minutos. Pica el blanco de los puerros, otras 2 zanahorias y el apio y dóralos en otro cazo. Después de mezclar bien, añade los guisantes y los fideos.
 
 Corta el jamón en dados y échalos a las verduras.

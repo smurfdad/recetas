@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de rabo de toro o de ternera
 
 1 cebolla
@@ -40,7 +39,6 @@ Vino tinto
 Aceite, vinagre y sal
 
 <h3>Preparación</h3>
-
 Se pone el rabo en una cazuela con todos los ingredientes, menos las patatas, troceada la cebolla y pelados los ajos, cuidando las cantidades de las especias y del vinagre.
 
 Se cubre de vino tinto y se cuece a fuego moderado hasta que se haga la carne. Se retira esta y la salsa se pasa por el chino, cubriendo con ella la carne.

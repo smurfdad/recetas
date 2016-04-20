@@ -21,7 +21,6 @@ Para 6 personas.
 - perejil picado
 
 <h3>Preparación</h3>
-
 Se pelan los espárragos y se dejan en agua.
 
 Cuando estén pelados, se cuecen en agua hirviendo con sal por espacio de 45 minutos.

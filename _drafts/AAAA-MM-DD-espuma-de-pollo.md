@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de pechuga de pollo cocida
 
 2 huevos
@@ -43,7 +42,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Cocer los huevos. Preparar una bechamel, mezclando en una cacerolita a fuego bajo la harina con la mantequilla fundida y diluyendo la leche caliente. Seguir removiendo hasta que la salsa hierva y quede totalmente lisa. Picar fino el pollo, el jamón y los huevos. Agregar a ello la bechamel, sal y pimienta. Montar la nata y agregarla con cuidado a los demás ingredientes.
 
 Verter la espuma en un molde rectangular de un litro de capacidad, previamente untado con mantequilla. Nivelarlo y golpear unas cuantas veces sobre la mesa para que se coloque bien y no queden burbujas en el interior. Cubrirlo con papel de plástico o tapadera, si tiene, y meterlo en la nevera unas 2 horas.

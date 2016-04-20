@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 volován
 
 Laurel
@@ -25,7 +24,6 @@ Pimienta negra en grano
 12 langostinos
 
 <h3>Preparación</h3>
-
 Poner al fuego agua abundante junto con unos granos de pimienta negra, 3 hojas de laurel y sal.
 
 Cuando hierva, echar los langostinos y cuando el agua vuelva a hervir, dejarlos unos 3 ó 4 minutos.

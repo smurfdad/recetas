@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 codillo fresco (sin envasar al vacío)
 
 4 chorizos de ración
@@ -37,7 +36,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Se cuece el codillo lentamente en una cacerola con agua que lo recubra,durante dos horas y media. A continuación se echan los chorizos, las patatas peladas y picadas, y los grelos. Se espera a que todo vuelva a hervir durante una media hora.
 
 Se sirve siguiendo las raciones y proporciones individuales.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pescado (rape, congrio, raya).
 
 8 cucharadas soperas de aceite de oliva.
@@ -41,7 +40,6 @@ Perejil picado.
 Azafrán.
 
 <h3>Preparación</h3>
-
 Cortar el pescado, salpimentar y dejar reposar mientras preparamos la picada. Poner al fuego la cazuela de barro con el aceite y sofreir todos los ingredientes de la picada. Primero el pan, sacarlo y ponerlo en el mortero y sucesivamente todo el resto.
 
 Picarlo finamente hasta reducirlo a una fina pasta y diluirla con el vino blanco.

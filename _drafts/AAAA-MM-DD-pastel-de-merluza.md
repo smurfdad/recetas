@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 500 gr. de merluza
 
 6 huevos
@@ -35,6 +34,5 @@ mahonesa
 perejil
 
 <h3>Preparación</h3>
-
 Después de haber cocido el pescado, se desmiga y se mezcla con los huevos, la nata y el tomate. Se mete en un molde untado de mantequilla al horno, al baño María, durante una hora a fuego medio. Una vez hecho, se parte en porciones y se adorna con mahonesa, huevo cocido y perejil.
 

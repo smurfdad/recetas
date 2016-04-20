@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg de arroz (a ser posible del más barato)
 
 2 cabezas de ajo
@@ -38,7 +37,6 @@ categories:
 3 pastillas de avecrem
 
 <h3>Preparación</h3>
-
 Primero se fríe el perejil, media cebolla troceada y las dos cabezas de ajo enteras.
 
 Después se trocean los conejos y se ponen a cocer con la cucharada de aceite y pimienta negra, para darle más sabor se le echan tres pastillas de avecrem.

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 cucharadas de aceite de oliva
 
 1 escarola
@@ -39,6 +38,5 @@ Para 6 personas.
 1 cucharada de vinagre
 
 <h3>Preparación</h3>
-
 Se lava y se corta la escarola, se pone en un paño seco y se sacude. Se echa en una ensaladera, se le añaden los granos de la granada limpia y la manzana cortada en dados y pelada anteriormente. Se sazona con la salsa vinagreta, que se hace batiendo bien el aceite y el vinagre y se sazona con la pimienta y la sal.
 

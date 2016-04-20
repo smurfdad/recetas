@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 600 gr. de carne de cordero o ternera
 
 100 gr. de puré de tomate o 200 de tomate fresco
@@ -40,7 +39,6 @@ pimentón dulce o picante
 1 clavo
 
 <h3>Preparación</h3>
-
 Poner la carne en una olla con agua sobre la placa de su cocina eléctrica; cuando hierve, se le añaden los tomates y los pimientos cortados en trozos grandes, las cebollas, los dientes de ajo sin pelar, el laurel, especias que gustemos.
 
 Una vez todo colocado, la olla se cierra y se deja en el fuego durante 20 minutos, transcurrido este tiempo se hace un majado en el mortero con el migote de pan remojado, pimienta, pimentón, comino y un poco de agua con la que hemos cocido la carne.

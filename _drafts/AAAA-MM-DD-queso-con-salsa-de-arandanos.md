@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 queso suave, 1 pieza por persona
 
 salsa de arándanos
@@ -36,6 +35,5 @@ pan rallado
 azúcar
 
 <h3>Preparación</h3>
-
 Rebozamos el queso en harina, huevo y pan rallado y lo freímos en aceite de oliva bien caliente. Por otro lado, preparamos un almíbar con azúcar y agua, que añadiremos a la mermelada de arándanos, quedando así más ligera. Presentamos el plato con el queso bañado con la salsa. Se sirve caliente.
 

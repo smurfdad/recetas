@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pecho de ternera
 
 1 litro de agua fría
@@ -48,7 +47,6 @@ sal
 pimienta en grano
 
 <h3>Preparación</h3>
-
 Se corta la carne en tacos, se sazona y se pasa por harina.
 
 Dándole un golpe fuerte en la sartén.

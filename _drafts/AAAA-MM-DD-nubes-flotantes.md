@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 litro de leche
 
 3 huevos
@@ -34,7 +33,6 @@ Para 4 personas.
 1 cucharada de flan en polvo
 
 <h3>Preparación</h3>
-
 Se separa la clara de la yema y se bate la clara a punto de nieve, y se cuece con la leche. Se mezcla en un bol un vaso de leche, la vainilla, las yemas de huevo, el flan y el azúcar.
 
 Una vez que la leche se ponga a hervir, se sacan las claras y mezclamos la leche con la mezcla anterior.

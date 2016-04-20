@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kg. de habas verdes peladas
 
 4 lonchas finas de jamón de Teruel
@@ -33,6 +32,5 @@ Para 4 personas.
 1/2 vaso de aceite de oliva
 
 <h3>Preparación</h3>
-
 Poner una sartén amplia al fuego, calentar en ella el aceite y añadir la cebolleta pelada y troceada, pocharla ligeramente y agregar el jamón troceado. En cuanto el jamón aclare el color, añadir las habas, y dejar freír con la sartén tapada, dándole vueltas de vez en cuando para que no se pegue, durante 30 minutos. Servir bien calientes.
 

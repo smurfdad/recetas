@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de raya en trozos.
 
 Medio vaso de sidra.
@@ -40,6 +39,5 @@ Perejil picado.
 Pimienta.
 
 <h3>Preparación</h3>
-
 En una cazuela ponemos un chorro de aceite, agregamos la cebolla picada y rehogamos. A continuación, incorporamos las patatas cortadas en lonchas de medio centímetro. Transcurrido un cuarto de hora, agregamos la raya en trozos, salpimentada, y la sidra. Dejamos que cueza tres minutos por cada lado, probando de sal y moviendo de vez en cuando para que no se pegue. Espolvoreamos con perejil picado y servimos.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 g. de hojaldre
 
 1/2 limón
@@ -44,7 +43,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Estiraremos el hojaldre y haremos cuatro partes iguales, de forma rectangular, que doblaremos de izquierda a derecha en tres pliegos y pondremos al horno durante 10 minutos, a 2100. Mientras, hacemos el coulis con los fresones, 100 g. de frambuesas, el limón y la sal, y lo ponemos todo en el turmix y, seguidamente, en un cazo al fuego a que arranque el hervor y retirar. Dispondremos el coulis en el fondo de un plato.
 
 Encima colocaremos el hojaldre, al que habremos cortado la parte de arriba, con unas frambuesas dentro y encima la nata, y taparemos con el sombrerito que hemos cortado. Al lado ponemos unas fresitas de bosque, unas moras y la bola de sorbete

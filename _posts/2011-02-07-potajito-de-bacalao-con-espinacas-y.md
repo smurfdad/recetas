@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 grs. de espinacas cocidas
 
 400 grs. de garbanzos cocidos
@@ -24,5 +23,4 @@ Sofrito de tomate y cebollas
 4 dientes de ajo
 
 <h3>Preparación</h3>
-
 Dorar las migas de bacalao con las espinacas, ya troceadas y los dientes de ajo laminados. Añadir el sofrito y marear todo un poco. Agregar los garbanzos con el caldo de verduras y dejar reducir hasta que el caldo cubra.

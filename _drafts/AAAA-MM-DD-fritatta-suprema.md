@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 2 cdas. de aceite de oliva
 
 1 cebolla pequeña picadita
@@ -49,7 +48,6 @@ sal y pimienta
 1 taza de queso cheddar rallado
 
 <h3>Preparación</h3>
-
 En un sartén de 10 pulgadas, caliente el aceite de oliva y sofría la cebolla, el ajo, las habichuelas tiernas o espárragos y el pimiento rojo.
 
 Añada el agua poco a poco mientras los vegetales se cuecen(5 a 8 minutos)

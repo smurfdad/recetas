@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gramos de rape limpio.
 
 8 colas de cigalitas peladas.
@@ -55,7 +54,6 @@ Calabacín torneado.
 Puntas de espárragos trigueros.
 
 <h3>Preparación</h3>
-
 Para elaborar el aceite de cigalitas: Pochamos la chalota picada en brounoisse, añadimos las cáscaras y cabezas de las cigalas y cocemos 1/4 de hora.
 
 Flambeamos con el coñac, dejamos cocer 5 minutos y colamos.

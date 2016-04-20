@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 k de chopitos
 
 2 manojos de espárragos verdes
@@ -38,6 +37,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Pelar los espárragos desde la yema hasta abajo y cortarlos del mismo tamaño. Pasarlos por agua, escurrirlos y secarlos muy bien. Calentar 1 dl de aceite en una sartén y freír los espárragos, salpimentar. Escurrirlos y reservar al calor. Lavar, escurrir y secar los chopitos con papel absorbente. Calentar el aceite restante y saltear los dientes de ajo y los chopitos. Sazonar con pimienta y sal y agregar cebollino. Cuando los chopitos estén dorados retirarlos del fuego y servirlos con los espárragos.
 

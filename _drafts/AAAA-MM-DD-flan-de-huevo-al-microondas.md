@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 ml. leche
 
 5 cucharadas azúcar
@@ -32,6 +31,5 @@ Para 4 personas.
 caramelo líquido.
 
 <h3>Preparación</h3>
-
 Disuelve el azúcar en la leche. Bate los huevos e incorpóralos. Unta un molde con caramelo y agrégale la mezcla. Hornea 20 minutos a temperatura media.
 

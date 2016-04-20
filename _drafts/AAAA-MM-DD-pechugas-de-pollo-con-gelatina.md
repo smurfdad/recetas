@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 6 pechugas de pollo deshuesadas
 
 50 gr de mantequilla
@@ -58,7 +57,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Disolver la pastilla de caldo en cuarto de litro de agua a punto de hervir, añadir el vino, el zumo de limón y la cola de pescado pasar por un colador y dejar un rato en el frigorífico.
 
 Sazonar las pechugas con sal y pimienta enharinarlas ligeramente y freirlas a fuego suave en la mantequilla y el aceite.

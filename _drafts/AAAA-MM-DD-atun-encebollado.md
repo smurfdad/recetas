@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de atún
 
 2 cebollas grandes
@@ -36,7 +35,6 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Sofría la cebolla cortada en rodajas finas con el aceite de oliva. Cuando la cebolla tome color agregue el atún, ya limpio y sin piel. Rehogue unos minutos y después añada sal, pimienta y la hoja de laurel.
 
 Agregue la copa de vino y deje cocer a fuego lento 15 minutos. Se sirve caliente.

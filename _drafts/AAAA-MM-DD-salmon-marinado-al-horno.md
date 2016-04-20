@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas grandes de salmón fresco
 
 Zumo de 1/2 limón
@@ -40,6 +39,5 @@ Eneldo
 Perejil
 
 <h3>Preparación</h3>
-
 Se coge el salmón y se le añaden todos los ingredientes citados anteriormente. Se deja en maceración 1 hora. Pasado este tiempo se pasa el salmón a la fuente del horno de 15 a 20 min. a 170&ordm; (fuego arriba y abajo). Transcurrido el tiempo se pone al grill fuerte 1 ó 2 min. para que se dore. Se sirve en una bandeja con ensalada.
 

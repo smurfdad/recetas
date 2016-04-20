@@ -22,13 +22,11 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 higos frescos maduros, pero firmes
 
 110 g de queso Roquefort
 
 <h3>Preparación</h3>
-
 Lavar y secar cuidadosamente cada higo.
 
 Utilizando un cuchillo filoso, hacer un corte en cruz hacia abajo, casi del largo de cada fruta.

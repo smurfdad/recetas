@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 200 grs. de harina+ 1 cucharadita de royal
 
 100 grs, de chocolate amargo
@@ -37,7 +36,6 @@ Para la trufa:
 1 cucharadita de azúcar vainillado
 
 <h3>Preparación</h3>
-
 Derretir el chocolate en el fuego junto con un poco de la leche, a fuego suave. Dejar enfriar. Ablandar la mantequilla en el microondas durante 50 segundos.
 
 Añadir por este orden: las dos clases de azúcar, las yemas, la leche restante, el chocolate, la sal y la harina mezclada con el royal. Después de cada ingrediente, mezclar bien.

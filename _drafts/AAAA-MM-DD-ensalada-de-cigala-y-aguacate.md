@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 Un aguacate
 
 Cuatro cigalas medianas
@@ -39,7 +38,6 @@ Tres cucharadas de aceite de oliva virgen y una de vinagre de Módena
 Pimienta negra y sal
 
 <h3>Preparación</h3>
-
 Pelar el aguacate y cortarlo en filetes largos, de un grosor de dos milímetros. Pelar el tomate y cortarlo en dados pequeños, quitando agua y pepitas. Lavar y picar la escarola.
 
 Poner en un bol el aceite de oliva, el vinagre, la cebolla muy picada, el cebollino, la pimienta y la sal; batir hasta ligar la vinagreta.

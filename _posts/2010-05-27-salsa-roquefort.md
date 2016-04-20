@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. nata líquida
 
 200 grs. queso roquefort o bleu
@@ -17,7 +16,6 @@ Para 6 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Poner en un cazo al fuego los ingredientes e ir moviendo con cuchara de madera mientras se va calentando hasta que llegue a hervir.
 
 Dejar cocer un poco a fuego suave, sin dejar de remover, hasta que todo quede ligado.
@@ -25,6 +23,5 @@ Dejar cocer un poco a fuego suave, sin dejar de remover, hasta que todo quede li
 Rectificar de sal y pimienta si es necesario.
 
 <h3>Observaciones</h3>
-
 Para carnes asadas o a la plancha. Roastbeef.
 

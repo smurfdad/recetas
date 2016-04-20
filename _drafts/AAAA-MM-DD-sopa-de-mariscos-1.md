@@ -24,7 +24,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 Para el caldo.
 
 2 litros de agua
@@ -82,7 +81,6 @@ Para la salsa
 epazote al gusto
 
 <h3>Preparación</h3>
-
 Se hace un caldo espumado muy bien con los 12 primeros ingredientes, luego se sumergen los camarones dentro del caldo de 5 a 7 minutos o hasta que cuezan,despues se retiran y se guardan, se cuecen los callos durante 1 minuto dentro del caldo y se cortan los trozos de pescado de 2 por 2 sentimetros sumergiendolos durante 5 minutos dentro del caldo.
 
 Manera de hacer la salsa

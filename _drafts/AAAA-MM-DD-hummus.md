@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pote de 250 gr. de garbanzos
 
 1 o 2 dientes de ajo
@@ -40,7 +39,6 @@ Sal
 Perejil
 
 <h3>Preparación</h3>
-
 Escurres los garbanzos del pote y los metes en una batidora de vaso/licuadora/blender junto con el ajo, la tehina, el zumo del limón, un poquito de sal, una cucharada o dos de aceite de oliva y la cucharada de tehina.
 
 Bates/licúas todo y vas agregando agua hasta que quede entre liquido y consistente.

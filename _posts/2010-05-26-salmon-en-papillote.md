@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de salmón en dos lomos
 
 2 cebollas en rodajas finas
@@ -23,7 +22,6 @@ Para 6 personas.
 ajo, perejil, aceite de oliva
 
 <h3>Preparación</h3>
-
 Rehogar las verduras en el aceite, justo hasta que vayan a empezar a dorarse.
 
 Colocar sobre una fuente de horno un trozo de papel de aluminio (que sea más grande de lo que es el pescado).

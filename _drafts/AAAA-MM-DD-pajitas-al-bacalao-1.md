@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote de aceitunas negras
 
 5 patatas medianas
@@ -36,7 +35,6 @@ Bacalao
 Aceite
 
 <h3>Preparación</h3>
-
 Se desala el bacalao en remojo durante 5 horas, después de habersele quitado las espinas y la piel.
 
 Se cortan las patatas muy finas, y se fríen en abundante

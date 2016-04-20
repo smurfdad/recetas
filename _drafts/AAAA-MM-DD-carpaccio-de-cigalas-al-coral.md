@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Para el aceite de cigala:
 
 500 gr. cáscaras de cigala
@@ -45,7 +44,6 @@ Para el puré de cebolla:
 1 kg. de cebollas peladas
 
 <h3>Preparación</h3>
-
 Esencia de cigalas: Descabezar las cigalas y saltear las cabezas. Prensar con los dedos para extraer la esencia y pasarla por un colador. Una vez sacada la esencia de las cabezas, echar en cubiteras y congelar. Usar 1 cubito por cada carpaccio, mezclándole un poco de aceite de cigalitas. Cigalas: Pelar las colas y hacer el carpaccio aplastándolas entre dos plásticos de igual diámetro en el plato en el que se colocarán. Congelar para emplatar.
 
 Aceite de guindillas: Usar las cabezas de sacar el coral mezclándolas con aceite de oliva y confitar a fuego muy suave durante un par de horas.

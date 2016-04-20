@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 5 filetes de carne de res aplanados
 
 1 paquete chico de queso doble crema
@@ -36,6 +35,5 @@ aceite para freir la carne
 palillos para formar los rollos.
 
 <h3>Preparación</h3>
-
 Ralla el queso manchego y añadale el queso doble crema formando una pasta. Aparte toma un filete, extiendelo, cubrelo con hojas de espinaca fresca, lavada y desinfectada, en el centro coloca una porción de la mezcla de los quesos y esparse; por último coloca algunos de los jitomates cherry partidos por la mitad. Envuelve el filete formando un rollito, cuida que al momento de freirlo toda la carne tenga acceso al aceite para que quede bien cocida. Utiliza los palillos para fijar el rollo. Calienta en una sarten el aceite necesario para freirlos. Repite la operación con cada uno de los filetes. Quedan deliciosos. Los puedes acompañar de ensalada verde o brócoli y colifor cocidos.
 

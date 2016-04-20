@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 paquete de mezcla de Pudín 5 minutos ROYAL sabor vainilla
 
 1 lata de piña machacada en su jugo, sin escurrir
@@ -34,7 +33,6 @@ Realice un bizcocho de su preferencia
 10 fresas pequeñas
 
 <h3>Preparación</h3>
-
 En un tazón mediano, prepare el pudín según sus indicaciones, agregue  la piña y su jugo, mezcle. Incorpore con cuidado la crema batida y mezcle en forma envolvente.
 
 Corte el pastel horizontalmente en 3 capas. Rellene la torta con la mezcla de pudín y cubra la parte superior con e resto del pudín.

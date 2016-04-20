@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pimientos verdes
 
 2 berenjenas
@@ -36,6 +35,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se lavan y trocean en cuadrados las hortalizas, excepto el tomate, poniéndolas a continuación en una sartén, bien cubiertas por el aceite. Se la sartén y se pone a fuego lento. Mientras se escaldan los tomates, se pelan y se trocean, añadiéndolos a la sartén a los 20 minutos del inicio de la cocción. Se sazona con sal, y se deja cocer todo tapado durante 15 minutos más. Se sirve recién hecho.
 

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla mediana
 
 3 dientes de ajo
@@ -24,7 +23,6 @@ sal
 1 litro de agua
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y el ajo, poniéndolo al fuego con un poco de aceite a rehogar despacio.
 
 Una vez este la verdura, agregar los garbanzos, el agua y un poco de sal.

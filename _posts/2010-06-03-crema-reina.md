@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 aceite
 
 60 gr mantequilla
@@ -25,7 +24,6 @@ aceite
 1 1/2 litro de caldo de gallina
 
 <h3>Preparación</h3>
-
 En una cazuela se pone la mantequilla a derretir con un poco de aceite y se pone la cebolla picada muy fina a rehogar.
 
 Una vez echa añadir la harina y remover bien. Una vez este echo se le añade el caldo de gallina, removiendo bien y dejar hervir despacio 10 minutos.

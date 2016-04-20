@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 litro de nata
 
 12 huevos
@@ -36,7 +35,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Limpiar los puerros y picarlos en aros finos, cociéndolos en abundante agua hirviendo con sal.
 
 Una vez cocidos, refrescarlos y escurrirlos y reservar.

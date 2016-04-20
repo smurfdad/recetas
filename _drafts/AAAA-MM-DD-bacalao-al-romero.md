@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 4 trozo bacalao desalado
 
 1 Ud. cebolla
@@ -38,6 +37,5 @@ pan rallado
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Enharinar y freír el bacalao, reservar. Dorar la cebolla bien picada y reservar. En una cazuela de barro, freír el tomate, añadir el bacalao, por encima poner la cebolla, el romero y finalmente el pan rallado y gratinar.
 

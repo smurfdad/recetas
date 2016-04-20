@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 g de manzanas
 
 300 g de peras
@@ -41,6 +40,5 @@ Para 4 personas.
 unas hojas de menta
 
 <h3>Preparación</h3>
-
 Pelar y descorazonar las manzanas y las peras. Cortarlas en cuadrados y rociar con el zumo de limón. Pelar las mandarinas y separar los gajos. Abrir la vaina de vainilla a lo largo. Disponer en un cazo las manzanas y las peras, con la vainilla y el azúcar. Cubrir con agua y cocer a fuego suave de 15 a 20 minutos. Cinco minutos antes de terminar la cocción agregar los gajos de mandarina. Servir la compota templada, adornar con las hojas de menta.
 

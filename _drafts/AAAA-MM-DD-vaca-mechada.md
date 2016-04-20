@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kg. de carne de vaca
 
 1 cebolla
@@ -61,6 +60,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Se cuece la carne y se mecha con trozos de tocino, perejil, ajo, pimienta y clavo. A continuación, se marea en una cacerola con manteca y se saca. Se agrega a la manteca un hueso de ternera, un trozo de hueso de jamón, algunos recortes de carne, huesecillos y restos de ave. Se marea todo hasta que quede en la pringue y se añade media cebolla picada. Se le da varias vueltas, se le echa media cucharadita de pimienta molida y se remueve bien. Se añade un vaso de vino de Málaga y el caldo del puchero hasta cubrirlo todo. Se agrega otra media cebolla, los tomates, los hongos secos, perejil, hierbabuena, una hoja de laurel, la cabeza de ajos tostada y entera, el apio, la zanahoria y el nabo cortados en cascos y la carne. Se deja cocer hasta que esté tierno, se tritura todo, excepto la carne, y se pasa por el colador. La salsa así obtenida, junto con la carne, se pone a fuego lento hasta que cueza la harina que se le ha añadido.
 

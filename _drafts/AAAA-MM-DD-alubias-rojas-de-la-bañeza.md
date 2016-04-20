@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 200 grs de alubia roja
 
 1 patata
@@ -36,7 +35,6 @@ Para 2 personas.
 aceite y sal
 
 <h3>Preparación</h3>
-
 1&ordm; se ponen las alubias en remojo durante 12 horas minimo con un poco de sal.
 
 A la hora de hacerlas se ponen las alubias y la zanahoria troceada en la olla cubiertas con agua fria, de forma que el agua sobrepase a las alubias dos dedos, se procede a la cocción, una vez que empiece a hervir se baja el fuego y se cuecen durante una hora a fuego bajo, cuidando que no se queden sin agua, a parte se hace una fritada con la cebolla y el diente de ajo, todo bien picadito, esta fritada hay que hacerla y echarla a las alubias cuando haya pasado la hora de cocción, junto con la fritada de cebolla y ajo se echa la patata troceada, , se mira si hace falta echar mas agua a las alubias, se echa la sal, se sube el fuego para que empiece a hervir

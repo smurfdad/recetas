@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lengua de ternera
 
 5 dientes de ajo
@@ -46,6 +45,5 @@ Pimienta
 Sal
 
 <h3>Preparación</h3>
-
 Se limpia bien la lengua y se trocea. En una pota se pone el aceite a calentar y en él se doran los ajos fileteados y las cebollas picadas. A continuación se añaden los tomates cortados en daditos muy pequeños, el azafrán y la hoja de laurel. Se sala. Cuando el tomate empiece a deshacerse se incorpora la lengua en rodajas, el vino y el caldo. Se salpimenta y se deja cocer hasta que la lengua esté tierna. Puede acompañarse de patatas guisadas en la misma salsa o patatas fritas.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 paleta de cordero de 1,2 kg. deshuesada y desgrasada
 
 1 echalote
@@ -46,7 +45,6 @@ Perejil picado
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Cubrir la carne con un plástico y aplastarla mediante un palo de amasar. Pelar y picar la echalote juntamente con el perejil.
 
 Exprimir el diente de ajo para obtener el jugo que se observará en un rol en el que habrá de ponerse la carne de cerdo y de vaca, el huevo, la echalote, el perejil, la sal y la pimienta. Este relleno deberá extenderse sobre la carne de cordero que luego se deberá arrollar y cerrar fijándola con palillos.

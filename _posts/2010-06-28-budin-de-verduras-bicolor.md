@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1kilo de remolachas
 
 1kilo de espinaca lavada y escurrida sin los tallos
@@ -27,7 +26,6 @@ Sal, pimienta y nuez moscada a gusto
 2 cucharadas de aceite para freír
 
 <h3>Preparación</h3>
-
 En una sartén rehogar las cebollas y los echalottes.
 
 Lavar bien las remolachas y ponerlas a hervir en agua salada con la cáscara, cuando estén tiernas retirarlas dejar entibiar, pelarlas, cortarlas en cubos y procesar.

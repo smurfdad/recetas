@@ -28,7 +28,6 @@ Para la vinagreta:
 - Sal.
 
 <h3>Preparación</h3>
-
 En una sartén doramos ligeramente las nueces peladas y las pasas sin pepitas añadiendo la cucharada de azúcar.
 
 Cuando el azúcar comience a caramelizarse, retiramos la sartén del fuego y sobre los ingredientes añadimos el aceite de oliva, removemos y ligamos. Cuando haya templado un poco el aceite de oliva vertemos el vinagre balsámico, removemos el conjunto y mantenemos en la sartén y en un lugar templado.

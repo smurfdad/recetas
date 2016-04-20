@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 600 gr. cangrejos de río
 
 11. de caldo de pescado
@@ -51,6 +50,5 @@ Sal
 2 zanahorias pequeñas
 
 <h3>Preparación</h3>
-
 Se saltean los cangrejos con la mitad de la mantequilla, se flambean y se reservan. En una cacerola, se rehogan, con el resto de la mantequilla, las cebollas, los puerros, el apio y las zanahorias. Después se añaden los cangrejos flambeados, el tomate, el caldo de pescado, previamente preparado, la sal y el Tabasco. Se deja cocer durante media hora y después se echa, en el mismo recipiente, el arroz hasta que esté cocido. Se bate todo y se pasa por un chino, colocándose de nuevo en el fuego añadiéndose la nata a continuación.
 

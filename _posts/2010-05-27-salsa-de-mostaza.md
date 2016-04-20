@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 cucharadas de  yogur natural
 
 4 cucharadas rasas de mostaza
@@ -23,7 +22,6 @@ Para 6 personas.
 1 cucharadita rasa de sal
 
 <h3>Preparación</h3>
-
 Mezclar bien todos los ingredientes.
 
 Servir en salsera aparte en las ensaladas o echar sobre la superficie.
@@ -31,6 +29,5 @@ Servir en salsera aparte en las ensaladas o echar sobre la superficie.
 Queda muy bien con aguacate y piña.
 
 <h3>Observaciones</h3>
-
 Ensaladas, verduras ...
 

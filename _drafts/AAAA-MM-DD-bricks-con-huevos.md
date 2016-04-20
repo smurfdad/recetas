@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 hojas de brick
 
 8 huevos
@@ -48,6 +47,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Separar las hojas de brick con cuidado y poner en el centro de cada una de ellas 1 huevo entero. Doblar la hoja de brick haciendo un paquete. Freír las hojas de brick en el aceite caliente durante 2 minutos. Lavar y escurrir muy bien las hojas de ensalada y los tomates. Batir el zumo de limón con la sal y la pimienta y agregar el aceite de oliva. Disponer la ensalada con los tomates en un bol y rociar con la vinagreta.
 

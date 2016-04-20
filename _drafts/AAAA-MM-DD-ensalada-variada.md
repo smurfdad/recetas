@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gramos jamón de York.
 
 200 gramos de judías verdes.
@@ -53,6 +52,5 @@ Sal.
 3 yemas de huevo cocido.
 
 <h3>Preparación</h3>
-
 Cocemos por separado las remolachas, las judías verdes y el apio (blanco de apio), todo cortado en juliana. Escurrimos y dejamos templar. Pelamos las manzanas y las cortamos en láminas. En el centro de una fuente ponemos las judías verdes y el apio, rodeando el conjunto con las hojas de endibia, la remolacha y el jamón en rollito. Añadimos también las láminas de manzana.
 

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de pechugas de pollo en filetes
 
 1 paquete de queso en lonchas
@@ -25,7 +24,6 @@ aceite de oliva, sal, pimienta, agua
 harina
 
 <h3>Preparación</h3>
-
 Extender los filetes.
 
 Encima de cada uno colocar una loncha de queso, enrrollar y sujetar con un palillo.

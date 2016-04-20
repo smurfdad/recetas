@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 perdices de campo aderezada
 
 1 cebolla
@@ -45,6 +44,5 @@ Para 4 personas.
 harina y caldo
 
 <h3>Preparación</h3>
-
 Se salpimentan las perdices por dentro y por fuera y se enharinan ligeramente. A continuación, se doran en el aceite. Retirarlas a una cazuela. Se añaden al aceite entonces la cebolla, los puerros y la zanahoria, cortado todo en juliana fina, el ramillete de hierbas y la pimienta; se deja fondear. Cuando se vea tierno se pone en la cazuela con las perdices, se moja con el vino blanco, se le da un hervor y se cubre con el caldo. Se deja hervir y se mantiene tapado a fuego lento por espacio de 2 horas. Pasado este tiempo, se rectifica y se sirve en un recipiente de barro, poniendo una perdiz partida por la mitad a cada comensal.
 

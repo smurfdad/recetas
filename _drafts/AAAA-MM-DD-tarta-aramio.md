@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 5 huevos
 
 1/2 taza de aceite
@@ -34,7 +33,6 @@ Para 8 personas.
 2 y 1/2 tazas de azúcar
 
 <h3>Preparación</h3>
-
 Batimos los huevos hasta que parezcan espuma. Añadimos el yogur, batimos y agregamos el aceite. Agregar una a una las tazas de harina y batimos hasta tener una consistencia suave. Echar el azúcar y seguimos batiendo.
 
 Si se desea agregar ralladura de un limóm con el azúcar. Untar con mantequilla y enharinar un molde y meter a 160&ordm; una hora. dejar enfriar y si se desea se puede rellenar.

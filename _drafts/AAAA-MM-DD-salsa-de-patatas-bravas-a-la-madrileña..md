@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 1 diente de ajo
@@ -50,6 +49,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Picar la cebolla y el diente de ajo muy fino y rehogar en el aceite, a fuego lento, junto a la punta de jamón y las dos cayenas.
 

@@ -22,7 +22,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de almejas
 
 Agua
@@ -32,7 +31,6 @@ Sal
 Limón
 
 <h3>Preparación</h3>
-
 Se lavan las almejas en agua con sal para que suelten las arenas que puedan tener. A continuación se ponen en una olla con un fondo de agua hirviendo para que se abran. Se sirven una vez que están abiertas.
 
 Nota: desechar aquellas almejas que no se abran.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Patatas
 
 Jamón de York
@@ -34,7 +33,6 @@ Bechamel
 Queso rallado
 
 <h3>Preparación</h3>
-
 Se cortan las patatas en trozos no muy grandes, como para guarnición.
 
 Se frien en abundante aceite hasta que estén doradas.

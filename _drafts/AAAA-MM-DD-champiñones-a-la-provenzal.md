@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500g de champiñones frescos
 
 1 cucharada de aceite de oliva
@@ -36,7 +35,6 @@ categories:
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Rehogar en aceite la cebolla y el ajo, agregar los champiñones enteros y dejar cocinar a fuego lento hasta que los hongos larguen el jugo y cambien de color.
 
 Añadir el perejil y salpimentar.

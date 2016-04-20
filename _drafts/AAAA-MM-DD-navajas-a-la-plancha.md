@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 docenas de navajas
 
 1 cabeza de ajo.
@@ -40,7 +39,6 @@ Sal.
 Pimienta negra en grano
 
 <h3>Preparación</h3>
-
 Pelar la cebolla y el ajo cortado en trozos pequeños y colocarlo en un recipiente con aceite y unas gotas de vinagre. Dejarlo todo el día macerar.
 
 Colocar las navajas vivas sobre una escurredora y ésta dentro de un recipiente con abundante agua caliente y salada (el nivel de sal similar al del agua de mar) durante diez horas.

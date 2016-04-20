@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 200 g de Bacalao de la parte de la cola
 
 4 patatas grandes
@@ -38,7 +37,6 @@ nuez moscada
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Escurrir el Bacalao y llevarlo al fuego, cubierto con agua, hasta que arranque el hervor. Dejarlo enfriar dentro del líquido, limpiarlo muy bien de piel y espinas y deshilarlo.
 
 Asar las patatas con piel dentro del horno, envueltas en papel de aluminio, a horno medio durante unos 80-90 minutos (el tiempo es mucho más corto si se posee horno de microondas, pues sólo se precisan unos 15 minutos, dándoles la vuelta a media cocción, en este caso no se envuelven en papel de aluminio). Dejarlas enfriar un poco.

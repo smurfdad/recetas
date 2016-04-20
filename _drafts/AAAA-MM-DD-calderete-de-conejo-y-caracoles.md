@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de patatas
 
 1 conejo
@@ -42,7 +41,6 @@ sal
 guindilla seca
 
 <h3>Preparación</h3>
-
 Conviene tener los caracoles 4 o 5 días en una red y a ser posible colgada de algún sitio. En una cazuela de borde bajo se pone aceite de oliva. Cuando esté caliente, se doran en él los trozos de conejo sazonados, sin que el fuego esté excesivamente fuerte, para que no se requeme.
 
 A mitad de cocción, se añaden la cebolla y el ajo, bien picados, y se sofríe todo junto. Se pelan las patatas. Se cortan al estilo madre y se incorporan a la cazuela. Se sazonan. Se sofríe el conjunto y se le añade el chorizo cortado en rodajas gruesas. Se cubre todo con agua caliente y, cuando rompa a hervir, se prueba de sazonamiento. Se le añaden unos trozos de guindilla seca a gusto de cada uno.

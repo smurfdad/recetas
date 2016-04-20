@@ -23,7 +23,6 @@ Para 12 personas.
 <b>Tiempo</b> 50 minutos.
 
 <h3>Ingredientes</h3>
-
 12 galletitas redondas de chocolate
 
 4 cdas dulce de leche
@@ -39,7 +38,6 @@ Para 12 personas.
 aceite
 
 <h3>Preparación</h3>
-
 Mezclar el dulce de leche con las nueces picadas. Untar las galletitas, formando un piso, con la preparación. Llevar al freezer 10 min.
 
 Acomodar una bocha de helado sobre cada galletita. Llevar al freezer hasta que el helado esté bien firme.

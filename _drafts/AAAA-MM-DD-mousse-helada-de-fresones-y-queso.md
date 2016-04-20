@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia
 
 400 gr. de fresones limpios
@@ -36,7 +35,6 @@ Para 4 personas.
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Reserva algunos fresones. Poner en un cazo la mayoría de los fresones junto con el azúcar y cocer durante 5 min. Triturarlos y mezclar con el queso.
 
 Montar la nata y añadir a la mezcla de queso y fresones. Echar las claras montadas y la pizca de sal y mezclar todo bien. Verter en copas y congelar durante 1 hora. Decora con los fresones.

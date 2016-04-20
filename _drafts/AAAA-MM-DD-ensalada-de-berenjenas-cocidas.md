@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 750 gramos de berenjenas pequeñas
 
 Sal
@@ -37,7 +36,6 @@ Sal
 1 pizca de peperoncino
 
 <h3>Preparación</h3>
-
 Lavar las berenjenas y cortar el rabillo.
 
 Cortarlas a la mitad en 2-3 trozos y éstos, a su vez, a la larga en 4-6 trozos gruesos.

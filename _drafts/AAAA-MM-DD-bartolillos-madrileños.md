@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Ingredientes para la masa:
 
 1/4 kg. de harina
@@ -53,7 +52,6 @@ Ingredientes para la crema:
 cáscara de limón
 
 <h3>Preparación</h3>
-
 Crema:
 
 En una vasija a propósito, colocamos los huevo y el azúcar y lo batimos todo hasta tener una mezcla bien hecha. Añadimos ahora la harina y lo vamos desliando todo con una pequeña cantidad de la leche. El resto de la leche la ponemos a cocer en otra vasija, incorporándole la cáscara de limón. Cuando la leche comienza a hervir, le añadimos la mezcla preparada antes y lo dejamos todo cocer lentamente y moviéndolo continuamente con una espátula durante unos 6 minutos. Una vez transcurrido este tiempo, lo apartamos y le añadimos la mantequilla y seguimos removiendo hasta que este todo bien mezclado, dejándola en reposo para que se enfríe.

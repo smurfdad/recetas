@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 huevos
 
 100 gramos de chocolate
@@ -32,7 +31,6 @@ categories:
 1 cucharada de brandy
 
 <h3>Preparación</h3>
-
 Se baten las yemas con el azúcar hasta conseguir una mezcla blanquecina.
 
 Se reblandece el chocolate en una cacerola al baño maría. Se añade a la preparación anterior removiendo constantemente.

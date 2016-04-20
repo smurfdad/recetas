@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de bonito.
 
 1 pimiento verde.
@@ -46,7 +45,6 @@ La parte blanca de algunos puerros.
 4 dientes de ajo.
 
 <h3>Preparación</h3>
-
 Las verduras se pican y se sofríen con un chorro de aceite, a fuego suave. Condimentamos y añadimos la salsa de tomate.
 
 Mientras tanto, se salan las rodajas de bonito y se pasan por harina. Cuando la verdura est pochada, se colocan encima las rodajas de bonito y se baña todo con el vino de jerez.

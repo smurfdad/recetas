@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 100 gr. de setas
 
 8 langostinos
@@ -32,6 +31,5 @@ ajo
 1 vaso de nata líquida
 
 <h3>Preparación</h3>
-
 Freír un diente de ajo con las setas troceadas. Agregar los langostinos pelados y el jamón troceado. Verter la nata y dejar hacer. Presentar en hojaldre y junto con el queso rallado y gratinar
 

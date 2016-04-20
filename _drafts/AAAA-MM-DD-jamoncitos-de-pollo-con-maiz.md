@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 8 jamoncitos de pollo
 
 1 limón
@@ -48,6 +47,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Limpiar los jamoncitos. Ponerlos en un recipiente hondo y rociarlos con 1 dl de aceite de oliva, mezclado con zumo de limón, pimentón, pimienta y sal. Escurrir los jamoncitos de pollo, secarlos y sazonar con sal y pimienta. Pasarlos por la harina, sacudiendo para retirar el exceso, después por el huevo batido con una cucharada de aceite y por último por el pan rallado. Freírlos en 1 dl de aceite caliente dándoles la vuelta para que se doren por todas partes. Retirarlos del fuego y escurrir sobre papel absorbente. Escurrir el maíz en un colador y saltearlo en el aceite restante. Servir los jamoncitos con el maíz y la salsa de tomate aparte.
 

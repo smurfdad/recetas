@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de harina
 
 1 hoja de laurel
@@ -43,6 +42,5 @@ Sal
 Pescado frito frío (rodajas de pescadilla, acedías, etc.)
 
 <h3>Preparación</h3>
-
 Poner el aceite de oliva a calentar en una cazuela, y freír la cebolla y el ajo picado. Cuando dore, agregar la harina y la hoja de laurel. Remover. Añadir un poco de agua y mover para evitar grumos. Dejar hervir, moviendo continuamente, hasta ligar la salsa. Al espesar la salsa, depositar en la cazuela los trozos de pescado frío y fritos con anterioridad, sobrante de la comida anterior. Dejar unos tres minutos más al fuego, añadir el vino y dejar impregnando el pescado bien en la salsa. Apartar y servir caliente.
 

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Pan de barra
 
 huevo duro
@@ -36,6 +35,5 @@ cebolleta picada
 salsa rosa
 
 <h3>Preparación</h3>
-
 Se pican todos los ingredientes, se unta todo con un poco de salsa rosa y se coloca encima del pan.
 

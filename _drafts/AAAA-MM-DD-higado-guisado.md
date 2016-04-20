@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de hígado
 
 350 gr. de patas
@@ -46,7 +45,6 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Póngase una cacerola con aceite o manteca, en la placa de su cocina eléctrica, y fríanse los ajos y la cebolla, una vez dorados retírense en un plato; en la misma grasa póngase las patas (mondadas), rehóguense durante unos minutos y añadir el pimentón; mover con una cuchara, añadir caldo y dejar cocer.
 
 En un mortero machacar bien el perejil, los ajos fritos, pimienta en grano y sal gorda; desliar con un poco de caldo y cuando estén cocidos, retirar en un plato para que se conserven enteras.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gr. mantequilla
 
 1 taza de azúcar
@@ -41,6 +40,5 @@ Para 6 personas.
 vainilla (al gusto)
 
 <h3>Preparación</h3>
-
 Batir mantequilla con el azúcar (cremoso), agregar harina y maicena (fécula de maíz) poco a poco, añadir huevos, cuando la masa se despegue del molde y esté moldeable, se extiende en una mesa y se cortan en círculos todos del mismo tamaño, se hornean, una vez cocidas se rellenan con la leche condensada en baño de maria y se le pone el coco por el borde.
 

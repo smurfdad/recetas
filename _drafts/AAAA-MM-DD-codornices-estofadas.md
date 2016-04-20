@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 codornices
 
 2 zanahorias
@@ -40,7 +39,6 @@ Laurel
 al y pimienta en grano.
 
 <h3>Preparación</h3>
-
 En una sartén se fríen las codornices, una vez doradas se ponen en otra cazuela y en el mismo aceite se rehogan las cebollas. Una vez doradas se añaden las zanahorias en rodajas, el champiñón en trocitos y todos los demás ingredientes, dejándolo cocer durante unos minutos. Se vierte todo en la cazuela sobre las codornices y se deja cocer durante media hora.
 
 Para servirlas se ponen en una fuente con la salsa alrededor.

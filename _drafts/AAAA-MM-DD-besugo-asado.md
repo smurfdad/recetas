@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 1 1/2 Kg. de Besugo
 
 2 Manojos de Ajetes
@@ -38,7 +37,6 @@ categories:
 Sal y Pimienta.
 
 <h3>Preparación</h3>
-
 Escamar y limpiar muy bien por dentro y por fuera el besugo, secarlo con papel absorbente. Pelar las patatitas. Pelar y trocear los ajetes. Cortar la guindilla en aros.
 
 Colocarlo en una fuente de horno, rodearlo con las patatas y los tomates, sazonar con sal y pimienta y rociarlo con el vino y la mitad del aceite.

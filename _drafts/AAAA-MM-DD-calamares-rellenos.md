@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 16 calamares medianos de 150 gramos cada uno
 
 1 manojo de perejil
@@ -52,7 +51,6 @@ Para 8 personas.
 1 frasco pequeño de alcaparras
 
 <h3>Preparación</h3>
-
 Vacíe y prepare los calamares, lávelos y déjelos escurrir. Lave el   perejil   y   píquelo   finamente.  Prepare los champiñones,  lávelos   y   córtelos   en   dados.   Pele   el  ajo y las cebollas y píquelos   finamente. Mezcle la carne molida con tres cuartas partes   del   perejil,   los  champiñones, el ajo, la mitad de las cebollas y el huevo. Lave el limón con agua caliente, séquelo, ralle    la    cáscara,   añádala a la carne molida y salpimente.
 
 Rellene   los calamares con esta mezcla. Caliente el aceite en una   sartén   y   fría  en ella los calamares. Añada la cebolla picada   restante y cubra con el caldo de carne y el vino. Deje cocer   a   fuego   moderado   unos   20 minutos.  Coloque los calamares rellenos en una fuente precalentada y consérvelos al  calor. Espese el caldo de cocción con la maicena desleída en  un  poco de agua y deje dar un hervor. Añada el resto del perejil  y  las  alcaparras  a   la salsa. Salpiméntela y viértala sobre los calamares rellenos.

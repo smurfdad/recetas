@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 filetes muy finos
 
 2 huevos
@@ -17,7 +16,6 @@ Para 6 personas.
 pan rallado
 
 <h3>Preparación</h3>
-
 Si no están muy finos los filetes, aplastarlos con un mazo.
 
 Echarles sal.

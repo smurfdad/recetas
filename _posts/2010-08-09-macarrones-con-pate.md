@@ -9,13 +9,11 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de macarrones (tipo plumas)
 
 1 lata de paté de anchoas
 
 <h3>Preparación</h3>
-
 En una cazuela sofreir con el aceite los ajos picaditos y la mitad del perejil picado muy finito.
 
 Cuando los ajos empiecen a dorarse, apartar la cazuela del fuego, añadir el paté y el pan rallado removiendo todo bien.

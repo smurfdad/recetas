@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Pollo 250 grs de higaditos
 
 Cebolla 1
@@ -47,7 +46,6 @@ Nuez Moscada
 Gelatina de carne
 
 <h3>Preparación</h3>
-
 Picar la cebolla y los ajos, con la mantequilla en una sartén la pondremos a calentar suavemente y freiremos la cebolla y los ajos hasta que estén bien hechos. Limpiar los hígados, trocearlos, añadirlos a la sartén y freírlos dándoles vueltas, los hígados deben dorarse. Sacar todo a un cuenco, verter los licores y dejar hacer hasta evaporar despacio el alcohol.
 
 Sazonar con sal, pimienta y nuez moscada hasta dejarla al gusto. Machacar bien todo el conjunto en la batidora hasta formar una pasta fina.

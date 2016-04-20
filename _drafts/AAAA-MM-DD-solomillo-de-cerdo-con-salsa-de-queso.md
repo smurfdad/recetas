@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 ó 3 solomillos de cerdo
 
 2 cebollas
@@ -40,7 +39,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se salpimentan los solomillos enteros y se ponen a fuego lento en una cazuela junto con la cebolla cortada en tiras.
 
 Cuando estén dorados rociarlos con el coñac.

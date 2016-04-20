@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr. de rape por persona
 
 4 melocotones
@@ -41,7 +40,6 @@ aceite
 láminas de calabacín
 
 <h3>Preparación</h3>
-
 Sacamos tres escalopas de los lomos del rape y las pasamos por una sartén antiadherente. Han de quedar tostadas. Intercalamos una escalopa con una lámina de melocotón caramelizado.
 
 Mantequilla de vino tinto: poner fumet de pescado y vino tinto a partes iguales. Reducir a jarabe y montar con la mantequilla.
@@ -49,7 +47,6 @@ Mantequilla de vino tinto: poner fumet de pescado y vino tinto a partes iguales.
 Melocotón caramelizado: cocer las láminas de melocotón en un almíbar ligero y poner a caramelizar en el silpat.
 
 <h3>Observaciones</h3>
-
 Decoramos con láminas de calabacín que hemos cocido al vapor y hierbas.
 
 Receta de Aragón.

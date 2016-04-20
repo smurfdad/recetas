@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Medio kilo de arroz.
 
 6 pimientos.
@@ -39,7 +38,6 @@ Aceite.
 Queso rallado.
 
 <h3>Preparación</h3>
-
 En una cazuela se pone a calentar abundante agua con sal y aceite. Cuando esté hirviendo, se añade el arroz, se deja cocer durante 15 minutos, aproximadamente, y se escurre.
 
 En una sartén, con aceite y un trozo de mantequilla, se fríen los pimientos, cortados en tiras, y el ajo. Cuando estén pochados se retiran de la sartén y en el aceite sobrante se rehoga el arroz.

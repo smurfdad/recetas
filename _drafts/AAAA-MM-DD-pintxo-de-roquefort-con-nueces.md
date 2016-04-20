@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Queso Roquefort
 
 nata
@@ -30,6 +29,5 @@ panecillo tostado noruego
 nueces
 
 <h3>Preparación</h3>
-
 Se elabora una crema con el queso y la nata, se extiende sobre el pan y se encumbra con nueces.
 

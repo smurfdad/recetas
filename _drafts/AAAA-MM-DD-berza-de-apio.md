@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 240 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gr. de alubias blancas
 
 200 gr. de garbanzos
@@ -51,6 +50,5 @@ Aceite de oliva
 Agua y sal
 
 <h3>Preparación</h3>
-
 Dejar los garbanzos y alubias a remojo desde la noche anterior. A los garbanzos se les puede echar sal, pero a las alubias no, durante el remojo. Poner al fuego una olla con las legumbres y el apio limpio, con bastante agua. Agregar los embutidos, el tocino y las carnes. Echar luego las hortalizas enteras, con un buen chorro de aceite de oliva, el pimentón y la sal. Poner todo a cocer como tres horas a fuego fuerte al principio y lento después. Dejar reposar una vez apartada, y consumir caliente.
 

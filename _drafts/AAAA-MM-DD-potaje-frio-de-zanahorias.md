@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 zanahorias peladas y rebanadas
 
 1 cebolla rebanada
@@ -42,7 +41,6 @@ crema ácida para servir
 6 ramitas de albahaca u hojas de menta
 
 <h3>Preparación</h3>
-
 Mezclar juntas las rebanadas de zanahorias, cebolla y apio en una olla.
 
 Agregar una taza de caldo de pollo.

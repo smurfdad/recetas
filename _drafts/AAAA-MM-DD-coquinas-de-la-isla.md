@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de coquinas de fango de la Isla
 
 6 dientes de ajo
@@ -38,6 +37,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Ponemos al fuego la sartén con un fondo de aceite de oliva. Agregamos los dientes de ajo pelados y laminados, y una cucharada de harina que removemos para que se disuelva. Inmediatamente después añadimos las coquinas previamente enjuagadas y el vino. Tapamos, dejando unos minutos que se hagan a fuego bajo. Cuando se hayan abierto, se le añade un poco de perejil picado, removemos, comprobamos de sal y servimos caliente.
 

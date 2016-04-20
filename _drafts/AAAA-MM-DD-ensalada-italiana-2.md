@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas
 
 2 manzanas
@@ -43,6 +42,5 @@ agua
 sal
 
 <h3>Preparación</h3>
-
 Se hierven las patatas, con su piel, en agua con sal Cuando están cocidas y frías, se pelan y se cortan formando tiras; de igual forma se cortan las manzanas peladas y sin corazón, los pimientos sin rabo ni semillas y el jamón cocido. Se mezcla bien la mayonesa con el yoghurt, y se cubre con esta salsa la ensalada, sirviendose en fuentes individuales Por ultimo se adornan con los huevos duros pelados y cortados en discos. Servir fría
 

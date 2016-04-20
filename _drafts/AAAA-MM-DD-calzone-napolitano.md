@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para la masa
 
 250g(2 tazas) de harina
@@ -48,7 +47,6 @@ Para el relleno
 1 tomate pelado, sin semillas cortado en cubos
 
 <h3>Preparación</h3>
-
 Preparar la masa para pizza como se indica en masas básicas para pizzas y dejar el bollo armado cubierto por un plástico y reservar.
 
 En un recipiente mezclar la ricotta, con la mozarrella, el tomate, la longaniza picada, el queso parmesano y los huevos y condimentar con un poco de sal y pimienta.

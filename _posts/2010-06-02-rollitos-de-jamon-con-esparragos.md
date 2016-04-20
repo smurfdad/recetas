@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 Espárragos Blancos gordos de lata
 
 4 Lonchas de Jamón
@@ -27,7 +26,6 @@ Para 4 personas.
 Nuez Moscada, Sal y Pimineta Blanca.
 
 <h3>Preparación</h3>
-
 Aplasta el foiegras con un tenedor y mézclalo con una cucharada del caldo de espárragos de la lata hasta hacer una pasta homogénea.
 
 Extiende las lonchas de jamón sobre una tabla, úntalas con la pasta del foiegras y córtalas por la mitad.

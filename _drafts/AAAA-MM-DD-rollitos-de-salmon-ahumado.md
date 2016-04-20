@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gramos de salmón ahumado en filetes.
 
 250 gramos de queso blando para untar.
@@ -41,7 +40,6 @@ Caviar.
 Salsa de acompañamiento (ali-oli ligero).
 
 <h3>Preparación</h3>
-
 Cortamos los filetes de salmón por la mitad (de cada uno, hacemos dos).
 
 Picamos en trozos muy pequeños la lechuga, el pepinillo y las aceitunas, junto con algún recorte de salmón. Mezclamos todos estos ingredientes con el queso.

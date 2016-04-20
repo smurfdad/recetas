@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 grs.de culata
 
 2 cebollas medianas
@@ -29,7 +28,6 @@ Para 4 personas.
 1 picada de Aceite de Oliva, Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Enharinar la carne y freirla durante unos minutos en aceite bien caliente. En una cazuela, sofreir la cebolla trinchada y los ajos.
 
 Cuando la cebolla esté dorada, añadir la carne y abocar el

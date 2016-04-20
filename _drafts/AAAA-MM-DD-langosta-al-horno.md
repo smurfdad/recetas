@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 langostas individuales
 
 4 cucharadas de mantequilla
@@ -36,7 +35,6 @@ Nuez moscada
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Fundir la mantequilla en un bol al baño María. Cuando esté líquida, mezclar las hierbas provenzales, la nuez moscada y pimienta. Reservarla.
 
 A continuación, abrir las langostas longitudinalmente cuando estén todavía vivas. Salarlas y colocarlas sobre una plancha de horno, con la parte de arriba abierta. Untar inmediatamente la superfície del corte, con la mantequilla preparada.

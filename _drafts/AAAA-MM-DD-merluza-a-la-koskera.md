@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 rodajas de merluza
 
 1 cebolla
@@ -43,7 +42,6 @@ fumeet de pescado
 4 espárragos
 
 <h3>Preparación</h3>
-
 Picar fina la cebolla y el ajo y rehogar con un poco de aceite.
 
 Sazonar la merluza con sal y enharinarla, ponerla en la cazuela y hacerla un poco por los dos lados.

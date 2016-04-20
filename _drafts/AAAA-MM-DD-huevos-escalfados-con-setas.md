@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 500 g de setas de temporada
@@ -38,6 +37,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Limpiar las setas con un paño húmedo, si no están muy sucias, y saltearlas en el aceite caliente. Salpimentar y agregar el jugo de carne, el pimentón y el cebollino. Dar un par de vueltas y reservar al calor. Calentar el agua con el vinagre en una sartén. Cuando rompa a hervir, bajar el fuego y agregar 1 huevo con cuidado para que no se rompa. Envolver la yema con la clara y cocer de 2 a 3 minutos. Continuar con los huevos restantes. Calentar las setas y servir las con los huevos escalfados.
 

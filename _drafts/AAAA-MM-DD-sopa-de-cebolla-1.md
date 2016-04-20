@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 cebollas blancas.
 
 1 1/2 litros de caldo.
@@ -37,6 +36,5 @@ Sal y pimienta.
 Queso Parmesano Rallado.
 
 <h3>Preparación</h3>
-
 Cortar las cebollas finamente y freír en margarina, añadir el caldo, sazonar con sal y pimienta, y dejar hervir por 25 minutos. Poner una rebanada de pan en cada plato, espolvorear una cucharada de queso rallado y verter la sopa encima. Servir caliente.
 

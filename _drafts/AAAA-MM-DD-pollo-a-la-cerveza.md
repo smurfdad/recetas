@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 pechugas de pollo
 
 2 cebollas cortada finita y pequeña
@@ -49,10 +48,8 @@ Sal
 pimienta.
 
 <h3>Preparación</h3>
-
 Se calientan el aceite y la manteca, y se saltea el pollo hasta que esté dorado. Cuando el pollo esta dorado agregar el ajo y las zanahorias. Darle unos minutitos para que cocine (revolverlas) y agregar las cebollas. Cuando las cebollas empiezan a tener colorcito, agregar el pimiento morrón. Dejar dorar todo. Cuando esta todo dorado, echar el vermut. Revolver y darle un par de minutitos para que reduzca. Agregar la cerveza y subir el fuego hasta que el juguito haga que llegue a ebullición. Ahí revolver y bajar nuevamente el fuego y agregar un chorro crema de leche.
 
 <h3>Observaciones</h3>
-
 Con un arroz blanco queda excelente.
 

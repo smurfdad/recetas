@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 aceite de oliva
 
 vinagre
@@ -38,7 +37,6 @@ pimienta blanca
 4 alcaparras
 
 <h3>Preparación</h3>
-
 Poner en un Bol aceite, un poco de vinagre y la pimienta.
 
 Añadirle la cebolla y el pimiento picado fino y previamente rehogado con un poco de aceite, junto con el resto de los ingredientes.
@@ -46,6 +44,5 @@ Añadirle la cebolla y el pimiento picado fino y previamente rehogado con un poc
 Mezclar todo bien.
 
 <h3>Observaciones</h3>
-
 Esta salsa sirve como aderezo de los espárragos dos salsas y otros tipos de ensaladas.
 

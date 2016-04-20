@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 pimientos verdes medianos
 
 1 cebolla mediana picada
@@ -48,7 +47,6 @@ Pimienta negra molida
 100 gramos de queso gallego o de bola cremoso
 
 <h3>Preparación</h3>
-
 Fríe en una sartén mediana a fuego medio la cebolla y el ajo durante 10 minutos, para que se ablande la cebolla. Añade el arroz y la mitad del zumo de tomate. Cuécelo muy despacio con la sartén tapada hasta que esté cocido el arroz, entre 30 y 40 minutos.
 
 Mientras tanto, corta el extremo del tallo de los pimientos, vacíalos de semillas y enjuágalos. Calienta el horno a 180C. Llena un cazo con agua y ponla a ebullición, entonces sumerge los pimientos durante 1 minuto. Escúrrelos y enfríalos con agua fría.

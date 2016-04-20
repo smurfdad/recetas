@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Lomos de bacalao
 
 pimiento verde
@@ -34,6 +33,5 @@ harina
 huevo
 
 <h3>Preparación</h3>
-
 Se desalan los lomos del bacalao y se rebozan con harina y huevo en aceite de oliva bien caliente. A continuación se le ponen encima unas tiras de cebolla pochada y unas tiras de pimiento verde, previamente frito y sin piel.
 

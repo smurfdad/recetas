@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de lomo de cerdo fresco cortado en tacos.
 
 1 kilo de champiñones enteros.
@@ -34,7 +33,6 @@ Media botella de vino tinto.
 1 diente de ajo y sal.
 
 <h3>Preparación</h3>
-
 Cortamos el lomo en trozos tipo salteado (en cubos).
 
 Dejamos macerar durante más de una hora los champiñones crudos en el vino tinto para que absorban el vino.

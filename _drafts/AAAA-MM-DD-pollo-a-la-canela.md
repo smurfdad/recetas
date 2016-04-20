@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo de kilo y medio aproximadamente.
 
 1 cucharada de canela en polvo o en rama.
@@ -44,7 +43,6 @@ Pimienta.
 Sal.
 
 <h3>Preparación</h3>
-
 El pollo se trocea, se salpimienta y se pone a freír.
 
 Cuando haya tomado color se añaden los dientes de ajo enteros, el perejil picado y la harina. Se rehoga y se cubre con agua. Se deja cocer a fuego suave aproximadamente unos 20 minutos. Pasado ese tiempo, se añade la canela y el vino tinto y se mantiene cociendo unos 10 minutos, hasta que quede hecho.

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cda de aceite de oliva
 
 1 cebolla picada
@@ -54,7 +53,6 @@ Para 4 personas.
 1/4 cdita de pimienta negra
 
 <h3>Preparación</h3>
-
 En una olla grande, con tapa, caliente el aceite a fuego moderado. Agregue la cebolla, los pimientos y el ajo y saltee, revolviendo de vez en cuando, por unos minutos, hasta que se suavicen las verduras.
 
 Añada los tomates con su jugo, el caldo, el agua, el arroz, la albahaca, y deje que suelte el hervor.

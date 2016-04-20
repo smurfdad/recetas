@@ -26,7 +26,6 @@ Para 6 personas.
 - perejil
 
 <h3>Preparación</h3>
-
 Limpiar las almejas, frotándolas en el grifo unas contra otras y ponerlas en una cazuela baja, con un poco de agua, al fuego fuerte, para abrirse.
 
 Según lo vayan haciendo tener cuidado de ir sacándolas a una fuente. Cuando lo hayan hecho todas, colar el caldo y reservar.

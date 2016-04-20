@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gramos de yogur natural.
 
 100 mililitros de leche.
@@ -36,7 +35,6 @@ Para 4 personas.
 100 gramos de mermelada de frambuesas.
 
 <h3>Preparación</h3>
-
 Calentamos la leche, la miel, el café soluble y el azúcar, todo junto.
 
 Una vez disuelta la mezcla la dejamos enfriar.

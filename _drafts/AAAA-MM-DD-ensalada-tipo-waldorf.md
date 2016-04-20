@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 blanco de apio cortado en cubitos
 
 2 manzanas verdes peladas, cortadas en cubitos rociadas con limón
@@ -35,7 +34,6 @@ categories:
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Se coloca en una ensaladera el apio, las manzanas y las nueces, se las baña con el aceite y condimenta con un poco de sal y pimienta.
 
 Se agrega por ultimo la crema condimentada con otro poco de sal y pimienta.

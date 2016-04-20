@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de langostinos
 
 Sal gorda
@@ -32,6 +31,5 @@ Laurel
 Agua
 
 <h3>Preparación</h3>
-
 En una pota se pone a hervir abundante agua con sal gorda y laurel. Cuando comienza a hervir se echan los langostinos que se dejan cocer de 3 a 5 minutos (dependiendo del tamaño) desde que rompe de nuevo el hervor.
 

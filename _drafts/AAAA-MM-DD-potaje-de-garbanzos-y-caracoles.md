@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de garbanzos
 
 1/4 kg. caracoles
@@ -40,7 +39,6 @@ pimentón
 aceite
 
 <h3>Preparación</h3>
-
 Los garbanzos, caracoles, judías y patatas, se ponen en una olla, cortando las judías y patatas a trozos.
 
 Seguidamente, en una sartén, se hace un sofrito de la cebolla y tomate, añadiéndole al final un poco de pimentón, vertiéndolo a continuación a la olla, cociéndose todo.

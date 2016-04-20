@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 filetes de solomillo
 
 50 grs. de champiñones
@@ -36,6 +35,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Una vez limpios los champiñones se saltean en la mantequilla con un poco de sal durante 10 minutos aproximadamente, hasta que estén hechos. Mientras, se fríen los filetes, sazonados, en un poco de aceite. Por último se añade la nata a los champiñones, mezclando todo bien y teniendo cuidado de que no llegue a hervir. Cubrir los filetes con esta salsa y servir.
 

@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 litro de zumo de frutas (naranja y piña, mejor natural, por lo menos el de naranja).
 
 Licor de fresa.
@@ -33,7 +32,6 @@ Licor de fresa.
 10 brochetas de frutas (naranja, piña y kiwi).
 
 <h3>Preparación</h3>
-
 Preparamos el postre directamente en una copa alta de cava.
 
 Ponemos el zumo en la copa y escanciamos despacio el cava sobre las paredes de la copa.

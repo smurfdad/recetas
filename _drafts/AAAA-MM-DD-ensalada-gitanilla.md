@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 tomates de carne firme
 
 2 cebolletas
@@ -43,6 +42,5 @@ sal
 2 dientes de ajo.
 
 <h3>Preparación</h3>
-
 Lavar, pelar y cortar los tomates en rodajas finas. Pelar y picar las cebolletas a trocitos pequeños, y cortar los pimientos a trozos pequeños. En una ensaladera introducir estos alimentos y agregar las aceitunas deshuesadas. Poner en un mortero el ajo picado y el perejil y la sal, hacer un majado. Añadir aceite y vinagre, mezclar bien y agregar a la ensaladera. Mezclarlo todo y dejar durante 20 minutos en el frigorífico. Servir muy fría.
 

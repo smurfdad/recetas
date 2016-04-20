@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de raxo (lomo de cerdo)
 
 1 cebolla pequeña
@@ -40,6 +39,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Pelar y cortar las patatas en dados pequeños, freír y reservar. Cortar el lomo también en dados pequeños, adobar con ajo en polvo, salar y dorar en una tartera. En ese mismo aceite dorar la cebolla picada muy fina. Añadir el vino, el azafrán y la hoja de laurel y revolver un poco. Incorporar las patatas y dejar reducir, hasta que la salsa coja cuerpo.
 

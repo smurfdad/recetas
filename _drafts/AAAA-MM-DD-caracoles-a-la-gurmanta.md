@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 kg. de caracoles
 
 25 g de harina
@@ -42,7 +41,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Lavar y escaldar los caracoles con abundante agua con sal y la guindilla. Sofreir la cebolla y el ajo, cortados muy finos, en una cazuela con aceite. Añadir los caracoles y cocer todo a fuego lento durante 15 minutos. Agregar la harina y el pimentón.
 
 Dar unas vueltas para que se dore la harina y retirar del fuego y servir.

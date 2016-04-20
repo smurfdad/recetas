@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs. de lentejas
 
 1 pimiento verde
@@ -42,7 +41,6 @@ aceite de oliva
 agua y sal
 
 <h3>Preparación</h3>
-
 Cuece las lentejas en agua con un chorrito de aceite, sal y el pimiento verde durante un haro aproximadamente, a fuego lento.
 
 En una sartén, rehoga la cebolla picada y salpimentada. Vierte este sofrito en las lentejas cocidas, espolvorea con perejil picado y deja cocer 5 minutos más.

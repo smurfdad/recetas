@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 pimientos choriceros
 
 3 kilos de cordero
@@ -42,7 +41,6 @@ Guindilla
 1 cerveza
 
 <h3>Preparación</h3>
-
 Picar las cebollas junto con los ajos y refreír muy despacio. Refreír el cordero sin dejar que se queme la cebolla. Añadir la cerveza y dejar hervir hasta que se vea que la cerveza se ha consumido.
 
 Agregar un poco de tomate ya hecho y los pimientos choriceros. Dejar 5 minutos removiendo. Pasados otros 5 minutos mezclar los caracoles ya engañados y cocidos y cubrir con parte de caldo de carne y parte de agua del grifo.

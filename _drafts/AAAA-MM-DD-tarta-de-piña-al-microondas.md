@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 yogur de piña
@@ -40,12 +39,10 @@ Para 6 personas.
 caramelo liquido
 
 <h3>Preparación</h3>
-
 En un molde para microondas se pone en el fondo caramelo líquido o sirope del sabor que más nos guste. Se baten con la batidora todos los ingredientes y se añaden al molde. Se introduce en el microondas a máxima potencia 2 minutos.
 
 Al terminar la cocción se vierte por encima el almíbar de la piña.
 
 <h3>Observaciones</h3>
-
 Esta tarta también se puede variar utilizando melocotón o cualquier otra fruta que nos guste.
 

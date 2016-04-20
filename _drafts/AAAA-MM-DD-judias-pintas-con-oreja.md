@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg de judías pintas
 
 1 oreja de cerdo
@@ -34,7 +33,6 @@ categories:
 sal
 
 <h3>Preparación</h3>
-
 La noche anterior se dejan en agua las judías
 
 Al día siguiente se ponen en una olla, con todos los ingredientes y se cubren bien de agua; se tapa la olla y se deja cocer en la placa de su cocina eléctrica durante hora y media aproximadamente, según la calidad de las judías.

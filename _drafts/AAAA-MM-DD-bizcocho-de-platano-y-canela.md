@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 375 gr. harina
 
 125 gr. leche
@@ -41,6 +40,5 @@ Para 6 personas.
 1 plátano maduro
 
 <h3>Preparación</h3>
-
 Por un lado se baten todos los ingredientes exceptuando la levadura y las claras de huevo, que se batirán aparte. A continuación, se mezclará la masa con las claras a punto de nieve y la levadura, esto se realizará con una espátula y siempre desde abajo hacia arriba. Se tendrá un molde de 24 cm de diámetro untado de manteca, y el horno precalentado a 120 grados. Se cocerá por espacio de 1 hora.
 

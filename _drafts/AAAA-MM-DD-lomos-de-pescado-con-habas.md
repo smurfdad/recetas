@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pescado en lomo.
 
 300 gramos de habas.
@@ -48,7 +47,6 @@ Pimienta.
 Mantequilla.
 
 <h3>Preparación</h3>
-
 Comenzamos majando las almendras con el ajo y el perejil picado. Después incorporamos a la mezcla el vino y la nata.
 
 Colocamos el pescado, una vez salpimentado, en una fuente de horno con un chorro de aceite. Cubrimos los lomos con la mezcla que hemos elaborado anteriormente y los metemos en el horno, a 125 grados, durante quince minutos, gratinando.
@@ -56,6 +54,5 @@ Colocamos el pescado, una vez salpimentado, en una fuente de horno con un chorro
 Mientras se hace el pescado, en una sartén salteamos las habas con mantequilla. Cuando el pescado este listo, lo sacamos al plato y lo adornamos con las habas salteadas.
 
 <h3>Observaciones</h3>
-
 Esta receta admite muchas variedades de pescado, siempre que sea fresco.
 

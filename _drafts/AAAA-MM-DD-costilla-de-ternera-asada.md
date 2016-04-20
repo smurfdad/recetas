@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de costilla de ternera de leche.
 
 3 dientes de ajo.
@@ -45,6 +44,5 @@ Pimientos de piquillo.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Se pelan los dientes de ajo y se machacan con la sal y el perejil. Se le añade sal y vinagre y se mezcla todo bien. Se sala la costilla con sal marina y se coloca en la placa. Se baña con el majado y se mete en el horno, a unos 180 grados, durante unos veinte minutos. No es necesario, pero se puede añadir agua durante el asado, si se observa que se seca. Se fríen los pimientos a fuego lento y se salan. Por ultimo, se fríe la costilla, se salsea con el jugo de la placa y se sirve acompañada de la guarnición.
 

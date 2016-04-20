@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 sepias
 
 1/2 kg de gambas
@@ -36,7 +35,6 @@ categories:
 un huevo duro
 
 <h3>Preparación</h3>
-
 Se dora la cebolla y se agrega la sepia cortad en trozos no muy grandes.
 
 Se machacan los ajos con sal en un mortero y se añaden a la cazuela.

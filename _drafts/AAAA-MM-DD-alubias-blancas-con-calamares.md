@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 grs. de alubias blancas
 
 4 calamares
@@ -42,7 +41,6 @@ Perejil picado
 Agua y sal
 
 <h3>Preparación</h3>
-
 Cuece las alubias (que habrás puesto en remojo de víspera) en agua con sal y un chorrito de aceite, durante una hora más o menos. Escurre y reserva.
 
 Pon a rehogar las verduras, bien limpias y cortadas en juliana. Añade los calamares, ya limpios y cortados en aros, sobre la verdura. Sazona y saltea durante 2-3 minutos a fuego fuerte. Agrega las alubias y guísalo todo junto durante 5 minutos.

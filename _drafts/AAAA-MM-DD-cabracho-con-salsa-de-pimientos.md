@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de cabracho.
 
 1 lata de pimientos rojos.
@@ -48,6 +47,5 @@ Salsa:
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 El pescado, limpio, fileteado y sazonado, se cuece al vapor, junto con las almejas, durante cinco minutos, en un caldo de verduras. La cebolla o cebolleta picada se pone a pochar en una sartén con un poco de aceite. Se le añaden los pimientos y se saltean. Se cubre con agua, se sazona y se deja cocer durante veinte minutos. Finalmente, se pasa por la batidora. Ponemos la salsa en el fondo del plato y colocamos los filetes de cabrachos y las almejas sobre ella. Por ultimo, salteamos las gambas en una sartén, con un poco de aceite, y las colocamos junto al pescado y las almejas.
 

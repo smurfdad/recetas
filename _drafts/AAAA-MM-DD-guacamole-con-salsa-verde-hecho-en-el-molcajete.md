@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 libra tomatillos (unas cuatro medianos), pelados y lavados en agua tibia
 
 2-3 chiles serrano o jalapeño
@@ -38,7 +37,6 @@ categories:
 2-3 limas
 
 <h3>Preparación</h3>
-
 Cocine los tomatillos y los chiles en un comal hasta que sus pieles estén oscurecidas, unos 5 minutos por cada lado. Déjelos reposar.
 
 Ponga la cebolla y el ajo partido también en el comal hasta que se oscurezcan un poco pero teniendo cuidado De que no se vayan a quemar pues pueden quedar amargos.

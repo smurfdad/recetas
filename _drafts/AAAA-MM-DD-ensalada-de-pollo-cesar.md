@@ -22,7 +22,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 pollo asado
 
 11 tazas de lechuga Romaine
@@ -52,6 +51,5 @@ Para la vinagreta:
 1/2 taza de queso parmesano fresco rallado
 
 <h3>Preparación</h3>
-
 Para preparar la ensalada, desmenuza el pollo del hueso y acumula hasta 3 tazas de carne. Combina el pollo, la lechuga y el pimiento rojo en un tazón grande. Para preparar la vinagreta, combina el aceite y los próximos 7 ingredientes (del aceite hasta el ajo) en un tazón, batiendo bien para que se incorporen bien. Vierte sobre la ensalada. Agrega los pancitos tostados y el queso por encima y revuelve todo hasta que el aderezo cubra toda la ensalada y sirve.
 

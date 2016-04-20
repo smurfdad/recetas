@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 pollo cocido
 
 carne de cerdo cocida
@@ -57,12 +56,10 @@ vino tinto de arroz
 maicena
 
 <h3>Preparación</h3>
-
 Los ingredientes de raíces, los cortaremos en juliana gruesa, y los saltearemos en el Wok con aceite y salsa soja, luego añadiremos la carne y los vegetales, (hojas de col cortadas en trozos, ramilletes de espinacas tal cual, pimiento, puerros y cebolleta en trozos, los champiñones en lamas), cuando se hayan ablandado, tienen que quedar medio
 
 crudos, solo tienen que tomar temperatura y quedar al dente, se añade las especias, la maicena disuelta en el vino y se continua un poco mas en el fuego hasta que la salsita coja cuerpo.
 
 <h3>Observaciones</h3>
-
 Se oficia en la mesa, a ser posible, y los comensales se van sirviendo directamente del wok.
 

@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de solomillo en filetes
 
 1 kg. de champiñón
@@ -20,7 +19,6 @@ un poco de harina
 1/2 l. de nata
 
 <h3>Preparación</h3>
-
 Eliminar el trozo de la raíz de los champiñones, lavarlos y filetearlos.
 
 Freír los filetes de solomillo y reservarlos.

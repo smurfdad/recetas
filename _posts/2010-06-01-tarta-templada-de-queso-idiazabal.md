@@ -8,7 +8,6 @@ categories:
 - Postres y dulces
 ---
 <h3>Ingredientes</h3>
-
 200 gr. de harina
 
 150 gr. de mantequilla
@@ -36,7 +35,6 @@ Para la crema de queso:
 ralladura de la corteza de un limón
 
 <h3>Preparación</h3>
-
 Se prepara la pasta amasando y estirando los ingredientes. Se forra el molde y se mete al horno a 200º durante 8-10 minutos. Se prepara la crema hirviendo la leche, la nata, la crema de queso y el queso Idiazábal.
 
 Se añade el azúcar, las yemas de huevo, la Maizena y la ralladura de limón, manteniéndolo todo a fuego lento durante algunos minutos. Con la crema resultante se llena la pasta obtenida anteriormente y se mete al horno a 150º durante 20 minutos

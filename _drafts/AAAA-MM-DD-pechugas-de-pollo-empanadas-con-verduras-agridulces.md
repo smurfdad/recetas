@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 pechugas de pollo deshuesadas
 
 Zumo de 3 naranjas
@@ -50,7 +49,6 @@ Vinagre
 Salsa de soja
 
 <h3>Preparación</h3>
-
 Se cortan las pechugas de pollo en trozos regulares, se salpimentan y se dejan reposar en el jugo de naranja dos o tres horas.
 
 La zanahoria y el chayote se pelan y se parten en tiras no muy gruesas, se hacean tiras de pepino, se parte el apio y la piña en almíbar tambien, y el jugo se reserva para más tarde.

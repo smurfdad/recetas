@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 cuadrados de masa
 
 3 cucharadas de aceite de oliva
@@ -56,6 +55,5 @@ pan rallado
 hojas de albahaca
 
 <h3>Preparación</h3>
-
 Saltear los champiñones en rodajas en una cucharada de aceite, junto con los hongos secos remojados y picados, salpimentar y retirar. Añadir otra cucharada de aceite y saltear la cebolla, ajo, zanahoria y puerros picados, mojar con caldo y cocinar un poco mas. Añadir las espinacas crudas picadas y dejar ablandar, incorporar los champiñones y hongos, condimentar con pimienta y nuez moscada, espesar con pan rallado en cantidad necesaria. Echar los trozos de masa en agua salada hirviendo, retirar a los 3 minutos y escurrir sobre un repasador. Repartir el relleno entre ellos y arrollar. Acomodar en una fuente de horno enmantecada, bañar con la crema de leche, colocar por encima rodajas de tomate y tajadas de queso. Llevar a horno caliente durante 20 minutos, terminar con hojas de albahaca.
 

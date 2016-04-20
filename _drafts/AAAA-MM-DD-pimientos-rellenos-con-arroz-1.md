@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 4 pimientos grandes
 
 3 tzas arroz
@@ -44,7 +43,6 @@ tomillo, perejil
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Saltear en una cacerola con el aceite caliente la cebolla. Añadir el tomate, las pasas, el azúcar y una pizca de tomillo. Salpimentar.
 
 Lavar el arroz hasta que el agua salga clara, escurrirlo e incorporarlo a la mezcla antyerior. Cubrir con agua de manera que pase 1cm el nivel del arroz. Cocinar destapado 20 min, hasta que el agua haya sido absorbida.

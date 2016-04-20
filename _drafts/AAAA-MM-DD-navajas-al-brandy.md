@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de navajas.
 
 Aceite
@@ -30,7 +29,6 @@ Aceite
 Brandy
 
 <h3>Preparación</h3>
-
 Se echa un puñado de navajas en aceite bien caliente, durante cinco minutos. Seguidamente regar con una copa de brandy.
 
 Mantener en el fuego durante otros 5 minutos. A continuación se puede servir en una fuente. Obtendremos una salsa deliciosa.

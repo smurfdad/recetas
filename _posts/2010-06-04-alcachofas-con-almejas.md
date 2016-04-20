@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 24 alcachofas naturales
 
 24 almejas
@@ -26,7 +25,6 @@ perejil
 caldo de alcachofas
 
 <h3>Preparación</h3>
-
 Limpiar las alcachofas y ponerlas a cocer en una cazuela con agua y sal.
 
 Una vez cocidas apartarlas del fuego y reservar en su caldo.

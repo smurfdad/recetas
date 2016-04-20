@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pierna cordero de 1 kg. aproximadamente
 
 1 cucharadita pimentón dulce
@@ -42,6 +41,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Trocear la carne de cordero y ponerla en un recipiente especial para microondas con sal, laurel, pimentón y la guindilla picante. Llevar al microondas durante 5 minutos a 780 W. Añadir el aceite y un majado de los ajos crudos con el pan tostado y agua. Meter de nuevo en el microondas durante 7 minutos a 780 W.
 

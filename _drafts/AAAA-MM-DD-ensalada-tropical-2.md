@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 3 rodajas de piña
 
 5 palmitos
@@ -37,7 +36,6 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Se cuece el pollo, se corta en cubos de 1 cm aprox., y se deja enfriar.
 
 La piña se corta en cubitos y los palmitos en rodajas.
@@ -45,6 +43,5 @@ La piña se corta en cubitos y los palmitos en rodajas.
 Junta todo en una fuente, agrega la crema, mezcla bien y condimenta con un poquito de aceite. Sal y pimienta a gusto.
 
 <h3>Observaciones</h3>
-
 Ideal para cenas informales
 

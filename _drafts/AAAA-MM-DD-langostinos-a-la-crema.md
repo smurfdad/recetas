@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Langostinos 16 pelados
 
 Champiñones 250 grs
@@ -42,7 +41,6 @@ Perejil picado
 Mantequilla
 
 <h3>Preparación</h3>
-
 Calentar un poco de mantequilla en una sartén. Poner entonces los langostinos. Después de unos 2 o 3 minutos de cocción añadir los champiñones cortados en láminas, la cebolla picada y el ajo escachado.
 
 Cuando los langostinos adquieran un bonito color rojizo flamearlos con el coñac. Añadir la nata y el puré de tomates. Ligar y dejar reducir un poco la salsa.

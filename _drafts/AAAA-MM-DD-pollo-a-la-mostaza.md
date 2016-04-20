@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 piezas de pollo al gusto
 
 1 cucharada de mostaza
@@ -37,7 +36,6 @@ sal y pimienta al gusto
 1 traste para llevar
 
 <h3>Preparación</h3>
-
 Lave y quítele la piel a las piezas de pollo, ponga la leche con pimienta y sal en un traste, ponga a remojar toda la noche las piezas de pollo en esta leche, al día siguiente, sáquelas de ella y frótelas con tantita mostaza, por todos lados, y colóquelas en un sartén con el aceite y póngalo a dorar con la mecha bien bajita. Cuando ya este dorado póngale tantita sal y pimienta a cada pieza.
 
 NOTA: Este pollo se sirve con un spaghetti con crema y un puré de patata.

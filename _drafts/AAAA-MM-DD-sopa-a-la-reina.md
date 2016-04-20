@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 Kg. de bizcochos de soletilla
 
 1/4 litro de almíbar de coñac
@@ -33,6 +32,5 @@ crema pastelera
 nata montada
 
 <h3>Preparación</h3>
-
 En una bandeja de pirex Colocar en el fondo los bizcochos, rociarlos con el almíbar, cubrir con crema pastelera, espolvorear de azúcar y quemarlo. Enfriarlo en nevera. Adornar con la nata en el momento de servir.
 

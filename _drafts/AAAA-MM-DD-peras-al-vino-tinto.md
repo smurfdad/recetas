@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 kg. de peras que no estén muy maduras
 
 1 L. de vino tinto corriente
@@ -30,7 +29,6 @@ categories:
 2 cucharadas de azúcar por cada pera
 
 <h3>Preparación</h3>
-
 Pelar las peras, dándoles una forma bonita y dejándoles los rabitos.
 
 Colocarlas de pie unas con otras, no muy pegadas, en una cazuela grande.

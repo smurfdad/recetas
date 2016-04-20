@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de gambas
 
 4 dientes de ajo
@@ -38,7 +37,6 @@ pan rallado
 perejil
 
 <h3>Preparación</h3>
-
 Pelar las gambas y sazonarlas con sal.
 
 Pelar los ajos filetearlos y añadírselos a las gambas junto con la guindilla.

@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 2 paquetes de masa hojaldrada para tarta
 
 rocío vegetal
@@ -57,7 +56,6 @@ Relleno:
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Extender un disco de masa de tarta y humedecer la superficie con el rocío vegetal, condimientar con sal y pimienta.
 
 Espolvorear con 1 cda de harina y cubrir con el otro disco de masa. Dejar descansar a temperatura ambiente.

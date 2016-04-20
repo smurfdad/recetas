@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 Vieiras
 
 200 grs de filetes de bacalao fresco
@@ -62,7 +61,6 @@ Estragón.
 Guardar alguna cigala entera para adornar
 
 <h3>Preparación</h3>
-
 Pasar el bacalao por la trituradora con la clara de huevo y el estragón picado. Limpiar las vieiras, separándolas de la concha, suprimir las zonas oscuras, excepto la carne blanca y la anaranjada. Lavarlas en el grifo y secarlas.
 
 Engrasar moldes de flan, poner en el fondo una capa de farsa, una vieira, y cubrir con más farsa. Colocar los moldes en el horno al baño maría, tapar los flanes y cocerlos durante 15 minutos.

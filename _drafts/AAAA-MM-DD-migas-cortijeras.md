@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de pan cateto
 
 1/2 kg. de tocino o panceta
@@ -33,6 +32,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se corta el pan cateto (de varios días) en trozos pequeños, preferiblemente con las manos, y se humedece añadiéndole un poco de agua debidamente sazonada. En una sartén de buen tamaño (para que quepa todo el pan), se fríen los ajos enteros y un poco de tocino o panceta cortados. Una vez fritos, se agregan los trozos de pan y se mueven con una paleta de madera. Esta operación debe continuarse hasta que todo el conjunto quede de color dorado.
 

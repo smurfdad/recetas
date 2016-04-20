@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 2 melones pequeños
 
 2 tazas de agua
@@ -33,7 +32,6 @@ Para 4 personas.
 3 claras de huevos
 
 <h3>Preparación</h3>
-
 Partir los melones por la mitad, quitar las semillas y extraer la pulpa con cuidado.
 
 Verter la pulpa de los melones en la licuadora junto con agua y azúcar, licuar.

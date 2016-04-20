@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 4 Milanesas de ternera
 
 3 Huevos
@@ -45,7 +44,6 @@ Para 4 personas.
 sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Colocar en un bol los huevos, batir ligeramente e incorporar el ajo y el perejil picado , y la mostaza. Seguir batiendo para integrar los ingredientes .Resevar. En otro bol, colocar el pan rallado junto con harina, mezclar y reservar.
 
 Quitar la grasa de la carne , salpimentar y pasar ligeramente por huevos y pan rallado.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 4bifes de nalga (finos)
 
 sal y pimienta
@@ -45,7 +44,6 @@ salsa de tomates
 aceitunas verdes
 
 <h3>Preparación</h3>
-
 Tomar la carne salpimentar,batir los huevos y agregar el ajo y perejil,colocar la carne en esa preparacion y dejarla 15m,luego pasarla por el pan rallado.
 
 En una fuente de horno poner un chorrito de aceite y colocar las milanesas crudas y sobre estas la salsa de tomates,llevar al horno 15m.(yo las cocino asi en el horno porque quedan mas sabrosas y sanas)

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Harina de garbanzos o garbanzos molidos lo mas finamente posible en una procesadora.
 
 Pimienta negra de molinillo.
@@ -34,7 +33,6 @@ Sal.
 Agua.
 
 <h3>Preparación</h3>
-
 Se coloca la harina de garbanzos en un bol con un poco de sal y pimienta.
 
 Se agrega un buen chorro de aceite, y agua hasta formar una preparacion caldosa.
@@ -46,6 +44,5 @@ Se vierte sobre una fuente para horno hasta lograr un espesor de un centimetro. 
 dorada en la superficie. Se corta en porciones y se consume tibia o fria.
 
 <h3>Observaciones</h3>
-
 Se puede consumir sola y es ideal para acompañamiento de pizzas.
 

@@ -9,7 +9,6 @@ categories:
 - Huevos y lacteos
 ---
 <h3>Ingredientes</h3>
-
 1 cebolleta
 
 1 pimiento morron
@@ -25,7 +24,6 @@ categories:
 4 huevos,aceite y sal
 
 <h3>Preparación</h3>
-
 Picamos el tomate, las cebolleta, el pimiento morron y la zanahoria y los sofreimos con un poco de aceite.
 
 Añadimos el arroz y lo sofreimos bien. Vertemos el caldo de verdura, salamos y dejamos cocer durante unos 20 minutos.

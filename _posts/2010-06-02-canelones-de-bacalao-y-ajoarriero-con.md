@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 langostinos frescos pelados
 
 4 láminas de bacalao desalad 10 x 5 cm.
@@ -78,7 +77,6 @@ aceite de oliva
 sal pimienta
 
 <h3>Preparación</h3>
-
 Envolver en las láminas de bacalao el ajoarriero y el bacalao ahumado como si fuera un canelón. Cocer al vapor durante 30 segundos.
 
 Elaborar una vinagreta de pochas mezclando todos los ingredientes. Saltear los langostinos con ajo y perejil. Preparar el puré de pochas triturándolas y montándolas con la mantequilla. Rellenar unas tacitas con espuma de bacalao. Montar el plato como en la fotografía.

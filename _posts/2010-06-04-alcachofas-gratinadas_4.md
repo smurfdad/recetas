@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 2 kilos de alcachofas frescas
 
 1 decilitro de aceite
@@ -31,7 +30,6 @@ pimienta blanca
 nuez moscada
 
 <h3>Preparación</h3>
-
 En una cazuela, poner el aceite y disolver en él la harina.
 
 A continuación, añadir el zumo de limón y el agua, removiendo todo bien para facilitar la disolución de la harina.

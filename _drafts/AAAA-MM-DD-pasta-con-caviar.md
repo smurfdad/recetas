@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 Gramos de fetuchine
 
 1 Cucharada de sal
@@ -43,7 +42,6 @@ Para 4 personas.
 1 Cucharadita de pimienta
 
 <h3>Preparación</h3>
-
 Calentar la mantequilla en una sartén amplia sobre calor medio bajo, agregar la cebolla, sofreír 7 minutos, agregar la crema de leche, sazonar con sal y pimienta
 
 Calentar agua en una olla grande, cuando hierva agregar 1 cucharada de sal revolver, agregar los fetuchine, cocinar, revolviendo ocasionalmente, hasta que estén al dente, retirar escurrir

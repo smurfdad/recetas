@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 345 Cal
 
 60 min
@@ -51,12 +50,10 @@ Para 4 personas.
 aceite
 
 <h3>Preparación</h3>
-
 Limpiar los chipirones y rellenarlos de nuevo con las patas y aletas. rehogar la cebolla picada en una cazuela con un poco de aceite hasta que empiece a tomar color, añadir entonces los chipirones, freirlos unos minutos y agregar el tomate frito, las patatas cortadas en discos, las hojas de laurel y el caldo de pescado caliente. Cocerlo a fuego lento durante 20 minutos.
 
 Freir los ajos y machacarlos en el mortero junto con las almendras, añadirlo al guiso y cocerlo todo junto diez minutos mas. Servirlo con los huevos duros cortados en cuartos.
 
 <h3>Observaciones</h3>
-
 Este guiso puede prepararse de un dia para otro, ya que incluso mejora su sabor al dia siguiente.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. alubia de Tolosa roja
 
 1 cebolla
@@ -47,6 +46,5 @@ pimentón dulce
 sal
 
 <h3>Preparación</h3>
-
 Poner en una cazuela las alubias, la cebolla, el pimiento verde, la cabeza de ajo, el tocino, un hueso de jamón y el aceite. A media cocción (unos 20 minutos) añadir la sal, el chorizo y la morcilla. Por último, añadir un refrito de cebolla picada y pimentón dulce.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 600 grs. de lentejas
 
 150 grs. de tocino
@@ -43,6 +42,5 @@ laurel
 sal
 
 <h3>Preparación</h3>
-
 Cocer las lentejas con la cebolla partida a trocitos y el laurel durante 3/4 de hora. En una sartén freir el tocino cortado a daditos y reservar. En el mismo aceite se fríe el chorizo a trozos, y retirar. Por último freir en el mismo aceite la cebolla y el tomate, se añade todo a las lentejas y se deja cocer 15 minutos mas.
 

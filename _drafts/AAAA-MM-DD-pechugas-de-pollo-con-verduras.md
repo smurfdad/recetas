@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Cebolla
 
 2 Zanahorias
@@ -41,7 +40,6 @@ Aceite, Sal ,Pimienta negra molida
 100 gr. de queso gruyere suizo rallado
 
 <h3>Preparación</h3>
-
 Cortamos todas las verduras en juliana, salpimentamos y las rehogamos en una sartén con aceite, una vez rehogadas, las ponemos en una plata que pueda ir al horno, y reservamos.
 
 En una plancha asamos las pechugas de pollo salpimentadas y las colocamos sobre las verduras,por encima ponemos el queso rallado y gratinamos unos minutos en el horno.

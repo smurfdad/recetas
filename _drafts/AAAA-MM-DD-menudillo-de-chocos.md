@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de chocos
 
 500 gr. de garbanzos remojados
@@ -47,6 +46,5 @@ Perejil y Hierbabuena
 Sal, Comino, Guindilla y Pimienta negra
 
 <h3>Preparación</h3>
-
 Poner agua a calentar en una olla. Mientras, cortar el choco a cuadrados. Hacer un majado en un mortero, con las especias, el ajo y la sal. Echar los garbanzos, ya remojados, en el agua templada de la olla, añadiendo el choco, el pimentón dulce, el tomate, el pimiento, la cebolla, el perejil y la cabeza de ajo entera, agregando aceite de oliva. Incorporar la panceta, cubrir con agua y dejar cocer una hora a fuego lento. Cinco minutos antes de apartarlo del fuego, añadir la hierbabuena, el chorizo troceado a rodajas y el majado que se hizo con las especias. Servir caliente.
 

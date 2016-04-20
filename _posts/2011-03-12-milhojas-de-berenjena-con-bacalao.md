@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 2 berenjenas medianas
 
 250 gr bacalao desalado
@@ -30,7 +29,6 @@ Medio vaso de vermut blanco
 1 cucharadita de sal
 
 <h3>Preparación</h3>
-
 Calentar en una sartén a fuego vivo el aceite con la cebolla y el ajo.
 
 Una vez dorados los ajos, sacar y reservar.

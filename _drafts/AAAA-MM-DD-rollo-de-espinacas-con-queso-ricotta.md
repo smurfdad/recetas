@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4-6 cucharadas de queso parmesano rallado
 
 500 g de espinacas frescas, o 250 g de espinacas congeladas, cocinadas y escurridas
@@ -36,7 +35,6 @@ Nuez moscada recién molida
 1 taza de queso ricotta
 
 <h3>Preparación</h3>
-
 Precalentar el horno a 200&ordm; C
 
 Engrasar una bandeja para horno de unos 15 x 20 cm. Aproximadamente y espolvorearla generosamente con la mitad del queso parmesano.

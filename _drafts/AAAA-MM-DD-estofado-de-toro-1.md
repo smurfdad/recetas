@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 150 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kgr. de morcillo de toro cortado a trozos
 
 2 cebollas pequeñas
@@ -57,6 +56,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Sazonar los trozos de carne, pasarlos por harina y freirlos en aceite muy caliente. Según vayan dorándose, apartarlos y mantenerlos cerca del calor. En el mismo aceite, una vez filtrado, rehogar las cebollas trinchadas, las zanahorias, cortadas a rodajitas y los dientes de ajo pelados y enteros. Cuando el conjunto tome color, bañarlo con el caldo y volver a echar la carne, agregar el tomillo, el laurel y el perejil picado. Especiar con la nuez moscada, la pimienta y la canela, verter el vino y el vinagre y cocer durante dos horas a fuego lento, o hasta que la carne esté muy muy tierna.
 

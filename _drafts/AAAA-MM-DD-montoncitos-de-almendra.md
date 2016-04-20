@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 100 grs. de pasas
 
 1 copita de ron de caña
@@ -35,6 +34,5 @@ Para 6 personas.
 30 grs. de de corteza de limón confitada picada
 
 <h3>Preparación</h3>
-
 Macerar las pasas durante una noche con el ron. Derretir el chocolate al baño maría y dejar enfriar un poco, después mezclar con las pasas y el ron, las almendras y la corteza de limón. Hacer montoncitos de ésta masa ayudándonos con una cucharita de moka y colocándolos en una bandeja llana a la que habremos protegido con una lámina de papel de aluminio. Se dejan secar un poco y se meten en el frigorífico para que endurezcan.
 

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 libra de papaliza
 
 6 patatas medianas
@@ -41,13 +40,11 @@ comino y sal a gusto
 1/2 kilo de arroz
 
 <h3>Preparación</h3>
-
 En la sartén con aceite caliente agregaremos la cebolla y carne picada en cuadritos agregar todos los condimentos una vez dorada la carne agregar un poco se sopa pura o agua hirviendo. Aparte hacer cocer las papas y el arroz blanco.
 
 Hacer cocer la papaliza aparte (es un derivado de la papa) se pincha para saber si ya esta cocido y esto se aplasta con un tenedor (pero no hecho un puré), agregar a la primera preparación esto formara el ahogado juntamente con las patatas cortadas en cuadrados grandes.
 
 <h3>Observaciones</h3>
-
 Se sirve el plato así:
 
 Primero el arroz y a un lado va el ají de papaliza.

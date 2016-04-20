@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de puerros.
 
 300 gramos de tomates maduros.
@@ -37,6 +36,5 @@ Orégano en polvo.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos los puerros, conservando solo la parte blanca, y los cocemos en agua con sal durante quince minutos. Pelamos los tomates y los freímos en una sartén, con un chorro de aceite, sal y una pizca de orégano. Colocamos los puerros cocidos en una fuente de horno haciendo una cama, poniendo encima el jamón cocido picado. Agregamos el tomate rehogado y, por ultimo, lo cubrimos todo con las lonchas de queso. Gratinamos a fuego fuerte de dos a tres minutos y servimos.
 

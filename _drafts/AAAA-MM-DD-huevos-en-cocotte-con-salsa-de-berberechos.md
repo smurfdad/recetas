@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos
 
 2 yemas de huevo
@@ -44,7 +43,6 @@ aceite
 2 dl. de nata
 
 <h3>Preparación</h3>
-
 Se lavan bien los berberechos. Se ponen en una cazuela y se les añade 4 cl. de vino blanco y un pequeño ramillete aromático. Se tapa la cazuela y se pone al fuego, a tope. Cuando se hayan abierto los berberechos, se sacan de las cáscaras y se cuela el caldo
 
 Los berberechos se reservan. Se ponen en una cazuela 25 gr. de mantequilla y otro tanto de aceite. Se echa la harina y se rehoga. Se añade el líquido de la cocción de los berberechos, removiendo con la varilla, y se completa con nata, hasta obtener una bechamel suave.

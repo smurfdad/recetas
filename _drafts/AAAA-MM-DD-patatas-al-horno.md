@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 8 patatas cocidas y peladas
 
 1/4 queso manchego
@@ -36,7 +35,6 @@ pimienta
 sal al gusto
 
 <h3>Preparación</h3>
-
 Se mezcla la crema con la mayonesa salpimentandolo
 
 Se pone en un refractario una capa de la salsa despues una capa de patatas una capa de jamon y una capa de queso y una capa ed salsa nuevamente

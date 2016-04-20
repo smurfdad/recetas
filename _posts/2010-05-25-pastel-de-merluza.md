@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. merluza (puede ser otro pescado)
 
 1/4 de gambas peladas
@@ -23,7 +22,6 @@ Para 6 personas.
 1/4 mayonesa
 
 <h3>Preparación</h3>
-
 Cocer la merluza, quitar las espinas y piel y desmenuzar.
 
 Picar las gambas.

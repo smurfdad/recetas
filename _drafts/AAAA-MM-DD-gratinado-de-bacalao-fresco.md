@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de bacalao fresco
 
 80 gr. de mantequilla
@@ -52,7 +51,6 @@ pimienta
 6 conchas de vieiras vacías y bien limpias
 
 <h3>Preparación</h3>
-
 En una cazuela se funden 50 gr. de mantequilla. Se añade la harina en lluvia y se mezcla con la mantequilla con una cuchara de madera. Se incorpora la leche a la mezcla, sin dejar de remover, y después el vino blanco. Se sazona el conjunto con sal y pimienta y se tiene hirviendo a fuego muy suave para que no se agarre, durante unos minutos. Se aclara el bacalao y se seca con papel absorbente. Se corta en dados pequeños.
 
 En una cazuela se funde un poco de mantequilla y se rehogan los champiñones, bien lavados y cortados en cuartos. Se sazonan con sal y pimienta y se tienen unos minutos al fuego. Se enciende el horno a 170&ordm; para que se vaya calentando. Se incorporan los dados de bacalao a la bechamel que se preparó en primer lugar, y se tiene hirviendo el conjunto durante unos 3 minutos. Se añaden entonces los champiñones rehogados, y una pizca de Cayena.

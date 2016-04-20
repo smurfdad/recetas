@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 2 vasos de leche
@@ -36,7 +35,6 @@ azúcar caramelizada
 (flanera con tapa)
 
 <h3>Preparación</h3>
-
 Se separan las yemas y se baten.
 
 Se les añade 3 cucharadas soperas de azúcar, 2 vasos de leche y uno de nata líquida.

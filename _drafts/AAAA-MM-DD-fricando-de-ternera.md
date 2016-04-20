@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kgr. y medio de filetes de ternera de primera
 
 2 cebollas medianas
@@ -44,7 +43,6 @@ harina
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Se ponen los filetes extendidos y se salpimentan. A continuación se espolvorean con orégano y con tomillo. Se pasan por harina y se fríen en abundante aceite en una sarten grande.
 
 Hacemos un sofrito con la cebolla y el tomate, y cuando esta casi hecho le añadimos los champiñones cortados en láminas no muy finas. Este sofrito se le incorpora a los filetes que ya teníamos fritos y se deja hacer a fuego lento hasta que reduzca el caldo ( unos 15 minutos).

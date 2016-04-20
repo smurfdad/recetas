@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 litro de fondo oscuro
 
 125 gr de mantequilla
@@ -28,7 +27,6 @@ categories:
 125 gr de harina tostada
 
 <h3>Preparación</h3>
-
 Poner la mantequilla a diluir en una cazuela, cuando este derretida añadir la harina y mezclar bien.
 
 A continuación ir incorporando la leche poco a poco sin dejar de mover con la varilla.

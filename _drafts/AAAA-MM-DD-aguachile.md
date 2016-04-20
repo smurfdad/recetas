@@ -23,7 +23,6 @@ Para 3 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 1Kg de camarones
 
 2 Pepinos grandes y pelados
@@ -43,7 +42,6 @@ Tostadas
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Pelar y desvenar los camarones partirlos a la mitad, enjuagarlos y escurrirlos muy bien, poner en una sarten y agregar 1 taza de jugo de limon (tratar que el jugo de limon cubra los camarones).
 
 Esperar 10 minutos y agregar el jugo sazonador esperar otros 5 minutos. Escurrirlos y agregar sal y pimienta, 1 1/2 pepino picado, 2 cucharadas de cilantro, cebolla picada.

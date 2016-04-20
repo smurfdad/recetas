@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 taza de champiñones (portabella, shittake), picados
 
 1/4 taza de chalotes molidos
@@ -26,5 +25,4 @@ Para 4 personas.
 1 1/2 tazas de crema
 
 <h3>Preparación</h3>
-
 Saltear los champiñones y chalotes en la mantequilla. Dejar a un lado. Coloque el queso al fondo de la masa de pastel. Mezcle los huevos, crema, y champiñones. Vierta la mezcla a la masa. Coloque al quiche en una bandeja y hornee a 375 por 25-30 minutos.

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de patatas
 
 1/2 kg. de bacalao desalado
@@ -47,12 +46,10 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Pica finamente la cebolla y los pimientos en juliana fina. Pon todo a pochar en una cazuela con aceite. Cuando se dore, añade las guindillas. Pela las patatas, córtalas en rodajas gruesas e incorpóralas a la cazuela. Vierte el caldo y cocina a fuego medio durante 20 minutos. En una sartén con un poco de aceite, fríe brevemente por los dos lados los lomos de bacalao. Pásalos a la cazuela de las patatas dejando la piel hacia arriba. Guisa durante 5 minutos.
 
 Retira las guindillas y decora con una rama de perejil.
 
 <h3>Observaciones</h3>
-
 Consejo: Si la salsa queda muy ligera, puedes aplastar un par de patatas y añadirlas al guiso para conseguir el espesor deseado
 

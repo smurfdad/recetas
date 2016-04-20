@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de salmón ahumado o marinado
 
 3 cucharadas de aceite
@@ -21,7 +20,6 @@ Para 6 personas.
 1 cucharada sopera de perejil picado
 
 <h3>Preparación</h3>
-
 Forrar un molde alargado, untado de mantequilla, con láminas de salmón.
 
 Cortar el rersto del salmón en daditos y meterlos en la batidora, junto con el resto de los ingredientes, y triturar.

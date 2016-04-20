@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cebollas bien hermosas
 
 150 gr. de ternera picada
@@ -46,7 +45,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Se pelan las cebollas y se les quita parte del interior, pero dejando unas paredes consistentes. Se les corta una rebanada fina de la base para que se sujeten de pie. Se ponen a cocer las patatas en un cazo con agua fría. Se hacen hervir durante 25 minutos.
 
 En una sartén se pone un poco de aceite de oliva. Se sofríe ligeramente (muy poco) la carne picada sazonada con sal. Se saca a un bol y se le añade un huevo crudo, un poco de pan rallado y perejil picado. Se sazona un poco el conjunto.

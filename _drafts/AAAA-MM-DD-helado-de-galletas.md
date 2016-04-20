@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 litro de leche
 
 4 yemas de huevo
@@ -34,7 +33,6 @@ Para 4 personas.
 10 ó 12 galletas (mejor tipo cookies)
 
 <h3>Preparación</h3>
-
 Batir las yemas con el azúcar. Añadir la leche hervida con el palito de vainilla. Poner al fuego y cocer sin que hierva.
 
 Enfriar y añadir las galletas troceadas. Meterlo en el congelador y remover de vez en cuando para que no cristalice.

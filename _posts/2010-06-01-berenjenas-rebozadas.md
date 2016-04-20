@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 perejil
@@ -23,7 +22,6 @@ aceite para freir
 sal
 
 <h3>Preparación</h3>
-
 Se parten en rodajas de medio cm. (No hace falta pelarlas) Se ponen en un escurreverduras con bastante sal, se mezcla bien y se dejan de media a una hora Se aclaran y se secan.
 
 Se pasan por harina y huevo batido y se fríen en aceite caliente hasta que estén doradas. Se escurren y se ponen sobre papel absorbente.

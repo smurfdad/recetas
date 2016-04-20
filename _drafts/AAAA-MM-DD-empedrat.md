@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 g de judías secas finas.
 
 400 g de bacalao
@@ -42,6 +41,5 @@ Vinagre
 Sal
 
 <h3>Preparación</h3>
-
 Cuece las judías en agua tibia. Echa la sal al final de la cocción. Cuando estén las judías cocidas, dejar enfriar y reservar. Cortar el bacalao en tiras y ponerlo en remojo a desalar. En un plato, preparar una capa de judías, bacalao, tomate y cebolla cortados a trocitos. Sazonar con el aceite, el vinagre y la sal. Poner medio huevo duro encima y adornar con las aceitunas. Terminar con un poco de perejil finamente picado.
 

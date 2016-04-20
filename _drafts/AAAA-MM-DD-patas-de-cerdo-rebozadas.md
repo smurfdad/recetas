@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de patas de cerdo
 
 2 cucharadas de harina
@@ -50,7 +49,6 @@ Pimienta
 1 cuchara de tomate
 
 <h3>Preparación</h3>
-
 Se sazonan las patas de cerdo, se cuecen 15 minutos en la olla rápida, se escurre el agua y se sazonan con harina y huevo.
 
 Se fríen en la sartén la cebolla, el ajo y el perejil, se le añade un poco de nuez moscada, de pimienta, y un poco de tomate y una rama de laurel y 1/2 pastilla de starlux; cuando están todos los ingredientes dorados se le añade un poco de agua y las patas rebozadas, que cuezan a fuego lento 10 minutos y ya están para servir.

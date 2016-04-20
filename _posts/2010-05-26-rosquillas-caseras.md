@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de harina
 
 150 grs. de azúcar
@@ -23,7 +22,6 @@ un poco de canela en polvo
 1 sobre (3 cucharadas) de royal
 
 <h3>Preparación</h3>
-
 Mezclar todo bien, primero con una cuchara y luego con las manos.
 
 Poner en una sartén al fuego, no muy fuerte, abundante aceite y esperar hasta que empiece a echar humo.

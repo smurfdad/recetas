@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 grs. de espirales multicolor
 
 150 gramos de jamón serrano.
@@ -25,7 +24,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Poner la guindilla a remojo de agua para que se ablande y cortar en aros fácilmente.
 
 Cortar el jamón en dados. Picar gruesas las almendras.

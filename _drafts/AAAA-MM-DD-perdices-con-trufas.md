@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 perdices
 
 1 trufa
@@ -45,7 +44,6 @@ pimienta
 berro para decorar
 
 <h3>Preparación</h3>
-
 Veinticuatro horas antes de servir, corte la trufa en rodajas finas e inserte 4 pequeñas rodajas bajo la piel de la pechuga de las perdices. Coloque el resto de las trufas dentro de las aves con la grasa. Déjelas en la heladera o en un lugar fresco para que el aroma de las trufas impregne las perdices.
 
 Encienda el horno, calor fuerte. Unte las perdices con mantequilla, póngale sal y pimienta, y áteles la hoja de parra sobre las pechugas.

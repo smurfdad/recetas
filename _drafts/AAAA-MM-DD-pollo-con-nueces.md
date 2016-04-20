@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 Pechugas de pollo sin piel
 
 100 grs de Nueces peladas
@@ -42,6 +41,5 @@ Para 4 personas.
 2 cucharadas de Jerez
 
 <h3>Preparación</h3>
-
 Cortar las pechugas de pollo en dados de 1 cms. Sazonar con sal y espolvorearle la maicena procurando que se impregne la carne con ella. En una sartén poner 2 cucharadas de aceite. Echar las nueces y cocinar a fuego lento y removiendo cerca de 2 minutos. Ya pasado este tiempo escurrir de aceite en papel de cocina y reservar. En la misma sartén poner 1 cucharada de aceite. Añadir la carne y saltearla durante menos de 1 minuto. Incorporar el resto del aceite, la salsa de soja, el azúcar y el jerez. Reincorporar las nueces, cocinar durante 30 segundos y servir inmediatamente.
 

@@ -24,7 +24,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 endibias.
 
 2 pechugas de pollo.
@@ -62,6 +61,5 @@ Para la vinagreta
 Sal
 
 <h3>Preparación</h3>
-
 Salpimenta las pechugas de pollo y cuécelas en una cacerola con agua caliente y un poco de sal junto con las verduras tomate, puerros y ramita de perejil. Limpia bien las verduras y coloca las hojas de endibia en un lado de una fuente, y en el otro, las hojas de radicheta. En el centro pon el tomate cortado en rodajas. Para preparar la vinagreta, echa en un bol aceite, vinagre, sal y las alcaparras. Aplasta el roquefort con un tenedor hasta formar una pasta; luego, incorpóralo al bol. Bate la vinagreta hasta que ligue. Corta las pechugas en fetas y distribuye éstas a los lados de las rodajas de tomate. Corta el huevo cocido en cuatro y ponlo encima del tomate. Aliña esta ensalada con la vinagreta y sirve.
 

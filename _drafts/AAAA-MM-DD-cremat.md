@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 36 minutos.
 
 <h3>Ingredientes</h3>
-
 4 tazas de cafe
 
 1/2 litro de ron
@@ -39,6 +38,5 @@ Para 4 personas.
 Piel de medio limon
 
 <h3>Preparación</h3>
-
 Mezclar el coñac y el ron, calentarlo y quemar dando vueltas con un cazo. Añadir el azucar, la canela, la piel del limon y el aguardiente. Cuando se apague la llama, añadir el cafe y servir inmediatamente.
 

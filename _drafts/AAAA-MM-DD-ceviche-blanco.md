@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 420 gramos de filete de pescado sierra
 
 6 cucharadas de jugo de limón
@@ -60,7 +59,6 @@ Rodajas de limón
 Ramitas de yerbabuena
 
 <h3>Preparación</h3>
-
 Los filetes de pescado se cortan en cuadros y se mantienen en un recipiente sobre hielo para que se conserven frescos. Después se les agrega jugo de limón, vinagre y agua hasta que se cubran por completo. Se añade un poco de orégano seco molido.
 
 Una vez que se ha cocido el pescado con el jugo de limón, se le quitan los líquidos y se sazona con sal. Se le incorporan las verduras picadas: cebolla, jitomate, chile, cebollita cambray con todo y rabo, un poco de aceitunas verdes y cilantro picado toscamente. Se sazona si hace falta con un poco de sal y pimienta. Se agrega más orégano, un chorrito de aceite de olivo y aceitunas. Finalmente, se corta la jícama en cuadros muy finos.

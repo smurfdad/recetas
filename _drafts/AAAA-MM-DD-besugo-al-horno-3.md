@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 besugo de 2 kilos
 
 1 cebolla grande
@@ -47,7 +46,6 @@ Pan rallado
 Sal
 
 <h3>Preparación</h3>
-
 En una fuente de horno se echa el aceite y se pone al fuego. Se echa la cebolla cortada en rodajas, las patatas cortadas en panadera y los ajos picados. Cuando estén blandas las patatas, se echan los tomates también cortados en rodajas, la hoja de laurel y el vino.
 
 Se aparta la fuente del fuego y todos los ingredientes anteriormente mencionados, se distribuyen por el fondo de la misma formando un lecho.

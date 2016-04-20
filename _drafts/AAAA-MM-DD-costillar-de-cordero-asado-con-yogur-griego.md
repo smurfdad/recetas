@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 costillares de cordero de 4 costillas cada uno.
 
 4 cucharadas de aceite de oliva virgen.
@@ -45,7 +44,6 @@ Para 4 personas.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Salpimentamos los costillares y los asamos con 4 cucharadas de aceite durante 15 minutos a 250 grados. Rociamos de vez en cuando con agua y vino blanco.
 
 Una vez asado el costillar, lo sacamos del horno y recuperamos 4 cucharadas del jugo del asado y el resto lo pasamos a una cazuelita que calentaremos para servir como salsa de acompañamiento.

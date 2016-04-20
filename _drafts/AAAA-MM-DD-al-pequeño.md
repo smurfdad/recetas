@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 12 minutos.
 
 <h3>Ingredientes</h3>
-
 Anchoas,
 
 pimientos,
@@ -33,6 +32,5 @@ ajo
 pan
 
 <h3>Preparación</h3>
-
 Se colocan las anchoas en aceite encima del pan, y sobre éstas, el pimiento. Por último se recubre con ajo picado.
 

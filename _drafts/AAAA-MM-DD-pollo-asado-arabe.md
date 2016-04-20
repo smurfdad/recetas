@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 pollos pequeños
 
 1 cucharada grande de limón
@@ -35,10 +34,8 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Frotar el pollo con sal gorda y lavar con agua. Deshuesar y adobar con sal, pimienta, limón y las rodajas de cebolla y dejar una hora. Untar con aceite y asar al carbón con moverlo de vez en cuando. Servir con patatas fritas.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

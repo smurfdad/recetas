@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Merluza entera abierta por la mitad
 
 500 g de salmón ahumado
@@ -40,7 +39,6 @@ Ajo en polvo
 Pereji
 
 <h3>Preparación</h3>
-
 Echar un chorro de aceite en una cazuela de barro y espolvorear un poquito de ajo. Poner la merluza en la cazuela y rellenar la merluza con salmón. En los laterales de la cazuela añadir la cebolla y las patatas cortadas en rodajas no muy finas y también la cebollitas frandesas.
 
 Introducir en el horno a 170 grados durante 30-45 min, dependiendo del tamaño de la merluza. Una vez comprobado que la merluza esta bien hecha servir en una fuente junto con la cebolla y las patatas.

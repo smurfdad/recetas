@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de Patatas
 
 2 huevos
@@ -36,7 +35,6 @@ ajo
 2 tacitas de vino blanco
 
 <h3>Preparación</h3>
-
 Cocer las patatas enteras, cuando se enfrien cortar en rodajas gruesas.
 
 Añadir sal y pasar por huevo y harina.

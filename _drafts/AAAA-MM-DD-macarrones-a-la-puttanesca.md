@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de macarrones
 
 4 filetes de anchoa
@@ -45,7 +44,6 @@ Queso parmesano rallado
 Aceite de oliva y sal
 
 <h3>Preparación</h3>
-
 Remojar las alcaparras y las anchoas con agua para quitarles el exceso de sal. Retirar la espina central de las anchoas si la tuviera.
 
 En una sartén con un chorrito de aceite de oliva rehogar los ajos laminados y cuando empiecen a tomar color, añadir los tomates triturados sin piel ni semillas, las alcaparras escurridas, las anchoas picadas, las aceitunas y la media guindilla. Espolvorear con orégano y rectificar de sal. Dejar cocer todo junto unos 10 minutos.

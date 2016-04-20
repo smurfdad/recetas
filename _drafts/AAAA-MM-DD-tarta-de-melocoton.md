@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 sobre de gelatina de limón en polvo
 
 1 bote de kilo de melocotón en almíbar
@@ -34,7 +33,6 @@ bizcochos pasiegos
 caramelo liquido
 
 <h3>Preparación</h3>
-
 Untar un molde de tarta con el caramelo liquido.
 
 En una cazuela pondremos el melocotón sin caldo, el sobre de gelatina, los huevos.

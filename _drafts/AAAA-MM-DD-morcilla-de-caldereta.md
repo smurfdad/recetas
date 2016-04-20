@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. de sangre de cerdo.
 
 500 gr. de arroz.
@@ -43,6 +42,5 @@ Una pizca de nuez moscada.
 Sal.
 
 <h3>Preparación</h3>
-
 Se cuecen las cebollas enteras, se escurren y se pican en trocitos muy finos y se reservan. Se cuece entonces el arroz. En una caldera ponemos la cebolla picada, el arroz ya cocido, la sangre y la manteca de cerdo y lo ponemos a fuego lento. Entonces echamos las cucharadas de pimentón, la pimienta blanca, el toque de nuez moscada y sal al gusto, siendo los piñones lo ultimo que agreguemos.
 

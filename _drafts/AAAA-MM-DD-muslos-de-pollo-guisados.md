@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 muslos de pollo hermosos
 
 1 cebolla
@@ -53,7 +52,6 @@ sal
 perejil picado
 
 <h3>Preparación</h3>
-
 Se deshuesan los muslos de pollo. En una sartén con un poco de aceite, se sofríe el jamón picado con el pimiento morron, también picado. Con esta preparación, se rellenan los muslos de pollo, se sazonan y se envuelven en celofán, apretándolos bien. Se pasan a una cazuela con agua casi hirviendo, pero sin que llegue a hervir, y se tienen ahí durante 15 minutos. Se sacan y se dejan enfriar en el frigorífico, sin desenvolver, hasta el día siguiente.
 
 En una cazuela, se sofríe la cebolla picada. Se le añade el tomate pelado y picado y una hoja de laurel. Se sazona. En un mortero se machacan los ajos pelados y fritos y las rebanadas de pan frito. Cuando la salsa de tomate esté hecha, se añade el pan frito majado. Se le da un par de vueltas y se le añade el vino blanco y el agua. Se deja cocer.

@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 200 grs. de salmonetes
 
 200 grs. de calamares
@@ -57,7 +56,6 @@ sal
 pimienta negra
 
 <h3>Preparación</h3>
-
 Limpie y corte en pedazos todo el pescado; enharine y sale antes de freírle en su placa eléctrica cuidando de no pasarlo de punto; póngalo en fuente de barro.
 
 En el mismo aceite se fríe la cebolla picada, cuando empieza a tomar color se añaden los ajos, un poco de pimentón, el tomate y el azafrán tostado al horno desleído en 1 of de agua. Después de sazonar con sal y pimienta se deja hervir cinco minutos y se vierte por encima del pescado.

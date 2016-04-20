@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 100 gr. de ternera
 
 100gr. de pollo
@@ -39,7 +38,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Los ingredientes indicados se pasan por una trituradora y una vez pasados, se amasan con las manos y se hacen las albóndigas.
 
 Elaboración de la salsa

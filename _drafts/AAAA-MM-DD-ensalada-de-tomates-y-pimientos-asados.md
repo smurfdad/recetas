@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 dientes de ajo
 
 2 cucharadas de azúcar
@@ -37,7 +36,6 @@ Para 4 personas.
 1 kilo de tomates maduros
 
 <h3>Preparación</h3>
-
 Se asan los pimientos sobre las llamas del gas, dándoles la vuelta hasta que la piel esté quemada.
 
 Se pelan los pimientos lavándolos bajo el agua.

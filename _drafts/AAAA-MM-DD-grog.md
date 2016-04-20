@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 1 cucharadita de mantequilla
 
 Zumo de medio limón
@@ -39,10 +38,8 @@ Zumo de medio limón
 Nuez moscada
 
 <h3>Preparación</h3>
-
 calentar un vaso grande con agua en el microondas hasta que hierva, para calentarlo bien. Tirar el agua y mezclar todos los componentes en el vaso, remover bien, y agregar una rodaja de limón atravesada con tres clavos de olor. Agregar agua hirviendo a voluntad y remover. Espolvorear con nuez moscada.
 
 <h3>Observaciones</h3>
-
 Tomar muy caliente. Va muy bien para los resfriados y la gripe, pero hay que tener cuidado con la medicación que se tome, pues el alcohol es incompatible con ciertos medicamentos.
 

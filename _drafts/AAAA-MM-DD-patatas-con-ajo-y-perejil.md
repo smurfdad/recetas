@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1.250 g de patatas
 
 3 dientes de ajo
@@ -38,7 +37,6 @@ Sal y pimienta molida
 2 cucharadas de aceite de oliva
 
 <h3>Preparación</h3>
-
 Pelar las patatas y cortarlas en rodajas de 1 cm. de grosor.
 
 Verter el aceite en una cazuela de fondo grueso. Cuando esté caliente añadir los ajos y el perejil picado, dar unas vueltas procurando que no se quemen y agregar la harina, que se deja cocer hasta que empieza a dorarse. Verter agua fría, remover bien para que no se hagan grumos y añadir las patatas procurando que el agua las cubra. Condimentar con sal y pimienta y dejarlas cocer lentamente durante 20-25 minutos.

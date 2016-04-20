@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 Tazas de tallarines chinos
 
 1 Lata de castañas de agua
@@ -54,7 +53,6 @@ categories:
 1 Cucharada de jerez
 
 <h3>Preparación</h3>
-
 Cortar todos los vegetales en cuadritos menos el pimentón que se corta en tiritas, las carnes también en cuadritos; éstas van a una cacerolita con un poco de margarina y se tienen aparte.
 
 Todos los demás ingredientes van en una sartén, que se medio tapan removiendo de vez en cuando. Mientras esto se va haciendo, ponemos agua a hervir para remojar los tallarines durante 10 minutos, escurrir y reservar. Salteamos las carnes en la margarina, agregamos un poco de salsa de soya, mezclamos con los demás ingredientes y de último los tallarines. Se sirve de inmediato.

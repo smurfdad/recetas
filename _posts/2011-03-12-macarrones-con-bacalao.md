@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de bacalao seco
 
 300 gr. de macarrones
@@ -24,7 +23,6 @@ Para 4 personas.
 1 bote de tomate frito y aceite de oliva.
 
 <h3>Preparación</h3>
-
 Se lava bien el bacalao y se pone a hervir con agua a fuego lento hasta que esté tierno para poder quitarle el pellejo. Se guarda el agua hervida y se desmigaja el bacalao que se tiene preparado.
 
 Se prepara un sofrito en aceite con las tres cebollas medianas y el bote de tomate

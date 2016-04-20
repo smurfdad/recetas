@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 200 gr. de champiñones
 
 4 lonchas finas de tocino ahumado
@@ -39,7 +38,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Lavar los champiñones y enjuagar bien, cortar a láminas.
 
 Poner las lonjas de tocino en una sartén y freirlas a fuego lento. Eliminar la grasa poniéndolas sobre papel absorbente.

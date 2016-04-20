@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 30 cangrejos de rio (alrededor de 1 Kg)
 
 250 grs. de salsa de tomate espesa
@@ -21,7 +20,6 @@ Para 6 personas.
 aceite, sal
 
 <h3>Preparación</h3>
-
 Poner al fuego en una cazuela de barro la cebolla con un chorretón de aceite, a fuego suave.
 
 Revolver a menudo y cuando empiece a dorarse echar los cangrejos, lavados y la guindilla.

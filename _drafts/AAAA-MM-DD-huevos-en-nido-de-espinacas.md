@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. Espinacas congeladas
 
 1 Huevo por persona
@@ -40,7 +39,6 @@ Sal
 Queso rallado
 
 <h3>Preparación</h3>
-
 Cocer las espinacas en agua con sal. Escurrirlas bien y rehogarlas con aceite y ajo. Sazonar con un poquito de sal y pimienta.
 
 Colocar montoncitos de espinacas en una fuente de horno, formando

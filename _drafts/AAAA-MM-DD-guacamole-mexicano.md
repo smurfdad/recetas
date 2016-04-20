@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 12 minutos.
 
 <h3>Ingredientes</h3>
-
 3 Aguacates maduros
 
 2 Cebollinos tiernos
@@ -39,6 +38,5 @@ Unas gotitas de salsa Tabasco
 Sal
 
 <h3>Preparación</h3>
-
 Pelar los aguacates y quitarles el hueso. Rociarlos con el zumo de limón para que no se oxide. Colocar los aguacates en el vaso de la batidora junto con los cebollinos y el cilantro. Triturar. Añade el aceite, el tabasco, sal (a tu gusto) y seguir triturando hasta que tenga la consistencia de un puré de consistencia suave.
 

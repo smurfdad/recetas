@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 manojo de espárragos
 
 200 gr. de gambas
@@ -38,6 +37,5 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Se lavan los espárragos, se cortan en trozos pequeños desechando las partes duras y se sofríen a fuego medio. Cuando estén algo tiernos, se añaden las gambas peladas. Se sazona el conjunto y se remueve durante unos minutos. A continuación, se agregan los huevos batidos y se sigue removiendo la mezcla hasta que cuajen los huevos. Se espolvorea con perejil picado y al servirlo, se acompaña de unos trozos pequeños de pan frito.
 

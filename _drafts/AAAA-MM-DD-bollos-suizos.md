@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 vaso de leche
 
 1 vaso de azúcar
@@ -38,7 +37,6 @@ Para 8 personas.
 1 naranja
 
 <h3>Preparación</h3>
-
 Disolver la levadura en la leche templada, batir con el azúcar aceite y huevos enteros.
 
 Hacer un círculo con la harina; poner en interior la pasta que hemos hecho y mezclar poco a poco hasta poder amasar, procurando meterle mucho aire sin que tome más harina de la que disponemos.

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 800 gramos de judías verdes.
 
 1 kilo de gambas peladas.
@@ -42,7 +41,6 @@ Sal.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Cocemos en agua con sal las gambas peladas 2 minutos desde que el agua comienza a hervir.
 
 Cortamos el tomate y la cebolleta en dados de 1 centímetro.

@@ -7,7 +7,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 3 tazas de Arroz ya cocido (frito)
 
 Una rama de apio picadita en trozos
@@ -29,6 +28,5 @@ Cualquier carne, marisco o ave al gusto
 1/3 taza de Aceite de Oliva
 
 <h3>Preparación</h3>
-
 En una sartén honda, poner a calentar el aceite de oliva, cuando esté caliente poner dentro la cebolla, cebollina, carne, zanahoria, petit pois, huevos revueltos y el apio, sólo por un ratito a fuego alto (20 ó 25 segundos) y luego agregar el arroz ya cocido (frito) y revolver bien durante unos 15 segundos, luego agregar la salsa de soya y revolver bien hasta que el arroz quede totalmente de color café.
 

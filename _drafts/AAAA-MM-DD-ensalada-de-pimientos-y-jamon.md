@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 42 minutos.
 
 <h3>Ingredientes</h3>
-
 Pimiento rojo
 
 pimiento verde
@@ -38,6 +37,5 @@ mahonesa
 pan
 
 <h3>Preparación</h3>
-
 Se pican los pimientos, el jamón y el queso. Se mezclan los ingredientes con la mahonesa y se coloca sobre una rebanada de pan. Se decora con una pizca de pimentón picante.
 

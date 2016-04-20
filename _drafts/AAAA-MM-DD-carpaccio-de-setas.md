@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 g de hojas de ensalada variadas (lechuga, berros, lollo rosa)
 
 400 g de setas del tiempo
@@ -40,6 +39,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Lavar las hojas de ensalada, escurrirlas muy bien. Disponerlas en el plato de servir. Batir el vinagre con la sal y la pimienta, agregar el aceite poco a poco y por último los dientes de ajo muy picados y las hierbas aromáticas. Retirar la parte terrosa de las setas y pasarles un paño húmedo si no están muy sucias. Cortarlas en láminas finas. Colocar las setas sobre la ensalada, rociar con la vinagreta y servir enseguida.
 

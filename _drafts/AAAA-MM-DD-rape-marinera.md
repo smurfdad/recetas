@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de cola de rape
 
 Medio vaso de aceite de oliva
@@ -46,6 +45,5 @@ Tomate frito
 100 gr. de gambas peladas
 
 <h3>Preparación</h3>
-
 Sofreír en una cazuela con aceite de oliva las cebollas muy picadas y echar el rape cortado a rodajas, el vino blanco y un poco de sal. Dejarlo pochar. Echar las almejas y las gamba peladas. A continuación, incorporar el resto de los ingredientes y dejar cocer durante cinco minutos al fuego. Terminarlo de hacer en el horno.
 

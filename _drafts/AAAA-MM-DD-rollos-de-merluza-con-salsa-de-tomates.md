@@ -24,7 +24,6 @@ Para 2 personas.
 <b>Tiempo</b> 70 minutos.
 
 <h3>Ingredientes</h3>
-
 4 filetes de merluza
 
 jugo de limon
@@ -42,7 +41,6 @@ salsa de tomates
 patatas al natural
 
 <h3>Preparación</h3>
-
 Tomar los filetes y rociarlos con jugo de limon y dejarlos 30m. En un bol colocar el huevo ajo y perejil, queso rallado, y salpimentar mezclar todo reservar. Tomar el filete y colocar el relleno hacer un rollo y colocar un palillo.
 
 En una cacerola colocar la salsa de tomates y poner los rollos de pescado, llevar a fuego suave 20m. Servir con patatas al natural

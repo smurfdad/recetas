@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 500g de lomo
 
 25cc de aceite de oliva
@@ -47,7 +46,6 @@ Salsa:
 Unas hojas de albahaca fresca picada
 
 <h3>Preparación</h3>
-
 Atar el lomo para que conserve su forma y sellar en una sartén con aceite y manteca. Luego colocarlo en una fuente de horno y cocinarlo con el mismo jugo del sellado durante unos 20 minutos, a 200 grados.
 
 Dejarlo enfriar hasta temperatura ambiente. Luego cortarlo en fetas no muy gruesas con un cuchillo filoso. Cortar los alcauciles por la mitad, la muzzarella en trozos y los pimientos en juliana.

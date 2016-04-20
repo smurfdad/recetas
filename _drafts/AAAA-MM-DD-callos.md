@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 kilos de callos de vaca
 
 2 cebollas
@@ -42,7 +41,6 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Limpiar bien los callos, con agua y vinagre, cambiándole el agua varias veces.
 
 Después poner los callos en una cazuela con agua y un poco de sal y cocerlos.

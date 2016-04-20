@@ -22,7 +22,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 500 gramos de espaguetis
 
 500 gramos de Mariscos
@@ -40,7 +39,6 @@ sal ,pimienta
 1/2 vaso de vino blanco seco
 
 <h3>Preparación</h3>
-
 En un sarten grande colocar un poquito de aceite de oliva.
 
 Cuando este caliente echarle los mariscos,el peregil y ajo.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 450 gramos de puerros (ajo porro)
 
 4 filetes de lenguado de 170 grs c/u
@@ -45,7 +44,6 @@ sal y pimienta recién triturada
 pizca de nuez moscada, recién rallada
 
 <h3>Preparación</h3>
-
 Quítele las hojas duras de afuera a los puerros. Corte los puerros en círculos y lávelos bien. Escúrralos bien y séquelos con un paño sin oprimir y le da golpecitos suaves. Coloque cada filete de lenguado con la cola en dirección a usted. Ponga 1 cda de los pimientos en el extremo de la cola de c/filete. Enrolle cada filete alrededor de los pimientos para hacer una forma como de tubo. Ensártele a cada rollo un pincho de madera. En una sartén pesada, derrita 2 cdas de mantequilla a temperatura media.
 
 Sofría los puerros por 4-5 minutos, hasta que se ablanden.

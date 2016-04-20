@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 100 grs. de tocino ahumado entreverado
 
 3 puerros
@@ -35,7 +34,6 @@ categories:
 1/2 cucharadita de mostaza fuerte
 
 <h3>Preparación</h3>
-
 Corte en dados muy pequeños el tocino, tuéstelos en una sartén seca, sáquelos de la misma y dejélos secar sobre papel absorbente.
 
 Corte la base de los puerros, lávelos y córtelos luego en anillos finos. Blanquee el puerro puesto en un colador sumergido en agua hirviendo 1 minuto y luego déjelo escurrir y enfriar.

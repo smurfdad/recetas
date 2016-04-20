@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 calabaza, 1 kg.
 
 huevos, 8
@@ -40,6 +39,5 @@ aceite de oliva virgen,
 uvas pasas,
 
 <h3>Preparación</h3>
-
 Se limpia la calabaza quitándole la piel y las pepitas. Se cuece con un poco de sal. Cuando esté cocida se deshace para hacer una pasta. Se mezcla con huevos, harina, el azúcar y las uvas pasas. Hacemos tortitas con la masa y las freímos en la sartén con aceite. Se espolvorea con azúcar y polvo de canela antes de servirlas.
 

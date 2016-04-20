@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 6 albaricoques
 
 100 gramos de azúcar
@@ -36,6 +35,5 @@ categories:
 1 cucharada de nuez picada
 
 <h3>Preparación</h3>
-
 Abrir por la mitad los albaricoques y extraer el hueso. Una vez pelados y limpios colocarlos en un recipiente con un poco de agua y el coñac. Poner a hervir durante cinco minutos. Disolver en un tazón de leche, la maizena y el azúcar. Poner la mezcla al fuego y dejar que cueza removiendo hasta que espese bastante. Apagar el fuego y añadir a la crema resultante una yema batida de huevo y las nueces. Remover bien hasta conseguir una mezcla homogénea. Situar las mitades de albaricoque en una fuente, con el hueco hacia arriba y añadir la crema entre las mitades. Poner a fuego azúcar con un poco de agua hasta que se forme el caramelo y verter éste sobre el albaricoque. Hay que servirlos a continuación, sin dejar enfriar el caramelo.
 

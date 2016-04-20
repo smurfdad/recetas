@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Salmón ahumado
 
 salmón fresco
@@ -38,6 +37,5 @@ pimienta
 eneldo
 
 <h3>Preparación</h3>
-
 Cocinamos el salmón fresco con aceite de oliva, zumo de limón, sal, pimienta y eneldo. Con este salmón y mahonesa mezclada con mostaza, rellenamos el salmón ahumado y lo adornamos con lechuga rizada
 

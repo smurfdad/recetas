@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Lomos de bacalao desmigado
 
 cebolletas
@@ -32,6 +31,5 @@ salsa de tomate
 patatas
 
 <h3>Preparación</h3>
-
 Se desala el bacalao, se pican las cebolletas y los ajos y se pochan en una sartén en aceite de oliva. Cuando estén las cebollas y los ajos bien pochados, se añade el bacalao y se deja hacer lentamente. Cuando esté, se le añade la salsa de tomate y se le da un pequeña hervor y se retira. A continuación freímos unas patatas en tiras muy finas en aceite de oliva, las escurrimos y las añadimos al bacalao. Le damos otro pequeño hervor y listo.
 

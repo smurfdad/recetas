@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de filetes
 
 1 sobre de sopa de cebolla
@@ -25,7 +24,6 @@ Para 6 personas.
 3 patatas cascadas en trozos
 
 <h3>Preparación</h3>
-
 Pasar los filetes por harina y dorarlos en aceite de oliva.
 
 Ponerlos en la olla rápida y echar también la cerveza, la misma cantidad de agua, la zanahoria y el sobre de sopa.

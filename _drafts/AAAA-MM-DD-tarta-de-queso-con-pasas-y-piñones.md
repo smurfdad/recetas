@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 66 minutos.
 
 <h3>Ingredientes</h3>
-
 250 grs. de queso fresco tipo requesón
 
 1 yogur sabor limon
@@ -41,10 +40,8 @@ Para 4 personas.
 azucar
 
 <h3>Preparación</h3>
-
 Pasar por la batidora el queso fresco con el yogur, la leche condensada y los huevos hasta obtener una mezcla fina. Añadir las almendras y los piñones molidos y las pasas y mezclar todo bien. Verterlo todo en un molde caramelizado y cocerlo en el horno al baño maria, hasta que este cuajado, durante aproximadamente una hora.
 
 <h3>Observaciones</h3>
-
 Se puede servir la tarta acompañada con una salsa de frutos rojos, frutos del bosque o similar y decorada con un poco de nata.
 

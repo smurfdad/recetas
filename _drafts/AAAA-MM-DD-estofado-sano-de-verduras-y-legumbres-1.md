@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 taza de garbanzos puestos en remojo 12 horas y luego ponerlos a cocinar en abundante agua y dos hojas de laurel
 
 1/2 taza de caldo de verduras
@@ -48,7 +47,6 @@ categories:
 sal y pimienta recién molida
 
 <h3>Preparación</h3>
-
 Verter el caldo en una cacerola grande y cuando esté caliente agregar
 
 el morrón, los zapallitos, las zanahorias y el apio.

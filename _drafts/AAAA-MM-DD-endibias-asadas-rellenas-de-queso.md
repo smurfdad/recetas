@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 endibias
 
 2-3 pimientos verdes
@@ -46,7 +45,6 @@ aceite virgen extra
 sal
 
 <h3>Preparación</h3>
-
 Para la salsa, pica la cebolla y los dientes de ajo finamente. Pon a pochar en una cazuela con aceite. Pica los pimientos y añádelos. Pon a punto de sal, agrega el arroz y agua hasta cubrir y cocina durante 15 minutos. Tritura con una batidora eléctrica y cuela la salsa.
 
 Pon abundante agua a cocer en una cazuela, cuando empiece a hervir, exprime el limón sobre el agua, agrega las endibias y una pizca de sal. Deja cocer durante 10 minutos.

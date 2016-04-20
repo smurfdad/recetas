@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 kg, de verduras (alcachofas; habas, guisantes espinacas, bulbos de hinojo, coles de bruselas, apio, coliflor)
 
 10 dl, de aceite de oliva
@@ -40,7 +39,6 @@ Pimienta
 sal
 
 <h3>Preparación</h3>
-
 Se cortan y se lavan bien las verduras. Se cuecen en una olla a presión durante unos diez minutos. Se sacan y se escurren. En una sartén aparte y al fuego; se añade el aceite de oliva y los dientes de ajo.
 
 Cuando el ajo empieza a tomar color, se añade la cebolla y se rehoga durante cinco minutos; se añaden el jamón y el tomate rehogándose otros cinco minutos más a fuego lento.

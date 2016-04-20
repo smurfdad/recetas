@@ -7,7 +7,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg. de pez espada cortado en filetes
 
 2 cucharadas de miel
@@ -29,7 +28,6 @@ pimienta negra recien molida
 sal
 
 <h3>Preparación</h3>
-
 Elegir un cuenco de vidrio y poner en él el aceite y el ajo picado. Llevar al microondas, conectar la máxima potencia y cocinar 2 minutos.
 
 Agregar la miel, el tomillo, el tomate frito, el caldo, la sal, la pimienta y el vino. Cocinar durante 1 minuto más, removiendo con cuchara de madera a los 3o segundos de cocción.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 un lomo de salmón de unos 800 gramos
 
 caldo de pescado
@@ -51,7 +50,6 @@ sal
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Limpiamos el lomo de salmón de pieles y espinas. Lo cortamos en dados grandes (unos 2 cm.) y los reservamos.
 
 Limpiamos la cebolla, los ajos y los pimientos y los picamos en dados pequeños. Pelamos el tomate y lo picamos. Rehogamos todo en un puchero, con un chorro de aceite.
@@ -63,6 +61,5 @@ Aparte, en una sartén con una gota de aceite, salteamos los dados de salmón co
 Servimos inmediatamente en un plato sopero y espolvoreamos con perejil picado.
 
 <h3>Observaciones</h3>
-
 No debemos, ni saltear ni cocer en exceso el salmón, ya que de lo contrario se secaría. Si deseamos una sabor más acentuado, podemos preparar previamente un fumet con las pieles y espinas del propio salmón
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. habas tiernas
 
 4 dientes de ajo
@@ -45,6 +44,5 @@ Perejil
 3 huevos duros
 
 <h3>Preparación</h3>
-
 Fundir la manteca en una cazuela de barro, dorar el ajo y la cebolla, agregar la sobrasada picada y el tomate, cuando éste empiece a pegarse, añadimos el vino, las habas, la pechuga, el caldo, el perejil y los huevos groseramente picados. Dejamos cocer por espacio de 10 minutos aproximadamente dependiendo del haba.
 

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 200 gramos de queso Philadelphia
 
 1 pollo deshuesado
@@ -55,7 +54,6 @@ Para la salsa:
 2 cucharadas de Maizena.
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes y rellenar el pollo. Atarlo y asarlo durante 45 minutos.
 
 Preparación de la salsa:

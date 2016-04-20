@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Escarola
 
 Ajo
@@ -34,6 +33,5 @@ Bacón ahumado
 Piñones
 
 <h3>Preparación</h3>
-
 Aliñar la escarola con un poquito de ajo partido menudo y vinagre. Mientras tanto sofreír el bacón, y añadirle unos piñones. Mezclarlo todo y ya está listo.
 

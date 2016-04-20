@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 150 gr. escarola
 
 Aceite de oliva virgen
@@ -39,6 +38,5 @@ Vinagreta de frambuesa
 Pimienta negra
 
 <h3>Preparación</h3>
-
 Eliminamos las hojas exteriores de la escarola, lavamos el resto cuidadosamente, las dejamos escurrir y las cortamos en trozos. Hacemos lo mismo con la lechuga de hoja de roble. Las disponemos sobre una fuente de servicio. Aderezamos con aceite de oliva virgen y unas gotas de vinagre, sazonamos y molemos sobre ellas un poco de pimienta negra. Removemos bien y repartimos sobre la ensalada las pepitas de granada, cuidadosamente limpias de telillas. Y ya está limpia para servir.
 

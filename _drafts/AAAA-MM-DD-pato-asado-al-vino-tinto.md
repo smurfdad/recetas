@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 patos de 1 kg. aprox.
 
 1 cebolla mediana
@@ -40,7 +39,6 @@ Unos granos de pimienta verde
 Sal
 
 <h3>Preparación</h3>
-
 En primer lugar, se enciende el horno a 250&ordm; para que se vaya calentando. Una vez bien limpios los patos, se sazonan con sal y se soban con aceite por todas partes.
 
 En una placa de horno, se coloca la cebolla pelada y cortada en rodajas, y la media cabeza de ajos. Se colocan los patos sobre esta base. Se mete la placa en el horno, bien caliente, y se tiene unos 15 ó 20 minutos, rociando el conjunto continuamente con el jugo que se forme en el fondo de la placa. Hay que procurar que queden dorados por fuera y rosados por dentro.

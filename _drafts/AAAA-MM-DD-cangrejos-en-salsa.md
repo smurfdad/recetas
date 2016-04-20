@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 30 cangrejos de río
 
 2 zanahorias medianas
@@ -46,7 +45,6 @@ perejil
 sal, pimienta y Cayena
 
 <h3>Preparación</h3>
-
 Rehogar en una cazuela la zanahoria, la cebolla y la chalota, todo ello picado muy fino. Dejar hacer a fuego suave y con la cazuela tapada durante 10 minutos. Añadir un vaso de agua y dejar cocer otros 10 minutos. Limpiar y capar los cangrejos. Ponerlos en una sartén con el vino blanco y sal y saltearlos a fuego vivo hasta que estén colorados. Calentar el cognac en un cazo pequeño y prenderlo con una cerilla. Una vez prendido, viértalo sobre los cangrejos, muévalos y resérvelos. En la cazuela de rehogar las verduras añadir el tomate, pelado, partido y sin semillas. Dejarlos freír y añadir los cangrejos con su salsa, las hierbas aromáticas y pimienta. Dejar cocer unos 10 minutos.
 
 Pasado ese tiempo se sacan los cangrejos y se reservan al calor.

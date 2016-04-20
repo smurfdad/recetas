@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 grs de puerros
 
 400 grs de patatas
@@ -40,6 +39,5 @@ Agua
 Leche
 
 <h3>Preparación</h3>
-
 En dos cucharadas de aceite y dos de mantequilla se rehogan los puerros picados (sólo la parte blanca). Cuando están listos se añaden las patatas troceadas, la sal, la pimienta y se cubren con agua. Se cuecen durante 20 minutos, se tritura y se le añade un chorro de leche hasta lograr la textura deseada y se cuela para obtener una crema fina.
 

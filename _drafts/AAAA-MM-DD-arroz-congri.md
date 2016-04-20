@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 gr. judías
 
 300 gr. arroz de grano largo
@@ -42,6 +41,5 @@ Para 6 personas.
 chorizo o chicharrones de cerdo (opcional)
 
 <h3>Preparación</h3>
-
 Se ponen a ablandar las judías con bastante agua, que queden blandas pero enteras. Cuando estén blandas, se separan los granos del caldo. Apartar. En un cazo lo más plano posible, sofreír la cebolla, los ajos y el pimiento, todo picado, en la manteca de cerdo. Cuando estén pochos, agregar el arroz y las judías sin el caldo y rehogar un poquito revolviendo. Adicionar entonces el caldo de las judías (el doble que de arroz), el comino, la pimienta, la sal, el laurel y los chicharrones de cerdo o el chorizo si se desea. Dejar cocer como cualquier otro arroz, hasta que quede seco, negro y suelto.
 

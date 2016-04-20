@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Masa de hojaldre
 
 3 gambas
@@ -34,6 +33,5 @@ tomate
 coñac
 
 <h3>Preparación</h3>
-
 Se hace una salsa con las gambas picadas, la cebolla, el puerro, el coñac y el tomate en una sartén. Se pasa todo por el chino y se rellena el hojaldre con la salsa.
 

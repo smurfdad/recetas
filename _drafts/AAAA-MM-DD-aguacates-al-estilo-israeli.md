@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 aguacates
 
 2 naranjas
@@ -40,7 +39,6 @@ Para la salsa:
 2 cucharadas soperas de hierbabuena fresca picada
 
 <h3>Preparación</h3>
-
 Prepare la salsa: Ponga todos los elementos previstos para esta en un molde, revuelva con un tenedor y vierta en una salsera.
 
 Pele los aguacates y deshuéselos, córtelos en láminas longitudinales, pele las naranjas y sepárelas en gajos, retire la membrana que los cubre. Lave las fresas y quíteles el rabillo.

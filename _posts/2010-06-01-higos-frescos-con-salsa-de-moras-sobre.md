@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 higos
 
 200 gr. de queso fresco
@@ -29,7 +28,6 @@ azúcar
 piel de naranja
 
 <h3>Preparación</h3>
-
 Se maceran los higos durante 24 horas en carmamono. Se hace una crema con queso fresco y canela, que sirve de base para el sostén del higo. Se pelan los higos macerados, se depositan sobre la base de queso y finalmente se bañan con el dulce de moras.
 
 Preparación del dulce de moras:

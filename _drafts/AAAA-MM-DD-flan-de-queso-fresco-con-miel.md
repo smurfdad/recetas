@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 yemas
 
 250 cc. de nata líquida
@@ -36,6 +35,5 @@ Para 4 personas.
 4 cucharadas de miel mantequilla
 
 <h3>Preparación</h3>
-
 Remojar las colas de pescado en agua fría según sus instrucciones. Batir las colas de pescado junto con las yemas, la nata, el queso y el azúcar en una Turmix. Se pasa todo por un colador fino. Se reparte esta crema en cuatro moldes de flan individuales, previamente untados con mantequilla. Se introducen en la nevera y se dejan reposar durante 2 horas. Para presentar los flanes se introducen un momento en un baño de agua templada y se desmoldan sobre cuatro tejas de barquillo; se rocían con la miel caliente.
 

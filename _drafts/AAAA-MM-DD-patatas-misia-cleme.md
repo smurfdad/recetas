@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 6 Papas cocidas con cáscaras
 
 2 Cebollitas
@@ -36,7 +35,6 @@ categories:
 Sal y pimienta, perejil
 
 <h3>Preparación</h3>
-
 Las patatas se pelan, con una cuchara se retira la pulpa.
 
 La pulpa sacada se muele o se pasa por cedazo, se le agrega el atún, la mayonesa, el perejil, la sal, la cebollita y el pepinillo.

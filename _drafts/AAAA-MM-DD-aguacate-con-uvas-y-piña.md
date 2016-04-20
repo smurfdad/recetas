@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 aguacates maduros.
 
 1 racimo de uvas blancas
@@ -48,7 +47,6 @@ Para la salsa:
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Cortar los aguacates a lo largo, por la mitad y sin romper la corteza, quitar la pulpa. Remover en un bol la pulpa del aguacate junto con las uvas, el pepino cortado en trozos pequeños, los granos de maíz y las rodajas de piña cortadas en trocitos.
 
 Añadir el zumo de limón y remover lentamente. Poner a la mayonesa el ketchup, el coñac, un poco de sal y de pimienta de cayena.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 900 gramos de sardinas.
 
 Una pizca de tomillo.
@@ -46,6 +45,5 @@ Pimienta.
 Medio limón.
 
 <h3>Preparación</h3>
-
 Se limpian las sardinas de vísceras y cabezas, se les quita la espina central y se separan en dos filetes. Se lavan bien y se colocan extendidas en un recipiente, con el tomillo, unas dos horas. Una vez maceradas, se enharina y se fríen en aceite caliente, en el que habrán puesto dos dientes de ajo enteros y sin pelar. Se sirven acompañadas de pimientos verdes fritos y adornadas con trozos de limón.
 

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 paquete de macarrones
 
 1 cebolla grande
@@ -39,7 +38,6 @@ Para 6 personas.
 Aceite de oliva, sal, pimienta blanca molida, orégano, albahaca y hierbas provenzales,hojas de laurel y una pastilla de caldo concentrado vegetal
 
 <h3>Preparación</h3>
-
 En una olla se calienta agua para hervir la pasta. Cuando el agua esta hirviendo, se añade un puñado de sal, tres hojas de laurel y la pastilla de caldo vegetal. Acto seguido, los macarrones, removiendo para que no se peguen al fondo de la olla.
 
 Mientras se cocina la pasta, se trocean todas las hortalizas a daditos pequeños. En una olla grande se pone a calentar un buen chorro de aceite de oliva y se añade la cebolla troceada. Cuando comience a dorarse, se añaden las demas hortalizas, bajando el fuego y tapando para que se pochen. Se sala y se añade una pizca de pimienta blanca molida. Cuando el sofrito esta listo se añade la lata de tomate triturado y se mezcla bien. El orégano, la albahaca y las hierbas provenzales se añaden cuando casi este a punto de terminar de cocerse la salsa. Se prueba y se rectifica de sal.

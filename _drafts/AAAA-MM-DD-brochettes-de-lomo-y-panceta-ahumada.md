@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 k de lomo en cubos
 
 1/4 k de panceta ahumada en cubos
@@ -36,7 +35,6 @@ Aceite
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Sellar los cubitos de lomo. Tomar un pinche de brochette colocar un trozo de lomo, luego uno de panceta y luego un trozo de pimiento, repetimos la acción y dejamos como último un trozo de lomo.
 
 Poner un poco de aceite en una fuente de horno y colocar las brochettes y las salpimentamos a gusto. Cocinar en el horno y cada tanto rociarlas con un poco de vino.

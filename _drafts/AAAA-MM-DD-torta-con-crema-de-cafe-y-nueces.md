@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 Bizcochuelo
 
 6 huevos
@@ -49,7 +48,6 @@ Almibar
 1c de oporto
 
 <h3>Preparación</h3>
-
 Batir los huevos con el azucar hasta llegar a punto letra,luego agregar el vainillin y la harina (cernida)con movimientos suaves (sin batir)y colocar en un molde y llevar a horno moderado 30m.
 
 Batir la crema y agregar el azucar por ultimo el cafe( resevar un poco de esta crema para cubrir luego la torta) y luego colocarles las nueces molidas.

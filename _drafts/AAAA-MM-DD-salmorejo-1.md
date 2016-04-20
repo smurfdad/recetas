@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 rebanadas de pan del día anterior
 
 1/2 tacita de aceite de oliva
@@ -57,6 +56,5 @@ Guarnición:
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Pelar los ajos y majar en un mortero junto a la sal y el vinagre. Se tritura el pan, los tomates maduros, los pimientos verdes, los huevos y agua en cantidad suficiente. Se echa el aceite en un hilo sin dejar de remover hasta obtener una masa pastosa. Picar todos los ingredientes de la guarnición. A la hora de servir se coloca la guarnición en un plato y en una jarra se echa aceite de oliva para condimentar según el gusto.
 

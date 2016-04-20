@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 patatas
 
 8 huevos
@@ -43,7 +42,6 @@ pimienta
 perejil picado
 
 <h3>Preparación</h3>
-
 Pela las patatas, córtalas en medias lunas y ponlas a freír en una sartén con abundante aceite.
 
 Pica 4 lonchas de jamón en taquitos y saltéalos en una sartén con un poco de aceite. Deja enfriar.

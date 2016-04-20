@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 paquete de surimi (cangrego australiano)
 
 1 lata de media crema.
@@ -37,6 +36,5 @@ Galletas salada.
 1/4 de lechuga
 
 <h3>Preparación</h3>
-
 Despica el surimi (con las manos), como desebrando, luego le agregas el cilantro bien picadito y previamente desinfectado, luego la lata de media crema y una cucharada de mayonesa, lo mezclas todo muy bien y la sirves en hojas de lechuga desinfectadas. Lo acompañas con galletas saladas.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 gr. de harina de maíz
 
 200 gr. de panceta
@@ -38,7 +37,6 @@ aceite virgen extra
 sal
 
 <h3>Preparación</h3>
-
 Pon la harina en un recipiente amplio. Haz un hueco en el centro y
 
 añade una pizca de sal. Templa el agua en una cazuela y agrégala
@@ -64,6 +62,5 @@ fríelos por separado. Sirve un talo por persona y pon encima de cada
 uno, 2 rodajas de morcilla, 2 de chorizo y 2 de panceta.
 
 <h3>Observaciones</h3>
-
 Para que la morcilla no se desparrame al freír, una vez hechas las rodajas, lo más indicado es retirarle la piel.
 

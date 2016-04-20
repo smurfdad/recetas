@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una berenjena
 
 2 ó 3 tomates
@@ -40,7 +39,6 @@ guindilla (opcional)
 aceite y sal.
 
 <h3>Preparación</h3>
-
 Picar la cebolla y sofreirla en una sartén. Pasados unos minutos incorporamos los tomates lavados y picados. Se añaden unas tiras de pimiento rojo.
 
 Salamos al gusto y añadimos perejil y un buen chorro de vino blanco. También se puede añadir una guindilla si nos gustan las salsas alegres. Dejar hacerse todo una media hora a fuego lento o hasta que veamos que va ablandando. Cuando esté hecho lo pasamos por el pasapurés y lo volvemos a poner en la sartén. Aparte lavamos la berenjena y la troceamos en cuartos más o menos grandes.

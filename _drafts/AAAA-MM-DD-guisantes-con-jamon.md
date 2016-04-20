@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Guisantes
 
 150 grs de jamón serrano en tacos
@@ -32,6 +31,5 @@ Guisantes
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Se sofríen los ajos laminados en aceite de oliva caliente y cuando están dorados se añaden los tacos de jamón, los guisantes cocidos y se deja calentar todo junto. Se sirve al momento.
 

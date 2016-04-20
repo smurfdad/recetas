@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de tallarines de acelgas
 
 8 pencas de acelga
@@ -45,6 +44,5 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Hierve las pencas al vapor y las acelgas abajo. Enfría y corta las pencas en bastoncitos largos y finos. Corta la panceta en cubitos y saltéala en aceite, añade los tallarines de acelgas y pon a punto de sal. Pasa la pasta escurrida a una fuente resistente al calor. Añade la bechamel por encima salpicando el queso rallado y gratinar.
 

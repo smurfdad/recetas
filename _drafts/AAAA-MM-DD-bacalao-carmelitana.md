@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Bacalao desalado 1 Kg.
 
 4 ajos
@@ -42,7 +41,6 @@ harina
 huevo
 
 <h3>Preparación</h3>
-
 Quitar la piel del bacalao y guardarla. Freír la cebolla y el ajo picado; cuando se doren, añadir el tomate troceado y la piel del bacalao. Flamear con el coñac y añadir el estragón. Cuando esté hecho, pasar por el chino. Rebozar el bacalao con harina y huevo y freirlo 2 minutos por cada lado.
 
 Verter la salsa en una cazuela de barro, añadir el bacalao frito y hacer durante 5 minutos más

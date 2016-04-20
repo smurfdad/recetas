@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kgr de Carne de Ternera cortada en Juliana (tiras)
 
 250 grs de Chorizo para guisar
@@ -35,6 +34,5 @@ Para 6 personas.
 1/2 cebolla en Brunoise (cuadritos)
 
 <h3>Preparación</h3>
-
 Freir el bacon hasta que quede no muy dorado. En la misma grasa saltear el chorizo. Darle una pasada al chile y cebolla en la misma grasa. Saltear un poco la carne hasta que tenga el punto deseado de cocimiento. Mezclar todo el conjunto en una fuente que resista el calor del horno. Meter a calentar un rato al horno o microhondas y servir muy caliente.
 

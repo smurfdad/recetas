@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. pescado (pueden ser también cabezas)
 
 1/4 kg. almejas o chirlas
@@ -34,7 +33,6 @@ aceite
 un poco de pimentón
 
 <h3>Preparación</h3>
-
 Cocer el pescado en 2 l. de agua con un trozo de cebolla, un puerro, un diente de ajo, una rama de perejil y sal.
 
 En una cazuela baja o sartén freír el resto de la cebolla, puerro, zanahoria y ajo.

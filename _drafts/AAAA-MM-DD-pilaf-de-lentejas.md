@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de aceite de oliva
 
 1 cebolla pequeña picada
@@ -42,6 +41,5 @@ Para 4 personas.
 1/4 taza de nueces tostadas (pine nuts)
 
 <h3>Preparación</h3>
-
 Calentar aceite en un sartén sobre fuego mediano. Añada las cebollas y ajo y cocinar hasta que esté suave. Agregue el arroz y las lentejas. Revolver por 2 minutos. Añada el caldo, tomillo y pimienta. Haga hervir, luego bajar el fuego, tapar y cocinar a fuego lento por 30 minutos. Agregue las nueces. Servir caliente.
 

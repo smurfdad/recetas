@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 centollas de ración
 
 Agua
@@ -32,6 +31,5 @@ Sal gorda
 Laurel
 
 <h3>Preparación</h3>
-
 En una pota se pone abundante agua con sal gorda y laurel. Las centollas deben incorporarse mientras el agua está fría para que no suelten las patas (si están vivas). Cuando el agua comience a hervir se dejan cocer de 15 a 20 minutos (dependiendo del tamaño). Se escurren y se sirven frías.
 

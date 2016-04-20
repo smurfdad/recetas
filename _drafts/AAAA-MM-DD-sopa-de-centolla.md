@@ -22,7 +22,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 2 centollas
 
 Almejas
@@ -36,7 +35,6 @@ Pan frito
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Se cuecen las centollas en agua y sal y cuando estén hechas se pican finitas. Se reserva el caldo del hervido.
 
 En el caldo de la centolla se colocan los berberechos y las almejas, se deja hervir 10 minutos luego se cuela el caldo y se le agrega la carne de centolla sal pimienta y el jerez y se deja cocer durante 15 minutos a fin que se reduzca un poco el líquido, y se vuelve a colar.

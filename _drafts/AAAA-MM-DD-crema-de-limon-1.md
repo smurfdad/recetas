@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata leche condensada
 
 3 limones
@@ -32,6 +31,5 @@ Para 6 personas.
 2 yogures naturales
 
 <h3>Preparación</h3>
-
 Poner en un bol la leche condensada, el zumo de los limones y los yogures. Batir y meter en el frigorífico durante 4-5 horas como mínimo. Se decoran las copas con rodajas de kiwi y fresas o con cualquier otra bonita combinación de colores.
 

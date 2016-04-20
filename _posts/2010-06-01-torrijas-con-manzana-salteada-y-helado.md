@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1l. de nata
 
 8 rebanadas de pan de molde
@@ -27,7 +26,6 @@ aceite de oliva
 mantequilla
 
 <h3>Preparación</h3>
-
 Poner a hervir la nata, la vainilla y el azúcar. Contar las rebanadas de pan con un cortapastas de forma redonda e introducir en la nata hasta que empapen bien. Freir las torrijas. Saltear con mantequilla unas bolas de manzana.
 
 Poner en el plato un poco de nata mezclada con la vainilla, encima las bolas de manzana, luego la torrija, una bola de helado a un lado y espolvorear con canela.

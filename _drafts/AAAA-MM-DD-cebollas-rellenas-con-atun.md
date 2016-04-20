@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 8 cebollas medianas (parejas)
 
 1 lata de atún envasado al agua
@@ -38,6 +37,5 @@ categories:
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Pelar las cebollas, colocarlas en una cacerola con el vino, el vinagre, el aceite, las hierbas y el ajo aplastado. Salpimentar. Cocinar hasta que estén tiernas. Escurrir, dejar enfriar y cortarles una tapita ahuecándolas un poco. Reservar el líquido de cocción. Pisar el atún y rellenar las cebollas. Llevarlas a una fuente para horno y rociarlas con el jugo de cocción. Calentar en el horno y servir.
 

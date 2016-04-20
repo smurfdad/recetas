@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 tomates medianos
 
 4 huevos
@@ -32,7 +31,6 @@ Hojas verdes para decorar
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Lavar los tomates, cortar la tapa de arriba y ahuecarlos.
 
 Condimentar por dentro con sal y pimienta.

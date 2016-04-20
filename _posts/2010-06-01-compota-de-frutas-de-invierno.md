@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de higos secos
 
 175 gr. de ciruelas pasas
@@ -33,7 +32,6 @@ Para 4 personas.
 2 cucharadas soperas de almendras fileteadas
 
 <h3>Preparación</h3>
-
 Se aclaran las pasas y se meten en un bol, junto con los higos, las ciruelas y los albaricoques. Se espolvorea el azúcar por encima y se vierte sobre el conjunto el zumo de limón. Se envuelven el palo de canela y los clavos de olor en una gasa y se ata. Se introduce este hatillo en el bol, entre los frutos secos.
 
 Se cubre todo con 75 cl. de agua. Se tapa el bol con papel de aluminio o papel film y se mete al frigorífico durante 24 horas.

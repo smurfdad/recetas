@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de arroz
 
 2 tomates maduros
@@ -47,6 +46,5 @@ pimienta
 queso
 
 <h3>Preparación</h3>
-
 En una cacerola, sofreír con dos cucharadas de aceite y 25 gr. de mantequilla, la cebolla picada fina. En cuanto se dore, agregar el tomate picado y el caldo. Rectificar de sal y pimienta y dejar cocer 10 minutos. Añadir el arroz y dejarlo cocer durante 15 minutos. Diez minutos antes de retirar el arroz, agregar los guisantes y, al final, el azafrán- Fuera del fuego, condimentar la sopa con 2 puñados de queso rallado. Removerlo y servirlo muy caliente.
 

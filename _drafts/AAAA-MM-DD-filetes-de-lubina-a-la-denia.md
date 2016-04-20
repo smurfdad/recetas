@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 lubina de kilo y medio
 
 6 langostinos
@@ -55,7 +54,6 @@ Zumo de limón
 2 yemas de huevo
 
 <h3>Preparación</h3>
-
 Una vez desprovista la lubina de las espinas, se corta en filetes y se colocan en una tartera untada con mantequilla. Se añade el vino blanco, dos vasos grandes de agua y se sazona con sal. Inmediatamente se añade una cucharada sopera de mantequilla y unas gotas de zumo de limón. Se colocan las patatas peladas cuidadosamente y se tapa con papel de barba untado con mantequilla y se mete en el horno a 180&ordm; durante 12 minutos.
 
 A continuación se saca la tartera del horno y se añaden los langostinos y la trufa, cortada en rodajas, introduciéndolo de nuevo en el horno durante 3 minutos más a la misma temperatura.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lonchas de atún un dedo de gordas
 
 1 manojo de 4 ajos tiernos
@@ -36,7 +35,6 @@ sal
 un chorrito de vino blanco
 
 <h3>Preparación</h3>
-
 En una paella se fríen con poco aceite las 4 lonchas de atún sazonadas con sal y a la mitad, se le agregan los ajos tiernos troceados. Mezclarlos con el atún.
 
 Antes de sacar, rociar con un poquito de vino blanco, agregando la ramita de laurel.

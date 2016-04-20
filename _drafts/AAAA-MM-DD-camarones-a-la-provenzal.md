@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 camarónes
 
 aceite de oliva
@@ -40,6 +39,5 @@ sal y pimienta
 pimentón
 
 <h3>Preparación</h3>
-
 Flambear los camarones con el cognac. Luego salpimentarlos y agregarles los ajos a fuego lento hasta que se doren. Después subir el fuego, agregarle el vino y por último el perejil. Con una pizca de pimentón rojo. Dejar evaporar el alcohol y listo.
 

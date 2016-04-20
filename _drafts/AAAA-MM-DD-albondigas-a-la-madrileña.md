@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr de carne de vaca picada
 
 3 huevos
@@ -50,7 +49,6 @@ coñac
 1 litro de salsa de tomate
 
 <h3>Preparación</h3>
-
 A la carne picada le añadiremos la cebolla y el ajo finamente picados. Añadirle el pan rallado, los huevos, el perejil picado, el coñac y el vino blanco.
 
 Sazonar con sal, pimienta blanca y nuez moscada.

@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gramos de uva blanca.
 
 1/4 litro de vino blanco moscatel.
@@ -45,7 +44,6 @@ Para decorar:
 Confitura de frambuesas, moras y grosellas; o estas frutas en almíbar o en conserva (se pueden encontrar en tiendas de alimentación especializadas, tipo delicatessen).
 
 <h3>Preparación</h3>
-
 Lavamos las uvas, las desgranamos y las ponemos a cocer a fuego medio durante 45 minutos en una cazuela con el vino blanco y el azúcar.
 
 Removemos de vez en cuando con una cuchara de madera.

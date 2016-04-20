@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 redondo de ternera de unos 1500 gr.
 
 1 cebolla
@@ -61,7 +60,6 @@ champiñones
 sal
 
 <h3>Preparación</h3>
-
 En una fuente especial para microondas poner el redondo sin atar con sal, la cebolla, el tomate troceado, el romero, tomillo, clavos, laurel, canela, aceite y brandy. Conectar la sonda térmica, procurando pincharla en el núcleo de la carne y programar el microondas a 70 grados o 780W.
 
 Cuando se alcance esa temperatura, retirar la carne, tapar y reservar.

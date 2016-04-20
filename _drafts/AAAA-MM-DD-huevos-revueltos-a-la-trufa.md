@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 9 huevos
 
 4 hojas de brick
@@ -38,6 +37,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Derretir la mantequilla y untar las hojas de brick. Poner cada una de ellas dentro de un molde pequeño redondo para darles la forma y meterlas en el horno precalentado a 180 grados de 5 a 6 minutos. Sacarlas del horno y del molde. Abrir la lata de trufa, cortarla en láminas y reservar el jugo. Batir 8 huevos como para tortilla, agregar el jugo de la trufa y salpimentar. Calentar el aceite en una sartén de fondo grueso, agregar los huevos y cuajar a fuego suave sin dejar de remover. Dos minutos antes de terminar la cocción incorporar la trufa. Retirar del fuego, agregar el huevo restante mezclar bien y repartir los huevos en las hojas de brick. Servir enseguida.
 

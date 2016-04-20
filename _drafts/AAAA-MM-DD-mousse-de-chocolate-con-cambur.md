@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 400 g de chocolate amargo
 
 6 huevos
@@ -42,7 +41,6 @@ Para 8 personas.
 1/2 taza de nueces
 
 <h3>Preparación</h3>
-
 Derretir el chocolate con la leche en baño de María.
 
 Separar las yemas de las claras.

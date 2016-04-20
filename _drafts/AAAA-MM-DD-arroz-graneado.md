@@ -23,7 +23,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 taza de arroz
 
 aceite necesario
@@ -35,6 +34,5 @@ ajos 2 dientes
 agua caliente 3 tazas
 
 <h3>Preparación</h3>
-
 colocar en una olla el aceite y luego el arroz, freirlo en fuego moderado, agregarle el ajo y la sal, freir bien todo, y luego hecarle 3 tazas de agua caliente, dejar cocinar.
 

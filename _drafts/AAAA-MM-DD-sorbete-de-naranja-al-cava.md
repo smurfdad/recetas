@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 naranjas.
 
 2 limones.
@@ -37,7 +36,6 @@ Para 4 personas.
 2 claras de huevo.
 
 <h3>Preparación</h3>
-
 Cortamos los limones y las naranjas por la mitad y los exprimimos.
 
 Pasamos el zumo obtenido por un colador.

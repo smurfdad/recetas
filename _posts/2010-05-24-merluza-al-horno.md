@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. merluza congelada
 
 2 cebollas
@@ -23,7 +22,6 @@ aceite
 ajo, perejil, sal
 
 <h3>Preparación</h3>
-
 Poner en una fuente de horno una capa de patata en rodajas, otra de zanahorias en rodajas y otra de cebolla en rodajas.
 
 Encima colocar la merluza, desescamada y con sal pero aún congelada.

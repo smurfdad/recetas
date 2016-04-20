@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 litros de agua
 
 huesos de ternera
@@ -32,7 +31,6 @@ huesos de ternera
 2 zanahorias
 
 <h3>Preparación</h3>
-
 Poner todo junto en una cazuela y dejarlo hervir despacio hasta que reduzca a la mitad.
 
 Colar el caldo, dejar enfriar y conservarlo en la cámara para su posterior utilización.

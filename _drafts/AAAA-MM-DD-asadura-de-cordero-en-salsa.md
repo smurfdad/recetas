@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 una asadura de cordero entera
 
 1 cabeza de ajo
@@ -40,7 +39,6 @@ una asadura de cordero entera
 Sal
 
 <h3>Preparación</h3>
-
 Se corta la asadura en trocitos pequeños
 
 Se pone aceite a calentar y, cuando esté caliente, se echa la asadura troceada, se sofríe un poco.

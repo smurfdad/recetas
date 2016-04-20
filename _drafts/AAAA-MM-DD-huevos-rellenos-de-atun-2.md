@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos cocidos
 
 125 gr. de atún o bonito en aceite
@@ -48,7 +47,6 @@ Un tomate
 Unas ramitas de perejil
 
 <h3>Preparación</h3>
-
 Pela los huevos cocidos y pártelos por la mitad. Retira las yemas y colócalas en un bol (reserva las claras). Añade el atún o bonito, desmenúzalo todo y mezcla. Para preparar la mahonesa: pon el huevo en una jarra, añade un chorro de vinagre, el aceite y una pizca de sal. Bate con la batidora comenzando por el fondo de la jarra hasta que ligue la salsa.
 
 Agrega la mahonesa al bol con el atún y las yemas. Reserva parte de la mahonesa. Espolvorea con perejil picado y mézclalo todo bien. Con una cuchara pequeña vete rellenando con la preparación anterior las claras de huevo. Cubre con mas mahonesa.

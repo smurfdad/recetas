@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de bacalao desalado
 
 1 Kg. de tomates maduros
@@ -40,7 +39,6 @@ Azúcar
 Sal
 
 <h3>Preparación</h3>
-
 En primer lugar ponemos al fuego una paella con aceite cuando esta caliente se cogen los trozos de bacalao que tendremos enharinados uno por uno y los ponemos a freír dándoles la vuelta no tienen que ser demasiado dorados, al lado tendremos una cazuela donde iremos poniendo los trozos fritos.
 
 Tendremos rallados los tomates y también picaremos los dientes de ajo y el perejil, una vez frito el bacalao con el aceite que ha quedado en la paella cojeremos una cucharada de harina grande removiendo todo seguido para deshacer y cocer la harina.

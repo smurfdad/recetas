@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote de leche ideal
 
 una lata de esparragos, de yemas, de min 8 unidades.
@@ -34,6 +33,5 @@ mahonesa
 caviar
 
 <h3>Preparación</h3>
-
 vertir en la batidora( preferiblemente tipo Hamilton) el bote de leche ideal. vertir igualmente el envase de esparragos. añadir tres huevos batir hasta conseguir una solucion uniforme. poner al baño maria durante media hora. dejar enfriar e introducir en el frigorifico hasta que este frio. una vez enfriado vertir en una bandeja de buena presentacion. untarlo con mahonesa y salpicarlo de caviar. buen provecho.
 

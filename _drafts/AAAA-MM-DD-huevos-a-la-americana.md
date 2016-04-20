@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 1 taza de salsa de tomate frito
 
 1 lata de esparragos
@@ -35,7 +34,6 @@ Para 4 personas.
 250 cc de leche
 
 <h3>Preparación</h3>
-
 En un molde de cristal para horno y untado de mantequilla se colocan los sesos una vez limpios (lavados bajo el grifo de agua fría para quitarles la telilla) encima se colocan los huevos duros, los espárragos y la salsa de tomate.
 
 Por último, se baten 2 huevos con la leche se pone sobre todo lo demás y se espolvorea con pan rallado.

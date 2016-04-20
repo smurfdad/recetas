@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 90 minutos.
 
 <h3>Ingredientes</h3>
-
 1k de patitas
 
 1 cebolla
@@ -47,6 +46,5 @@ ajos machacados
 sal
 
 <h3>Preparación</h3>
-
 Se lavan bien las patitas, y se ponen a cocer en la olla a presion durante hora y media con su hoja de laurel un trocito de cebolla y un chorrito de aceite, aparte se prepara la salsa, se frie la cebolla en el aceite y una vez que está se le agrega la harina y se diluye bien, luego se agrega el pimenton y se une bien se echa el caldo de la cocción y el comino con los ajos y la sal machacado se le agrega a la salsa, si queda muy espesa se le agrega mas caldo hasta conseguir la consistencia deseada, se echan las patitas a la salsa y se les dá un hervor
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 24 Bocartes (boquerones o anchoas)
 
 2 dientes de ajo
@@ -34,7 +33,6 @@ perejil
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Lavar, abrir y desespinar los bocartes.
 
 Poner aceite en una sartén honda y freír los ajos picados, sin dejar que se doren.

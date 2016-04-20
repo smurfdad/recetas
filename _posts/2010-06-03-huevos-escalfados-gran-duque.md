@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos
 
 4 patatas grandes
@@ -29,7 +28,6 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Cocer las patatas con agua y sal.
 
 Una vez cocidas y frías, pelarlas y cortarlas por la mitad.

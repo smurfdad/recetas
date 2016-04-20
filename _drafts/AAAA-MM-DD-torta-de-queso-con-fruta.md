@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 600 g. queso petit suisse
 
 60 g. azúcar
@@ -38,6 +37,5 @@ Para 6 personas.
 50 g. almendras fileteadas y tostadas
 
 <h3>Preparación</h3>
-
 Forrar el molde con el papel de aluminio y acomodar un disco de pionono de ese tamaño. Mezclar el queso con el azúcar y agregarle la crema apenas batida. Para el final: disolver la gelatina en el almíbar, calentar unos segundos y dejar entibiar. Incorporar al queso con los cubos de fruta al natural. Verter en el molde y llevar a la heladera 3 horas. Retirar, desmoldar y decorar con frutas frescas a gusto y las almendras tostadas.
 

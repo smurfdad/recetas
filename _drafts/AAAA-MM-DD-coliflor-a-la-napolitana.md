@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor pequeña
 
 1 cebolla mediana picada
@@ -40,7 +39,6 @@ Para 4 personas.
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Corte la coliflor por ramilletes y cocinarlas al vapor hasta que este tierna.
 
 Licuar bien los tomates con su liquido a máxima potencia, luego licuarlos.

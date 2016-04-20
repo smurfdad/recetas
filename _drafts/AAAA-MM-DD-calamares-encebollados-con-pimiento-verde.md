@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Calamares: 400 grs. (limpios y troceados)
 
 Cebollas: 3
@@ -34,6 +33,5 @@ Patatas: 4 medianas
 Laurel: 1 hojita (para cocer las patatas)
 
 <h3>Preparación</h3>
-
 Se doran las cebollas cortadas en juliana y cuando están listas se les añade el calamar, limpio y cortado en trozos. Se sazona al gusto. Se cubre la olla y se deja cocer el calamar en su propio jugo durante 20 minutos aproximadamente. Cinco minutos antes de terminar se añaden los pimientos verdes troceados. Se pueden servir acompañados por unos cachelos.
 

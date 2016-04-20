@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 grs. de garbanzos
 
 1 cucharada de aceite de oliva virgen
@@ -38,7 +37,6 @@ pimentón y sal
 1 puerro
 
 <h3>Preparación</h3>
-
 Remoja los garbanzos durante 12 horas. Después colócalos en una cazuela con agua hirviendo, sal, las zanahorias, el puerro y los tomates troceados.
 
 Mantén el hervor durante 45 minutos aproximadamente (según el tipo de garbanzo), añadiendo, si fuera necesario, más agua hirviendo.

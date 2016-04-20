@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para la masa
 
 250g (2 tazas) de harina 0000
@@ -50,7 +49,6 @@ Para la cubierta
 Salsa golf para decorar
 
 <h3>Preparación</h3>
-
 Preparar la masa para pizza como se indica en masas básicas. Cocinar la masa para pizza sin dorar (prepizza), agregar la salsa de tomates, colocar sobre la salsa la mozzarella que cubra toda la superficie de la masa llegando a 1/2 cm del borde, luego colocar las rodajas de ananá, los palmitos intercalados en forma radial, espolvorear con el jamón picado y cocinar en horno caliente.
 
 Un minuto antes de que esté lista retirar del horno y bañar con hilos de salsa golf y hornear 1minuto más, servir sobre base de madera y cortar ocho porciones.

@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 75 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kilos de costillas de cerdo sin grasa
 
 agua para cubrir
@@ -51,6 +50,5 @@ agua para cubrir
 1 lata de trozos de durazno (escurridos aparte el liquido).
 
 <h3>Preparación</h3>
-
 Corte las costillas en 2 raciones hiervalas en agua durante media hora y escurralas,coloquelas en un asador,conbine los siguiente 8 ingredientes en un sarten y ponga a hervir,mezcle la fecula de maiz y el agua en una taza revuelva con la mezcla anterior y deja que hierva hasta que espese vierta sobre las costillas,tape y hornee a 175 g. durante una hora cubra con el liquido de las frutas y tape hornee durante 15 minutos mas.
 

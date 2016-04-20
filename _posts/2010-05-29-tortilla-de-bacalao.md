@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. bacalao remojado
 
 1 cebolla grande
@@ -24,7 +23,6 @@ Para 6 personas.
 perejil, aceite de oliva
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla, pimientos y ajo, todo ello finamente picado, en el aceite.
 
 Cuando estén a punto de dorarse añadir el bacalao desmigado.

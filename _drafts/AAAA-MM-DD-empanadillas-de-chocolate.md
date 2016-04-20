@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 unidades de masa de empanadilla precocinada
 
 1 cucharada de chocolate negro en polvo
@@ -34,7 +33,6 @@ Para 4 personas.
 50 ml. de aceite de oliva
 
 <h3>Preparación</h3>
-
 Preparar las natillas según las instrucciones del paquete y añadir en el ultimo momento el chocolate.
 
 Repartir la mezcla sobre las cuatro empanadillas y cerrarlas con la ayuda de un tenedor.

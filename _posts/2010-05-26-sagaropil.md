@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 150 grs. de mantequilla
 
 150 grs. de azúcar
@@ -25,7 +24,6 @@ Para 6 personas.
 raspadura de medio limón (sólo lo amarillo)
 
 <h3>Preparación</h3>
-
 Ablandar un poco la mantequilla, ya sea en el fuego o en el microondas.
 
 Batirla junto con el azúcar y los huevos y la raspadura de limón hasta que esté un poco espeso.

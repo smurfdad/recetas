@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 sobre de gelatina neutra
 
 6 naranjas iguales
@@ -36,6 +35,5 @@ categories:
 2 cucharadas de corteza de naranja rallada
 
 <h3>Preparación</h3>
-
 Cortar un sombrero a cuatro naranjas y vaciarlas. Exprimir las 2 naranjas restantes. Batir las yemas con el azúcar y añadirles el zumo de limón, la corteza rallada y la pulpa de las naranjas bien picada. Preparar la gelatina, según las instrucciones del paquete, sustituir el medio litro de agua por algo menos de 1/4 de agua, al que se le añadirá el zumo de naranja. Añadir el batido anterior, seguir removiendo hasta conseguir una mezcla perfecta incorporar la mitad de la nata. Con todo esto se rellenan las naranjas. Terminamos de rellenar con el resto de la nata y colocamos la tapadera. Las colocamos en el frigorífico unas 5 horas.
 

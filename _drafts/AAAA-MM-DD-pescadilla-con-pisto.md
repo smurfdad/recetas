@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pescadilla de kilo y medio en filetes.
 
 1 plato de harina.
@@ -50,7 +49,6 @@ Pisto:
 Aceite y sal.
 
 <h3>Preparación</h3>
-
 En primer lugar se hace el pisto. Para ello, colocamos la verdura picada, en una cazuela, con aceite, y la dejamos pochar a fuego lento, rectificando de sal.
 
 Mientras tanto, se toman los filetes de pescadilla, se pasan por harina y levadura y se fríen.

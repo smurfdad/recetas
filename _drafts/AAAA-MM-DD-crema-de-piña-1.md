@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una piña
 
 300 gramos de azúcar
@@ -32,7 +31,6 @@ Una piña
 un limón
 
 <h3>Preparación</h3>
-
 Se cuece 1/2 litro de agua con 200 gramos de azúcar, hasta conseguir
 
 un almíbar.

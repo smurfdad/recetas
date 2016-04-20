@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 160 gr arroz
 
 colorante amarillo
@@ -24,7 +23,6 @@ colorante amarillo
 4 salchichas tipo Frankfurt
 
 <h3>Preparación</h3>
-
 Cocer el arroz con agua, sal y el colorante.
 
 Picar fina la cebolla, añadir el hígado troceado y las salchichas en rodajas finas.

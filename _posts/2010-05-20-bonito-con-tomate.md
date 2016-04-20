@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de bonito en rodajas
 
 1 kg. de tomate
@@ -25,7 +24,6 @@ sal
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Limpiar el bonito, lavarlo, secarlo y darle sal.
 
 Rehogar la cebolla y pimientos picados. Cuando empiecen a dorarse, añadir el tomate, dejándolo cocer a fuego lento hasta que esté cocido y espeso.

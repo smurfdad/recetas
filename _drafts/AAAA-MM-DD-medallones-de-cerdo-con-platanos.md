@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 6 medallones de lomo de cerdo de 150 g cada uno
 
 3 plátanos pequeños
@@ -55,6 +54,5 @@ la ralladura de 1 limón
 2 clavos machacados
 
 <h3>Preparación</h3>
-
 En un recipiente de cristal mezclar los ingredientes de la marinada. Agregar la carne y dejar macerar a temperatura ambiente durante 2 horas. Pelar los plátanos cortados en rodajas y freírlos en 1 dl de aceite. Escurrir y reservar al calor. Cortar cada rodaja de piña en 4 y freírlas en la mantequilla derretida. Reservar al calor. Escurrir los medallones y salpimentar. Calentar el aceite y dorar los medallones a fuego vivo durante 2 minutos por cada lado. Bajar el fuego y continuar la cocción durante 4 minutos más. Retirarlos de la sartén y disponerlos en un plato muy caliente con los plátanos y la piña. Desgrasar la sartén con el caldo. Hervir a fuego vivo 2 minutos y napar ligeramente la carne.
 

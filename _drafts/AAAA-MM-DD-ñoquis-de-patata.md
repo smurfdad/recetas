@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 1/2 kg patatas
 
 1 huevo
@@ -34,7 +33,6 @@ Sal, pimienta
 Nuez moscada
 
 <h3>Preparación</h3>
-
 Preparar un puré de patatas, dejar enfriar, añadirle el huevo, condimentar a gusto y agregar de a poco la harina mezclada con el polvo de hornear hasta formar una masa suave y que no se pegue en las manos. Cubrirla con un lienzo y dejar descansar 30 min.
 
 Cortar la masa en porciones y, sobre la mesada enharinada, formar cilindros de 1cm de grosor.

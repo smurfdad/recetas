@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de lentejas rojas,
 
 4 manojos de berros,
@@ -33,10 +32,8 @@ Para 4 personas.
 aceite de nueces.
 
 <h3>Preparación</h3>
-
 Coceremos las lentejas al modo tradicional. Una vez cocidas, las escurriremos y las enfriaremos. Lavar bien los berros, escurrir y depositar en una ensaladera grande. Añadir las lentejas y los piñones, mezclando con cuidado. Emplataremos y arreglaremos, finalmente, con aceite de nueces y sal.
 
 <h3>Observaciones</h3>
-
 Receta aragonesa.
 

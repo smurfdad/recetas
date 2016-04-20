@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gramos de arroz.
 
 1 pechuga de pollo.
@@ -45,7 +44,6 @@ Sal gorda.
 Vinagre.
 
 <h3>Preparación</h3>
-
 Cocemos la pechuga en agua con sal, añadiéndole, si se quiere, unas verduritas. Una vez cocida, la escurrimos y la reservamos. Aparte, cocemos el arroz en agua con sal, durante veinte minutos aproximadamente. Lo escurrimos, lo pasamos por agua fría y lo reservamos.
 
 En una fuente hacemos una cama con el arroz cocido y el tomate en rodajas alrededor.

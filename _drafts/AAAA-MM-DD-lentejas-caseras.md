@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 300 grs. de lentejas
 
 200 grs. de cebolla
@@ -47,6 +46,5 @@ sal
 aceite de oliva virgen
 
 <h3>Preparación</h3>
-
 Cocer durante 3/4 de hora en agua las lentejas con aceite, pimienta, perejil, laurel y sal. Freir en una sartén el tocino y reservar. Freir en ese aceite la cebolla, los pimientos, el ajo y el perejil. Añadir el tocino y el sofrito a las lentejas dejándolo a fuego lento durante 1/2 hora.
 

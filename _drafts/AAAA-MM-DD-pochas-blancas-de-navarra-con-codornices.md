@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de pochas peladas
 
 4 codornices
@@ -44,7 +43,6 @@ Para 4 personas.
 aceite y sal
 
 <h3>Preparación</h3>
-
 En una cazuela con abundante agua y a fuego un poco fuerte, se cuecen las pochas con media cebolla, medio pimiento verde y medio rojo, la zanahoria, el ajo, el tomate y una pizca de sal. Cuando rompa a hervir, se echa un chorro de aceite; se prueba de sal y se tapa la cazuela.
 
 Se deja cocer durante unos 45 minutos. Mientras tanto, se pican en dados finos la otra cebolla, el pimiento verde y el rojo. Se limpian las codornices. Se sazonan con sal y pimienta, se rocían con un chorro de aceite y se les añaden los dados de verdura. Se meten a horno fuerte.

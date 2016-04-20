@@ -21,7 +21,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 350g de tallarines
 
 300g de almejas limpias y cocidas
@@ -45,7 +44,6 @@ Sal y pimienta a gusto
 Albahaca fresca picada
 
 <h3>Preparación</h3>
-
 Se fríen en aceite la cebolla, el ajo y el morrón agregar el vino, con el azafrán y dejar evaporar, agregar las almejas cocinar 2 minutos y agregar el puré de tomates y el laurel, dejar tapado a fuego mínimo.
 
 Cocinar la pasta en abundante agua salada colar y servir mezclada con la salsa.

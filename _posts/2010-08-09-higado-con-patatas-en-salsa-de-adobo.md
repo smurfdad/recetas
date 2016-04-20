@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 hígado de cerdo o ternera
 
 cebolla
@@ -37,7 +36,6 @@ patatas
 vino blanco
 
 <h3>Preparación</h3>
-
 Lo primero, se guisa el hígado, sofriéndolo con la cebolla, el pimiento, y una cucharada sopera de tomate frito. Cuando este hecho se le agregará una medida aproximada de un vasito de vino blanco y se dejará cocer alrededor de cinco minutos, pasados los cuales se apartará del fuego.
 
 En una sartén aparte se freirán las patatas a rodajas mas bien gruesas (no excesivamente) y tapadas para que queden mas tiernas y cuando estén terminadas se agregarán al hígado que ya habíamos guisado previamente.

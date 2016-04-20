@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 150 grs. de mantequilla
 
 100 grs. de harina
@@ -30,7 +29,6 @@ Para 6 personas.
 1 bote de mermelada de albaricoque
 
 <h3>Preparación</h3>
-
 Pelar, quitar el corazón y filetear la manzanas, rociándolas con limón para que no se queden negras.
 
 Derretir la mantequilla, a la que se añade el azúcar, los huevos batidos, la leche y la harina mezclada con los dos sobres que vienen unidos, de armisén. Después de cada ingrediente, revolver bien antes de añadir el siguiente.
@@ -48,6 +46,5 @@ Dejar reposar.
 Es mejor hacerlo de víspera.
 
 <h3>Observaciones</h3>
-
 También se puede hacer con pera
 

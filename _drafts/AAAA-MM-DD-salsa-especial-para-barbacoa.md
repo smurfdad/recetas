@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 cucharadas de agua
 
 2 guindillas picantes sin semillas
@@ -38,7 +37,6 @@ Para 6 personas.
 3 cdas. de azúcar
 
 <h3>Preparación</h3>
-
 En un vaso de batidora ponemos todos los ingredientes y trituramos con la batidora hasta que quede una salsa homogénea, fácil de mover y aceitosa.
 
 Esta salsa se puede utilizar para carnes elaboradas a la barbacoa o a la parrilla, untando previamente la carne y asándola a continuación. Si se conserva en la nevera en un bote cerrado puede durar 15 días.

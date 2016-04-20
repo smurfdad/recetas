@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de lomo de cerdo en un trozo
 
 2 kg. de sal gorda
@@ -23,7 +22,6 @@ Para 6 personas.
 un poco de mantequilla
 
 <h3>Preparación</h3>
-
 Se pone el lomo en una fuente de horno bien cubierto por encima y por debajo con la sal.
 
 Rociar con unas gotas de agua y meter al horno fuerte durante 40 minutos.

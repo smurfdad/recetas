@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 3 minutos.
 
 <h3>Ingredientes</h3>
-
 1 cebolla grande
 
 3 ramas de apio
@@ -37,12 +36,10 @@ Para 4 personas.
 Guindilla en polvo
 
 <h3>Preparación</h3>
-
 Picamos la cebolla y el apio muy finamente, mejor con el aparato para picar de la batidora. Mezclamos el resultante con el atún desmigado, la mayonesa y el cebollino y la guindilla que queramos, dependiendo del gusto de cada uno.
 
 BY Ardeban
 
 <h3>Observaciones</h3>
-
 Esta mejor de un dia para otro
 

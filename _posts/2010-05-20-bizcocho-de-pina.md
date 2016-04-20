@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 huevos
 
 200 grs. de mantequilla
@@ -25,7 +24,6 @@ Para 6 personas.
 1 copita de kirch o cointreau
 
 <h3>Preparación</h3>
-
 Caramelizar un molde y cubrir el fondo con las rodajas de piña. Lo que sobre, se corta en pedacitos.
 
 Batir la mantequilla con el azúcar y cuando esté fina añadir los huevos, uno a uno.

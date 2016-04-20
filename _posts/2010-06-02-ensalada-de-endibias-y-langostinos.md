@@ -10,7 +10,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 lechuga
 
 2 rodajas de piña en su jugo
@@ -26,7 +25,6 @@ Para 2 personas.
 1/2 tomate
 
 <h3>Preparación</h3>
-
 Poner una cazuela al fuego con agua y sal.
 
 Cuando rompa a hervir, echar los langostinos, una vez cocidos, enfriarlos y pelarlos.

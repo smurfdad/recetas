@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de tomates rojos
 
 1 pimiento rojo de los grandes
@@ -66,7 +65,6 @@ perifollo
 estragón
 
 <h3>Preparación</h3>
-
 Se escaldan los tomates. Se pelan, se parten en dos y se les quita el agua y las semillas. Se tritura y se deja escurrir. Deben quedar 400 gr. de pulpa limpia.
 
 Se cuecen los pimientos al vapor (o se asan al horno), durante 20 minutos. Se pelan, se les quitan las semillas y se pasan por el tourmix, de manera que quede un puré fino.

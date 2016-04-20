@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de rape
 
 mantequilla
@@ -40,7 +39,6 @@ sal y pimienta blanca
 2 tazas de all i oli ligero
 
 <h3>Preparación</h3>
-
 En una bandeja ligeramente engrasada con mantequilla, hornear el pescado al horno a 180&ordm; .
 
 Dejar que se enfrie y desmenuzarlo con los dedos o con la ayuda de un tenedor.

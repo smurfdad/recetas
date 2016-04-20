@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de costilla de cerdo
 
 2 patatas
@@ -21,7 +20,6 @@ Para 6 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Tapizar una bandeja de horno de rodajas de patata y encima poner otra capa de rodajas finas de cebolla. Echar sal.
 
 Colocar la costilla encima, poniéndole sal y pimienta.

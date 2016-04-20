@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 puerros
 
 mantequilla
@@ -38,7 +37,6 @@ salsa bechamel
 pan rallado
 
 <h3>Preparación</h3>
-
 Preparar los puerros para hervirlos enteros en agua y sal, escurrirlos bien y dejarlos enfriar.
 
 Preparar la salsa bechamel y mantenerla al fuego sin dejar que se enfríe del todo.

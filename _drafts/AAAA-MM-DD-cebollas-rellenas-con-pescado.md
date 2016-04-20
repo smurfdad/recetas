@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 4 cebollas medianas
 
 2 tomates
@@ -39,7 +38,6 @@ Aceite
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Lavar las cebollas hacerles base, cortar las tapas, ahuecar y reservar la pulpa.
 
 Colocar en una placa las cebollas, cubrir el fondo con caldo, y llevar al horno hasta que estén tiernas. Cortar el tomate y el apio en trozos pequeños y saltear junto a la pulpa de cebolla.

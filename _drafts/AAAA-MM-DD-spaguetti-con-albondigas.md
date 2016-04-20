@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 1 1/4 libra de carne molida
 
 1/2 taza de cebollas picadita
@@ -58,7 +57,6 @@ Para la salsa:
 1 libra de spaghettis cocidos
 
 <h3>Preparación</h3>
-
 Calienta el aceite vegetal y dora la cebolla hasta que esté transparente.
 
 Deja que enfríe algo y en un recipiente mézclala con la carne.

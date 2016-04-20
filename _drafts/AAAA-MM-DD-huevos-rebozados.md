@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 huevos duros
 
 1 pechuga de pollo deshuesada
@@ -38,7 +37,6 @@ pan rallado
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Sazonar el pollo con sal y pimienta y asarlo en un poco de aceite.
 
 Pasarlo por la batidora (la 1-2-3 o procesadora), junto con el jamón y mezclarlo con la nata para obtener una masa compacta.

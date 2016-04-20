@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr de fabes
 
 2 morcillas asturianas
@@ -40,7 +39,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Poner las judías a remojar durante 10 ó 12 horas en abundante agua fría.
 
 Ponerlas luego a cocer también con agua fría.

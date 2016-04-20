@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 copa aceite
 
 1/2 copa agua
@@ -38,6 +37,5 @@ sal
 ajo
 
 <h3>Preparación</h3>
-
 Poner en una cazuela el agua con el aceite, y cuando empiece a hervir, añadir las almejas y salar. Una vez abiertas, incorporar el cilantro, el vino, el ajo y un chorrito de zumo de limón.
 

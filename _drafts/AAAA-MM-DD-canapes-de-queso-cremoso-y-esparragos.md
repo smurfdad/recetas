@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 rebanadas de pan de molde sin corteza.
 
 50 gramos de queso cremoso tipo Philadelpia.
@@ -33,7 +32,6 @@ Para 4 personas.
 4 tomates enanos.
 
 <h3>Preparación</h3>
-
 Untamos las rebanadas con queso.
 
 Cortamos las rebanadas por la mitad y a su vez otra vez por la mitad.

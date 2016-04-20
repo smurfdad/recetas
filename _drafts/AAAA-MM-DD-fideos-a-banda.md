@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gr. de fideos
 
 1 kg. de pescado
@@ -43,6 +42,5 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Se prepara un sofrito de tomate, pimiento, ajo y ñora, todo ello pelado y troceado, sin piel ni semillas. En una paellera se fríen los fideos hasta que estén dorados y se les echa la mitad del sofrito. Se cuece el pescado que, preferentemente, será de roca. Cuando esté a medio cocer, se le añade la otra mitad del sofrito. Se saca el pescado y se coloca en un plato aparte. Se pasa el caldo por el colador y se vierte poco a poco sobre los fideos, a medida que vaya siendo absorbido. Se sirve el pescado en un plato y los fideos aparte en una fuente.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de pasta fresca
 
 250 gr. de bacón
@@ -39,7 +38,6 @@ Para 4 personas.
 100 ml. leche
 
 <h3>Preparación</h3>
-
 Ponemos en un puchero abundante agua a calentar y le añadimos la leche. Cuando rompa a hervir, le añadimos sal y metemos la pasta dentro.
 
 En un bol, batimos los tres huevos y le añadimos la mitad del queso parmesano y la mitad del queso del roncal. Mezclamos todo y reservamos.

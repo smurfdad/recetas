@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 l. de leche
 
 50 grs. de harina
@@ -34,7 +33,6 @@ Para 4 personas.
 200 grs. mantequilla o 16 cucharadas de aceite
 
 <h3>Preparación</h3>
-
 En una cazuela plana poner la mantequilla a derretir. Si se utiliza aceite freírlo con unos cascos de cebolla, que luego se retiran.
 
 Añadir la harina y revolver bien durante 2 minutos para que luego no se hagan grumos y después echar la leche poco a poco y sin dejar de revolver. Si se viera que al rehogar la harina, estuviera demasiado grasiento, añadir más harina.

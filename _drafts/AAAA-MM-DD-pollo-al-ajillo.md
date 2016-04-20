@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo troceado
 
 8 dientes de ajo
@@ -35,6 +34,5 @@ Sal
 1/2 vaso de aceite de oliva
 
 <h3>Preparación</h3>
-
 Se adoba el pollo con el ajo en polvo y la sal. En una tartera se calienta el aceite y se dora un diente de ajo, que se retira para que no se queme. En ese aceite se rehoga el pollo hasta que esté bien dorado, entonces se incorpora el resto de los ajos fileteados, mezcládolos bien con el pollo. Se tapa la tartera y se deja hacer el pollo hasta que esté bien pasado, removiéndolo de vez en cuando. Se puede acompañar de patatas fritas y/o ensalada.
 

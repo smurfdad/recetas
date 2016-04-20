@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 langosta de 1 kg. aproximadamente
 
 1/4 kg. de caracoles cocidos
@@ -58,6 +57,5 @@ Para 6 personas.
 sal.
 
 <h3>Preparación</h3>
-
 Se pone una cazuela de barro al fuego, con el aceite y la cebolla picada fina. Cuando la cebolla empiece a tomar color, se añade la langosta, partida en vivo. Se rehoga la langosta, y cuando el caparazón tome color rojo, se añade el brandy y el tomate, pelado y picado en cuadraditos, y se condimenta con la mitad del perejil picado, tomillo, un trocito de canela y laurel. Se añaden los caracoles, se tapa y se deja cocer durante 40 minutos. Aparte se prepara un majado con los 6 dientes de ajo, el azafrán, almendras, avellanas, pan frito y el resto del perejil, y se añade a la cazuela a mitad de cocción.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo mediano cortado en 8 piezas
 
 2 cucharadas de mantequilla
@@ -47,6 +46,5 @@ pimienta
 1 pellizco de nuez moscada.
 
 <h3>Preparación</h3>
-
 Calentar la mantequilla y rehogar en ella el pollo con la cebolla rallada hasta que tome color. Salpimentar. Agregar los champiñones y las tiras de jamón, mezclarlos bien con una cuchara de madera hasta que los champiñones estén tiernos. Espolvorear con la nuez moscada y la maicena y cuando esté bien mezclada, añadir la nata líquida. Mezclar bien y dejar que espese un poco antes de retirarlo del fuego. Servir bien caliente.
 

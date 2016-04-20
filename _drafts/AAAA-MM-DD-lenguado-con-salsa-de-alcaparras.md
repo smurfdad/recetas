@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 Aceite vegetal en spray
 
 4 filetes de lenguado
@@ -41,7 +40,6 @@ Aceite vegetal en spray
 1/4 cucharadita de pimienta
 
 <h3>Preparación</h3>
-
 Rocíe con el spray vegetal una asadera de horno. Coloque los filets de pescado y tápelos con papel de aluminio.
 
 Hornee el pescado por 10 a 12 minutos ( el horno debe estar a unos200 grados cuando se coloque el pescado )

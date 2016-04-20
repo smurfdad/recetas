@@ -23,7 +23,6 @@ Para 3 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 4 Patatas
 
 1 Paquete de Beicón
@@ -39,7 +38,6 @@ Nuez Moscada
 Sal
 
 <h3>Preparación</h3>
-
 Se pelan las patatas y se cortan en rodajas
 
 gruesas, ponemos una capa en una bandeja de

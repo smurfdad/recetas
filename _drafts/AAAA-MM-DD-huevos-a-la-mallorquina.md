@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos
 
 8 rodajas de sobrasada
@@ -30,7 +29,6 @@ Para 4 personas.
 4 cucharaditas de mantequilla
 
 <h3>Preparación</h3>
-
 Untar los platos individuales, para horno, con la mantequilla. Colocar una rodaja de sobrasada en cada plato y dos huevos. Hornear hasta que estén hechos.
 
 Aquí te mando unos cuantos trucos para hacer el pescado con facilidad y abrir la imaginación para cocinar.

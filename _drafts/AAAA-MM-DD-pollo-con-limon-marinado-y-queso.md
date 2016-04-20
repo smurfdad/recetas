@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para el marinado de limón:
 
 600 gr. de limones en rodajas
@@ -50,7 +49,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Para marinar el pollo, poner en un recipiente los limones a los que se añade sal y dejar macerar durante 12 horas. Transcurrido el tiempo, cocer durante 5 min y a continuación escurrirlo.
 
 Cubriri con el aceite y dejar reposar de 3 semanas a 2 meses. El marinado anterior sirve para pollo, pescados, carnes y salsas.

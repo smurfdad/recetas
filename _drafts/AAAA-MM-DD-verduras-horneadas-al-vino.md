@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 berenjena
 
 1 calabacín
@@ -46,7 +45,6 @@ Sal y pimienta
 Queso parmesano o mozzarela (opcional)
 
 <h3>Preparación</h3>
-
 Trocear los vegetales. Añadir las especias. Hornear a 300 F tapado con papel de aluminio durante 30 minutos.
 
 Agregar el queso terminada la cocción (opcional).

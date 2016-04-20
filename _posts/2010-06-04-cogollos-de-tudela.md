@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cogollos
 
 salsa de tomate
@@ -21,7 +20,6 @@ queso rallado
 harina
 
 <h3>Preparación</h3>
-
 Limpiar los cogollos quitándoles las hojas feas.
 
 Cocerlos enteros en agua salada durante cinco minutos. Cuando ya están cocidos, escurridos, pasarlos por harina y freír hasta que se doren.

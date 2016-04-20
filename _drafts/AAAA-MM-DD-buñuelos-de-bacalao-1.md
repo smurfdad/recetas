@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Aceite
 
 bacalao
@@ -38,6 +37,5 @@ gambas
 pasta Choux
 
 <h3>Preparación</h3>
-
 Saltear el bacalao, previamente desalado y desmigado, con la cebolla cortada muy menuda. Cuando esté hecho, añadir las gambas muy picadas y la pimienta blanca y dejar que se acaben de hacer. Mezclar con la pasta Choux y abundante perejil picado. Salar al gusto y dejar enfriar. Hacer los buñuelos y freír.
 

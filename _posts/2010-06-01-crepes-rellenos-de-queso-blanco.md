@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 75 gr. de harina
 
 15 cl. de leche
@@ -42,7 +41,6 @@ Para la salsa de chocolate:
 2 cucharadas soperas de brandy.
 
 <h3>Preparación</h3>
-
 Se pone a escurrir el queso blanco en un escurridor, mientras se van preparando el resto de los ingredientes. Se tamiza la harina junto con una pizca de sal en un cuenco. Se baten aparte los 2 huevos y se añaden a la harina. Se añaden, también, 2 cucharadas de aceite, y se va incorporando al conjunto la leche, poco a poco, mezclando todo bien con una cuchara de madera. Se pasa esta mezcla por el chino y se deja reposar durante 2 horas.
 
 Cuando el queso blanco esté escurrido, se pasa por el chino a un cuenco. Se le incorpora el requesón, aplastándolo con una cuchara, y a continuación se añaden el azúcar, el extracto de vainilla y las 3 yemas de huevo. Se mezcla bien, hasta que quede homogéneo, y se mete al frigorífico, durante media hora como mínimo. Una vez que la masa de los crepes haya reposado el tiempo necesario, se calienta una sartén y se unta de aceite con una brocha. Se echan un par de cucharadas de la masa y se balancea la sartén, para que la masa cubra todo el fondo de la misma. Una vez esté bien dorada por un lado, se le da la vuelta como si fuera una tortilla.

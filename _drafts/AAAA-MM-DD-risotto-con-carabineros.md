@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de arroz de grano redondo
 
 2 cebolletas
@@ -47,7 +46,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 En una sartén, ponemos a calentar aceite y salteamos los carabineros; que tomen mucho color, pero que queden jugositos. Retiramos y reservamos.
 
 Rehogamos las cebolletas y el pimiento verde bien picaditos. Dejamos que poche ayudado por un poco de sal.
@@ -59,6 +57,5 @@ Repetimos tres veces esta operación: así el arroz quedará glaseado y cocinado
 Servimos en plato sopero y colocamos los carabineros, para que se terminen de hacer con el calorcito del arroz. Decoramos con un poco de perejil picado.
 
 <h3>Observaciones</h3>
-
 Los carabineros deben saltearse muy brevemente y sin que pierdan los jugos de la cabeza, cuyo sabor inundará todo el risotto.
 

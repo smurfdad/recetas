@@ -22,7 +22,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 1 paquete de bizcochos de soletilla
 
 1 lata de melocotón en almíbar
@@ -36,6 +35,5 @@ canela molida
 un molde de bizcocho desmontable
 
 <h3>Preparación</h3>
-
 Troceamos los bizcochos y hacemos una capa en el fondo del molde, se cubre con un poco del almíbar de la lata de melotón. Mientras batimos los plátanos y los mezclamos con la nata ya montada, cubrimos la base de bizcochos y decoramos con los melocotones que previamente hemos laminado y espolvoreamos con canela.
 

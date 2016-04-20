@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 16 langostinos
 
 1 decilitro de vino de oporto
@@ -34,7 +33,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Pelamos los langostinos dejando el último segmento de cola sin pelar.
 
 En una sartén calentamos el aceite y se saltean los langostinos con sal.

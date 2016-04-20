@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de solomillo den cerdo ibérico
 
 1 cabeza de ajos
@@ -38,7 +37,6 @@ Aceite de oliva
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 En una cazuela con un poco de aceite, echar las cebollas cortadas en tiras, los ajos en láminas y los solomillos cortados en filetitos.
 
 Ponemos la cazuela al fuego fuerte al principio y después a fuego lento, tapamos y dejamos cocer en su jugo, damos vueltas mientras se van haciendo.

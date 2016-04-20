@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de bacalao desalado
 
 1 Kg. de cebollas
@@ -38,7 +37,6 @@ Una pizca de sal
 Harina para rebozar
 
 <h3>Preparación</h3>
-
 Cortar el bacalao en trozos grandes y pasarlos por harina.
 
 Calentar el aceite en una sartén y freir ligeramente los trozos de bacalao, sólo unos minutos por cada lado, y pasarlos después a una cazuela.

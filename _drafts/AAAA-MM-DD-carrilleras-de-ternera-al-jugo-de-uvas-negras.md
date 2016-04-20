@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de carrilleras
 
 1 cabeza de ajos
@@ -41,7 +40,6 @@ consomé
 agua
 
 <h3>Preparación</h3>
-
 Limpiamos las carrilleras de telillas y venas, las doramos por los dos lados de una cazuela y las reservamos. En esa misma cazuela se pocha la cebolla cortada en juliana. Cuando ya casi esté, se añaden las carrilleras y se dejan unos 20 minutos. Una vez blanda la cebolla, se añade el caldo y se deja unos 20 minutos. Una vez cocidas se sacan y se reservan nuevamente.
 
 Para el jugo de uva negra: cocemos las uvas en el agua. Una vez cocidas, se añade un poquito de sal y se trituran, se cuela y se rocían las carrilleras con el jugo en la cazuela durante unos 5 minutos más.

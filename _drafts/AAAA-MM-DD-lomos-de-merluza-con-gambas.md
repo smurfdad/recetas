@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 1,5k de filetes de merluza
 
 50g de harina
@@ -39,7 +38,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Rehogar el aceite y el ajo en una sartén, se pasa cada merluza por harina y se colocan en la sartén, se las dora por ambos lados y se le agrega la crema dejar reducir incorporando cada tanto caldo.
 
 Luego se coloca la merluza en una olla de barro y se le echa el preparado que quedo en la sartén junto con las gambas .

@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 6 codornices
 
 3 peras
@@ -58,7 +57,6 @@ Pimentón dulce
 Pimienta negra
 
 <h3>Preparación</h3>
-
 Limpiar las codornices, ponerlas a dorar en una cazuela honda y grande con el aceite de oliva; cuando estén tostadas, sacarlas y ponerlas en otro plato. En la cazuela, a fuego lento, hacer cocer la cebolla cortada en laminillas el bacon ahumado, cortado a trocitos.
 
 Cuando la cebolla esté dorada, echar el laurel, moscada,tomillo, cuatro especias, pimentón dulce, pimienta negra y sal. Remover con una cuchara de madera y dejar cocer 5 minutos. Luego recoger todos estos ingredientes para rellenar las codornices. Cuando no queda nada en la cazuela, echar en ella aceite de oliva. La mostaza, que se hace diluir con la cuchara de vinagre, después añadir el vino blanco, el zumo de limón, mezclar el todo, dejar cocer a fuego lento 5 minutos, poner de nuevo las codornices en la cazuela, tapar y dejar cocer a fuego lento 10 minutos.

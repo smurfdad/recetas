@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Kilo y medio de pulpitos
 
 1 tazón de salsa de tomate
@@ -39,10 +38,8 @@ Kilo y medio de pulpitos
 Sal, pimienta y romero
 
 <h3>Preparación</h3>
-
 Lavar bien los pulpitos y dejarlos escurrir. Poner el aceite en una sartén, añadir los ajos, el perejil y una ramita de romero y rehogar los pulpitos por espacio de diez minutos. Rociarlo luego con el vino blanco y la salsa de tomate, sazonar de sal y pimienta y dejar cocer una hora aproximadamente. Si espesa demasiado aclararlo con un poco de agua fría durante la cocción.
 
 <h3>Observaciones</h3>
-
 Servir caliente en cazuela de barro.
 

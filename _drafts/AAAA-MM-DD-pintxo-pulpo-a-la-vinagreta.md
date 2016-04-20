@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Pulpo
 
 pimiento rojo
@@ -38,6 +37,5 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Se cuece el pulpo y se trocea. Se pincha en un palillo y se le añade la vinagreta que habremos preparado con el resto de los ingredientes.
 

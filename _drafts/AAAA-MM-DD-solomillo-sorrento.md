@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos de ternera
 
 2 lonchas de queso (al gusto)
@@ -34,7 +33,6 @@ Para 2 personas.
 Spagettis
 
 <h3>Preparación</h3>
-
 Freimos los solomillos, cuando estén listos les colocamos encima de cada uno la loncha de jamón y la loncha de queso.
 
 En otra sartén haremos la nata hasta que quede espesita y la añadiremos por encima a la carne.

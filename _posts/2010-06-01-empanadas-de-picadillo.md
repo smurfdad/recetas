@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 2 tazas de harina
 
 1/2 taza de caldo, caliente
@@ -37,7 +36,6 @@ Unas ramitas de perejil
 Almibar espeso
 
 <h3>Preparación</h3>
-
 Prepara la masa poniendo la harina con una cucharada de azucar en polvo, sobre una mesa, agregar el caldo caliente, y la sal y la pimienta.
 
 Amasar muy bien todos  estsos ingredientes durante un cuarto de hora, y luego estirarla con ayuda del rodillo adelgazandola bien.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 ud. patata mediana
 
 100 gr. salmón ahumado en lonchas
@@ -40,7 +39,6 @@ sal y pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Pinchar las patatas con un tenedor y ponerlas enteras y con piel en un recipiente especial para microondas. Tapar el recipiente y meter en el microondas durante 8 ó 10 minutos a 780W (depende del tamaño de las patatas).
 
 Dejar reposar.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 800 gramos de hígado.
 
 2 cebollas o cebolletas.
@@ -48,7 +47,6 @@ Sal.
 Pimienta.
 
 <h3>Preparación</h3>
-
 La cebolla se pica finamente y se pone a freír en una cazuela con aceite. Cuando comience a dorarse, se añade el hígado troceado y salpimentado.
 
 Una vez que el hígado se haya dorado, se agrega harina, caldo y un majado de ajo, perejil y nuez moscada, y se deja cocer 15 minutos aproximadamente.

@@ -24,7 +24,6 @@ Para 3 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de camarones.
 
 1 cebolla picada.
@@ -56,7 +55,6 @@ Para 3 personas.
 sal y pimienta.
 
 <h3>Preparación</h3>
-
 Separa las cabezas y pela los camarones. Pon a cocinar en una olla: media cebolla picada. la zanahoria, el ajo y el celery junto con las resto del camaron (cabeza y cáscaras), por media hora. Luego cuele y reduzca el caldo a fuego lento y reserve
 
 Prepara un sofrito con la media cebolla, el pimentón rojo y el puerro hasta que se ablanden, y despues agregar los camarones picados, el vino, saL y pimienta. Saltée por unas 5 minutos y reserve.

@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 Berros, limpios la cantidad que desee de acuerdo a los comensales
 
 Pedacitos de toronja al gusto
@@ -39,7 +38,6 @@ Nuez picada
 Aceite de Oliva
 
 <h3>Preparación</h3>
-
 A los berros previamente lavados, se les pone sal y pimienta, se le agregan las toronjas en trocitos y la nuez picada.
 
 Se adereza con vinagre y aceite de oliva.

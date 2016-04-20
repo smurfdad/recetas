@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebolletas.
 
 2 tácitas de arroz.
@@ -45,7 +44,6 @@ Aceite de oliva.
 Litro y medio de caldo de pescado.
 
 <h3>Preparación</h3>
-
 Se pica muy fina la cebolleta, se sazona y se pone a pochar con aceite. Cuando este dorada se añade la salsa de tomate, el arroz, el rape cortado en trocitos y la almendra machacada en un mortero.
 
 Al finalizar el rehogado agregamos el caldo. Se deja cocer unos 20 minutos y se le añaden los huevos duros troceados y el perejil picado. Se mezcla todo bien, se rectifica de sal y se sirve.

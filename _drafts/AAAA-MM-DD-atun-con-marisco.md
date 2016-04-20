@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de atún
 
 4 cigalas
@@ -48,7 +47,6 @@ Perejil
 Aceite de Oliva y Sal
 
 <h3>Preparación</h3>
-
 Pasar por la cazuela con abundante aceite caliente las cigalas saladas. Cuando cambien de color retirarlas
 
 y poner en el mismo aceite las cebollas, el ajo, pelado y cortado a láminas delgadas.

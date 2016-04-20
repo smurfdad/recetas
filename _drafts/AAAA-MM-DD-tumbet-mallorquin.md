@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de patatas.
 
 2 calabacines.
@@ -40,7 +39,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Pelamos las patatas y las cortamos en rodajas finas.
 
 Freímos las patatas en abundante aceite con un poco de sal y reservamos.

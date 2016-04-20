@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 de kg. de carne picada de ternera o buey
 
 1 cucharada de pan rallado
@@ -23,7 +22,6 @@ Para 6 personas.
 aceite, sal, vino blanco
 
 <h3>Preparación</h3>
-
 Se mezcla bien la carne picada con la sal, huevo y pan rallado.
 
 Se da forma de rollo y se pasa por harina.

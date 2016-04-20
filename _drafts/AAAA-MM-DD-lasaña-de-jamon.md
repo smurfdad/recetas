@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 450 gr hojas de lasaña secas
 
 3 cucharadas de aceite de oliva
@@ -42,7 +41,6 @@ Pan rallado
 230gr mozzarella rallada
 
 <h3>Preparación</h3>
-
 Cocinar las hojas en agua hirviendo hasta que estén al dente. Para el relleno calentar el aceite en una cacerola grande y saltear la cebolla hasta que esté suave.
 
 Poner los champiñones y saltear revemente. Sumar los tomates y el perejil y cocinar 40 minutos más, agregando el vino a medida

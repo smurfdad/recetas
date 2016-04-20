@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cogollos.
 
 4 tomates.
@@ -44,6 +43,5 @@ Aliño:
 1 cucharadita de mostaza.
 
 <h3>Preparación</h3>
-
 Lavamos los tomates, les quitamos el corazón y los cortamos en rodajas. Ponemos esas rodajas en el centro de una fuente. Partimos los cogollos en cuatro trozos, a lo largo, y los colocamos en el borde de la fuente. A continuación, ponemos los huevos cocidos y partidos encima de los tomates, agregamos el atún troceado, las aceitunas y la cebolleta cortada en aros. Salamos a nuestro gusto y aliñamos el conjunto con la mezcla de la mahonesa y la mostaza.
 

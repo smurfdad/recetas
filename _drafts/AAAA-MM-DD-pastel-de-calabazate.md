@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Kg. de calabaza asada y limpia
 
 1 Kg. de miel
@@ -50,7 +49,6 @@ MASA:
 4 Kg. de harina
 
 <h3>Preparación</h3>
-
 Para hacer la masa se calienta la manteca en un puchero, se aparta del fuego y se añade el aceite, el aguardiente y el resto de ingredientes. Se amasa para hacer el calabazate, se se deshace en una sartén la miel y el azúcar; se añade la calabaza.
 
 Cuando ya está cocido, se añade el anisete, la canela y la ralladura.Se deja un poco más y se aparta del fuego.

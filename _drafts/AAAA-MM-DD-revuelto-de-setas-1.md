@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de setas (cardo, nisca senderuelas, etc.)
 
 8 huevos
@@ -38,6 +37,5 @@ Para 4 personas.
 1 cucharadita de perejil pica
 
 <h3>Preparación</h3>
-
 En el aceite se sofríe el bacón, cortado en tiras finas, dejando que suelte su grasa. Se añade el ajo, el perejil y las setas, limpias y picadas en daditos; se saltea a fuego vivo y se salpimenta. Se incorporan luego los huevos, ligeramente batidos, y se revuelven; cuando comienzan a cuajarse se pone la nata sin dejar de revolver. Se sirve en cazuelas de barro individuales con decoración de perejil y costrones de pan frito.
 

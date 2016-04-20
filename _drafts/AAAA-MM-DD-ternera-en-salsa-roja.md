@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 700grs de babilla de ternera
 
 Manteca de cerdo
@@ -53,7 +52,6 @@ vino blanco
 un huevo duro
 
 <h3>Preparación</h3>
-
 Prepare la carne troceándola en tacos, sazone con sal y pimienta. Ponga manteca y aceite en una cazuela de barro y fría la carne despues de enharinar: aparte
 
 En el mismo aceite sofría la cebolla hasta verlas transparentes, añada los dientes de ajo fileteados y la carne de los pimienteos que habremos separado de las pieles despues de tener en remojo en agua caliente, reserve las pieles.

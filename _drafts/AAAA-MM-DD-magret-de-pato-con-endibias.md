@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 magrets de pato
 
 4 endibias pequeñas
@@ -44,6 +43,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Retirar las hojas exteriores y el tronco de las endibias. Frotarlas con un paño húmedo, partirlas por la mitad y frotar las con el limón. Calentar la mantequilla en una sartén, agregar la endibias, el azúcar y 1 dl de agua y cocerlas a fuego muy suave dándoles la vuelta varias veces durante la cocción. Salpimentar. Dar unos cortes a la piel del pato y colocar los magrets en una sartén muy caliente con la piel hacia abajo. Dorarlos durante 5 minutos y darles la vuelta. Continuar la cocción durante 4 minutos. Retirar los magrets de la sartén y reservar al calor. Desgrasar la sartén con el caldo de carne y el zumo de limón. Salpimentar y dar un hervor. Retirar la piel del pato y cortar los magrets en rodajas. Servirlos con las endibias y la salsa. Espolvorear con el perejil picado.
 

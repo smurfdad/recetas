@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500gr. de carne picada de cerdo
 
 500gr. de carne picada de ternera
@@ -44,7 +43,6 @@ nuez moscada
 sal
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes y dar forma de rollo gordo. A continuación enrollarlo en papel de aluminio. Se calienta el horno, y se introduce la carne y se pone el horno por las dos partes a hornear y gratinar 40 min.
 
 Esperar que se enfríe para que no se desmolde.

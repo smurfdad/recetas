@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 pescado de 1 a 1 1/2 kg
 
 2 tomates grandes
@@ -47,7 +46,6 @@ Especias y limón
 2 cucharadas de mantequilla
 
 <h3>Preparación</h3>
-
 Echar en el pescado las especias que más gusten (pimienta, ajo, orégano) y las salsas ostion, de soya, y el limón. Se deja marinar una hora en el refrigerador. Se parten las verduras y se les añaden la mostaza y la mayonesa.
 
 Untar el pescado con un poco de mantequilla y echarle la mezcla de la verdura. Meterlo al horno en papel de estaño o aluminio 1 hora o en las brasas 2 horas.

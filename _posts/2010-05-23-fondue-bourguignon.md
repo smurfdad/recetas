@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 grs. de carne de vaca en taquitos
 
 1/4 de litro de aceite de oliva
@@ -19,7 +18,6 @@ Para 4 personas.
 salsas que gusten
 
 <h3>Preparación</h3>
-
 Es conveniente disponer de un cazo (coquelon) especial para fondue, con un hornillo de alcohol debajo.
 
 Frotar el interior del coquelon con el ajo y echar el aceite en él, poniéndolo a calentar al fuego.

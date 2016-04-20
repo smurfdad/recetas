@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 endivias
 
 50 gr mantequilla
@@ -19,7 +18,6 @@ Para 4 personas.
 25 gr nueces
 
 <h3>Preparación</h3>
-
 Lavar las endibias y separar hoja por hoja, disponiéndolas sobre una fuente.
 
 Deshacer la mantequilla, a fuego lento, añadir después el queso y mezclar bien.

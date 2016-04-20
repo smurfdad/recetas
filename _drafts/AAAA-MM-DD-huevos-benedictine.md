@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 10 huevos.
 
 6 tajadas pan de molde.
@@ -38,6 +37,5 @@ Para 4 personas.
 1 limón.
 
 <h3>Preparación</h3>
-
 Sacar la corteza del pan y tostarlo ligeramente. Cortar el jamón del mismo tamaño que las tostadas. En una olla a baño maría (retirada del fuego y con el agua sin hervir), poner las 4 yemas con la crema. Batir hasta espesar la salsa, luego añadir la mantequilla derretida y medio limón, igualmente añadir sal y pimienta. En otra olla hervir agua con vinagre. Escalfar los huevos por 3 minutos, luego ponerlos sobre la tostada con el jamón y cubrirlos con la salsa.
 

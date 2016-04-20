@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de habas
 
 una cebolla
@@ -38,6 +37,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 En una sartén se sofríen las costillas y longanizas con una cebolla mediana. A continuación se coloca todo en una cazuela de barro con un poco de agua, se aliña con pimienta y sal, dejando cocer a fuego lento durante una media hora.
 

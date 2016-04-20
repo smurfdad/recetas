@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 750 g de carne de buey (morcillo o aguja)
 
 2 cebollas
@@ -46,7 +45,6 @@ categories:
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Trocear la carne en tacos.
 
 Pelar y picar las cebollas. Pelar y trocear los tomates. Cortar en rodajas las aceitunas. Trocear el tocino en dados pequeños.

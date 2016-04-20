@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 300 minutos.
 
 <h3>Ingredientes</h3>
-
 1 1/4 tazas de tomate
 
 1 taza de cebolla
@@ -51,6 +50,5 @@ Para 6 personas.
 1 1/2 taza de aguacate picadito
 
 <h3>Preparación</h3>
-
 Picar en cubitos chiquitos los tomates, pimentones y cebolla, unir eso con los ajos machacados, y todos los demás ingredientes, teniendo cuidado de agregar los aguacates lo ultimo y además de dejarles la semilla hasta antes de servir. La guasacaca se debe refrigerar y a mi me gusta prepararla con un poco de anticipación (de 5 a 24 horas antes) para que los sabores se mezclen bien, además después de ese periodo de maceración no se siente muy salada.
 

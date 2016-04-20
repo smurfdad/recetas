@@ -22,7 +22,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 1 caja de pasta de espirales
 
 1 bote de alcachofas
@@ -40,7 +39,6 @@ vinagre
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Hervir la pasta en agua con sal hasta que esté a su punto. Escurrirla y ponerla bajo un chorro de agua fría y quede a temperatura ambiente. Dejarla reposar.
 
 En un recipiente, verter las aceitunas, las alcachofas y el queso. Agregar la pasta cocida, la albahaca y el aceite y vinagre a gusto. Salpimentar y refrigerar por un margen de dos horas . Se sirve como un plato frío o caliente.

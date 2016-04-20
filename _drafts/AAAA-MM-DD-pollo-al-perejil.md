@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo troceado
 
 3 patatas medianas
@@ -41,6 +40,5 @@ unos ramilletes de perejil
 sal
 
 <h3>Preparación</h3>
-
 En la olla express se ponen 4 cucharadas de aceite de oliva. Cuando se caliente se pone a dorar el pollo con las patatas cortadas en rodajas gruesas. Mientras, en un mortero ponemos los ajos troceados y el perejil y lo machacamos hasta que se forme una pasta. Añadimos entonces el vino, la pimienta y el pimentón, movemos y lo echamos a la olla donde se está friendo el pollo. Añadimos sal al gusto, tapamos y dejamos durante 10 min. a fuego moderado.
 

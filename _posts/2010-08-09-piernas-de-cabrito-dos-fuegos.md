@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 piernas de cabrito recortado forma de jamón
 
 1 cucharada de piñones
@@ -33,7 +32,6 @@ harina
 6 granos de pimienta
 
 <h3>Preparación</h3>
-
 Salpimentadas las piernas y bien enharinadas, se doran en una sartén con los ajos.
 
 Se doran a continuación los piñones y se apartan.

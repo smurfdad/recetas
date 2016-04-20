@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pechuga de pollo
 
 1 pimiento verde
@@ -40,6 +39,5 @@ Para 4 personas.
 sal,aceite y pimienta al gusto
 
 <h3>Preparación</h3>
-
 La pechuga se pone a cocer con sal, cebolla y ajo, una vez cocida y fria se desmenuza, mientras se cortan todas las verduras en rajitas, el pimiento, el apio, las zanahorias y los cebollines se cortan a lo largo con todo y el rabo verde, se frie primero la zanahoria por ser mas dura, luego la cebolla se le añade y el apio ylos pimientos se le pone sal o consomé de pollo en seco, pimienta y se tapa, se le baja el fuego y durante 10 minutos se cocina o mas si se desea.
 

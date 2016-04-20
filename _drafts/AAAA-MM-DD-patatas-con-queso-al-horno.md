@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg de patatas
 
 200 gr de queso parmesano rallado
@@ -39,7 +38,6 @@ nata
 mantequilla
 
 <h3>Preparación</h3>
-
 Enciende el horno a temperatura fuerte.
 
 Unta una fuente con mantequilla.

@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gr. de miel
 
 200 gr. de yemas de huevo
@@ -33,7 +32,6 @@ Para 8 personas.
 3 hojas de gelatina
 
 <h3>Preparación</h3>
-
 En un recipiente pequeño de acero poner a hervir la miel junto con la gelatina previamente remojada.
 
 Montar las yemas hasta que doblen su volumen, sin dejar de mover agregar a chorrito la miel muy caliente. Mezclar con la nata poco a poco para que no se baje, cuando esta mezclado volcar a un molde desmontable en el que previamente habremos colocado un bizcocho finito mojado en algún licor (Triple seco, Chartreusse) sobre el fondo. Meter en la nevera durante dos horas, desmoldar y servir acompañado de mermelada de frutas y un chorrito de miel por encima.

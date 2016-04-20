@@ -6,7 +6,6 @@ title: CHANTILLY ESPUMOSO
 categories: 
 ---
 <h3>Ingredientes</h3>
-
 1 vaso de agua de nata
 
 1/2 vaso de agua
@@ -18,7 +17,6 @@ categories:
 1 palito de canela
 
 <h3>Preparación</h3>
-
 Cocer el agua, azúcar y canela hasta que se haga un almíbar a hebra fuerte.
 
 Montar las claras a punto de nieve y echar sobre ellas y a la vez que se sigue batiendo, el almíbar en chorrito delgado.

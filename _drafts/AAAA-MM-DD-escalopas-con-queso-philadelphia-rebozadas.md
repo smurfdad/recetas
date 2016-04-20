@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 escalopas de ternera de 100 a 125 grs. cada uno
 
 150 grs. de mantequilla
@@ -42,7 +41,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Mezclar la mantequilla con el queso philadelphia hasta conseguir una pasta homogénea. Untar las escalopas por un lado con esta pasta. Pasar las escalopas por harina y sacudirlas para eliminar la sobrante.
 
 Seguidamente pasar por el huevo batido con sal y pimienta. Finalmente pasar por pan rallado, apretando con la palma de la mano para que se adhiera. Dejar reposar 15 minutos.

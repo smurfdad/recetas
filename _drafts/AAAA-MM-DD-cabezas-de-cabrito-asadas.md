@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cabezas de cabrito
 
 4 dientes de ajo
@@ -40,7 +39,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se salpimentan las cabezas por fuera. Se colocan en una placa de horno, con el corte visible, cubriendo sesos y lengua con un majado de sal, pimienta, ajos y tomillo.
 
 Se espolvorea de pan rallado y una vez bien rociadas de aceite se meten a horno medio para que se asen y gratinen.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tableta de chocolate negro
 
 2 tabletas de chocolate con leche
@@ -38,7 +37,6 @@ Para 4 personas.
 maizena
 
 <h3>Preparación</h3>
-
 PARA LA BASE:
 
 Se prepara un bizcocho de la siguiente manera: de 2 de los huevos se separan las
@@ -128,7 +126,6 @@ cremosa la mezcla se retira del fuego, se deja enfriar y se decora la tarta con 
 pastelera.
 
 <h3>Observaciones</h3>
-
 UTENSILIOS:
 
 -Molde de fondo desmontable.

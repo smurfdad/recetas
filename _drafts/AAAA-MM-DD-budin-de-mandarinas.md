@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 6 mandarinas
 
 6 cucharadas de azúcar
@@ -46,7 +45,6 @@ moras, frambuesas, grosellas
 almendras tostadas picadas
 
 <h3>Preparación</h3>
-
 Limpia las mandarinas. Ralla la piel de 4 sobre el azúcar. Pela las mandarinas, córtalas por la mitad y colócalas en un vaso batidor.
 
 Agrega 4 cucharadas de azúcar aromatizado, los huevos y el aceite y tritura con una batidora eléctrica. Incorpora la harina y sigue batiendo. Cuela todo con un colador. Vierte la mezcla en moldes individuales e introduce en el horno a 170-180&ordm;C durante 15-20 minutos. Deja que se enfríen.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de calabacines
 
 1 bote de nata
@@ -38,7 +37,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Comprar las hierbas aromáticas en el mercado, envolverlas en plástico transparente dejando que entre un poco de aire y guardarlas en el cajón de las verduras para que se mantengan frescas.
 
 Limpiar los calabacines, cortarlos en rodajas, espolvorearlas con sal y dejarlos reposar 1 hora. Se pasan a continuación por agua fría, se escurren bien y se saltean en la mantequilla a fuego suave.

@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gms. de brócoli.
 
 300 gms. de zanahorias.
@@ -50,7 +49,6 @@ Sal y pimienta al gusto.
 Unas hojitas de menta.
 
 <h3>Preparación</h3>
-
 Lave y monde el bróculi y las zanahorias. Separe las florecitas del bróculi y corte en pedacitos las zahanorias.
 
 Echélos en el caldo hirviendo de verduras y dece cocer a fuego mediano, tapado, unos 5 ó 6 minutos. Cuele y aparte el caldo.

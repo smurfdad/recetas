@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 kg. tocino
 
 1 kg. hígado de cerdo
@@ -27,7 +26,6 @@ categories:
 1/2 copa de coñac
 
 <h3>Preparación</h3>
-
 Pasar por la máquina varias veces y triturar el tocino y el hígado.
 
 Batir bien todos los ingredientes.

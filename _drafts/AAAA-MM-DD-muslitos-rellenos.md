@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 muslos de pollo
 
 1 terrina de 200 gr. de queso Philadelphia
@@ -39,7 +38,6 @@ Sal
 Mantequilla
 
 <h3>Preparación</h3>
-
 Se limpian los muslos eliminando los posibles restos de grasa no deseados, y se sazonan. A continuación se deshuesan dejando sólo el Tobillo del muslo.
 
 Hacer una mezcla con el queso Philadelphia, el jamón serrano cortado en dados pequeños y el vino de jerez. Rellenar los muslos con la mezcla y atarlos con un cordel.
@@ -47,6 +45,5 @@ Hacer una mezcla con el queso Philadelphia, el jamón serrano cortado en dados p
 Asarlos al horno fuerte durante 30 min. hasta que estén dorados. Servirlos acompañados de salsa tártara. El jamón se puede sustituir si se desea por pistachos.
 
 <h3>Observaciones</h3>
-
 Se puede pedir que realicen la operación de deshuese de los muslos en la pollería.
 

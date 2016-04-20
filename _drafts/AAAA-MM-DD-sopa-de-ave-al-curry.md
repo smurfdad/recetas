@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pechuga de gallina
 
 1 muslo de pollo
@@ -52,7 +51,6 @@ sal
 unos dados de pan frito
 
 <h3>Preparación</h3>
-
 En una cazuela se pone aceite a calentar. Se sofríen en él la cebolla y el ajo, bien picados, durante unos minutos. Se añaden la gallina y el pollo, cortados en dos o tres trozos. Se rehoga todo junto hasta que tomen color los trozos de ave. Se añade el curry y se sazona de sal.
 
 Se cubre todo con el agua y, cuando rompa a hervir, se prueba de sazonamiento. Se tapa la cazuela y se deja hervir a fuego suave, unas dos horas, hasta que la gallina esté tierna.

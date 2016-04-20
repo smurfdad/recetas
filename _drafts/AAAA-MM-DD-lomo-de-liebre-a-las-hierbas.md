@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 lomos de liebre
 
 120 Ml de vino tinto
@@ -40,6 +39,5 @@ hojas de laurel
 1 Cucharada de aceite
 
 <h3>Preparación</h3>
-
 Limpiar los lomos de liebre y preparar una marinada con el vino, las hierbas, la pimienta, el aceite y la sal. En un recipiente amplio, colocar los lomos y cubrir con la marinada. Dejar macerar durante toda la noche. En una sartén con mantequilla y aceite dorar los lomos, dándoles la vuelta para que se hagan por ambos lados. Cortar en lonchas y servir con zanahorias glaseadas en mantequilla.
 

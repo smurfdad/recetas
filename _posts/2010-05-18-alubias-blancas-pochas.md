@@ -25,7 +25,6 @@ Para 6 personas.
 - 1 cucharadita pimentón
 
 <h3>Preparación</h3>
-
 Poner a remojo de víspera las alubias con 3 veces más de agua de lo que abultan las alubias.
 
 Poner al fuego en un puchero las alubias con el agua fría, la mitad de la media cebolla, la pimienta y el ajo.
@@ -45,6 +44,5 @@ Si se quieren hacer con almejas, éstas se hacen aparte, a la marinera, y mezcla
 Si se quieren hacer con codornices, también se hacen éstas aparte, asándolas al horno tapadas con una loncha de bacón cada una y añadiéndolas a las alubias una vez cocidas.
 
 <h3>Observaciones</h3>
-
 Sirve para comerlas solas o con almejas o codornices
 

@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 1 paquete Canelones
 
 1 cubito de pollo
@@ -54,7 +53,6 @@ Queso crema
 1 lata de hongos
 
 <h3>Preparación</h3>
-
 Hervir los canelones siguiendo las direcciones del envase. Echar un cubito de pollo al agua. Enjuagar en agua fría y escurrir bien para evitar que se peguen.
 
 Adobar las pechugas y dorarlas en la margarina. Añadir la cebolla, salsa de tomate, tomates, chile, culantro y el vino.

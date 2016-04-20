@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de fresas maduras
 
 100 gr. de azúcar
@@ -40,7 +39,6 @@ Un cuarto de litro de leche
 1 cucharadita de canela molida.
 
 <h3>Preparación</h3>
-
 En un recipiente, colocar las fresas, el azúcar y el ron, poner en el fuego y hervir durante cinco minutos (las fresas tienen que quedar blandas, y la reducción del azúcar, el ron y el jugo de las fresas debe formar una salsa espesa.)
 
 Para la salsa, poner la leche, el azúcar y el coñac en un recipiente en el fuego hasta que empiece a hervir y espesarlo con la harina de maíz. La salsa tiene que tener el aspecto de una bechamel ligera.

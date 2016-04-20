@@ -23,7 +23,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 Para las anchoas:
 
 5 anchoas
@@ -53,6 +52,5 @@ Además:
 2 cucharadas de aceite de oliva virgen y sal.
 
 <h3>Preparación</h3>
-
 Quitar las cabezas, espinas y tripas a las anchoas. Separar los lomos. anchoas. Sazonarlos con sal. Cubrirlos con vinagre y aceite y dejar macerar 4 horas. Pasadas, se les incorpora la cebolleta picada y el perejil, dejando otra hora. Hacer una vinagreta con aceite, sal, limón, y pimienta. Mientras, pasar por la sartén los escalopes de bonito unos instantes sin que se haga el centro. Sacar y aliñar con la vinagreta; reposar cinco minutos. la lechuga. Cortar en juliana y los rabanitos en rodajas finas. Cubrir el plato con la lechuga. Depositar por encima las rodajas de rabanitos. Dar punto de sal y rociar con dos cucharadas de aceite de oliva. Situar encima las anchoas y el bonito, medio plato de cada uno.
 

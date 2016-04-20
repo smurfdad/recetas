@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 kg. de pimientos rojos de asar
 
 6 huevos
@@ -34,7 +33,6 @@ Cominos
 Sal
 
 <h3>Preparación</h3>
-
 Se lavan los pimientos y se ponen a asar a 200&ordm; C. en el horno. Una vez asados, se dejan enfriar, se pelan y se parten en tiras, se cuela el caldo y se añade a los pimientos. Se hace un majado Con los ajos y los cominos y se vierte sobre los pimientos y, a continuación, se ponen los huevos por encima de estos hasta que estén escalfados.
 
 Toda la preparación se realizará en una cazuela de barro al horno.

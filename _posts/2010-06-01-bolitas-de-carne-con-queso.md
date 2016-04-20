@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de carne de ternera picada
 
 2 huevos
@@ -40,7 +39,6 @@ pan rallado
 con unas gotas de tabasco
 
 <h3>Preparación</h3>
-
 De víspera, se pone a remojar el pan en un cuenco con la leche y se mete al frigorífico cubierto con film transparente. Cuando se vaya a preparar, se pone la carne picada en un bol.
 
 Se escurre bien el pan remojado en leche, empleando ambas manos, y se incorpora a la carne picada. Se añade dos huevos, y se sazona con sal y pimienta. Se le añade el ajo y el perejil picado, y se trabaja bien con un tenedor, hasta que quede una masa homogénea. Se bate el huevo y se prepara un plato con harina y otro con pan rallado. Se corta el queso en tacos.

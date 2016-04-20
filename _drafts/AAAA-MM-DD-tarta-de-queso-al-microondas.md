@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de queso Philadelphia
 
 400 ml. de nata
@@ -34,7 +33,6 @@ Para 4 personas.
 Mermelada de fresa o frambuesa
 
 <h3>Preparación</h3>
-
 Se baten los huevos y se mezclan con el queso de untar, el azúcar y la nata. Para que el queso se mezcle bien, meter un par de minutos en el microondas. La mezcla se pone en el microondas al máximo y se remueve cada 1 o 2 minutos. Esto, se hará porque en el microondas, se cuajará antes por los lados que por el centro.
 
 Esta operación se repetirá hasta que consigamos una textura parecida a las natillas pero un poco más espesa. (No es muy importante que salgan algunas burbujas, puesto que luego las taparemos con la mermelada).

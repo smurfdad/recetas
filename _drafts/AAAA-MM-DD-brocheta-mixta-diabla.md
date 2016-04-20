@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 carne de solomillo de ternera y de cerdo cortada en trozos pequeños
 
 tocino de bacón
@@ -28,7 +27,6 @@ tocino de bacón
 sal
 
 <h3>Preparación</h3>
-
 Se coge una brocheta y se van pinchando trocitos de carne de cada clase alternativamente hasta que esté llena. Se sazona con sal y se pone en la parrilla o plancha de su cocina eléctrica dando vueltas hasta que esté hecha, aproximadamente unos 15 minutos.
 
 Guarnición: patatas fritas y salsa diabla.

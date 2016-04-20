@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 5 lonchas grandes de salmón ahumado.
 
 1 aguacate.
@@ -43,7 +42,6 @@ Para 8 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Elaboramos una vinagreta guarnecida picando finamente un poco de lechuga con aguacate, cebolla y tomate. Añadimos sal, vinagre y aceite y mezclamos con lo anterior.
 
 En un trozo pequeño de pan tostado ponemos una lonchita de salmón ahumado y por encima una cucharada de la vinagreta anterior

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 ud. berenjena
 
 1 ud. pimiento rojo
@@ -46,7 +45,6 @@ orégano
 perejil
 
 <h3>Preparación</h3>
-
 Pelar y cortar en rodajas la berenjena, el pimiento y las patatas.
 
 Colocar en un recipiente y cocer en el microondas durante 10 ó 12 minutos a 780W.

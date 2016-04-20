@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Pan de centeno, integral y blanco.
 
 150 gramos de queso gruyere o similar, rallado.
@@ -36,6 +35,5 @@ Caldo de ave.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Cortamos las tres clases de pan en rebanadas. En una cazuela baja ponemos un poco de aceite y freímos el ajo picado. Cuando este dorado, retiramos la cazuela del fuego y cubrimos el fondo con rebanadas de pan de centeno y encima una capa de queso. A continuación, otra capa de pan de molde y otra de queso rallado. Por ultimo, una capa de rebanada de pan integral y el caldo de ave cubriéndolo todo. Ponemos de nuevo la cazuela en el fuego y hacemos que el conjunto hierva durante tres minutos. Lo cubrimos con una buena capa de queso rallado y lo metemos en el horno a 180 grados, durante diez minutos. Gratinamos tres minutos más y servimos.
 

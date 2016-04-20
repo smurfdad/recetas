@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 5 minutos.
 
 <h3>Ingredientes</h3>
-
 2 huevos.
 
 1 cucharadita de mantequilla o margarina
@@ -39,7 +38,6 @@ salsa de jitomate (caliente).
 perejil chino para adornar.
 
 <h3>Preparación</h3>
-
 Untar un refractario redondo pequeño con la mantequilla, utilizando una pala de hule.
 
 Romper los huevos y vertirlos sobre el refractario enmantequillado.

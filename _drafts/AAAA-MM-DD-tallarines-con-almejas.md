@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 tallarines 500 gr.
 
 aceite de oliva 2 cucharadas grandes
@@ -50,7 +49,6 @@ mantequilla 2 cucharadas grandes
 parmesano 100 gr.
 
 <h3>Preparación</h3>
-
 Calentar el agua de los tallarines.
 
 Durante este tiempo, calentar el aceite en una gran sartén y freír las cebollas a fuego medio durante 5 min hasta que las cebollas estén translucidas.

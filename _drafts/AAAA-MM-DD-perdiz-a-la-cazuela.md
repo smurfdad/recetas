@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una o varias perdíces
 
 250 gr de cebolla por perdiz
@@ -40,7 +39,6 @@ vino
 vinagre
 
 <h3>Preparación</h3>
-
 Se ponen a macerar las perdices en vino, laurel, ajo y sal, durante una noche. Después se ponen en una cazuela, para guisarlas, con el aceite, la cebolla y el resto de los guisos.
 
 Se cubren de agua y se les agrega medio vasito de vinagre. Se deja cocer a fuego lento hasta que estén cocidas.

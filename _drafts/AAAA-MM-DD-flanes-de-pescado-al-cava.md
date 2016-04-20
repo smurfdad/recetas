@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg. de merluza (peso neto)
 
 1 bote de nata para cocinar
@@ -41,7 +40,6 @@ categories:
 sal y pimienta blanca
 
 <h3>Preparación</h3>
-
 Trinchar la merluza y mezclarla con 1 bote de nata, la trufa rallada y un poco de su jugo; sazanarlo con sal y pimienta e incorporar las claras montadas a punto de nieve (reservar las yemas).
 
 Repartirlo en flaneras individuales y cocerlo al horno, al baño maría, hasta que esté cuajado (de 15 a 20 minutos aproximadamente).

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 200 g de chocolate negro
 
 100 g de chocolate de leche
@@ -48,6 +47,5 @@ Galletas
 Merenguitos
 
 <h3>Preparación</h3>
-
 Derretir todos los ingredientes en una olla en baño de María a fuego medio. Pasarlo a una olla especial para fondue de chocolate que mantenga la preparación caliente. Servir de postre para que cada quien escoja el acompañante que guste.
 

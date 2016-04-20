@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de carne molida de res
 
 1/4 de taza de nata agria
@@ -44,7 +43,6 @@ Cebollas caramelizadas
 2 cucharaditas de miel
 
 <h3>Preparación</h3>
-
 Mezcle bien en un cuenco grande la carne, la nata agria y las hierbas. Divida la mezcla en 6 porciones iguales y forme hamburguesas de 1,5 cm de grosor. Consérvelas en la nevera hasta que las vaya a utilizar.
 
 Para hacer las cebollas caramelizadas.

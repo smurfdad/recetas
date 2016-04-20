@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gramos de queso sabroso
 
 100 gramos de nata líquida
@@ -34,6 +33,5 @@ Para 4 personas.
 Sal y pimienta negra al gusto
 
 <h3>Preparación</h3>
-
 Tritura el queso con la nata hasta obtener una pasta consistente. Agrega el salmón y el cebollino, y tritura de nuevo. Forra un  molde de cocina, vuelca la mezcla, aplasta bien y refigera hasta el momento de consumir. Acompáñalo con pan o tostaditas.
 

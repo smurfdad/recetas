@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 vasos de leche
 
 2 huevos
@@ -42,7 +41,6 @@ mantequilla
 almendras fileteadas
 
 <h3>Preparación</h3>
-
 Poner todos los ingredientes de la masa en la batidora y triturarlos.
 
 Untar una sartén con mantequilla fundida y extender dos cucharadas del conjunto de la batidora.

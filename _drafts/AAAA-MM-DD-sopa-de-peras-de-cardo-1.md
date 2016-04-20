@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 hueso de jamón
 
 morro y oreja de cerdo salada
@@ -48,6 +47,5 @@ morro y oreja de cerdo salada
 hierbas de caldo (puerro, apio, zanahoria, nabo)
 
 <h3>Preparación</h3>
-
 En tres litros de agua fría poner todos los ingredientes menos los garbanzos, que se echan cuando el agua hierve y el arroz y los fideos, que se echan 20 minutos antes de terminar de cocer. Cortar a cuadritos el cerdo, la panceta, la butifarra y las peras de Cardó. Escurrir la col e incorporarla también cortada
 

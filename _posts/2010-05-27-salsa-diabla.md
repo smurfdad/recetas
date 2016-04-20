@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 100 grs. de salsa de tomate
 
 1 cucharada de aceite
@@ -23,7 +22,6 @@ un poco de cebolla muy picada
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Freír la cebolla en el aceite.
 
 Agregar los demás ingredientes, picados en su caso, y dejar cocer un rato a fuego suave.
@@ -31,6 +29,5 @@ Agregar los demás ingredientes, picados en su caso, y dejar cocer un rato a fue
 Si se desea, añadir tabasco para que pique un poco.
 
 <h3>Observaciones</h3>
-
 Para fondues y carnes a la brasa
 

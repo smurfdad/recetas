@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cuch Fécula de maíz
 
 1/4 t Agua
@@ -48,7 +47,6 @@ Pimienta
 3 Cuch Salsa de soja
 
 <h3>Preparación</h3>
-
 Disuelva la fécula de maíz en 1/4 de taza de agua y deje aparte.
 
 Caliente el aceite en una sartén y saltee las tiritas de carne de cerdo, el apio y la cebollas.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 solomillo de ternera de 650 gr.
 
 1 kg. de sal fina de mesa
@@ -38,7 +37,6 @@ Para 4 personas.
 1 fondo de carne
 
 <h3>Preparación</h3>
-
 Poner en un recipiente, la sal (fina y gorda) y las claras de huevo, mezclando todo bien, y lo reservamos. Limpiar el solomillo y mecharlo con
 
 la trufa. Luego se envuelve con las tiras de tocino ibérico. Acto seguido, pondremos en una bandeja de hornear una capa de sal gorda, y a continuación

@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 3 berenjenas medianas brillantes
 
 2 cebollas medianas
@@ -45,7 +44,6 @@ sal
 jengibre
 
 <h3>Preparación</h3>
-
 Se pelan y pican en trocitos las berenjenas; se cuecen en agua con sal y luego se dejan estilar.Se frie la cebolla picada a pluma, se le agregan los pimientos picados en tiritas y los tomates tambien troceados.
 
 Se aliña con medio vasito de vinagre ,un par de cucharaditas de azucar, sal y genjibre a gusto.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr de rape
 
 600 gr de langostinos
@@ -45,7 +44,6 @@ Un vaso de vinagre
 Sal
 
 <h3>Preparación</h3>
-
 Se cuece el rape y se le quitan todas las espinas.
 
 Se cuecen los langostinos y las gambas y se pelan.

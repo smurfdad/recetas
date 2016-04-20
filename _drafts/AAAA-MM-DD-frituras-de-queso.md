@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 ccs de aceite o manteca
 
 1 vaso de harina
@@ -38,7 +37,6 @@ Para 4 personas.
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Se baten los huevos y se les agrega la leche más todos los demás ingredientes menos el queso y el aceite.
 
 Se pone al fuego hasta que se ponga a hervir y se espese.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 ó 2 pimientos verdes (si es muy grande usar sólo 1)
 
 1 cebolla
@@ -36,7 +35,6 @@ Aceite
 1 pastilla de starlux de ajo y perejil desmenuzada
 
 <h3>Preparación</h3>
-
 Se lavan todas las verduras cuidadosamente pues van a usarse sin pelar para que den todo su sabor.
 
 Se parte la berenjena por la mitad a lo largo y se hacen tiras de un grosor de un dedo aproximadamente y después se parte en dados grandes.

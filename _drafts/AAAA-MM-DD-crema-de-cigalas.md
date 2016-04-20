@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gramos de cigalas peladas crudas.
 
 Cáscaras y cabezas de las cigalas crudas.
@@ -47,7 +46,6 @@ Cáscaras y cabezas de las cigalas crudas.
 Sal.
 
 <h3>Preparación</h3>
-
 Picamos muy finas las verduras y las pochamos; es decir, dejamos que se reblandezcan a fuego suave y en una cazuela, tapadas con un poco de aceite y sal.
 
 Añadimos el tomate cortado en gajos y las cabezas de las cigalas.

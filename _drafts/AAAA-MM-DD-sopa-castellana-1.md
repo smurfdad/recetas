@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 150 gr. de Jamón Serrano
@@ -57,10 +56,8 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Pon 1 litro y medio de agua en la olla rápida, añade las ramas de perejil, el puerro, la zanahoria, los muslos y las carcasas de pollo. Sazona y deja cocer durante 10 minutos desde el momento en que empiece a salir el vapor. Pica los dientes de ajos y ponlos a dorar en una cazuela con un poco de aceite. Pica el tocino en taquitos. Retira la tripa del chorizo y pícalo finamente, añádelos a la cazuela y fríelos brevemente. Agrega el jamón cortado en taquitos y rehoga un poco. Retira la cazuela del fuego, deja templar un poco, añade el pimentón y mezcla bien. Vierte el caldo y cocina todo junto durante 8 minutos para que se mezclen los sabores. Mientras tanto, corta 4 rebanadas de pan, colócalas en una bandeja de horno y tuéstalas en el horno. En un par de minutos estarán a punto, de todas formas conviene estar pendiente para que no quemen. Sirve la sopa en recipientes individuales. Coloca sobre cada uno una rebanada de pan tostado y una yema de huevo.
 
 <h3>Observaciones</h3>
-
 Cuando vayas a agregar el pimentón, es importante retirar la cazuela del fuego para que el pimentón no se queme. Si se quema, dará mal sabor a la sopa.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 600 gramos a atún fresco
 
 900 gramos de caracolillos
@@ -49,6 +48,5 @@ Azafrán
 1 vasito de vino rancio / Aceite / Sal.
 
 <h3>Preparación</h3>
-
 En una cazuela de barro se sofríen la cebolla cortada en juliana y el pimiento a trozos pequeños. Después se agrega el tomate cortado a trozos y sin piel ni pepitas. Una vez terminado los pasos anteriores se ponen las patatas cortadas a cuadritos medianos, se añade el vino rancio y agua hasta cubrir las patatas y después el calabacín cortado como los pimientos. Cuando hierva se le agrega el atún cortado a trozos y los caracolillos. Cuando vuelva a hervir se hecha por encima la picada hecha con el azafrán, los ajos, el perejil y las avellanas. Después probarlo de sal.
 

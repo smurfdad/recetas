@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de acelgas
 
 1 hoja de laurel
@@ -27,7 +26,6 @@ harina
 huevo
 
 <h3>Preparación</h3>
-
 Limpiar y trocear las acelgas.
 
 Cortar en trozos solo la parte blanca y ponerla a cocer con agua y un poco de sal.

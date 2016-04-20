@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 pollo de 1,500 kg.
 
 150 gr. de ciruelas secas
@@ -51,7 +50,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Cortar el pollo en cuartos, salpimentarlo y dorarlo por todos lados con un poco de aceite de oliva. Retirarlo de la sartén y colocarlo en una cazuela de barro.
 
 En el mismo aceite, rehogar las ciruelas, las pasas y los piñones; distribuirlos sobre el pollo. En el mismo aceite, rehogar la cebolla, picada fina junto con los tomates picados también. Añadir el agua, cocer unos 10 minutos, y verter esta salsa sobre el pollo.

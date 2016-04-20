@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 5 lonchas de tocino fresco
 
 5 zanahorias
@@ -51,7 +50,6 @@ Pimienta
 Sal
 
 <h3>Preparación</h3>
-
 Sazonar la pieza de solomillo con sal y pimienta, rehogándola a continuación en una cazuela con el tocino fresco cortado en trocitos finos. Cuando la carne esté dorada se añaden la cebolla y las zanahorias picadas, un vaso de caldo, un vaso y medio de vino blanco, un poco de perejil y se deja hervir durante unos 30 minutos.
 
 Retiramos la carne de la cazuela y pasamos la salsa por el pasapurés. Cortar la carne en lonchas finas. Disponerlas sobre una fuente y flamearlas con medio vaso de aguardiente.

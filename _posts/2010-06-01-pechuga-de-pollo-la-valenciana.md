@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo
 
 El zumo de 1 naranja
@@ -31,7 +30,6 @@ pimienta molida
 rodajas de naranja finas para adornar
 
 <h3>Preparación</h3>
-
 Quita la piel de las pechugas. Sazónalas con sal, pimienta y tomillo. Calienta el aceite en una cazuela y dora las pechugas por ambos lados.
 
 Retíralas y resérvalas aparte. Pela y pica la cebolla. Raspa la zanahoria y córtala en rodajas.

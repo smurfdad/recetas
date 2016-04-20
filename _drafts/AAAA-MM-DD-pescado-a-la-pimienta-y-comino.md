@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 4 filetes de pescado (abadejo, mero, pez angel,etc)
 
 1 cucharada de aceite de oliva
@@ -45,7 +44,6 @@ categories:
 Pimienta de Cayena en polvo
 
 <h3>Preparación</h3>
-
 En una sartén caliente el aceite a fuego moderado, Agregue las cebollitas de verdeo y saltee, revolviendo con frecuencia, por 3 minutos aproximadamente. Añada el ajo y cocine por 1 minuto. Incorpore el pimiento, las zanahorias, el chorizo y el ají molido; baje la llama, tape y cocine durante 5 min. Agregue el tomate, y cocine por 4 minutos más.
 
 Unte los filetes con el comino y la pimienta por ambos lados, y colóquelos sobre la mezcla de verduras. Tape y cocine a fuego bajo de 10 a 15 minutos.

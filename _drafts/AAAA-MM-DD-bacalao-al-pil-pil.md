@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 8 Ud. bacalao tajadas de 125 gr. cada una
 
 1 l. aceite de oliva virgen de 0,4 grados
@@ -32,7 +31,6 @@ Para 6 personas.
 1 Ud. guindilla
 
 <h3>Preparación</h3>
-
 Desalamos el bacalao, le quitamos las espinas y escamas y lo reservamos al fresco. Ponemos una cazuela a fuego medio con el aceite, los ajos fileteados y la guindilla cortada en aros. Los dejamos sofreir y una vez dorados los ajos, los retiramos y reservamos, e inmediatamente incorporamos el bacalao con la piel hacia abajo para, acto seguido, darle media vuelta, dejándolo con la piel hacia arriba. Lo cocemos sin que hierva el aceite, a fuego muy suave por espacio de cinco minutos y retiramos la cazuela del fuego hasta templar todo el conjunto. Pasado este tiempo, retiramos parte del aceite y volvemos a colocar la cazuela con el bacalao y el resto del aceite a fuego muy suave. Cuando la salsa empieza a emulsionar, empezamos a mover la cazuela en sentido semicircular, a la vez que vamos añadiendo el aceite reservado anteriormente. El proceso no debe durar más de cinco minutos hasta obtener una salsa untuosa y homogénea, con una consistencia parecida a la de una mahonesa ligera.
 
 Adornamos el plato con los ajos fileteados y los aros de guindilla y servimos bien caliente.

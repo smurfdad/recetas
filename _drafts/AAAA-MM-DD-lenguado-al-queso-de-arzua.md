@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 lenguado, 4 piezas grandes
 
 sal
@@ -36,6 +35,5 @@ whisky
 limón
 
 <h3>Preparación</h3>
-
 Se sacan los filetes de lenguado, se sazonan de sal, se pasan por la harina y se fríen muy poco. En un recipiente aparte se pone queso de Arzúa con un poco de whisky al fuego y se deja reducir, se le añade limón y se cubren los filetes, gratinándolos en el horno.
 

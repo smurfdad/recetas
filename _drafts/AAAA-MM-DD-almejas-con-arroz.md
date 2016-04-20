@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 gr de arroz
 
 24 almejas
@@ -39,7 +38,6 @@ perejil
 fumeet de pescado
 
 <h3>Preparación</h3>
-
 Poner el arroz en una cazuela, con la misma cantidad de agua y ponerlo al fuego mínimo, con la cazuela tapada.
 
 Cuando al arroz le salgan agujeros ya esta listo.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 Cebollas Blancas
 
 8 Cebollitas Francesas (de las más chiquititas)
@@ -29,7 +28,6 @@ Para 4 personas.
 Sal, Pimienta Blanca y Aceite de Oliva
 
 <h3>Preparación</h3>
-
 Se pelan las cebollas, las blancas se cortan en cuadraditos, y las francesas se dejan enteras. Se pone una sartén de unos 22-24 cms de diámetro a fuego alto, con 4 cucharadas de Aceite de Oliva, cuando ya humea el aceite, se hechas la cebollas, las fríes hasta que se doren.
 
 Luego pones todas las especias, el perejil, las hierbas provenzales, la albahaca, la pimienta, la mostaza, y la sal. Entonces vas cojiendo el queso de untar con la paleta de cocinar que estás usando y mezclándolo con paciencia hasta que se forma una salsita espesa y suave, le añades 200ml de agua, y lo mezclas bien.

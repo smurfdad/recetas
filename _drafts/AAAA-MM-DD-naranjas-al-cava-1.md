@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 4 naranjas.
 
 1 botella de vino de cava Brut.
@@ -35,7 +34,6 @@ Para 4 personas.
 Unas gotas de Campari.
 
 <h3>Preparación</h3>
-
 Pelamos las naranjas, reservando la mondadura para cortarla en juliana y agregarla a la cocción.
 
 La pulpa de las naranjas la introducimos en un recipiente donde habremos puesto a hervir el cava, el agua, el azúcar y el Campari.

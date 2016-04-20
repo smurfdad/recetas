@@ -22,7 +22,6 @@ categories:
 Para 12 personas.
 
 <h3>Ingredientes</h3>
-
 Para la marinada:
 
 1 lomo de cerdo (3 kilos)
@@ -80,7 +79,6 @@ Salsa del cerdo cocinado
 1 cucharada de azúcar moreno (opcional)
 
 <h3>Preparación</h3>
-
 Preparación de la marinada o adobo.
 
 Se lava y se seca bien el lomo de cerdo. Se adoba con todos los ingredientes y se refrigera por un día. Trate de introducir parte del adobo dentro del lomo.

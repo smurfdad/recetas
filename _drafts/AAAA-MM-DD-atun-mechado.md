@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de atún para mechar en un trozo
 
 100 gr.. de jamón serrano en tiras
@@ -45,6 +44,5 @@ Una cucharada de pimentón
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Sofreír la cebolla y ajos troceados, agregando las especies y el vino. Meter las tiras de jamón en el trozo de atún. Poner el atún sobre el sofrito anterior y dejar cocer media hora agregando un poco de agua, moviendo la cazuela. Sacar, enfriar y cortar a rodajas. Se puede servir frío y con su propia salsa por encima, en caliente.
 

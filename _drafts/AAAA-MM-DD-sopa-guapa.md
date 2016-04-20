@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 zanahorias peladas enteras
 
 2 huevos
@@ -39,7 +38,6 @@ Para 4 personas.
 4 rebanadas de pan de caja, frito o tostado
 
 <h3>Preparación</h3>
-
 Ponga a cocer en la olla de presion las zanahorias con 1 taza de agua, durante 10 minutos.En una cacerolita ponga a cocer los huevos y,mientras tanto,ase los jitomates en un comal y despues pelelos. Pele tambien los huevos y separe las yamas de las claras.Pique estas ultimas y reservelas.
 
 Licue juntos las zanahorias con su agua, los jitomates y las yemas.

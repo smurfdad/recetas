@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 g. de atún o bonito del norte tres aguacates
 
 un limón
@@ -38,6 +37,5 @@ pimienta negra
 sal gorda marina
 
 <h3>Preparación</h3>
-
 Comprar el pescado sin piel. Meterlo en el congelador una hora; sacarlo y cortarlo en una máquina de embutidos en lonchas finísimas, casi traslúcidas. Picar finamente la albahaca. Juntar con el aceite y dejar macerar. Pelar los aguacates, cortarlos en rodajas y rociarlos con zumo de limón. Colocar las láminas de pescado cubriendo cuatro platos. Situar encima la parte proporcional de los trozos de aguacate. Sazonar con aceite de albahaca. Salpimentar.
 

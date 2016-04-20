@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Para la pasta
 
 250 gr. de harina
@@ -65,7 +64,6 @@ Aceite de cacahuete
 1 yema de huevo
 
 <h3>Preparación</h3>
-
 Echar la harina en una fuente e incorpórale lentamente el agua, removiendo constantemente y siempre en el mismo sentido. Añade la sal y el aceite de cacahuete. Tapa la fuente y deja que la masa repose por espacio de 1/2 hora. Mientras tanto prepara el relleno; limpia la col y el puerro, lávalos
 
 y deja que escurran (en un colador). Córtalos en tiras delgadas. Pela las cebollas y córtalas en cuadraditos pequeños. Escurre los gérmenes de bambú y córtalas en tiras de 5 cm de largo por 3 mm de ancho. Corta los champiñones las setas chinas remojadas y escurridas en 4 trozos o en pedazos no demasiado pequeños. Escurre los brotes de soja. Calienta el aceite en una olla y fríe en él el picadillo por espacio de 2 minutos, removiendo constantemente. Transcurrido este tiempo, añade las tiras de col y puerro, los cuadritos de cebolla y los gérmenes de bambú en tiras.

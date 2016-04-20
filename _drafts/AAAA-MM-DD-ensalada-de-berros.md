@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gramos de berros.
 
 100 gramos de jamón cocido, cortado en trozos.
@@ -43,7 +42,6 @@ Unas hojas de treviso.
 Sal.
 
 <h3>Preparación</h3>
-
 Bajo el chorro de agua fría lavamos las hojas de treviso, los rabanitos y los berros.
 
 Disponemos las hojas de treviso alrededor del plato, reservando el centro para los berros, el jamón cocido, el queso, los rabanitos abiertos en forma de flor y la cebolleta en juliana, decorando el plato. Por ultimo, aliñamos con el vinagre, el aceite y la sal.

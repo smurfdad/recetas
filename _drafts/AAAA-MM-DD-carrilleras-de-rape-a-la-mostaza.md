@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 carrileras de rape.
 
 Medio litro de leche.
@@ -39,7 +38,6 @@ Perejil picado.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Disponemos las carrilleras sobre una fuente resistente al horno. Aparte, en una sartén, con un poco de aceite, doramos la harina. Posteriormente agregamos la leche y cocemos a fuego medio hasta que espese.
 
 Ponemos a punto de sal y añadimos la mostaza y un poco de limón. Vertemos esta salsa sobre el pescado y espolvoreamos con perejil.

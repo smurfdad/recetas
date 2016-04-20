@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Judías verdes
 
 2 huevos cocidos
@@ -42,6 +41,5 @@ Vinagre
 Sal
 
 <h3>Preparación</h3>
-
 Se limpian de hilos las judías verdes y se cuecen con las patatas y media cebolla en abundante agua con sal. En una sartén se prepara un sofrito con aceite de oliva y los ajos laminados. Cuando los ajos están dorados se retira la sartén del fuego, se añade una cucharada pequeña de pimentón dulce y el vinagre. A esta preparación se le puede añadir algo del caldo de cocer las judías si es del gusto del comensal y se vierte sobre las judías y las patatas, que se acompañan con un huevo cocido.
 

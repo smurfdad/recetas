@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Solomillo de ternera
 
 Masa de hojaldre
@@ -32,7 +31,6 @@ Mostaza
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 El tiempo total en el horno será de un cuarto de hora por cada kg de carne y a una temperatura de 250&ordm; C
 
 Se ata el solomillo y se sazona con sal y pimienta

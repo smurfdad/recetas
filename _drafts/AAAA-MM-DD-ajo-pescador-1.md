@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gr. de anguila
 
 1,200 kg. de patatas
@@ -43,6 +42,5 @@ Azafrán
 Sal
 
 <h3>Preparación</h3>
-
 En una cacerola se calienta el aceite y se rehogan la cebolla, el ajo y el laurel. Se cortan las patatas en forma de dientes de ajo grandes y se añaden al rehogo. A continuación, se vierte el caído de pescado, previamente preparado, la anguila y el azafrán machacado y la sal, dejándolo hervir durante 20 minutos a fuego lento.
 

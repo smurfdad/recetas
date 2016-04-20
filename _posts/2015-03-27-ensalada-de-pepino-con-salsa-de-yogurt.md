@@ -25,7 +25,6 @@ Para 4 personas.
 - Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos los pepinos y los pelamos.
 
 Cortamos en tiritas finas, pelamos la cebolla y rallamos con un rallador mezclando posteriormente con el pepino.

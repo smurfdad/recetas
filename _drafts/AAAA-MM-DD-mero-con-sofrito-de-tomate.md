@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 trozo de mero limpio de 800 gramos.
 
 4 tomates.
@@ -40,7 +39,6 @@ Pimienta.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Los dientes de ajo picados se ponen a freír con el romero. Cuando estén ligeramente dorados se añaden los tomates pelados y sin pepitas, cortados en dados, y se deja freír, a fuego muy lento, durante unos 25 minutos aproximadamente.
 
 Cuando el tomate este a punto, se agrega el perejil picado y se sazona. El mero se corta en lonchas de un centímetro de grosor, se salpimienta y se asa en la plancha, vuelta y vuelta, con unas gotas de aceite. Por ultimo, el tomate se pone en el fondo de una fuente y las rodajas de mero se colocan encima.

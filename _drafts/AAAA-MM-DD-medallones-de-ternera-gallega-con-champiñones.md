@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 ternera gallega, 500 gr.
 
 champiñones, 1 kg.
@@ -36,6 +35,5 @@ legumbres frescas
 patatas
 
 <h3>Preparación</h3>
-
 Se cortan los medallones de ternera, de 100 gr., se sazonan en aceite no muy caliente. Se ponen en una tartera y se le añaden los champiñones previamente lavados y cortados en láminas; se rocían con una copa de jerez seco y se dejan hervir sobre 10 minutos tapados. Se sirven con legumbres frescas y patatas fritas.
 

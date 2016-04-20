@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 8 galletas María
 
 1 vaso de leche desnatada
@@ -29,7 +28,6 @@ Chocolate rallado
 Cacao en polvo
 
 <h3>Preparación</h3>
-
 Triturar las galletas en la leche con la mitad del edulcorante y cocer cinco minutos. Retirar del fuego y añadir el Nescafé, el brandy y el chocolate rallado (al gusto).
 
 Batir las yemas con el resto del edulcorante hasta que estén espumosas, añadir el queso Philadelphia y seguir batiendo hasta que esté bien integrado. Montar las claras a punto de nieve e incorporarlas a la mezcla anterior con moviemientos envolventes.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de riñones
 
 2 cebollas
@@ -44,7 +43,6 @@ agua
 aceite
 
 <h3>Preparación</h3>
-
 Picar muy finas las verduras y rehogarlas con un poco de aceite.
 
 Cuando estén echas, añadir los riñones troceados y previamente lavados con agua y vinagre.

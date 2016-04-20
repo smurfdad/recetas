@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 Bolsas de merluza congelada sin piel de 400 gr./Ud.
 
 7 Huevos
@@ -39,13 +38,11 @@ Para 6 personas.
 1 vasito pequeño de aceite
 
 <h3>Preparación</h3>
-
 Se pone al microondas el pescado congelado hasta que se descongele y se continúa hasta que esté cocido en el propio microondas (es mejor que hervirlo porque así no pierde nada de sabor), mientras tanto se sofríe la cebolla y el tomate, y se ponen tres huevos a hervir para hacer duros.
 
 Se trocean los huevos duros y se mezclan con el sofrito, la merluza y los otros huevos crudos, se añade sal y orégano al gusto y el pan rallado hasta que quede una pasta homogénea, se tritura todo con la batidora y se mete en el microondas en un molde de cristal. Se tiene 15 ó 20 minutos, según la potencia del microondas.
 
 <h3>Observaciones</h3>
-
 Modos de servirse:
 
 Cortar a rebanadas y servir en el plato, con un poquito de mahonesa y una ramita de perejil para adornar.

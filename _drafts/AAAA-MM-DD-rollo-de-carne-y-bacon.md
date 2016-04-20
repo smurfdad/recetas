@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pechuga de pollo entera picada
 
 lo mismo que pesa la pechuga en bacon ahumado picado
@@ -35,6 +34,5 @@ pasas de corinto sin hueso
 2 huevos
 
 <h3>Preparación</h3>
-
 Mezclar la carne picada con el bacon picado añadir 2 huevos batidos,las pasas y el coñac. Ligarlo todo y darle forma de rollo. Envolverlo en papel transparente. Hacerle con un palillo de dientes agujeritos. Meter en microondas a potencia 3 durante 10 minutos. Sacarlo, prensarlo y dejar en la nevera. Cuando este frio cortar en lonchas .
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de anguilas
 
 250 gramos de cebolla
@@ -33,6 +32,5 @@ Para 4 personas.
 5 gramos de pimienta en granos y de pimienta verde dulce
 
 <h3>Preparación</h3>
-
 Sofreír la cebolla en una cazuela de barro. Una vez dorada, agregarle la anguila, la pimienta roja y un vaso de agua. Dejar cocer 10 minutos. Agregarle la pimienta en grano. Salarlo 5 minutos antes de retirar la cazuela del fuego.
 

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,2 kg. de solomillo cortado en dados
 
 1/2 l. de vino tinto
@@ -37,7 +36,6 @@ harina
 aceite de oliva
 
 <h3>Preparación</h3>
-
 En una cazuela con un poco de aceite se introduce la cebolla picada gruesa, se deja que se haga y que empiece a tomar color.
 
 Se añaden los puerros y la zanahoria picados y se rehogan hasta que estén bien dorados. Reservamos.

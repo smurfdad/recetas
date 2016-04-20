@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 800 gramos de carne de cordero.
 
 1 diente de ajo.
@@ -41,6 +40,5 @@ Aceite.
 Pimienta.
 
 <h3>Preparación</h3>
-
 Las habas y los guisantes se cuecen en agua con sal y se reservan. La carne se corta en trozos pequeños y se rehoga en una cazuela con ajo y aceite. Cuando la carne est dorada se agrega el arroz, sal y pimienta. Se deja rehogar y se le añade doble cantidad de agua que de arroz, dejando cocer durante 20 minutos. Antes de que se evapore todo el agua -cinco minutos antes del finalse añaden los guisantes y las habas y se rectifica de sal. Para la cocción del arroz se puede aprovechar el agua donde se han cocido los guisantes y las habas.
 

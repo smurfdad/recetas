@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas colmadas de ajo en polvo
 
 1 cucharada colmada de comino en polvo
@@ -45,7 +44,6 @@ Para 4 personas.
 El zumo de un limón, mezclado con medio litro de agua escaso
 
 <h3>Preparación</h3>
-
 Mezclar en un cuenco todos los ingredientes menos el pollo y el agua de limón. Luego, lavar el pollo a fondo con este agua, y quitar excesos de grasa del interior, si hubiera. Con una aguja de punto (la que usamos para comprobar los bizcochos, mismamente), hacer agujeros profundos por todo el pollo, incluso debajo de las alas. Frotar bien al animalito con la marinada que hemos preparado en primer lugar, tanto por dentro como por fuera. Meter en una bolsa de esas de zip con toda la marinada (la que se le pegara y la que haya sobrado), y dejar reposar en la nevera de un día para otro, mejor aún 24 horas.
 
 Antes de asar el pollo, sacarlo de la bolsa, y diluir la marinada que haya quedado con una cucharada de agua. Asar el pollo a horno medio-fuerte, bañando con la marinada cada poco tiempo.

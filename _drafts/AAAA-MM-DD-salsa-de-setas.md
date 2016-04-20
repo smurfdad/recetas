@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 700 gr de setas
 
 2 ó 3 dientes de ajo
@@ -32,7 +31,6 @@ categories:
 400 ml de nata liquida
 
 <h3>Preparación</h3>
-
 Picar los ajos finos y rehogarlos con un poco de aceite junto con las setas troceadas.
 
 Una vez echo ponerlo en un Bol, junto con la pastilla de carne y la nata y triturar bien con la batidora.
@@ -40,6 +38,5 @@ Una vez echo ponerlo en un Bol, junto con la pastilla de carne y la nata y tritu
 Si nos quedase muy espesa añadirle un poco de leche.
 
 <h3>Observaciones</h3>
-
 Esta salsa sirve de acompañamiento tanto de carne como de pescados, hervidos o a la plancha, también es una salsa excelente para acompañar a unos pimientos rellenos.
 

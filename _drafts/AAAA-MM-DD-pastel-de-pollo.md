@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 500g masa philo
 
 100g manteca
@@ -52,7 +51,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Hervir las pechugas en agua, sal, granos de pimienta, hojas de laurel y la cebolla cortada por la mitad.
 
 Cocinar 15 min., retirar, escurrir, procesar y agregar los huevos.

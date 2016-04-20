@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 libras de pollo
 
 1 tomate
@@ -43,7 +42,6 @@ pimienta
 1/2 taza de cerveza
 
 <h3>Preparación</h3>
-
 Despresar el pollo.
 
 Picar bien pequeña la cebolla, el pimiento y el tomate.

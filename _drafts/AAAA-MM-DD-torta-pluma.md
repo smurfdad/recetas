@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 claras
 
 100g de harina
@@ -34,6 +33,5 @@ Para 4 personas.
 80g de manteca.
 
 <h3>Preparación</h3>
-
 Batir las claras a punto nieve. Agregar el azúcar en forma de lluvia y mezclar suavemente. Añadir la harina, en forma de lluvia, y las pasas. Verter en un molde enmantecado y cocinar en horno moderado por 45 minutos.
 

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gr. arroz
 
 1 kg. pescado para sopa (escórpora, congrio, rape, cabeza de merluza, galera,...)
@@ -46,6 +45,5 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Limpiar los pescados y cocer en el agua durante 20 minutos a 780 W. Colar una vez cocidos. En una cazuela de barro, freír la cebolla, 2 dientes de ajo y una vez blanda la cebolla, añadir los tomates sin piel y sin semillas, el laurel y el azafrán machacado en el mortero y disuelto en un poco de agua. Echar el arroz, mover con cuchara de madera y freír un poco. Verter el caldo de pescado caliente y llevar la cazuela al microondas durante 15 ó 20 minutos a 780 W (depende del tipo de arroz). Conectar la base giratoria. Dejar reposar durante 10 minutos. Servir con ali-oli o bien con una mahonesa hecha con ajos machacados en una salsera.
 

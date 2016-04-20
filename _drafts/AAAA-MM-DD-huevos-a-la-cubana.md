@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Huevo 8
 
 Cebolla 2
@@ -44,7 +43,6 @@ Pimienta Blanca
 Sal
 
 <h3>Preparación</h3>
-
 En una sartén se calienta 1 cucharada de aceite y se sofríe la cebolla, cortada en rodajas finas, reservando unas pocas para el adorno, y el pimiento verde sin semillas y en rodajas, de las que también se guardan un par, durante 5 minutos, hasta que las cebollas empiecen a dorar, mientras se pone la maicena en un cazo y se mezcla con un poco de leche hasta lograr una pasta suave, el resto de la leche se vierte en el sofrito y se añade la maicena, se deja hervir todo lentamente, removiéndolo, hasta que hierva y espese, se le añaden los tomates rallados y se salpimienta.
 
 Se baja el fuego, se tapa la sartén y se hierve todo durante 10 minutos, removiendo de vez en cuando, aparte se cuecen los huevos duros, se enfrían, se pelan y se cortan en dos a lo largo, colocándolos con la parte de la yema boca abajo sobre una fuente, se vierte la salsa sobre los huevos, se espolvorea con un poco de perejil picado finamente y se adorna con los anillos de cebolla y pimiento verde reservados, se sirve caliente.

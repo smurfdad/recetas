@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lata de 250 gramos de espárragos blancos.
 
 1/2 litro de nata liquida.
@@ -37,7 +36,6 @@ Pimienta.
 Mayonesa y salsa rosa.
 
 <h3>Preparación</h3>
-
 Trituramos con la batidora los espárragos, junto con parte del caldo.
 
 Batimos los huevos, mezclamos con la nata, y a su vez mezclamos con la crema de espárragos.

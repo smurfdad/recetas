@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 chuletas de cerdo
 
 50 gr. de queso fundido
@@ -50,7 +49,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se pone la mantequilla en un sauté y se sofríen las chuletas, durante unos 3 minutos por cada lado. Se sazonan con sal y pimienta, se escurren bien y se sacan a una fuente de horno.
 
 En el mismo sauté, se sofríe la chalota picada, a fuego suave, durante 2 o 3 minutos, sin que llegue a dorarse. Se añaden entonces los champiñones, bien lavados y cortados en láminas finas. Se tienen 2 o 3 minutos a fuego medio. Se rocía este sofrito con el vino blanco y se tiene hirviendo durante 1 o 2 minutos, rascando con una cuchara de madera el fondo del sauté. Se añade el jamón cocido cortado en dados pequeños.

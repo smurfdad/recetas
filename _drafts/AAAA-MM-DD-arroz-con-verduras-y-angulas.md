@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 g de arroz
 
 1 cebolla
@@ -44,6 +43,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Cocemos por separado las alcachofas, los guisantes y las judías verdes y guardamos el agua para cocer el arroz. Se elabora como una paella de vegetales con un fondo de cebolla y pimiento sofrito y dos minutos antes de la cocción del arroz, espolvoreamos las angulas por encima.
 

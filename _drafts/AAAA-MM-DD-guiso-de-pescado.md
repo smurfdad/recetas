@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de surubí
 
 jugo de 1 limón
@@ -45,7 +44,6 @@ sal y pimienta
 1 vaso de vino blanco seco
 
 <h3>Preparación</h3>
-
 Cortar el pescado en trozos y arrollarlos con un palillo. Salpimentar y rociar con jugo de limón. Dejar una hora. En una cacerola, rehogar la cebolla y el ajo en el aceite. Cuando esté transparente, añadir los tomates picados, el laurel, el orégano y el caldo.
 
 Cocinar hasta que levante el hervor. Incorporar el vino y continuar la cocción hasta que el alcohol evapore. Incorporar el pescado y cocinar sólo 15 minutos. Servir en platos hondos espolvoreado con perejil.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 MASA QUEBRADA:
 
 300 grs. de harina
@@ -56,7 +55,6 @@ COBERTURA:
 180 grs de azucar molido
 
 <h3>Preparación</h3>
-
 Pasar por un tamiz la harina, a fin de que coja aire. Hacer un montoncito con ella y, en el centro, colocar las 2 yemas de huevo, la pizca de sal, la mantequilla diluida y un poquito de leche. Mezclar los ingredientes poco a poco como si se estuviera pellizcando la masa. Si hiciera falta o quedase demasiado espesa la mezcla, se puede añadir un poquito más de leche. Cuando se haya formado una bola homogénea, colocarla en un cuenco, taparla y dejarla reposar durante media hora a temperatura ambiente.
 
 Rallar la piel del limón y, posteriormente, exprimir todo su zumo. En cuenco aparte, batir las yemas de huevo con el azúcar, con la ayuda de varillas eléctricas. A continuación, añadir el zumo de limón, la ralladura de limón, la maizena, y mezclar todos los ingredientes con una cuchara de madera. Agregar la leche templada y cocer al baño maría hasta que la mezcla espese. Rerirar el cazo del fuego y añadir la mantequilla poco a poco. Mezclar bien, y a continuación dejar enfriar.

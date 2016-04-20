@@ -7,7 +7,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 400 gr de bacalao salado
 
 5 patatas pequeñas
@@ -21,7 +20,6 @@ una pizca de pimienta negra
 un botellín de nata líquida especial para cocinar
 
 <h3>Preparación</h3>
-
 Pele las patatas y hiérvalas.
 
 Cuando estén blandas, añada el bacalao.

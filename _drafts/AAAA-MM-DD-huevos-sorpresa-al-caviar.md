@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1/4 l de nata líquida
@@ -39,7 +38,6 @@ sal
 pimienta recién molida
 
 <h3>Preparación</h3>
-
 Tostar las rebanadas de pan. Hervir la nata 10 minutos a fuego lento, salpimentar y reservar al calor.
 
 Calentar una olla con agua salada. Cuando hierva, añadir la cucharada de vinagre. Cocer los huevos en el agua 5 minutos exactamente.

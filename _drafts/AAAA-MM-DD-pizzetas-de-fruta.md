@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 350 gr. de harina
 
 una pizca de sal
@@ -50,7 +49,6 @@ un poco de miel
 hojas de menta
 
 <h3>Preparación</h3>
-
 Coloca la harina en un bol grande, añade la sal, el azúcar y la levadura de panadero aplastada. Mezcla, vierte el agua poco a poco y amasa. Agrega el aceite y sigue amasando. Tapa la masa con un trapo limpio de cocina y déjala reposar durante 20-25 minutos.
 
 Corta la masa en 6 trozos, vierte un poco de aceite sobre cada trozo y estíralos bien. Colócalos sobre 2 placas (de horno) forradas con papel de hornear. Con un pincel, unta la superficie de las pizzas con un poco de mermelada de albaricoque. Introduce en el horno a 200&ordm; C durante 10 minutos.

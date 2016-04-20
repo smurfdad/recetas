@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 pavo de 2 1/2 kg.
 
 300 grs. de castañas peladas
@@ -31,7 +30,6 @@ Para 8 personas.
 sal, pimienta, perejil
 
 <h3>Preparación</h3>
-
 Para pelar las castañas, primero hay que cocerlas, partiendo de agua fría y dándoles un corte para que no revienten, y durante 15 minutos.
 
 Una vez peladas, cortarlas en trozos, mezclarlas con la carne picada, trufas picadas (opcional), sal a gusto y pimienta.

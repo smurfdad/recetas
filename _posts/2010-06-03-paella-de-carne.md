@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de arroz
 
 1 cebolla
@@ -30,7 +29,6 @@ aceite de oliva
 colorante alimentario o azafrán
 
 <h3>Preparación</h3>
-
 Limpiar las verduras y picarlas finas. Acto seguido poner este fondo en una paella con un poco de aceite y en ella añadir las verduras y rehogarlas.
 
 Una vez rehogadas añadiremos el pollo troceado y le daremos un ligero rehogado con las verduras.

@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de pescado
 
 2 loncha de queso(cualquier tipo)
@@ -41,7 +40,6 @@ sal a gusto
 pimienta a gusto
 
 <h3>Preparación</h3>
-
 Se sazonan con la sal y la pimienta los filetes y se colocan en un plato.
 
 Sobre dos de ellos se pone una loncha de jamon y encima una de queso. Posteriormente se coloca encima del queso la otra lasca de filete.

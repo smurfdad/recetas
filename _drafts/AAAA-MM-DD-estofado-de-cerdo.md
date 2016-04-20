@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 g de carré de cerdo
 
 2 cucharadas de harina
@@ -46,7 +45,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Enharine la carne. En una sartén de teflón de 30 cm. Caliente el aceite a fuego fuerte. Ponga la carne en una capa y cocine por 5 minutos hasta que se dore por todos lados. Sáquela con una espumadera y póngala en una fuente sobre toallas de papel.
 
 Reduzca el fuego a moderado. Agregue la cebolla y el ajo a la sartén y cocine, agitando la frecuencia, por 5 minutos hasta que la cebolla se suavice. Añada las zanahorias, el jengibre, la sal, la pimienta y el caldo y deje que suelte el hervor. Baje la llama, incorpore la carne, tape y hierva a fuego lento por 1h 15 minutos hasta que la carne esté tierna.

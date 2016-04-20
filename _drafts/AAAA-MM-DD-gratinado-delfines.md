@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 700 g de patatas
 
 120 g de queso gruyere rallado
@@ -43,6 +42,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Pelar las patatas, lavarlas y cortarlas en rodajas finas. Sazonar con la nuez moscada, pimienta y sal y ponerlas en un bol grande con 80 g de queso rallado. Hervir la leche, retirarla del fuego, dejarla templar y agregar el huevo batido. Mezclar bien y verter la leche sobre las patatas. Mezclar con cuidado. Frotar con ajo una fuente de horno y engrasar con un poco de mantequilla. Llenarla con la preparación de las patatas. Repartir el queso rallado y la mantequilla troceada. Meter la fuente en el horno precalentado a 180 grados de 45 a 50 minutos. Servir muy caliente.
 

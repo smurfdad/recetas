@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 g. de calabacín
 
 leche
@@ -34,7 +33,6 @@ queso rallado
 sal
 
 <h3>Preparación</h3>
-
 Se pelan los calabacines, se cortan en taquitos y se ponen a cocer con sal. Cuando están tiernos se escurren y se reservan. Aparte se prepara una besamel clarita. Se colocan los calabacines en el fondo de cazuela o recipiente refractario.
 
 Encima se vierte la besamel y se espolvorea con el queso rallado. Se mete al horno caliente unos pocos minutos. Es un suave y agradable primer plato.

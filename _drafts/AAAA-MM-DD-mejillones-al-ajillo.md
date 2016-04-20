@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1.250 g. de mejillones
 
 Una cebolla
@@ -39,6 +38,5 @@ Una cucharada de perejil picado
 Sal marina
 
 <h3>Preparación</h3>
-
 Limpiar concienzudamente los mejillones, quitando todos los pelos. Picar finamente la cebolla. Poner una cazuela a fuego lento con el aceite y la cebolla picada, dejando hacer, tapado, hasta que empieza a tomar color. En ese momento, se añade el ajo picado; revolver. Un minuto y medio después, se echan los mejillones y la salsa de tomate, se sala ligeramente, se espolvorea el perejil picado y se mantiene en el fuego el tiempo necesario para que se abran los bivalvos.
 

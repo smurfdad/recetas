@@ -9,7 +9,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 cebolla
 
 2 huevos
@@ -17,7 +16,6 @@ Para 1 personas.
 1 cucharada de salsa de tomate
 
 <h3>Preparación</h3>
-
 Cortar la cebolla en juliana fina(cortada en tiras), poniéndola a fuego lento con un poco de aceite, para que se vaya haciendo despacio.
 
 Batir los huevos y hacer la tortilla.

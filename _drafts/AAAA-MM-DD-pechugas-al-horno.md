@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 Pechugas de pollo aplanadas
 
 4 Jitomates rojos
@@ -41,7 +40,6 @@ Queso Chihuahua
 sal y pimienta al agusto
 
 <h3>Preparación</h3>
-
 En un molde refractario untado de mantequilla se coloca una capa de pechuga de pollo, luego otra de jamón procurando cubrir, el pollo, se cubre con la salsa hecha con los jitomates, el chipotle la mayonesa y la mostaza, en seguida se pone una capa de queso, luego otra de pollo, etc... a terminar con queso, luego se coloca en el horno previamente calentado durante 30 minutos.
 
 Se sirve en rebanadas, con un spagueti y ensalada de lechuga.

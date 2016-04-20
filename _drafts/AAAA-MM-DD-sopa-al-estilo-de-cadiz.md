@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 8 cucharada de aceite de oliva.
 
 1 litro de caldo de ave.
@@ -43,7 +42,6 @@ Perejil picado.
 Sal.
 
 <h3>Preparación</h3>
-
 En una sartén sofreímos los ajos en láminas. Añadimos el jamón cortado en cuadraditos y el pan. Rehogamos bien y pasamos todos a una cazuela.
 
 Agregamos el caldo caliente, el huevo picado, ponemos a punto de sal y dejamos cocer veinte minutos. En un cuenco aparte mezclamos las yemas de huevo con el Jerez e incorporamos esta mezcla a la sopa. Batimos bien y dejamos cocer cinco minutos más. Antes de servir, añadimos un puñado de perejil picado.

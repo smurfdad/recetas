@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. de garbanzos secos
 
 2 juegos de tripa y pie (8 pies y 2 tripas)
@@ -57,6 +56,5 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Remojar los garbanzos la noche anterior. En una olla con agua salada hirviendo y adicionada de una cabeza de ajos y dos hojas de laurel, echar los garbanzos y dejarlos cocer a fuego vivo unas dos horas y media. En una cazuela, freír 300 gr. de cebolla y dos trocitos de guindilla. Cuando esté dorado añadir 150 gr. de tocino, 150 gr. de salchichón, todo cortado en juliana, 2 cucharaditas de pimentón y los tomates picados. Aparte cocer las tripas y pies con las hierbas y escurrirlas. Juntar el sofrito con las tripas y pies cocidos, añadir 1/2 litro de caldo, dejar cocer 10 minutos, echar los garbanzos y dejar cocer 10 minutos más.
 

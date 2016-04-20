@@ -11,7 +11,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 500 grs Filete de Res
 
 1 lata de champiñones en trozos
@@ -29,7 +28,6 @@ Sal
 Pimienta Negra Molida
 
 <h3>Preparación</h3>
-
 En un sartén se agrega el aceite de oliva.
 
 Los Filetes se pueden cortar en largas tiras.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 salmón de 2 k
 
 1 k de patatas fileteadas y cocidas al vapor
@@ -46,7 +45,6 @@ Aceite de oliva
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 El salmón se pone en una fuente para horno previamente salado, con las patatas fileteadas en forma de escamas. Se baña con el aceite de oliva mezclado con el ajo machacado. Espolvorear con pan rallado y poner a horno medio durante 10 a 15 minutos.
 
 Para la guarnición, se saltean las espinacas con el ajo.. También se puede poner para este fin pimientos de Padron.

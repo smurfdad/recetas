@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor
 
 250 g de patatas
@@ -30,7 +29,6 @@ Para 4 personas.
 1 vaso de nata liquida
 
 <h3>Preparación</h3>
-
 Limpia,trocea la coliflor y pela y corta las patatas.
 
 En una olla con agua y sal cuece ambos ingedientes 25 minutos y trituralos con la batidora.

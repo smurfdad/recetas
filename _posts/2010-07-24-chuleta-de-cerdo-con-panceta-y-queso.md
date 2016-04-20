@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 chuletas de cerdo
 
 4 lonchas de panceta adobada
@@ -31,7 +30,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Pela los tomates, córtalos en rodajas. Riega la placa de horno y coloca encima las rodajas de tomate. Sazónalas e introduce al horno a 220&ordm; C, durante 6-8 minutos.
 
 Salpimienta las chuletas y fríelas en una sartén con un poco de aceite. Pela, aplasta los dientes de ajo e incorpóralos. Colócalas al lado de las rodajas de tomate.

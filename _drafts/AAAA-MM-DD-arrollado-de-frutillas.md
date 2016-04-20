@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 Pionono:
 
 6huevos
@@ -54,7 +53,6 @@ merenges partidos
 frutillas
 
 <h3>Preparación</h3>
-
 Pionono:batir los huevos junto con el azucar,miel y batir hasta punto letra,agregar vainillin y el harina cernida en forma envolvente.Colocar en una placa de pionono o asadera rectangular sobre papel enmantecado y enharinado,llevar horno fuerte 8m.dejar enfriar.
 
 Untar el pionono con dulce de leche y sobre este la crema y las frutillas,tambien los merengues triturados no muy chicos,arollar ajustando y llevar a la heladera.

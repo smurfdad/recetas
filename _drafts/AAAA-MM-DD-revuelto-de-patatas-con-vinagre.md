@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 Kg. de patatas
 
 4 huevos
@@ -36,7 +35,6 @@ Vinagre
 Aceite
 
 <h3>Preparación</h3>
-
 Cortamos las patatas en dados medianos.
 
 Freimos en abundante aceite. Retiramos y añadimos sal.

@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 gramos de fetuccinni blanco
 
 100 gramos de gambas peladas
@@ -49,6 +48,5 @@ peregil o albahaca frescos
 pimienta blanca.
 
 <h3>Preparación</h3>
-
 Cocer la pasta con abundante agua y sal hasta que quede al dente. En una sartén calentar el aceite, freir los ajos en pequeñas láminas y la guindilla, añadir enseguida las gambas y dorar. Añadir el tomate cortado en dados, el tomate frito y por último la pasta escurrida, habiéndola añadido la mantequilla. Mezclar bien y verter la nata, calentar y rectificar de sal. Podemos añadir pimienta blanca o cayena al gusto. Servir adornando con dados de tomate fresco y una ramita de peregil o albahaca.
 

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 rodajas de bonito
 
 4 dientes de ajo
@@ -19,7 +18,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Lavar las rodajas y secarlas bien.
 
 Dejar macerando con dos horas de antelación por lo menos, de la siguiente manera:

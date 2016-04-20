@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 200 grs. de mantequilla
 
 200 grs. de azúcar en polvo
@@ -27,7 +26,6 @@ una pizca de sal
 una pizca de vainilla
 
 <h3>Preparación</h3>
-
 Batir la mantequilla templada junto con el azúcar en polvo y los huevos uno a uno, con la batidora, hasta que quede una masa esponjosa.
 
 Mezclar a la masa la harina, a la que habremos unido la levadura, sal y vainilla, anteriormente.

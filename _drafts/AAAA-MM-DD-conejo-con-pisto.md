@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo.
 
 1 cebolla.
@@ -45,6 +44,5 @@ Pimienta.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Troceamos el conejo y lo salpimentamos. A continuación, lo doramos en una cazuela con un poco de aceite. Cuando este bien doradito, lo sacamos de la cazuela y lo reservamos. En el mismo aceite rehogamos la cebolla y los pimientos picados en juliana. Cuando la cebolla este transparente, incorporamos el conejo y el vino y dejamos cocer cinco minutos. Transcurrido este tiempo, lo cubrimos con agua y dejamos que hierva. Cuando lleve cociendo veinte minutos, añadimos el calabacín y el tomate en trozos. Lo dejamos cocer otros diez minutos y servimos.
 

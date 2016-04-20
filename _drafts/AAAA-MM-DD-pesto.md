@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 36 Hojas de albahaca
 
 3 Dientes de ajo
@@ -34,11 +33,9 @@ Para 6 personas.
 Sal gruesa
 
 <h3>Preparación</h3>
-
 Para preparar el pesto, machacar un poco de ajo y unas hojas de albahaca en un mortero, ir gradualmente añadiendo sal gruesa, albahaca y ajo. cuando esto este todo integrado en el mortero y a fuerza de majar tenemos una pasta fina, con movimientos circulares de la mano añadimos poco a poco el pecorino, obtendremos una pasta espesa, al final le añadiremos la cucharada de aceite y mezclaremos bien. A la pasta obtenida le añadiremos una cucharada del agua de cocción de la pasta.
 
 <h3>Observaciones</h3>
-
 si se le ponen piñones no mas de 40 gramos, si usamos queso parmesano pondremos mita y mitad, cuajada de leche bien escurrida 40 gramos. Los piñones majarlos desde el principio, quesos y cuajada en lo indicado para el pecorino.
 
 Para aderezar unos linguines, fettucine, tagliatelle, farfalle o trenettes.

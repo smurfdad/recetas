@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Masa de pan
 
 espinacas
@@ -28,6 +27,5 @@ espinacas
 pasas y piñones
 
 <h3>Preparación</h3>
-
 Alisar muy fina la masa. Cortar discos de unos 12 cm. de diámetro. En la mitad inferior de la pasta poner dos cucharadas de espinacas a la catalana (fritas con pasas y piñones). Cubrir con la otra mitad. Cerrar los bordes con cenefa y cocer a horno medio unos 20 minutos.
 

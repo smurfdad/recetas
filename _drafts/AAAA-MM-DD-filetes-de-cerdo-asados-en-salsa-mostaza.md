@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 taza de salsa para carne (steak sauce)
 
 1/4 de mostaza
@@ -32,7 +31,6 @@ Para 6 personas.
 6 filetes de paletilla de cerdo de 4 onzas cada uno, alrededor de 3/4 pulgada de grosor
 
 <h3>Preparación</h3>
-
 MEZCLA la salsa para carne, la mostaza y las hojuelas de chile seco. Coloca los filetes en un plato no metálico o en una bolsa de plástico. Agrega la mezcla con salsa para carne, dale la vuelta para cubrir ambos lados del filete.Tapa o dejálos en la bolsa plástica.
 
 Enfria 1 hora para marinar, dándole la vuelta o moviendo la bolsa plástica, de vez en cuando. Retira los filetes de la marinada y ponlos en la parrilla.

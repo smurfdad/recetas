@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor grande
 
 2 cucharadas de harina
@@ -29,7 +28,6 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Limpiar y cortar la coliflor.
 
 Poner una cazuela con agua y sal, cuando rompa a hervir, echar la coliflor y dejarla cocer.

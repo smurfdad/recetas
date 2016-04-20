@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de chocolate de hacer
 
 100 grs. de mantequilla
@@ -27,7 +26,6 @@ peras
 uvas, melocotones o las frutas que se deseen
 
 <h3>Preparación</h3>
-
 Disolver el chocolate en la leche, a fuego lento, revolviendo con cuchara de palo.
 
 Ya disuelto y fuera del fuego, añadir la mantequilla en trozos.

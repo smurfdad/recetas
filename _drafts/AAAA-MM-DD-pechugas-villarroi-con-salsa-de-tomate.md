@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Pechugas de pollo.
 
 Harina.
@@ -39,10 +38,8 @@ Bechamel.
 Aceite.
 
 <h3>Preparación</h3>
-
 Se rebozan los filetes de pollo en bechamel, se dejan enfriar en el frigorífico, se rebozan en harina, huevo y pan rallado. Se fríen en una sartén con aceite.
 
 <h3>Observaciones</h3>
-
 Se sirven acompañados de la salsa de tomate.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 g de riñones de cordero.
 
 3 cucharadas de aceite de oliva virgen.
@@ -42,7 +41,6 @@ Media cucharadita de pimentón dulce.
 Un poquito de pimienta negra, sal y perejil picado.
 
 <h3>Preparación</h3>
-
 Es recomendable utilizar los riñones de animales jóvenes tales como los de cordero o ternera lechal.
 
 Para limpiarlos adecuadamente, los cortamos en rodajas y los introducimos dentro de un recipiente con un vaso de agua, un puñado de sal y un chorro de vinagre. Los dejaremos de esta forma durante unos 15 minutos.

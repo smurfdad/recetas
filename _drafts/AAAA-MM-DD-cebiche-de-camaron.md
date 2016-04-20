@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 300 gramos de camarones o gambas grandes
 
 Jugo de 7 naranjas (natural)
@@ -42,7 +41,6 @@ Perejil rizado al gusto
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Se ponen a hervir 4 tazas de agua y cuando comienza la ebullición se colocan los camarones o gambas por 2 minutos. Se sacan del agua los camarones y se dejan enfriar.
 
 Se corta la cebolla roja en pluma y se introduce en agua hervida, no puede ser la del camarón. Se enfrían las cebollas cortadas en pluma
@@ -54,7 +52,6 @@ Fríos los camarones se colocan en la mezcla de la naranja, refresco, cerveza y 
 La sal y la pimienta se pone al gusto.
 
 <h3>Observaciones</h3>
-
 Las palomitas de maíz sirven para acompañar al Ceviche Ecuatoriano.
 
 También se puede acompañar con una cerveza bien helada o un buen vino blanco seco.

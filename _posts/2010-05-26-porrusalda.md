@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 puerros cortados muy grandes.
 
 1 zanahoria pequeña
@@ -27,7 +26,6 @@ un trozo de bacalao remojado (opcional)
 sal
 
 <h3>Preparación</h3>
-
 Pelar las patatas y cascarlas en trozos regulares.
 
 Ponerlos en la olla rápida a cocer con los puerros, la zanahoria en rodajas, la calabaza en trozos, la sal, el bacalao dessalado (si se pone) y agua, sólamente que las cubra.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de bonito
 
 1/2 pan sopako (pistola)
@@ -50,7 +49,6 @@ perejil picado
 sal
 
 <h3>Preparación</h3>
-
 Se prepara una vinagreta con tres partes de aceite por una de vinagre. Se sazona y se le añaden unos dados de tomate, un poco de perejil picado y una cucharada pequeña de salsa de soja. Se trocea el pan sopako y se fríe en aceite con el diente de ajo. Se escurre bien y se tritura junto con el caldo. Se cuela, se sazona y se reserva.
 
 Se cortan la patata y los pimientos en dados finos. Se fríen por separado y se reservan. Se sacan los lomos del bonito y se cortan en trozos de 5 a 6 cm. de largo por 2 cm. de ancho. Se sazonan. Se pone aceite de oliva en una sartén y se calienta hasta que salga humo. Se doran en el aceite los trozos de bonito, de modo que queden bien hechos por fuera y crudos por dentro.

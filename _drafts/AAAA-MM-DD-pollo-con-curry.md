@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo mediano
 
 1 cebolla rallada
@@ -42,12 +41,10 @@ Para 4 personas.
 Sal, pimienta y especias
 
 <h3>Preparación</h3>
-
 Cocer el pollo, deshuesarlo, cortarlo en trozos pequeños. Cocer los fideos, ponerlos bajo un chorro de agua un minuto, escurrir y freír en el aceite. Freír la cebolla, cuando esté dorada añadir la harina y el curry y mover constantemente. Añadir el caldo poco a poco y seguir moviendo hasta que sea medianamente espeso. Poner la mitad de los fideos en un molde; añadir un poco de queso rallado, luego un poco de salsa de curry. Poner encima el pollo, luego el resto de los fideos y la salsa; por fin el queso rallado.
 
 Meter el molde en el horno. Servir caliente.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

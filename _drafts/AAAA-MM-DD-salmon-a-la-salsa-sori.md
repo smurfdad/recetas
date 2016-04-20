@@ -22,7 +22,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 3 Lonchas de salmón ahumado.
 
 Pepino.
@@ -46,6 +45,5 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Colocar en un plato las tres lonchas de salmón centradas con una cucharadita de caviar para decorar. En un lado poner una rodaja de tomate con las dos gambas peladas encima. En el otro lado poner daditos de pepino. Echar la salsa por encima del salmón y de las gambas. Para elaborar la salsa picaremos el ajo y lo mezclaremos con aceite, perejil y vinagre al gusto, pero sin que quede muy fuerte.
 

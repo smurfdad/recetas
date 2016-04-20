@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de salmón.
 
 2 cebolletas.
@@ -45,6 +44,5 @@ Sal.
 Pimienta.
 
 <h3>Preparación</h3>
-
 El ajo y las cebolletas se pican finamente y se ponen a rehogar en una cazuela con aceite. Cuando están bien doraditos, añadimos la harina y removemos bien. A continuación incorporamos el salmón salpimentado, el caldo de pescado y el perejil picado. Dejamos que el salmón se haga cinco minutos por cada lado a fuego lento. Mientras tanto, se pelan los espárragos frescos y los freímos. Servimos el salmón en su propia salsa, adornado con los espárragos fritos.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de zancarrón de ternera
 
 1/2 cebolla
@@ -38,7 +37,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Cocer el zancarrón cubierto de agua con el puerro y sal, en una olla a presión. Una vez hecho, sacar en un plato y reservar.
 
 En una sarten poner un chorro de aceite de oliva, echar la cebolla picada en juliana y dejar pochar suavemente. Una vez hecha, añadir los pimientos en tiras y el zancarrón cortado en trozos pequeños.

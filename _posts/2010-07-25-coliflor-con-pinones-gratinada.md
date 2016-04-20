@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de coliflor
 
 2 zanahorias
@@ -31,7 +30,6 @@ Perejil picado y pimienta
 Aceite, agua y sal
 
 <h3>Preparación</h3>
-
 En una cazuela con agua, sal y un chorro de aceite, pon a cocer la zanahorias y las patatas peladas y troceadas. cuando lleve unos minutos, agrega la coliflor cortada en ramilletes. Deja cocer unos 20 minutos.
 
 Coloca la verdura bien escurrida en una fuente resistente al horno, la coliflor en el centro y las patatas y zanahorias en los bordes.

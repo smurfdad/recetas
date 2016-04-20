@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarro pequeño de tapenada (crema de aceitunas)
 
 4 rodajas de salmón noruego
@@ -46,7 +45,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Blanquear las habas 5 minutos en agua salada hirviendo, escurrirlas y estirar la piel. Pelar y cortar las cebollas y el ajo.
 
 En una sartén rehogar la cebolla, los tomates y el ajo. Añadir las habas y el tomillo, salpimentar, cubrir y dejar cocer a fuego lento 20 minutos.

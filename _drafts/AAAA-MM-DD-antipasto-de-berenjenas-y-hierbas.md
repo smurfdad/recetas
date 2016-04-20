@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 media taza Aceite de oliva
 
 3 cucharaditas Aceite de oliva extra virgen
@@ -42,6 +41,5 @@ Pimienta, sal
 3 tomates maduros y picados
 
 <h3>Preparación</h3>
-
 Picar las berenjenas en bastones largos de una pulgada de ancho y 6 centímetros de largo. Calentar el aceite de oliva y freír en él las berenjenas por 5 minutos o hasta que estén suaves (hacerlas en dos tandas). Escurrirlas sobre papel absorbente. Calentar las tres cucharadas de aceite y sofreír al ajo, agregar los tomates, pasta de tomate, agua, hierbas, sal y pimienta. Cocinar lentamente por 10 minutos descubierto o hasta que la mezcla se espese. Agregar las berenjenas, dar un hervor, corregir la sazón y enfriar. Servir a temperatura ambiente o caliente.
 

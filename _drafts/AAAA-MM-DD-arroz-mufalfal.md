@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 vaso de arroz
 
 1 cebolla pequeña rallada
@@ -39,10 +38,8 @@ Sal
 Pimienta y especias
 
 <h3>Preparación</h3>
-
 Freír la cebolla en el aceite hasta dorarla. Añadir el tomate y el agua, la sal y las especias, dejar hervir. Añadir el arroz lavado, dejar hervir, bajar el fuego hasta que absorba toda el agua, volver a bajarlo al máximo y dejar cocer 25 minutos.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

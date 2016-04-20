@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 manzanas golden
 
 4 dl. anís seco
@@ -45,7 +44,6 @@ azúcar glass para espolvorear
 aceite de oliva para freír
 
 <h3>Preparación</h3>
-
 Pelar y cortar en trozos las manzanas. Macerar con el anís y el azúcar.
 
 Para hacer la masa:

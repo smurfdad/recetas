@@ -22,7 +22,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 docena de chuletas de cerdo
 
 6 dientes de ajo
@@ -32,6 +31,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Adobar las chuletas con los ajos laminados y un poco de aceite y sal, dejándolas así adobadas durante una hora. A continuación, hacer en una parrilla sobre las brasas. Si no se dispone de barbacoa, pueden hacerse a la plancha sobre el fuego de la cocina, aunque no quedan tan sabrosas.
 

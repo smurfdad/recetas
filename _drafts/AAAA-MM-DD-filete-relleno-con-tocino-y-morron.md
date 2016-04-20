@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 Filete de res
 
 100 gramos de tocino, frito en tiras largas
@@ -36,7 +35,6 @@ Media taza de Salsa de soya
 Sal Pimienta
 
 <h3>Preparación</h3>
-
 Limpiar bien el filete, sacándole toda la grasa. Introducir por las puntas un cuchillo largo, haciendo un hueco que atraviese todo el filete. Empujando con los dedos, meter por el hueco el tocino y las tiras de pimiento previamente maceradas en un poco de mostaza y salsa soya,
 
 Salar y salpimentar el filete y untar por encima con el resto de la mostaza y salsa soya.Dejarlo asi por lo menos treinta minutos, dándole la vuelta de rato en rato.

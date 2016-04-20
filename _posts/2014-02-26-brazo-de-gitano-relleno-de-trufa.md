@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para el bizcocho:
 
 140 gramos de harina.
@@ -38,7 +37,6 @@ Para el relleno:
 100 gramos de chocolate al aroma de vainilla rallado.
 
 <h3>Preparación</h3>
-
 Bizcocho
 
 Ponemos las yemas en un bol y añadimos el azúcar.

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 gramos de cinta de pasta.
 
 200 gramos de setas u hongos.
@@ -38,7 +37,6 @@ Perejil picado.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Cocemos la pasta en agua con sal, con un chorrito de aceite, y la pasamos por agua fría para detener la cocción. En una sartén, con un poco de aceite, rehogamos la cebolla picada y las setas cortadas en juliana.
 
 Dejamos que se haga bien y, cuando este listo, agregamos las cintas y las rehogamos.

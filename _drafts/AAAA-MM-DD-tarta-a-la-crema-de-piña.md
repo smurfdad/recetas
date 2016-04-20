@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 35 cl. de zumo de piña
 
 4 huevos
@@ -32,7 +31,6 @@ Para 4 personas.
 1 tira de bizcocho fino (tipo brazo de gitano)
 
 <h3>Preparación</h3>
-
 Se ponen 50 gr. de azúcar en un cazo pequeño y se coloca a fuego suave, para que se vaya fundiendo. Una vez haya tomado un bonito color caramelo, se vierte en un molde redondo y liso, y con ambas manos se va girando hasta que todo el interior quede bien impregnado. Se deja enfriar.
 
 En una cazuela se deposita el resto del azúcar y el zumo de piña. Se pone a hervir y se tiene unos 5 minutos, a pequeños borbotones y removiendo con una cuchara de madera, hasta que espese. Se deja enfriar.

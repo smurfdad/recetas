@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Cordero 24 chuletas
 
 Mantequilla 125 grs
@@ -40,7 +39,6 @@ Nuez Moscada
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Las chuletas con el hueso bien pelado, se sazonan, se fríen en aceite y se dejan enfriar. Se prepara una bechamel espesa con la mantequilla, harina, leche, sal, pimienta y nuez moscada.
 
 Una vea hecha la bechamel se saca del fuego y se cubre con ella las chuletas dejándola enfriar en una fuente untada con un poco de aceite con el fin de que no se peguen.

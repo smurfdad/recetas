@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 patatas medianas
 
 4 ajos
@@ -21,7 +20,6 @@ sal
 un chorrito pequeño de vinagre (opcional)
 
 <h3>Preparación</h3>
-
 Pelar y cortar en rodajas más bien gruesas las patatas.
 
 Poner a cocer, con sal, en la olla rápida, al vapor (con la rejilla y agua en el fondo) durante 10 minutos.

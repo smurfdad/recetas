@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pavo, deshuesdas
 
 sal y pimienta
@@ -47,7 +46,6 @@ sal y pimienta
 agua
 
 <h3>Preparación</h3>
-
 Adobe las pechugas con el ajo, sal y pimienta. En un sartén, cocine las pechugas en el aceite de oliva, (3 a 4 minutos) por cada lado.
 
 Coloque en un platón y mantenga caliente. En el mismo sartén en que preparó las pechugas, caliente la mantequilla y sofría la cebolla y el otro asjo hasta brillosos.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 400 g de garbanzos
 
 1 cebolla grande
@@ -47,6 +46,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Poner los garbanzos a remojo en agua mineral templada durante 8 horas. Lavarlos, escurrirlos y disponerlos en una cazuela con el caldo caliente y sal. Cocerlos a fuego suave de 50 a 60 minutos. Rehogar en el aceite caliente el diente de ajo y la cebolla picadas. Agregar los pimientos troceados y el concentrado de tomate, rehogarlos y continuar la cocción durante 15 minutos a fuego suave. Sazonar con pimienta y sal. Cuando los garbanzos estén tiernos agregar el sofrito, mezclar y rectificar la sazón, si fuera necesario. Espolvorear con el perejil picado y servir enseguida.
 

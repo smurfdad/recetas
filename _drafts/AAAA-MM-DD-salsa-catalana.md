@@ -22,7 +22,6 @@ categories:
 Para 25 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de pan seco
 
 1/4 de almendras tostadas.
@@ -44,10 +43,8 @@ sal
 un poco de agua caliente
 
 <h3>Preparación</h3>
-
 en la batidora se ponen todos los ingredientes ya mencionados.se bate todo muy bien y se deja reposar 1 hora.despues se agrega el agua caliente poco a poco asta que quede fina segun el gusto de cada uno. mas espesa o mas clara. esta cantidad es para 25 personas. en caso de querer hacer la mitad se parten los ingredientes a la mitad.
 
 <h3>Observaciones</h3>
-
 esta salsa es para marisco. pescado.o simple mente con pan es buenisima.
 

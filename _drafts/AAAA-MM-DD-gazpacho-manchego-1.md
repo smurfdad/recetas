@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 conejo
 
 1/2 pollo
@@ -48,7 +47,6 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
-
 Freír en aceite los ajos y el pan, escurrirlos y majarlos en un mortero. Trocear el conejo y el pollo, sazonar los trozos y saltearlos en una sartén con aceite. En el mismo aceite, rehogar la cebolla cortada fina y el tomate rallado. Añadir el conejo y el pollo rehogado, el caldo, el vino y el majado de ajos y pan. Dejar cocer 35 minutos. Mientras tanto, preparar una masa con la harina, 4 cucharadas de aceite y 4 de agua templada y sal. Amasar bien. Formar una bola y aplanarla.
 
 Cocerla en el horno 20 minutos. Acompañar con ella el gazpacho.

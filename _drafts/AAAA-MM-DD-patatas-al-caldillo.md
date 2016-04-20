@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg de patatas
 
 3 dientes de ajo
@@ -34,7 +33,6 @@ media cucharada de pimentón
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Se cortan las patatas en rodajas algo más gruesas que si fueran para tortilla de patata
 
 Se fríen y se apartan en una fuente

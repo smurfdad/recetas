@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de ternera
 
 2 cebollas medianas
@@ -56,7 +55,6 @@ GUARNICIóN:
 12 unidades cebolletas(francesas)
 
 <h3>Preparación</h3>
-
 Picar en juliana, la cebolla, zanahoria, ajo, puerro, tuétano y añadir el tomillo, laurel, pimienta negra y el vino tinto.
 
 Todo esto lo pondremos en un recipiente, cubriendo toda la carne, que previamente habremos troceado en tacos.

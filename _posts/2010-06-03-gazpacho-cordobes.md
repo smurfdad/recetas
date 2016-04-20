@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr piñones
 
 2 dientes de ajo
@@ -26,7 +25,6 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Poner todos los ingredientes en un cuenco, junto con un poco de vinagre y sal.
 
 Batir con la batidora e ir añadiendo poco a poco agua fría hasta que adquiera un espesor medio.

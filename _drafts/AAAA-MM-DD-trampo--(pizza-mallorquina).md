@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para la masa:
 
 1/4 harina
@@ -42,7 +41,6 @@ cebolla
 pimiento
 
 <h3>Preparación</h3>
-
 Mezclar la harina con la levadura. Añadir el huevo, el aceite, el agua y la sal. Amasar y dejar reposar 30 minutos (en lugar caliente y tapado con un paño).
 
 Amasar y extender en la bandeja del horno previamente untada de aceite. Dejar reposar un rato.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 g de pechuga de pavo
 
 2 pimientos morrones
@@ -42,6 +41,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Pelar las patata y cocerlas en agua hirviendo con sal hasta que estén tiernas pero enteras. Escurrir los pimientos morrones y cortarlos en tiras. Cortar la pechuga de pavo en dados de 3cm. Calentar la mitad del aceite y rehogar las escalonias picadas finas, agregar los pimientos y el caldo de ave. Salpimentar. Tapar la sartén y cocer a fuego bajo durante 15 minutos o hasta que estén tiernos. Incorporar el pimentón y la salsa de soja. Mezclar bien y agregar las patatas. Rectificar la sazón, si fuera necesario. Salpimentar la pechuga de pavo y saltearlas en el aceite restante. Servir el pavo con la salsa y con la guarnición de pimientos y patatas.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lengua
 
 1/4 de libra de ciruelas
@@ -44,7 +43,6 @@ Cebolla
 Ajo y pimentón al gusto
 
 <h3>Preparación</h3>
-
 Desde el día anterior se pela la lengua y se deja aliñada en el jugo de naranja.
 
 Se coloca la lengua en una autoclave y se baña con la salsa, dejándola en fuego alto hasta que salga la argolla de vapor y luego se baja a fuego mínimo por 120 minutos mínimo.

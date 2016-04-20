@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Ud. cabrito
 
 1/4 l. aceite de oliva
@@ -37,7 +36,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Limpia y corta la carne del cabrito y rehógalo en aceite bien caliente; agrégale al final, vinagre y pimentón al cochifrito.
 
 Prosigue majando en un mortero, los tres ajos previamente fritos. Cuando de tanto machacar el ajo quede

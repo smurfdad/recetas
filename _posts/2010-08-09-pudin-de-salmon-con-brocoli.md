@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de salmón freco en un trozo
 
 1/4 de brócoli
@@ -26,7 +25,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Sazonar el salmón con sal, untarlo con aceite y asarlo al horno fuerte durante 10 minutos. Desmenuzarlo retirando la piel y las espinas.
 
 Hervir el bróculi con agua y sal hasta que esté tierno pero firme. Pasarlo por agua fría y escurrirlo.

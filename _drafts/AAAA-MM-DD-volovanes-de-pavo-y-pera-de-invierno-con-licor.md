@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 pechuga de pavo.
 
 1 pera conferencia.
@@ -41,7 +40,6 @@ La cáscara de una naranja.
 20 volovanes pequeños.
 
 <h3>Preparación</h3>
-
 En un poco de aceite rehogamos un diente de ajo picado y antes de que coja color añadimos en trocitos la pera de invierno pelada y cortada en tiras.
 
 A continuación añadimos la pechuga de pavo troceada en cuadraditos pequeños, rehogamos y salpimentamos.

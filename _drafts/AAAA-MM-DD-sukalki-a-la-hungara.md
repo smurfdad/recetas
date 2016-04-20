@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 de Kilo de carne cortada en cubos de 3 o 4 cm.
 
 1 Cebolla grande.
@@ -37,7 +36,6 @@ Para 6 personas.
 1/2 Kg. de patatas.
 
 <h3>Preparación</h3>
-
 Calentar 6 cucharadas de aceite en una cazuela. Cuando este muy caliente, añadir la carne salpimentada y dorarla.
 
 Sumar la cebolla y los ajos picados. Estofar revolviendo de vez en cuando. Cuando la cebolla quiera empezar a dorarse, mojar con el vino y reducir. Sacar la carne a una cazuela de barro.

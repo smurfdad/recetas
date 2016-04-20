@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. arroz
 
 200 gr. champiñón
@@ -39,6 +38,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Cocer el arroz dejándolo al dente. Aparte, pochar una cebolla y saltear los champiñones con el ajo picado. Cuando estén todos los ingredientes listos, mezclarlos en una cacerola y añadirle el jugo de carne. Dejar cocer 2 minutos a fuego lento, espolvorear con el perejil picado y servir.
 

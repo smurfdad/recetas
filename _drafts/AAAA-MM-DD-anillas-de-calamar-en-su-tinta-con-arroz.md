@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 un kilo de anillas de calamar
 
 dos cebollas grandes y frescas
@@ -51,7 +50,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Salpimentamos y salteamos las anillas de calamar, las retiramos y las reservamos.
 
 Para la salsa: en la misma cazuela donde se han salteado las anillas, se pochan con aceite las 2 cebollas y los pimientos verdes, todo picado muy pequeño. Una vez pochado, añadimos el vino y reducimos; agregamos también el tomate frito. Luego le incorporamos el pan tostado, removiendo a conciencia. Mojamos con el caldo de pescado y dejamos cocer. Añadimos las tintas, trituramos y colamos por un chino fino. Ponemos a hervir. Introducimos las anillas salteadas, dejando hervir suavemente hasta que estén tiernas. Ponemos a punto de sal y pasar de nuevo si es que hace falta la salsa.
@@ -63,6 +61,5 @@ Cocemos el arroz en agua y sal durante 10 min. Lo escurrimos y lo enfriamos, en 
 Colocamos el arroz en el centro del plato y los calamares alrededor, decorando con unas ramitas de perejil.
 
 <h3>Observaciones</h3>
-
 El reposo de un día ayuda a que los sabores se asienten y conjunten. Aunque el tiempo de cocción del arroz parezca escaso, hay que tener en cuenta que luego se saltea y moja con la salsa
 

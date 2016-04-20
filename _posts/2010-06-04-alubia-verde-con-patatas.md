@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo alubia verde
 
 1 cebolla
@@ -25,7 +24,6 @@ agua
 sal
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y el ajo y rehogar con un poco de aceite.
 
 Una vez echo, añadir el tomate pelado y troceado dándole unas vueltas.

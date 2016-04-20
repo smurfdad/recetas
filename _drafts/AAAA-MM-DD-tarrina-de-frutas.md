@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Sobaos pasiegos
 
 300 gramos de mantequilla.
@@ -40,7 +39,6 @@ Sobaos pasiegos
 100 gramos de melocotón fresco o en almíbar.
 
 <h3>Preparación</h3>
-
 Forramos un molde de puding con los sobaos.
 
 Hacemos un relleno con la mantequilla, el azúcar glass y las almendras en polvo.

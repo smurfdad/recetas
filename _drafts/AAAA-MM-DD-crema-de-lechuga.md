@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Hojas de lechuga
 
 Un puerro
@@ -37,6 +36,5 @@ Agua
 Chorrito de nata liquida
 
 <h3>Preparación</h3>
-
 Cocer las hojas de lechuga con el puerro, las patatas, la media pastilla de caldo , agua y sal. Batir una vez cocido. Al servir echar un corretón de nata líquida.
 

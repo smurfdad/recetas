@@ -23,7 +23,6 @@ Para 1 personas.
 <b>Tiempo</b> 1200 minutos.
 
 <h3>Ingredientes</h3>
-
 una cazuela de barro
 
 aceite de oliva
@@ -43,7 +42,6 @@ tomate triturado
 3 lonchas de queso
 
 <h3>Preparación</h3>
-
 Se prepara una cazuela pequeña con poco aceite, ajo picado, un chorro de vino blanco, guindilla. Se pone al fuego.
 
 Cuando el aceite este calentito le añadimos las gambas peladas.las vamos moviendo para que no se peguen.

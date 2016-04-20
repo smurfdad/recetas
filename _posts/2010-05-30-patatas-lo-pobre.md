@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de patatas.
 
 1 kg. de cebollas.
@@ -17,7 +16,6 @@ categories:
 Sal.
 
 <h3>Preparación</h3>
-
 Se pelan y se cortan las patatas como si fueran para tortilla española.
 
 Con las cebollas hacemos lo mismo.

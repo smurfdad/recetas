@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 l. fumet de pescado
 
 ajo (picado)
@@ -36,6 +35,5 @@ chorro vino blanco
 almeja
 
 <h3>Preparación</h3>
-
 Se pone el ajo en un poquito de aceite. Una vez dorado, se agrega el fumet, la guindilla, el perejil y las almejas, teniendo que hervir durante 5 minutos.
 

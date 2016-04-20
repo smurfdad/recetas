@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. carne picada
 
 1 cebolla
@@ -40,7 +39,6 @@ tomate en lata picado
 condimentos (al gusto)
 
 <h3>Preparación</h3>
-
 Rehogar en aceite y la cebolla. Luego agregar la carne. Condimentar y mezclar hasta que la carne tome un poquito de color. Agregar el tomate, mezclar mientras se termina de cocinar la carne.(bien cocida) agregar el huevo y las aceitunas.
 
 Colocar en una asadera puré de papas mezclado con 2 huevos. Agregar la mezcla de la carne y terminar con otra capa de puré y huevo.

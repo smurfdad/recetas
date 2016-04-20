@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 de escarola.
 
 1 Tomate maduro (50gr.) rallado.
@@ -48,6 +47,5 @@ Para 4 personas.
 Sal, pimienta y aceite.
 
 <h3>Preparación</h3>
-
 Limpiamos la escarola y la reservamos. Rallamos el tomate lo aliñamos con sal y aceite y lo reservamos también. Hacemos tiritas con el salmón y con cualquier otro ahumado si le ponemos. Emplatamos poniendo: una cama o base con el tomate rallado en el centro la escarola, haciendo una montaña y sobre esta los pescados y las olivas. Aliñamos y listo.
 

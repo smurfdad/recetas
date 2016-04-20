@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 200 grs. de manteca
@@ -19,7 +18,6 @@ Para 6 personas.
 225 grs. de azúcar
 
 <h3>Preparación</h3>
-
 Batir la manteca hasta que esté blanda y esponjosa.
 
 Batir los huevos con el azúcar hasta que estén esponjosos y a continuación la harina.

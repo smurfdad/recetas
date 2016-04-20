@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. bacalao desmigado
 
 1/2 kg. de espinacas
@@ -43,6 +42,5 @@ Aceite de oliva
 Queso rallado
 
 <h3>Preparación</h3>
-
 Una vez tenemos el bacalao desmigado lo ponemos a remojo por espacio de doce horas. Ponemos una perola con un poco de aceite, ajo y cebolla todo ello picado muy fino, a fuego lento dejamos dorar, añadimos el bacalao bien desalado y escurrido, dejamos que se rehogue a fuego lento. Cocemos las espinacas, las escurrimos y las cortamos en juliana, en un soté ponemos aceite, ajo y cebolla picado todo muy fino, dejamos dorar, añadimos el jamón y la harina, dejamos que dore y poco a poco, añadimos leche hasta que nos quede una salsa fina y cremosa, añadimos las espinacas y damos un hervor, seguidamente añadimos todo ello al bacalao, dejamos cocer moviendo lo menos posible, sazonamos de sal, ponemos en pequeñas cazuelas de barro, cubrimos con queso rallado y gratinamos.
 

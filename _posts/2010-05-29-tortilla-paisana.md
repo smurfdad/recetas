@@ -10,7 +10,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 9 huevos
 
 200 grs. guisantes cocidos
@@ -28,7 +27,6 @@ Para 10 personas.
 aceite
 
 <h3>Preparación</h3>
-
 Freír las patata, cortadas en láminas, en aceite a fuego bajo.
 
 Cocer por separado cada verdura, escurrirla y cortarla en cuadraditos.

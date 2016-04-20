@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de trigo
 
 200 gr de judías blancas
@@ -42,7 +41,6 @@ pimentón
 sal
 
 <h3>Preparación</h3>
-
 Se pone previamente el trigo unas dos horas en remojo.
 
 Luego, en un mortero, se pica hasta que salta la piel, enjuagándose a continuación.

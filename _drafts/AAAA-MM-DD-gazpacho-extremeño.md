@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 dientes de ajo.
 
 1 cebolla grande.
@@ -40,7 +39,6 @@ Un chorrito de vinagre de buena calidad.
 Pimienta molida y sal.
 
 <h3>Preparación</h3>
-
 En el mortero o con una batidora, trituramos bien los ajos, a los que habremos añadido un poquito de sal; seguidamente adicionamos aceite y vamos ligando la salsa como si se tratase de un alioli.
 
 Cuando quede cremoso, añadimos la miga de pan, previamente remojada en agua y escurrida.

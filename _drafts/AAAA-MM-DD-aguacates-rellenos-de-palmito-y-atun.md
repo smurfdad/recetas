@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 aguacates partidos por la mitad
 
 1 limón su jugo
@@ -42,6 +41,5 @@ Para 4 personas.
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Parta los aguacates por la mitad y rocíelo con jugo de limón para que no se oxide. Se mezclan muy bien el atún, palmito, las aceitunas, la mayonesa, el yogurt, sal, pimienta y el perejil. Se rellenan los aguacates y se sirven.
 

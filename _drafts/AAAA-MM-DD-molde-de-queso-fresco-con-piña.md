@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 g de queso fresco
 
 75 g de azúcar
@@ -36,6 +35,5 @@ Para 4 personas.
 1 lata pequeña de piña en almíbar
 
 <h3>Preparación</h3>
-
 Poner las hojas de gelatina en remojo. Calentar el zumo de naranja, sin que hierva, con el azúcar hasta que se haya disuelto y fuera del fuego agregar las hojas de gelatina escurridas. Batir con varillas y agregarlas al queso junto con la ralladura de naranja. Llenar un molde y meter en la nevera durante 3 horas. Escurrir la piña y triturar 2 en la batidora con 1 dl del almíbar de la lata. Pasar la salsa por un colador y reservar. Cortar la piña reservados en gajos. Desmoldar el queso, adornarlo con la piña y rociar con la salsa.
 

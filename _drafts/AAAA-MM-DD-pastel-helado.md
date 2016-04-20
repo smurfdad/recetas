@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Galletas tipo Marías (las necesarias)
 
 1/4 Kgs Mantequilla
@@ -32,7 +31,6 @@ Galletas tipo Marías (las necesarias)
 1 lata de Clavel
 
 <h3>Preparación</h3>
-
 Se prepara una mezcla de 200 grs aproximadamente de la mantequilla y el café, batiendola hasta que quede bien integradoas los dos ingredientes.
 
 Se prepara una mezcla de las dos latas de leche (Condensada y Clavel), revolviendolas perfectamente.

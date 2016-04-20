@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de pimientos del piquillo.
 
 1 lata pequeña de tomate triturado
@@ -23,7 +22,6 @@ un poco de aceite
 sal, azúcar
 
 <h3>Preparación</h3>
-
 Pochar la cebolla en el aceite y cuando vaya a empezar a dorarse añadir el ajo picado, los pimientos cortados a tiras y sofreír un poco.
 
 Añadir el tomate, una cucharadita de azúcar y la sal necesaria.

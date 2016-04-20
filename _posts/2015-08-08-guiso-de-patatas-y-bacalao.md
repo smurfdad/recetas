@@ -29,7 +29,6 @@ Para 4 personas.
 - Sal
 
 <h3>Preparación</h3>
-
 Pelamos y lavamos las patatas, las partimos en trozos no muy grandes, cascándolas para que el corte quede roto y suelten la fécula engordando el caldo del guiso.
 
 Reservamos en agua fría con unas gotas de limón o vinagre para que no se oxiden.

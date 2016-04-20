@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 PARA EL PURé
 
 1 kg. de patata para
@@ -43,7 +42,6 @@ Sal de humo
 Huevas de trucha
 
 <h3>Preparación</h3>
-
 Puré de patata: Cocer la patata y pasar por el pasapurés. Añadir aceite de oliva y sal.
 
 Sardinas: Limpiar las sardinas de toda espina. Freír en aceite.

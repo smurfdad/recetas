@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo filetes de bacalao
 
 aceite
@@ -46,7 +45,6 @@ huevo batido
 pan rallado
 
 <h3>Preparación</h3>
-
 Poner los filetes de bacalao desalados a marinar en una cazuela de barro, sazonados con sal, pimienta blanca y nuez moscada.
 
 Agregar la cebolla cortada en rodajas y el perejil picado fino.

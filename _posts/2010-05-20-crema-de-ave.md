@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. zancarrón de buey
 
 1 hueso de rabadilla o rodilla
@@ -26,7 +25,6 @@ un trozo de gallina de la pata
 1 huevo
 
 <h3>Preparación</h3>
-
 Se pone a cocer la carne, el hueso, y las verduras en la olla rápida con dos litros de agua. Se deja cocer durante 1/2 hora (si se cuece en puchero normal se necesitan por lo menos 2 horas).
 
 Se aparta un poco de caldo y cuando esté frío, se disuelven 2 cucharadas colmadas de harina.

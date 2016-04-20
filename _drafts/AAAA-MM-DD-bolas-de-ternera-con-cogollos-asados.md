@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de ternera picada
 
 4 cogollos de lechuga
@@ -58,7 +57,6 @@ Para la salsa rubia:
 1 tazón de caldo de carne
 
 <h3>Preparación</h3>
-
 Se pone un poco de manteca de cerdo en una sartén y se rehoga la cebolla picada. Cuando esté blanda, se añade el ajo y se rehoga también. Se pone la carne picada en un bol y se echa sobre ella el sofrito anterior.
 
 Añadimos sal, pimienta y el perejil picado. Se añaden los huevos y se mezcla bien. Se espolvorea con pan rallado fresco y se vuelve a mezclar. Por último se añade un poco de vino blanco y otro poco de Oporto. Con esta mezcla se van haciendo bolas de ración, trabajando con las manos, y se van envolviendo en la tela de cerdo (redaño). Se pueden atar con liz, pero no es imprescindible.

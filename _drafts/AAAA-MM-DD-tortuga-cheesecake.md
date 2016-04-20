@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Base:
 
 1 1/2 paquetes de galletas marias
@@ -56,7 +55,6 @@ nuez picada
 100 grs de chocolate oscuro
 
 <h3>Preparación</h3>
-
 Base:
 
 Se muelen las galletas y se mezclan los ingredientes hasta formar una pasta y se cubre el molde (desmoldable)

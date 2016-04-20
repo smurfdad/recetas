@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200gr de Ruccula
 
 100 gr. de Hojas de Lechuga verde
@@ -45,6 +44,5 @@ Menta Fresca
 Sal, Pimienta
 
 <h3>Preparación</h3>
-
 Pelar y cortar las patatas en trozos. Limpie el puerro y córtelo en trozos. Póngalo en una cacerola con la mantequilla y 3 cucharadas de caldo, cocine hasta que esté blando. Añada las patatas y el caldo restante. Continúe con la cocción hasta que las patatas estén blandas, entonces triture. Limpie la Rúccula y la lechuga, pártalas en trozos (rústicamente), y únalas ahora al puré y cocine durante 5 minutos. Diluya la harina o la fécula en la leche, y añádala a la sopa. Salpimentar. Deje hervir unos minutos hasta que esté espesa. Espolvoree con las hojas de menta cortadas finamente. Sirva humeante.
 

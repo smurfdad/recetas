@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cucharada de aceite
 
 1 cebolla, cortada en cubitos
@@ -27,5 +26,4 @@ Para 4 personas.
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Calentar el aceite en una olla grande. Añada la cebolla y cocínela hasta que esté suave. Agregue la berza picada y cocine por 3 minutos más. Agregue los demás ingredientes y haga hervir. Reducir el fuego y cocine a fuego lento por 45 minutos.

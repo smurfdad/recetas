@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250g de chauchas cocidas
 
 3 zanahorias cocidas
@@ -38,7 +37,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Hacer un mezcla con las chauchas, las zanahorias, las arvejas y la miga de pan.
 
 Agregarle a la preparación los huevos batidos y la crema de leche. Salpimentar a gusto.

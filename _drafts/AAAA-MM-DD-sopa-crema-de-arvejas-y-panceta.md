@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500g arvejas frescas
 
 2 cucharadas de harina
@@ -38,7 +37,6 @@ Para 4 personas.
 150 g de panceta en cubos pequeños
 
 <h3>Preparación</h3>
-
 En una olla grande ponga las arvejas en agua con sal que las cubra unos 2 cm, tápela y cocine por 15 minutos. Luego coloque las arvejas con el agua de cocción en una licuadora o procesadora junto con la harina y procese hasta lograr una mezcla suave y homogénea.
 
 Vuelque en la olla y póngala a fuego moderado, agregue la manteca, el caldo, la sal y la pimienta, y espere a que suelte el hervor. Baje la llama al mínimo y deje que la sopa se cocine por 2 minutos revolviendo de vez en cuando. Incorpore la crema de leche y deje cocinar unos minutos más.

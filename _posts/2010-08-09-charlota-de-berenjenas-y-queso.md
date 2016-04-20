@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 berenjenas
 
 2 tomates
@@ -35,7 +34,6 @@ albahaca
 perejil
 
 <h3>Preparación</h3>
-
 Pela las patatas y córtalas en rodajas. Ponlas a cocer en una cazuela con agua y una pizca de sal.
 
 Limpia las berenjenas y córtalas en rodajas en diagonal y sálalas. Pon aceite en una sartén y fríe las rodajas de berenjena brevemente hasta que queden moldeables. Pica las puntas de las berenjenas en dados.

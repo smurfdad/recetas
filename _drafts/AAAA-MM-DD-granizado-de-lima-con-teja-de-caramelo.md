@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 limas
 
 5 dl de agua mineral
@@ -39,6 +38,5 @@ Para LA TEJA DE CARAMELO:
 1 dl de agua mineral
 
 <h3>Preparación</h3>
-
 En un recipiente mezclar el agua, la lima y el azúcar. Congelar ligeramente. Pasar por el termomix y volver a congelar un poco, continuar así hasta conseguir el granizado. Para la teja de caramelo, fundir la glucosa, el fondant y el agua a 120 grados. Extender sobre una hoja de silpat. Dejar enfriar y cortar en trozos para decorar; puede añadirse también una hoja de menta.
 

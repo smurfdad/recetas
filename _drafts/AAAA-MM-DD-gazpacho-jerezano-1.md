@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 dientes de ajo
 
 1 pimiento verde
@@ -42,7 +41,6 @@ Vinagre de Jerez
 Agua
 
 <h3>Preparación</h3>
-
 Majar en un mortero los ajos, la sal y l pimiento troceado. Pasarlo a una gazpachera o a un bol grande y añadirle el pan remojado en agua y escurrido.
 
 Agregar el tomate y el pepino troceados y pelados.

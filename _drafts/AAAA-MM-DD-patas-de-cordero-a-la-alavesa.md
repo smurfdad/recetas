@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 16 patitas de cordero.
 
 2 pimientos choriceros.
@@ -63,7 +62,6 @@ Pimentón.
 Harina.
 
 <h3>Preparación</h3>
-
 Las patas de cordero, con el resto de los ingredientes, se ponen en una olla, se cubren de agua y se dejan cocer durante veinte minutos, si es una olla de presión, o una hora, si es una olla normal. Una vez cocidas, se sacan y se colocan en un plato.
 
 Mientras las patas cuecen, se hace la salsa. En una sartén, con aceite, se ponen la cebolla y el pimiento verde picados y dos dientes de ajo pelados. Se rehogan hasta que tomen color.

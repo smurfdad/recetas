@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Patata gorda.
 
 1 Puerro.
@@ -41,6 +40,5 @@ Aceite.
 Sal.
 
 <h3>Preparación</h3>
-
 Cocer los mejillones hasta que se abran. Sacarlos de sus conchas y reservar algunos y el caldo. En una olla rehogar la patata, el puerro, la zanahoria y el puré de tomate. Cuando esté rehogado añadir el caldo de los mejillones colado, los mejillones y sal. Cocer durante 15 ó 20 minutos. Añadir la leche y dejar cocer otros 5 minutos. Hacer una crema y añadir los mejillones reservados picados. Servir caliente.
 

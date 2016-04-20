@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 700 gramos de carne de ternera en trozos
 
 50cc de aceite de oliva
@@ -50,7 +49,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Dorar los trozos de carne en una olla grande. Retirarlos y colocarlos en una sartén.
 
 Dorar la panceta en fetas a fuego fuerte y agregarle las cebollas picadas, el ajo y las zanahorias. Agregar los tomates, espolvorear la harina e incorporar esta preparación a la carne.

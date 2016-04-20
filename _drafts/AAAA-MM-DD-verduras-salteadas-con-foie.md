@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 alcachofas
 
 300 gr. de cardo (parte blanca)
@@ -60,7 +59,6 @@ sal
 4 l. de agua
 
 <h3>Preparación</h3>
-
 Limpiar y cocer las verduras, cada una por separado. Escurrir bien y saltearlas con aceite de oliva bien caliente. Coloca un montoncito en cada plato.
 
 Salpimimentar el foie, pasarlo por la plancha y colocarlo encima de las verduras. Salsear el plato.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 50 gr. de pimiento rojo troceado
 
 40 gr. de pimiento verde
@@ -33,7 +32,6 @@ Aceite de oliva
 Harina
 
 <h3>Preparación</h3>
-
 Cortar el conejo en 10/12 piezas. Salpimentar y enharinarlas.
 
 Dorarlas en la cazuela con aceite de oliva y reservar. En la misma cazuela, rehogar las hortalizas. Una vez rehogadas, añadir las setas limpias y troceadas.

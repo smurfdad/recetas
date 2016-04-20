@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gr. de fideos gordos
 
 100 gr. de costilla de cerdo
@@ -51,6 +50,5 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Se pone al fuego una cazuela de barro con el aceite y la manteca. Una vez caliente, se fríe la costilla de cerdo y se echan las sangres de los menudillos, partidas por la mitad. Cuando estén bien fritas, se añaden los ajos picados y, una vez dorados, se echa el tomate, pelado y picado, y se sazona con sal. Una vez ligada la salsa, se añade el jamón cortado en cuadraditos y el perejil picado, se remueve y se riega con unos dos litros de agua (8 vasos). Se deja cocer unos quince minutos. A continuación se echan los fideos, dejándolos cocer 20 minutos más a fuego suave. Por último se añaden los hígados picados y los piñones, se revuelve, se deja cocer 10 minutos más y se retira del fuego. Se sirve bien caliente, en la misma cazuela, con el queso aparte.
 

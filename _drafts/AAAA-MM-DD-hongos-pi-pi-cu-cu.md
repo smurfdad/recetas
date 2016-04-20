@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 14 hongos grandes
 
 1 taza de salsa de tomate cocida.
@@ -32,7 +31,6 @@ media taza de manteca mezclada con perejil ,ajo ,pimenton, oregano y una gota de
 1 cucharada de parmezan(o cualquier queso de rallar)
 
 <h3>Preparación</h3>
-
 Con la preparacion de la manteca mencionada ,untemos dos cazuelas de barro en lo posible (para horno).
 
 Ahuecar los hongos quitandoles el tronquito,untar con la mantequilla preparada y colocarlos en la cazuela con el hueco hacia arriba.

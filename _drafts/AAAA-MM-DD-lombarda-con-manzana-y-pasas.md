@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lombarda pequeña.
 
 3 manzanas.
@@ -43,7 +42,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Pelamos y cortamos en trozos regulares las manzanas.
 
 Espolvoreamos las manzanas con azúcar, una pizca de sal y el vino blanco, y las introducimos en el microondas durante 8 minutos a máxima potencia. Una vez asadas las reservamos.

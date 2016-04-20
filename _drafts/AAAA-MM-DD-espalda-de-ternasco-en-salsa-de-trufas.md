@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 espalda de ternasco
 
 20 gr. de trufas de invierno
@@ -43,7 +42,6 @@ l copita de vino tempranillo del Somontano (Huesca)
 Sal, pimienta y ajo
 
 <h3>Preparación</h3>
-
 Pedimos al carnicero que nos marque la espalda en trozos.
 
 En una cazuela con la mitad del aceite freír la cebolla, el puerro y la zanahoria, todo picado.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 vasos de harina
 
 1 1/2 vaso de azúcar en polvo
@@ -33,10 +32,8 @@ Para 6 personas.
 Frutos secos machacados
 
 <h3>Preparación</h3>
-
 Mezclar la harina con el azúcar y la nata. Untar el molde con aceite, poner la mezcla igualando la superficie , untarla con aceite y esparcir los frutos secos. Meter en horno a temperatura mediana. Servir fría.
 
 <h3>Observaciones</h3>
-
 Calentar el horno 10 minutos antes de meter el molde.
 

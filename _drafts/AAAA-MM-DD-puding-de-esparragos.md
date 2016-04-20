@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lata de esparragos escurridos
 
 3 huevos
@@ -39,7 +38,6 @@ mahonesa para cubrir
 lechuga para adornar
 
 <h3>Preparación</h3>
-
 Se echa todo en la batidora, que quede bien batido.
 
 Se engrasa un molde adecuado para el horno y se pone al baño maría hasta que cuaje, en horno medio, luego se saca se deja enfriar.

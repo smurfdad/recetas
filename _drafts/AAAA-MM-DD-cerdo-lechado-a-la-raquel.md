@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. maza de cerdo
 
 1 cebolla mediana
@@ -44,6 +43,5 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se pone aceite en la olla rápida y la carne se rehoga hasta dorar con sal y pimienta. Una vez rehogado, se retira de la olla y en el mismo aceite se sofrie la cebolla, los ajos, las zanahorias cortadas, el puerro troceado y el calabacin en trozos. Se pocha todo bien y se insorpora la carne y el vino. Se tapa y se deja cocer 1 hora y media. Se saca la carne y se deja enfriar para hacerla filetes. La verdura se pasa por el pasa-puré y en una fuente se colocan los filetes y se rocian con la verdura. Se da un hervor y se puede acompañar de patatas fritas.
 

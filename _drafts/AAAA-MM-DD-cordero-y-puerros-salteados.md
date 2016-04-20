@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 g. de pierna de cordero deshuesada
 
 6 puerros tiernos
@@ -42,6 +41,5 @@ categories:
 Pimienta negra reciin molida
 
 <h3>Preparación</h3>
-
 Cortar la carne en filetitos finos, de 2x4 centmmetros aproximadamente. Los puerros cortarlos en discos de unos 2 centmmetros, que no se os desbaraten, pero pasarlos bien por agua para que no les quede tierra. Cortar el ajo en lamas finas y el jengibre en juliana fina. Sazonar la carne de cordero con sal. Calentar el aceite y la manteca en el wok. Una vez bien caliente el aceite, saltear el cordero, junto con el ajo y el jengibre, un par de minutos seran suficientes, aqadir los puerros y seguir salteando por un par de minutos mas. Regar con la salsa de soja, vino y espolvoreais con la pimienta. Servir bien caliente
 

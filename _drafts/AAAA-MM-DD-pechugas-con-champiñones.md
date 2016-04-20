@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 200 gr. de queso Philadelphia a las finas hierbas
 
 400 gr. de champiñones laminados
@@ -45,7 +44,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Bate la leche con el queso. Salpimenta las pechugas. Rebózalas por este orden: harina, huevo y pan rallado. Fríe, escurre y reserva.
 
 Saltea los champiñones en aceite, salpimenta y retíralos a una cazuela con el pollo. Mezcla el queso con la leche, y añádela a la cazuela. Espolvorea con nuez moscada y deja dar un hervor.

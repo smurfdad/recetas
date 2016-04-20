@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 lisas grandes
 
 Papel aluminio
@@ -54,7 +53,6 @@ El jugo de 1 limón
 Pimienta negra recién molida, al gusto
 
 <h3>Preparación</h3>
-
 Se cortan las lisas de la cabeza a la cola por la parte de abajo, se limpian (quitarles las v&igrave;sceras y las huevas), se lavan y se reservan.
 
 Se cocinan en agua hirviente la zanahoria y la papa hasta que ablanden (unos 8 minutos).

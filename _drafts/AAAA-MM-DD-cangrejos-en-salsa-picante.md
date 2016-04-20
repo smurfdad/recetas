@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 bueyes de mar de tamaño mediano/pequeño
 
 2 escalonias
@@ -47,7 +46,6 @@ azúcar 1 cucharada de salsa de soja
 Maicena y sal
 
 <h3>Preparación</h3>
-
 Los cuerpos de los bueyes se cortan en trozos, les quitaremos las branquias y los órganos digestivos, especialmente unas bolsitas que tienen cerca de la boca, ya que amargan.
 
 Las pinzas y patas, las aplastaremos para que se resquebrajen, así cocerán más rápido y serán más fácil de comerlas. Los trozos del caparazón, los pasaremos por maicena y los freiremos, una vez a punto los sacaremos del wok y reservaremos en lugar templado. Al final de esta fritura, en el wok nos tienen que quedar como dos cucharadas de aceite. Salteamos escalonias y ajos, estos bien picados, después añadir la guindilla picada, condimentando con el azúcar, salsa de soja, tomate concentrado y jengibre, saltear todo el conjunto. Verter de golpe el caldo caliente y dejar que se reduzca durante un minuto a fuego vivo. Añadir los trozos de cangrejo, así como patas y pinzas, cocer a fuego lento durante media docena de minutos. La salsa tiene que quedar algo espesa.
@@ -55,6 +53,5 @@ Las pinzas y patas, las aplastaremos para que se resquebrajen, así cocerán má
 Servir caliente, adornar con algunas hojas de berros o producto similar.
 
 <h3>Observaciones</h3>
-
 Aunque este plato se sirve en todas las zonas del lejano oriente, parece ser que su origen es pequinés
 

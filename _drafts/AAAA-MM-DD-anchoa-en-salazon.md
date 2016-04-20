@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una rebanada de pan recién tostada
 
 una anchoa en salazón del Cantábrico
@@ -36,7 +35,6 @@ vino blanco
 un poco de ajo
 
 <h3>Preparación</h3>
-
 Primeramente pochamos la guindilla y las tiras de pimiento verde en aceite y luego dejamos macerar en el vino blanco con un poco de ajo.
 
 Sobre el pan recién tostado, colocar la guindilla picante, la anchoa y los pimientos verdes.

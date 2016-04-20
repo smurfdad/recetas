@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo deshuesadas y lavadas
 
 2 chiles anaheim tatemados y limpios
@@ -35,7 +34,6 @@ pimienta para sazonar
 1 cucharada sopera de margarina.
 
 <h3>Preparación</h3>
-
 Se sazonan las pechugas si están muy gruesas se adelgazan se pone a calentar la mantequilla y se le agregan las pechugas.
 
 Se licúa la crema, chile y el cubito de pollo. ya que estén cocidas las pechugas se le agrega lo licuado.

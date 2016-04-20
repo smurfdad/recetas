@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 kg. de huevas
 
 4 tomates
@@ -39,6 +38,5 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Se lavan las huevas con agua fría. Se cuecen en agua hirviendo, a la que anteriormente se habrá incorporado un poco de vinagre y sal. (Es preciso echarlas justo cuando el agua esté hirviendo, porque si se hace antes, revientan). Se dejan enfriar y se cortan en rodajas de un centímetro de grosor. Aparte se prepara un picado de tomate, pimiento y cebolla, que se remueve con abundante aceite y vinagre, y se vierte sobre las huevas.
 

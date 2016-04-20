@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 filetes de Ternera
 
 Alcaparras
@@ -25,7 +24,6 @@ Limón
 Tranchetes
 
 <h3>Preparación</h3>
-
 Se pone la carne, después se pican los ajos, 3 o 4 ramitas de romero, las alcaparras, el tomate y se le exprime un limón.
 
 Todo esto a fuego lento unos 30 minutos.

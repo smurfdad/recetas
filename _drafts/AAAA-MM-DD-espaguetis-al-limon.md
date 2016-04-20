@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de espaguetis
 
 1 cucharadita de ralladura de limón
@@ -45,6 +44,5 @@ Sal, pimienta y perejil picado
 Para hervir los espaguetis: aceite de oliva, sal y una hoja de laurel.
 
 <h3>Preparación</h3>
-
 En una olla poner a hervir los espaguetis según el tiempo recomendado por el fabricante, con un chorrito de aceite de oliva, laurel y sal. Mientras tanto, en una sartén a fuego medio derretir la mitad de la mantequilla y sofreir la cebolla picada fina, el diente de ajo picado y el perejil. Cuando la cebolla esté transparente, agregar la nata, la pimienta, el zumo y la ralladura de limón. Darle unas vueltas y dejar que se ligue todo bien. Cuando los espaguetis estén en su punto, escurrirlos y agregarlos a la salsa anterior. Darle unas vueltas e incorporar el queso parmesano.
 

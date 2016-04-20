@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 taza de harina de garbanzos
 
 2 cucharadas de aceite de maní
@@ -60,7 +59,6 @@ Para 4 personas.
 1 porción de la receta del Chutney de menta y coriandro
 
 <h3>Preparación</h3>
-
 Combina los primeros 11 ingredientes en un tazón y mezcla hasta suavizarlos. Deja que la mezcla repose a temperatura ambiente por 30 minutos. La mezcla puede refrigerarse hasta 2 días.
 
 Corta los vegetales en lascas finitas. Calienta el aceite. Sumerge los vegetales en la mezcla y fríelos en grupos de 3 a 4 a la vez, por ambos lados, hasta que se doren y se cocinen. Escurre en papel toalla y sirve con el chutney.

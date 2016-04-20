@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 dos postas de salmon rosado de 200grs
 
 champagne 1/4 litro crema de leche 250grs
@@ -36,6 +35,5 @@ harina y cebollitas reaogadas en manteca
 papas noisset cocidas en aceite 250grs
 
 <h3>Preparación</h3>
-
 Doraro el salmon de los dos lados sin secarlo en aceite de oliva cuando tenga el punto deseado agregarle el champagne cuando este haya reducido su alcohol agregar la crema las cebollitas sal y pimienta a gusto tratar de que la sadsa quede bien espesa por otro lado calentar las papas noisset y servir no con mucha salsa ...
 

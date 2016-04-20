@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tartaletas de chocolate
 
 250g de frambuesas
@@ -21,7 +20,6 @@ Para 4 personas.
 Menta fresca
 
 <h3>Preparación</h3>
-
 Mezclar el queso con el azúcar y el cacao en polvo con la ayuda de la batidora eléctrica. Rellenar las tartaletas con la mezcla hasta cubrirlas y disponer por encima las frambuesas.
 
 Decorar las tartaletas con una hojita de menta fresca.

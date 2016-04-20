@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 pechugas
 
 sal
@@ -29,7 +28,6 @@ leche
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Poner las pechugas en un Bol, cubriéndolas de leche y mantenerlas toda la noche en el frigorífico.
 
 En una cazuela poner un poco de aceite y añadir la cebolla y el ajo, picado muy fino y dejar hacerse despacio, sin dejar que tome color.

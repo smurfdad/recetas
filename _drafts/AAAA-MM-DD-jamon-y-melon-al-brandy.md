@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 melones
 
 150 gr. de jamón serrano en lonchas gruesas
@@ -30,7 +29,6 @@ Para 4 personas.
 brandy y sal
 
 <h3>Preparación</h3>
-
 Partir los melones por la mitad, quitarles las pepitas y sacar la carne con un sacabolas o con una cuchara y cortarlo en daditos (si no se hace con el sacabolas).
 
 Cortar el jamón en juliana muy fina.

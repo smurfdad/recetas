@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 gr. de cigalas frescas
 
 200 gr. de langostinos o gambas blancas frescas
@@ -52,7 +51,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se cuece el marisco con agua y sal al gusto. Una vez cocido se saca y se deja unos minutos en hielo para que se enfríe.
 
 A continuación, se pela todo el marisco, sacando cuidadosamente la carne. Se pasan los caparazones y las cabezas por un colador chino par extraer su jugo que se reserva. En una tarrina se mezcla la mayonesa con el tabasco, la salsa Perrins, la mostaza, el vinagre, una cucharadita de agua de las trufas y el jugo del marisco y se reserva. Se mezclan la lechuga, la col, la zanahoria y el apio con la carne de las patas de las cigalas y los langostinos cortados a trocitos. Se añade la salsa y se mezcla.

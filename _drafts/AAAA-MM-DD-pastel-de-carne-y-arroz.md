@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 500g carne picada
 
 1 cebolla
@@ -41,7 +40,6 @@ sal, pimienta
 100g queso rallado
 
 <h3>Preparación</h3>
-
 Dorar la cebolla en aceite, agregar la carne, el tomate, el perejil, sal, pimienta y cocinar suave 10 min.
 
 Aceitar una fuente para horno, acomodar el arroz condimentado en el fondo y bordes., volcar la carne, espolvorear con queso rallado y por último los huevos batidos con la leche, sal y pimienta. Llevar a horno y gratinar.

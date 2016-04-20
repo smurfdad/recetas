@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 gramos de mero
 
 1 bandeja de setas
@@ -24,7 +23,6 @@ leche semidesnatada o desnatada
 aceite de oliva y sal (optativo)
 
 <h3>Preparación</h3>
-
 Trocear el mero en filetes, hacerlo a la plancha y reservarlo en una cazuela.
 
 Preparar la salsa:

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de bacalao fresco
 
 300 grs.de almejas
@@ -55,7 +54,6 @@ Agua
 Perejil
 
 <h3>Preparación</h3>
-
 Salar y enharinar los filetes de bacalao; sofreírlos en una cazuela con aceite bien caliente. Cuando empiecen a cambiar de color, añadir las gambas, los langostinos y las cigalas junto al ajo y perejil cortados.
 
 A los 3 minutos separar el marisco y añadir el vino, el caldo y los guisantes, previamente escaldados. Abrir con agua caliente los mejillones y las almejas.

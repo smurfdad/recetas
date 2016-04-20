@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 litro de leche
 
 8 yemas
@@ -36,6 +35,5 @@ Para 4 personas.
 8 cucharadas de miel
 
 <h3>Preparación</h3>
-
 En un cazo hondo se pone a cocer la leche con la rama de canela, reservando unas cucharadas. En un bol se disuelve la Maicena con las cucharadas de leche, se incorporan las yemas y el azúcar y se bate todo ligeramente. Sobre esta crema se va añadiendo la leche hervida a chorro y se va disolviendo; se pasa por un colador fino. Se pone todo en el cazo a fuego suave, removiendo con una espátula de madera, hasta que vaya a romper el hervor, entonces se retira del fuego y se deja enfriar. Se presentan estas natillas rociadas con un caramelo de miel que se elabora poniendo la miel al fuego en una sartén y dejando que tome este punto.
 

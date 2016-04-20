@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 codornices
 
 200 gr. de jamón
@@ -46,7 +45,6 @@ perejil
 laurel
 
 <h3>Preparación</h3>
-
 Freír los trocitos de tocino en el aceite, retirarlo y, en la misma grasa, rehogar el jamón cortado en daditos. Sacarlo. Sazonar y dorar las codornices, flamearlas con el brandy.
 
 Cuando se apague, añadir el vino, el tomate, perejil, laurel, el tocino y el chocolate rallado. Tapar la cazuela y cocer 20 minutos.

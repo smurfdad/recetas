@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 gr. de fresas
 
 4 fresas bonitas para decorar
@@ -40,7 +39,6 @@ el zumo de un limón
 unas hojas de menta
 
 <h3>Preparación</h3>
-
 Se lavan las fresas en agua con un chorro de limón. Se les quitan los rabos y se escurren bien. Se reservan unas cuantas para decorar y el resto se pone en una cazuela al baño de maría. Se le añade el azúcar glace, 6 cucharadas soperas de agua u el zumo de medio limón. Se mezcla y se deja hervir a baño de maría suave, durante 10 o 15 minutos.
 
 Se deslíe la maizena con 5 cucharadas soperas de agua fría. Se baten las fresas y se pasan a una cazuela. Se añade la maizena desleída y se hierve durante unos minutos, a fuego muy suave, sin dejar de remover, hasta que espese. Se retira del fuego, se le añade la yema de huevo batida, removiendo, y se deja enfriar.

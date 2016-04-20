@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 Kg de patatas
 
 10 blancos de puerro
@@ -40,7 +39,6 @@ sal
 agua
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla, el ajo y la zanahoria, poniéndolo en una cazuela con un poco de aceite, para que se vaya rehogando despacio.
 
 Una vez echa la verdura, añadir las patatas cortadas a mordiscos y los puerros en trozos no demasiado pequeños.

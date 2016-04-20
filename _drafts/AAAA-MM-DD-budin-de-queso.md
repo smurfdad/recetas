@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 cc de leche descremada
 
 2 rodajas de pan de salvado descortezado
@@ -42,7 +41,6 @@ pimienta
 1 cdta. de polvo de hornear
 
 <h3>Preparación</h3>
-
 Remojar el pan en la leche tibia y salpimentar. Agregar la ricota, la cebolla picada, el perejil y el huevo.
 
 Incorporar las 2 claras batidas a nieve y el polvo de hornear con movimiento envolventes.

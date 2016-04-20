@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de guisantes pelados.
 
 3 cebollas.
@@ -39,7 +38,6 @@ Medio kilo de gambas.
 1 cucharada de harina.
 
 <h3>Preparación</h3>
-
 Picar la cebolla y rehogarla con un chorrito de aceite.
 
 Cuando este pochada, añadir los guisantes, escurrir de agua, poner a punto de sal y cocer unos 20-25 minutos.

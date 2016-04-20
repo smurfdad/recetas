@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 1 merluza abierta sin espina (como un librito)
 
 3 ó 4 cebollas
@@ -37,7 +36,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Cortar de cebolla pequeña y pocharla bien, poner la mitad en una fuente del horno bien extendida y encima poner la merluza abierta añadir la sal.
 
 Poner el resto de la cebolla en un cazo con las gambas y rehogar en ellas la harina, sal, añadir la leche sin dejar de remover, cuando espese un poco hecharla encima de la merluza, penerla en el horno precalentado a 200&ordm; unos 20 minutos.
@@ -45,6 +43,5 @@ Poner el resto de la cebolla en un cazo con las gambas y rehogar en ellas la har
 Servir caliente.
 
 <h3>Observaciones</h3>
-
 Se puede acompañar de verduritas ó patatas panaderas.
 

@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 l. de leche (o 1 de leche y 1/2 de nata líquida)
 
 300 grs. de azúcar
@@ -21,7 +20,6 @@ Para 8 personas.
 200 grs. de nueces peladas
 
 <h3>Preparación</h3>
-
 Poner a hervir la leche con la canela y corteza de limón.
 
 Mientras, triturar las nueces, que deben quedar prácticamente molidas, ya que cuanto más picadas estén, engorda más la crema.
@@ -37,5 +35,4 @@ Si es plato solo, servir en cuencos individuales, adornado con unos trocitos de 
 Si es como acompañamiento, en salsera aparte.
 
 <h3>Observaciones</h3>
-
 Para tomarlo solo o acompañando a otro postre

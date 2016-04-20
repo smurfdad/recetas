@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Una pierna de cordero de buen tamaño, si es grande mejor.
 
 Romero fresco.
@@ -38,7 +37,6 @@ Vino blanco seco.
 Miel.
 
 <h3>Preparación</h3>
-
 Hacerle un pequeño corte a la pierna de cordero en la parte media anterior, y extraer la glandula alli ubicada para evitar el mal gusto que pudiera originar. Aprovechar ese corte e introducir unas ramitas de romero.
 
 Con un cuchillo fino, practicar pequeños cortes profundos en buena cantidad e introducir en ellos ramitas de romero.

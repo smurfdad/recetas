@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 papas grandes
 
 1 pote de salsa de spagueti
@@ -42,7 +41,6 @@ Para 4 personas.
 Agua hirviendo para las papas
 
 <h3>Preparación</h3>
-
 En una olla o cardero grande hechas las 4 papas en agua a hervir a fuego alto.
 
 Cuando las papas esten hechas ya las pones en un envase a escurir con todo y cascara.

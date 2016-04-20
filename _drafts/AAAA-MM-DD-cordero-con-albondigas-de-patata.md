@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1,6 kg. pierna de cordero lechal deshuesada
 
 100 gr. hojas de acelgas
@@ -41,7 +40,6 @@ Para 8 personas.
 cacao en polvo para decorar
 
 <h3>Preparación</h3>
-
 Hervir las hojas de acelga ,dejarlas enfriar y colocarlas en un paño húmedo. Poner una pequeña cantidad de mousse de solomillo de cerdo en la fuente. A continuación colocar la pierna de cordero previamente dorada en la sartén y envolverla con las hojas de acelga. Poner en el horno y cocerlo durante 25 minutos a 160 grados.
 
 Para las albóndigas:

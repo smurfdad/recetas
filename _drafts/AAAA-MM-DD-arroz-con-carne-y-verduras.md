@@ -25,7 +25,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Para 6 personas:
 
 600 gr.. de arroz
@@ -49,7 +48,6 @@ Para 6 personas:
 1 sobrecito de azafrán en hebras
 
 <h3>Preparación</h3>
-
 Cortar el pollo y el conejo en trozos pequeños, limpiar las judías y trocearlas. Calentar el aceite en la paella y freír los trozos de pollo y conejo con un poco de sal. Una vez rehogados añadir los ajos, las judías y el pimiento limpio de pepitas. remover y dejar cocer un poco
 
 a continuación añadir el tomate sin piel cortado a tacos pequeños, junto con el azafrán.
@@ -59,7 +57,6 @@ Añadir el agua, en proporción de dos medidas de agua por cada una de arroz y d
 Continuar la cocción durante unos 20 minutos más. Retirar la paella del fuego y dejar reposar durante 5 minutos, tapándola con un papel de periódico para que absorba la humedad sobrante.
 
 <h3>Observaciones</h3>
-
 Puede añadirse colorante alimentario para darle color.
 
 Puede añadirse o sustituir la sal por un dado de caldo concentrado, según gustos.

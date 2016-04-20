@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 peras
 
 1 dl de zumo de limón
@@ -36,6 +35,5 @@ Para 4 personas.
 50 g de azúcar glass
 
 <h3>Preparación</h3>
-
 Pelar, descorazonar y cortar las peras en gajos. Rociarlos con el zumo de limón. Rehogarlos en la mantequilla caliente, a fuego muy suave. Disponerlos en una fuente de horno y mojar con el licor de pera. Montar las claras con el azúcar a punto de nieve firme y cubrir las peras. Espolvorear con el azúcar glass y gratinar unos segundos en el grill del horno. Servir enseguida.
 

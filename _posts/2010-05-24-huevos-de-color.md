@@ -11,7 +11,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 paquete puré de patatas
 
 1 kg. tomate
@@ -23,7 +22,6 @@ Para 6 personas.
 1 lata grande de bonito
 
 <h3>Preparación</h3>
-
 Se hace el puré como indica el paquete, pero con menos líquido.
 
 Se hace una salsa de tomate espesa.

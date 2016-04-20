@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 muslos de pollo
 
 2 cebollas chicas cortadas en ruedas no muy finas
@@ -37,7 +36,6 @@ Para 4 personas.
 Sal al gusto.
 
 <h3>Preparación</h3>
-
 Macerar por dos horas los muslos de pollo con aceite de oliva y un poco de sal.
 
 Colocarlos en la fuente del horno tostador, seleccionar la función hornear y cocinar por 15 minutos.

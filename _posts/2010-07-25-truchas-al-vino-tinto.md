@@ -7,7 +7,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 1 trucha de 1 kg.
 
 2 cebollas
@@ -29,7 +28,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Limpia la trucha retirándole la cabeza, la espina central y la piel y ponlas a cocer durante 10 minutos en una cazuela con agua y una pizca de sal para conseguir un fumet.
 
 Corta los filetes de trucha en 4 y salpimiéntalos.

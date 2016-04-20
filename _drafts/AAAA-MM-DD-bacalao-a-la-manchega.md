@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 trozos de Bacalao de la parte de la penca
 
 1 huevo
@@ -42,7 +41,6 @@ pimienta
 harina
 
 <h3>Preparación</h3>
-
 Escurrir el Bacalao, enharinarlo y freírlo en aceite abundante hasta que tome un bonito color dorado.
 
 Hervir las patatas con piel unos 20 minutos. Dejarlas enfriar, pelarlas y cortarlas en rodajas.

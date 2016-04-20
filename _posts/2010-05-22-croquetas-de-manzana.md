@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 150 grs. de harina
 
 1 huevo
@@ -24,7 +23,6 @@ agua
 azúcar
 
 <h3>Preparación</h3>
-
 Hacer una masa con la harina y el huevo.
 
 Añadir un poco de agua hasta que quede una pasta fina.

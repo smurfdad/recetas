@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 boquerón
 
 vinagre de vino
@@ -36,6 +35,5 @@ ajo picado
 perejil picado
 
 <h3>Preparación</h3>
-
 Abrir los boquerones (ya limpios, descabezados y sin espinas) en dos filetes y lavarlos. Colocar los filetes ordenados y cerca unos de otros en una fuente honda y cubiertos totalmente con vinagre. Dejar macerar durante un día completo. Quitar completamente el vinagre. Salar al gusto, rociar con aceite y espolvorear con ajo y perejil, todo ello muy picado.
 

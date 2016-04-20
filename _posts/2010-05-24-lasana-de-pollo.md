@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 paquete de placas de lasaña o de canelones
 
 2 pechugas de pollo en filetes
@@ -24,7 +23,6 @@ Para 6 personas.
 1/2 l. salsa bechamel ligera
 
 <h3>Preparación</h3>
-
 Cocer la lasaña como indica el envase y después echarlo en un recipiente con abundante agua fría.
 
 Cortar la cebolla en finas ruedas y dorarla con un poco de aceite en la sartén. Añadir los filetes de pollo troceados y dejar hacer un poco.

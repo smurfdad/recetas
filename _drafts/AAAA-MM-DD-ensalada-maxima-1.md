@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 k de patatas cocidas, cortadas en cubitos
 
 100g de apio finamente picado
@@ -41,7 +40,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Colocar las patatas en un bol y rociarlas con el jugo de limón par que no se oscurezcan, aparte en un tazón colocar el queso roquefort pisarlo y desmenuzarlo bien con la ayuda de un tenedor, agregar la mayonesa, el aceite de oliva, sal y pimienta, mezclar bien todos los ingredientes.
 
 Verter la preparacion sobre las patatas y revolver delicadamente. Finalmente espolvorear con las almendras.

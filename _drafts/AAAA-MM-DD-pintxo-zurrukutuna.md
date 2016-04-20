@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 gr. de bacalao
 
 una cebolla
@@ -34,7 +33,6 @@ pan
 caldo
 
 <h3>Preparación</h3>
-
 El día anterior se pone a remojo el bacalao y se le cambia de agua una vez.
 
 Se pone el bacalao a fuego lento hasta el punto de hervir. Una vez retirado se desmenuza el bacalao y se reserva el agua en que ha hervido.

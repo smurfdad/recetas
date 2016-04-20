@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Rabo de buey troceado (peso entre 1 kg. a kilo y medio).
 
 150 cc. vino tinto
@@ -49,7 +48,6 @@ Para 4 personas.
 Sal, pimienta negra recién molida y harina.
 
 <h3>Preparación</h3>
-
 Sal/pimentar los trozos de rabo y enharinarlos, pasarlos por la sartén con el aceite bastante caliente, hasta que estén doraditos por todas partes.
 
 Colar el aceite que hemos empleado en la fritura y poner dos cucharadas en una olla a presión, (puede darse la primera cocción en la olla pues se gana tiempo ya que dependiendo de la calidad del rabo tarda mas o menos tiempo de todas formas el tiempo será largo), solamente pondréis 2 cucharas de aceite en la olla porque sino luego la salsa resulta demasiado grasa.
@@ -61,6 +59,5 @@ En otra cazuela habremos puesto a fuego medio el rabo y loa dos clases de vino y
 de barro, todo el liquido y verdura se pasa por un pasapurés el mas fino que tengáis o trituradora y lo vais echando por encima del rabo, cocéis todo el conjunto hasta que este completamente tierno, normalmente no es necesario mas de 15 minutos.
 
 <h3>Observaciones</h3>
-
 Este plato se puede recalentar, pero tener siempre presente que el rabo es muy gelatinoso y se debe servir muy caliente.
 

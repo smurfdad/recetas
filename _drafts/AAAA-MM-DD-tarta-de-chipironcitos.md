@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de pasta quebrada congelada
 
 400 gr. de chipironcitos (pueden ser congelados)
@@ -46,7 +45,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 En el caso de que la pasta quebrada esté en el frigorífico, se saca y se deja ablandar a temperatura ambiente durante dos horas. Se pone aceite en una sartén y se saltean los chipironcitos, hasta que evaporen el agua. Se sazonan con sal y pimienta, y se reservan.
 
 En la misma sartén, se pone de nuevo un poco de aceite y se sofríen la cebolla y el ajo, bien picados. Se añaden los tomates pelados y picados. Se sazona el conjunto con sal, pimienta y un poco de azúcar. Se sofríe todo junto durante unos 5 minutos, meneando la sartén de vez en cuando. Se añaden los chipironcitos al conjunto y se tiene a fuego mínimo durante 15 o 20 minutos. Se deja enfriar.

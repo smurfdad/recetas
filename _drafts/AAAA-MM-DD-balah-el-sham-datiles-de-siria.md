@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 vaso de agua
 
 4 huevos
@@ -38,6 +37,5 @@ Una pizca de sal
 Aceite para freír
 
 <h3>Preparación</h3>
-
 Hervir el agua con la mantequilla y la sal. Echar la harina de golpe y mover rápidamente para formar una masa. Dejar enfriar un poco, añadir el huevo, la vainilla y mover fuerte. Poner la masa en un cono y empujar para que se caigan los deditos en el aceite caliente. Freír y sacar en un colador. Regar con sirope y adornar con frutos secos o coco. Puede sustituir el sirope por azúcar en polvo.
 

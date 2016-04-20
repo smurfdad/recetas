@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg de cardo
 
 Agua
@@ -38,7 +37,6 @@ Pimienta
 Caldo de carne
 
 <h3>Preparación</h3>
-
 Limpiar perfectamente los cardos y una vez lavados cortarlos en trozos y ponerlos a hervir en agua, con una cucharada de harina y sal.
 
 Aparte, rehogar en una cazuela harina con tocino y en cuanto tome color, añadir una cucharada de caldo, sal y pimienta, dejándola hervir un cuarto de hora. Agregar los cardos hasta que cuezan lo bastante para que la salsa haya mermado más de su mitad. Seguidamente se servirán.

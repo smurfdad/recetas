@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 bolsa de bizcochos de soletilla
 
 3 ó 4 zanahorias
@@ -41,6 +40,5 @@ guindas
 1/2 l. leche
 
 <h3>Preparación</h3>
-
 Se cuecen las zanahorias y se pelan. se colocan en el baso de la batidora las zanahorias, la nata, la mantequilla y el azúcar, se bate todo hasta formar una masa espesa. Se mojan los bizcochos en la leche, se rellenan con la crema, y se rebozan con el coco rallado, se parten transversalmente por la mitad y se coloca una guinda para adornar.
 

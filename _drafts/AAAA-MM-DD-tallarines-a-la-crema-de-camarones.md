@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 g de fideos de paquete (pesados en crudo)
 
 1 taza de crema de leche
@@ -36,7 +35,6 @@ Perejil picado
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Hervir los fideos en abundante agua con sal. Colar y colocar en una fuente.
 
 Calentar una taza de crema de leche, agregándole luego los camarones junto con un poco de perejil, sal ypimienta.

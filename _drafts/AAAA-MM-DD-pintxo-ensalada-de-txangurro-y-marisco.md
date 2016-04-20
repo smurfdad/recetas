@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Cogollos de Tudela
 
 txangurro
@@ -37,6 +36,5 @@ mahonesa
 gotas de Tabasco
 
 <h3>Preparación</h3>
-
 Se pican los cogollos y la 1/2 cebolla. Se desmenuza el txangurro, se pican las gambas y cigalitas previamente cocidas, mezclamos todos los ingredientes con mahonesa y vertemos las gotas de Tabasco. Se sirve en tartaleta de hojaldre.
 

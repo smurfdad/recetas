@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de champiñones en láminas
 
 1 copa de Jerez
@@ -34,12 +33,10 @@ Para 2 personas.
 1/4 de cebolla picada
 
 <h3>Preparación</h3>
-
 En una sartén, poner un poco de aceite de oliva, hacer un sofrito con la cebolla y el ajo. Sazonar.
 
 Agregar los champiñones, el Jerez y el brandy. Rehogar durante unos minutos hasta que los champiñones estén tiernos.
 
 <h3>Observaciones</h3>
-
 Si se le pone limón a los champiñones una vez cortados no se volverán negros.
 

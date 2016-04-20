@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo cortado en trozos
 
 2 naranjas
@@ -53,7 +52,6 @@ Para 4 personas.
 sal y pimienta negra, molida
 
 <h3>Preparación</h3>
-
 Extraiga el zumo de las naranjas y los limones y ponga el conejo a marinar en los zumos durante 24 horas, dando la vuelta a los trozos de vez en cuando. Una vez terminado el proceso, seque bien los trozos, espolvoréelos con el perejil y sazónelos con sal y pimienta. A continucación, caliente el aceite en una cazuela y sofría los ajos, el laurel y las cebolletas durante unos minutos.
 
 Añada los trozos de conejo, déles unas vueltas e incorpore todos los ingredientes restantes junto con 2 tazas de agua caliente.

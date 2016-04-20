@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs. de fabes (alubia blanca grande)
 
 500 grs. de anillas de calamar, cortados
@@ -28,7 +27,6 @@ Para 6 personas.
 1 chorro de aceite de oliva
 
 <h3>Preparación</h3>
-
 Poner las fabes a cocer, previamente remojadas de víspera, junto con un trozo de cebolla y un pimiento (En la olla rápida 15 minutos, en cazuela normal alrededor de tres horas a fuego suave y semitapado).
 
 En cazuela aparte, freír en el aceite un ajo y retirar.

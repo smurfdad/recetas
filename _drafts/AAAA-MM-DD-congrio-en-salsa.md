@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 dientes de ajo
 
 8 ruedas de congrio
@@ -43,7 +42,6 @@ perejil
 caldo de pescado
 
 <h3>Preparación</h3>
-
 Poner al fuego una cazuela de barro con aceite.
 
 Cuando esté caliente, freír unos dientes de ajo y dorarlos. Retirar y guardar.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de lomo de cerdo un poco gruesos
 
 1 kg. de tomate maduro
@@ -54,7 +53,6 @@ harina
 aceite.
 
 <h3>Preparación</h3>
-
 Para preparar la salsa, se escaldan los tomates durante unos segundos en agua hirviendo. Se pelan, se les quitan las semillas y se pican. Se sofríe la chalota picada en una cazuela con aceite de oliva. Se le añade el ajo fileteado y el tomate picado.
 
 Se añade también el ramillete aromático, atado con liz, y se espolvorea por encima la mitad de la albahaca picada. Se sazona con sal, pimienta y una pizca de azúcar. Se tiene a fuego suave, sin tapadera, removiendo de vez en cuando, durante unos 30 minutos.

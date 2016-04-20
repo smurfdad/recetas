@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 bote de piña
 
 1/2 litro de nata líquida
@@ -32,7 +31,6 @@ Caramelo líquido
 Cerezas para adornar
 
 <h3>Preparación</h3>
-
 En un molde echar un chorrito de caramelo, poner una o varias rodajas (depende de como sea el molde) en el centro del molde y en el centro de cada rodaja una cereza.
 
 Sacar todo el líquido (almíbar) de la piña y calentarlo en una pota, dejando un poco sin calentar para disolver los dos sobre de gelatina. Una vez caliente añadir los sobres disueltos y retirar.

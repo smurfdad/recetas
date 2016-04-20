@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250g de fideos tirabuzón
 
 4 tomates pelados, despepitados cortados en cubitos
@@ -44,7 +43,6 @@ El jugo de un limón
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Hervir la pasta en abundante agua con sal, cuando esté al dente colar, dejar enfriar y reservar.
 
 Hacer una emulsión con aceite, jugo de limón, la mostaza, sal y pimienta.

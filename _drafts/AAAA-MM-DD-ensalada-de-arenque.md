@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 150grs manzanas
 
 150 grs remolachas
@@ -39,7 +38,6 @@ pimienta
 50 grs de crema de leche(nata)
 
 <h3>Preparación</h3>
-
 Cortar los arenques marinados y colocar en una fuente,a esta agregar las manzanas,las remolachas,pepinillos todo cortado en cubos salpimentar.
 
 Con la mayonesa y crema hacer una mezclas un poco espesa y unir com lo anterior preparacion,y ya esta lista.

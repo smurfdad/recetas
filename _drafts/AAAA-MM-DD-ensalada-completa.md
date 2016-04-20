@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 lechuga
 
 tomates
@@ -47,7 +46,6 @@ sal
 aceite y vinagre
 
 <h3>Preparación</h3>
-
 Cortar todas las verduras y colocar en una gran fuente,colocar sal el aceite y vinagre.
 
 Los dias de mucho calor es muy fresca y a la vez puede ser unico plato.

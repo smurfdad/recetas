@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 11 huevos
 
 2 latas grandes de bonito
@@ -22,7 +21,6 @@ Para 6 personas.
 4 pepinillos
 
 <h3>Preparación</h3>
-
 Modo de hacer la mayonesa:
 
 Poner en un bol 2 huevos, 2 cucharadas de vinagre y 2 pellizcos de sal con 1/4 de aceite. Meter la batidora hasta el fondo y batirlo bien. Cuando se vea que está empezando a engordar ir añadiéndole el aceite mientras se sigue batiendo hasta echarle el medio litro.

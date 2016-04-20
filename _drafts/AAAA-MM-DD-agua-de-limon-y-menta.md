@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Agua
 
 Un limón
@@ -30,7 +29,6 @@ Menta fresca
 Azúcar moreno (opcional)
 
 <h3>Preparación</h3>
-
 A un litro de agua, le añadimos un limón partido por la mitad y previamente lavado.
 
 Le añadimos unas hojas de menta fresca y lo dejamos en la nevera.

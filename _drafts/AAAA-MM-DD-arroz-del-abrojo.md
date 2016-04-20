@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr de arroz
 
 1 cebolla
@@ -61,7 +60,6 @@ limón
 agua
 
 <h3>Preparación</h3>
-
 En una cazuela de barro se pone el aceite, la cebolla, los pimientos, los ajos y el tomate pelado, y se fríe a fuego lento. Después de dar unas vueltas se añaden los trozos de lechazo y el jamón.
 
 A los cinco minutos se añade el agua, el laurel, los guisantes y la pimienta. Cuando empiece a hervir se añaden los garbanzos los cangrejos y el arroz con un poco más de agua. Se deja cocer 20 minutos.

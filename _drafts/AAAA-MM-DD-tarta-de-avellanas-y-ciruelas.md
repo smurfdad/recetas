@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 para la pasta:
 
 1 lámina de pasta brisa
@@ -47,10 +46,8 @@ para el relleno:
 3 cucharadas de azúcar
 
 <h3>Preparación</h3>
-
 Cortar las ciruelas en cuartos, espolvorearlas con azúcar y cocerlas bajo el grill del horno durante diez minutos. para el relleno, batir la mantequilla con las varillas, incorporar los huevos, uno a uno, la harina muy despacio, las avellanas y el azúcar. Extender la pasta brisa formando un molde de unos 24 cm. y untarlo con mantequilla. Rellenar la pasta brisa con la crema obtenida de batir los ingredientes de antes, distribuir las ciruelas y colocar en el horno precalentado a 180 grados durante unos 40 o 45 minutos.
 
 <h3>Observaciones</h3>
-
 Se puede hacer con peras, albaricoques o con melocotón.
 

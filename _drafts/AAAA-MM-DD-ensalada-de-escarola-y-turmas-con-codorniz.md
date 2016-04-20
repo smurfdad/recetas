@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 codornices
 
 1/2 cebolla
@@ -55,6 +54,5 @@ queso Patamulo
 sal
 
 <h3>Preparación</h3>
-
 Limpiar las codornices, salpimentar y dorar ligeramente en una sartén y reservar. Rehogar la cebolla durante unos minutos, añadir los dientes de ajo pelados y enteros, el laurel, la pimienta negra, el vinagre y el agua, dejar cocer todo durante 20 minutos y probar de sal. Limpiar la escarola y cortarla con la mano, mezclarla con rodajas finas d eturmas, sal, aceite, vinagre y las nueces picadas. Abrir las endibias en hojas. A la hora de servir se pueden poner rodajitas de patata con finas lonchas de queso Patamulo. Calentar hasta fundir. Acompañar con salsa del escabeche.
 

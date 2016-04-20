@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 espaldas de cabrito
 
 Manteca de cerdo
@@ -38,7 +37,6 @@ Sal y pimienta
 Ajo Perejil
 
 <h3>Preparación</h3>
-
 Sazonar con sal y pimienta las espaldas del cabrito. Con una espátula, repartir la manteca de cerdo, espolvorear las hierbas por encima y añadir el agua y el coñac.
 
 Por último, añadir el ajo y perejil picado. Se elige el alimento en el panel de control del microondas: Función carnes blancas. Se selecciona el tiempo, 28 minutos. Una vez acabada la cocción pinchar la carne.

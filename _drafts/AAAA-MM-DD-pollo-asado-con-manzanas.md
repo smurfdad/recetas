@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo
 
 5 manzanas
@@ -36,7 +35,6 @@ vino oloroso
 aceite, sal
 
 <h3>Preparación</h3>
-
 El pollo se limpia muy bien, se lava y se seca enjuagandolo con un chorro de vino oloroso.
 
 Aparte se pelan dos manzanas se les quita el corazón y se trocean, mezclándolas en un cuenco con las pasas y una copa de vino oloroso.

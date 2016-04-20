@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Kokotxas de Bacalao
 
 Ajo
@@ -33,7 +32,6 @@ Aceite de 1&ordm;
 Perejil
 
 <h3>Preparación</h3>
-
 Limpia bien las Kokotxas y recortales las pieles que les sobran. Extiéndelas sobre un paño limpio para que se sequen, las sazonas y reservas.
 
 En una cazuela amplia, coloca unos dientes de ajo picados con un poco de aceite de oliva (importantísimo, un Carbonell de 1&ordm;está bien) a fuego lento y removiendo.

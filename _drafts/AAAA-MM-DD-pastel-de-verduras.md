@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr harina tamizada
 
 2 cucharaditas de levadura
@@ -48,7 +47,6 @@ Para 6 personas.
 1/4 litro de caldo de verdura
 
 <h3>Preparación</h3>
-
 Mezcla la harina tamizada con la levadura y la sal.
 
 Agregar 60 gramos de mantequilla en tacos y mezclar bien.

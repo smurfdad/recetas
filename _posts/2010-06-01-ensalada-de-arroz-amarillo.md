@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gramos de arroz
 
 4 cucharadas de aceite
@@ -36,7 +35,6 @@ tomillo fresco
 sal
 
 <h3>Preparación</h3>
-
 Poner en remojo las uvas pasas en vino blanco. Asar los
 
 pimientos, pelarlos y cortarlos en tiras. Aparte cocer el arroz

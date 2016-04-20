@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de patatas
 
 3 ajos
@@ -23,7 +22,6 @@ un poco de aceite de oliva
 6 huevos (opcional)
 
 <h3>Preparación</h3>
-
 Poner al fuego una cazuela baja que se pueda sacar a la mesa, con el aceite y los ajos finamente picados.
 
 Antes de que lleguen a dorarse, añadir las patatas, peladas y cortadas en rodajas como de medio centímetro.

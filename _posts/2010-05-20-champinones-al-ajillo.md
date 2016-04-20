@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. champiñones
 
 2 dientes de ajo
@@ -19,7 +18,6 @@ Para 6 personas.
 aceite de oliva, sal
 
 <h3>Preparación</h3>
-
 Cortar el trozo de la raíz del tronco de los champiñones e ir echándolos en un recipiente con agua suficiente para que los cubra.
 
 Lavar uno por uno e ir cortándolos en trozos con la mano (con el cuchillo pierden parte de su sabor).

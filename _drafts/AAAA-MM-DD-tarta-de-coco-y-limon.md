@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200gr de galletas, tipo María
 
 50gr de mantequilla
@@ -42,7 +41,6 @@ La ralladura de 1 limón
 50gr de coco rallado
 
 <h3>Preparación</h3>
-
 Triture las galletas y mézclelas con la mantequilla y la leche. A continuación, forrar un molde con la mezcla, aplastándola bien la base y los lados.
 
 Mezclar en un cuenco las yemas junto con la leche condensada, el zumo y la ralladura de limón y el coco rallado.

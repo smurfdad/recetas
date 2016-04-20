@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 nabo mediano
 
 4 pencas de acelga
@@ -42,13 +41,11 @@ Para 4 personas.
 sal y azafrán
 
 <h3>Preparación</h3>
-
 Pon las judías y las lentejas a remojo la noche anterior. Limpia bien las verduras y trocéalas.
 
 Pon a cocer las verduras y las legumbres en 3/4l de agua, durante una media hora sin dejar que hiervan muy fuerte; cuando veas que ya se están ablandando sofríe los ajos, troceados, en aceite de oliva e incorpóralo al guiso. Después de darle unas vueltas con el cucharón lo pones a punto de sal y añades el azafrán machacado y disuelto con algo del caldo de la olla. Ahora falta cocer el arroz para lo cual tendrás que calcular que la cantidad de caldo que hay en la olla sea aproximadamente de algo más de un litro (mejor litro y medio) porque aquí el arroz va a consumir bastante y conviene que el guiso quede caldoso. Una vez el arroz en la olla, ocúpate de remover el guiso con suavidad durante los primeros hervores, para que se suelten bien los granos.
 
 <h3>Observaciones</h3>
-
 En la Vega Baja del Segura gustan de echarle un chorrico de limón por encima, eso queda al gusto del comensal.
 
 El tiempo seguro de cocción para el arroz de grano redondo son:

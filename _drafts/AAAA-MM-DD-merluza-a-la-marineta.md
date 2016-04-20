@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 1 merluza pequeña
 
 1/4 de almejas
@@ -45,7 +44,6 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Sofreimos la merluza enharinada, reservamos.
 
 En otra olla doramos la cebolla añadimos un vaso de vino blanco y dejamos cocer 5 min.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cucharadas de aceite de oliva
 
 500 gramos de acelgas
@@ -23,7 +22,6 @@ Para 4 personas.
 1 pizca de pimentón dulce
 
 <h3>Preparación</h3>
-
 Limpiar las acelgas y trocearlas.
 
 Pelar las patatas y trocearlas.Poner ambas cosas y la pastilla de caldo en una cacerola con agua y ponerlas a hervir.

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 90 minutos.
 
 <h3>Ingredientes</h3>
-
 600 gramos pechuga de pavo, limpia.
 
 120 gramos queso fresco.
@@ -44,7 +43,6 @@ Romero fresco.
 2 decilitros de jugo de pollo.
 
 <h3>Preparación</h3>
-
 Limpiamos la pechuga de pavo de todos los huesos y recortes con los que realizamos un caldo.
 
 Fileteamos en filetes finos la pechuga.

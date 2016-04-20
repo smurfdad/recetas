@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 Cucharadas de aceite de oliva
 
 1 Cucharada de mantequilla
@@ -35,5 +34,4 @@ Sal y pimienta al gusto
 Cebolla verde picada (para adornar)
 
 <h3>Preparación</h3>
-
 Ponga el aceite y la mantequilla en una olla sopera. Añada la cebolla, chalote, y ajo. Cocine hasta que esté suave. Añada las papas, caldo y hierbas. Haga hervir, luego cocine a fuego lento por 45 minutos. Sirva caliente con las cebollas verdes.

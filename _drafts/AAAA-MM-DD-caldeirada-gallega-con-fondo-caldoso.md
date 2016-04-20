@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 pescado, 800 gr.
 
 cebolla, 1 mediana
@@ -48,6 +47,5 @@ azafrán, 1 hebra
 laurel, 1 hoja
 
 <h3>Preparación</h3>
-
 Cortamos en tacos la cebolla y el pimiento, incorporamos la patata rota en trozos medianos (es importante que la patata esté rota y no cortada, pues de esta forma favorece que suelte la fécula y así nos ligará el fondo del guiso), añadimos el resto de los ingredientes, salvo el pescado, y ponemos a fuego medio. Cuando la patata esté casi hecha de todo, añadimos los lomos de pescado y damos el último hervor para que el pescado se haga pero que de jugoso. En plato sopero disponemos tres o cuatro patatas y sobre éstas, de costado, ponemos el lomo de pescado. Remojamos el conjunto con el fondo caldoso, procurando que éste cubra el fondo del plato.
 

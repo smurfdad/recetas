@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 50 gramos de repollo morado
 
 400 gramos de pan blanco duro
@@ -28,7 +27,6 @@ categories:
 2 a 4 cucharadas de postre (con copete) de mayonesa
 
 <h3>Preparación</h3>
-
 Extraer el jugo del repollo morado
 
 Cortar la costra del pan y picarlo en cuadros

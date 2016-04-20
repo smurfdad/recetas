@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 100 g de higos secos
 
 500 g de nata
@@ -37,6 +36,5 @@ Para 4 personas.
 50 g de azúcar
 
 <h3>Preparación</h3>
-
 Limpiar los higos y dejarlos macerar durante 24 horas con el moscatel y un almíbar hecho con el agua y el azúcar. Montar 200 gramos de nata y agregar los higos triturados. Mezclar bien y congelar. Asar las manzanas y pelarlas. Montar el resto de la nata. Cortar las manzanas en medias rodajas y disponerlas en un plato. Agregar encima el helado en bolas y cubrirlo todo con la nata montada. Glasear en la salamandra.
 

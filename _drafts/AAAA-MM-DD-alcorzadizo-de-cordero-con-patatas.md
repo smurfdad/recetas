@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 k de alcorzadizo de cordero
 
 1 1/2 k de patatas
@@ -35,6 +34,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Cortar las patatas en rodajas, saltearlas en una sartén con aceite y cubrir con ellas una fuente de horno. En la misma sartén sofreír el cordero y disponerlos sobre las patatas. Pasar los ajos por el aceite, sin que se doren, y distribuirlos sobre la carne. Meter la fuente en el horno hasta que la carne esté hecha.
 

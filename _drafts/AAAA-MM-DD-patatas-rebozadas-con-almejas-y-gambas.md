@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas hermosas
 
 200 gr. de gambas
@@ -44,7 +43,6 @@ aceite para freir
 sal
 
 <h3>Preparación</h3>
-
 Se pelan las patatas. Se aclaran y se secan. Se cortan en rodajas, se sazonan, se pasan por harina y huevo, y se fríen. Se sacan a una cazuela y se espolvorea sobre ellas almendra tostada picada. En el mismo aceite se fríen la cebolla y dos dientes de ajo, todo picado.
 
 Se espolvorea un poco de harina por encima y se mezcla todo bien. Se cubre de agua (lo suficiente como para que cubra después las patatas), se sazona con sal y se le añade perejil picado. En otra sartén, con un poco de aceite, se saltean a fuego fuerte, durante unos segundos, las gambas sazonadas de sal.

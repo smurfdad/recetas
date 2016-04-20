@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 90 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kg de bonito
 
 4 zanahorias
@@ -49,7 +48,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Picar pequeña la cebolla, pelar y rallar los tomates.
 
 Limpiar bien el bonito y retirarle la piel y las espinas. Cortar a dados.

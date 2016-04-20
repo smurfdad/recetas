@@ -24,7 +24,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gr. arroz
 
 400 gr. almeja
@@ -46,7 +45,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Escaldaremos la sepia y la cortaremos en trocitos, la pondremos en una cazuela con aceite hasta que quede bien blanda, la retiraremos y con el mismo aceite hacemos el sofrito con la cebolla, los ajos y el
 
 pimiento. Cuando coja color pondremos el tomate y una vez sofrito, pondremos el arroz dejando que quede bien tostado. Aparte abriremos las almejas con un poco de agua y las reservaremos junto con el caldo que desprenden. Cuando el arroz está bien tostado añadiremos el caldo de las almejas y el fumet de

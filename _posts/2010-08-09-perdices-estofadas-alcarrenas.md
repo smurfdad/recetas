@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 perdices de campo aderezada
 
 1 cebolla
@@ -31,7 +30,6 @@ Para 4 personas.
 harina y caldo
 
 <h3>Preparación</h3>
-
 Se salpimentan las perdices por dentro y por fuera y se enharinan ligeramente. A continuación, se doran en el aceite. Retirarlas a una cazuela.
 
 Se añaden al aceite entonces la cebolla, los puerros y la zanahoria, cortado todo en juliana fina, el ramillete de hierbas y la pimienta; se deja fondear.

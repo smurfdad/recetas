@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 yemas de huevo
 
 60 gramos de azúcar glass
@@ -42,7 +41,6 @@ Para 6 personas.
 1 cucharada de cacao en polvo
 
 <h3>Preparación</h3>
-
 Mezclar en un bol el azúcar, las yemas y la esencia de vainilla.
 
 Poner el bol al fuego al baño maría y batir. Apartar del fuego y sin apartar el bol del interior del cazo seguir batiendo hasta conseguir una crema blanquecina.

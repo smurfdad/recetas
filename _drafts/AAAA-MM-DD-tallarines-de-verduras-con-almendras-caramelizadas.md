@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500gr de Tallarines de verduras
 
 1 cebolla grande
@@ -47,7 +46,6 @@ sal
 3 ramitas de hierbabuena
 
 <h3>Preparación</h3>
-
 Ponemos a cocer los tallarines en agua con sal y un chorrito de aceite.mientras cocemos la pasta al pinto de aldente,cortamos los ajos,cebolla y pimiento en trozos pequeños.Lo ponemos en una sarten con la mantequilla y pochamos todo,cuando este listo reservamos.
 
 cuando la pasta este lista la escurrimos y enfriamos con agua fria en abundancia.ya bien escurrida la mezclamos con la nata y pimienta y la hierbabuena,lo ponemos en una placa de horno,batimos los huevos y regamos la pasta con ellos ponemos las almendras caramelizadas y lo introducimos en el horno a 160&ordm; unos 15 minutos.

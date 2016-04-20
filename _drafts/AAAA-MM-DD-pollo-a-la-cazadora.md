@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 900 gramos de pechugas de pollo (o piezas al gusto)
 
 1 taza de cebolla picada finamente
@@ -43,6 +42,5 @@ Para 8 personas.
 3 cucharadas de vino blanco
 
 <h3>Preparación</h3>
-
 Coloque el pollo en una cacerola con capacidad para 2 litros,rocie con aceite en aerosol y sofria la cebolla,el pimiento y los hongos hasta que se suavicen,añada el pollo,coloque los sigientes cinco ingredientes en una sarten,revuelva y ponga al fuego hasta que desaparezcan los tonos oscuros,vierta sobre la cacerola y tape,y hornee a 175&ordm;C durante una hora o hasta que el pollo este tierno.
 

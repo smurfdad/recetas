@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de garbanzos secos
 
 100 gr. de chorizo
@@ -66,7 +65,6 @@ Para la sopa
 50 gr. de pasta de sopa fina.
 
 <h3>Preparación</h3>
-
 Batir el huevo, añadir la miga de pan, un poco de leche y el jamón y mezclar hasta que la masa quede bien ligada, si queda muy espesa poner un poco más de leche. En una sartén con aceite echar la mitad de la masa y freír. Repetir la operación con la otra mitad de la masa. Incorporar los dos rellenos al cocido y dejarlos hervir unos 10 minutos. Retirar la carne y las verduras y colar el caldo.
 
 Preparar la sopa con el caldo. Servir el cocido en tres partes: la sopa, la carne y los rellenos colocados en una fuente y las verduras con los garbanzos en otra fuente.

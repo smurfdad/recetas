@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr. de almendras crudas molidas
 
 4 huevos
@@ -36,7 +35,6 @@ Vainilla
 1 vaso de agua (o 1/2 litro de leche entera)
 
 <h3>Preparación</h3>
-
 Mezclaremos las yemas de huevo con la leche condensada, añadiremos las almendras y el vaso de agua o la leche entera, batiremos muy bien, recomiendo en batidora.
 
 Después de bien batido adicionaremos las claras de los huevos batidas a punto de nieve, mezclando a mano.

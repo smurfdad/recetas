@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 doradas
 
 2 tomates
@@ -39,7 +38,6 @@ sal
 perejil picado
 
 <h3>Preparación</h3>
-
 Limpia las doradas y saca los lomos. No retires la piel.
 
 Cubre la placa del horno con papel de aluminio.
@@ -53,6 +51,5 @@ Limpia los tomates y córtalos en rodajas gruesas y fríelas en una sartén con 
 Pon unas 8 cucharadas de aceite en otra sartén, calienta y añade los dientes de ajo cortados en láminas. Cuando se doren un poco, añade unas tiras de guindilla. Vierte el aceite sobre el pescado. Espolvorea con perejil picado.
 
 <h3>Observaciones</h3>
-
 Consejo: A la hora de comprar pescado hay que fijarse en el olor (que debe ser suave), en los ojos (saltones), en las agallas (de color rojo brillante), en la piel (brillante y firme) con las escamas bien adheridas al cuerpo.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 bacalao fresco de unos 2 Kg.
 
 1 cebolla
@@ -42,6 +41,5 @@ Aceite y Sal
 Patatas y zanahorias hervidas (como guarnición)
 
 <h3>Preparación</h3>
-
 Limpiar el bacalao y cortar los lomos en raciones, salpimentar y pasar por la harina. En una sartén con aceite, dorar los trozos de bacalao, añadir la cebolla cortada en juliana y el tomillo. Cuando esté dorado, quitar el aceite y flamear con el brandy. Añadir unas cucharaditas de jugo de carne e introducir en el horno durante 5 minutos a 150 &ordm;C. Servir los lomos de bacalao junto con el jugo obtenido. Espolvorear con un poco de perejil. Acompañar con unas patatas y unas zanahorias hervidas.
 

@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata grande de pimientos piquillo extra
 
 1 tajada hermosa de lomo de bacalao (gruesa)
@@ -26,7 +25,6 @@ Para 8 personas.
 aceite y sal
 
 <h3>Preparación</h3>
-
 Desalar el bacalao durante 48 horas, cambiandolo de agua 4 veces.
 
 Cortar los tronquitos de surimi por la mitad, a lo largo, y luego en tiritas.

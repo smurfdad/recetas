@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Sepia
 
 Patatas cortadas en rodajas finas
@@ -42,6 +41,5 @@ Pimienta
 Vino blanco
 
 <h3>Preparación</h3>
-
 Se limpian las sepias y se colocan en una fuente para el horno. Se van disponiendo las rodajas de patatas alrededor y de tomate. Se espolvorea de ajo y perejil picado. Se añaden los piñones, el aceite, el vino, unas rodajas de limón, sal y pimienta. Se pone al horno templado una media hora acabando la cocción a fuego vivo unos 10 minutos.
 

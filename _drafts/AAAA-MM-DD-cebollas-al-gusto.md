@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Cebollas 1 kg.
 
 Patatas 1 kg.
@@ -36,7 +35,6 @@ Salsa Bechamel un tazón.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Preparar la salsa Bechamel con la cuarta parte de los ingredientes.
 
 Pelar y lavar las cebollas y las patatas. Cortar éstas en trozos y las cebollas en rodajas.

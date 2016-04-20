@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 manzanas (si son reineta mejor)
 
 2 cucharadas de fruta variada picada al gusto
@@ -30,7 +29,6 @@ Para 4 personas.
 100 cc de zumo de manzana
 
 <h3>Preparación</h3>
-
 Retirar el corazón de las manzanas y rellenar el hueco con las frutas variadas.
 
 Ponerlas en una fuente de horno y rociarlas con el zumo de manzana.

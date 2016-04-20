@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 rabos de cerdo
 
 300 gr tocino con beta
@@ -39,7 +38,6 @@ curry
 sal
 
 <h3>Preparación</h3>
-
 Poner las alubias a remojo la noche anterior. Por la mañana poner las alubias al fuego con agua fría y un poco de sal, el laurel y las demás especias.
 
 Añadir las verduras limpias y enteras, junto con los rabos y el tocino.

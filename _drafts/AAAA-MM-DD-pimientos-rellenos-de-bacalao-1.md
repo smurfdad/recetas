@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pimientos
 
 lomos de bacalao desmigado
@@ -40,6 +39,5 @@ coñac
 pimienta negra.
 
 <h3>Preparación</h3>
-
 Desalar el bacalao y en una sartén pochamos en aceite de oliva los pimientos verdes y las cebolletas bien picaditos. añadimos el bacalao desmigado y, luego, un poquito de harina, leche y hacemos una fina bechamel. Rellenamos los pimientos del piquillo con esta bechamel y reservamos. Salsa: Pochamos en aceite de oliva unas cebolletas y le añadimos una copita de buen coñac, pimienta negra y salsa de tomate. Todo esto se tritura en la batidora.
 

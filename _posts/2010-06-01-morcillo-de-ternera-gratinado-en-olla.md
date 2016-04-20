@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,3 kg. de morcillo de ternera
 
 un hueso de rodilla
@@ -39,7 +38,6 @@ harina
 pan fresco rallado
 
 <h3>Preparación</h3>
-
 En una cazuela se pone a cocer el morcillo cubierto de agua. Se sazona y se añaden a la cazuela las zanahorias peladas, la cebolla claveteada, el puerro y el perejil. Se hace hervir y se cierra la olla. Se deja que hierva 45 minutos.
 
 Transcurrido el tiempo de cocción, se destapa la olla. Se saca la carne y se deja templar. Se cuela el caldo. En otra cazuela se pone una nuez de mantequilla con un chorro de aceite y se espolvorea un poco de harina por encima. Se rehoga todo y se añade el caldo, poco a poco, para que se vaya ligando la salsa.

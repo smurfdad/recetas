@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo sin piel ni huesos de( 4 onzas cada una)
 
 1 taza de harina
@@ -44,7 +43,6 @@ Para 6 personas.
 1/4 taza mostaza
 
 <h3>Preparación</h3>
-
 Corte el pollo en tiritas 1/2x2 pulgadas. Para la salsa de mostaza con miel mezcle estos dos ingredientes un recipiente pequeño. Deje reposar
 
 Mezcle la harina, la sal y la pimienta en un envase pequeño. Sumerja el pollo en la leche, recúbralo bien con la mezcla de harina.Pongalo en papel encerado (waxed paper)

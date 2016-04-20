@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 codornices
 
 50 gr. de foie
@@ -36,7 +35,6 @@ manteca de cerdo
 1 vaso de caldo
 
 <h3>Preparación</h3>
-
 Se limpian las codornices, y se les queman las posible plumillas.
 
 Se salpimentan, por dentro y por fuera, y se introduce en ellas, unas pasas remojadas previamente en un vaso de oporto, ú otro similar oloroso, y el foie echo trocitos.

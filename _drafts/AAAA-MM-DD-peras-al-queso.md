@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 peras grandes (blanquilla)
 
 40 gr de confitura de fresa
@@ -36,7 +35,6 @@ Para 4 personas.
 Menta para decorar
 
 <h3>Preparación</h3>
-
 Se parten la peras por la mitad y se retira el corazón, se mezcla el queso con la leche hasta que queda cremoso y se le añade el requesón.
 
 Se rellenan las peras con la mezcla y se cubre el relleno con una cucharadita de confitura.

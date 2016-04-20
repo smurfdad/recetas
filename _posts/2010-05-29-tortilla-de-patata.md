@@ -8,7 +8,6 @@ categories:
 - Huevos y lacteos
 ---
 <h3>Ingredientes</h3>
-
 4 patatas medianas
 
 3 huevos
@@ -20,7 +19,6 @@ sal
 1/4 de cebolla picada (opcional)
 
 <h3>Preparación</h3>
-
 Pelar las patatas y picarlas toscamente en filetitos.
 
 Echar abundante aceite en una sartén o cazuela y poner a calentar a fuego muy suave.

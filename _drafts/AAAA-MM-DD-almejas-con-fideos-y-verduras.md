@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 12 almejas de buen tamaño
 
 15 gr.. fideo fino
@@ -45,6 +44,5 @@ Habas repeladas
 Perejil picado
 
 <h3>Preparación</h3>
-
 En una sartén apropiada, ponemos el aceite y lo acercamos al fuego. Cuando esté caliente, añadimos el ajo picado para que se dore ligeramente. Al mismo tiempo, añadimos el hongo picadito y el azafrán. Después, rehogamos los fideos, y añadimos el resto de verduras y el vino blanco. Una vez pochados, añadimos las almejas (previamente bien lavadas) y mojamos todo con el caldo de pescado, dejándolo cocer hasta que las almejas comiencen a abrirse. Una vez abiertas, las vamos colocando en el plato de presentación. Comprobamos el punto de cocción de los fideos y los colocamos junto con las almejas, añadiendo el caldo de la pasta bien caliente.
 

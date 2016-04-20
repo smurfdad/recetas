@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 gr. de garbanzos
 
 300 gr. de ternera
@@ -42,6 +41,5 @@ Carlota (zanahoria)
 Azafrán y pimiento molido
 
 <h3>Preparación</h3>
-
 Se pone a cocer todo junto, menos las morcillas que se agregan al final de la cocción para que no se deshagan. Añadir un poco de azafrán y pimiento molido y dejar cocer sobre hora y media.
 

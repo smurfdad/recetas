@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 codornices
 
 6 dientes ajo
@@ -42,7 +41,6 @@ Para 4 personas.
 1 dl. fondo blanco
 
 <h3>Preparación</h3>
-
 Fría las codornices y colóquelas en cacerola. En el aceite que queda dore la cebolla picada, los ajos a tiras, el laurel y el tomillo y agréguelo a las codornices. Moje con el vino, el vinagre y el fondo blanco. Sazone y cueza a fuego lento durante 20 min.
 
 Deje reposar en la nevera.

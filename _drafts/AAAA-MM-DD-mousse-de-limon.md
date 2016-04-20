@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 4 yogures naturales
 
 Zumo de 4 limones
@@ -35,6 +34,5 @@ barqillos para adornar
 caramelo líquido para adornar
 
 <h3>Preparación</h3>
-
 Mzclar los componentes y batirlos con la batidora, poner en copas y servir muy muy frío. A la hora de servir, decorar con los barquillos y el caramelo líquido.
 

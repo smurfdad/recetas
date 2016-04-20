@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Lecherita de cordero de leche
 
 sal
@@ -36,6 +35,5 @@ aceite de oliva
 pan rallado
 
 <h3>Preparación</h3>
-
 Se macera la lecherita cruda en huevo batido con sal, ajo y perejil. Una vez macerada, se empana y se fríe en aceite de oliva
 

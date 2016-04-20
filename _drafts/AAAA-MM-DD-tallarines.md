@@ -21,7 +21,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 400 grs. de tallarines
 
 250 gr. de pollo
@@ -45,7 +44,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Se corta la carne en trozos pequeños. Se fríe y se retira. En el mismo aceite se fríe el ajo y a continuación la cebolla. Se añade la zanahoria y se deja sofreír todo ello durante diez minutos. Se añaden las judías y la carne y se rehoga.
 
 Después se vierte medio, vaso de vino blanco y me-dio vaso de agua. Se deja hervir durante otro s diez minutos, al cabo de los cuales se añade el repollo cortado fino y se rehoga bien.

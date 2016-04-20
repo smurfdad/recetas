@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cardo de 1,5 Kg
 
 100 gr jamón serrano
@@ -27,7 +26,6 @@ agua
 limón
 
 <h3>Preparación</h3>
-
 Limpiar el cardo, quitando las partes deterioradas y las hebras.
 
 Una vez limpio cortarlo en trozos regulares de 3-4 cm. Pasarlo por agua para retirar posibles impurezas.

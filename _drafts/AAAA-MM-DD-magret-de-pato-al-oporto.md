@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pato
 
 2 cdas aceite
@@ -60,7 +59,6 @@ sal, pimienta
 aceite
 
 <h3>Preparación</h3>
-
 Con un cuchillo filoso practicar incisiones sobre la piel de las pechugas formando rombos.
 
 En una sartén, sellar las pechugas con el aceite dorándolas en toda su superficie..

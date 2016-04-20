@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Txopitos
 
 pimientos del padrón
@@ -30,7 +29,6 @@ harina
 sal
 
 <h3>Preparación</h3>
-
 Una vez bien limpios los txopitos, los harinamos y echamos sal.
 
 Posteriormente, se fríen a fuego fuerte con los pimientos de padrón.

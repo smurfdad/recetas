@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 g de setas
 
 3 lonchas de pan de molde
@@ -42,6 +41,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Retirar la corteza del pan y cortar en triángulos pequeños. Limpiar las setas con un paño húmedo y cortarlas en dados pequeños. Saltearlas en el aceite caliente. Escurrirlas y ponerlas en un bol. Agregar el queso, el perejil, la salsa Perrins, pimienta y sal. Mezclar muy bien y repartir la preparación sobre el pan cortado. Meter en el horno precalentado a 200 grados de 4 a 6 minutos. Servirlos calientes.
 

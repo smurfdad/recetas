@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Paquete de spaghettis
 
 1 Atado de brocolis (frescos)
@@ -36,7 +35,6 @@ Sal a gusto
 Queso parmesano rallado
 
 <h3>Preparación</h3>
-
 Poner agua y sal en una olla, en el hervor poner los spaghettis a hervir hasta que esten al dente.
 
 En otra olla con agua y sal poner a hervir el brocoli hasta que este bien tierno.

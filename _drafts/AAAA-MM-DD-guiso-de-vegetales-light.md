@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 200g de arroz
 
 400g de zanahorias
@@ -38,7 +37,6 @@ Caldo de verduras
 Sal
 
 <h3>Preparación</h3>
-
 Lave bien las verduras y cortélas en trozos no muy grandes.
 
 Colóquelas en una cazuela de barro, cúbralas de caldo y cocine a fuego lento durante 20 minutos.

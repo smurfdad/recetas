@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 5 plátanos
 
 2 huevos
@@ -56,7 +55,6 @@ Para acompañar:
 200 gr. chocolate de cobertura
 
 <h3>Preparación</h3>
-
 Pon la gelatina a remojo en agua fría hasta que se ablande. Pon la mitad de la leche a cocer, agrega la gelatina y mezcla bien. Pela 4 plátanos y aplástalos con un tenedor hasta conseguir un puré, riégalos con el zumo de limón y añádelos a la cazuela. Vierte el resto de la leche, mezcla bien y espera a que se enfríe.
 
 Pon las yemas y el azúcar glas en un recipiente y móntalas con la batidora de varillas eléctrica. Monta también (por separado) las claras con una pizca de sal y la nata.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 perdices por persona
 
 1 cebolla rallada (por cada 2 perdices)
@@ -38,10 +37,8 @@ Pimienta
 1 tomate maduro en rodajas finas
 
 <h3>Preparación</h3>
-
 Limpiar las perdices y lavaras. Cocer en agua hirviendo con cebolla, sal, pimienta, cardamomo y clavo. Sacar del caldo y freír. Servir caliente con arroz mofalfal (pilaf) o patatas fritas.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

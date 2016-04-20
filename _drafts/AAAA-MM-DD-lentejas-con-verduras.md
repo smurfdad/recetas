@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400 g de lentejas
 
 1 zanahoria.
@@ -46,7 +45,6 @@ Aceite
 Agua y sal
 
 <h3>Preparación</h3>
-
 Pela la zanahoria y pícala junto con el zucchini, las chauchas y el tomate. Pon estas verduras en una cacerola con las arvejas y las lentejas. Añade un chorrito de aceite y sazona.
 
 Cubre con agua y deja cocer durante 40-45 minutos.

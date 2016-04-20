@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 3 cebollas
@@ -40,7 +39,6 @@ Aceite de oliva
 Sal y una cucharadita de pimenton dulce
 
 <h3>Preparación</h3>
-
 Se cortan las berenjenas por la mitad (a lo largo) y se vacian reservando la pulpa.
 
 Previamente se ha calentado el horno a 180&ordm;.

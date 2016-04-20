@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 liebre
 
 1 cebolla
@@ -51,6 +50,5 @@ Para 4 personas.
 sal.
 
 <h3>Preparación</h3>
-
 Una vez limpia cortada y sazonada la liebre, se preparan las verduras: La cebolla se pela y se corta en juliana, los ajos se limpian y se cortan por la mitad sin pelarlos, los tomates se cortan en rodajas, el pimiento se corta en tiras delgadas, las patatas se pelan y se cortan en rodajas gruesas. Una vez que tenemos todo preparado, se van poniendo en una cazuela capas superpuestas de verdura y carne. Por último incorporamos a la cazuela el vino, agua, aceite, hierbas aromáticas, sal y pimienta. Se tapa y se deja cocer a fuego lento durante una hora aproximadamente.
 

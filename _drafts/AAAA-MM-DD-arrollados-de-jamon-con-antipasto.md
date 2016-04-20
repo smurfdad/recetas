@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 6 láminas de queso tipo mozzarella
 
 4 rebanadas de jamón
@@ -42,6 +41,5 @@ categories:
 1 cucharada de jugo de limón
 
 <h3>Preparación</h3>
-
 Corte el queso en 4 tiras un poco más largas que el ancho del jamón. Enrolle cada tira con el jamón y átelo con el puerro. Ponga un arrollado en cada platillo, añada los tomates secos y las aceitunas y bañe con un aderezo hecho revolviendo el aceite de oliva con el ajo, la pimienta, la albahaca y el jugo de limón.
 

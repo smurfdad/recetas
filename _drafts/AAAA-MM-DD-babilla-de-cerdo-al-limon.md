@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Una babilla de cerdo de un kilo
 
 Zumo de un limón
@@ -48,7 +47,6 @@ GUARNICION
 2 cucharadas de mantequilla
 
 <h3>Preparación</h3>
-
 Salpimentar la babilla y dorarla en aceite muy caliente por todos
 
 los lados, durante unos quince minutos.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 Dos latas de elote
 
 Media cebolla grande
@@ -45,6 +44,5 @@ Una taza de agua
 sal y piemienta al gusto
 
 <h3>Preparación</h3>
-
 Picar el tomate, la cebolla, el chile y el ajo. Freir en el aceite hasta que la cebolla este transparente y el tomate se ponga blandito. Incorporar una lata de elote y el agua,salpimentar y cocinar por 2 minutos. Apartar del fuego y licuar. En una sarten, poner la cucharada de margarina y cocinar la mezcla licuada. Agregar la otra lata de elote y en el ultimo hervor agregar la leche. Se sirve calientita y con queso chihuahua espolvoreado encima.
 

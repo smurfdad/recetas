@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas cocidas.
 
 Medio bote de maíz cocido (200 gramos aproximadamente).
@@ -41,6 +40,5 @@ Zumo de medio limón o vinagre.
 Sal.
 
 <h3>Preparación</h3>
-
 Cortamos las patatas en lonchas y el tomate en dados o rodajas y los colocamos en un plato; el tomate en el borde y las patatas en el centro. Esparcimos por encima el maíz y disponemos unas tiras de jamón cocido adornando. Hacemos la vinagreta con la menta picada, el zumo de medio limón, que podemos sustituir por vinagre, seis cucharadas de aceite y sal. Una vez que la vinagreta este bien mezclada, se riega con ella todo el conjunto.
 

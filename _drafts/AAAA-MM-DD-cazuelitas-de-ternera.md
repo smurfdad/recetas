@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de morcillo de ternera (puede ser de sobras del cocido)
 
 250 gr. de patatas
@@ -48,7 +47,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se enciende el horno a 200&ordm;. Se corta el morcillo de ternera en dados pequeños. Se pelan y se pican la cebolla, el ajo y las zanahorias. Se pica la rama de apio. Se pone a calentar aceite en una cazuela y se rehoga la cebolla.
 
 A continuación, se añade el ajo, las zanahorias y el apio. Se sofríe todo junto, durante unos minutos, a fuego muy suave. Cuando esté casi hecho este sofrito, se le añaden los tomates pelados y se aplastan con una cuchara de madera. Se añaden las hierbas picadas y se sazona con sal y pimienta. Se tiene hirviendo a fuego muy suave, durante unos 10 minutos.

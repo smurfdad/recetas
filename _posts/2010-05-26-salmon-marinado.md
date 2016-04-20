@@ -9,7 +9,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 1 salmón de 2 kg.
 
 4 cucharadas de azúcar
@@ -23,7 +22,6 @@ una pizca de pimienta molida
 un poco de aceite de oliva
 
 <h3>Preparación</h3>
-
 Pedir en la pescadería que abran el pescado al medio y quiten la espina. (Pueden ser 2 lomos).
 
 Mezclar en un bol el azúcar, la sal, la pimienta y el eneldo.

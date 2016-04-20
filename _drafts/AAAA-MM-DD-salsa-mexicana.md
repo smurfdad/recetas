@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 3 Tomates maduros
 
 1/2 taza de Cebolla
@@ -37,10 +36,8 @@ Para 6 personas.
 2 cucharaditas de Zumo de limón.
 
 <h3>Preparación</h3>
-
 Picar los ingredientes arriba indicados muy bien y mezclarlos para lograr una uniformidad en un plato o en una salsera, agregar agua si es necesario para aligerar un poco.
 
 <h3>Observaciones</h3>
-
 Recuerda que el chile es picante: puedes hacer la salsa tan picante como te entren ganas.
 

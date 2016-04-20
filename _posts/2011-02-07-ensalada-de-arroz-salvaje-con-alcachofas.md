@@ -12,7 +12,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 tazas de arroz salvaje cocido
 
 1 taza de arroz blanco cocido
@@ -52,7 +51,6 @@ Aderezo de Curry:
 1 cda. jugo de cebolla
 
 <h3>Preparación</h3>
-
 Cocinar el arroz salvaje y el arroz blanco por separado según sus instrucciones. Combinar los dos y dejar enfriar. Agregarle todos los demás ingredientes menos las alcachofas. Cortar los tallos de las alcachofas y cocinar en agua con poca sal, de 20 a 30 minutos o hasta que se pueda sacar un pétalo fácilmente. Escurrir y dejar enfriar. Remover los pétalos y colocarlos en los platos en forma de flor. Los corazones de alcachofa se cortan en cubos y se agregan a la ensalada.
 
 En un bol separado mezclar bien los ingredientes del aderezo.

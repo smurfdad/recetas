@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote de piña de kilo.
 
 2 paquetes de gelatina de limón
@@ -32,7 +31,6 @@ Para 6 personas.
 caramelo líquido.
 
 <h3>Preparación</h3>
-
 Calentar el zumo de la piña y la gelatina.
 
 Triturar la piña y añadirla junto con la nata montada al zumo.

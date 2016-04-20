@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 salchichas
 
 1/2 l. de agua
@@ -53,7 +52,6 @@ Perejil picado
 Aceite
 
 <h3>Preparación</h3>
-
 Cuece las patatas en agua con sal. Cuando estén cocidas pasa por el pasapuré. Añádele una yema de huevo, un buen chorro de aceite de oliva y una rama de perejil picado. Mézclalo bien. Pon a cocer las salchichas en una cazuela con agua y unas ramas de perejil.
 
 Por últimos pela 2-3 dientes de ajo, dóralos y echa los higadillos de pollo cortados en trocito. Saltea.

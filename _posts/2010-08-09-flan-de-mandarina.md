@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 mandarinas
 
 9 cucharadas de azúcar
@@ -31,7 +30,6 @@ hojas de menta
 un madroño
 
 <h3>Preparación</h3>
-
 Pon 4 cucharadas de azúcar en una sartén, añade un chorrito de agua y unas gotas de zumo de limón. Pon al fuego y hierve hasta conseguir un caramelo oscuro. Baña un molde apto para el horno y reserva.
 
 Exprime 4 de las mandarinas y reserva el zumo.

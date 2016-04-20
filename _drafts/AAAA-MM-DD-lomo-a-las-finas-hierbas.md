@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1k de lomo limpio
 
 100g de manteca
@@ -46,7 +45,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Sellar el lomo en manteca por todos lados y dejarlo cocinar unos minutos. En una sartén dorar en manteca los ajos y los echalotes, agregar la harina y después de unos minutos agregarle el vino, el caldo y las hierbas, dejar reducir.
 
 Luego colar dentro de una cacerola y agregar el lomo entero. Cocinar 10 minutos agregando un poco de caldo si hace falta, luego agregar el jamón, los champiñones, el caldo y dejar otros 12 minutos.

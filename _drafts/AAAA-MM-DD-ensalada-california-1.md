@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 de lechuga.
 
 1 manojo de berros.
@@ -49,7 +48,6 @@ Sal.
 Rebanadas de pan de pueblo.
 
 <h3>Preparación</h3>
-
 Limpiamos la lechuga y los berros y troceamos las verduras.
 
 Lavamos el tomate y le quitamos las semillas dejando sólo la parte carnosa.

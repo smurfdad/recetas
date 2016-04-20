@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de bogavante
 
 250 gr. de garrafón
@@ -47,6 +46,5 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Ponemos una sartén de fondo grueso al fuego con seis cucharadas de aceite y cuando esté caliente echamos el bogavante partido por la mitad. Lo sofreímos y lo reservamos. Añadimos a la sartén la cebolla finamente picada, la sepia troceada, las alcachofas a cuartos y el garrofón. Le damos tiempo al sofrito unos 10 minutos y agregamos el tomate rallado. Removemos y echamos el agua. Colocamos de nuevo el bogavante en la sartén, lo dejamos hervir.
 

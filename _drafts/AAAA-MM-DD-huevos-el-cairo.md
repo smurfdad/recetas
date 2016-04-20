@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 patata mediana y rallada
 
 1 tomate pelado y cortado en trozos pequeños.
@@ -41,10 +40,8 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Calentar el aceite (dos cucharaditas.) y freír la cebolla hasta que esté dorada, añadir el tomate, la patata, el perejil; mover 5 minutos quitar del fuego y dejar enfriar. Batir los huevos con sal y pimienta. Añadir los huevos batidos a la mezcla de patata, mover muy bien. Calentar 3 cucharadas de aceite, echar una cantidad de la mezcla en el aceite hasta que esté dorada, darle la vuelta, sacar del fuego sobre un papel. Servir en un plato con arroz blanco.
 
 <h3>Observaciones</h3>
-
 Receta de Egipto
 

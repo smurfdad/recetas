@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de cocochas de merluza.
 
 12 cucharadas de aceite de oliva.
@@ -33,7 +32,6 @@ Para 4 personas.
 1 guindilla seca pequeña.
 
 <h3>Preparación</h3>
-
 Limpiamos las cocochas recortando los laterales y quitando la telilla negra.
 
 Fileteamos unos ajos y los ponemos en una cazuela con aceite de oliva hasta que cojan color.

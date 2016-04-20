@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 conejo
 
 sal
@@ -36,7 +35,6 @@ sal
 2 vasos de agua
 
 <h3>Preparación</h3>
-
 Troceamos el conejo, lo sazonamos y lo ponemos en una cazuela de barro. Añadimos las dos ramitas de tomillo, el aceite, el ajo entero y los dos vasos de agua.
 
 Meter al horno a fuego lento durante una hora y media.

@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de pollo deshuesado y troceado.
 
 250 grs. lomo de cerdo.
@@ -45,6 +44,5 @@ Sal (según gusto).
 Aceite de oliva (vaso pequeño).
 
 <h3>Preparación</h3>
-
 En una paellera de 2 raciones se pone el aceite de oliva y cuando esté caliente se agregan primero el pollo y luego el lomo. Una vez sofritos se añaden las verduras, rehogando. A continuación 100 cl. de caldo de carne dejando hervir unos 5 minutos para pasar después al horno donde mantendrá de 10 a 15 minutos.
 

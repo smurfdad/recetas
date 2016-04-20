@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 cdtas. de mostaza.
 
 2 cdas. de vinagre.
@@ -46,7 +45,6 @@ Una pizca de azúcar.
 1 ramita de eneldo.
 
 <h3>Preparación</h3>
-
 Haga una salsa mezclando bien la mostaza, el vinagre y el vino. Sazone con la sal, la pimienta y el azúcar, y añada el aceite.
 
 Pele y corte finamente la cebolla, el pepino y los huevos duros, y añádalos a la mezcla de la salsa junto con las hierbas picadas bien finitas. Por último, agure las alcaparras.

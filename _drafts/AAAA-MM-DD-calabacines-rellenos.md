@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 calabacines
 
 1/4 k de carne de ternera picada
@@ -42,7 +41,6 @@ Mantequilla
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Cortamos los calabacines a lo largo, los vaciamos y reservamos la carne.
 
 En una sartén con un poco de aceite freímos los calabacines ligeramente salpimentados.

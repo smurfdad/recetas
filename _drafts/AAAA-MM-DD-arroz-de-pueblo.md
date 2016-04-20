@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de arroz
 
 250 gr. de carne de ternera
@@ -65,7 +64,6 @@ perejil
 75 cc. de vino blanco ó tinto
 
 <h3>Preparación</h3>
-
 Se pone el aceite, la cebolla, el pimiento y el laurel en una cazuela de barro, se deja pochar sin que se dore, se añade la carne y el chorizo troceados, se rehoga.
 
 A continuación se echan las gambas peladas y el jamón en tacos; se machaca el ajo y el perejil y se añade con el vino, seguidamente se añade el arroz y el pimentón, se da una vuelta y se le echa el fondo de carne y la sal, lo dejamos que empiece a hervir fuerte y luego a fuego lento durante 15 ó 20 minutos, una vez cocido el arroz se le añade el huevo y los guisantes. Se presenta en la misma cazuela.

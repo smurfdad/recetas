@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 11 galletas maria
 
 1 vaso de azúcar
@@ -34,7 +33,6 @@ Para 6 personas.
 50 gramos de almendra molida cruda
 
 <h3>Preparación</h3>
-
 Introducir los ingredientes en un cuenco y batir con la batidora.
 
 Ponerlo en un molde caramelizado.

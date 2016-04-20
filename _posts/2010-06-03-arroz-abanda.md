@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr arroz
 
 200 gr merluza
@@ -27,7 +26,6 @@ Para 4 personas.
 azafrán en polvo
 
 <h3>Preparación</h3>
-
 Poner los pescados en una cazuela con dos litros de agua y dejar cocer hasta que quede un litro de caldo aproximadamente.
 
 Sacar el pescado a una fuente aparte, quitando la cáscara a los  mejillones y a los langostinos, reservar.

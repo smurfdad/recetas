@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 muslo conejo
 
 ciruela seca
@@ -45,7 +44,6 @@ cebollita
 mantequilla
 
 <h3>Preparación</h3>
-
 Cubrir de brandy las ciruelas pasas y reservar. Deshuesar los muslos teniendo cuidado de no romper la carne, salpimentar, rellenar con las ciruelas pasas y cerrarlos con un palillo. Por otro lado rehogar la cebolla cortada en juliana en un poco de aceite hasta que esté transparente, entonces añadir el conejo y unas hierbas frescas. Regar con vino blanco y caldo y dejar a fuego suave hasta que el conejo esté listo. Entonces, apartar el conejo y dejar reducir la salsa.
 
 Cocer las cebollitas y glasear con mantequilla, azúcar y vinagre. Tornear y cocer las zanahorias. Servir el conejo en un plato, salsear y adornar con las cebollitas y la zanahoria.

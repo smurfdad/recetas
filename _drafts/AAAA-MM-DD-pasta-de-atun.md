@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lata de atún en agua
 
 1 cebolla pequeña cortada en cuadros finos
@@ -41,7 +40,6 @@ categories:
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Escurrir toda el agua del atún, ponerlo en un tazón y agregar el queso de crema, la mostaza y la mantequilla, mezclar hasta lograr una pasta bien consistente y uniforme, añadir el resto de los ingredientes sazonándolo al gusto.
 
 Servir sobre galletas o pan integral.

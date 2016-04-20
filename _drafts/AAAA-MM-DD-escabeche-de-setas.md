@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs de setas de cardo
 
 150 grs de, Agaricus capestre, (Champiñón silvestre)
@@ -38,6 +37,5 @@ Laurel
 1 cucharada de pimentón dulce
 
 <h3>Preparación</h3>
-
 Se saltean las setas lentamente en un poco de aceite de oliva. Una vez listas, se reservan y se añade a la sartén el resto del aceite, en el que se dora un diente de ajo para que el aceite no sepa a crudo. Se deja templar el aceite y se le añade la cucharada de pimentón dulce y el vinagre de vino blanco. Una vez listo el escabeche se vierte sobre las setas a las que se habrán agregado el resto de los dientes de ajo picado y hojas de laurel al gusto y se conserva en un recipiente adecuado en el frigorífico.
 

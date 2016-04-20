@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gramos de tallarines.
 
 300 gramos de sobrasada.
@@ -35,7 +34,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Ponemos una cazuela con agua a hervir.
 
 Cuando el agua empieza a hervir echamos la sal (una cucharada y media) y la pasta.

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga rizada
 
 1 lechuga romana
@@ -51,11 +50,9 @@ Vinagreta:
 1 cdta. de sal y pimienta negra recién molida
 
 <h3>Preparación</h3>
-
 Lavar las lechugas y picarlas con la mano o con un cuchillo plástico para que no se oxiden. Escurrirlas bien. Picar los pepinos, los tomates, los rábanos y las cebollas en rebanadas. Colocar las lechugas en el fondo de una bandeja. Distribuir los demás vegetales encima. Agregar el queso feta cortado en trozos, al final. Preparar la vinagreta mezclando todos los ingredientes. Agregar a la ensalada al momento de servir.
 
 <h3>Observaciones</h3>
-
 Si desea, puede agregar pimentones rojos y verdes cortados en julianas.
 
 También puede añadir anchoas y alcaparras.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de trigo integral
 
 250 gr. de garbanzos remojados
@@ -44,7 +43,6 @@ Sal
 Agua
 
 <h3>Preparación</h3>
-
 Se pone el trigo a remojo durante un cuarto de hora, después se restriega a en una teja por su parte cóncava, (o en su caso, una raspadora) y se separa cuidadosamente la cáscara.
 
 A continuación, se introducen en una olla los nabos, el cardo, los garbanzos, la calabaza y el cerdo, bien cubierto todo de agua fría. Se pone la olla al fuego y se deja cocer despacio hasta que todo queje tierno, Ha de quedar caldoso. A media cocción, añadir el tallo de hierbabuena y el pimentón Sazonar con sal.

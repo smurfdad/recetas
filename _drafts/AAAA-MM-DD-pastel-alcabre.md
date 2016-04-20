@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 rape, 1/2 kg. de hígado
 
 gambas, 300 gr.
@@ -55,6 +54,5 @@ sal,
 pimienta,
 
 <h3>Preparación</h3>
-
 En un cazo se funde la manteca y se rehogan los ajos, los puerros y la cebolla. Se trocea el hígado y el marisco y se cuece un poco. Se echan el coñac y el jerez. Se retira y se añaden los huevos y la nata. Se pasa por el triturador, y se echa en la tarrina. Se mete en el horno al baño María durante 40 minutos. Se deja enfriar bien y se sirve con tostadas de pan.
 

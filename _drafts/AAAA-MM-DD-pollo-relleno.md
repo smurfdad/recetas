@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 Un pollo de 1 1/2 kg.
 
 media barra de pan duro
@@ -43,7 +42,6 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Se pone en remojo el pan en leche. Cuando esté bien empapado se exprime y se corta en trozos. En una sartén con un poquito de aceite se fríe media cebolla y se agrega el pan y se fríe hasta que quede dorado.
 
 Se retira del fuego y se agregan la pimienta, los dos huevos crudos y enteros y el perejil picado. Se amasa. Con esta masa se rellena el pollo. Se sazona, se cose para evitar que se salga el relleno, se embadurna bien de pimentón y sal y se pone en una olla con la cebolla en cascos, los ajos enteros y un vaso de agua.

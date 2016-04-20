@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 550 grs. de chocolate blanco
 
 200 grs. de nata líquida
@@ -34,7 +33,6 @@ Chocolate negro
 Mantequilla
 
 <h3>Preparación</h3>
-
 Poner la nata con el chocolate blanco, en el fuego y cuando hierva echar brandy. Cambiarlo a un molde y dejar enfriar en nevera durante 4 horas.
 
 Hacer bolas con un sacabolas de melón. Pinchar las trufas con un palillo intentando mojar cada bola en chocolate (negro) fundido, junto con la mantequilla. Para que escurran se pinchan los palillos en una manzana o naranja.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pan del día anterior.
 
 1 vaso de aceite de oliva.
@@ -36,7 +35,6 @@ Para 6 personas.
 Sal al gusto.
 
 <h3>Preparación</h3>
-
 Sacar la miga del pan, remojarla en agua y cuando esté bien remojada, sacarla y exprimirla bien.
 
 La forma clásica de hacerlo es en mortero o dornillo (especie de mortero de madera) y en caso de querer hacerlo así, colocar en el mortero primero la sal,
@@ -56,6 +54,5 @@ Servir en plato sopero o en tazas de consomé. Se puede acompañar, como el gazp
 de jamón.
 
 <h3>Observaciones</h3>
-
 Esta sopa fresca puede considerarse como una variante del gazpacho que tiene su origen en Córdoba.
 

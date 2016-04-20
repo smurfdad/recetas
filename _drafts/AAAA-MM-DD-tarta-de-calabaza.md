@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Pasta Quebrada:
 
 150 grs. de harina
@@ -52,7 +51,6 @@ Relleno:
 2 clavos
 
 <h3>Preparación</h3>
-
 Se pone la pasta quebrada en un molde. Se extiende, se pincha y se mete en el horno durante 10 minutos.
 
 La calabaza hervida se pone en la minipimer con el resto de los ingredientes, se chafa y se coloca encima de la pasta quebrada. Se vuelve a poner en el horno hasta que cuaje a 180&ordm;.

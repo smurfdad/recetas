@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 pimientos del piquillo
 
 3 pimientos verdes del país
@@ -32,6 +31,5 @@ chatka
 mahonesa.
 
 <h3>Preparación</h3>
-
 Mezclamos la chatka y la mahonesa y con la masa resultante se rellenan los pimientos. Se colocan en un plato alternando los colores y se adorna con el huevo cocido.
 

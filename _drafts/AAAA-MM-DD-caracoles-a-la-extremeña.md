@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 docenas de caracoles
 
 Agua
@@ -48,6 +47,5 @@ Tomillo
 Sal
 
 <h3>Preparación</h3>
-
 Lave y escurra los caracoles. Para hacerlos salir de sus conchas, introdúzcalos en agua fría y cuézalos, escúrralos y póngalos en una cazuela con la mantequilla, perejil, ajos, los clavos, tomillo, laurel y la harina. Mezcle todo bien con las yemas de huevo y sale. Al presentarlos a la mesa, vierta un poco de zumo de limón.
 

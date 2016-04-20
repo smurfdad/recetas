@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote pequeño de leche condensada
 
 2 medidas de leche normal
@@ -19,7 +18,6 @@ Para 6 personas.
 raspadura de limón (sólo lo amarillo)
 
 <h3>Preparación</h3>
-
 Mezclar las dos clases de leche que estén a temperatura ambiente.
 
 Añadir el limón y batir hasta que engorde, momento que se deja.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 Calabacines grandes, que equivalen a unos 2,5 Kgs.
 
 2 quesitos en porciones.
@@ -36,7 +35,6 @@ Mantequilla
 Sal
 
 <h3>Preparación</h3>
-
 Lavar y pelar los calabacines dejando algunas tiras verdes de la piel.
 
 Cortarlos en rodajas de un dedo de ancho.

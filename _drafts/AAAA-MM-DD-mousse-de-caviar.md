@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 latas pequeñas de caviar o sucedáneo
 
 1/4 kg. de mahonesa
@@ -38,6 +37,5 @@ unas gotas de salsa de Worcestershire
 2 cajas de gelatina Aspic
 
 <h3>Preparación</h3>
-
 Lavar el caviar en un colador para que no tiña de amarillo. Mezclar la mahonesa, la nata líquida, el zumo de cebolla, el zumo de limón y las gotas de salsa Worcestershire. Disolver la gelatina en un vaso de agua muy caliente y batir con la mezcla anterior. Añadir el caviar y revolver para que esté bien repartido. Echar en un molde mojado previamente con agua fría y dejar que se cuaje en la nevera. Salsa de acompañamiento: Salsa de mahonesa
 

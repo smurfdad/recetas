@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 15 gramos de mantequilla sin sal, a temperatura ambiente
 
 6 cucharadas de azúcar refinada
@@ -43,7 +42,6 @@ Para 6 personas.
 1 cucharada de azúcar, glass para espolvorear
 
 <h3>Preparación</h3>
-
 Engrase con mantequilla cuatro moldes para souffle de 200 ml. o seis de 150 ml., cubra las paredes con una capa uniforme de azúcar refinada.
 
 Caliente la leche en una cacerola pequeña a fuego medio. Rompa el chocolate en trozos y añadalo a la leche, justo antes de que hierva, retirela del fuego, tápela y déjela reposar de 2 a 3 minutos, o hasta que el chocolate se derrita.

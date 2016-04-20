@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 chuletas de cerdo
 
 6 lonchas de queso
@@ -21,7 +20,6 @@ un poco de aceite
 sal
 
 <h3>Preparación</h3>
-
 Untar una fuente de horno con aceite.
 
 Colocar las chuletas en la fuente y echarles sal.

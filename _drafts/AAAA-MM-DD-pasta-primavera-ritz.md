@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de pasta corta cocida
 
 2 tazas de vegetales congelados
@@ -41,7 +40,6 @@ Para 2 personas.
 16 galletas RITZ rellenas con queso
 
 <h3>Preparación</h3>
-
 Mezcle la pasta con los vegetales en un molde refractario. En una olla derrita 1/2 de taza de margarina a fuego medio, añada el harina y cocine por 2 minutos. Gradualmente agregue la leche y el ajo en polvo; cocine revolviendo constantemente hasta que hierva.
 
 Añada el queso parmesano y vierta sobre la pasta.

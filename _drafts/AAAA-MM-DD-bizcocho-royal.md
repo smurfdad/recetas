@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 yogur natural
 
 aceite
@@ -36,7 +35,6 @@ huevos
 levadura
 
 <h3>Preparación</h3>
-
 Hacemos 2 bizcochos de la siguiente manera:
 
 Cogemos un yoghourt natural, la misma cantidad de aceite, dos de azúcar, tres de harina, tres huevos y un sobre de levadura. Mezclamos todos los ingredientes y lo llevamos al horno, manteniéndolos a temperatura media hasta que veamos que están hechos.

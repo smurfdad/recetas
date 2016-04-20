@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 foie de pato de 500 gr. (foie crudo)
 
 1 berza verde pequeña
@@ -54,7 +53,6 @@ mantequilla
 harina
 
 <h3>Preparación</h3>
-
 Se quitan las hojas verdes oscuras a la berza, dejando las hojas verdes claras a la vista. Se parte la berza en dos. Se quita el tronco central y se sueltan las hojas. Se cortan en juliana y se lavan al chorro de agua fría, en un escurridor.
 
 En un bol, se ponen el aceite, el vinagre de jerez, la sal y la pimienta. Se bate todo bien y se reserva. Se cortan 3 escalopes de foie (de 1 cm. de grosor aproximadamente) por persona. Se pone a hervir la juliana de berza, al vapor, durante unos 5 minutos. Se escurre bien y se pasa a una ensaladera. Se aliña con la vinagreta y se reserva cerca del calor.

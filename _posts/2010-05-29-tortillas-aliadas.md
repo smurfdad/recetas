@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 200 grs. de patata
@@ -26,7 +25,6 @@ Para 6 personas.
 1 lechuga
 
 <h3>Preparación</h3>
-
 Se pelan las patatas y se parten en láminas, como para tortilla.
 
 Se pica la cebolla y se fríen junto con las patatas a fuego medio.

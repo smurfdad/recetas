@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. chipirones limpios, dados la vuelta y rellenos con sus tentáculos.
 
 3 cebollas
@@ -25,7 +24,6 @@ ajo, perejil
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Freír en una sartén o cazuela, a fuego medio, con un poco de aceite, la cebolla, zanahoria, puerro, ajo y perejil, todo ello picado, hasta que empiecen a tomar color. Añadir las tintas y triturar perfectamente bien hasta que quede muy fino.
 
 En otra cazuela baja o de barro freír un ajo en un poco de aceite y retirarlo cuando esté dorado, echando a continuación los chipirones rellenos dejándolos freír lentamente hasta que se pongan rosas.

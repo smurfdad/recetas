@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Filetes de Merluza.
 
 1/2 Cebolla.
@@ -39,6 +38,5 @@ Aceite.
 Nuez moscada.
 
 <h3>Preparación</h3>
-
 Se coloca la merluza en una fuente para el horno. La cebolla picada se pocha en el aceite. Una vez pochada la cebolla se escurre del aceite y se pone en el vaso de la batidora de varilla, se le añaden dos vasos de tamaño de vino de vino blanco, dos vasos de leche, dos pastillas de caldo de pescado y se tritura todo. La mezcla anterior se vierte sobre el pescado, se espolvorea con la nuez moscada y se introduce en el horno previamente caliente. Cuando se reduce la salsa (aproximadamente 25-30 minutos) está listo para servir.
 

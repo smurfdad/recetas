@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 libra de puerros
 
 4 cucharadas de mantequilla
@@ -39,6 +38,5 @@ Para 4 personas.
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Corte a los puerros a lo largo. Remueva la raíz y la mayor parte del extremo verde. Parta a los puerros contra el grano y déjelos remojando en agua por 20 minutos. Derretir la mantequilla en una olla sopera. Añada los puerros, apio y cebolla. Cocínelos hasta que estén suaves. Añada el caldo, haga hervir, reduzca el fuego, tapar y cocinar por una hora a fuego lento. Deje enfriar brevemente. Bata la sopa con cuidado en un procesador de comidas. Incorpore y mezcle la crema y cocine a fuego lento por 10 minutos. Servir caliente.
 

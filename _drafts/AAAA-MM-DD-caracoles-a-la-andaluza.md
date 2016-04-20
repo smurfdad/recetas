@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 y 1/2 Kg de caracoles
 
 100 gr. de jamón serrano
@@ -50,7 +49,6 @@ pimentón
 sal
 
 <h3>Preparación</h3>
-
 Se limpian a fondo los caracoles. Se ponen en un puchero con agua abundante, sal, pimienta, laurel y un diente de ajo y se dejan cocer durante dos horas.
 
 Aparte se prepara la salsa: En una sartén con aceite se fríen los ajos y el pan, se apartan y se reservan. Después se fríe la cebolla picada y los tomates en trozos. Cuando están tiernos los colocamos y los ponemos de nuevo al fuego.

@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata pimientos del piquillo ó 24 verdes pequeños
 
 1/2 kg. bacalao desalado(a remojo 48 horas cambiando 4 veces de agua) y desmigado
@@ -24,7 +23,6 @@ Para 6 personas.
 200 grs. nata líquida
 
 <h3>Preparación</h3>
-
 Freír las cebollas, zanahoria y ajo, todo ello picado, a fuego suave hasta que empiece a dorarse.
 
 Apartar la mitad del refrito  y a la otra mitad añadirle el bacalao, removiendo bien. Añadir el perejil, rectificar de sal y echarle un poco de nata.

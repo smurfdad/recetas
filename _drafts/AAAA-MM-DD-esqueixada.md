@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gramos de lomo de bacalao seco
 
 1 manojo de cebollas tiernas
@@ -43,6 +42,5 @@ Para 4 personas.
 Sal / Pimienta
 
 <h3>Preparación</h3>
-
 Desmigue el bacalao y póngalo a remojar unos 45 minutos o una hora, hasta que este desalado. Pele y lave las cebolla tiernas, pique la mitad y parta el resto. Ponga las cebollas a remojar con agua y un poquito de vinagre mientras se desala el bacalao. Lave los tomates y córtelos en octavos o rodajas gruesas. Pique el diente ajo. Ponga el bacalao desalado y exprimido en una ensaladera, mézclelo con las cebollas tiernas picadas y las aceitunas, esparza por encima el diente de ajo. Coloque a los lados de la fuente los huevos duros troceados, las cebollas partidas y los tomates, y sazone el conjunto con el aceite, el vinagre, sal y pimienta aparte en un cuenco. Sirva la esqueixada fría.
 

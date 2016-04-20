@@ -10,7 +10,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 75 g de espaguetis finos
 
 sal
@@ -32,7 +31,6 @@ pimienta
 2 cucharadas soperas de creme fraiche
 
 <h3>Preparación</h3>
-
 Cocer los espaguetis en agua con sal hasta que estén al dente, siguiendo las instrucciones indicadas en el paquete.
 
 Pelar las escalonias y el ajo, y cortarlos. Limpiar las espinacas, lavarlas y picarlas bien. Cortar el filete de pescado en forma de dados.

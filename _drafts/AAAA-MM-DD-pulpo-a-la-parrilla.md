@@ -23,7 +23,6 @@ Para 3 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pulpo pequeño
 
 hojas de laurel
@@ -43,7 +42,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Limpia el pulpo, ráspalo y lávelo varias veces en agua caliente.
 
 Poner a hervir abundante agua con 3 hojas de laurel y una cebolla trozada. Cuando el agua hierva poner el pulpo y la patata pelada entera. El pulpo debe quedar cubierto. El punto de cocción es cuando la patata esta tierna. Retirarlo, escurrirlo y pelarlo raspando la piel. Por separado mezcla la paprika, los dientes de ajo picados, sal y pimienta al gusto y el aceite de oliva. Mezclar bien. Macera el pulpo en la mezcla por 2 horas y luego apóyalos en la parrilla a carbón bien caliente, cuidando de que no se doren demasiado.

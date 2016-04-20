@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 medallones de merluza
 
 1 plato con harina
@@ -44,6 +43,5 @@ Para 4 personas.
 sal.
 
 <h3>Preparación</h3>
-
 Los medallones, limpios de espinas y pieles, se aplastan ligeramente y se espolvorean con sal. A continuación se rebozan, pasándolos por harina, huevo batido y miga de pan rallada, y se fríen con poco aceite. Cuando están bien dorados por ambos lados, se pasan a una fuente y se colocan en ella formando un círculo; el centro del mismo se rellena con un montículo de colas de gambas, previamente cocidas y calientes. Sobre cada medallón se pone una rodaja de huevo duro, cruzada por dos filetes de anchoa, colocados en forma de aspa. Se sirve muy caliente, acompañado de una salsera con el tomate frito caliente.
 

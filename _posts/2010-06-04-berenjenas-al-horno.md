@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 sal
@@ -29,7 +28,6 @@ mantequilla
 queso rallado
 
 <h3>Preparación</h3>
-
 Partir las berenjenas a lo largo y sin pelar.
 
 Sazonarlas con sal y rociarlas con un poco de aceite.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 una tajada de carne de 600 g
 
 sal
@@ -48,7 +47,6 @@ caldo
 300 g de masa de hojaldre o rectangular para pascualina
 
 <h3>Preparación</h3>
-
 Extender la carne sobre la mesada, abrirla, cortarle los nervios y sazonarla. Mezclar en un bol la miga de pan con la carne picada, el vino y el huevo. Colocar la preparación, el jamón cortado en tiritas y los huevos duros sobre la rodaja de carne. Arrollar, atar con hilo grueso y cocinar en una cacerola con aceite caliente y un poco de caldo. Retirar y entibiar. Envolver el arrollado en la masa de hojaldre.
 
 Decorar con recortes de masa pegados con agua y llevar al horno hasta que la masa esté dorada. Dejar enfriar unos minutos. Presentar entera para cortar en la mesa.

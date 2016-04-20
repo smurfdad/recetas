@@ -23,13 +23,11 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Sal marina gorda
 
 1 Kg. de dorada
 
 <h3>Preparación</h3>
-
 En una fuente de horno se coloca un lecho de sal gorda humedecida con agua y se coloca encima la dorada resposando sobre su lado izquierdo.
 
 Cubrir el pescado con más sal gorda humedecida hasta taparla completamente. Colocar el horno a la máxima potencia y dejar en el horno 30 mínutos.

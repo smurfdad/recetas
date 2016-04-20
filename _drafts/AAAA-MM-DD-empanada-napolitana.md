@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 tapas de empanadas
 
 Para el relleno 300g de ricotta
@@ -40,7 +39,6 @@ Para el relleno 300g de ricotta
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 En un recipiente mezclar la ricotta, con la mozarrella, el tomate, la longaniza picada, el queso parmesano y el huevo y condimentar con un poco de sal y pimienta.
 
 Rellenar los discos de empanadas humedecer los bordes con agua y cerrar las empanadas haciendo el repulgo. Pintar con el resto de huevo reservado y hornear en horno bien caliente sobre placa aceitada hasta que la masa esté dorada.

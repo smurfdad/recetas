@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 gr. de salmón
 
 2 puerros
@@ -42,6 +41,5 @@ Mantequilla
 Pimienta
 
 <h3>Preparación</h3>
-
 Pochar las verduras picadas finamente en una sartén con un trozo de mantequilla y pasarlas por el pasapuré cuando estén tiernas. Cocer el salmón, retira la piel y las espinas y desmigarlo. Agregar al fumet (caldo elaborado con las espinas y una cabeza de salmón) las verduras y el salmón desmigado y dejar cocer 5 minutos. Colar y servir.
 

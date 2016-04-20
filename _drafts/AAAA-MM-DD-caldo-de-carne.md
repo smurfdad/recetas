@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 5 litros de agua
 
 2 ó 3 puerros medianos
@@ -36,7 +35,6 @@ categories:
 sal
 
 <h3>Preparación</h3>
-
 Limpiar las verduras y picarlas finas, colocarlas en una marmita junto con la carne troceada y cubriremos de agua.
 
 Ponerlo a cocer a fuego fuerte, acto seguido, cuando el caldo empiece a hervir, bajar la intensidad al mínimo.

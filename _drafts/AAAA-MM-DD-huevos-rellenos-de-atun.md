@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos duros
 
 100 g de atún en aceite
@@ -38,6 +37,5 @@ escarola o lechuga
 sal y pimiento
 
 <h3>Preparación</h3>
-
 Hervir los huevos en agua salada durante unos 10 minutos. Pasar por agua fría, pelar y cortar horizontalmente por la mitad y retirar las yemas. Mezclar la salsa mahonesa con el sofrito y reservar la mitad. Añadir al resto el atún desmenuzado y la mitad de las yemas, mezclando bien. Rellenar los huevos con la preparación anterior y cubrirlos con el resto de la salsa reservada. Servir acompañados con escarola o lechuga.
 

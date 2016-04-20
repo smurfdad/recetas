@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tomates de ensalada medianos
 
 1 cebolla mediana
@@ -26,7 +25,6 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Cortar en dados, los tomates, la cebolla, el pimiento verde y los huevos.
 
 Disponerla sobre una fuente, aderezar con sal, vinagre y aceite.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/4 kg. de guisantes pelados
 
 2 patatas
@@ -44,7 +43,6 @@ Cebolla picada muy fina
 un poco de pimentón.
 
 <h3>Preparación</h3>
-
 Se pone los guisantes en la olla junto con el tomate, cebolla y patatas; se agrega el agua y se deja cocer, una hora aproximadamente, sobre la placa de su cocina eléctrica. Cuando estén tiernos, se pasan por el pasapurés, se añade algo de agua y se ponen a cocer con el cubito de caldo.
 
 En una sartén aparte, se fríe la cebolla y el ajo, y cuando empiece a dorar, se le añade el pimentón y se echa al puré. Se revuelve bien, y se comprueba el punto.

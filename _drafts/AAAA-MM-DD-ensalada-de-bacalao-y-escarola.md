@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 1 escarola.
 
 1 tajada de bacalao desalado.
@@ -40,7 +39,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos la escarola y la deshojamos.
 
 Sumergimos la tajada de bacalao en agua caliente y sacamos láminas de bacalao.

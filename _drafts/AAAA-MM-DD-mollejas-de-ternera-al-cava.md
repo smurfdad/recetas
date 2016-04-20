@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 mollejas enteras de ternera.
 
 2 cucharadas de aceite.
@@ -43,7 +42,6 @@ Salsa:
 1 nuez de mantequilla o margarina.
 
 <h3>Preparación</h3>
-
 Las mollejas se limpian de grasa y telillas, se salpimientan y se colocan en una fuente de horno, con el aceite y el vino blanco o cava. Se meten en el horno, se van bañando con el jugo que sueltan y se les da la vuelta. Añadimos un poco de agua, si fuese necesario, y dejamos que se hagan en el horno, una media hora, a 180 grados.
 
 Mientras, pochamos las escalonias picadas con la mantequilla y agregamos la nata y el cava. Dejamos que reduzca y ligamos la salsa. Incorporamos también la salsa de las mollejas desgrasada.

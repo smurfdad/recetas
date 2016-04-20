@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Calabacín
 
 pimiento
@@ -32,6 +31,5 @@ huevo de codorniz
 cebolla
 
 <h3>Preparación</h3>
-
 Se pocha la cebolla picada y se le añade luego el calabacín picado. Se deja hacer lentamente y una vez pochado se coloca sobre una tartaleta de hojaldre. Se adorna con pimiento, una gamba y se termina con un huevo de codorniz frito.
 

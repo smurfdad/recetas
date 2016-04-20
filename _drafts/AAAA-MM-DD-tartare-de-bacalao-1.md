@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 750 gr. de lomo de Bacalao
 
 100 g de aceitunas negras
@@ -38,7 +37,6 @@ mahonesa perfumada con ajo
 rebanadas de pan de molde
 
 <h3>Preparación</h3>
-
 Escurrir el Bacalao  y picarlo menudo.
 
 Picar también menudos todos los ingredientes de Tartare, o sea las aceitunas negras, los pepinillos, la cebolla y el huevo duro, la clara y la yema por separado.

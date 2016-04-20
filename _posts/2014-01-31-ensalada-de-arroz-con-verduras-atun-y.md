@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de arroz de grano largo
 
 1 pimiento rojo
@@ -36,7 +35,6 @@ Sal
 Un chorrito de limón (opcional) fin de lista
 
 <h3>Preparación</h3>
-
 En una cazuela cocer el arroz con 1 litro y un poco más de agua a temperatura suave unos 15-20 minutos. Mientras tanto vamos con las verduras.
 
 En un bol colocar el maiz, las zanahorias peladas y ralladas, la cebolleta finamente picada, los guisantes escurridos, el atún desmigado y escurrido, las lonchas de jamón finamente cortadas en tiritas y los pimientos cortados en juliana. Mezclarlo todo bien.

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 diente de ajo machacado
 
 1 cucharada de hojas y tallos de cilantro, picaditos
@@ -46,10 +45,8 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Combinar el ajo, cilantro y pimienta en un mortero y machacar para formar una pasta. En una sartén pequeña, a fuego medio, caliente la grasa y saltear la mezcla 1 minuto. Retirar del calor y reservar. Combinar el caldo, champiñones, nao la (o esencia de anchoas) y la mezcla de ajo en un cazo y deje cocer despacio 5 minutos. Agregar el pollo y cocer lo suficiente para calentar. Espolvorear de cebolleta cortada, rectificar de sal si hiciera falta
 
 <h3>Observaciones</h3>
-
 Es una sopa muy popular en Thailandia y sus ingredientes son fáciles de encontrar.
 

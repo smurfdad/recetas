@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 bogavantes de ración (500 gramos cada uno)
 
 4 medallones de rape.
@@ -33,7 +32,6 @@ Los jugos de la cabeza de los bogavantes.
 Sal.
 
 <h3>Preparación</h3>
-
 Abrimos los bogavantes en crudo extrayendo las colas y reservando sus jugos.
 
 Cocemos en agua hirviendo con sal durante 15 minutos las tenazas de los bogavantes y reservamos.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo y 1/2 de conejo
 
 1 cebolla
@@ -48,6 +47,5 @@ Pimentón
 Sal
 
 <h3>Preparación</h3>
-
 Troceamos el conejo en tacos. Aparte, en una sartén, sofreímos la cebolla, el pimiento y los tomates. Una vez pochado agregamos el ajo, lo doramos y lo incorporamos al conejo junto con el laurel y una cucharada de pimentón. Posteriormente, lo rehogamos y le añadimos el vino blanco, la sal y unas ramitas de hinojo. Le agregamos el agua y lo dejamos cocinar a fuego lento durante 40 minutos
 

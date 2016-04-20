@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 capón de 4 kg.
 
 150 g de lomo troceado
@@ -49,6 +48,5 @@ Pimienta
 Canela
 
 <h3>Preparación</h3>
-
 Para hacer el relleno, se saltean todos los ingredientes en una sartén a fuego vivo con manteca y aceite, y se les añade la sal, la pimienta molida, canela en polvo y el vaso de jerez. Mientras el relleno se enfría, se limpia y prepara el capón, con cuidado de dejar bastante piel en el cuello para que luego se pueda coser. Se sala por dentro, y se introduce el relleno con un poquito de jerez, y se cierra bien con hilo de bramante y una aguja de lana gruesa. Hornear a 200 grados con un poco de manteca, aceite, canela y una hoja de laurel, durante 2 horas aproximadamente. A medida que se hace, se va untando con el jugo que desprende y vino al gusto. Se puede acompañar de escarola y apio.
 

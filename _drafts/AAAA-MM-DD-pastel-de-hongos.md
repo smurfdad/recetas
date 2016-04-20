@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de hongos
 
 60 gr. de harina
@@ -40,7 +39,6 @@ caldo de ave
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Se apartan 3 ó 4 hongos bonitos para decorar. Se corta un poco la base de los hongos, quitándoles bien la tierra, pero tratándolos con mucha delicadeza. Con un paño húmedo, bien limpio, se frotan suavemente.
 
 En una sartén, se pone parte de la mantequilla, y se echan los hongos picados finamente. Se sofríen, removiendo a menudo y añadiendo un poco de caldo de ave a medida que se van secando.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 g de garbanzos
 
 600 g de carne fresca (costilla de cerdo)
@@ -49,6 +48,5 @@ Para 6 personas.
 sal.
 
 <h3>Preparación</h3>
-
 Los garbanzos se ponen en remojo el día anterior. Preparamos un puchero, lleno de agua, con todos los ingredientes excepto judías verdes, patatas, calabaza, pimentón y tomate. Se pone el puchero a cocer a fuego lento durante una hora. A los 40 minutos se incorpora el pimentón, el tomate, las patatas peladas y cortadas a cascos, la calabaza pelada y cortada en pedazos y las habichuelas troceadas. Se deja cocer durante 20 ó 25 minutos más. La morcilla se incorpora al puchero unos minutos antes de apartarlo del fuego, previamente pinchada para que no reviente. Se sirve bien caliente.
 

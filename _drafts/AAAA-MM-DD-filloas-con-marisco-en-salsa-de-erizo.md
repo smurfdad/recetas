@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 leche, 1/4 litro
 
 huevos, 3
@@ -38,7 +37,6 @@ crema de leche, 100 ml.
 mantequilla, 70 gr.
 
 <h3>Preparación</h3>
-
 Filloas: Derretimos la mantequilla y la añadimos al resto de los ingredientes, convirtiendo todo ello en una masa. Con este amoado y sobre una sartén, previamente untada con un poco de tocino de cerdo, (preferentemente), hacemos las filloas al fuego una por una.
 
 Relleno: Hacemos una bechamel con la leche o el fumet de pescado, la mantequilla, la harina, la sal y la pimienta. Mezclamos la bechamel con el marisco, previamente pelado, que servirá de relleno para las filloas.

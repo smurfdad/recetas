@@ -24,7 +24,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 pechugas de pollo
 
 3 lb. de arroz
@@ -54,7 +53,6 @@ salsa china al gusto
 aceite
 
 <h3>Preparación</h3>
-
 Limpiar y preparar las pechugas de pollo con sal, pimienta, oregano, ajo y salsa china; ponerlo a hervir por 20 minutos, enfriar y deshilachar la carne. Picar los vegetales. En una paila cocinar el pollo, los vegetales y el resto de los condimentos, sofreir y echarle 2 tazas de agua y cocinar por 20 minutos
 
 Aparte en una paila, colocar 3 cucharones de aceite y sofreir el azafrán, lavar el arroz y cuando el azafrán se haya sofrito se echa el arroz, 1 cucharada de sal y 3 tazas de caldo de pollo, cuando el arroz haya secado se echa todo lo que tiene en la otra paila, se tapa y de deja secar por completo.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de calamares en rodajas
 
 4 cebollas
@@ -36,7 +35,6 @@ Sal
 1/2 kg. de tomate frito
 
 <h3>Preparación</h3>
-
 Se trocean los ajos y se cortan en tiras las cebollas. Se refríen en un poco de aceite. En cuanto estén blandos y empiecen a tomar color, se añade el tomate y se rehoga.
 
 Se incorporan los calamares, se sazonan con sal y se bañan con un vasito de agua. Se salpican con perejil y se cuece suave hasta que los calamares estén tiernos.

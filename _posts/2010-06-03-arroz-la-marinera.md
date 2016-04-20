@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 aceite
 
 1 cebolla
@@ -34,7 +33,6 @@ colorante amarillo
 fumeet de pescado
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y ponerla a rehogar con un poco de aceite.
 
 Cuando este echa, agregar las gambas, el rape y las chirlas, dándole unas vueltas.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 grs de lomo de cerdo en 1 pieza
 
 1 diente de ajo
@@ -50,7 +49,6 @@ SALSA:
 3 cucharadas de mermelada de naranja
 
 <h3>Preparación</h3>
-
 Colocar la carne en una fuente para horno junto con el aceite, mantequilla, romero,laurel, y el ajo pelado y laminado. Salpimentar e introducir en el horno precalentado durante 25 min. a 200&ordm; dándole la vuelta a mitad de cocción.
 
 Rallar la piel de la naranja y el limón. Exprimir el zumo de ambos, introducirlos en una cacerola añadiendo la mermelada y el brand. Cocer a fuego lento 5 min, removiendo constantemente.

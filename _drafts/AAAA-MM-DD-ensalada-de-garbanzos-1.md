@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 3/4 kilo de garbanzos cocidos
 
 3 tomates medianos
@@ -39,7 +38,6 @@ Para la salsa
 1 cucharada sopera rasa de cebolla picada
 
 <h3>Preparación</h3>
-
 Escurre bien los garbanzos cocidos y ponlos en el centro de una fuente redonda.
 
 Coloca alrededor las rodajas de tomate y entre ellas la zanahorias.

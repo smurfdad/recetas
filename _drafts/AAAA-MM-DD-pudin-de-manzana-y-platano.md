@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 manzanas
 
 2 plátanos
@@ -40,7 +39,6 @@ Medio litro de leche
 caramelo para untar el molde
 
 <h3>Preparación</h3>
-
 Pelar las manzanas y los plátanos, cortarlos y saltear en una sartén con la mantequilla y cuando esté a media cocción añadir el anís.
 
 Luego hay que batir los huevos, añadiéndole el azúcar y mezclarlo todo muy bien con la nata y la leche, a continuación se añade la fruta troceada.

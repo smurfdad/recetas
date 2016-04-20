@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 huevos
 
 4 cucharadas de azúcar
@@ -17,7 +16,6 @@ Para 6 personas.
 250 grs. de nata batida
 
 <h3>Preparación</h3>
-
 Batir las yemas con el azúcar hasta que estén en pomada.
 
 Mezclar con la nata suavemente.

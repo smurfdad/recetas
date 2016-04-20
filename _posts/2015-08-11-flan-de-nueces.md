@@ -22,7 +22,6 @@ Para 6 personas.
 - caramelo líquido
 
 <h3>Preparación</h3>
-
 Untar la flanera con el caramelo.
 
 Aparte batir las yemas con la leche condensada, agregar las nueces, y batirlo todo en la batidora.

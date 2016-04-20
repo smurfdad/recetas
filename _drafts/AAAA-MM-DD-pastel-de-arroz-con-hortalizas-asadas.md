@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de arroz
 
 2 berenjenas
@@ -41,7 +40,6 @@ sal
 1 cucharada de aceite
 
 <h3>Preparación</h3>
-
 Poner los pimientos, las berenjenas y las cebollas peladas en el horno. A medida que se vayan cociendo, darles la vuelta. Una vez cocdias las hortalizas, ponerlas en un recipiente tapadas hasta que se enfríen. Cuando estén frías las berenjenas y los pimientos, pelarlos y cortarlos en tiras, y las cebollas a cuartos. Sazonarlo y verter por encima la cucharada de aceite.
 
 Poner a cocer el arroz con abundante agua hirviendo, sazonarlo y dejarlo cocer unos 15 minutos. Una vez cocido escurrirlo y dejarlo enfriar extendiéndolo para que no se pase.

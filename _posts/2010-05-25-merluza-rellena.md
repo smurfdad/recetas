@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cola de merluza de 1 kg. de peso
 
 100 grs. de jamón
@@ -31,7 +30,6 @@ un poco de miga de pan
 sal, perejil picado
 
 <h3>Preparación</h3>
-
 Se lava la merluza, se seca y se le quita la espina central con mucho cuidado, sin abrirla y con un cuchillo largo.
 
 Se pica el jamón, se rehoga en un poco de aceite y se añade el pan previamente remojado en la leche y los 2 huevos batidos.

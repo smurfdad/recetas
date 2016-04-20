@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 rebanadas de pan de molde integral
 
 200 gr. de crema de queso a las finas hierbas
@@ -40,7 +39,6 @@ aceite de freír
 sal, pimienta negra y perejil fresco
 
 <h3>Preparación</h3>
-
 Poner en un cuenco la crema de leche en polvo y el queso. Batir con una varilla, mientras se incorporan los huevos uno a uno. Salpimentar y engrasar 4 moldes con forma de corazón o fuente pequeña de horno. Cocer en el horno a 200 grados, al baño María, durante 45 minutos hasta que esté bien cuajado.
 
 Mientras tanto, cortar cada rebanada de pan con un corta pastas de corazón. Dorar en aceite y reservar sobre papel absorbente. Pelar las zanahorias y cortar en bastones finos con un rallador. Exprimir la naranja y regar la zanahoria, reservándola en la nevera.

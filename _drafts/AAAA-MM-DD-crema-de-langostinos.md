@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/4 kg de langostinos o gambones
 
 una cebolla y 3 ó 4 dientes de ajo
@@ -38,7 +37,6 @@ una cebolla y 3 ó 4 dientes de ajo
 50 cc de aceite y sal
 
 <h3>Preparación</h3>
-
 Se pone litro y medio de agua a hervir
 
 Se echan los langostinos y se cuecen unos minutos

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de champiñones pequeños
 
 3 cucharadas soperas de vino blanco
@@ -55,7 +54,6 @@ pimienta
 una pizca de azúcar
 
 <h3>Preparación</h3>
-
 Para preparar la pasta de freír se tamizan la harina y la sal en un bol. Se hace un hueco en el centro y se echa el aceite. Seguidamente se va incorporando la cerveza, poco a poco, llevando la harina hacia el centro y mezclando. Se sigue este procedimiento hasta obtener una pasta homogénea y espesa. Se deja reposar durante dos horas en un sitio templado.
 
 Para la salsa de tomate

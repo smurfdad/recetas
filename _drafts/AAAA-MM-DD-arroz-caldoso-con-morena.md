@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gramos de judías anchas.
 
 250 gramos de judías garrofó o peladilla.
@@ -51,6 +50,5 @@ Azafrán en hebra.
 Sal y calabaza.
 
 <h3>Preparación</h3>
-
 Limpiar las morenas y cortar los centros, separando las cabezas y las colas. Reservar los centros. Preparar un caldo concentrado con las cabezas y las colas para cocer después del arroz. A continuación, sofreir las verduras hasta que queden blandas. Agregar el tomate pelado y picado, dar unas vueltas y añadir el caldo de morena. Se cuece aproximadamente veinte minutos hasta que las verduras queden tiernas. Se incorpora el arroz, los centros de morena y el pimiento rojo cortado en seis tiras. Añadir el azafrán en hebra y rectificar de sal. El tiempo de cocción del arroz será de veinticinco a treinta minutos. En el transcurso de este proceso es importante vigilar el fuego con el fin de no quedarnos sin caldo.
 

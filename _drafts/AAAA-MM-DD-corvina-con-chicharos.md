@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de corvina a rodajas
 
 500 gr. de chícharos (guisantes)
@@ -47,6 +46,5 @@ Pan frito
 Perejil y Sal
 
 <h3>Preparación</h3>
-
 Sofreír en una sartén la cebolla con el ajo picado y agregar pimienta. Añadir los guisantes y el laurel. Rehogar y poner azafrán en hebras. Cubrir con agua y dejar cocer. Mientras, hacer un majado con ajo y pan frito. Añadir el majado al sofrito con los guisantes y echar un poco de agua y sal. Cuando los guisantes estén tiernos, colocar el pescado a rodajas ya limpio. Darles la vuelta a los tres minutos y dejar cocer otros tres minutos. Apartar y dejar reposar unos cinco minutos para servir caliente.
 

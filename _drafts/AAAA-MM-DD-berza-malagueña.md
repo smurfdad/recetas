@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gr. de garbanzos
 
 500 gr. de carne de ternera (morcillo)
@@ -57,6 +56,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 En una olla con abundante agua se ponen a hervir los garbanzos remojados, la carne de ternera (morcillo), el medio pollo, un hueso fresco (preferiblemente de tuétano), tocino añejo y la pata o el rabo de cerdo. Mientras hierve, se va quitando con una espumadera la grasa que se forma en la superficie. Se sacan las carnes, el tocino y el hueso y añadiéndole agua a la olla, se agregan las berzas que, según la época, pueden ser judías verdes, zanahorias y calabaza y si se quiere, habas y acelgas. Se lleva de nuevo a ebullición, a la vez que se adereza con un majado de ajo, pimienta, comino y pimentón.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 cuatro truchas limpias en lomos y sin espinas
 
 150 mililitros de vinagre de sidra
@@ -51,7 +50,6 @@ vinagre de Jerez
 sal
 
 <h3>Preparación</h3>
-
 Pelamos la zanahoria y las cebolletas y las cortamos en rodajitas finas, las pochamos en un puchero con un poco de aceite; añadimos el vino, lo dejamos reducir un poco, agregamos el caldo y el vinagre, lo dejamos cocer e incorporamos el tomillo, el laurel, la pimienta y un poco de sal. Lo hervimos 5 min. y añadimos los lomos de trucha. Lo dejamos cocer a fuego lento durante un par de minutos, lo retiramos y dejamos que se enfríe.
 
 Una vez frío, sacamos los lomos; retiramos del escabeche la pimienta, el laurel y el tomillo y trituramos el resto. Quedará como una salsa; la reservamos.
@@ -61,6 +59,5 @@ Aparte, pelamos y cortamos en juliana el resto de cebolletas y el blanco de puer
 Colocamos los lomos de trucha en los platos, añadimos el escabeche alrededor y le echamos la vinagreta por encima. Decoramos con una ramita de tomillo y cebollino picado.
 
 <h3>Observaciones</h3>
-
 Mientras estemos hirviendo las truchas, éstas deben quedar siempre cubiertas por el escabeche
 

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de pecho ó falda de ternera
 
 200 gr. de requesón
@@ -56,7 +55,6 @@ coñac
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Poner a rehogar 2 cebollas picadas finas en un poco de mantequilla. Cuando estén a medio hacer añadir las setas también finamente picadas. Dar punto de sazonamiento.
 
 Reservar.

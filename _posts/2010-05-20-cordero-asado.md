@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de cordero
 
 1 cebolla (opcional)
@@ -19,7 +18,6 @@ Para 4 personas.
 agua, sal
 
 <h3>Preparación</h3>
-
 Una vez limpio se coloca en una fuente de horno o una cazuela de barro con las verduras a su alrededor. La cebolla cortada en gajos, el ajo entero.
 
 En el fondo de la bandeja se pone un poco de agua y se tiene cuidado durante la cocción de que no le falte.

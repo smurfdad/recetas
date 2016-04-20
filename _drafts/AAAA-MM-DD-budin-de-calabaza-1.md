@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 tazas de calabaza (hervida y majada),
 
 1 pote de leche condensada,
@@ -38,6 +37,5 @@ pasas al gusto,
 1 taza de aceite vegetal o mantequilla derretida.
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes y echar en un molde engrasado y hornear a 350&ordm; F por 45 minutos o hasta que al introducir un palillo salga limpio.
 

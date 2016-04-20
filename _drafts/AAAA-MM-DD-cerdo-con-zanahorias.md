@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg zanahorias
 
 1 cebolla grande o 2 pequeñas
@@ -34,6 +33,5 @@ Para 8 personas.
 1 kg de lomo de cerdo en 1 trozo
 
 <h3>Preparación</h3>
-
 Rehogar el cerdo con la cebolla y las zanahorias, agregar el vino, la pastilla de caldo, sal cubrir con agua, tapar la olla express y dejar cocer 1 hora. Partir el cerdo en lonchas y pasar por la batidora la salsa. Acompañar de puré de patata.
 

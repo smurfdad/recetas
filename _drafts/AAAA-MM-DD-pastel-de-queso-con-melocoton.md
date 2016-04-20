@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de queso fresco (sin sal)
 
 1 bote pequeño de leche condensada
@@ -38,10 +37,8 @@ Para 6 personas.
 Un trocito de mantequilla
 
 <h3>Preparación</h3>
-
 Desmenuza las galletas y forra con ellas la base de un molde que habrás untado con un poco de mantequilla. En un bol mezcla con la batidora el queso troceado, los huevos y la leche condensada. Vierte la masa sobre el molde y hornea a 180 grados durante 20 minutos, hasta que cuaje. Deja enfriar y desmolda. Cubre el pastel con rodajas de melocotón y plátano.
 
 <h3>Observaciones</h3>
-
 En la elaboración de este postre se puede sustituir la leche condensada por nata líquida
 

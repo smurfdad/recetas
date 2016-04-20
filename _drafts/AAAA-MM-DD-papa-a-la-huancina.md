@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gr de queso fresco , o ricotta
 
 4 ajies verdes ( son amarillos en realidad )
@@ -43,7 +42,6 @@ Jugo de 1 limon
 Aceite sal
 
 <h3>Preparación</h3>
-
 Poner en la licuadora los ingredientes
 
 comenzando por el queso ajies sin pepas un poco de leche y licuar ir añadiendo mas leche si es necesario luego el limón, la sal y el aceite lo necesario para que quede cremosa como una mayonesa algo espeza, esto se srve sobre papas sancochdas y cortadas en tajadas de 1cm 1/2 que se ponen sobre hojas de lechuga y se adornan con tajadas de huevo duro y aceitunas esta es la verdadera receta.

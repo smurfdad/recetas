@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de trozos de pimientos ó 300 gr de pimientos asados
 
 100 gr de carne picada
@@ -28,7 +27,6 @@ guindilla o pimienta de cayena
 sal
 
 <h3>Preparación</h3>
-
 En una cacerolita se calienta la mantequilla con dos cucharadas soperas de aceite, se rehoga la harina y se incorpora la leche caliente, se pone sal y pimienta cayena y se mantiene caliente con al placa al mínimo.
 
 En sartén, se caliente una cucharada de aceite, se rehoga el picadillo, se añaden los pimientos, limpios y en trocitos pequeños, se rehogan y se vierte todo sobre la bechamel. Se rectifica de sal y pimienta y se cuece sobre la placa al mínimo, con la cazuela tapada, unos 20 minutos, o hasta que la carne esté tierna.

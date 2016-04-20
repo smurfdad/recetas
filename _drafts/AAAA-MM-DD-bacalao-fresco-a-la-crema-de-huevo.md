@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de bacalao fresco cortado en lomos.
 
 1 cebolla.
@@ -45,7 +44,6 @@ Sal.
 Pimienta blanca.
 
 <h3>Preparación</h3>
-
 Cortamos en tiras la cebolla pelada y el pimiento verde limpio y sin pepitas. Los reservamos.
 
 Limpiamos los lomos del bacalao y los salamos ligeramente.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg. de mejillones.
 
 125 gr. de zanahorias.
@@ -55,7 +54,6 @@ Caldo de pescado.
 Azucar.
 
 <h3>Preparación</h3>
-
 Rehogar, en tacita y media de aceite de oliva, cebolla picada. Cuando empiece a estar traslúcida, añadir una cucharada de pimentón rojo, dos de harina, tomate (pelado y sin simientes) y zanahoria (sin piel y a lonchas).
 
 Esperar, mojar con una copa de brandy, 2 de vino blanco y 1 litro de caldo de pescado.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 piernas de cabrito de 300 gr. cada una
 
 1 cebolla
@@ -40,6 +39,5 @@ Para 4 personas.
 Un poco de agua (1/4 de litro)
 
 <h3>Preparación</h3>
-
 Se rehogan en un recipiente las piernas de cabrito con todos los ingredientes arriba reseñados. Las cebollas y los tomates se cortan previamente. Después se introducen en horno hasta que se encuentren doradas.
 

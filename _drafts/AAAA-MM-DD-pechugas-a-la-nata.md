@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pechugas de pollo o pavo
 
 1 sobre de cebolla
@@ -31,6 +30,5 @@ Para 4 personas.
 1 bote de nata líquida
 
 <h3>Preparación</h3>
-
 En una cazuela de barro preferentemente, se ponen las pechugas. A continuación se extiende por encima de ellas el sobre de cebolla y la nata líquida. Se mete en el horno unos 15 min.a temperatura de 180&ordm;.
 

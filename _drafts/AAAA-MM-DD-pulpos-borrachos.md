@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kilos de pulpos.
 
 1/3 de taza de brandy.
@@ -49,7 +48,6 @@ rajas de chile jalapeño.
 aceitunas y alcaparras al gusto.
 
 <h3>Preparación</h3>
-
 En la pescaderia pide que te limpien el pulpo.En casa golpealo un poco para suavizar la carne.
 
 Lavalo muy bien y ponlo a marinar con el brandy y algo de sal.
@@ -63,6 +61,5 @@ calienta los aceites y dora los ajos con la cebolla, añade el jitomate picado y
 Para servir agrega rajas de jalapeño,aceitunas, rocia con perejil picado.
 
 <h3>Observaciones</h3>
-
 Se sirve con arroz blanco
 

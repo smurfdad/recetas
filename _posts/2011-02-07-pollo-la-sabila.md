@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo picado en ocho partes
 
 1 pimentón rojo cortado en trozos
@@ -45,7 +44,6 @@ vino dulce
 2 dientes de ajo machacados
 
 <h3>Preparación</h3>
-
 Licúe el ají, la cebolla y la sábila hasta obtener una pasta homogénea. Agregue el vino dulce y añada el pollo. Cubra con el líquido las presas y deje reposar al menos 6 horas dándole vueltas cada cierto tiempo.
 
 Transcurrido el tiempo, retire las presas, enharínelas y fríalas a fuego lento.

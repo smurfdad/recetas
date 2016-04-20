@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Hongos salteados
 
 salmón ahumado
@@ -38,6 +37,5 @@ pan
 sal
 
 <h3>Preparación</h3>
-
 Se cortan los hongos, el salmón, la lechuga y la escarola en juliana y se mezclan bien con mahonesa. Se corta el pan en rebanadas, se tuesta y se coloca el salpicón encima, un punto de mahonesa y el sucedáneo de caviar.
 

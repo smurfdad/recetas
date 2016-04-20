@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de pescado blanco en filetes
 
 3 dientes de ajo molidos
@@ -39,7 +38,6 @@ Para 8 personas.
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Sazonar el pescado con el ajo, la sal y la pimienta. Aparte, mezclar la crema de leche con la cebolla y el vino si desea. Agregar un poco de sal y pimienta.
 
 Engrasar un molde para hornear y colocar los filetes de pescado intercalándolos con la tocineta. Cubrir con la crema de leche y colocar al horno a temperatura regular hasta que esté listo.

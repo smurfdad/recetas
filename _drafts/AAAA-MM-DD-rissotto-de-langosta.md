@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 taza de caldo de mariscos
 
 1 libra de carne de langosta en trocitos
@@ -43,7 +42,6 @@ Para 4 personas.
 sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Hierve en una olla el caldo de marisco
 
 en una sarten honda sotee en el aceite de oliva la cebolla y el ajo

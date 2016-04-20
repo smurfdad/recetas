@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 canelones
 
 6 Langostinos
@@ -28,7 +27,6 @@ Perejil picado
 Aceite, sal y agua
 
 <h3>Preparación</h3>
-
 Se cuece la pasta en abundante agua hirviendo con sal, se escurre. Se prepara la bechamel.
 
 En una sartén con aceite se saltea la cebolla y el tomate picados con una pizca de sal.

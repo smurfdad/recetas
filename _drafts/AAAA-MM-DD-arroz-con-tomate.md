@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Cebolla
 
 8 Dientes de ajo
@@ -41,6 +40,5 @@ Perejil
 Sal
 
 <h3>Preparación</h3>
-
 Preparar un sofrito con el ajo, la cebolla, el pimiento verde y, por último, el tomate. Añadir 1 litro de agua y dejarlo hervir. Echar el arroz y dejarlo cocer durante unos 20 minutos o hasta que el arroz esté hecho.
 

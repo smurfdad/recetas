@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia a las hierbas
 
 1 pollo troceado
@@ -51,7 +50,6 @@ Nuez moscada
 2 trozos de mantequilla
 
 <h3>Preparación</h3>
-
 Dorar el pollo en la mantequilla, añadir la cebolla y dorar otros 5 min. Añadir la harina y dorar, para a continuación añadir 1 vaso de agua, el eneldo y el apio y cocer 35 min. removiendo y añadir el queso.
 
 Batir las yemas con el zumo, sal y pimienta y añadirlo a la cazuela del pollo, dejando cocer 3 min.

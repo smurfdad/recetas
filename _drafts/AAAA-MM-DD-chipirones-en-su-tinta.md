@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de cebollas
 
 aceite
@@ -38,7 +37,6 @@ pimienta en grano
 sal
 
 <h3>Preparación</h3>
-
 En una cazuela con aceite, se pone a cocer la cebolla troceada tipo juliana, la pimienta en grano, las dos hojas de laurel y la cabeza de ajos entera.
 
 A mitad de cocción se le añade los chipirones y un poco de sal. Se mantiene a fuego lento durante 20 minutos, quedando listo para comer.

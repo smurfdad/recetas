@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cdas. aceite DELEITE.
 
 2 dientes ajo finamente picados.
@@ -43,7 +42,6 @@ Para 4 personas.
 2 cdas. soya oscura china.
 
 <h3>Preparación</h3>
-
 Calentar un sartén de 30 cm. de diámetro aproximadamente (preferiblemente de teflón) y agregar la mitad del aceite DELEITE. Hacer en el una tortilla con los cuatro huevos previamente revueltos con la sal (esta tortilla no debe tener mas de 1/2 cm. de espesor).
 
 Una vez fría, cortar la tortilla en tiras de 1/2 x 3 cm. Aparte, en un wok agregar el resto del aceite DELEITE y una vez bien caliente agregar la espinaca, cebollín y ajo; saltear por un minuto y agregar el jamón.

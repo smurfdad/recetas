@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de arroz
 
 1/2 kg de tomate
@@ -49,6 +48,5 @@ loche o kion
 sal al gusto
 
 <h3>Preparación</h3>
-
 primero freir la carne para luego que este bien dorada echarle el tomate en cuadraditos, la pimienta, comino, culantro, loche o kion, dejarlo que se mezcle todo eso hasta que este bien freido y el tomate disuelto, luego echarle el agua, las arverjitas, el choclo y sal al gusto y dejarlo hervir, hasta que el choclo y la arverjita este cocinada agregarla el arroz bien lavado, moverlo y dejarlo secar, ya seco se mueve, se echa aceite y se sirve
 

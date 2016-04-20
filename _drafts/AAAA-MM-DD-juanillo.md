@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 plátanos para freir.
 
 1/2 kg. lomo de cerdo.
@@ -36,7 +35,6 @@ cebolla
 especia
 
 <h3>Preparación</h3>
-
 Pelar los plátanos, hacerlos rodajas, freir un poco (tostadito). Machacar las rodajas y dejarlas tipo moneda de 500 pts.
 
 El lomo cortarlo tipo pincho moruno freirlo y no tirar el sofrito vale para despues incorporarlo al arroz.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo de 1.200 gramos.
 
 Medio kilo de setas de cardo (u otras).
@@ -45,6 +44,5 @@ Caldo o agua.
 Sal y Pimienta.
 
 <h3>Preparación</h3>
-
 Se pican el pimiento, el tomate y la cebolla y se ponen a sofreír en una cazuela, con un chorro de aceite. Cuando estén suficientemente rehogados, se añade el conejo, troceado y salpimentado, las setas, bien limpias y sin tallos, y una cucharada de harina para que espese la salsa. Rehogamos unos minutos y añadimos el laurel y la nuez moscada. Cubrimos con agua y dejamos que cueza durante 45 minutos. Antes de servir hemos de comprobar que el conejo este tierno.
 

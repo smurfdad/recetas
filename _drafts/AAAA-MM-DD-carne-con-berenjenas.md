@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 berengenas
 
 1 kg de carne picada
@@ -46,7 +45,6 @@ Mantequilla
 Sal
 
 <h3>Preparación</h3>
-
 Se cortan las berengenas en lonchas alargadas un poco gorditas, se salan y se fríen en abundante aceite, se dejan escurrir.
 
 Por otro lado se pone a freír la carne. Cuando esté dorada se pasa por la batidora hasta que haga una pasta fina, se vuelve a poner al fuego y se le añaden la salsa de tomate, las guindillas, el vino y un poquito de sal.

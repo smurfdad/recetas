@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 yogur
@@ -38,6 +37,5 @@ Para 4 personas.
 1/2 vaso anis
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes con el turmix y se pone en un molde untado con mantequilla, se cuece al horno a 180&ordm;C durante 40 min.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Tres perdices
 
 una cebolla
@@ -42,7 +41,6 @@ aceite
 tomillo
 
 <h3>Preparación</h3>
-
 Se limpian las perdices y se colocan en un cazo alto, junto con la cebolla picada, la cabeza de ajo entera, la zanahoria cortada en rodajas, laurel, pimienta, sal vino y un buen chorretón de aceite.
 
 Se tapa el cazo y se deja hervir a fuego lento hasta que estén tiernas

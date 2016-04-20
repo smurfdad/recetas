@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 8 trozos de Bacalao de unos 100 gr. cada uno
 
 8 dientes de ajo
@@ -34,7 +33,6 @@ perejil
 aceite
 
 <h3>Preparación</h3>
-
 Escurrir el Bacalao y colocarlo en una cazuela cubierto con agua. Llevarlo a ebullición a fuego lento y retirarlo M fuego en el momento en que sube espuma a la superficie.
 
 Sacar el Bacalao de la cazuela con ayuda de una espumadera, escurrirlo bien y colocarlo en una fuente para horno.

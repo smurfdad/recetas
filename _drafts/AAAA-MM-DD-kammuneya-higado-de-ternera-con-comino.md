@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de hígado de ternera en trocitos.
 
 1 cebolla rallada
@@ -40,10 +39,8 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Freír la cebolla y el ajo en una cacerola, cuando estén dorados echar el hígado y mover 5 minutos. Añadir el tomate, luego la sal, la pimienta y el comino, hervir a fuego lento 20 minutos. Servir con arroz blanco, o arroz con fideos.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

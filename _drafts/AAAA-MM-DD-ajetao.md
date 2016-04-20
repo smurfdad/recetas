@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. judías blancas,
 
 1 kg. patatas,
@@ -36,7 +35,6 @@ sal
 1/2 kg de cardo
 
 <h3>Preparación</h3>
-
 Se ponen las alubias en remojo la noche anterior.
 
 En una olla, se ponen a cocer estas alubias, y cuando ya casi están, se les añade las patatas y el bacalao, troceados.

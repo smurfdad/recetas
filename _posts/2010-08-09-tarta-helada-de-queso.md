@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs. de nata líquida
 
 1 tarrina de queso philadelphia
@@ -22,7 +21,6 @@ Para 6 personas.
 6 sobaos
 
 <h3>Preparación</h3>
-
 Trocear por la mitad el sobao para que la base no sea tan gorda. Y poner en un molde hasta cubrirlo. Poner en un cazo 1/2 vaso de agua a hervir y añadir la gelatina. Montar la nata.
 
 Añadir a la nata montada el queso, el azúcar y la gelatina.

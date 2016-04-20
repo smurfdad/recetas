@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 berenjenas
 
 2 cdas. de jugo de limón
@@ -38,10 +37,8 @@ Para 6 personas.
 Aceite
 
 <h3>Preparación</h3>
-
 Lavar y cubrir las berenjenas con aceite. Colocar en una bandeja y cocinar en el horno a 350 &ordm;F durante cuarenta minutos. Al estar doradas, sacarlas y pelarlas. Triturarlas con ajo machacado, tahini, comino, sal y perejil fresco. Agregar unas gotas de aceite de oliva. Acompañar con pan árabe o vegetales crudos picados.
 
 <h3>Observaciones</h3>
-
 Sirve como pasapalo o en la preparación de sándwiches árabes.
 

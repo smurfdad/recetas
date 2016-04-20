@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 tazas de avena,
 
 3/4 taza de pedacitos de chocolate semidulce
@@ -32,7 +31,6 @@ Para 6 personas.
 1 taza leche condensada.
 
 <h3>Preparación</h3>
-
 Calentar el horno a 180 grados. Engrasar un molde cuadrado de 25 centímetros y reservar por un rato. Después, mezclar los ingredientes, avena, chocolate, nueces y leche condensada.
 
 Verter todo al molde engrasado y hornear 15 a 18 minutos hasta dorar las orillas. Retirar del horno y dejar enfriar luego. Cortar en cuadrados y llevar al colegio envueltos en papel mantequilla.

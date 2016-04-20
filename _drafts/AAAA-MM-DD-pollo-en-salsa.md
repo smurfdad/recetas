@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo troceado en trozos pequeños(8 octavos)
 
 1 lata tomate triturado 1/2 kg.
@@ -43,7 +42,6 @@ Ajo en polvo
 Aceite y sal
 
 <h3>Preparación</h3>
-
 Cortar en tiras las berenjenas, cebollas y los pimientos rojos. Freirlo en un poco de aceite. Cuando ablanden un poco y la cebolla empiece a transparentar,añade la lata de tomates y un poco de ajo en polvo, sofrielo y reservalo.
 
 Sala el pollo y rehogalo en una cazuela aparte con abundante aceite.

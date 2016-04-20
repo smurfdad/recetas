@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 g de boliches
 
 1 k de guisantes frescos
@@ -49,6 +48,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Cocer los boliches con media cebolla, clavo, laurel, tomate y un chorrito de aceite. Reservar. Los guisantes, limpios y ligeramente blanqueados en agua hirviendo, los rehogamos con cebolla finamente picada y unas gotas de aceite. Reservar. El resto del tomate, lo cortamos a dados y rodajas, así como el aguacate que lo cortaremos en rodajas. Juntar los boliches, los guisantes, los dados de tomate y la clara de huevo cocido cortada en dados. Hacer una vinagreta de jamón sudando el blanco de jamón y utilizando la grasa resultante junto con la yema de huevo, sal, aceite, vinagre y agua para montar la salsa a la que añadimos el jamón picado muy fino. Colocar un bouquet, sobre rodajas de tomate y aguacate y rociar con la vinagreta de jamón.
 

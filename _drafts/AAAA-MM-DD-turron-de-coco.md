@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 600 grs. de azúcar
 
 250 grs. de coco rallado
@@ -35,6 +34,5 @@ Para 8 personas.
 unas gotas de zumo de limón
 
 <h3>Preparación</h3>
-
 Deshacer el azúcar en agua durante un rato para que quede bien fino, se pone al fuego y se deja hervir hasta que al elevar el cazo y dejarlo caer, forme estalactitas en lugar de hilos, este punto se llama es pastelería punto de bola. En el mismo puchero se añade el coco rallado y la almendra que previamente habremos triturado conjuntamente, añadimos igualmente la leche condensada, lo mezclamos todo bien mezclado y rellenamos los moldes rectangulares forrados con papel. Debemos colocar mucho peso encima, pues tiene tendencia a deshacerse, y es necesario que esté muy bien prensado.
 

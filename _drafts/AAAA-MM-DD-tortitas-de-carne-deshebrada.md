@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 KG DE FALDA DE RES
 
 1 CEBOLLA MEDIANA
@@ -46,7 +45,6 @@ PIMIENTA 1/8DE CUCHARADITA.
 1/4 DE CEBOLLA
 
 <h3>Preparación</h3>
-
 La carne se pone a cociemnto en olla de presion mas o menos por 30 minutos, se saca se deshebra, en, en un recpiente se pone la carne, se le incorporan el huevo, el cilantro y la cebolla finamente picados, añades la pimienta, la sal, y por ultimo se le agrega la harina, mezclando todo muy bien a que quede perfectamente incorporados los ingredientes. En una sarte, se pone sufinciente aciete para freir, tomando porciones de la carne con una cuchara sopera y se van friendo, cuando toman un color doradito se sacan y se ponen sobre papel absorvente para quitar el ecceso de aceite, hasta terminar con la carne.
 
 En un recipiente hondo agregas el caldo donde se cocio la carne, agregas el 1/8 de cucharadita de pimienta, en ese caldito, agregas los jitomates la cebolla, y el ajo previamente molidos, dejas sazonar un poco agregas las toritas de carne una a una y dejas otros minutos sazonar todo, sirves bien calientitas.

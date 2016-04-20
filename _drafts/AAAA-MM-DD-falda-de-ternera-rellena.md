@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 falda de ternera
 
 250 gr. de magro de cerdo picado
@@ -84,7 +83,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se limpia bien la falda de ternera y se extiende sobre la mesa. En una sartén se pone un poco de aceite y se rehogan la cebolla y el ajo, bien picados. Se añaden los pimientos verdes y rojos en tiras y las aceitunas deshuesadas. Se sazona y se rehoga todo junto, sin que llegue a hacerse demasiado el pimiento.
 
 Se añade la carne picada y se le da un salteado rápido y corto, sin que se haga. Se apartan las tiras de pimiento en un plato y el resto se pone en un bol. Se deja templar. Se añaden al bol un huevo batido y el pan remojado en leche, bien escurrido. Se sazona y se mezcla bien. Se extiende este relleno sobre la falda de ternera.

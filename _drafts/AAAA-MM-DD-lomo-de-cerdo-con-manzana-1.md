@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 10 trozos de lomo de cerdo en filetes
 
 2 manzanas golden
@@ -36,7 +35,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Se cortan las manzanas en rodajas y se rebozan con harina. Se fríen en la sartén con abundante aceite hasta que estén blanditas. Se quitan de la sartén y se ponen en una bandeja una al lado de la otra.
 
 Por otra parte se salpimenta el lomo y se pone en el mismo aceite que el de la manzana. Cuando esté hecho se coloca un trozo de lomo encima de un trozo de manzana.

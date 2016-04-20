@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 ternera gallega, 4 entrecots de 300 gr.
 
 champiñones, laminados 400 gr.
@@ -49,6 +48,5 @@ sal,
 pimienta,
 
 <h3>Preparación</h3>
-
 En un soté de freír se pone el aceite y la charlota y se deja freír sin que se dore; se pasan los entrecots por harina y se fríen con la charlota y se ponen los champiñones, el Oporto y la salsa española. Se deja cocer un poco y se pone la nata. Se sacan a una fuente, se deja reducir la salsa y se echa por encima con los champiñones. Se acompañan con las patatas y perejil picado.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 20 Langostinos
 
 2 Dientes de ajo
@@ -32,7 +31,6 @@ Para 4 personas.
 1 barra de mantequilla
 
 <h3>Preparación</h3>
-
 lave bien los langostinos. no quiete la cascara que le da el gusto.
 
 corte en trocitos la cebolla y el ajo.

@@ -23,7 +23,6 @@ Para 10 personas.
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 1 taza de harina de trigo
 
 100 gr. de margarina
@@ -47,7 +46,6 @@ Para el Relleno
 uvas pasas (opcional)
 
 <h3>Preparación</h3>
-
 unir los ingredientes de la masa hasta formar una pasta suave pero sin amasarlo mucho luego se deja reposar en la nevera al menos por media hora luego se cubre un molde con la masa.
 
 Se licuan todos los ingredientes del relleno se agregan sobre la masa y se hornea por 30 min. o hasta que se dore.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de tomates
 
 250 gr. de cebolla
@@ -41,6 +40,5 @@ Aceite de oliva
 Sal y azúcar
 
 <h3>Preparación</h3>
-
 Hacer con el ajo, la cebolla y el pimiento picado un refrito con aceite de oliva. Agregar l tomate troceado sin piel, poner sal y una pizca de azúcar y dejar cocer. Aparte, poner en una cazuela el pan cortado a rodajas finas, mojarlo un poco y echarle por encima el tomate frito. Dejarlo cocer todo unos diez minutos a fuego lento y ponerle la rama de hierbabuena. Apartar, dejar reposar y servir caliente.
 

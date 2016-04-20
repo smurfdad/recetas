@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lenguados con piel preparados para hacer a la plancha
 
 1 limón
@@ -45,7 +44,6 @@ Perejil
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Salar los lenguados y ponerlos sobre una plancha muy caliente. Dejarlos a fuego vivo unos tres o cuatro minutos por cada lado. Cuando estén cocidos, retirarlos del fuego,
 
 pelarlos y colocarlos en filetes sobre los platos a servir.

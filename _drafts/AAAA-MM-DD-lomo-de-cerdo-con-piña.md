@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gramos de lomo.
 
 Media piña.
@@ -41,6 +40,5 @@ Pimienta.
 Sal.
 
 <h3>Preparación</h3>
-
 El lomo se pone a dorar en una cazuela con aceite, sal y pimienta. Añadimos el caldo y la piña en trozo y lo metemos en el horno durante media hora. Retiramos de la cazuela el lomo y la piña. Volvemos a colocar la cazuela en el fuego, agregamos la nata y dejamos cocer un par de minutos. Cortamos el lomo en lonchas y lo salseamos. Adornamos con la piña para servirlo.
 

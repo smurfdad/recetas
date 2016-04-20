@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 alcachofas frescas o en bote
 
 1 kg de almejas
@@ -42,7 +41,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Las alcachofas si son frescas, retirar las hojas exteriores, frotarlas con limón, y hervirlas en agua con sal; escurrirlas y cortar en 4 trozos, reservar.
 
 En una cazuela de barro, rehogar el ajo y una ramita de perejil picados, en un poco de aceite.

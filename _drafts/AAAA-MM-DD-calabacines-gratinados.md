@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 4 calabacines
 
 2 cucharadas de aceite
@@ -43,7 +42,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Lavar los calabacines, cortar los extremos y cortarlos en rodajas. Salpimentarlos.
 
 Calentar el aceite en una sartén y dorar los calabacines por ambos lados. Escurrirlos sobre papel absorbente.

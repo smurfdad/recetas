@@ -20,7 +20,6 @@ Para 6 personas.
 - Sal
 
 <h3>Preparación</h3>
-
 Quitar a las anchoas la cabeza, las tripas y la espina.
 
 Dividirlas en dos lomos y quitarles la cola.

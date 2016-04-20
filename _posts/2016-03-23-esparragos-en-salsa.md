@@ -19,7 +19,6 @@ Para 6 personas.
 - aceite de oliva
 
 <h3>Preparación</h3>
-
 Se hierven los espárragos en agua y sal, se escurren y se ponen en una fuente alargada que pueda ponerse al fuego.
 
 Se cuecen los huevos diez minutos, y cuando están duros, se pelan separando las claras de las yemas.

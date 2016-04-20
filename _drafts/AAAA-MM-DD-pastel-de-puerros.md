@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Masa:
 
 2 tazas de harina
@@ -54,7 +53,6 @@ Relleno:
 sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Masa:
 
 Tamizar la harina junto con el polvo de hornear y la sal. Colocar sobre la mesa formando una corona. Poner en el centro el huevo y la grasa. Agregar poco a poco la leche uniendo bien todos los ingredientes. Dejar reposar la masa 20 minutos. Si no se tiene mucha práctica es preferible unir todos los ingredientes en un recipiente y luego estirar la masa sobre la mesa.

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 kilos de alcachofas
 
 4 huevos
@@ -24,7 +23,6 @@ Para 4 personas.
 1 vaso de agua
 
 <h3>Preparación</h3>
-
 Limpiar las alcachofas y ponerlas a cocer en agua hirviendo con sal.
 
 Una vez cocidas, escurrirlas y reservar.

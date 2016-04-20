@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 ingredientes para 4 pizzas:
 
 1k harina comun
@@ -46,7 +45,6 @@ oregano
 500grs mozarella
 
 <h3>Preparación</h3>
-
 Colocar la harina,sal,azucary disolver la levadura en250cc.agua tibia y el aceite.Amasar bien y dejar leudar 30m,luego dividir la masa en cuatro bollos y nuevamente dejar leudar 30m,despues de este paso colocar en las pizzeras y dejar que leude nuevamente.
 
 Cortar en finas rodajas las cebollas colocar sal,oregano,ajo y un chorrito de aceite,(esto es conveniente que se haga por lo menos dos horas antes.

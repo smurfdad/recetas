@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 15 g. de guindillas secas, sin semillas
 
 15 g. de gambas secas
@@ -50,10 +49,8 @@ Para 4 personas.
 2 cucharadas de zumo de limón
 
 <h3>Preparación</h3>
-
 Remojar las guindillas y gambas en agua caliente que las cubra hasta que estén tiernas, unos 20 minutos. En batidora, combinar las guindillas y gambas y el liquido del remojo con el resto de los ingredientes. Batir hasta reducir a una pasta espesa. Añadir más zumo de limón si hace falta.
 
 <h3>Observaciones</h3>
-
 Receta thailandesa
 

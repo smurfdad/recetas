@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de ajos frescos
 
 200 gr. de gambas o langostinos
@@ -38,7 +37,6 @@ Pimienta negra
 Sal
 
 <h3>Preparación</h3>
-
 Sofreir los ajos en un poco de aceite (oliva). Añadir gambas o langostinos y rehogar con los ajos.
 
 Batir los huevos junto con sal, pimienta y 2 cucharadas de nata. Echar el batido de huevos, sobre el sofrito de ajos y gambas. Mezclar un poco a medio cuajar y servir.

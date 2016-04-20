@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 medallones de solomillo de 400 gr. cada uno
 
 150 gr. de hongos boletus edulis
@@ -45,10 +44,8 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Estofar los hongos troceados en mitad de la mantequilla, añadir el jugo de carne y la crema, cocer 5 minutos, triturar, sazonar y poner a punto de espesor. Sazonar los medallones, empolvar de harina y brasear a fuego vivo en el aceite con el resto de la mantequilla, dejándolos al punto. Retirarlos y flambear la sartén con el vino, verter la salsa. Hervirla y colarla.
 
 <h3>Observaciones</h3>
-
 Receta de Zaragoza
 

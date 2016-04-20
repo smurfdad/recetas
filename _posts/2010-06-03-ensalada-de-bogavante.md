@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga
 
 1 kilo de bogavante
@@ -22,7 +21,6 @@ vinagre de estragón
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Picar la lechuga en juliana fina.
 
 Añadir el ajo finamente picado.

@@ -23,12 +23,10 @@ Para 4 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 1 litro de helado de limón
 
 1/2 litro de champagne seco
 
 <h3>Preparación</h3>
-
 Batir en la batidora los dos ingredientes en cuanto se pueda batir el helado y servir en copas altas.
 

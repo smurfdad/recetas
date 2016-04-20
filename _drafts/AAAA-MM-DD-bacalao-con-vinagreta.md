@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lomos de bacalao.
 
 4 pimientos verdes asados.
@@ -46,6 +45,5 @@ Perejil picado.
 Sal.
 
 <h3>Preparación</h3>
-
 Los lomos de bacalao, una vez desalados y troceados, se fríen en aceite, en el que previamente se ha sofrito un ajo entero. Una vez que el bacalao este frito, se cogen los pimientos asados y se disponen en tiras en el fondo de los platos. Encima del pimiento se colocan los trozos de bacalao y todo se aliña con la vinagreta resultante de mezclar el aceite, el vinagre y la sal con el resto de los ingredientes bien picados.
 

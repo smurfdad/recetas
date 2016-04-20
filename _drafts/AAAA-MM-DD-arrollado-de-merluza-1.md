@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg filetes merluza
 
 2 cebollas
@@ -50,7 +49,6 @@ Para 6 personas.
 1 cda maicena
 
 <h3>Preparación</h3>
-
 Lavar, quitar las espinas y condimentar los filetes con sal, pimienta y limón.
 
 Rehogar la cebolla, colocarla en un bol y agregarle el pan remojado en leche y exprimido, las yemas, el perejil, la salsa blanca y condimentar.

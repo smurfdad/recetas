@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4   lomos de merluza (con la piel) de 200 gr.
 
 4   dientes de ajo.
@@ -55,7 +54,6 @@ Para el polvo de jamón:
 120 gr. De jamón ibérico.
 
 <h3>Preparación</h3>
-
 Para la merluza en salsa:
 
 Limpiar y sazonar los lomos. Poner una cazuela amplia a fuego lento con el aceite, los ajos muy picaditos y la mitad del perejil. Antes de que empiecen a dorarse los ajos añadir los lomos con la piel hacia arriba, mojarlos con el agua y mantener la cocción durante unos tres minutos, según el grosor, moviendo la cazuela para que ligue la salsa. Darles la vuelta, cocer tres minutos más y salar.

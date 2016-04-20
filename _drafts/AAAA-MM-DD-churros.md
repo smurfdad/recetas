@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 l. agua
 
 50 gr. mantequilla
@@ -36,6 +35,5 @@ Para 6 personas.
 1/2 sobre levadura
 
 <h3>Preparación</h3>
-
 Ponemos al fuego: el agua, la sal, el azúcar, la cáscara de limón y la mantequilla, hasta que esta de deshaga. Añades la harina y removemos muy bien hasta que se haga como una bola, que se despegue de las paredes de la cacerola.
 

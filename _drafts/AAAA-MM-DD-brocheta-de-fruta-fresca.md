@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 melocotones.
 
 2 naranjas.
@@ -38,6 +37,5 @@ Para 4 personas.
 Vino dulce.
 
 <h3>Preparación</h3>
-
 Pelamos y troceamos en cubos pequeños toda la fruta y la ponemos en un bol. Mezclamos bien todas las frutas y dejamos reposar en el frigorífico durante una hora para que se mezclen los sabores. En unas brochetas de madera insertamos las frutas intercalándolas por colores. Servimos frías las brochetas.
 

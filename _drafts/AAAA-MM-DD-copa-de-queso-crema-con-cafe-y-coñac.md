@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 cafés muy fuertes enfriados
 
 500 gramos de queso crema entero
@@ -36,6 +35,5 @@ Para 6 personas.
 cacao amargo en polvo
 
 <h3>Preparación</h3>
-
 En un bol, batir el queso para rendirlo cremoso e incorporar el café frío y el coñac. Batir la crema y mezclarla suavemente a la preparación anterior. Servir en copas y guardar en heladera. A la hora de servir espolvorear  con cacao amargo y decorar con fruta de bosque a gusto.
 

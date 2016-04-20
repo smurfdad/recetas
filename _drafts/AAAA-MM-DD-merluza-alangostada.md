@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de merluza de 200 gr
 
 1 hoja de laurel
@@ -34,7 +33,6 @@ puré de patatas
 2 cucharadas soperas de salsa de tomate
 
 <h3>Preparación</h3>
-
 Poner en una placa de horno, unos dos dedos de agua, el aceite y el laurel.
 
 Sazonar la merluza con sal y ponerla en la placa.

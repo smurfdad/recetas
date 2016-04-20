@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 endibias
 
 1 huevo cocido
@@ -40,6 +39,5 @@ Para 2 personas.
 sal y pimienta.
 
 <h3>Preparación</h3>
-
 Se limpian y se lavan las endibias y se les quita las primeras hojas. Se cortan en juliana y se ponen en una ensaladera junto con el jamón cortado en juliana y las nueces picadas. Se pica el huevo duro y se le añade el aceite, el vinagre, el estragón, la sal y la pimienta. Se mezcla y se vierte sobre la ensaladera, mezclando todos los ingredientes.
 

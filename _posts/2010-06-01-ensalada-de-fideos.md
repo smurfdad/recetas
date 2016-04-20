@@ -8,7 +8,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 250 grs. de fideos
 
 1 zanahoria en rodajas
@@ -36,7 +35,6 @@ Para el aliño:
 2 cucharadas de sesamo tostado
 
 <h3>Preparación</h3>
-
 Se cuecen los fideos en una cazuela con agua hirviendo durante 6 min y se escurren con agua fria.
 
 Se escalda la zanahoria y el apio en agua hirviendo durante 2 min.

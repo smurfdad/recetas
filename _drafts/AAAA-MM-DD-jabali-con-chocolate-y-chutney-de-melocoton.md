@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pieza de melocotón de Calanda
 
 40 gr. de azúcar
@@ -71,10 +70,8 @@ Para 4 personas.
 1 cl de vinagre de Jérez
 
 <h3>Preparación</h3>
-
 Para el chutney, cocer el melocotón y los orejones en el zumo de naranja y limón (a los que previamente hemos retirado la cáscara). Añadir la cáscara, la canela, la vainilla y el jengibre. Una vez cocidos, triturar con la pimienta rosa, la mantequilla y el azúcar. Añadir la guindilla y triturar un minuto más. Colar y reservar. Para el lomo de jabalí, reducir el aceto balsámico a una tercera parte, añadir el chocolate picado poco a poco sin dejar de mover el cazo y reservar. Cortar el lomo de jabalí en 4 trozos de 200 gr. limpios de nervios y grasa. Sazonar con sal y pimienta y dorar en plancha o sartén. Para la ensalada, limpiar la escarola de la que aprovechamos sólo las hojas amarillas. Deshojar el perifollo y el estragón. Saltear las senderuelas. Aliñar la ensalada y añadir las senderuelas. Introducir el lomo de jabalí en horno fuerte durante 3 minutos. Colocar en 4 platos trincheros un bouquet de ensalada, una cucharada de chutney y encima de la ensalada el lomo de jabalí. Salsear con salsa de chocolate.
 
 <h3>Observaciones</h3>
-
 Receta típica aragonesa.
 

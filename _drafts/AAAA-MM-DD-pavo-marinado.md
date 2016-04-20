@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 redondo
 
 1 limón
@@ -46,7 +45,6 @@ perejil
 sal.
 
 <h3>Preparación</h3>
-
 Mezclar el zumo de limón con 4 cucharadas de aceite, sal y una pizca de pimienta. Echarlo sobre el redondo y agregar el laurel.
 
 Dejar marinar 1 hora. Sacarlo después y dorarlo en 3 cucharada. de aceite, añadir una taza de agua, taparlo y cocerlo 2 horas.

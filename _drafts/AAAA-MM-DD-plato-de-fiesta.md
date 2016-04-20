@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 3 piñas medianas
 
 1/4 kilo de gambas
@@ -43,6 +42,5 @@ Salsa:
 2 cucharadas de whisky
 
 <h3>Preparación</h3>
-
 La piña la abres por la mitad a lo largo, vacias la pulpa con ayuda de un cuchillo,la cortas en trozos pequeños,los mejillones le cueces con un vaso de vino blanco, le sacas de su concha una vez hechos,las gambas la cueces y las pelas, la merluza igualmente, una vez que tienes dispuestos los ingredientes lo unes todo, cortando los palitos en rodaja y la merluza desmenuzada, una vez unidos rellenas las mitades de piña y la cubres con la salsa que la preparas de la siguiente manera: juntas la mayonesa con el kepchup y el whisky y lo bates bien.Queda un plato muy vistoso, fino y propio de cualquier celebracion, en navidad como primer plato queda ideal.
 

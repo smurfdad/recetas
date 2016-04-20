@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 planta de lechuga
 
 4 tomates
@@ -45,7 +44,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Lavar cuidadosamente la lechuga y escurrir o centrifugar.
 
 Cortar los tomates en gajos finos, pelar la cebolla cortarla por la mitad y luego en medias rodajas bien finas.

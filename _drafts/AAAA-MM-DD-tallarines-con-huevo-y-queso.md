@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 gr. de pasta fresca
 
 1/2 l. de nata
@@ -47,10 +46,8 @@ sal
 perejil picado
 
 <h3>Preparación</h3>
-
 Pon a cocer la pasta en una cazuela con abundante agua hirviendo y una pizca de sal. Deja cocer según indique el envase de la pasta. Escurre, refresca y resérvalos. Para la salsa, pon a reducir en otra cazuela, la nata, el mousse de queso fresco y el emmental rallado. En una sartén pon un poco de aceite, añade las almendras fileteadas y dóralas. Agrega los espaguetis y saltea brevemente. Sirve en una fuente amplia, formando 4 nidos. Sobre cada nido, casca un huevo. Vierte sobre cada huevo un poco de salsa de queso e introduce en el horno a fuego fuerte para gratinar. Retira la parte de superior de los tomates y córtalos en rodajas gruesas. Fríelas en una sartén con aceite y sírvelas alrededor de la pasta. Espolvorea con perejil picado.
 
 <h3>Observaciones</h3>
-
 Es importante el recordar la importancia de cocer la pasta al dente, ya que si la pasta queda empapada de agua (blanda), perderá su gusto.
 

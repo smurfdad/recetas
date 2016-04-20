@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de huesos de ternera troceados
 
 2 puerros
@@ -36,6 +35,5 @@ sal
 2 litros de agua
 
 <h3>Preparación</h3>
-
 Poner todos los ingredientes en una marmita, dejando reducir a fuego lento hasta que quede un litro de caldo aproximadamente.
 

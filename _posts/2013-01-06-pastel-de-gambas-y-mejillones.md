@@ -7,7 +7,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 300 gr de hojaldre
 
 1 kg de mejillones
@@ -31,7 +30,6 @@ Agua
 Sal
 
 <h3>Preparación</h3>
-
 Exiende el hojaldre, colócalo en un molde de 3 cm de altura y mételo en el horno a 200ºC durante 15 minutos.
 
 Limpia los mejillones y ponlos a cocer en una cazuela con un poco de agua a fuego vivo hasta que se abran, y después separa la carne de sus valvas.

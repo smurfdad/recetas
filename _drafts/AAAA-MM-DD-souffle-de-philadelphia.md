@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 yemas y 5 claras de huevo
 
 1 vaso de leche
@@ -38,7 +37,6 @@ Para 8 personas.
 Mantequilla y harina para untar el molde
 
 <h3>Preparación</h3>
-
 En un cazo mezclar con una varilla los dos tipos de harina y la leche. Una vez mezclado, calentar hasta que espese.
 
 Añadir la tarrina de philadelphia, remover para que se disuelva y cuando ligue la mezcla, que será alrededor de 2 minutos, retirar del fuego y dejar enfriar.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 40 almejas.
 
 Aceite de oliva virgen.
@@ -43,7 +42,6 @@ Sal.
 Perejil.
 
 <h3>Preparación</h3>
-
 El ajo, la cebolleta, el perejil y el cebollino, todos finamente cortados, los mezclamos con pan rallado y sal. Ligamos esta mezcla con aceite, hasta conseguir una especie de aderezo provenzal.
 
 En un cazo, con un poco de agua, abrimos las almejas al calor. Guardamos el caldo que suelten y colocamos las almejas en una fuente de horno. Ponemos encima de cada almeja un poco de aderezo provenzal y gratinamos de tres a cinco minutos.

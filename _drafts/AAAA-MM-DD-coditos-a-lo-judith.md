@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 caja de 16 onzas de coditos secos
 
 1 paquete de 16 onzas de tocineta
@@ -42,7 +41,6 @@ Para 8 personas.
 Oregano, adobo, sal, pimienta, comino, sal de ajo, aceitunas, una hoja de laurel y perejil al gusto.
 
 <h3>Preparación</h3>
-
 Ponga a ablandar la pasta segun las instrucciones de la caja.
 
 Eche a freir la tocineta hasta que este crujiente, elimine la grasa lo mas posible.

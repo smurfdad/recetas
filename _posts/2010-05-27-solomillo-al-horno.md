@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 filetes de solomillo muy gruesos
 
 6 lonchas de bacon
@@ -17,7 +16,6 @@ Para 6 personas.
 aceite, sal, pimienta
 
 <h3>Preparación</h3>
-
 Enrollar una loncha de bacon en cada filete de solomillo, sujetándolo con un palillo.
 
 Ponerlos en una bandeja de horno, untados con aceite y espolvoreados con sal y pimienta molida.

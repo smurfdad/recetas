@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 g de macarrones
 
 300 g de bacalao desalado y desmigado
@@ -43,7 +42,6 @@ Perejil picado
 Sal
 
 <h3>Preparación</h3>
-
 Cuece los macarrones en abundante agua con sal y dos cucharadas de aceite, y una vez cocidos al dente los refrescas.
 
 Pocha la verdura picada con un poco de aceite. Cuando esté bien pochada, añade el bacalao y rehógalo durante un para de minutos. Echa los macarrones y tenlos rehogando de 3 a 4 minutos. Sírvelos espolvoreados con perejil.

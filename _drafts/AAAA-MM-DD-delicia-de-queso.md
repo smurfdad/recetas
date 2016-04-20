@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 yogures naturales
 
 3 cucharadas maizena
@@ -36,6 +35,5 @@ Para 4 personas.
 caramelo (3 cuch.de azúcar)
 
 <h3>Preparación</h3>
-
 hacer un caramelo en el fondo del molde,mejor de cristal. Mezclar todo en la batidora,volcar en el molde y 13 minutos en el microondas a temp. media ó 30 en el horno
 

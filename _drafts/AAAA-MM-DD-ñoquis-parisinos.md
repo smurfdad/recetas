@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 70 minutos.
 
 <h3>Ingredientes</h3>
-
 Masa de ñoquis:
 
 Una pizca de nuez moscada molida.
@@ -53,7 +52,6 @@ Salsa bechamel:
 Sal y pimienta negra.
 
 <h3>Preparación</h3>
-
 Para preparar la masa de los ñoquis, vierta la nuez moscada, la manteca, la sal, la pimienta y 125 ml de agua en un recipiente, y lleve a ebullición. Incorpore la harina gradualmente y remuévala con una cuchara de madera para obtener una bola que se separe de los dos lados del recipiente. Pase la masa a un bol, déjela enfriar y agregue los huevos uno a uno; bátalos bien hasta deshacer todos los grumos. Incorpore entonces el queso y resérvelo.
 
 Para preparar la salsa besamel, funda la manteca en una sartén a fuego lento y añada la harina; remueva hasta obtener una masa suave y homogénea, y cuézala 3 minutos. Retírela entonces del fuego y déjela enfriar. Mientras, en un recipiente hierva la leche e incorpórela, batiendo, a la mezcla ya fría, luego llévela a ebullición a fuego lento, sin dejar de remover para que no se formen grumos. Retírela del fuego, añada el jamón y queso y condimente con sal y pimienta negra.

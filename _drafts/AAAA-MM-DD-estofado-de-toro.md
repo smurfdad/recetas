@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de carne de toro
 
 2 cebollas
@@ -44,7 +43,6 @@ aceite
 caldo de carne o agua
 
 <h3>Preparación</h3>
-
 Cortar la carne en tacos, sazonarla con sal y pimienta blanca, pasarlo por harina y freírlo bien.
 
 Picar muy finas las verduras y rehogarlas con un poco de aceite.

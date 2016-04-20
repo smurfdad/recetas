@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 dientes de ajo
 
 350 gr. de calamar limpio
@@ -47,12 +46,10 @@ sal y pimienta
 1 pastilla de caldo de pescado
 
 <h3>Preparación</h3>
-
 Se sofríen en una sartén los ajos troceados y la cebolla picada, cuando esté dorado se añade el tomate y el calamar troceado. Posteriormente se añaden 2 sobrecitos de tinta de calamar y se deja cocer.
 
 A parte ponemos al fuego en una cazuela el vaso de vino blanco, 2 sobrecitos de tinta de calamar, 1 vaso de agua y 1 pastilla de caldo de pescado y cuando empiece a hervir bajamos el fuego y ponemos dentro los pimientos rellenos con el sofrito y se deja cocer lentamente.
 
 <h3>Observaciones</h3>
-
 Tambien puede usarse en lugar del calamar anillas de calamar o sepia troceada
 

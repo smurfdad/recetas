@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 700 grs de lomo de cerdo, en dados
 
 75 grs de nata líquida
@@ -38,6 +37,5 @@ Para 4 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Dorar la carne en una cazuela con aceite. Añadir las finas hierbas y el caldo. Salpimentar y mezclar. Tapar y dejar cocer 40 minutos a fuego lento. Antes de servir, incorporar la nata y el queso blanco mezclados. Calentar a fuego lento. Servir el lomo con hojas de salvia picadas por encima.
 

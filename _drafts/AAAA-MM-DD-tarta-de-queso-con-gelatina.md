@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 30 galletas tipo maría (según diámetro del molde desmontable)
 
 2 cucharadas de mantequilla
@@ -34,7 +33,6 @@ categories:
 Mermelada de arándanos, frambuesa o fresa a elegir
 
 <h3>Preparación</h3>
-
 Trituramos las galletas y con la mantequilla formamos una masa y extendemos la masa por el molde.
 
 Preparamos la gelatina tal como se indica en el sobre y la dejamos enfriar.

@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 1 paquete de masa de hojaldre
 
 1 kg. de espinacas frescas
@@ -31,7 +30,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Lavar las espinacas en abundante agua corriente quitando los troncos grandes. Escurrir y poner a cocer en una cacerola con un puñadito de sal, sin añadir agua. Escurrir bien y picar.
 
 Cortar el beicon en trocitos, quitando la parte grasa y freír en una sartén, a fuego medio, con dos cucharadas de aceite. Añadir las espinacas y un pellizco de sal. Dar unas vueltas para que tome sabor y reservar en un bol.
@@ -49,7 +47,6 @@ Cocer al horno, previamente calentado a 190º, durante unos 45 minutos.
 Sacarla del horno cuando esté bien dorada y dejar entibiar antes de desmoldar.
 
 <h3>Observaciones</h3>
-
 Este pastel aparte de ser un primer plato, puede servir perfectamente para un aperitivo, cortándolo en cuadraditos.
 
 Se puede servir caliente o frío.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. de guisantes
 
 200 gr. de jamón serrano
@@ -40,6 +39,5 @@ Agua
 Sal
 
 <h3>Preparación</h3>
-
 En una cazuela con aceite rehoga la cebolla picada junto con el jamón. A continuación añade los guisantes y saltea el conjunto . Agrega la harina y moja con agua o caldo. Da un hervor con el fin de que se mezclen los sabores y prueba de sal. Finalmente sirve en la mesa en una fuente o cazuela baja. Espolvorea el perejil picado por encima.
 

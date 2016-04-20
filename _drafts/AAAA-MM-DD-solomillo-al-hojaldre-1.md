@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Una pieza de Solomillo de 1/2 kilo
 
 Pate de Foie
@@ -42,7 +41,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Poner el solomillo en el horno durante 10 minutos a fuego rápido con un poco de aceite. Dejar enfriar el solomillo. Muy importante, De lo contrario se rompe el hojaldre
 
 Estirar el hojaldre y untarlo con mantequilla salada. Si es posible doblarlo por la mitad. Sobre el hojaldre poner champiñón, el solomillo, champiñón, foie y bacon. Cerrar el hojaldre y pintarlo con huevo batido. Meterlo en el horno a 200 grados durante unos 20 minutos.

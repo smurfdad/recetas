@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de congrio
 
 200 gr. de tomates
@@ -51,7 +50,6 @@ perejil
 35 gr. de mantequilla
 
 <h3>Preparación</h3>
-
 Con el aceite se rehoga la cebolla. Se agregan los tomates, los ajos, el congrio, el perejil, el laurel, el tomillo y 2 1/2 litros de agua, se sazona con sal y pimienta y se cuece a fuego lento durante cuarenta minutos.
 
 Se pasa todo por un tamiz. Se añaden los fideos, la mantequilla, el azafrán machacado al mortero, los moluscos hervidos y sacados de la concha, y el queso, y se deja cocer por espacio de veinte minutos.

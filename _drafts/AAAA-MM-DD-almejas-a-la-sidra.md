@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. almeja (fina)
 
 1 Ud. cebolleta (tierna y grande)
@@ -44,6 +43,5 @@ naranja corteza
 1 vaso nata líquida
 
 <h3>Preparación</h3>
-
 Saltear y dorar los dientes de ajo y las cebolletas en aceite de oliva, añadir la harina y dorarla un poco, agregar las almejas, flambearlas con brandy y regarlas con la sidra, añadir la nata líquida y dejar que se abran las almejas, servir una vez se hayan abierto las almejas y la salsa esté ligada.
 

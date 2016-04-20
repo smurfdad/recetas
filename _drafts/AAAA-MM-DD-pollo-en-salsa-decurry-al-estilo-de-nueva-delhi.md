@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 muslos de pollo
 
 2cebollas
@@ -47,6 +46,5 @@ sal
 agua
 
 <h3>Preparación</h3>
-
 Pelar las cebollas y los ajos. Triturarlos junto con el tomate (limpio y con la piel). Con esta mezcla hacer un sofrito con aceite,añadiendo el laurel y el clavo. Cuando esté muy dorado el sofrito añadir los muslos de pollo pelados y limpios, el curry y el pimentón, y dejar unos minutos a fuego lento. Añadir agua y dejar hervir unos 45 minutos. Se sirve acompañado de arroz blanco.
 

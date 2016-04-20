@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 lomos de rape
 
 Pimentón dulce
@@ -38,6 +37,5 @@ Mayonesa
 Agua
 
 <h3>Preparación</h3>
-
 Se sazonan los lomos de rape y se enrollan, atándolos para mantener la forma. Se untan primero con aceite y después con el pimentón, teniendo cuidado de que queden bien cubiertos. Se ponen a cocer en una pota, con una hoja de laurel hasta que estén hechos (aproximadamente 20 minutos). Se sirve con mayonesa, cortado en rodajas como sifuese una cola de langosta.
 

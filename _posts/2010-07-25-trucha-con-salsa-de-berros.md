@@ -7,7 +7,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 800 gr. de trucha
 
 4 patatas
@@ -31,7 +30,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Pela las patatas, trocéalas y ponlas a cocer durante 15 minutos en una cazuela con agua y una pizca de sal.
 
 Retíralas y pásalas por el pasa purés. Riega con un poco de aceite. Espolvorea con perejil picado y un poco de pimienta. Mezcla bien e introduce en una manga pastelera.

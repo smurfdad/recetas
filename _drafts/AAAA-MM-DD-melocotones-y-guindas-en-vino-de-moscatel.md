@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 gr. de melocotones
 
 400 gr. de cerezas
@@ -34,6 +33,5 @@ Para 4 personas.
 1 clavo de especia
 
 <h3>Preparación</h3>
-
 Sumergir los melocotones un par de minutos en agua hirviendo. Pelarlos y cortarlos por la mitas. Eliminar el hueso, cortarlos en 4 trozos y ponerlos en una copa grande de cristal o en un cuenco. Agregar las guindas lavadas y deshuesadas y el clavo de especia. En una cacerolita, cocer durante un minuto un vaso de agua y el azúcar. Dejarlo enfriar y remover el almíbar con el vino de moscatel. Verterlo todo sobre la fruta y conservarlo en la nevera por lo menos una hora.
 

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de berenjenas.
 
 1 kilo de tomates.
@@ -39,7 +38,6 @@ Vinagre.
 Sal gorda.
 
 <h3>Preparación</h3>
-
 Colocamos cada una de las cebollas, tomates, pimientos y berenjenas (estas sin rabo) en sendos papeles de aluminio, con un chorro de aceite y un pellizco de sal, y hacemos paquetes.
 
 Ponemos los paquetes en una placa y lo metemos en el horno, a 180 grados, durante una hora.

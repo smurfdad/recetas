@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 gramos lubina.
 
 2 dientes de ajo.
@@ -46,7 +45,6 @@ Ingredientes para las salsas:
 1 copa de cava.
 
 <h3>Preparación</h3>
-
 Hacemos un caldo de verduras (agua, sal, ajos, cebolla, zanahoria, puerro y una rama de romero) donde posteriormente coceremos la lubina.
 
 Una vez elaborado el caldo de verduras ponemos a hervir brevemente en él la lubina, dejándola enfriar dentro del caldo.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lb de pollo deshuesado (mejor pechugas)
 
 Mostaza
@@ -35,7 +34,6 @@ Hierbas aromáticas
 Vino / cerveza
 
 <h3>Preparación</h3>
-
 Cortar el pollo en cubos. Untarlo con la mostaza y las hierbas, dejarlo mientras se preparan los demás alimentos de la comida.
 
 Calentar el aceite y freír el pollo durante unos minutos.

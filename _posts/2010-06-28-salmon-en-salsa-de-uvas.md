@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Rodajas de Salmón fresco.
 
 24 uvas peladas y deshuesadas
@@ -21,7 +20,6 @@ Vino dulce al gusto
 sal y pimienta
 
 <h3>Preparación</h3>
-
 La noche anterior se dejan las uvas macerando en el vino dulce.
 
 En el momento de hacer la receta se sapimentan las rodajas de salmón y se hacen a la plancha sin que queden secas.

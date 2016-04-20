@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de merluza de 200 gr. cada uno
 
 400 gr. de tomates pelados y escurridos
@@ -39,7 +38,6 @@ pimienta
 2 huevos duros
 
 <h3>Preparación</h3>
-
 En un plato hondo se mezcla la harina con el chili, y se añade sal y pimienta. Se pasan los filetes de merluza por esta mezcla y se fríen en una sartén con aceite. Se escurren y se reservan.
 
 En otra sartén, se pone aceite y se sofríe la cebolla muy picada con el pimiento fresco, también picado, a fuego suave, hasta que quede blandito. Mientras tanto, se escurren bien los tomates y los pimientos de lata y se pican ambos. Se enciende el horno a 180º.

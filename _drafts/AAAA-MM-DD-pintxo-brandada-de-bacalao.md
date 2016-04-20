@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Bacalao
 
 ajo
@@ -32,6 +31,5 @@ salsa holandesa
 tartaleta
 
 <h3>Preparación</h3>
-
 Pochamos el bacalao en aceite de oliva con cuatro dientes de ajo a fuego suave. Una vez hecho, se pela, se le quitan las espinas y se desmiga. Se pone el bacalao en la tartaleta. Colocamos encima los huevos de codorniz y se cubre todo con la salsa holandesa
 

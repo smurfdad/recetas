@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250g de arroz hervido
 
 1 diente de ajo
@@ -43,6 +42,5 @@ Aceite
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Cocer a fuego lento el arroz en la leche hasta que el líquido se haya absorbido. Agregar cuando esté listo todas las clases de queso rallados, la sal, cebollines y el perejil, todos los ingredientes restantes, y al estar el arroz caliente la mezcla de quesos se irán fundiendo con el arroz, y queda un sabor exquisito, ya está listo para servir.
 

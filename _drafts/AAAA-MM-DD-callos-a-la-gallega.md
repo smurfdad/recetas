@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kgr. de callos
 
 1 limón
@@ -54,7 +53,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Se lavan muy bien los callos en varias aguas, con limón y vinagre para que queden bien limpios y blancos. Se cortan en trozos y se les da un hervor en agua junto con las manos de ternera deshuesadas y también cortadas en trozos.
 
 Se escurre todo y se pone a cocer en una olla con abundante agua y sal, junto con los garbanzos que habremos tenido a remojo 12 horas. Hacia el final de la cocción se añaden los chorizos cortados en rodajas.

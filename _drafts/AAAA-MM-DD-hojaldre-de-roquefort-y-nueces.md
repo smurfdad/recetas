@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de masa de hojaldre
 
 75 gr. de queso roquefort
@@ -42,7 +41,6 @@ Para 4 personas.
 pimienta blanca del molinillo
 
 <h3>Preparación</h3>
-
 En una cazuela, se pone a fundir la mantequilla, se echa la harina en lluvia y se remueve con la varilla. Se le va añadiendo leche, poco a poco, sin dejar de remover, hasta que empiece a hervir.
 
 Se baja el fuego y se hierve unos minutos, a fuego muy suave, sin dejar de remover para que no se formen grumos. Quedará una bechamel muy espesa. Se aplasta el queso con un tenedor y se le añade la salsa anterior, cuando aún esté bien caliente.Se casca un huevo en la salsa y se mezcla.

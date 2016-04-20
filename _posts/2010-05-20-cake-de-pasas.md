@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 su peso en azúcar mantequilla y azúcar
@@ -17,7 +16,6 @@ su peso en azúcar mantequilla y azúcar
 1 sobre de royal o 3 cucharadas 100 grs. de pasas remojadas en agua con un poco de licor
 
 <h3>Preparación</h3>
-
 Se ponen las pasas a remojar, de víspera.
 
 Se escurren bien y se rebozan en un poco de la harina.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 300 gr. de harina de maiz
@@ -32,7 +31,6 @@ Para 4 personas.
 1 cucharada de café de levadura Royal
 
 <h3>Preparación</h3>
-
 Se separan las yemas de las claras.
 
 Se baten las claras a punto de nieve, se añade el azúcar seguido de las yemas y por último, la harina de maiz junto con la levadura.

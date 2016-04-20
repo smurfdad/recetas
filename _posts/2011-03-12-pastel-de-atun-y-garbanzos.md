@@ -10,7 +10,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 400 g. garbanzos cocidos
 
 250 g. atún en aceite
@@ -22,7 +21,6 @@ Para 10 personas.
 3 huevos
 
 <h3>Preparación</h3>
-
 Triturar los garbanzos con el atún hasta obtener un puré. Mezclar este puré con la salsa de tomate y la crema de leche.
 
 Batir los huevos y unirlos también.

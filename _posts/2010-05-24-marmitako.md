@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 5 cucharadas de aceite
@@ -27,7 +26,6 @@ Para 6 personas.
 1 kg. bonito
 
 <h3>Preparación</h3>
-
 Pelar las patatas y cascarlas en trozos pequeños y regulares.
 
 Ponerlas a cocer con agua que las cubra a fuego medio. Si se quiere, echar una guindilla, para que pique un poco el plato.

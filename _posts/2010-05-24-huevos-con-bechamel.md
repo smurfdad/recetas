@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 100 grs. jamón york
@@ -23,7 +22,6 @@ Para 6 personas.
 2 cucharadas de harina
 
 <h3>Preparación</h3>
-
 Se cuecen los 4 huevos durante 10 minutos.
 
 Se cortan en rodajas.

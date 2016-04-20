@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 Liebre limpia de 1,5k aproximadamente
 
 200g de jamón
@@ -42,7 +41,6 @@ Pimienta negra en granos
 Sal
 
 <h3>Preparación</h3>
-
 Se trocea la liebre. Macere la liebre en un recipiente con el coñac, unas ramas de tomillo y una cebolla cortada en rodajas grandes.
 
 En una cazuela grande se saltea el jamón cortado en cubitos y dos cebollas cortadas en rodajas, con el aceite.

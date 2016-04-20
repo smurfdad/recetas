@@ -23,7 +23,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 Menudencias de dos aves cortadas en cuadraditos menudos
 
 3 huevos batidos
@@ -51,7 +50,6 @@ Menudencias de dos aves cortadas en cuadraditos menudos
 1/2 cdita. De pimienta molida
 
 <h3>Preparación</h3>
-
 Con anticipación ponga al fuego una olla con los dos litros de caldo, y eche las menudencias.  Cuando hierva, agregue ton ku, choc suin, siu choy y jo lan tau.  Condimente con sal, sazonador y pimienta.  Al hervir, incorpore el chuño, avive el fuego, y remueva hasta que hierva nuevamente.
 
 En seguida, agregue los huevos y el aceite.  Remueva hasta que dé el primer hervor, y retire la olla del fuego.  Añada aceite de ajonjolí, y sirva inmediatamente, que esta sopa pierde cuerpo muy pronto.

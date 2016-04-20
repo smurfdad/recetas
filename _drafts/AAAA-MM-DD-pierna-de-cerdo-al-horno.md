@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de pierna de cerdo
 
 una cebolla
@@ -44,7 +43,6 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Se aliña la carne con los ajos machacados, la pimienta y la sal. Se ata formando un rollo. Se embadurna de manteca. En una cazuela de barro se pone el aceite, la cebolla cortada en cascos y, encima, la carne.
 
 Se mete al horno y se da vuelta al rollo de vez en cuando, rociándolo con vino y caldo. Se añaden las especias y se pincha para ver el punto. Se saca del horno, se trincha pasada y se sirve con su salsa pasada y caliente.

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1,200 kilo de merluza
 
 4 dientes de ajo
@@ -43,7 +42,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Limpiar la merluza, eviscerándola, desescamandola y retirándole las aletas si fuera  necesario.
 
 Con la ayuda de un cuchillo cebollero, sacar los lomos de la merluza y reservarlos.

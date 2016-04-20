@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 peras de 300 gr
 
 2 litros de vino de Rioja
@@ -22,7 +21,6 @@ Para 4 personas.
 2 ramas de canela
 
 <h3>Preparación</h3>
-
 Pelar las peras, dejando el rabo. Meter en una cazuela añadir el vino, el jerez, el azúcar y la canela Poner a fuego vivo y después de hervir media hora, que es cuando empiezan a tomar color, reducir el fuego y tapar.
 
 Deberán estar a fuego lento, hasta que se reduzca el vino

@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 2 remolachas.
 
 2 patatas.
@@ -41,7 +40,6 @@ Colas de gambas.
 Perejil aceite vinagre y sal.
 
 <h3>Preparación</h3>
-
 Cocemos las verduras en agua y sal.
 
 En el centro de una fuente colocamos las judías y las pencas de acelgas. Alrededor colocamos las patatas peladas y troceadas en rodajas alternándolas con la remolacha cortada igualmente en rodajas.

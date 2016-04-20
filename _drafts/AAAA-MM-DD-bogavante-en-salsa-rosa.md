@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 bogavante, 1,5 kg. (1 pieza)
 
 salsa rosa, 1/2 litro
@@ -57,6 +56,5 @@ pimienta, para la salsa rosa
 sal, para la salsa rosa
 
 <h3>Preparación</h3>
-
 Se cuece el bogavante, durante 20 minutos aproximadamente, con laurel y sal. Se enfría y se separa la cáscara de la carne. Se corta en lonchas. En 6 hojas de lechuga se colocan las lonchas, reservando otras 6 para poner encima de cada porción. Se adorna la fuente con la naranja, el limón y el perejil. Se cortan 6 rodajas de tomate y 6 de huevo, y se ponen en la fuente. Se pasa el resto del huevo por el tamiz. El coral del bogavante también se pasa por el tamiz, mezclando el huevo con el mismo; y, junto con el perejil bien picado, se salpica por encima de las porciones. Se sirve bien frío. Salsa rosa: Se mezclan todos los ingredientes y se baten bien con unas varillas.
 

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 750 grs. de carne picada
 
 1/2 kg. de salsa de tomate
@@ -29,7 +28,6 @@ Para 6 personas.
 perejil, pimienta, sal
 
 <h3>Preparación</h3>
-
 Poner en una sartén a rehogar, la cebolla, ajo y perejil picados.
 
 Cuando la cebolla esté hecha pero sin dorarse, añadir la carne, sal, pimienta y vino blanco hasta que se haga.

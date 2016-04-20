@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 rodajas grandes de merluza de la parte cerrada
 
 5 huevos
@@ -42,7 +41,6 @@ Aceite
 Sal si precisa
 
 <h3>Preparación</h3>
-
 Cocer 4 huevos 10-12 minutos. Cortar cada rodaja de merluza en 4 partes, aplastar un poco y poner sal. Pasarlos por harina huevo y pan rallado. Poner agua a hervir, echar las gambas y dejarlas cocer un minuto, escurrirlas y pelarlas.
 
 Freir los medallones de merluza en abundantes aceite hasta dorarlos, colocar los medallones en forma de círculo en una fuente, poner las gambas troceadas en el centro. Cortar los huevos en rodajas.

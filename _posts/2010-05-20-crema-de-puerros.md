@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 puerros
 
 1 l. de agua
@@ -20,7 +19,6 @@ Para 4 personas.
 1 cebolla grande
 
 <h3>Preparación</h3>
-
 Se pica la cebolla y se trocean los puerros.
 
 Se pone a cocer en el agua, añadiéndole también la sal.

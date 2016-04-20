@@ -23,7 +23,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr. de bacalao seco en salazón
 
 1 huevo cocido
@@ -41,6 +40,5 @@ Vinagre
 Pimentón
 
 <h3>Preparación</h3>
-
 Poner en remojo el bacalao. Pelar la naranja, cortarla en rodajas y ponerlas sobre una fuente. Añadir el bacalao desmigado y el huevo duro muy picado. Para preparar el aliño machacar el ajo y una pizca de pimentón. Ir incorporando el aceite mientras se remueve para que ligue un poco. Añadir el vinagre y mezclarlo todo bien. Incorporar el aliño a la ensalada.
 

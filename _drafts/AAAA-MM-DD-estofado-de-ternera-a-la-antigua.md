@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. espalda de ternera sin huesos
 
 3 cucharadas de Mantequilla
@@ -52,6 +51,5 @@ un tallo de apio
 400 gr. champiñones
 
 <h3>Preparación</h3>
-
 Cortar la carne en trozos de 3 cm. Cortar la verdura y dejarla cocer dentro de una cazuela abierta con la carne, la sal, el tomillo y 3/4 de litro de caldo. Pelar los chalotes y cocerlos dentro del caldo restante 15 min. , sacarlos y ponerlos en un lugar caliente. Limpiar los champiñones, cortar los en cuarto y echarlos a cocer 7 minutos en el caldo de ave, sacarlos y colocarlos junto a los chalotes. Echar la carne junto con la verdura en un tamiz y agregar a los champiñones. Dejar espesar el caldo a la mitad. Sofreír la harina en la mantequilla, templar con el caldo y hacer al hervir. Mezclar con la yema de huevo y la nata, sazonar con sal y pimienta. Echar la carne, los champiñones y los chalotes a la salsa , y espolvorearlos con el perejil.
 

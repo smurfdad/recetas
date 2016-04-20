@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Cebolla
 
 pimiento verde
@@ -48,6 +47,5 @@ perejil picado
 queso rallado
 
 <h3>Preparación</h3>
-
 Se pone el aceite a calentar en una cazuela, se pica media cebolla, un pimiento verde, dos dientes de ajo y se pocha todo bien. Después, se añaden el bacalao, el champiñón, y las gambas. se dejan hacer a fuego lento durante un cuarto de hora y se echa media copita de coñac, tomate frito y nata líquida. Se sirve caliente y adornado con perejil y queso rallado.
 

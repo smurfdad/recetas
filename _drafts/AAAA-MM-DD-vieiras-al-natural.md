@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 vieiras
 
 cebolla
@@ -34,10 +33,8 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Abierta y limpia la vieira, se le pone cebolla muy picada , un chorro de vinagre, aceite refinado y un poco de sal. Se mete en el horno durante 15 minutos a una temperatura no fuerte.
 
 <h3>Observaciones</h3>
-
 Esta fórmula sencilla, permite conservar su verdadero sabor.
 

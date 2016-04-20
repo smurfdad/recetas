@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 6 Filetes de pez espada o emperador
 
 Sal
@@ -38,7 +37,6 @@ Un poco de perejil
 2 Limones
 
 <h3>Preparación</h3>
-
 Se echa la sal en el pescado y se pone a la plancha.
 
 Aparte se machacan los ajos en un mortero con el perejil .

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 vaso de arroz
 
 2 cucharadas de fideos
@@ -35,10 +34,8 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Lavar el arroz. Calentar el aceite y freír los fideos hasta que estén dorados, sacar del aceite. Freír el arroz en el mismo aceite (moviendo constantemente para evitar que se pegue). Añadir el agua hervida y la sal, dejar hervir, añadir los fideos y mover. Cuando absorba el agua bajar el fuego al máximo (30 minutos). Servir con verduras.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

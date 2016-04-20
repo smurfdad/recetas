@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 frascos grandes de caracoles ya limpios y cocidos
 
 2 cebollas picadas
@@ -27,7 +26,6 @@ Para 6 personas.
 100 grs. de chorizo cortado en trocitos
 
 <h3>Preparación</h3>
-
 Rehogar la cebolla, el ajo y el jamón en una cazuela con un chorro de aceite de oliva.
 
 Cuando empiece a dorarse, añadir el chorizo, la guindilla picada, el perejil y los caracoles.

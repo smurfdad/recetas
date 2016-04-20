@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 24 discos para empanadas
 
 Relleno:
@@ -42,7 +41,6 @@ Spray para freír
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 En un recipiente de teflón poner al fuego, rociar con el spray, rehogar en ella los dos tipos de cebollas, cuando estén transparentes agregar la espinaca hasta que se ablande,condimentar y dejar enfriar.
 
 Picar o procesar la preparación de espinacas, agregarle el huevo batido y los dos quesos rallados.

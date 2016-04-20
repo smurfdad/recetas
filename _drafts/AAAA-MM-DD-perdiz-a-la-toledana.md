@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 perdices de 300 gr.
 
 2 l de vino blanco
@@ -44,7 +43,6 @@ Patatas
 Sal
 
 <h3>Preparación</h3>
-
 Se despluman las perdices, se lavan en agua hasta desangrarlas totalmente, atándolas y escurriéndolas bien.
 
 En una cazuela de barro se prepara un fondo de cebolla fileteada, se colocan las perdices con la pechuga hacia el fondo, y se cubren con cebolla, ajo sin picar, laurel, pimienta y tomillo. A continuación, se añade el vino blanco y el aceite y se cuecen a fuego lento, hasta que esté en su punto.

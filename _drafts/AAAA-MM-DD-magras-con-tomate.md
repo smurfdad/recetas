@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 g de lonchas de jamón de Teruel
 
 1 k de tomates maduros
@@ -40,6 +39,5 @@ un manojo de perejil
 sal
 
 <h3>Preparación</h3>
-
 Freír las lonchas de jamón en aceite de oliva con el ajo troceado. Cuando estén fritas, sin que lleguen a churrascarse, retirar de la sartén y reservar sin el ajo. Añadir más aceite y rehogar en él los tomates, previamente troceados y pelados. Dejar a fuego lento mientras se van cortando y removiendo con la espumadera hasta con seguir una salsa de tomate espesa, a la que hay que agregar una cucharadita de azúcar para mitigar la acidez del tomate. Dejar que la salsa se enfríe y añadir medio vasito de agua. Rectificar el punto de sal. Colocar en una cazuela las lonchas de jamón con la salsa de tomate por encima y cocerlas durante 10 minutos. Entretanto rehogar los pimientos rojos cortados en tiras.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas medianas.
 
 4 huevos.
@@ -40,7 +39,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Pelamos y cortamos las patatas en rodajas finas y las freímos en aceite de oliva caliente con un poco de sal.
 
 Una vez fritas las patatas las sacamos de la fritura.

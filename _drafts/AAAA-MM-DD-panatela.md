@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. azúcar
 
 6 cdas agua fría
@@ -42,7 +41,6 @@ Para 8 personas.
 Azúcar
 
 <h3>Preparación</h3>
-
 Cocinar el azúcar con el agua fría hasta punto de almíbar.
 
 Verter esto en las claras de a poco y continuar batiendo hasta enfriar.

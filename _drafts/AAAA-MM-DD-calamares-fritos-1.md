@@ -22,13 +22,11 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 kilos de calamar fresco
 
 harina.
 
 <h3>Preparación</h3>
-
 Limpiar el calamar y cortar en anillos. Pasar por la harina, sacudiendo un poco ésta.
 
 Freír a 250 grados y una vez que estén algo doraditos, retirar para servir con un trocito de limón.

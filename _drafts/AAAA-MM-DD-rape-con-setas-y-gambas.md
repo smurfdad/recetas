@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 rodajas de rape
 
 300 gr de setas
@@ -39,7 +38,6 @@ harina
 fumeet de pescado
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y el ajo y rehogar con un poco de aceite.
 
 Sazonar el rape con sal, pasarlo por harina haciéndolo un poco por ambos lados.

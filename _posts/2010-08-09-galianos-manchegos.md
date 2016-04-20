@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 PARA LOS GALIANOS:
 
 1/4 kg. de harina
@@ -51,7 +50,6 @@ laurel, tomillo, orégano
 Caldo o agua para cocer
 
 <h3>Preparación</h3>
-
 Para elaborar los galianos se amasan todos los ingredientes; se divide la masa en cuatro porciones y se forman unas bolas que se estiran hasta obtener unas tortas muy finas que se cuecen en horno fuerte.
 
 Para elaborar el gazpacho se sofríe el aceite con los ajos en una cazuela honda y se añade la cebolla, los pimientos y los tomates, todo troceado; se deja dorar.

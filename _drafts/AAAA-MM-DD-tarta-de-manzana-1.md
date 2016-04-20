@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 6 - 8 manzanas
 
 100 gr. de mantequilla
@@ -35,10 +34,8 @@ Para 6 personas.
 Mermelada de melocotón
 
 <h3>Preparación</h3>
-
 Estira bien la plancha de hojaldre hasta que este muy fina y del tamaño de una placa de horno. Con el reverso de un cuchillo, haz unas muescas por todo el borde. Después, extiende sobre ella la crema pero dejando un margen libre de plancha de 1,5 cm. Aproximadamente. Pela las manzanas y filetéalas. Coloca los trozos sobre la crema y unas nueces de mantequilla por encima. Hornea unos 30 minutos -dependiendo del grosor y tipo de las manzanas - a horno medio. Por ultimo, da brillo a la tarta con la mermelada de melocotón. Puedes tomarla fría o caliente.
 
 <h3>Observaciones</h3>
-
 Puedes tomarla fría o caliente.
 

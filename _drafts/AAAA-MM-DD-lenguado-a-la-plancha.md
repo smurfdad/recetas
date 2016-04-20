@@ -23,7 +23,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 1 lenguado de ración
 
 Aceite
@@ -31,6 +30,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Sazonar el lenguado y untarlo con aceite. Cocinar sobre la plancha o sartén durante 4-5 minutos (depende del tamaño del pescado) aproximadamente por cada lado.
 

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 bogavante, 2 piezas de 600-700 gr.
 
 aceite de oliva virgen, 100 ml.
@@ -76,10 +75,8 @@ laurel, 2 hojas para la salsa americana
 perejil, 1 rama para la salsa americana
 
 <h3>Preparación</h3>
-
 Se trocean los bogavantes y se doran en una sartén, se flambean con el brandy y se pasan a una cazuela con tapa y se meten al horno durante 15 minutos. Se acompaña con arroz, los costrones de pan frito y perejil. Salsa americana: En un cazo se pone el aceite y todas las legumbres picadas a rehogar, luego se le echa el pimentón, la harina y el caldo, se remueve bien y se deja cocer 5 minutos, y se pasa por un colador chino, se echa la nata y ya está lista para servir.
 
 <h3>Observaciones</h3>
-
 Se aconseja que sea algo picante.
 

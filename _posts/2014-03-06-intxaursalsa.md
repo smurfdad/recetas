@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 litros de leche.
 
 2 ramas de canela.
@@ -20,7 +19,6 @@ Para 4 personas.
 300 gramos de azúcar.
 
 <h3>Preparación</h3>
-
 En una cazuela colocamos las nueces troceadas, la leche y los palos de canela.
 
 Cocemos durante unos 30 minutos, añadimos el azúcar y dejamos cocer 5 minutos más removiendo con una cuchara de palo.

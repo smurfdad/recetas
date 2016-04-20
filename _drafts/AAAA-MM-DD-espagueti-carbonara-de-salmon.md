@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Espaguetis 400 grs
 
 Salmón 150 grs ahumado
@@ -43,7 +42,6 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Cocer los spaghettis en abundante agua salada. Rallar el queso, y cortar el salmón a trocitos. En una sartén con aceite, dorar la cebolla. Una vez dorada la cebolla añadir el salmón. En una fuente batir los huevos con la nata líquida, el queso, la sal y la pimienta.
 
 Añadir la mezcla a la sartén cuando el salmón comience a estar rosado. Incorporar a la sartén la pasta y remover.

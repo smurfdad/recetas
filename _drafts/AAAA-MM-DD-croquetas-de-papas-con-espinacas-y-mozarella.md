@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 4 papas grandes cocidas
 
 3c manteca
@@ -46,7 +45,6 @@ pan rallado
 aceite para freir
 
 <h3>Preparación</h3>
-
 Con las papas hacer un pure, agregarle manteca, nuez moscada. Luego agregar las espinacas bien exprimidas y bien picadas, junto con el ajo y perejil salpimentar bien y llevar a la heladera hasta que enfrie un poco.
 
 Luego una vez frio tomamos una porcion de pure le colocamos dentro un trozo de mozarella y cerramos en forma alargada, pasamos por huevo luego por pan rallado y freimos en aceite.

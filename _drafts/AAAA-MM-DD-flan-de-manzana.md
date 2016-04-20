@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. de manzanas;
 
 1 bote pequeño de leche condensada;
@@ -32,6 +31,5 @@ Para 4 personas.
 azúcar para caramelizar el molde.
 
 <h3>Preparación</h3>
-
 Se pelan las manzanas y se parten en trozos no muy grandes. Se cuecen, y cuando estén tiernas se escurren. Se mezcla en la batidora con los huevos y la leche condensada. Se echa en una flanera caramelizada, y se cuece al baño María. Si se pone en olla normal: 45 minutos. Si es en olla exprés 25 minutos y si es en olla ultrarrápida 5 minutos. Dejar enfriar en el agua de cocción.
 

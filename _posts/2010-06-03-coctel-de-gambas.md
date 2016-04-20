@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 lechuga
 
 1 kilo de gambas
@@ -17,7 +16,6 @@ Para 4 personas.
 salsa rosa
 
 <h3>Preparación</h3>
-
 Lavar la lechuga y escurrirla bien, picándola fina.
 
 Cocer las gambas con agua y sal.

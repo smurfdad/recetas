@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 2 tazas de lentejas cocinadas
 
 3 pimentones rojos
@@ -41,11 +40,9 @@ Pimienta negra recién molida al gusto
 1 cdta. de orégano seco
 
 <h3>Preparación</h3>
-
 Cocinar las lentejas en agua hasta que ablanden (deben quedar al dente). Dejarlas enfriar. Cortar en cuadritos los pimentones y los pepinos. Dejarles un poco de piel a los pepinos. Agregar los vegetales a las lentejas y media hora antes de servir, aliñar con aceite de oliva, perejil, vinagre, sal, orégano y pimienta negra recién molida al gusto.
 
 <h3>Observaciones</h3>
-
 Se pueden comprar las lentejas cocinadas de lata.
 
 Los pimentones se pueden comprar de diferentes colores para que la ensalada quede más colorida.

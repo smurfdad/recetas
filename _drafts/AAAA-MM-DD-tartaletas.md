@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Patata
 
 zanahoria
@@ -40,6 +39,5 @@ lechuga
 Roquefort
 
 <h3>Preparación</h3>
-
 Se hace una ensaladilla rusa con la patata, la zanahoria, los guisantes, la mahonesa y el huevo duro. Con hojaldre se hace una tartaleta y se rellena con la ensaladilla después de haber puesto de base lechuga picada. Estas tartaletas se adornan con mahonesa y gamba unas, y con mahonesa y Roquefort otras.
 

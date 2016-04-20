@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de langostinos frescos del mar menor
 
 sal
@@ -32,6 +31,5 @@ limón
 2 hojas de laurel
 
 <h3>Preparación</h3>
-
 Colocamos una cazuela al fuego con agua y sal. Cuando empiece a hervir echamos los langostinos y las hojas de laurel. Una vez rompa el hervor de nuevo, retiramos la cazuela del fuego y la colocamos debajo del grifo de agua fría para que no se continúen haciendo (pueden pasarse y es una lástima que un manjar tan exquisito nos salga seco). Pasados unos minutos, los colocamos en una bandeja de servir acompañados de unas rodajas de limón.
 

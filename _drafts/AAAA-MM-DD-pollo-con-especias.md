@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 4 o 6 trozos de pollo
 
 una cucharada de páprika
@@ -46,7 +45,6 @@ una cucharada de páprika
 1 cucharadita de sal.
 
 <h3>Preparación</h3>
-
 Eliminar la piel del pollo y pinchar la carne con un tenedor. Mezclar todos los ingredientes y cubrir con ellos los trozos. Tapar y dejar marinar en la nevera de 12 a 24 horas.
 
 Colocar los trozos en una parrilla de horno o en una barbacoa y asar de 20 a 25 minutos hasta que estén hechos y la piel crujiente.

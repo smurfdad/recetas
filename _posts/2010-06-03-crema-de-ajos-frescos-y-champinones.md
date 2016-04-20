@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo champiñones
 
 1 litro de agua
@@ -24,7 +23,6 @@ Para 4 personas.
 1 dl nata liquida
 
 <h3>Preparación</h3>
-
 Limpiar bien los champiñones y trocearlos.
 
 Poner una cazuela al fuego con un poco de aceite.

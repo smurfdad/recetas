@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 perdices aderezadas
 
 4 cebollas pequeñas corta julíana
@@ -27,7 +26,6 @@ Para 4 personas.
 2 hojas de laurel
 
 <h3>Preparación</h3>
-
 Se ponen todos los ingredientes, en crudo, a cocer en un recipiente tapado durante una hora.
 
 Pasado este tiempo se coloca todo en un recipiente de barro, de manera que las aves queden cubiertas de caldo.

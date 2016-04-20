@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 repollo
 
 3-4 puerros
@@ -40,7 +39,6 @@ Sal
 Pan rallado
 
 <h3>Preparación</h3>
-
 Se ponen a cocer todas las verduras y las patatas en agua con sal hasta que estén tiernas. Se dejan escurrir bien y se esmagan.
 
 En una sartén con un fondo de aceite se fríe la cebolla picada muy fina hasta que esté transparente. Se mezcla con la masa y se agrega un huevo crudo batido.

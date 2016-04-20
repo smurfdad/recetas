@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Aceite de oliva 4 cucharadas
 
 Arroz carnaroli 2 Tazas
@@ -64,7 +63,6 @@ Queso de cabra blando
 Queso pecorino
 
 <h3>Preparación</h3>
-
 Envuelva las remolachas con papel aluminio y ase en el horno hasta que estén tiernas
 
 Pele las remolachas y procese con 2 cucharadas de aceite de oliva.

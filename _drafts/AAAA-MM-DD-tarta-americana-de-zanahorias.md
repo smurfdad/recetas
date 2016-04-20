@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 taza de harina
 
 1 taza de azúcar
@@ -58,7 +57,6 @@ Para la crema:
 1 cucharadita de licor Cointreau
 
 <h3>Preparación</h3>
-
 Mezclar en un bol la harina, azúcar, polvo de hornear, bicarbonato, sal, canela y la vainilla. Mezclar aparte el aceite, la zanahoria rallada, las nueces picadas y los huevos. Agregar la mezcla líquida a la sólida. Mezclar sin batir.
 
 Colocar en molde enmantecado y meter al horno moderado durante 50 minutos aproximadamente.

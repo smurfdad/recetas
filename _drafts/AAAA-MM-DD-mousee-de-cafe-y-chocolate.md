@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 200 g de mantequilla
 
 250 g de azúcar
@@ -34,7 +33,6 @@ Media tableta de Cobertura de chocolate Valor (en tableta de 500 g)
 Un brik pequeño de nata líquida
 
 <h3>Preparación</h3>
-
 Poner a deshacer la Cobertura de chocolate Valor al baño María. Cuando esté deshecho, añadir poco a poco el café recién hecho y removerlo.
 
 Batir la mantequilla con el azúcar hasta que esté cremoso. Después, agregar las yemas una a una.

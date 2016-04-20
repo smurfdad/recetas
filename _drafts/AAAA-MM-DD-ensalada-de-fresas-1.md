@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 taza de nuez de castilla picada
 
 1 lechuga romana o mixta
@@ -47,6 +46,5 @@ Aliño:
 1/2 cucharada de pimienta blanca 	
 
 <h3>Preparación</h3>
-
 Todos los ingredientes del aliño se licuan. Se vierte sobre la ensalada. Las fresas van en rodajas, y el queso en cubitos.
 

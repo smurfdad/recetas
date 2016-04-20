@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas medianas cocidas con cáscara
 
 200g de queso gruyere rallado en hebras
@@ -36,7 +35,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Pelar las patatas y cortarlas en rodajas súper finas.
 
 Enmantecar una fuente de horno rectangular y poner una capa de las patatas, colocar encima la mitad del queso, un poco de manteca y salpimietar.

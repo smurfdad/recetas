@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 truchas de 750 grs. cada una
 
 1 cebolla en rodajas finas
@@ -25,7 +24,6 @@ aceite de oliva
 unos trozos de mantequilla
 
 <h3>Preparación</h3>
-
 Limpiar las truchas y secarlas. Abrirlas por la mitad. Quitar la espina central y echarles sal.
 
 Freír hasta que queden blandas las rodajas de cebolla y patata.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. merluza (en filetes, sin piel ni espinas)
 
 3 huevos
@@ -23,7 +22,6 @@ sal
 limón
 
 <h3>Preparación</h3>
-
 Lavar, secar y echar sal a los filetes.
 
 Poner una sartén a fuego medio con bastante aceite.

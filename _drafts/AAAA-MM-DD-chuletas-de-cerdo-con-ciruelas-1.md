@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 chuletas de cerdo de unos 150 g cada una
 
 24 ciruelas pasas sin hueso
@@ -39,7 +38,6 @@ sal, pimienta, harina
 1 bote pequeño de jalea de grosella o de manzana
 
 <h3>Preparación</h3>
-
 Remojar las ciruelas pasas con el vino durante 12 horas.
 
 Salpimentar las chuletas de cerdo, pasarlas por harina

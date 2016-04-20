@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 100 grs. de azúcar
@@ -21,7 +20,6 @@ Para 8 personas.
 un poco de azúcar glass (molida)
 
 <h3>Preparación</h3>
-
 Batir las claras a punto de nieve.
 
 Mezclar las yemas una a una sin dejar de batir.

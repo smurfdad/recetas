@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata de piña
 
 1 melón
@@ -24,7 +23,6 @@ Para 6 personas.
 (se pueden sustituir por frutas del tiempo)
 
 <h3>Preparación</h3>
-
 Partir el melón por la mitad y cortarle los dos casquetes para que se mantengan tiesos.
 
 Vaciarlo haciendo bolitas con la cuchara especial.

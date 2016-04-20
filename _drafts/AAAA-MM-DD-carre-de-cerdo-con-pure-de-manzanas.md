@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 carré
 
 3 blancos de puerro bien picados
@@ -58,7 +57,6 @@ Para el puré:
 200g de azúcar
 
 <h3>Preparación</h3>
-
 Ponga las ciruelas en remojo con el oporto. En una sartén con manteca rehogar el puerro hasta que se ponga transparente, apagar el fuego y reservar. Ahuecar el carré en el centro por unas de las puntas, con un cuchillo filoso y formar el hueco para rellenar.
 
 En un recipiente mezclar el puerro rehogado, la panceta y el queso de rallar. Colocar un poco de la mezcla en el hueco del carré, luego una ciruela y empujar con el mango de la cuchara de madera, colocar otro poco de la mezcla, una ciruela y empujar, repetir la operación hasta rellenar el carré.

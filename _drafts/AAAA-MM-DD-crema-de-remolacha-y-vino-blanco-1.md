@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 remolachas cocidas y envasadas al vacío
 
 100 g de repollo
@@ -44,7 +43,6 @@ Unas gotas de limón
 Sal
 
 <h3>Preparación</h3>
-
 Pon el aceite, la mantequilla y el puerro picado en la olla a presión. Añádele sal y rehógalo durante 10 minutos.
 
 Pica el repollo y añádelo junto con el caldo de pollo.

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Aceite de oliva extra v&igrave;rgen
 
 2 kilos de calamares
@@ -49,10 +48,8 @@ Sal y pimienta al gusto
 Perejil para adornar.
 
 <h3>Preparación</h3>
-
 Lavar los calamares, pelarlos y extraerles la part&igrave;cula trasl&ugrave;cida (parecida a un cart&igrave;lago) de su interior. Aliñar con sal y pimienta. Sudar los ajos machacados en un caldero con cuatro cucharadas de aceite de oliva. Agregar las cebollas y los pimentones rojos cortados en tiritas, los tomates en su jugo, la sal y la pimienta al gusto. Aparte, en otro caldero con tres cucharadas de aceite de oliva, dorar los calamares. Unir los calamares al sofrito anterior. Agregar las hojas de laurel y la media taza de vino. Cocinar hasta que la salsa espese. Servir bien caliente acompañado con arroz blanco.
 
 <h3>Observaciones</h3>
-
 Si queda muy espesa la salsa, aligerar con consomé de pescado o vino blanco, y no con agua porque se le va el sabor
 

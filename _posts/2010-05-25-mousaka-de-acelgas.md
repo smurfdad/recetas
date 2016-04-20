@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. acelgas
 
 1/2 kg. salsa de tomate
@@ -22,7 +21,6 @@ Para 6 personas.
 1/4 de champiñón al ajillo (opcional)
 
 <h3>Preparación</h3>
-
 Cocer las pencas y verde de acelga por separado.
 
 Pasar las pencas por harina y freír.

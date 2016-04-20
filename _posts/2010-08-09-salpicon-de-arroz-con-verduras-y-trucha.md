@@ -11,7 +11,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 truchas de ración
 
 200 gr. de arroz
@@ -39,7 +38,6 @@ sal
 unas ramas de hinojo
 
 <h3>Preparación</h3>
-
 Limpia la trucha, retira la cabeza, la piel y las espinas. Ponlos en una fuente, añade el zumo de limón y las ramas de hinojo bien picado. Cubre con film de cocina y deja marinar durante 30 minutos.
 
 Pon abundante agua a cocer en una cazuela. Cuando empiece a hervir, añade el arroz y una pizca de sal. Deja cocer durante 20 minutos. Refresca, escurre y coloca en una bol grande.
@@ -51,5 +49,4 @@ Retira los filetes de trucha de la marinada (reserva 2) y trocéalos en trozos d
 Corta los filetes de trucha reservados anteriormente en bastones, sirve el salpicón en cuencos individuales. Adorna con bastones de trucha y el resto de las huevas.
 
 <h3>Observaciones</h3>
-
 Cuando hagáis un salpicón, podéis tener el trabajo adelantado, pero os recomiendo aliñarlo en el último momento. En caso contrario el arroz absorberá el vinagre y quedará muy fuerte

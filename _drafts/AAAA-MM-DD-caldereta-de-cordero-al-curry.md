@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 pierna de cordero
 
 1 yogur
@@ -48,7 +47,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Pide al carnicero que te corte la pierna en rodajas como el osobuco. Salpimiéntala, pásala por harina y dórala un poco en una sartén con aceite.
 
 Pon un poco de aceite en la olla rápida, pica la cebolla y ponla a pochar. Agrega los trozos de carne, el curry, el vino tinto, el agua y una pizca de sal. Tapa la olla y cocina durante 12 minutos desde que empiece a salir el vapor.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 latas de tallos de espárragos
 
 3 huevos
@@ -36,7 +35,6 @@ sal
 1 tácita de nata líquida
 
 <h3>Preparación</h3>
-
 Se cortan los espárragos en trozos pequeños.
 
 Se pica la cebolla muy fina y se rehoga con la mantequilla, junto con la verdura.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Lubina de 1,200 kg.
 
 150 gr. de almejas
@@ -41,6 +40,5 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Colocamos la lubina en una bandeja de horno o besuguera con todos los ingredientes, excepto las almejas, y horneamos de 15 a 20 minutos. Retiramos la lubina y pasamos el resto de ingredientes por un colador chino y añadimos esta salsa a la lubina. Añadimos las almejas y acabamos de cocer en el horno durante 5 minutos más.
 

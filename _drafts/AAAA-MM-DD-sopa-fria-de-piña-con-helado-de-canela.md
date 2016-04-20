@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 litro de zumo de piña.
 
 1 vainilla en vainas.
@@ -42,7 +41,6 @@ Unas hojitas de menta.
 1 melón francés.
 
 <h3>Preparación</h3>
-
 Mezclamos el zumo de piña con las vainas de vainilla y el azúcar. Damos un hervor en una cazuela, añadimos 2 láminas de gelatinas y dejamos reposar.
 
 Cortamos la naranja pelada en triángulos.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de sardinas
 
 1 cabeza de ajo
@@ -43,6 +42,5 @@ Pimienta negra en grano y sal
 Dos vasos de aceite de oliva
 
 <h3>Preparación</h3>
-
 Sofreír en una cazuela, con bastante aceite de oliva, la cebolla picada y la cabeza de ajo cortada por la mitad, el tomillo, la pimienta y el laurel. Mientras sazonar el pescado limpio. Agregar las sardinas a la cazuela y añadir el vinagre y el vino. Dejar hervir unos quince minutos y apartar para que se enfríe. Consumir pasadas dos horas o al día siguiente. Servir frío.
 

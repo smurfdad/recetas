@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gr. maccaroni.
 
 Una lata de tomates de 800 gr.
@@ -42,10 +41,8 @@ Medio vaso de aceite de oliva.
 Un puñado de hojas de albahaca.
 
 <h3>Preparación</h3>
-
 Se pone a cocer al dente la pasta en agua hirviente salada. En una sartén se pone el aceite, la cebolla, el ajo y el bacón y se sofríe algunos minutos. Se añade el vino que tiene que evaporar. Se añaden los tomates, las hojas de albahaca, sal y un poquito de pimentón picante y se cuece unos treinta minutos. Sobre la pasta se pone la salsa y queso hecho de oveja rallado.
 
 <h3>Observaciones</h3>
-
 Es un plato típico de la comarca de Roma, pero se cocina en toda Italia.
 

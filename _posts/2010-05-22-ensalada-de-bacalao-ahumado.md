@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de bacalao ahumado en lonchas
 
 1/2 lata de pimientos del piquillo
@@ -22,7 +21,6 @@ Para 6 personas.
 sal, aceite de oliva, pimienta, orégano
 
 <h3>Preparación</h3>
-
 Si el bacalao está envasado al vacío, los filetes se separan mejor con la ayuda de un cuchillo pequeño.
 
 Unas dos horas antes de preparar el plato, marinar el bacalao: Poner las lonchas en un plato, espolvoreadas de pimienta y un ajo picado menudísimo, unas gotas de limón y aceite de oliva.

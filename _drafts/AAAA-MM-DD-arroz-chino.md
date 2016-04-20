@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de arroz
 
 125 gr. de rape
@@ -55,7 +54,6 @@ sal
 laurel
 
 <h3>Preparación</h3>
-
 Hacemos un sofrito con la mitad de la cebolla picada y 2 tomates pelados y picados. Vertemos 1 1/2 litro de agua caliente y cuando empiece a hervir, agregamos tomillo, perejil, laurel y las cabezas de los pescados y mariscos. Salamos todo y dejamos cocer 1/2 hora.
 
 Transcurrido este tiempo colamos el caldo y lo reservamos. Ponemos los pescados y el marisco ya limpios y troceados en una cazuela con las almejas, lo abrimos con el caldo, añadimos unas hebras de azafrán y lo dejamos cocer 15 minutos o fuego medio.

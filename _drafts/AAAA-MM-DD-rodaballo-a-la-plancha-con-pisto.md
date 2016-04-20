@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 filetes de rodaballo (400 grs)
 
 1 pimiento rojo
@@ -48,6 +47,5 @@ Aceite de oliva virgen
 Sal gruesa
 
 <h3>Preparación</h3>
-
 Para preparar el pisto se cortan las verduras en dados y se pochan en un fondo de aceite 0.4&ordm;, primero las más duras (cebollas, pimientos y ajos) y después el calabacín. Una vez listas se añade la hoja de laurel, los tomates pelados y cortados también en dados y la cucharada de pimentón dulce. Se tapa el puchero y se deja cocer durante 20 minutos.Los filetes de rodaballo limpios se pasan por la plancha con sal gruesa y aceite de oliva virgen hasta que adquieran un bonito color dorado.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 cebollas medianas en aros finos
 
 50g de manteca
@@ -34,7 +33,6 @@ categories:
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 En un recipiente derretir la manteca, saltear la cebolla unos minutos, condimentar y agregar el caldo caliente.
 
 Cocinar a fuego bajo dejando reducir.

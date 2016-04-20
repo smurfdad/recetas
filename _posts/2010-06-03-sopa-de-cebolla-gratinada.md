@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 cebollas medianas
 
 2 litros de agua
@@ -24,7 +23,6 @@ mantequilla
 queso rallado
 
 <h3>Preparación</h3>
-
 Pelar y cortar en juliana fina la cebolla.
 
 Poner una cazuela con un poco de mantequilla y añadir la cebolla.

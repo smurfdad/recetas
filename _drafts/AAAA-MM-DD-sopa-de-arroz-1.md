@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 tazas de arroz
 
 100 gr. jamón curado
@@ -49,7 +48,6 @@ Unas hebras de azafrán
 Aceite y sal
 
 <h3>Preparación</h3>
-
 En una cazuela con un poco de aceite, rehoga la cebolla, el pimiento verde, los ajos y la zanahoria, todo picado. Añade el jamón también picado y el arroz, rehógalo bien, agrega las hebras de azafrán y moja con el agua, poniendo a punto de sal. Déjalo cocer a fuego lento durante 15 minutos. Añade los huevos cocidos y picados y el pimiento en tiras.
 
 Pon el queso rallado encima de las rebanadas de pan y gratínalas hasta que se derrita el queso.

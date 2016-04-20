@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kgr. de patatas
 
 Harina
@@ -33,7 +32,6 @@ Aceite
 Leche
 
 <h3>Preparación</h3>
-
 Se pelan, lavan, secan y parten en rodajas no muy gruesas. Se pasan por harina y se fríen.
 
 Se hace una salsa besamel y se vierte sobre las patatas ya fritas y colocadas sobre una fuente.

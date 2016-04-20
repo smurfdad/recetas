@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr de ternera picada
 
 1 cebolla
@@ -56,7 +55,6 @@ vino blanco
 1 litro de salsa española
 
 <h3>Preparación</h3>
-
 Poner la carne picada en un Bol y añadirle la cebolla y el ajo finamente picado.
 
 Añadir el pan rallado, los huevos y el perejil picado.

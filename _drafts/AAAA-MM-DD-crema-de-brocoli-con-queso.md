@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 1 manojo grande de brócoli.
 
 1 litro de leche.
@@ -39,6 +38,5 @@ Media cebolla.
 2 Cubitos o cucharadas grandes de caldo de pollo
 
 <h3>Preparación</h3>
-
 Partes el brócoli y lo pones a hervir, una vez que hierva en una olla pones la mantequilla, la media cebolla finamente picada, mientras licúas el brócoli y lo añades a la olla con la mantequilla y cebolla, posteriormente disuelves en un vaso con leche 2 cucharadas grandes de maizena (fécula de maíz) y lo incorporas a la olla junto con el litro de leche, dejas que se espese, y listo, para servir partes en cuadros grandes el queso freco y lo sirves con la crema en el mismo plato.
 

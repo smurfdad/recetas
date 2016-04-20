@@ -9,7 +9,6 @@ categories:
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de arroz
 
 1 Kg. de rape con su cabeza, cortado en trozos
@@ -37,7 +36,6 @@ Para 10 personas.
 2 1/2 l. de agua
 
 <h3>Preparación</h3>
-
 MODO DE HACER EL CALDO:
 
 Limpiar y salar el pescado.

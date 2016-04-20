@@ -23,7 +23,6 @@ Para 10 personas.
 <b>Tiempo</b> 55 minutos.
 
 <h3>Ingredientes</h3>
-
 5 manzanas grandes peladas y cortadas en rodajas
 
 1oo gramos de margarina derretida
@@ -45,7 +44,6 @@ Para 10 personas.
 azúcar el polvo
 
 <h3>Preparación</h3>
-
 Sobre una fuente enmantequillada y enharinada distribuir las manzanas.
 
 Licuar la mantequilla con los demas ingredientes menos el azúcar en polvo.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tajadas de bacalao grueso
 
 8 patas de buey
@@ -56,7 +55,6 @@ cebolla
 harina
 
 <h3>Preparación</h3>
-
 Una vez desalado y limpio el bacalao, separar las capas más gordas en crudo. En una cazuela de barro con el aceite, se sofríen el cebollino, la cebolla, los puerros, todos los pimientos, los tomates, los ajos, las chalotas y el apio.
 
 Hecho esto, extraer las verduras y pasarlas por el chino, reservando la salsa. Cortar ocho rodajas delgadas de berenjena y freírlas en aceite, previamente untadas en harina y huevo batido. Hacer un pil pil con las láminas más gruesas del bacalao.

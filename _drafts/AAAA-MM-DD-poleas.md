@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 100 gr. de harina
 
 4 cucharaditas de azúcar
@@ -43,6 +42,5 @@ Una rebanada de pan
 Canela molida
 
 <h3>Preparación</h3>
-
 Freír la matalahuva en el aceite, colar, reservar el aceite y tirar la matalahuva y la cebolla. Poner en una cacerola el aceite ya frito, la harina, el azúcar y la media copa de anís, e ir removiendo con cuchara de palo a fuego lento. Ir añadiendo la leche poco a poco, a fuego lento y sin dejar de remover hasta cocer la pasta. Echar en recipientes individuales y dejar enfriar. Freír unos trocitos de pan (coscorrones), y poner por encima, espolvoreándoles canela molida.
 

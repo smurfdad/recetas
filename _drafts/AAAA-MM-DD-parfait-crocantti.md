@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 vasos de nata líquida
 
 3 claras de huevo
@@ -36,7 +35,6 @@ Para 4 personas.
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Poner las claras en un bol con una pizca de sal y batirlas a punto de nieve.
 
 Incorporar el azúcar, cucharada a cucharada.

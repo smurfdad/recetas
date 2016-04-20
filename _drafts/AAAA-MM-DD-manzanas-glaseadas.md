@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 manzanas golden
 
 4 cucharadas de azúcar glas
@@ -36,7 +35,6 @@ Para 4 personas.
 30 g de almendras fileteadas
 
 <h3>Preparación</h3>
-
 Lavar, pelar y descorazonar, las manzanas, dividiéndolas en 4 trozos. Se ponen sobre una fuente, echando sobre ellas, parte del azúcar glass, nueces, mantequilla y el vino. Se mete al horno durante 10 minutos a 170&ordm;.
 
 Al sacarlas del horno, agregar nata, almendras y el resto del azúcar y gratinar durante 3 minutos.

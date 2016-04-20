@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 piña
 
 250 mililitros de ron
@@ -30,7 +29,6 @@ Para 4 personas.
 250 gramos de azúcar moreno
 
 <h3>Preparación</h3>
-
 Pelamos la piña, retirando los puntitos marrones. Quitamos el centro con un descorazonador y la cortamos muy fina, a ser posible con una cortadora de fiambres.
 
 Aparte, ponemos el azúcar moreno y el ron en un cacillo a calentar hasta que se disuelva el azúcar.

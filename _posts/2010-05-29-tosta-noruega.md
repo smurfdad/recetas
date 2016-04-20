@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 100 grs. salmón ahumado (pueden ser restos)
 
 100 grs. nata líquida
@@ -28,7 +27,6 @@ un poco de perejil picado
 2 pepinillos en vinagre (adorno)
 
 <h3>Preparación</h3>
-
 Cortar el salmón en trocitos.
 
 Poner la sartén a fuego medio con la mantequilla.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400 grs. de garbanzos
 
 1 kg de acelgas
@@ -36,7 +35,6 @@ categories:
 2 lt de agua y sal
 
 <h3>Preparación</h3>
-
 Tener los garbanzos en remojo unas doce horas, en agua fría con sal.
 
 Poner una olla con el agua y los garbanzos ya remojados.

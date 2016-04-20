@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 Palitos de Cangrejo
 
 8 Endibias
@@ -37,6 +36,5 @@ Para 4 personas.
 Salsa rosa
 
 <h3>Preparación</h3>
-
 Pelamos el kiwi y el aguacate y los cortamos en rodajas, cortamos los palitos de cangrejo en cuadraditos y troceamos las endibias, reservando algunas hojas para adornar. Lo colocamos en una fuente y servimos con la salsa rosa.
 

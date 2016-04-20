@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 manojo de puerros
 
 2 patatas
@@ -23,7 +22,6 @@ curry
 aceite
 
 <h3>Preparación</h3>
-
 Lavar bien los puerros y cortarlos en rodajas. Poner un poco de aceite en una olla y rehogar los puerros 5 minutos.
 
 Mientras tanto, pelar las patatas y cortarlas en trozos.

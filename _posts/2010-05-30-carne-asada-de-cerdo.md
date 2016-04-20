@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 pieza de aproximadamente 1 kg. o 1 1/4 (lomo, cabeza, etc.) La cabeza de lomo aunque con un poco de más grasa, resulta mucho más jugosa.
 
 1 cebolla.
@@ -23,7 +22,6 @@ categories:
 Sal.
 
 <h3>Preparación</h3>
-
 Pedimos a nuestro carnicero que nos prepare la carne ya atada. En todos los hipermercados ya la venden lista para asar.
 
 En una olla exprés echamos el aceite, que dejaremos calentar hasta alcanzar una temperatura media, ponemos la cebolla pelada y entera y la pieza de carne.

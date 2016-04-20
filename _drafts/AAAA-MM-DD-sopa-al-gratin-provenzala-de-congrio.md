@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de congrio
 
 200 gr. de cebollas
@@ -49,7 +48,6 @@ perejil
 35 gr. de mantequilla
 
 <h3>Preparación</h3>
-
 En una cacerola se pone al fuego el aceite con la cebolla picada y el ajo trinchado. Cuando haya adquirido un color dorado se agrega el congrio, el tomate pelado, el laurel, el tomillo, el perejil, el hinojo y 2 1/2 litros de agua. Se sazona con sal y pimienta, se hierve durante cuarenta y cinco minutos y se pasa por un tamiz, aprovechando lo más posible.
 
 En una cazuela de hierro se coloca el pan, cortado a rebanaditas; encima se vierte el caldo, se espolvorea con el queso, se pone en el horno a gratinar y se rocía con la mantequilla derretida.

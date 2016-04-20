@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 huevo
 
 2 dientes de ajo
@@ -32,7 +31,6 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Picar fino el ajo y batirlo con el aceite.
 
 Añadir el huevo, un poco de sal y vinagre, he ir mezclando despacio con la batidora hasta ligar la salsa.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 litro de fondo blanco o fumeet de pescado
 
 100 gr de mantequilla
@@ -30,7 +29,6 @@ categories:
 sal
 
 <h3>Preparación</h3>
-
 Poner la mantequilla en una cazuela a derretir, una vez echo añadir la harina y mezclar bien.
 
 Incorporar el caldo poco a poco sin dejar de remover, sazonar con sal y dejar hervir unos minutos.
@@ -38,6 +36,5 @@ Incorporar el caldo poco a poco sin dejar de remover, sazonar con sal y dejar he
 El caldo dependerá si la velute la queremos para un plato de carne o de pescado.
 
 <h3>Observaciones</h3>
-
 Esta salsa se emplea en la composición de platos de carne o pescado, ya sean asados, a la plancha o hervidos.
 

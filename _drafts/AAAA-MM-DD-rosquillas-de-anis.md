@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 550 gr. de harina
 
 1 tazón de azúcar
@@ -38,7 +37,6 @@ Gaseosa
 1 tapón de anís
 
 <h3>Preparación</h3>
-
 Se echa la harina en un recipiente con el azúcar y la gaseosas. Se mezcla todo. Se añaden la leche y el aceite. Se mezcla un poco y se añaden los huevos y el anís.
 
 Se amasa hasta que coge una consistencia dura y al amasar de despega de las manos. Se forman bolas se les hace un agujero y freír.

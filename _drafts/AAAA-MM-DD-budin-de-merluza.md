@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 500g de filetes de merluza cocidos
 
 3 huevos
@@ -45,7 +44,6 @@ Sal y pimienta
 Nuez moscada
 
 <h3>Preparación</h3>
-
 Salsa blanca: poner en una cacerola la harina y la leche, mezclar bien hasta disolver la harina y revolver sobre fuego bajo con batidor ó cuchara de madera hasta que hierva y espese, apagar el fuego.
 
 Condimentar con sal, pimienta y nuez moscada a gusto.

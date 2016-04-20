@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 diente de ajo
 
 1 costillar de cerdo de 1,5kg.
@@ -27,7 +26,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Pela los dientes de ajo y los cortas en trocitos. Mechamos la carne con el ajo y salamos el costillar.
 
 Los ponemos en una fuente honda, y agregamos el vino y el tomillo. Lo dejamos macerar durante 12 h y le damos la vuelta 2 ó 3 veces.

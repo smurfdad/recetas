@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodaja bonito 180 gr.
 
 750 cl. aceite de oliva 0,4 grados
@@ -40,6 +39,5 @@ Para 4 personas.
 1 pizca sal
 
 <h3>Preparación</h3>
-
 En una cazuela, poner un poco de aceite, las especias y las hierbas frescas. Calentar todo el conjunto a fuego bajo unos 15 minutos, para que el aceite coja los sabores de las especias. Añadir el resto del aceite, salar el bonito y confitar a fuego muy lento sin que llegue nunca a hervir durante 20 minutos.
 

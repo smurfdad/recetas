@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 perdices de 250 gr. aproximadamente
 
 2 l. de vino blanco
@@ -27,7 +26,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Desplumar bien las perdices y lavarlas en agua hasta desangrarlas totalmente, atarlas y escurrirlas bien. En una cazuela de barro, se prepara un fondo de cebolla fileteada y se colocan las perdices con la pechuga hacia el fondo, cubriéndolas nuevamente con cebolla, el ajo sin picar, el laurel y la pimienta.
 
 Se añade el vino blanco y el hasta que van estando aceite, haciéndolas cocer a fuego lento cocidas, sacándolas según tamaño. La salsa se reduce aproximadamente en una cocción de dos horas al mismo ritmo.

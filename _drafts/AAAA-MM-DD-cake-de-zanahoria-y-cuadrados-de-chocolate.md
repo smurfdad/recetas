@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Cake de zanahoria:
 
 Aceite 1 1/2 Taza
@@ -100,7 +99,6 @@ Dulce de leche Cantidad necesaria
 Nueces Cantidad necesaria
 
 <h3>Preparación</h3>
-
 Cake de zanahoria:
 
 Ralle las zanahorias.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 12 pares de ancas de las de aquí, son mas pequeñas que las chinas
 
 6 pimientos verdes, sin pepitas y cortados en trozos
@@ -55,10 +54,8 @@ unas gotas de aceite de sésamo
 2 cucharadas de vino de arroz o jerez
 
 <h3>Preparación</h3>
-
 Calentar el aceite en el wok y freír las ancas por dos minutos, sacar y reservar. Quitar el aceite del wok dejando solo 3 cucharadas, saltear la guindilla bien picadita, ajos, jengibre y las alubias de soja fermentadas hasta que notéis la fragancia de los ingredientes. Añadir los pimientos verdes y los salteáis hasta que estén ni crudo, ni cocidos, es decir al dente. Volver las ancas al wok, añadir el agua y los ingredientes de la salsa excepto el vino y el aceite de sésamo, cocer por dos minutos. Al final añadir la mezcla de maicena y agua, aceite de sésamo y el vino, un pequeño hervor para que engorde la salsa. Servir caliente.
 
 <h3>Observaciones</h3>
-
 Cocina de Szechuan
 

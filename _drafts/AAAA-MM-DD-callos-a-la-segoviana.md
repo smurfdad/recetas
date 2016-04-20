@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de callos de buena calidad limpios
 
 650 g de morro y pata de ternera
@@ -67,6 +66,5 @@ Para el sofrito:
 200 g de salsa de tomate
 
 <h3>Preparación</h3>
-
 En agua fría limpiar los callos y cortar a cuadrados de 4 cm aproximadamente. Lavar la pata de ternera y cortar en cuatro trozos. Limpiar el morro y cortar a tiras. Poner en una olla mucho agua y junto a estos ingredientes echar el codillo, rama de tomillo, perejil, laurel, clavo, pimienta y la cabeza de ajos. Cocer todo esto a fuego vivo durante 3 horas. Cuando estén bien cocidos los ingredientes sacar los ramilletes de hierbas, el codillo, los patas y los morros. Deshuesar el codillo y la pata y cortar a trozos regulares. También cortar el morro. Se introducen en la olla otra vez con los callos y se agrega el chorizo y la morcilla. Dejar hervir durante 30 ó 40 minutos. Para hacer el sofrito, coger una sartén con aceite y echar la cebolla y los ajos muy picados, el pimentón, la salsa de tomate y una cucharada de harina. Cuando esté hecho el sofrito, añadir a la olla y dejar cocer durante 15 minutos. Remover para que no se pegue. Antes de servir comprobar el punto de sal y de picante y rectificar si es necesario. Cuando se vaya a servir cortar en rodajas la morcilla y el chorizo y decorar con huevos cocidos.
 

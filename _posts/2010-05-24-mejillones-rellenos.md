@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. mejillones
 
 2 cucharadas de mantequilla
@@ -21,7 +20,6 @@ Para 6 personas.
 pan rallado
 
 <h3>Preparación</h3>
-
 Abrir los mejillones en una cajuela baja, con un poco de agua, a fuego fuerte y tapada.
 
 Separar las conchas y apartar la carne. Cortarla en trozos pequeños.

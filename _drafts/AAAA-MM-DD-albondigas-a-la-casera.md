@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr de ternera picada
 
 3 cebollas
@@ -50,7 +49,6 @@ perejil
 1/2 litro de nata
 
 <h3>Preparación</h3>
-
 Poner la carne picada en un Bol y reservar.
 
 Picar fina una cebolla y dos pimientos verdes, rehogandolo bien con un poco de aceite.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 k de magro de ternera
 
 1/4 k de magro de cerdo
@@ -48,6 +47,5 @@ Para ACOMPAñAR:
 200 g de patatas fritas
 
 <h3>Preparación</h3>
-
 Poner en un bol las dos carnes, agregar los huevos, el pan rallado y el perejil. Sazonar con pimienta y sal. Mezclar muy bien todos los ingredientes y formar las hamburguesas. Freírlas en aceite caliente. Escurrirlas, ponerlas sobre una rejilla y repartir el queso rallado. Meter en el horno con el grill muy caliente hasta que el queso esté derretido. Servir enseguida con las patatas fritas.
 

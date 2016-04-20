@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 un rollo de carne,puede ser de ternera,de cerdo,solomillo...
 
 1 zanahoria,1 cebolla
@@ -42,7 +41,6 @@ mostaza de cocinar.
 sal,pimienta y aceite.
 
 <h3>Preparación</h3>
-
 Se pone un poco de aceite en la bandeja y se pone el rollo de carne salpimentado,se deja que se dore un poco.A continuación se envadurna el rollo con la mostaza y se echan los demás ingredientes menos la cerveza y el vino.
 
 Cuando esté todo un poco tierno se añade la cerveza,el vino,el tomillo y el laurel.

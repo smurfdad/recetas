@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Botillo: 1
 
 Patatas: 500 grs.
@@ -31,6 +30,5 @@ Patatas: 500 grs.
 Berza (grelos, repollo...)
 
 <h3>Preparación</h3>
-
 Se cuece el botillo, a fuego lento, durante dos horas o dos horas y media por kilo de botillo. Media hora antes de terminar se añaden las patatas y la verdura.
 

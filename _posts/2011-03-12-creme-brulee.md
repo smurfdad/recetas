@@ -8,7 +8,6 @@ categories:
 - Postres y dulces
 ---
 <h3>Ingredientes</h3>
-
 500 ml. de crema de leche
 
 200 ml. de leche
@@ -20,7 +19,6 @@ categories:
 1 chaucha de vanilla (o esencia)
 
 <h3>Preparación</h3>
-
 Calentar la crema con la leche.
 
 Partir la chaucha y colocarla en infusión.

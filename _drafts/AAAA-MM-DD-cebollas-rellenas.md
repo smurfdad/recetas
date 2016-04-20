@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 6 cebollas grandes
 
 500g de carne picada especial
@@ -36,7 +35,6 @@ categories:
 Perejil
 
 <h3>Preparación</h3>
-
 Pelar cuidadosamente las cebollas. Quitar la parte superior y quitar con un cuchillo la pulpa dejando unos 2 cm. de espesor.
 
 Picar la cebolla, el ajo y el perejil,; agregar la mitad del queso rallado y 3 yemas de los huevos.

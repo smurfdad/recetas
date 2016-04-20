@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Lechuga de roble
 
 Ajos
@@ -41,6 +40,5 @@ Vinagre
 Sal
 
 <h3>Preparación</h3>
-
 Se sala la ensalada previamente limpia se añade el vinagre. En una sarten se frien los ajos en láminas así como las gambas. en un bol se pone la lechuga y se le añade las nueces, las manzanas , y el queso cortado a tacos pequeños, y posteriormente,se le añade los ajos fritos con las gambas.Y se sirve templado y en el momento, para evitar que la lechuga se mustie.
 

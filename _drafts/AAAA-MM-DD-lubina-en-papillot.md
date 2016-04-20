@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 27 minutos.
 
 <h3>Ingredientes</h3>
-
 6 Lubinas por racion (Pedir en la pecaderia que nos las abran y limpien)
 
 3 Dientes de ajo
@@ -37,7 +36,6 @@ Para 6 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Salar las lubinas por dentro y por fuera.
 
 Untarlas con aceite por dentro.

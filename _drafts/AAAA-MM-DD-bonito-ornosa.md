@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Un kilo y medio de bonito fresco (cuatro o cinco rodajas)
 
 12 langostinos hervidos y peleados.
@@ -43,7 +42,6 @@ Un pimiento rojo.
 Unas hojas de perejil.
 
 <h3>Preparación</h3>
-
 Preparación de la salsa:
 
 En la picadora deshacer los tomates, la cebolla, el diente de ajo ,las hojas de perejil, el pimiento rojo y el jamón serrano. Poner la mezcla al fuego en una sartén con 250 cc de aceite de oliva y freír aproximadamente 25 minutos a fuego lento y la salsa ya estará lista. Preparación del bonito:

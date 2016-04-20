@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de carne de ternera en un trozo para asar
 
 6 cucharadas de aceite
@@ -23,7 +22,6 @@ Pimienta de molinillo
 Sal, perejil - hierbas
 
 <h3>Preparación</h3>
-
 Poner en una cazuela 2 cucharadas de aceite y dorar rápidamente la carne
 
 por todos los lados. Sazonar con sal y pimienta, añadir 1/2 taza de

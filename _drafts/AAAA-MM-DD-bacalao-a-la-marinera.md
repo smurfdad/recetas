@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 bacalao, grueso desalado, 1 kg.
 
 patatas, 1 kg.
@@ -46,6 +45,5 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Ponemos en una cazuela un poco de aceite, la cebolla juliana, las patatas en rodajas, el pimiento verde troceado, azafrán, un poco de pimentón y un poco de agua. Dejamos que hierva a fuego lento durante 10 minutos, pasados los cuales, colocamos el bacalao. Sobre éste ponemos el tomate picado y una ramita de perejil, dejando hervir 5 minutos; sazonamos al gusto. Después de retirado del fuego, dejamos reposar antes de servir.
 

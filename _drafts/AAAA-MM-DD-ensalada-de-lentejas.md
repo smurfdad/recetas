@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de lentejas
 
 1 tomate de ensalada hermoso
@@ -63,7 +62,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 En una cazuela se calienta el aceite de oliva y se sofríe la cebolla, bien picada, hasta que esté transparente. Se añaden el diente de ajo entero, la hoja de laurel, las lentejas y 1 litro y 1/2 de agua. Se sazona con sal y se pone a hervir.
 
 Se tienen hirviendo las lentejas durante 40 minutos. Se escurren y se dejan enfriar. Se retiran el diente de ajo y el laurel. Se ponen las lentejas en una fuente honda y se les pone la cucharada de vinagre. Se sazona con pimienta del molinillo y se mezcla suavemente.

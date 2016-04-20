@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 320 gr. de garbanzos
 
 1 puerro
@@ -59,7 +58,6 @@ Para el salteado de berza:
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Pon a cocer todos los ingredientes bien limpios en una cazuela con agua caliente. Los garbanzos los habrás tenido a remojo desde la víspera. Sazona y transcurridas 1,5 horas, a fuego suave, retira las carnes y trocéalas. Separa por un lado el caldo y por otro los garbanzos y los demás ingredientes (sin dejarlos muy secos) y añádeles las carnes troceadas. Puedes utilizar el caldo para hacer una sopa.
 
 Para preparar el salteado de berza, pela y pica los ajos y dóralos en una sartén con aceite. A continuación, agrega la berza cocida y saltéala unos minutos. Sirve los garbanzos con la carne y acompáñalo todo con el salteado de berza.

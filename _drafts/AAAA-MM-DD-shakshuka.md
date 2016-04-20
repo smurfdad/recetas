@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de tomate maduro
 
 3 unidades de pimiento verde
@@ -39,10 +38,8 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Lavar los pimiento, secarlos y cortarlos en trocitos pequeños. Freír en aceite muy caliente. Cortar los tomates en trozos pequeños y echarlos sobre los pimientos; dejar hasta que se seque su agua. Machacar el ajo con el cilantro y la sal; añadir a la mezcla de tomate y pimiento, dejar 5 minutos. Servir caliente.
 
 <h3>Observaciones</h3>
-
 Receta egipcia
 

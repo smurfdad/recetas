@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 rodajas de merluza
 
 harina
@@ -32,7 +31,6 @@ sal
 1/2 litro de salsa americana
 
 <h3>Preparación</h3>
-
 Sazonar la merluza con sal, enharinarla y freírla un poco.
 
 Después cubrir con la salsa americana y dejarla que se termine de hacer.

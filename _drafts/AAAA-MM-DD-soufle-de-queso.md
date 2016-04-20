@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 3 yemas y 5 claras de huevo.
 
 1 vaso de leche.
@@ -36,7 +35,6 @@ categories:
 Mantequilla y harina para untar el molde.
 
 <h3>Preparación</h3>
-
 En un cazo,mezcla con unas varillas los dos tipos de harina y la leche. Una vez bien mezclados, caliéntalos hasta que espese.
 
 Añadimos el queso y seguimos removiendo para que este se disuelva.

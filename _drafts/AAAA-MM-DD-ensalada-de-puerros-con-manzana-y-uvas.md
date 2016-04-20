@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 puerros medianos
 
 2 manzanas rojas pequeñas
@@ -47,7 +46,6 @@ Para 6 personas.
 1 manojo de eneldo
 
 <h3>Preparación</h3>
-
 Corte las bases y las hojas oscuras de los puerros, lávelos y córtelos enanillos finos. Blanquéelos 1 minuto en agua hirviendo, póngalos luego en un colador, lávelos bajo el chorro del agua fría y déjelos escurrir. Lávelas manzanas, frótelas para que se sequen, cuartéelas y quíteles el corazón. Corte los trozos en rodajas finas y rocíelas con una cucharada de zumo de limón. Lave las uvas, córtelas por la mitad y quíteles las pepitas.
 
 Mezcle la yema de huevo con la mostaza y añada el aceite, mientras bate con la batidora de varillas, primero gota a gota y luego en un hilillo fino. Incorpore a la mayonesa 1 cucharada de zumo de limón, la sal, la pimienta y el azúcar. Lave el eneldo, séquelo y córtelo con la tijera sobre la mayonesa. Mezcle los anillos de puerro ya seco, las rodajas de manzana y las mitades de las uvas(6 verdes y 6 negras) y ponga en 4 platos. Vierta por encima la mayonesa y decore la ensalada de puerros con el resto de las uvas.

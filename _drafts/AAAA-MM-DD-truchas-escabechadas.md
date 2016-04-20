@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 truchas
 
 3 dl. de aceite de oliva
@@ -46,7 +45,6 @@ sal
 harina
 
 <h3>Preparación</h3>
-
 Una vez lavadas y limpias las truchas, se sazonan, se pasan por harina y se fríen. En una cacerola con el aceite se fríen los ajos, la cebolla y los granos de pimienta.
 
 Se agrega el vinagre, el vino blanco y el agua, se deja cocer durante 30 minutos y se pone bien de sal. Se añaden las truchas fritas y se cuece durante 10 minutos más. Se conservan de este modo durante varios días en lugar frío.

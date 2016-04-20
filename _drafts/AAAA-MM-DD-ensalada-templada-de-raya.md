@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de raya.
 
 Un trozo blanco de puerro.
@@ -47,7 +46,6 @@ Perejil picado.
 Tomate y Sal.
 
 <h3>Preparación</h3>
-
 La raya, limpia y troceada, se cuece en agua con sal, con pimienta y puerro, durante siete minutos, aproximadamente. Después se escurre y reserva.
 
 A continuación, en el fondo de una fuente de servir, se coloca la lechuga cortada en juliana.

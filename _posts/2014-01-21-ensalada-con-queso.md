@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 escarola
 
 200 gramos de tomates cherry
@@ -37,7 +36,6 @@ Para 4 personas.
 3 ccs de paprika
 
 <h3>Preparación</h3>
-
 Cortar las verduras, las patatas y el queso y disponerlo en una ensaladera.
 
 Aliñar con el aceite, la sal y la pimienta.

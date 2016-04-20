@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. chatka (o palitos de surimi)
 
 1 bote de leche evaporada
@@ -19,7 +18,6 @@ Para 6 personas.
 1/4 mayonesa
 
 <h3>Preparación</h3>
-
 Triturar con la batidora todos los ingredientes menos la mayonesa.
 
 Llenar con la mezcla un molde, previamente untado con mantequilla y espolvoreado con pan rallado.

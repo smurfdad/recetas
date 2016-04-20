@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr. de lomo de cerdo
 
 15 cl. de vino blanco
@@ -46,7 +45,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se pican el hinojo y el ajo y se ponen en un bol. Se les añade el cebollino picado y la sal gorda. Se mezcla bien. Con la punta de un cuchillo bien afilado, se practican varias incisiones en el lomo de cerdo y se introduce en ellas la mayor cantidad posible de la preparación de las hierbas.
 
 Se soba bien la pieza de carne con aceite de oliva y se reparte bien por encima las hierbas que hayan sobrado en el bol. Se coloca la pieza de carne en una fuente honda y se rocía con el vino blanco y el brandy. Se mete en el frigorífico y se deja marinar durante 3 o 4 horas, dándole la vuelta a la carne de vez en cuando para que se impregne bien por todas partes.

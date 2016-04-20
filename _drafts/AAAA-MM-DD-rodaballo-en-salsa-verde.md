@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 filetes de rodaballo (400 grs)
 
 4 dientes de ajo
@@ -43,6 +42,5 @@ Aceite de oliva virgen
 Sal
 
 <h3>Preparación</h3>
-
 En un fondo de aceite de oliva virgen se dora la cebolla muy picada y los ajos laminados. Cuando están listos se añade una cucharada de harina y va ligándose la salsa verde con el caldo de pescado y el perejil picado. Se meten los filetes de rodaballo en la salsa verde durante 7 minutos y se sirven acompañados de patatas cocidas.
 

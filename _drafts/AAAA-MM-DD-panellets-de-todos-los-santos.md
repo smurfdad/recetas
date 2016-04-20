@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de almendras sin cáscara
 
 4 huevos
@@ -39,6 +38,5 @@ obleas
 vainilla en polvo
 
 <h3>Preparación</h3>
-
 Se pelan los boniatos y se hierven en agua, hasta que estén cocidos. Se sacan y se pasan por el pasapurés. Las almendras se hierven unos momentos para poder pelarlas, hecho lo cual se introducen en el horno unos minutos para que se sequen, pero sin que cojan color. Luego se rallan y se mezclan con el puré de boniatos, el azúcar, un poco de vainilla en polvo, la harina de arroz y los huevos. Se amasa bien todo hasta formar una pasta homogénea. Se cogen porciones de la pasta del tamaño de un huevo de gallina y se hacen unas bolas aplastándolas un poco, rebozándolas con azúcar en grano, y colocándolas sobre un disco de oblea. Se ponen en una placa de pastelero y se meten al horno fuerte hasta que estén doradas. Esta misma puede rebozarse en clara de huevo batida y después en piñones o almendras tostadas picadas.
 

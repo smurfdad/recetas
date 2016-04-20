@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas finas de bonito
 
 1 cucharada de perejil picado
@@ -42,7 +41,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Hacer una vinagreta con el perejil, el vino, el aceite, los ajos y el vinagre, mezclando bien. Adobar los trozos de bonito con esta salsa y dejar así durante una hora.
 
 Mientras, cocer las patatas, bien lavadas y sin pelar, en una pota con agua, sal y la hoja de laurel. Cuando estén listas, escurrir y conservar calientes.

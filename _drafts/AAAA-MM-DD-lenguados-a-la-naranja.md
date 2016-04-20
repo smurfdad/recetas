@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Naranjas
 
 Lenguados
@@ -34,7 +33,6 @@ Harina
 Aceite
 
 <h3>Preparación</h3>
-
 Macerar los lenguados en zumo de naranja una hora; deben quedar bien cubiertos por el zumo.
 
 Escurrir.

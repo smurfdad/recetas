@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 1,5k de mejillones
 
 2 ajos picados
@@ -45,7 +44,6 @@ Sal y pimienta a gusto
 1 bouquet garní (ramito de hierbas aromáticas)
 
 <h3>Preparación</h3>
-
 Se lavan bien los mejillones con cepillo debajo del agua y se hierven en agua con sal y el ramito de hierbas aromáticas hasta que se abran los caparazones, descartar aquellos que no se hayan abierto luego se retiran y se guarda el caldo, bien colado.
 
 Se fríen en aceite los ajos y la cebolla, se adicionan los mejillones.

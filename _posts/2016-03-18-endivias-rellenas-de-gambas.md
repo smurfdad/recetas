@@ -19,7 +19,6 @@ Para 4 personas.
 - 1 lata de puntas de espárragos
 
 <h3>Preparación</h3>
-
 Se parten las endivias en dos a lo largo y se les quitan unas hojas del centro, estas hojas se pican muy finas y se mezclan con mayonesa y unas gambas peladas que previamente habremos cocido un poco.
 
 Se prepara una fuente redonda y se van rellenando las endivias con esta mezcla colocándolas en forma de margarita y se adornan con unas puntas de espárragos.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 240 minutos.
 
 <h3>Ingredientes</h3>
-
 un conejo,
 
 sal,
@@ -45,7 +44,6 @@ tomillo,
 romero y laurel.
 
 <h3>Preparación</h3>
-
 Para cuatro personas se coge un conejo de kilo y pico, que cortaremos en trozos pequeños que iremos poniendo en un cacharro (si es de barro, mejor), salándolos ligeramente.
 
 Para preparar el salmorejo, que es una especie de salsa fría, se trituran en un mortero una cucharada de sal gorda, unos cuantos dientes de ajo (como media docena), una punta de cuchillo de pimentón y un par de pimientas. Tras machacar un rato, se añaden un chorrito generoso de aceite y otro casi igual de generoso de vinagre.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Lenguados
 
 1 taza de licor de naranja o limón
@@ -41,7 +40,6 @@ Pimienta Negra
 Harina
 
 <h3>Preparación</h3>
-
 En una sartén se funde la mantequilla, se le añaden los lenguados (enharinados previamente). Se flamea con el licor y se separan de la sartén.
 
 Hacemos una mezcla con el zumo de las naranjas y la nata líquida que incorporamos a la sartén, sin dejar de remover.

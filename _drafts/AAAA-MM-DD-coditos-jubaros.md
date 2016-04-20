@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 onz. coditos cocidos
 
 2 dientes de ajo molidos
@@ -50,7 +49,6 @@ Sal a gusto
 Lechuga
 
 <h3>Preparación</h3>
-
 Sofreir en el aceite la cebolla. Añadir el cilantro, cilantrillo, ajicitos, ajos, especias y el vinagre. Cocinar por 10 minutos.
 
 Agregar los gandules. Dejar por 5 minutos y retirar del fuego. Sazonar a gusto y agregar a los coditos. Refrigerar. Servir sobre hojas de lechuga.

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga.
 
 1 pimiento verde cortado en juliana.
@@ -43,6 +42,5 @@ Aceite.
 Vinagre de vino.
 
 <h3>Preparación</h3>
-
 En primer lugar, limpiamos la verdura. En el fondo de una fuente colocamos las hojas de lechuga un poco troceada. A continuación, pelamos los huevos, los cortamos en cuartos, y los colocamos sobre lo anterior, junto con el pimiento en juliana. Añadimos las lonchas de jamón troceadas y las aceitunas. Por ultimo, se aliña con sal, aceite y vinagre al gusto.
 

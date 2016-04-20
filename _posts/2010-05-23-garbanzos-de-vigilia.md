@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. garbanzos
 
 1/2 cebolla
@@ -23,7 +22,6 @@ pimentón, 4 granos de pimienta
 1/4 espinacas (opcional)
 
 <h3>Preparación</h3>
-
 Se ponen los garbanzos a remojar de víspera.
 
 Se ponen a cocer con agua hirviendo y se les echa un trozo de cebolla y los ajos.

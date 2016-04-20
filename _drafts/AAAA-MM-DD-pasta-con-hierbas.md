@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de pasta a su gusto.
 
 1/2 taza de aceite de oliva.
@@ -43,7 +42,6 @@ Hojas de albahaca.
 Queso parmesano rallado.
 
 <h3>Preparación</h3>
-
 Prepare una salsa con el aceite de oliva en la que debe freír el ajo.
 
 Agregue el puñado de romero y tomillo y 2 hojas de laurel, la taza de setas. Baje el fuego y cocine bien la salsa.

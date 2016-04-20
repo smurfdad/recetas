@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 pata de cerdo (se puede sustituir por paletilla)
 
 un poco de agua
@@ -19,7 +18,6 @@ un poco de agua
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Pida a su carnicero que le quite la corteza y el hueso a la pata(menos el hueso del final)
 
 Limpiar bien y frotar con aceite, sal y pimienta.

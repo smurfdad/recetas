@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 2 pechugas de pollo
 
 2 Muslos de pollo
@@ -43,7 +42,6 @@ mantequilla
 1 lata de maiz en grano, escurrido
 
 <h3>Preparación</h3>
-
 Lavar el pollo y secarlo bien. Quitarle la piel. Salpimentar.
 
 Pelar las cebollas y picarlas menudito y sofreirlas en mantequilla.

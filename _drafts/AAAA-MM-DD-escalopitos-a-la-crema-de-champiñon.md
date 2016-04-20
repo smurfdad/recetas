@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes
 
 1 lata de champiñones en laminas
@@ -40,7 +39,6 @@ huevo
 pan rallado
 
 <h3>Preparación</h3>
-
 Sazonar los filetes con sal.
 
 Pasarlos por harina, huevo y pan rallado y freírlos.

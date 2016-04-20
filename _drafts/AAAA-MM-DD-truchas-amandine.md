@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 aceite
 
 4 truchas
@@ -44,7 +43,6 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Limpiar las truchas, sazonarlas con sal, pasarlas por harina y freírlas en un poco de aceite.
 
 Luego prepararemos una salsa con mantequilla, diluida con un poco de aceite, el zumo de un limón y el jugo de carne.

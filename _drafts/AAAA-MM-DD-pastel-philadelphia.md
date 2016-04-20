@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 tarrinas de 200 grs. de queso Philadelphia
 
 75 gramos de almendras peladas
@@ -38,7 +37,6 @@ Fruta confitada (naranja, limón, cereza, arándanos, etc.)
 100 gramos de azúcar
 
 <h3>Preparación</h3>
-
 Batir las yemas de huevo junto con el azúcar. Añadir las tres tarrinas de queso Philadelphia, la mantequilla derretida, las pasas de Corinto, las almendras trituradas, la fruta confitada y mezclar.
 
 Frotar el molde con mantequilla. Verter la mezcla, tapar y dejar enfriar.

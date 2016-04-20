@@ -8,7 +8,6 @@ categories:
 - Setas y hongos
 ---
 <h3>Ingredientes</h3>
-
 350 gramos de champiñones
 
 250 gramos de jamón serrano
@@ -40,7 +39,6 @@ sal
 perejil
 
 <h3>Preparación</h3>
-
 Pon abundante agua a cocer en una cazuela grande. Sazónala y añade un chorrito de aceite. Cuece las láminas de lasaña durante unos 12-15 minutos.
 
 Limpia y pica las espinacas. Cuécelas, escúrrelas y mézclalas con los quesos riccota y cheddar.
@@ -52,5 +50,4 @@ Coloca 2 láminas de lasaña sobre un molde de cristal apto para el horno, cúbr
 Tapa el molde con papel de aluminio e introduce en el horno a 200ºC, durante 10 minutos. Saca el molde, espolvorea con queso rallado y gratina durante 2 minutos. Decora con una rama de perejil.
 
 <h3>Observaciones</h3>
-
 Una vez elegido el tipo de pasta, en función de la forma de preparación, podemos adecuar las cantidades por persona: de 20 a 25 g de pasta menuda para sopas; de 40 a 45 g para menestras y potajes; de 80 a 100 para pasta de tenedor; de 3 a 4 placas de lasaña o canelones para rellenar.

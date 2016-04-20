@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 5 huevos
 
 5 Cucharada de harina
@@ -44,7 +43,6 @@ Canela en rama
 1 Taza de agua
 
 <h3>Preparación</h3>
-
 Para el bizcocho, batir los huevos y el azúcar con las cinco cucharadas de harina. Verter en un molde engrasado con mantequilla y cocer al horno. Dejar que enfríe.
 
 La crema se hace con los 200 gr de mantequilla batiendo lentamente con el azúcar formando una mezcla espumosa. Agregar las yemas y la vainilla sin dejar de batir junto con las claras (batidas previamente a punto de nieve). Terminar agregando el café (de forma liquida o en polvo si es instantaneo) y el cognac.

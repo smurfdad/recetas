@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Masa de pan
 
 pimiento
@@ -38,6 +37,5 @@ salchichas
 tomates
 
 <h3>Preparación</h3>
-
 Preparar o comprar una base como de pizza pero alargada y colocar encima el pimiento, la berenjena, la cebolla, el tomate, el tocino ligeramente frito, los arenques limpios y las salchichas también fritas. Poner a horno suave unos 15 minutos.
 

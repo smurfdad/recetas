@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 750 gr. berenjena
 
 salsa de tomate
@@ -33,6 +32,5 @@ salsa de tomate
 1/2 taza queso parmesano rallado
 
 <h3>Preparación</h3>
-
 Cortar en rodajas las berenjenas, salar y dejar reposar 30 min. Enjuagar con agua fría y secar con papel de cocina. Enharinar por los dos lados y freír en aceite muy caliente hasta que estén doraditas y blanditas. En una fuente honda y engrasada poner por este orden capas de tomate, berenjenas y queso hasta que se agoten todos los ingredientes. Cubrir con papel de aluminio y meter en el horno a 200 grados durante 20 min. Quitar después el aluminio y dejar diez minutos más en el horno para que se doren.
 

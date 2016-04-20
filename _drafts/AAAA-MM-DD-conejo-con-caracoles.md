@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 kilo y medio de conejo
 
 500 gr de caracoles
@@ -38,7 +37,6 @@ kilo y medio de conejo
 sal
 
 <h3>Preparación</h3>
-
 Limpiar y trocear el conejo, sazonarlo con sal y reservar.
 
 Picar muy fino la cebolla, el ajo y los pimientos verdes, reservar.

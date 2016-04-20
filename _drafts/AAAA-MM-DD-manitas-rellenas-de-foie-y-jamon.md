@@ -23,7 +23,6 @@ Para 2 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 manitas de cerdo partidas por la mitad a lo largo
 
 4 láminas de foie de pato
@@ -51,10 +50,8 @@ Para 2 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Cocemos las medias manitas en una olla, cubiertas de agua, junto al hueso de jamón, las verduras, el chorizo y la morcilla. Cuando estén tiernas las deshuesamos y rellenamos con el foie y el jamón, las envolvemos por separado en láminas de plástico de cocina y las dejamos enfriar. Agregamos el vino a la olla y dejamos cocer para que se reduzca. Pasamos esta salsa por el pasapurés y le ponemos sal. Calentamos en el horno las manitas.
 
 <h3>Observaciones</h3>
-
 Se sirven rociadas con la salsa y acompañadas de patatas a lo pobre.
 

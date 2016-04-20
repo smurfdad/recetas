@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 filete de cerdo de 2 kilos
 
 300 grs de ciruelas pasas sin semillas
@@ -43,7 +42,6 @@ Sal y pimienta a gusto
 Una pizca de sal
 
 <h3>Preparación</h3>
-
 Pone a remojar las ciruelas hasta que se hidraten y suavicen.
 
 Haz un corte regular al filete de punta a punta. Introduce las ciruelas en el corte.

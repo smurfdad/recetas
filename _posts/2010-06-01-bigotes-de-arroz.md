@@ -8,7 +8,6 @@ categories:
 - Postres y dulces
 ---
 <h3>Ingredientes</h3>
-
 1 taza de arroz lavado
 
 2 tazas de leche
@@ -22,7 +21,6 @@ categories:
 1 cucharada cafetera de canela en polvo Aceite para freír
 
 <h3>Preparación</h3>
-
 Mezcle la leche con la mitad del azúcar y una taza de agua. Cueza el arroz en esta mezcla.
 
 Saque de la lumbre y extienda en una charola para que enfríe.

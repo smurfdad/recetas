@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de camarones.
 
 500 gr. de ostiones.
@@ -48,6 +47,5 @@ Apio, perejil y tomillo.
 125 gr. de champiñones cortados.
 
 <h3>Preparación</h3>
-
 Limpie los camarones y ostiones y corte en pedazos, dependiendo de su tamaño. Derrita la mantequilla saltee la cebolla hasta que esté dorada, agregue el puré de tomate, ajo, sal, pimienta y hierbas. Deje hervir lentamente por cinco minutos. Agregue la harina. Cuando esté espeso agregue el vino caliente. Hierva 15-20 minutos. Saque las hierbas y agregue los mariscos y champiñones. Adorne con perejil. Le recomendamos acompañar este platillo con vino blanco.
 

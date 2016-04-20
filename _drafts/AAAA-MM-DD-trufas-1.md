@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 0,5 Kgr. de mantequilla
 
 125 gr. De cacao
@@ -37,6 +36,5 @@ Para 6 personas.
 cognac o whisky
 
 <h3>Preparación</h3>
-
 Se coloca todo y se mezcla. Dejar reposar en la nevera, después hacer bolitas con fideos de chocolate (dos cajas).
 

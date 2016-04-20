@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas grandes
 
 100 gr. de gambas frescas
@@ -46,7 +45,6 @@ cayena
 perejil
 
 <h3>Preparación</h3>
-
 Se lavan las 4 patatas y se envuelven en papel de aluminio, sin quitarles la piel y se introducen en el horno media hora a temperatura media.
 
 Al mismo tiempo, en una sartén se saltean las gambas y los langostinos, los champiñones laminados y el jamón cocido cortado en trocitos con una pizca de ajo y cayena. Se añaden los mejillones también troceados y sin cáscara.

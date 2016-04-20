@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400gr de zanahorias cocidas.
 
 1 cebolla.
@@ -42,7 +41,6 @@ categories:
 Aceite sal y pimienta.
 
 <h3>Preparación</h3>
-
 Pochamos en una cazuela con aceite la cebolla y el ajo picados.
 
 Añadimos las zanahorias picadas y salteamos durante unos minutos.

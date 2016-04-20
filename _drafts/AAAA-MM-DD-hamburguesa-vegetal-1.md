@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 50 g de brotes de soja
 
 30 g de germen de trigo
@@ -40,7 +39,6 @@ Harina integral
 Sal y aceite de oliva
 
 <h3>Preparación</h3>
-
 Poner en remojo el germen de trigo con el caldo de verduras durante 20 minutos.
 
 picar todas las hortalizas muy finas.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 3 berenjenas grandes
 
 200 gramos de jamon cocido
@@ -39,7 +38,6 @@ Sal
 6 huevos
 
 <h3>Preparación</h3>
-
 Se cortan las berenjenas en rodajas y se ponen en agua con sal.
 
 Se rebozan en harina y huevo y se fríen.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8-10 patatas
 
 6-8 salchichas gruesas tipo Frankfurt
@@ -50,7 +49,6 @@ el zumo de 1/2 limón
 sal y pimienta (al gusto)
 
 <h3>Preparación</h3>
-
 Cocer las patatas en agua hirviendo con sal hasta que esten tiernas pero enteras.
 
 Refrescarlas con agua fría y escurrirlas. Pelar, cortar en rodajas o (al gusto).

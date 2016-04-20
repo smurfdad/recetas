@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de carne picada
 
 Tarb de cordero
@@ -39,11 +38,9 @@ Sal
 Pimienta y especias
 
 <h3>Preparación</h3>
-
 Mezclar la carne picada con los ingredientes y amasar. Enrollar la masa con el en forma de cilindro. Colocar en un molde y meter en el horno. Servir caliente.
 
 <h3>Observaciones</h3>
-
 Se puede cortar el Tarb en trozos iguales, rellenarlos y enrollarlos, asar sobre carbón en pinchos. Adornar con perejil y servir caliente.
 
 Receta árabe.

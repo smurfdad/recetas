@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 3/4k de Bacalao (remojado 24 hs.) o abadejo fresco.
 
 1 cebolla chica (150gr.) picada fina
@@ -45,7 +44,6 @@ Perejil
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Hervir el bacalao en agua durante 20 minutos aproximadamente, una vez cocido se retira y se lo limpia cuidando que no queden espinas ni piel.
 
 En una sartén se coloca el aceite y se rehogan la cebolla, el pimiento y el ajo.

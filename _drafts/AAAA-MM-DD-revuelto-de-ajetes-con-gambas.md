@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 huevos por comensal
 
 6 ajetes
@@ -34,6 +33,5 @@ Sal y pimienta al gusto
 Aceite para saltear los ajetes y gambas.
 
 <h3>Preparación</h3>
-
 Cogeréis unos ajetes tiernos y frescos (Los que venden envasados también podéis usar), si son frescos los limpiaréis bien y lo picaréis todo en trozos de 2 centímetros aprox. En una sartén pondréis un poco de aceite a calentar, una vez caliente, pondréis a saltear los ajetes, le pondréis la sal y pimienta, cuando estén casi hechos, (la cochura depende del gusto de cada uno mas o menos hecho, a mi me gustan al dente), le añadís las gambas si son frescas peláis las colas y si son congeladas tal cual vienen, las hacéis un poquito 2 minutos son mas que suficientes. Probáis como esta de sal pues si os habéis pasado o quedado corto lo podréis arreglar con los huevos. Batís los huevo pero no intensamente, mas que nada romper yema y clara, saláis según convenga y lo echáis en la sartén, como de un revuelto se trata, revolvéis todo hasta que este ligeramente cuajado el huevo, pero el cuajado tiene que quedar baboso. Sacar a una fuente o plato y servir.
 

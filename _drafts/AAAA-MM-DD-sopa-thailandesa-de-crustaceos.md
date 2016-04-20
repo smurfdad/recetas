@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 litro de leche;
 
 2 vasos de crema de leche;
@@ -52,10 +51,8 @@ sal
 Para la guarnición: 18 picatostes dorados en mantequilla.
 
 <h3>Preparación</h3>
-
 Mezclar la leche con la crema de leche, añadir las lamas de coco; salar ligeramente y llevar a ebullición a fuego lento. Retirar del fuego y dejar reposar la crema 20 minutos. Retirar con una espumadera las lamas de coco, exprímalas en un lienzo y añadir esta leche de coco a la crema. Volver a poner la crema de leche al coco sobre fuego moderado durante cinco minutos, luego condimentarla con sal, pimienta y azúcar. Agregar la escalonia, la cebolla, la corteza de limón rallada, los granos de corriendo, la salsa de soja y mezclar todo bien. Cuando se haya obtenido una mezcla homogénea, pasarla por un tamiz fino y ponerla en una sopera. Agregar la carne de cangrejo desmenuzada y servir la sopa de crustáceos con el acompañamiento de picatostes dorados en mantequilla.
 
 <h3>Observaciones</h3>
-
 Receta de Thailandia
 

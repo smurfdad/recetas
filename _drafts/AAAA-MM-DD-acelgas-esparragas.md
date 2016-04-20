@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de acelgas
 
 200 gr. de alubias cocidas
@@ -51,7 +50,6 @@ aros de guindilla (optativo)
 sal
 
 <h3>Preparación</h3>
-
 Echar el aceite en una cazuela y freír los ajos y las almendras. Sacarlas al mortero.
 
 Cortar el chorizo en rodajas de medio centímetro y freírlas en el aceite de la cazuela. Añadir el tomate y rehogar todo unos instantes.

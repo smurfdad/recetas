@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 2 tazas de leche
 
 1 taza de harina
@@ -46,7 +45,6 @@ Para 8 personas.
 1 huevo
 
 <h3>Preparación</h3>
-
 En una cacerolita derretir la manteca con la harina sin dejar de revolver agregar la leche y cocinar hasta que espese durante 3 minutos
 
 Una vez que este la preparacion mas bien fria se le agrega la carne la sal a gusto un poco de pimienta y todos los ingredientes mencionados enfriar bien y formar cilindros, esferas o conos
@@ -54,6 +52,5 @@ Una vez que este la preparacion mas bien fria se le agrega la carne la sal a gus
 Pasarlos por pan rallado secar 2 o 3 horas y pasar por una mezcla de huevo batido con las 2 cucharadas de agua y pasar de nuevo por pan rallado freir en abundante aceite caliente escurrir sobre papel absorvente arrugado.
 
 <h3>Observaciones</h3>
-
 Se puede sustituir la carne por el pescado, pollo, jamon, espinacas o huevo duro
 

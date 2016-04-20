@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de riñones de ternera
 
 Una copa de Tío Pepe
@@ -36,6 +35,5 @@ Cuatro cucharadas de aceite de oliva
 Sal y Agua
 
 <h3>Preparación</h3>
-
 Limpiar bien la grasa y telillas de los riñones, lavándolos muy bien y cortándolos a trozos. Poner agua a hervir, sumergirlos y sacarlos rápidamente y dejarlos escurrir. Colocar una cazuela con aceite de oliva al fuego y echar los riñones con un diente de ajo picado y sal. Freírlos. Agregar la copa de Tío Pepe y el perejil picado y dejar cocer a fuego lento unos tres minutos. 5 Servirlos calientes en una cazuela.
 

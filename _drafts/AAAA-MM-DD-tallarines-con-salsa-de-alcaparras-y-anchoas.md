@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. tallarines.
 
 10 filetes de anchoa.
@@ -37,6 +36,5 @@ categories:
 queso parmesano.
 
 <h3>Preparación</h3>
-
 Cocer la pasta en abundante agua con sal. Por otro lado, saltear las alcaparras con la mantequilla, añadir el tomate y las anchoas troceadas y cocer 5 minutos. Una vez hecha la salsa, mezclar con la pasta y servir con queso parmesano rallado.
 

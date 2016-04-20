@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1,5 Kg de conejo
 
 2 cebollas medianas
@@ -46,7 +45,6 @@ sal
 4 cucharadas de tomate
 
 <h3>Preparación</h3>
-
 Trocear el conejo y ponerlo en una cazuela.
 
 Picar las verduras en trozos, no muy gruesos y añadírselo al conejo, agregarle también la pimienta y cubrir todo con el vino.

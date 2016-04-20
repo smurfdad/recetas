@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750grs de carne picada
 
 sal
@@ -48,7 +47,6 @@ oregano
 1 v de vino blanco
 
 <h3>Preparación</h3>
-
 Colocar en un bols la carne,zanahoria,la cebolla y el morron rehogados previamente,queso rallado,ajo y perejil picados,oregano y salpimentar bien.
 
 Tomar un papel de aluminio aceitarlo bien y colocar la preparacion y darle forma rectangular,envolver bien colocar en una bandeja para horno y agregar una taza de caldo de carne y un vaso de vino blanco,llevar al horno por espacio de 45m -

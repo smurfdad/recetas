@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 calabacines gruesos.
 
 300 gramos de migas de bacalao.
@@ -36,7 +35,6 @@ Para 4 personas.
 Sal y nuez moscada.
 
 <h3>Preparación</h3>
-
 Lavamos los calabacines.
 
 Sin pelarlos los cortamos en 4 trozos regulares y cocemos en una cazuela con agua hirviendo, una pizca de sal y 2 cucharadas de aceite de oliva durante 10 minutos.

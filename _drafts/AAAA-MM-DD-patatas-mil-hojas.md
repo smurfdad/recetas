@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de patatas
 
 250g de crema de leche
@@ -36,7 +35,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Pelar y cortar las patatas bien finitas, de ser posible con máquina, colocarlas en una fuente para horno rectangular enmantecada una al lado de la otra.
 
 En un recipiente colocar el pote de crema, los tres huevos, batir ligeramente y condimentarlos con sal, pimienta y mezclar.

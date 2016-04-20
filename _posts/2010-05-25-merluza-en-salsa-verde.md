@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. merluza (rodajas o lomos)
 
 aceite de oliva
@@ -23,7 +22,6 @@ perejil picado
 sal
 
 <h3>Preparación</h3>
-
 Lavar la merluza, secarla bien y echarle sal. Reservar.
 
 Poner en una cazuela de barro o tartera baja el aceite con los ajos picados y arrimar al fuego que no esté muy fuerte, y con cuidado que el ajo no llegue a dorarse.

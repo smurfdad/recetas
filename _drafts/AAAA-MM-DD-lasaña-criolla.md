@@ -25,7 +25,6 @@ Para 4 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 libra de láminas de lasaña
 
 2 pechugas de pollo
@@ -55,7 +54,6 @@ Para 4 personas.
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Se cocinan las pechugas en 3 litros de agua hirviendo, durante 15 minutos.
 
 Se retiran y en el mismo agua hirviendo se añaden dos cucharadas de sal y se colocan las láminas de lasaña hasta lograr el punto al dente (15 a 20 minutos).

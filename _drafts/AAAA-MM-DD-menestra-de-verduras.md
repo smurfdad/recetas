@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 alcachofas
 
 200 gr de alubias verdes
@@ -52,7 +51,6 @@ aceite de oliva
 harina
 
 <h3>Preparación</h3>
-
 Limpiar todas las verduras por separado. En el caso de las alcachofas, preparar un caldo blanco para la cocción de estas (un poco de agua, harina y zumo de limón)para evitar su oxidación.
 
 Una vez cocidas todas las verduras y refrescadas en agua fría procederemos a la elaboración de la menestra.

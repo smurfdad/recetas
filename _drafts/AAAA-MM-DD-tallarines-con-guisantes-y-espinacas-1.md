@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg de tallarines o espaguetis
 
 1 taza de guisantes congelados
@@ -47,6 +46,5 @@ pimienta negra
 sal
 
 <h3>Preparación</h3>
-
 Cueza la pasta a su gusto y escúrrala. Mientras se cuece, caliente la mantequilla en una sartén grande y antiadherente, añada el puerro y la nuez moscada y rehogue cinco minutos a fuego suave. Agregue los guisantes y el vino, tape y cueza tres minutos más. Añada la nata y sazone. Cuando rompa a hervir, deje tres minutos más y eche el queso, las espinacas y la pasta, remueva y apague el fuego.
 

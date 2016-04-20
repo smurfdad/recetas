@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 95 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo de 3 libras, cortado en presas
 
 sal y pimienta
@@ -42,7 +41,6 @@ sal y pimienta
 2 duraznos pelados y cortadas en rodajas
 
 <h3>Preparación</h3>
-
 Sazonar el pollo con sal y pimienta. En una fuente de horno enmantecada, colocar el pollo y cocinar en un horno a 450 por 20 minutos.
 
 Retirar del horno, agregarle la cebolla. En un bol mezclar el catsup, miel salsa de soya y 1 taza de agua. Verter sobre el pollo, tapar y volver a hornear por 30 minutos.

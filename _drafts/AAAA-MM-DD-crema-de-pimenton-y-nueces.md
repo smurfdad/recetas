@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 pimentones rojos
 
 2 cebollas
@@ -38,6 +37,5 @@ Para 6 personas.
 1/2 taza de nueces
 
 <h3>Preparación</h3>
-
 Asar los pimentones rojos en el horno a 400 &ordm;F durante cuarenta minutos. Pelarlos y quitarles las semillas. Sofreír las cebollas y los ajos picados en una cucharada de aceite de oliva. Triturar los pimentones asados con el sofrito de las cebollas y los ajos. Agregar las nueces, el pimentón en polvo o guindilla, el aceite de oliva, el vinagre de vino y la sal. Acompañar con pan árabe o vegetales crudos picados. Sirve como pasapalo o en la preparación de sándwiches árabes.
 

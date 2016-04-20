@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 naranjas.
 
 4 endibias.
@@ -39,7 +38,6 @@ Zumo de un limón.
 Aceite.
 
 <h3>Preparación</h3>
-
 Pelamos las naranjas y las separamos en gajos. Hacemos una juliana muy fina con la zanahoria y la cebolleta.
 
 A continuación, colocamos las hojas de endibia en el fondo de una fuente, en forma de corona, dejando un hueco en el centro, donde pondremos los gajos de naranja. Por encima de la naranja añadiremos la juliana de zanahoria y cebolleta.

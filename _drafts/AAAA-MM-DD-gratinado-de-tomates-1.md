@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 k de tomates maduros
 
 2 huevos
@@ -47,6 +46,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Escaldar los tomates en agua hirviendo durante dos minutos. Refrescarlos pelarlos y cortarlos en gajos. Rehogar la cebolla en dos cucharadas de aceite sin que coja color. Escurrir. Disponer la cebolla en una fuente de horno ligeramente aceitada y cubrirla con los gajos de tomate. Batir los huevos con las yemas, la leche, la nata, pimienta y sal. Cubrir los tomates con la preparación de los huevos. Espolvorear con el orégano y el queso rallado y meter al horno precalentado a 180 grados, durante 30 minutos. Servir en la misma fuente.
 

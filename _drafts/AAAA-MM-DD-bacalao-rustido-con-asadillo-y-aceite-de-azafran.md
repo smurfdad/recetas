@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tajadas (de 200 gr. cada una) de bacalao
 
 2 dl. de aceite
@@ -40,7 +39,6 @@ Para 4 personas.
 cominos
 
 <h3>Preparación</h3>
-
 Desalar el bacalao durante 12 horas. En una sartén dorar el bacalao por la parte de la piel, darle la vuelta.
 
 PREPARACIóN DEL ACEITE DE AZAFRáN

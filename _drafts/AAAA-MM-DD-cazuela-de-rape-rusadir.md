@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 Kg. de colas de rape
 
 Caldo de la espina del rape.
@@ -50,6 +49,5 @@ Azafrán en hebra
 sal
 
 <h3>Preparación</h3>
-
 En una cazuela de barro se pone el aceite de oliva y se doran las ñoras apartándolas. Las ñoras con no poco de sal, el colorante, el azafrán (previamente tostado un poco), dos dientes ajo crudos, el comino, la pimienta molida y un cucharón de caldo se pasan por la batidora. En la cazuela con el mismo aceite, se ponen primero el ajo y el perejil picados hasta que empiecen a dorarse para, a continuación, añadirles los pimientos cortados en tiras y los tomates bien picados y se dejan que se haga un refrito a fuego muy lento. A mitad del refrito se apartan de 4 a 6 trozos de pimiento en tiras. Cuando el refrito esté terminado se pasa por un pasapurés (chino), y se deja aparte. En la cazuela (manchada de aceite), se colocan las colas ese rape y se enciende el fuego a media marcha y, seguidamente, cuando empiece a calentar, se le agrega el refrito, las especies y un poquito de sal a gusto. Cuando el pescado esté listo, se le añaden los morrones cortados en tiras, los pimientos verdes que se apartaron del refrito y los guisantes previamente cocidos. Se sirven de templado alto a muy caliente.
 

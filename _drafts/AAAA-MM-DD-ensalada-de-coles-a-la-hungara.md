@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 repollo colorado chico
 
 1/2 repollo blanco
@@ -39,6 +38,5 @@ categories:
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Cortar el repollo blanco y el rojo en fina juliana, retirando previamente los troncos duros. Reservar el blanco y colocar el rojo dentro de una cacerola con el ajo entero y la manzana pelada y en cubitos. Cocinar a fuego mínimo, tapado, con el propio jugo del repollo. Cuando esté tierno, agregar el repollo blanco y el aceite. Mezclar y añadir el vinagre. (Debe cambiar el color del repollo colorado). Salpimentar y servir tibio.
 

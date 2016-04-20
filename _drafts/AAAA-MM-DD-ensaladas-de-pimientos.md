@@ -23,7 +23,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 3 pimientos verdes
 
 250 gr. de patatas
@@ -41,6 +40,5 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Cocer por separado las patatas, las gambas y los guisantes. Quitar los rabos a los pimientos, partirlos por la mitad y vaciar su interior. Pelar las gambas, pelar y trocear las patatas. Mezclar las gambas con los guisantes, las patatas, el queso cortado en dados y la mayonesa. Sazonar con sal y rellenar los pimientos. Adornar con perejil.
 

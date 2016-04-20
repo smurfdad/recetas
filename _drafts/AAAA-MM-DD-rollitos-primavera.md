@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 lonchas de jamón york
 
 24 espárragos
@@ -38,7 +37,6 @@ salsa mayonesa
 4 tomates
 
 <h3>Preparación</h3>
-
 Para el relleno de los rollitos mezcla en un plato hondo el pimiento picadito con el atún desmenuzado y la salsa mayonesa.
 
 En el centro de cada una de las lonchas de jamón york coloca dos o tres espárragos y cúbrelos con el relleno. Después cierra la loncha de jamón sobre sí misma formando un rollito. , Opcionalmente este plato se presenta junto con el tomate partido por la mitad y decorado por encima con parte del relleno.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Lo verde de 2 cebolletas
 
 250 g. de caracoles, (en conserva son validos)
@@ -47,10 +46,8 @@ Arroz hervido, para servir
 Sal y pimienta a partes iguales, para mojar
 
 <h3>Preparación</h3>
-
 Cortar lo verde de las cebolletas por la mitad, atar en un nudo la parte más verde, y la más tierna cortarla en trozos. Reservar. Poner los caracoles escurridos en un cuenco refractario. Distribuir por encima las tiras de jamón, agregar los palitos de jengibre, los nudos de cebolleta y luego los trocitos de manteca. Poner el cuenco en un soporte dentro de un hervidor y llevar a ebullición el agua de éste. Tapar y cocer al vapor hasta que estén cocidos. Quitar los nudos de cebolleta y el jengibre. Pasar el resto a un cuenco de servicio. Poner el caldo, glutamato, cebolleta reservada y grasa de pollo en un cacito. Llevar a ebullición y sazonar con sal, mojar los caracoles con ello. Servir el plato, que es medio sopa, medio estofado, en su cuenco, acompañado de arroz blanco. Se mojan en la mezcla de sal y pimienta antes de comerlos.
 
 <h3>Observaciones</h3>
-
 Cocina cantonesa
 

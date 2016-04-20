@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de judías verdes
 
 5 patatas
@@ -28,7 +27,6 @@ aceite virgen extra
 sal
 
 <h3>Preparación</h3>
-
 Pela las patatas y trocéalas. Pon agua en la olla rápida, añade las patatas y sazónalas. Coloca encima el accesorio para cocinar al vapor.
 
 Limpia las vainas, retírales las puntas y los hilos y pícalas
@@ -42,5 +40,4 @@ Pon agua a cocer en una cazuela, cuando empiece a hervir, baja el fuego de forma
 Sirve en 4 raciones distribuyendo las vainas alrededor de cada plato, en el centro pon un poco de puré y encima un huevo. Dispón sobre las judías unas rodajas de jamón, sazona todo y riega con un chorro de aceite.
 
 <h3>Observaciones</h3>
-
 Para saber si las judías están frescas, basta con acercar los extremos de la vaina, si se dobla significa que no son frescas, en cambio si se rompen, sí.

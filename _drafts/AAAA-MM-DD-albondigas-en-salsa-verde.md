@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr ternera picada
 
 2 cebollas
@@ -48,7 +47,6 @@ un chorrito de vino blanco
 2 huevos
 
 <h3>Preparación</h3>
-
 Poner la carne en un Bol y agregarle una cebolla y dos dientes de ajo todo finamente picado.
 
 Sazonar con sal, pimienta blanca y nuez moscada, añadir el vino, el pan y los huevos, mezclando todo bien.

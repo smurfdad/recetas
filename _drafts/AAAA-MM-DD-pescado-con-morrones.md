@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 filetes de pescado
 
 1 lata de pimientos morrones
@@ -39,7 +38,6 @@ mantequilla
 sal y pimienta.
 
 <h3>Preparación</h3>
-
 Se untan los filetes con el jugo de limon sal y pimienta.Se colocan en un molde refractario,engrasado con mantequilla.
 
 Se licuan los pimientos con la crema y el queso amarillo y con esa salsa se bañan los filetes y se meten al horno a 200&deg;C por espacio de 20 minutos.

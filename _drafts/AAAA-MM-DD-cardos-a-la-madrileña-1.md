@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg. de cardos
 
 25 gr. de puntas de tocino
@@ -34,7 +33,6 @@ Para 6 personas.
 Caldo, pimienta y sal
 
 <h3>Preparación</h3>
-
 Quitamos la pelusa a los cardos, los partimos a trozos de unos 5 centímetros de largos. Picamos el tocino.
 
 En una cacerola ponemos los cardos a cocer en agua con sal y también una cucharada de harina.

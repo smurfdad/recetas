@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 800 g de cardo limpio
 
 100 g de nueces troceadas
@@ -45,6 +44,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cocer el cardo troceado en agua hirviendo con la cucharada de harina diluida en el agua, el zumo de limón y una pizca de sal, durante 60 minutos. Colar y reservar el caldo de la cocción. Saltear el bacón en una sartén son grasa, retirarlos del fuego y escurrir sobre papel absorbente. Dorar los dientes de ajo cortados en láminas en el aceite caliente, agregar el cardo, 3 dl del caldo reservado, las nueces y el bacón. Dar un hervor y espolvorear con el perejil picado. Servir muy caliente.
 

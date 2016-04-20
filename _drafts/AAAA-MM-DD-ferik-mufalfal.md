@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 vaso de Ferik (trigo verde cocido con mantequilla)
 
 1 1/2 vaso de agua
@@ -33,10 +32,8 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Lavar el Ferik. Freír el Ferik en aceite muy caliente, añadir el agua, la sal y dejar cocer a fuego lento.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

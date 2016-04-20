@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 claras de huevo
 
 2 cucharadas de miel
@@ -34,6 +33,5 @@ Para 4 personas.
 50 g de azúcar
 
 <h3>Preparación</h3>
-
 Poner en un cazo a fuego bajo la miel con la fécula, removiendo para que no de hagan grumos, agregar el zumo de frutas y continuar la cocción hasta que la preparación espese. Dejar enfriar y repartir en 4 copas. Montar las claras a punto de nieve con el azúcar. Hacer cuatro montoncitos y escalfarlos en agua hirviendo durante 4 minutos. Escurrir y colocar en las copas. Adornar con los tamarillos cortados en rodajas.
 

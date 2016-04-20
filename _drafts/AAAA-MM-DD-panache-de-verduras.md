@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 lonchas finas de jamón de bellota
 
 300 gr. de habas tiernas
@@ -56,7 +55,6 @@ Para 6 personas.
 Aceite
 
 <h3>Preparación</h3>
-
 Se cuecen las verduras por separado hasta conseguir que se pongan al dente. A continuación, se calienta el aceite en una gran sartén y se echan las verduras, manteniéndose a fuego lento, dándoles alguna vuelta para que se hagan totalmente sin llegar a tostarse.
 
 En las últimas vueltas se incorporan las lonchas de jamón de bellota y se sirve caliente.

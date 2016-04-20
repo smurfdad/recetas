@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 colas de cordero
 
 1 cebolla
@@ -42,7 +41,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se cortan las colas a trozos y se les pone la sal. En una cazuela se pone el aceite y, cuando esté caliente, se echan las colas y se rehogan bien, dándoles vueltas continuamente. Le añadimos la cebolla triturada para que se dore bien y, a continuación, el brandy, el vino blanco, la picada, el caldo y las patatas cortadas a cuadros.
 
 Dejamos cocer durante dos horas, aproximadamente, dejando reducir.

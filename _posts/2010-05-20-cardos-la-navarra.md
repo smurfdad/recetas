@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 frascos de cardos cocidos
 
 2 lonchas de bacon cortado en trocitos (opcional)
@@ -21,7 +20,6 @@ Para 6 personas.
 1 chorro de aceite de oliva
 
 <h3>Preparación</h3>
-
 Freír sin llegar a dorar los ajos y el bacón, si se pone, en una cazuela.
 
 Añadir la harina y revolver ligeramente.

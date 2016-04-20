@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 rabadillas de pollo
 
 2 rebanadas de tocino
@@ -43,7 +42,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Ponga a cocer en la olla de presion,durante 20 minutos,las rabadillas,el tocino,la cebolla,el ajo y el cilantro con 6 tazas de agua y sal.
 
 En una cacerola derrita la mantequilla y sancoche en ella,a fuego muy bajo, los champiñones y las espinacas.

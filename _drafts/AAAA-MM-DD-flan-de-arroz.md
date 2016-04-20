@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 1 litro de leche entera
 
 100 grs de arroz
@@ -35,7 +34,6 @@ Para 5 personas.
 Ralladura de un limón
 
 <h3>Preparación</h3>
-
 Moler el arroz hasta que quede como si fuese azúcar glas. (Molinillo de café).
 
 Templar la leche y disolver el azúcar

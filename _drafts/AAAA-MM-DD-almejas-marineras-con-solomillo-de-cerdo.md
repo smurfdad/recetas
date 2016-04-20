@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 solomillo de cerdo
 
 1/2 kg. de almejas marinera
@@ -42,7 +41,6 @@ unas ramitas de cilantro
 2 hojas de laurel
 
 <h3>Preparación</h3>
-
 Se corta en daditos el solomillo y se deja adobar una hora con el ajo picado, el laurel, la sal, el vino blanco y la mitad del aceite de oliva.
 
 Despues en una sarten se echa lo que queda del aceite, y se dora el ajo del adobo, se echa la carne y se frie pero que no se ponga dura, despues se le añade las almejas marineras.

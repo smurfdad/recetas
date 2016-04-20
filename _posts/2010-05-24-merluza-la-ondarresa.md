@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 rodajas de merluza, muy gruesas, del trozo cerrado
 
 3 dientes de ajo
@@ -21,7 +20,6 @@ sal
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Lavar, secar y dar sal a las rodajas de merluza.
 
 Poner a calentar el grill del horno.

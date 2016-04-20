@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 cabeza de ajos crudos y pelados
 
 1 patata cocida
@@ -21,12 +20,10 @@ Para 8 personas.
 1 huevo
 
 <h3>Preparación</h3>
-
 Triturar bien en el vaso de la batidora todos los ingredientes menos el aceite.
 
 Añadir el aceite poco a poco, sin dejar de batir, hasta conseguir una salsa espesa.
 
 <h3>Observaciones</h3>
-
 Para arroz y pescados
 

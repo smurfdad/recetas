@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. de carne de vaca con hueso
 
 300 gr. de carne de cerdo
@@ -71,7 +70,6 @@ Cilantro y/o perejil, al gusto
 Laurel
 
 <h3>Preparación</h3>
-
 Los garbanzos estarán en remojo desde la noche anterior.
 
 En un caldero de capacidad suficiente poner a hervir las carnes. Espumar por dos veces cuando se inicie la cocción. Añadir los garbanzos, las mazorcas de maíz troceadas, la cebolla y las zanahorias. Transcurridos 45 minutos de cocción, añadir el chorizo, la morcilla, el tocino, las judías verdes, la col, una hoja de laurel, la chayota -descortezaday las peras duras partidas longitudinalmente (no transversalmente) por la mitad. 10 minutos después añadir la calabaza, las patatas, la batata, el bubango, y un majado de ajos, perejil y/o cilantro y azafrán. (Si se mezcla este majado con una fritada de tomate -que también se puede-, se le llama tiempla).

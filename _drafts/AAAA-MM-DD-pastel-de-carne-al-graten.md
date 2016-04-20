@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. de Carne Picada
 
 1/2 Cebolla
@@ -41,6 +40,5 @@ Puré de patatas en sobre
 Queso rallado
 
 <h3>Preparación</h3>
-
 Sofreir la cebolla con los ajos, añadir la carne picada, sal y la pimienta. Cuando esté hecho se coloca en una fuente. Aparte se hace el puré y se pone encima de la carne, echamos el queso encima y lo gratinamos todo en el horno.
 

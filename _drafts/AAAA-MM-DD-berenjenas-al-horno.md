@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de berenjenas tirando a pequeñas
 
 300 gramos de carne picada
@@ -39,7 +38,6 @@ Para 4 personas.
 2 cucharadas de tomate frito
 
 <h3>Preparación</h3>
-
 Se parten las berenjenas por la mitad a lo largo, con una cucharadita se les quita la pulpa.
 
 Se pica finamente y se fríe ligeramente con la carne picada.

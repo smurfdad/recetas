@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para la salsa:
 
 4, huevos ,
@@ -56,7 +55,6 @@ Verduras:
 100gr. de puerros
 
 <h3>Preparación</h3>
-
 Una vez limpia toda la verdura, Se cuece al dente, por separado.
 
 Para la salsa:

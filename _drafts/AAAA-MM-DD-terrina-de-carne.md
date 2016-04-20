@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 700 gramos de carne vacuna, (carne con hueso)
 
 150 gramos de panceta en fetas
@@ -38,7 +37,6 @@ categories:
 2 clavos de olor
 
 <h3>Preparación</h3>
-
 En una olla colocar las fetas de panceta. Agregar la cebolla y las zanahorias cortadas en rodajas. Agregar los cortes de carne. Incorporar el caldo caliente, el vino blanco y los cortes de hueso. Salpimentar y agregar el bouquet garni.
 
 Cerrar herméticamente la olla y cocinar a fuego fuerte por quince minutos. Seguidamente bajar a fuego mediano y cocinar por espacio de 4 horas. Retirar, dejar enfriar y cortar la carne en cubos pequeños, retirando todos los huesos.

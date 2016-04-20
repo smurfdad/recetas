@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 mitades de pollo
 
 4 onzas de mantequilla
@@ -39,7 +38,6 @@ pizca de paprika
 sal de ajo a gusto
 
 <h3>Preparación</h3>
-
 1-Empezar a ocinar el pollo por la parte sin cuero, en un fuego con brasa suaves (asegúrese de mantener el fuego bajo) Dorar por ambos lados y pintar, con una mezcla de mantequilla. aceite y jugo de limón, por ambos lados.
 
 2-Sazonar con sal, pimienta,paprika y sal de ajo al gusto.

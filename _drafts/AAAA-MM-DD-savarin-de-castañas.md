@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 huevos
 
 150 grs. chocolate fondant
@@ -38,7 +37,6 @@ Para 6 personas.
 1/2 d. (1/2 tacita de café) de ron
 
 <h3>Preparación</h3>
-
 Bate las yemas con la mantequilla hasta obtener una crema espumosa; aparte, fundir el chocolate en el microondas, añadir el dulce de castaña y el ron. Mezclar ambos preparados.
 
 Mezcla la mitad de la nata con el puré de castañas y chocolate. Monta las claras a punto de nieve con el azúcar, y añade la mezcla anterior. Con cuidado que no se baje.

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250g de arroz
 
 500cc de caldo de carne caliente
@@ -56,7 +55,6 @@ Para 4 personas.
 Sal y pimienta a gusto.
 
 <h3>Preparación</h3>
-
 En una cazuela colocar el aceite y la manteca y saltear la carne, cerdo y pollo moviéndolas para que se cocinen en forma pareja, agregar la cebolla, el apio, la zanahoria, y el arroz.
 
 Rehogar unos minutos e incorporar el vino blanco, desglasar revolviendo con cuchara de madera hasta que se reduzca y se evapore el alcohol. Agregar la mitad del caldo, poner la preparación a fuego bajo y condimentar con el curry, el pimentón, el orégano, sal y pimienta.

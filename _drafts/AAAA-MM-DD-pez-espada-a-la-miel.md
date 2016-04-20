@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 24 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de pez espada cortado en filetes
 
 2 cucharadas de miel
@@ -46,6 +45,5 @@ pimienta negra recien molida
 sal
 
 <h3>Preparación</h3>
-
 Elegir un cuenco de vidrio y poner en él el aceite y el ajo picado. Llevar al microondas, conectar la máxima potencia y cocinar 2 minutos. Agregar la miel, el tomillo, el tomate frito, el caldo, la sal, la pimienta y el vino. Cocinar durante 1 minuto más, removiendo con cuchara de madera a los 30 segundos de cocción. Disponer los filetes de pescado en una bandeja. Cubrirlos con la salsa preparada y dejarlos en reposo durante 1 hora aproximadamente. Pasado ese tiempo, llevar la bandeja al microondas y cocinar, siempre en máxima potencia, durante 5 minutos. Servir inmediatamente acompañando de patatitas cocidas.
 

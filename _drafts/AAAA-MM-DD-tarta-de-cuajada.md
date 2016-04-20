@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 l. de leche
 
 5 huevos
@@ -38,7 +37,6 @@ caramelo líquido
 2 sobres de cuajada Royal.
 
 <h3>Preparación</h3>
-
 Acaramelar el molde (el caramelo se puede hacer también en casa), cubrir el fondo y los laterales del molde de láminas de magdalenas.
 
 Separar 1/4 de litro y disolver en esta los 2 sobres de cuajada.

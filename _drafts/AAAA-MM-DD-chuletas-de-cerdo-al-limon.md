@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia a las finas hierbas
 
 6 chuletas de cerdo
@@ -44,7 +43,6 @@ Orégano
 2 limones en cuartos
 
 <h3>Preparación</h3>
-
 Salpimentar las chuletas y dorar por ambos lados en aceite. Poner en una cazuela el queso, vino blanco, zumo de limones, nata y orégano y dejar cocer hasta reducir a 1/3.
 
 Verter la salsa resultante sobre las chuletas y decorar con los cuartos de limones. Servir con patatas o pasta.

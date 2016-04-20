@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo de garbanzos a remojo(o en conserva hervidos)
 
 Agua abundante si hay que hervirlos
@@ -43,7 +42,6 @@ Una cebolla
 2 o 3 tomates según tamaño
 
 <h3>Preparación</h3>
-
 Se sofrie en la cazuela ajos cebolla y tomate.
 
 A continuación se le añade el agua, la pastilla de caldo y los garbanzos, la sal, cuando esten cocidos se añaden los puñaditos de arroz y la hierbabuena

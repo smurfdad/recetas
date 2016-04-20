@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 escarola grandecita y lo más blanca posible.
 
 3 tomates hermosos, rojos pero de carne dura.
@@ -33,7 +32,6 @@ Para 4 personas.
 200 grs. de bacón adobado.
 
 <h3>Preparación</h3>
-
 Una vez limpia la escarola, de las hojas verdes, se parte menuda ( a mano sin usar cuchillo ) y se pone a remojo en agua durante media hora más o menos. Los tomates también los ponemos en agua .
 
 Ponemos en una sartén un poco de aceite de oliva , dos dientes de ojo fileteados y una guindillita Cayena . Hacemos aquí las gambas y retirando los ajos y la guindilla guardamos ese aceite reservando las gambas , escurridas de&iexcl; aceite, en un plato.

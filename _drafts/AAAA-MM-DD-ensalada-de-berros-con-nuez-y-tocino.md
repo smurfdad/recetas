@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 manojitos de berros muy frescos
 
 2 rebanadas de tocino
@@ -41,7 +40,6 @@ el jugo de 1 naranja
 1/4 cucharadita de pimienta negra molida
 
 <h3>Preparación</h3>
-
 Desprenda las hojitas y las puntas de los tallos de los berros y deseche lo demas.Lavelas en una cacerola con agua fria y una pizca de detergente; enjuaguelas perfectamente en un colador bajo el chorro del agua fria.Sacudales el agua, paselas a la ensaladera y metalas al refrigerador mientras prepara el aderezo
 
 Fria las rebanadas de tocino hasta que queden bien doradas y crujientes. Rompalas en trocitos y añadalas a los berros junto con las nueces.

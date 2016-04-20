@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300grs. maiz seco
 
 Leche entera
@@ -34,7 +33,6 @@ Especias
 Leche evaporada
 
 <h3>Preparación</h3>
-
 El maíz se pone a cocer durante 30 ó 40 minutos con agua, clavo dulce,canela y mantequilla. Cuando el maíz esté cocido, se añade una taza de leche evaporada.
 
 Se agregan 2 vasos de leche entera, se echa azúcar y se deja unos 10 minutos. Se puede servir frío o caliente.

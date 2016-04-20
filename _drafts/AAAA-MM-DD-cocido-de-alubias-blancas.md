@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 grs. de alubias blancas
 
 1/2 Kg. costilla de cerdo fresca
@@ -44,7 +43,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Poner las alubias en remojo en la víspera, en agua sin sal.
 
 Limpiar y trocear las verduras y echarlas en una cazuela junto con las alubias escurridas y cubrir todo con agua. Añadir la costilla troceada, sazonar y agregar un chorrito de aceite.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 1/2 Ud. conejo
 
 7 diente ajo
@@ -41,7 +40,6 @@ vino tinto
 manteca de cerdo
 
 <h3>Preparación</h3>
-
 Se salpimenta el conejo y se fríe (bien doradito) con aceite y manteca de cerdo. Una vez frito
 
 añadirle los ajos, la cebolla bien cortada y el laurel, todo se sofríe. Sacarlo del fuego y

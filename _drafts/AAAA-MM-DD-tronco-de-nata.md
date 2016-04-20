@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 cc de nata
 
 100 cc de chocolate de cobertura
@@ -38,7 +37,6 @@ PARA EL BIZCOCHO:
 70 gr. de harina
 
 <h3>Preparación</h3>
-
 Se baten muy bien los huevos con el azúcar. Después se hecha poco a poco la harina. Con la manga pastelera se extiende en una bandeja para cocerlo a 180 grados durante 20 minutos.
 
 PREPARACION DEL TRONCO DE NATA:
@@ -46,6 +44,5 @@ PREPARACION DEL TRONCO DE NATA:
 Se moja la plancha de bizcocho con almíbar. Se echa nata extendiéndola bien. Se enrolla como si fuera un brazo de gitano. Se cortan los extremos que se colocan encima.
 
 <h3>Observaciones</h3>
-
 Se adorna con chocolate y nata.
 

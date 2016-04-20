@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 15 cl de aceite de oliva.
 
 5 pimientos secos
@@ -51,6 +50,5 @@ Harina para espesar.
 Sal.
 
 <h3>Preparación</h3>
-
 En una sartén calentamos el aceite y rehogamos los pimientos secos y los níscalos (optativo), una vez rehogados los apartamos en un plato y a continuación añadimos en ese mismo aceite las patatas partidas en trozos menudos. Mientras que las patatas se pochan en el aceite se prepara la majada, picando en el mortero todos los ingredientes, añadiéndole un poco de agua para desliarla y la reservamos. Desmenuzamos el pimiento rojo natural y el tomate con la piel y los añadimos a la sartén donde tenemos  las patatas, junto con los dientes de ajo picado, el laurel, la matalahuva y la majada, le damos unas vueltas durante unos segundos y añadimos el agua. Esperamos que las patatas se cocinen y entonces mientras éste preparado está hirviendo se añade la harina tamizada poco a poco sin dejar de remover teniendo cuidado de que no se formen grumos, mantenemos durante unos minutos removiendo continuamente, rectificamos el punto de sal. Apartamos del fuego y servimos caliente. Por último decoramos con los pimientos secos y los níscalos que rehogamos al principio.
 

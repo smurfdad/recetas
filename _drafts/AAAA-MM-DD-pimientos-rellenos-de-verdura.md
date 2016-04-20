@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr zanahorias
 
 200 gr alubia verde
@@ -48,7 +47,6 @@ aceite
 3 cucharadas de jugo de carne
 
 <h3>Preparación</h3>
-
 Poner la mantequilla en una cazuela, añadir las zanahorias ralladas, dejándolas hacer 10 minutos.
 
 En otra cazuela aparte, pondremos agua y un poco de sal.

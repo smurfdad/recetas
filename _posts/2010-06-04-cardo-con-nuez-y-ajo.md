@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de cardo
 
 8 nueces
@@ -25,7 +24,6 @@ agua
 sal
 
 <h3>Preparación</h3>
-
 Limpiar el cardo cortándolo a trozos y poner a cocer en agua fría con sal.
 
 Una vez cocido se escurre bien y se guarda en la cazuela.

@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de pimientos rojos
 
 2 huevos
@@ -23,7 +22,6 @@ aceite y vinagre al gusto
 un pellizco de sal
 
 <h3>Preparación</h3>
-
 Asar los pimientos, pelarlos y quitarles la semilla.
 
 Hervir los huevos, pelarlos y cortarlos en gajos pequeños.

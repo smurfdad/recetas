@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 medias langostas crudas
 
 1 dosis de ajo troceado
@@ -39,5 +38,4 @@ Pimienta
 Sal
 
 <h3>Preparación</h3>
-
 Salpimienta las langostas, previamente descongeladas, sobre una rejilla en la nevera, por la parte de la carne y dóralas en una cazuela baja con aceite bien caliente durante 3 minutos por cada lado. Añade la mitad de la mantequilla, la cebolla y el ajo, directamente congelado, y deja cocer a fuego lento. Vierte el brandy, flaméalo y añade el vino blanco. Seguidamente añade el tomate, directamente congelado, el azúcar y un poco de cayena en polvo. Tapa la cazuela y deja a fuego medio 10 minutos. Retira las langostas de la cazuela, deja que la salsa reduzca, salpimienta y baja el fuego. Añade el perifollo, el estragón y la mantequilla restante. Vierte la salsa sobre las langostas y decora con perejil, directamente congelado.

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 Tapas para empanadas para horno 18
 
 Merluza en filetes, cocida y desmenuzada  1/2 kg
@@ -46,7 +45,6 @@ Pimienta a gusto (opcional)
 Aceite   3 cdas
 
 <h3>Preparación</h3>
-
 Encienda el horno para precalentarlo a temperatura máxima.
 
 En la sartén vierta 2 cucharadas de aceite y sáltee la cebolla a fuego medio/alto hasta que se dore, estará en unos 4 a 5 min..

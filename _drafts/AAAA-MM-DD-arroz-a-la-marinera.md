@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 350 gramos de arroz.
 
 200 gramos de calamares.
@@ -55,7 +54,6 @@ Aceite.
 Pimienta.
 
 <h3>Preparación</h3>
-
 Lavamos y limpiamos los distintos tipos de pescados y mariscos. La cebolla, el ajo y el pimiento, finamente picados, los rehogamos en una cazuela, con un chorro de aceite. Cuando estos ingredientes comiencen a dorarse añadimos los pescados troceados y dejamos que se sofrían un poquito. Agregamos el arroz y lo rehogamos. Echamos el azafrán, el caldo bien caliente y los guisantes.
 
 Pasados diez minutos de cocción, incorporan las almejas y dejamos cocer otros diez minutos más. Queda bastante caldoso, casi como sopa espesa.

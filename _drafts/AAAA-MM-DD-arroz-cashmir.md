@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tazas de café de arroz
 
 2 Ud. solomillo de cerdo, pequeños
@@ -43,6 +42,5 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Se cuece arroz para y se reserva. Se filetea el solomillo, se pasa por harina y se fríe. Se reserva. En la misma sartén se diluye la cucharada de mantequilla y se añade la harina (como para bechamel). Una vez tostada la harina se añade el caldo y la nata con cuidado de que no se formen grumos de harina. Se deja reducir, se salpimenta y sazona con el curry. Se fríe la piña troceada y se añade a la carne, vertiendo la salsa por encima, sirviéndose con el arroz.
 

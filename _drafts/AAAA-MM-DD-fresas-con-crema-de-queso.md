@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 g de fresas
 
 175 g de queso cremoso
@@ -36,6 +35,5 @@ esencia de vainilla
 2 cucharadas de nueces picadas.
 
 <h3>Preparación</h3>
-
 Lavar las fresas y distribuirlas en platos individuales. En un bol pequeño batir el queso con una cuchara de madera, añadir luego el azúcar, el zumo de limón y dos gotas de vainilla, mezclándolo todo. Echar una cucharada de crema de queso sobre cada ración de fresas y adornar con las nueces picadas.
 

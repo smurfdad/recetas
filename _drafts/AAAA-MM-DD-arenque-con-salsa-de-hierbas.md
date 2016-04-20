@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 750 gramos de filet de arenque ahumado.
 
 1 cebolla chica picada.
@@ -48,7 +47,6 @@ Un pote de yoghurt natural.
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Dividir los filetes en cuatro porciones y colocarlos sobre hojas de papel de aluminio.
 
 Cubrir con rodajas de tomate, el dill y la cebolla picada.

@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 10 hojas de lechuga
 
 2 pechugas de Pollo muy fritas (doradas)
@@ -41,7 +40,6 @@ aceite
 vinagre
 
 <h3>Preparación</h3>
-
 Se cortan las pechugas y la cebolla en trozos de 1 cm.
 
 Se corta la lechuga en cuadrados de unos 2 cm.

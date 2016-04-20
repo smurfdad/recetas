@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 1 plátano verde (No banana)
 
 1 vaso de aceite
@@ -45,7 +44,6 @@ categories:
 3 cubitos de caldo de pollo
 
 <h3>Preparación</h3>
-
 Monde el plátano, luego córtelo en rebanadas de 3 milímetros de espesor, luego corte cada rebanada en cuatro partes, fría estos trocitos en medio vaso de aceite, a medio freír sáquelos y aplástelos, luego vuelva a freírlos hasta dejarlos semi-doraditos.
 
 Coloque la mitad del aceite en una olla, llévelo al fuego y eche la cebolla picadita, déjelo marchitar un poco y agregue los tomates también picaditos.

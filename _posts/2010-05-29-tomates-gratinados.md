@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 tomates redondos, pequeños
 
 2 lonchas de bacon cortado en trocitos
@@ -29,7 +28,6 @@ perejil picado
 un chorrito de aceite de oliva
 
 <h3>Preparación</h3>
-
 Lavar los tomates.
 
 Dar dos cortes en forma de cruz y hasta el final pero sin llegar a cortarlos enteros.

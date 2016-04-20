@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 8 costillas de ternera gruesas
 
 1/2 vaso de aceite de oliva
@@ -42,7 +41,6 @@ Nuez moscada rallada
 1/2 vaso de vino blanco
 
 <h3>Preparación</h3>
-
 Derretir la mantequilla en una sartén grande y honda que tenga un asa resistente al calor del horno. Meter la carne y asarla a fuego vivo por los dos lados. Bajar el fuego, condimentar con sal y pimienta, tapar y cocer a fuego lento unos 20 minutos dándole la vuelta una vez.
 
 Durante este tiempo, en una terrina, mezclar con una espátula de madera el queso rallado, los huevos, la crema de leche, un poco de nuez moscada y la pimienta. Antes de finalizar la cocción de la carne, decantar la mantequilla y reservar. Repartir un poco la mezcla de queso sobre cada costilla y verter el vino en el fondo de la sartén.

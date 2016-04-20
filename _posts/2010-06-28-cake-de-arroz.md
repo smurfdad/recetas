@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 libra y media de arroz
 
 1 pollo de 2 libras
@@ -42,7 +41,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Cocine el pollo, separe las masas y reserve el caldo para cocinar el arroz.
 
 Caliente el aceite y sofria en el la cebolla, el ají, y el ajo con el pollo, puede si quiere usar orégano u otra sazón de su agrado, además de sal y un poquito del vino seco o jerez.

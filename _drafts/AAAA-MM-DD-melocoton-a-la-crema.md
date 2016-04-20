@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 1 bote de melocoton en almibar
 
 100 gr de azucar
@@ -37,7 +36,6 @@ licor de melocoton
 canela
 
 <h3>Preparación</h3>
-
 Se escurre el melocoton, se trocea y se reserva en una fuente.
 
 Se baten todos los ingredientes restantes con licor de melocoton y canela al gusto, y si se quiere un chorro de almibar.

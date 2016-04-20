@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 20 ccs de aceite.
 
 azáfran o colorante.
@@ -60,7 +59,6 @@ sal.
 2 zanahorias.
 
 <h3>Preparación</h3>
-
 Se rehoga la carne en la olla Express junto a la cebolla picada, el tomate pelado y picado y se sazona con el azafrán o el colorante, la pimienta negra y sal.
 
 Se cubre con agua y se pone a cocer unos 10 minutos para que la carne se ablande.

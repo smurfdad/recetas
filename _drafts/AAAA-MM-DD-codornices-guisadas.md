@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 codornices
 
 2 cebollas
@@ -46,7 +45,6 @@ pimienta
 4 costrones de pan frito
 
 <h3>Preparación</h3>
-
 Se preparan las codornices, retirando todas las plumas y las interioridades.
 
 En una cazuela se pone el aceite a calentar; una vez caliente, se echa la cebolla picada, y los ajos también finamente picados.

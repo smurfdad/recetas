@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 g de fabes
 
 1 zanahoria
@@ -46,7 +45,6 @@ Perejil
 1 cucharadita de harina.
 
 <h3>Preparación</h3>
-
 Ponemos a cocer las judias con la verdura y la hoja de laurel en agua fría, le añadimos un choro de aceite. Dejamos cocer las judias a fuego lento hasta que estén en su punto.
 
 Mientras tanto hacemos las almejas a la marinera, que ya tendremos limpias.

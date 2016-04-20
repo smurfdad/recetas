@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 tortillas de trigo (se venden ya preparadas)
 
 250 gramos de queso para untar tipo Philadelphia
@@ -44,6 +43,5 @@ Para 4 personas.
 6 hojas de lechuga
 
 <h3>Preparación</h3>
-
 Combina bien el queso con las almendras, las cebolletas, la mostaza, el eneldo, la albahaca y el ajo, y reparte esta mezcla sobre las tortillas, untándolas bien. Luego pon sobre la mezcla una loncha de jamón y una hoja de lechuga, y haz rollos bien apretados. Envuelve y refrigera hasta el momento de servir.
 

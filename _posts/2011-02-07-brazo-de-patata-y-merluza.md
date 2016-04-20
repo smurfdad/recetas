@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de patatas.
 
 Medio kilo de merluza congelada.
@@ -26,7 +25,6 @@ Laurel.
 Sal y perejil.
 
 <h3>Preparación</h3>
-
 Cocemos las patatas en agua con sal hasta que estén muy blandas. En ese momento, las retiramos del fuego, las pelamos y trituramos hasta conseguir un puré que extenderemos sobre un trapo de cocina limpio y húmedo para poder formar un brazo sin dificultad.
 
 En otra cazuela ponemos a cocer la merluza con una cebolla, un tomate, el laurel, la sal y el perejil. Una vez cocida, la sacamos y cuando esté fría la desmenuzamos y mezclamos con los palitos de cangrejo que habremos cortado finamente.

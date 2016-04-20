@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tomates redondos medianos
 
 2 huevos duros
@@ -40,7 +39,6 @@ Para 4 personas.
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Cortar la tapa de los tomates, ahuecarlos asegurándose que no queden semillas en el interior y salarlos ligeramente por dentro.
 
 Desmenuzar el pescado y colocarlo en un bowl y agregarle los huevos, el arroz y la mayonesa.

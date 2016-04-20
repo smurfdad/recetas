@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs. de salmón ahumado en filetes
 
 1 tarrina de queso blando para untar
@@ -17,7 +16,6 @@ Para 6 personas.
 perejil o eneldo picado
 
 <h3>Preparación</h3>
-
 Cortar los filetes por la mitad (de cada uno, hacer dos).
 
 Colocar en cada filete, en el centro, un montoncito de queso.

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor grande
 
 agua
@@ -31,7 +30,6 @@ pimienta blanca
 nuez moscada
 
 <h3>Preparación</h3>
-
 Limpiar y cortar la coliflor.
 
 Preparar una cazuela con agua y sal, cuando rompa a hervir, echar la coliflor y dejarla cocer.

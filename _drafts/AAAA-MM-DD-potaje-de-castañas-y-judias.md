@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de castañas secas
 
 1 kg. de judías blancas
@@ -45,6 +44,5 @@ azúcar
 sal
 
 <h3>Preparación</h3>
-
 Se remojan durante toda la noche las castañas secas y peladas junto con las judías. Se ponen a hervir, acompañadas del azafrán y la hoja de laurel. Mientras tanto, se dora la cebolla bien picada, a la que se agrega posteriormente la matalahuva, sin dejarla al fuego demasiado tiempo. En un mortero se majan los ajos, con sal y un poco de azúcar y se añade al caldo donde se están cociendo las castañas y las judías. Además, se vierte el aceite con las cebollas y la matalahuva. Se deja al fuego hasta que las castañas y judías estén tiernas.
 

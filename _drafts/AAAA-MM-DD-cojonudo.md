@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pimiento verde
 
 bacon
@@ -34,6 +33,5 @@ chorizo
 pan
 
 <h3>Preparación</h3>
-
 Colocamos, sobre la rebanada de pan, pimiento verde pochado. Sobre éste ponemos el bacon a la plancha. Encima colocamos dos huevos de codorniz fritos y unas tiras de pimiento del piquillo pochado. Por último se coloca un trocito de chorizo.
 

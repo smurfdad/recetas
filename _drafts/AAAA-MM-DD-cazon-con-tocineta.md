@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Kilo y cuarto de cazón en rodajas.
 
 100 gramos de tocineta fresca.
@@ -48,7 +47,6 @@ Pimienta.
 Perejil.
 
 <h3>Preparación</h3>
-
 En una cazuela, con aceite, ponemos a rehogar el ajo, la cebolla y el pimiento, todo bien picado. Sé pocha todo bien y añadimos el tomate picado y la tocineta cortada en taco.
 
 Incorporamos una cucharada de harina, lo mezclamos bien y se agrega el vino blanco y un poco de agua. Las rodajas de cazón, previamente salpimentadas, se ponen en la cazuela y se deja cocer cinco minutos. Espolvoreamos con perejil picado y servimos.

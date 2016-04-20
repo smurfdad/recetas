@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 2 cebollas
 
 1 lechuga
@@ -41,7 +40,6 @@ Unas rebanadas de pan frito
 2 dientes de ajo
 
 <h3>Preparación</h3>
-
 En una cazuela con aceite, pocha la cebolla en juliana con una pizca de sal. Añade la lechuga, la guindilla y cubre con el caldo.
 
 Cuécelo durante 15 minutos y tritúralo.

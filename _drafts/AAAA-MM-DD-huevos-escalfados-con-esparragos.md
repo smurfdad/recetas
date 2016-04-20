@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 manojos de espárragos verdes
 
 4 huevos
@@ -46,6 +45,5 @@ Para LA SALSA:
 1/2 cucharadita de azúcar
 
 <h3>Preparación</h3>
-
 Calentar el aceite y rehogar la cebolla sin que coja color, agregar los pimientos troceados, saltearlos y mojar con el caldo. Sazonar con el azúcar, pimienta y sal y continuar la cocción durante 15 minutos. Pasar el conjunto por la batidora y por el pasapurés. Llevar a ebullición 1 litro de agua con el vinagre. Cuando comience a hervir agregar 1 huevo suavemente. Envolver la yema de huevo con la clara y continuar la cocción de 3 a 4 minutos. Sacar el huevo con una espumadera y ponerlos en un recipiente con agua fría. Repartir los espárragos y los huevos en 4 platos, napar ligeramente con la salsa de pimientos y espolvorear con el cebollino picado.
 

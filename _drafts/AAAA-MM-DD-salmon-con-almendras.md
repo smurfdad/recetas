@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 Salmoncitos de 400 g
 
 Sal y pimienta, a gusto
@@ -45,7 +44,6 @@ Zapallitos (calabacitas)
 papas (patatas), para acompañar
 
 <h3>Preparación</h3>
-
 Salpimentar el pescado. Enmantecar una asadera, ubicar los salmones y llevar al horno unos 15 minutos. Aparte, colocar la manteca en una cacerola, preferentemente de cobre y añadir el jugo de los limones, el estragón, la ciboulette, sal y pimienta y llevar a fuego moderado.
 
 Una vez retirado el pescado del horno, sacarle la piel. Armar cada plato con un salmoncito salseado y salpicado con las almendras. Acompañar con papas (patatas) naturales y zapallitos (calabacitas) hervidos. Servir bien caliente.

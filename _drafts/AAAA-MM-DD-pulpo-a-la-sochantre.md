@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Kilo y medio de pulpo
 
 2 cebollas
@@ -38,10 +37,8 @@ Kilo y medio de pulpo
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Mazar y lavar el pulpo. Cocer y trocear. Hacer un rustido con la cebolla y los pimientos muy picados. Cuando esté dorado incorporar el tomate pelado y el perejil machacado con los dientes de ajo. Sazonar de sal y pimienta. Añadir el pulpo troceado y dejar cocer revolviendo frecuentemente para que no se pegue, durante unos doce o quince minutos.
 
 <h3>Observaciones</h3>
-
 Servir caliente en cazuela de barro.
 

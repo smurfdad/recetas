@@ -13,7 +13,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gramos de rape.
 
 400 gramos de merluza.
@@ -49,7 +48,6 @@ La parte verde de un puerro.
 8 rebanadas de pan.
 
 <h3>Preparación</h3>
-
 Elaboramos el fumet (caldo de pescado) poniendo a hervir con el agua fría la cabeza de rape (sin agallas), la parte verde del puerro y los tallos de perejil.
 
 Tras hervir durante 1 hora, colamos por un colador fino y reservamos.

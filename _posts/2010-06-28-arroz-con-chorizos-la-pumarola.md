@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 chorizos
 
 250g de arroz
@@ -41,7 +40,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Pinchar los chorizos y ponerlos en un recipiente con agua hirviendo 5 minutos, para desgrasarlos. Colocar los chorizos sobre papel absorbente y reservar.
 
 Colocar en una cazuela, el aceite, las cebollas, los morrones, el ajo y rehogar, incorporar el arroz y saltearlo hasta que esté transparente.

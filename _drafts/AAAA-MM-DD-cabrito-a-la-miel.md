@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 piernas de cabrito.
 
 200 gramos de cebolla.
@@ -49,7 +48,6 @@ Una pizca de pimentón picante.
 Sal.
 
 <h3>Preparación</h3>
-
 Ponemos al fuego una cazuela que sirva para el horno (generalmente se utiliza cazuela de barro para asados) con el aceite y cuando esté caliente salteamos en ella las cebollas y ajos, todo picado muy fino.
 
 Cuando las hortalizas estén sofritas, añadimos las piernas de cabrito (con unos cortes que faciliten posteriormente su asado interior) y volteamos hasta que se doren, durante unos minutos.

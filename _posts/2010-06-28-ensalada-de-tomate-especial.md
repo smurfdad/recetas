@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 tomates de ensalada grandes
 
 1 queso crema de 6 onzas
@@ -27,7 +26,6 @@ unas ramitas de perejil o apio
 unas rueditas de limón
 
 <h3>Preparación</h3>
-
 Corte 6 ruedas de tomates más bien anchas.
 
 Mexcle el queso crema con la cebolla y el catsup.

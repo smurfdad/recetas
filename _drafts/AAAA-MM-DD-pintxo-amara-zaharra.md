@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Huevo cocido
 
 gamba
@@ -30,6 +29,5 @@ mahonesa
 aceitunas
 
 <h3>Preparación</h3>
-
 Colocamos pinchados en un palillo todos los ingredientes y se recubren con mahonesa. Se puede adornar con un pimiento
 

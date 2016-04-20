@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de cardillos o las pencas de 1 kg. de acelgas
 
 harina para rebozar
@@ -19,7 +18,6 @@ aceite para freir
 un poco de sal
 
 <h3>Preparación</h3>
-
 Si son cardillos, lavarlos y cortarlos en trozos regulares.
 
 Si son pencas, lavarlas y cortarlas primero en palitos y luego en trozos regulares, como de 7 cms. de largo.

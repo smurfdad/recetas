@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 lomo de cerdo entero de 1,5 kg.
 
 1 cebolla
@@ -50,7 +49,6 @@ Para el puré de manzanas:
 1/2 limón exprimido
 
 <h3>Preparación</h3>
-
 Se pone el lomo en una fuente para el horno salpimentado, se trocea la cebolla en trozos grandes y el ajo en filetes gorditos, se riega con el aceite, el vino y el agua y se mete a 210&ordm; al horno durante unas 2 horas, pinchándolo y dándole la vuelta de vez en cuando, hasta que este dorado. Debe de estar completamente hecho.
 
 Puré de manzanas: se pelan las manzanas, se les quita el corazón y se parten en cuartos. Se ponen en una cazuela con el resto de los ingredientes y se ponen a fuego medio hasta que queden hechas un puré, no hace falta pasarlas por batidora, al darles vuelta con una cuchara, se termina haciendo el puré.

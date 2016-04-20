@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 molde con hojaldre o pasta quebrada
 
 100 gr. de cebolla picada
@@ -40,6 +39,5 @@ categories:
 1/2 cacito de aceite.
 
 <h3>Preparación</h3>
-
 Echar el aceite en el cazo y luego la mantequilla. Añadir la cebolla y, antes de dorarse, la carne. Rehogar y añadir el champiñón. Se echa la mitad de la bechamel, ya preparada, y de la pasta, ya cocida. Darle unas vueltas y echar al molde ya preparado. Echamos encima la pasta y la bechamel que quedan y el queso rallado. Tener 1/4 de hora al horno a 200&ordm;.
 

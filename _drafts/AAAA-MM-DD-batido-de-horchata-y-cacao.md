@@ -22,12 +22,10 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 brick de litro de horchata
 
 12 cucharadas de cacao
 
 <h3>Preparación</h3>
-
 Mezcla en la batidora la horchata con el cacao. Vierte en un recipiente y mete al frigorífico 20 minutos. Sírvelo frío.
 

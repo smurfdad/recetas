@@ -9,7 +9,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 2 chayotes
 
 2 zanahorias
@@ -39,7 +38,6 @@ Un cubito de res
 Sal al gusto
 
 <h3>Preparación</h3>
-
 Se pone a hervir el agua en una olla. Luego se le agrega el ajo (machacado) el tomate, la cebolla, el cubito y la sal.
 
 Unos cinco minutos después se le agregan las demás verduras, quedando por último el repollo el cual debe agregarse casi al final.

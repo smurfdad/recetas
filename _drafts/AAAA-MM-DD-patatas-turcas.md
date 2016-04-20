@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 4 patatas
 
 2 cebollas medianas
@@ -37,6 +36,5 @@ huevo
 cerveza
 
 <h3>Preparación</h3>
-
 Rayamos las patatas y la cebolla y en un bol mezclamos con un poco de harina el perejil picado el huevo y un poco de cerveza, hasta hacer una pasta homogenea, luego hacemos bolitas y la freímos
 

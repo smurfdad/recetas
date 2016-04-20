@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 filetes cortados delgados de ternera.
 
 1/2 Kg. de zanahorias.
@@ -38,7 +37,6 @@ Para 6 personas.
 1 cucharón de caldo de carne.
 
 <h3>Preparación</h3>
-
 Freír ligeramente las salchichas. Aplanar al máximo los filetes de carne. Colocar en el centro una salchicha, un bastoncito de zanahoria, una tira de pimiento morrón, un cuarto de huevo duro y tres aceitunas. Enrollar y cerrar con un palillo. Enharinar los farcellets y freírlos hasta que estén dorados.
 
 Colocarlos en una cazuela y añadirles un cucharón de caldo de carne, dejándolos cocer hasta que estén tiernos. Pueden acompañarse con judías, zanahorias y cebollitas.

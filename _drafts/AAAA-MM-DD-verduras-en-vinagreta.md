@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 12 coles de bruselas
 
 200 gr. de garbanzos cocidos
@@ -56,7 +55,6 @@ Sal fina
 Agua
 
 <h3>Preparación</h3>
-
 Pon a cocer en la vaporera junto, con la hoja de laurel, las coles, las judías, los guisantes, la borraja y los espárragos trigueros.
 
 Una vez cocidas dispón sobre un plato llano todas las verduras agregando los garbanzos y el pimiento morrón en tiras gruesas brevemente cocido.

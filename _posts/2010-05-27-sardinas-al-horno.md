@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de sardinas
 
 2 ajos grandes
@@ -21,7 +20,6 @@ pan rallado
 sal, aceite
 
 <h3>Preparación</h3>
-
 Quitar la cabeza y tripas a las sardinas.
 
 Lavarlas, quitándoles las escamas y echarles sal.

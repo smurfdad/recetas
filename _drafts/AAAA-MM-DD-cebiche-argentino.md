@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kgs de Merluza en Filete
 
 5 Tomates
@@ -47,6 +46,5 @@ Para 4 personas.
 Sal y una de Pimienta
 
 <h3>Preparación</h3>
-
 Cortar en dados los filete de merluza. Agregar el zumo de 6 limones y ponerlo a marinar en un recipiente de vidrio o plástico tapado en el refrigerador por 2 horas (para que se cocine el pescado en el jugo de limón). Cuando termine este procedimiento escúrralo. Pique la cebolla en brunoise (cuadritos) y agregue el zumo de 2 limones, el aceite de oliva, las aceitunas y los ajíes bien picados, el orégano, la sal y la pimienta. Corte los tomates por la mitad, quítele las semillas y córtelos en cuadritos. Mezcle todos los ingredientes y espolvoree el cilantro encima del Cebiche.
 

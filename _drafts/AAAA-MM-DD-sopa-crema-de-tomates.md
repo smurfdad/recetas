@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de tomates medianos
 
 3 calditos en cubos
@@ -47,7 +46,6 @@ Aceite de oliva
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Deshacer los calditos en el agua caliente y colocarlos dentro de la licuadora junto con el apio cortado el ajo, echalotes, los tomates y salpimentar ( se le pueden agregar otros condimentos según el gusto).
 
 En una olla colocar la manteca un chorro de aceite de oliva, agregarle la harina, ahora se le agrega la crema lentamente y luego el preparado de tomates, ir revolviendo con una cuchara de madera o similar.

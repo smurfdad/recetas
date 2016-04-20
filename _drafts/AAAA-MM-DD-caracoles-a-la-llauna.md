@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200 caracoles
 
 250 g de tocino veteado
@@ -47,6 +46,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Lavar y escaldar los caracoles. Hervir a fuego lento y, a continuación, saltear con aceite, sal, pimienta, una hoja de laurel y una cabeza de ajos. Salpimentar y poner en aceite. A continuación poner en la lata (llauna) y cubrir con la picada de carne (hecha con el tomate, perejil, cebolla, ajo, tocino y las butifarras). Gratinar hasta que esté rojo. Servir en la misma llauna.
 

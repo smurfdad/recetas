@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400 g. de fideos
 
 1 kg. de sepia
@@ -42,7 +41,6 @@ categories:
 aceite, sal
 
 <h3>Preparación</h3>
-
 Dorar los ajos en una paella con abundante aceite; retirarlos y en el mismo aceite, rehogar los fideos hasta que estén muy dorados. Escurrirlos sobre un papel de cocina y reservarlos.
 
 Siempre en el mismo aceite, freir ligeramente las cigalas. Retirarlas, incorporar la sepia cortada en trozos regulares y rehogarla al fuego muy suave, junto con la cebolla picada y media guindilla troceada, hasta que la sepia este muy tierna.

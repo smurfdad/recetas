@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500g. Champiñones
 
 sal
@@ -40,7 +39,6 @@ vino blanco
 perejil
 
 <h3>Preparación</h3>
-
 Limpiar los champiñones y blanquearlos (echarlos en una olla con agua, sal y un chorro de vinagre y esperar que hierva), una vez q hierva el agua se sacan del agua y se cortan en laminas. El agua se aprovecha.
 
 En una sarten se derrite un poco de mantequilla y se le echa unos dientes de ajo picados y la guindilla tambien picada. Cuando el ajo este sofrito se le añaden los champiñones y se sofrien durante 7-8 minutos moviendolos continuamente.

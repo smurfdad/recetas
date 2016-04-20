@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 latas de atún en aceite
 
 1 lata pequeña de tomate frito
@@ -22,7 +21,6 @@ pan seco (media barra de 1/4 Aprox.)
 leche.
 
 <h3>Preparación</h3>
-
 Unas horas antes se pone el pan en remojo en una fuente con la leche.
 
 Se baten los huevos, el atún (con el aceite), el tomate y el pan en la batidora. Se pone en un molde rectangular y se deja en el horno, entre media hora y tres cuartos, hasta que cuaje.

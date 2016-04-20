@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 pollo de 1,5k limpio y en presas
 
 Manteca
@@ -39,7 +38,6 @@ Queso rallado
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 En una olla de barro con manteca caliente se doran las presas de pollo. Cuando estén agregarles el vino, el caldo, las finas hierbas y salpimentar.
 
 Se cocina a fuego suave durante 60 minutos. Luego se apartan las presas de pollo y se reservan se le agrega la harina a la olla para espesar el fondo.

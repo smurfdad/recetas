@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de congrio de unos 250 gr.
 
 1/2 kg. de patatas
@@ -27,7 +26,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Se aclaran las rodajas de congrio. Se secan con papel absorbente y se sazonan de sal. Se fríen en una sartén con aceite de oliva, hasta que queden doradas por fuera. Se pasan a una cazuela.
 
 En la misma sartén, se añade un poco más de aceite si es necesario, y se echan las patatas peladas y picadas como si fueran para tortilla. Se añaden la cebolla y el ajo, muy picados, y se espolvorea abundante perejil picado sobre el conjunto. Se sazona con sal. Se fríe todo, removiéndolo con paciencia, y, una vez que empiece a ablandarse la patata, se aplasta con un tenedor, en la propia sartén, removiendo y friendo. Hay que procurar que la patata no se dore, sino que se poche en el aceite.

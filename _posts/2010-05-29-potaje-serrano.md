@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 kg. de judías pintas
 
 1/2 kg. de patatas
@@ -34,7 +33,6 @@ pimentón
 sal
 
 <h3>Preparación</h3>
-
 Se pone a remojar las judías la noche anterior. Después de lavar las judías, se ponen a cocer en una olla con las patas, las morcillas, los ajos, la cebolla y el laurel.
 
 Cuando estén casi cocidas, se le agrega la patata cortada a cuadraditos. Poco antes de cocerse la patata, se le hace un sofrito con cebolla, pimentón y tomate, se pone a punto de sal y se deja cocer durante cinco minutos.

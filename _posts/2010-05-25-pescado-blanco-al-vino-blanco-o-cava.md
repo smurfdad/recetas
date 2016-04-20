@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de pescado blanco en lomos, sin piel ni espinas
 
 200 grs. de vino blanco o cava (1 vaso grande sin llenar)
@@ -28,7 +27,6 @@ Para 6 personas.
 1 cucharada de harina
 
 <h3>Preparación</h3>
-
 Lavar y secar el pescado. Darle sal.
 
 Colocar en fuente de horno untada de mantequilla, con la cebolla en trozos, perejil almejas, mojojones y vino.

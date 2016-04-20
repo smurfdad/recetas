@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 patatas.
 
 2 cucharadas de perejil cortado.
@@ -39,10 +38,8 @@ Sal
 Pimienta y Cayena
 
 <h3>Preparación</h3>
-
 Cocer las patatas. Machacarlas o cortarlas en trozos pequeños. Triturar el ajo mezclado con sal, pimienta y Cayena, verter la mezcla sobre la patata. Añadir el vinagre y mezclar bien. Echar aceite y adornar con perejil.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

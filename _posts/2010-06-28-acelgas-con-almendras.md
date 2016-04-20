@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de acelgas
 
 3 cucharadas de harina
@@ -33,7 +32,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se limpian las acelgas. Se les quita el verde y se reserva. Se quitan los hilos de las pencas. Se aclaran bien y se cortan en trozos de unos 5 cm. Se ponen 2 litros de agua en una cazuela.
 
 En un vaso se disuelven dos cucharadas de harina en un poco de agua y se echa a la cazuela. Se sazona con sal y se pone a hervir. Se le añade un chorro de limón y se ponen a hervir las pencas en este agua, durante 30 minutos. Se doran las almendras en una sartén antiadherente.

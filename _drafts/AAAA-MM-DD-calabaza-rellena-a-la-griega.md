@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 2 calabazas de 1 kg. cada una
 
 Para el relleno:
@@ -69,7 +68,6 @@ Unas hojas de col rizadas
 3 hojas de limón.
 
 <h3>Preparación</h3>
-
 Cortar para la cubierta 1/5 de la calabaza. Retirar el corazón de la calabaza. Si el hueco es pequeño, quitarla pulpa e incorporarla al relleno. Cortar el puerro en aros. Pelar y picar los nabos. Cortar las judías y el hinojo en aros y la col rizada en tiras. Pelar y picar el apio y el ajo. Calentar la mitad del aceite, rehogar ligeramente la verdura y el ajo.
 
 Sazonar con sal y tomillo, tapar y rehogar 6 minutos. Retirar la tapa y removiendo dejar evaporar un poco el liquido a fuego vivo. Reservar. Mezclar revolviendo el resto del aceite con la miel, la ralladura de limón, el zumo de limón y la pimienta e incorporar la mezcal a la verdura. Agregar la harina integral, el perejil y la menta, mezclar bien y rellenar la calabaza con ayuda de una cuchara. Tapar con la parte superior de la calabaza y amarrar con un hilo bramante, tal que quede bien cerrada.

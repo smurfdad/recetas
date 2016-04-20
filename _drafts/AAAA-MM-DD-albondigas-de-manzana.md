@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 manzanas
 
 agua (un poco)
@@ -43,6 +42,5 @@ mantequilla
 galleta picada para rebozar
 
 <h3>Preparación</h3>
-
 Pelar y cortar las manzanas en rodajas, cocerlas con el agua y el azúcar. Aplastar las manzanas cocidas y hacer puré, revolverlos con las pasas y los piñones, la galleta picada y los huevos hasta obtener una pasta homogénea. Hacer bolitas y rebozar en galleta picada. freír en aceite y mantequilla.
 

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 1 1/2 taza de crema de leche.
 
 85 gms. de Queso Balpaese o Talegguio.
@@ -38,7 +37,6 @@ Para 4 personas.
 2 cdas. de perejil picadito, sal y pimienta al gusto.
 
 <h3>Preparación</h3>
-
 En una sartén grande y gruesa, a fuego mediano bajo, vierta la crema de leche.
 
 Añada el queso gorgonzola en trozos pequeñitos, el queso Bel Paese o Taleggio, cortado en cuadritos pequeños y el queso Fontina cortado. Revuelva bien la mezcla hasta que los quesos se derritan.

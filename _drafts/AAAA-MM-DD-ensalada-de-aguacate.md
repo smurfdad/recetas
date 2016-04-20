@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 aguacates.
 
 4 huevos duros.
@@ -47,7 +46,6 @@ Sal.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Partimos el tomate en rodajas finas y cubrimos con ellas el fondo de los platos.
 
 Pelamos los aguacates, les quitamos el hueso y los cortamos en laminas finas para formar un abanico en los platos.

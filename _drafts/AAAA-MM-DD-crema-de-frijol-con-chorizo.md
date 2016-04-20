@@ -23,7 +23,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 jitomates medianos
 
 1/2 cebolla mediana
@@ -49,7 +48,6 @@ Para 8 personas.
 1 taza de crema espesa mezclada con 2 cucharadas de cilantro picado
 
 <h3>Preparación</h3>
-
 Muela los tomates y la cebolla en la licuadora y cuélelos.
 
 Ponga a freír el chorizo con la manteca, retire de la sartén y en la misma manteca fría el jitomate, añada el caldo en polvo y, cuando esté frito el jitomate, agregue los frijoles molidos con el chile chipotle y su caldo, y el chorizo frito.

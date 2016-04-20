@@ -19,7 +19,6 @@ Para 6 personas.
 - huevo batido
 
 <h3>Preparación</h3>
-
 Limpiar las anchoas quitándoles la cabeza, tripas y espina.
 
 Lavarlas y secarlas.

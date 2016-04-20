@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 huevos poches
 
 100g de jamón cocido en láminas
@@ -30,7 +29,6 @@ categories:
 Salsa holandesa
 
 <h3>Preparación</h3>
-
 En una placa para horno poner las tostadas de pan frito.
 
 Sobre cada una de éstas colocar una lámina de jamón cocido luego el huevo y por último la salsa holandesa(ver salsas)

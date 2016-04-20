@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote mediano de espárragos
 
 Un poquito de mantequilla
@@ -19,5 +18,4 @@ Un poquito de mantequilla
 3 huevos
 
 <h3>Preparación</h3>
-
 Se tritura todo (a poder ser en una batidora especial - robot). Se unta un molde con mantequilla y se pone en el horno al baño maría durante media hora.

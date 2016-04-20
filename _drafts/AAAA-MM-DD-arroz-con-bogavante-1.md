@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. arroz
 
 1 kg. bogavante
@@ -41,6 +40,5 @@ perejil
 azafrán
 
 <h3>Preparación</h3>
-
 picar la cebolla, el ajo y el perejil y dorarlo con un poco de aceite en una cazuela de barro. Una vez dorado, añadir el arroz. Rehogarlo bien e incorporar el agua que se ha empleado para abrir las almejas y berberechos en la que se habrá disuelto el azafrán. Añadir el bogavante troceado y dejar cocer a fuego lento hasta que el arroz esté en su punto. Servir en la cazuela de barro.
 

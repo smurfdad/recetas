@@ -8,7 +8,6 @@ categories:
 - Setas y hongos
 ---
 <h3>Ingredientes</h3>
-
 Dos medallones de lomito de 100 g c/u
 
 50 g de champiñones
@@ -56,7 +55,6 @@ Sal y pimienta al gusto
 Papel envoplast
 
 <h3>Preparación</h3>
-
 Carne:
 
 Sellar la carne previamente sazonada con sal y pimienta, retirar la carne, desglazar la sartén con los 100 ml de vino y luego verter los 50 ml de vino tinto, poner la cebolla y luego la carne en la salsa, dejar reducir a fuego lento dándole vuelta a la carne, añadir los champiñones.

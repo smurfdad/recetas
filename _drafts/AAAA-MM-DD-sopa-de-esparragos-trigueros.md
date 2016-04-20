@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Litro y medio de caldo de verduras.
 
 1 manojo de espárragos trigueros.
@@ -36,7 +35,6 @@ Litro y medio de caldo de verduras.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Lavamos bien los espárragos y los troceamos, quitando la parte más dura del tallo. En una cazuela salteamos el jamón con un poco de aceite, añadimos los espárragos, el caldo y dejamos cocer durante quince minutos.
 
 En ese momento agregamos los huevos batidos y movemos hasta que cuajen. Ponemos a punto de sal y servimos.

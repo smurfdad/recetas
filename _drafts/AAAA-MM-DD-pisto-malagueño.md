@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 berenjena
 
 1 calabacín mediano
@@ -40,7 +39,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 La berenjena y el calabacín se pelan y se pican en cuadritos y se echan en agua con sal un ratito. Se fríen lentamente hasta que estén blandos y se cuelan y reservamos el aceite
 
 Picamos la cebolla y los pimientos y los freímos en el mismo aceite, se cuelan yu en este aceite freímos los tomates con la piel, cuando el tomate ya está frito, se pasa por el chino e se le agrega esto a todo lo anterior junto con un poco de sal.

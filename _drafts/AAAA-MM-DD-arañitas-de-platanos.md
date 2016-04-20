@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 plátanos verdes grandes pelados
 
 6 dientes de ajos machacados
@@ -34,7 +33,6 @@ sal y pimienta a gusto
 aceite freir
 
 <h3>Preparación</h3>
-
 Raye los plátanos por el lado más grueso de un rallador de mano o con el disco de rallar del procesador de alimentos. Ponga el plátano en un recipiente mediano y agréguele el ajo, gengibre sal y pimienta.
 
 Con dos cucharas o con las puntas de los dedos, haga bolas de 1 pulgada de diámetro sin apretar mucho el plátano.

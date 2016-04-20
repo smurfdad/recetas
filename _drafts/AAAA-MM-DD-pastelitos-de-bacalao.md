@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gramos de bacalao previamente desalado.
 
 3 patatas.
@@ -41,7 +40,6 @@ Sal y pimienta.
 Aceite de oliva.
 
 <h3>Preparación</h3>
-
 Troceamos el bacalao. Ponemos los trozos de bacalao en un litro de leche y lo dejamos hervir durante 5 minutos. Con esto lo que hacemos es terminar de desalar el bacalao y cocinarlo ligeramente.
 
 Pelamos las patatas y las cortamos en laminas muy finas. Escurrimos el bacalao y lo metemos en el vaso de la batidora junto con la nata. Batimos el bacalao hasta conseguir una pasta. Salpimentamos a gusto.

@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 2 Kg de Alitas de Pollo.
 
 1 Cabeza de Ajo
@@ -53,7 +52,6 @@ REFRITO:
 Sal. Si es necesario
 
 <h3>Preparación</h3>
-
 Poner a cocer las alitas en una cazuela con agua hasta que las cubra. Añadir la cabeza de ajos, el Laurel, el chorizo y el jamón. Cocer durante 2 ó 3 horas. Hasta que estén tiernas. Antes de que estén, añadir la morcilla. Con una espumadera quitar la espuma que suelta. Cuando estén casi cocidas, sacar todo y dejar sólo las Altas.
 
 REFRITO: En una sartein, pochar la cebolla con un ajo picado y un tomate maduro triturado. Añadir una punta de arina para que espese. Refreirlo todo. Y echarlo a las Alitas.

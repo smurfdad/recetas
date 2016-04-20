@@ -22,7 +22,6 @@ categories:
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gr. de espárragos en conserva.
 
 3 puerros.
@@ -50,7 +49,6 @@ Aceita de oliva.
 Pan.
 
 <h3>Preparación</h3>
-
 Pelar la cebolla y los puerros y picarlos. Escurrir el líquido de los espárragos en un vaso y reservarlo para más tarde.
 
 En una cazuela a fuego lento rehogar la mantequilla y sofreír la cebolla y los puerros picados.

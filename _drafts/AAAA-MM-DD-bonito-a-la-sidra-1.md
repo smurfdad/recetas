@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 750 gr. bonito (en filetes)
 
 sal y pimienta
@@ -45,7 +44,6 @@ aceite de oliva
 1/2 l. sidra
 
 <h3>Preparación</h3>
-
 Lavar y secar los filetes de bonito y sazonarlos con sal y pimienta.
 
 Pasar el pescado por harina y freírlo en aceite de oliva por los dos lados. Reservar caliente en una fuente de horno.

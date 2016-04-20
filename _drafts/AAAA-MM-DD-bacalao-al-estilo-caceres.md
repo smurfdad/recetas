@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 grs. de bacalao
 
 400 grs. de patatas
@@ -34,6 +33,5 @@ Para 4 personas.
 Aceite
 
 <h3>Preparación</h3>
-
 Desale el bacalao. Quítele la piel y las espinas y cuézalo junto con las patatas troceadas. Una vez cocido, haga un puré con ambos ingredientes que mezclará con la leche y aceite hasta obtener una pasta homogénea. Ponga el puré así obtenido en una fuente refractaria, rocie con la mantequilla y dore al horno.
 

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 4 medallones de bonito de 200 g cada uno
 
 200 g de patatas cocidas
@@ -48,6 +47,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Colocar el bonito en una cazuela, cubrirlo con el caldo y llevar a ebullición. Cuando esté hirviendo, bajar el fuego y dejarlo cocer a fuego muy suave durante 8 minutos. Retirar del fuego y dejarlo enfriar en el mismo caldo. Ponerlo en una fuente de servir con el aceite, los granos de pimienta, el limón cortado en rodajas, la cebolla en aros, la cucharadita de tomillo y sal. Dejar marinar durante 24 horas en la nevera. Dar la vuelta al bonito 2 ó 3 veces. Servir con las aceitunas negras, los huevos duros y las patatas cocidas.
 

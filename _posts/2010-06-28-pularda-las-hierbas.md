@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 pularda de 1, 1/2 kg.
 
 6 zanahorias
@@ -35,7 +34,6 @@ harina
 caldo de ave
 
 <h3>Preparación</h3>
-
 Meta la pularda en una cacerola, añadiendo las zanahorias y los nabos cortados en tiras de 3 cm., 10 cebollitas, los puerros cortados en rodajas, la cebolla picada y el clavo.
 
 Recúbralo con caldo de ave, y hágalo hervir durante una hora y media sobre la placa de su cocina eléctrica. Cueza aparte el arroz, y escúrralo bien. Añádale un vaso de caldo de la cocción de la pularda, y vuélvalo a cocer 5 minutos.

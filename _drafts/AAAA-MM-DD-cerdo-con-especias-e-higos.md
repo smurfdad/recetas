@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 400 gramos de carne de cerdo
 
 8 higos secos
@@ -42,7 +41,6 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Troceamos la carne de cerdo y la rehogamos en un recipiente con una
 
 cucharada de aceite caliente y la cebolla.

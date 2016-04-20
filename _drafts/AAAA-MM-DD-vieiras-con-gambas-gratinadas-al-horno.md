@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 vieiras de tamaño mediano (se pueden utilizar congeladas).
 
 100 gramos de gambas peladas.
@@ -42,7 +41,6 @@ Sal.
 8 cucharadas pan rallado.
 
 <h3>Preparación</h3>
-
 Para abrir las vieiras, colocamos la concha sobre un trapo de cocina para que no resbale y pasamos un cuchillo pequeño entre las dos valvas, presionando ligeramente para separarlas; entonces, raspamos la concha honda para retirar la carne, con cuidado de no romperla.
 
 Lavamos los medallones y el coral (la media luna anaranjada) eliminando bien las barbas adheridas y toda la arena. Reservamos en la nevera, tapadas con un paño húmedo. Así mismo, guardamos las conchas y sus tapas, lavándolas perfectamente.

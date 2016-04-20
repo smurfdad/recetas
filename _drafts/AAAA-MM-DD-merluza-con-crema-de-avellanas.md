@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 cortes de merluza
 
 1 cebolla
@@ -45,7 +44,6 @@ Para 4 personas.
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Saltear la merluza en una sartén con mantequilla. A parte, freír en aceite de oliva la cebolla y el ajo picados. Cuando la cebolla se empiece a dorar, añadir el vino y la harina y dejar reducir a fuego lento.
 
 Una vez evaporada la mitad del líquido, añadir la mantequilla al recipiente donde se ha salteado la merluza y el caldo de pescado. Dejarlo al fuego, hasta que espese. Entonces, añadir la avellana molida y apagar el fuego.

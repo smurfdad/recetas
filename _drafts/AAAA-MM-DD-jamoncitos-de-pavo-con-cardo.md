@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 jamoncitos de pavo (250 grs cada uno)
 
 2 dientes de ajo
@@ -40,6 +39,5 @@ Sal
 Ajo en polvo
 
 <h3>Preparación</h3>
-
 Se limpia el cardo de hilos y se cuece hasta que esté tierno, reservando el caldo de cocción. Se sazonan los dos jamoncitos y se aliñan con ajo en polvo y aceite de oliva para asarlos en el horno a 190&ordm; durante media hora (15 minutos por cada lado). Mientras tanto en una sartén se doran los dos dientes de ajo laminados, se añade una cucharada de harina y con el caldo de cocción se liga una salsa en la que se mantendrá caliente el cardo. Cuando los jamoncitos están listos, se sirven acompañados del cardo.
 

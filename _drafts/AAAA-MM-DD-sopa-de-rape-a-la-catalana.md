@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200 g de rape en rodajas
 
 2 cebollas
@@ -42,7 +41,6 @@ Para 6 personas.
 sal
 
 <h3>Preparación</h3>
-
 Rallamos los tomates y los freímos en una sartén con aceite durante 15 minutos a fuego lento. Picamos los ajos y las cebollas en trocitos muy finos y los freímos en una cazuela con aceite. Cuando la cebolla esté bien hecha añadimos el tomate frito, añadimos el rape para que tome color con el tomate. Cortamos el pan a rebanas muy finas y lo echamos en la cazuela para que se tueste y coja gusto. Añadimos 1 litro de agua, sal y dejamos que hierva durante 10 minutos.
 
 En un mortero machacamos las almendras y las echamos en la sopa, le damos un hervor y servimos.

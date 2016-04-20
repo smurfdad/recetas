@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 calabacines
 
 4 patatas
@@ -34,6 +33,5 @@ Para 6 personas.
 100 gr. de mantequilla
 
 <h3>Preparación</h3>
-
 se hierven las patatas peladas y los calabacines sin pelar, se escurre y se reserva un vaso, se añaden los 5 quesitos, la mantequilla y se bate todo.
 

@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de macarrones
 
 100 gr. de bacón o jamón curado
@@ -43,6 +42,5 @@ agua
 aceite
 
 <h3>Preparación</h3>
-
 Cuece los macarrones en abundante agua hirviendo con un chorro de aceite y sal. Escurre y reserva. (puedes refrescarlos con agua fría). En una sartén con aceite sofríe la cebolla picada, el jamón o bacón y el chorizo troceados. Luego, añade la salsa de tomate y deja que se haga todo unos minutos. Mezcla los macarrones con la salsa y ponlo todo en una fuente de horno. Espolvorea con queso rallado, gratina dos minutos y sirve.
 

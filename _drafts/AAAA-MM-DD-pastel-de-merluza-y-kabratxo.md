@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de merluza limpio
 
 250 gr. de kabratxo limpio
@@ -60,7 +59,6 @@ salsa Perrin's (opcional)
 zumo de naranja natural
 
 <h3>Preparación</h3>
-
 Cocemos por un lado la merluza y por otro, el kabratxo; ambos con una cebolleta y una zanahoria para darles sabor. Una vez cocidos, los escurrimos y dejamos templar. A continuación los desmigamos, mezclamos y añadimos el tomate frito.
 
 Molemos la pimienta sobre el conjunto anterior. Con 2 ó 3 vueltas será suficiente. Por otro lado, mezclamos 100 ml. de aceite de oliva con un manojito de perejil y lo trituramos. Reservamos.

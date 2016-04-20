@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 2 tazas de arroz cocido
 
 1/2 kilo de carne molida
@@ -48,7 +47,6 @@ Para 6 personas.
 1 cucharada de perejil picado
 
 <h3>Preparación</h3>
-
 En una sarten freir la cebolla, ajo, sal pimienta y comino, cocinar hasta que la cebolla este transparente, agregar el tomate , mover. Incorporar la carne molida, dejar cocinar trantado de que no se formen bollo, agregar las pasas, aceituna y heuvo duro picado dejar reposar unos 15 minutos.
 
 En un molde de pirex, porner hasta lamitad de arroz presionar bien, vacear el relleno tapar con elresto de arroz. Presionar. Volterar en una fuente. Adornar con perejil picado

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Garbanzos o alubias
 
 Costilla y tocino de cerdo
@@ -34,6 +33,5 @@ Nata
 Sal
 
 <h3>Preparación</h3>
-
 Cocemos los garbanzos con sal, la costilla, el tocino y la berza. Sacamos la costilla y el tocino y trituramos el resto, reservando un poquito de caldo del cocido. Dejamos cocer durante 15 minutos con un poquito de nata, añadiendo el caldo colado para que no espese demasiado. Pasamos por el chino la crema y añadimos unos cuadraditos de tocino y de costilla deshuesada
 

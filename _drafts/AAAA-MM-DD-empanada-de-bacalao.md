@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1,5 kg. De bacalao salado desmigado
 
 500 gr. De arroz
@@ -51,7 +50,6 @@ un poco de aceite
 sal y agua templada
 
 <h3>Preparación</h3>
-
 Se pone el bacalao cortado en trozos en agua abundante y se deja toda la noche para que se desale. Al día siguiente se hierve. Se añade el arroz, la cebolla picada, perejil, hierbabuena, aceite, tomate concentrado, sal, pimienta, 2 vasos de agua y se mezclan bien todos los ingredientes.
 
 Se unta una fuente para horno con aceite, se prepara la masa con la harina y el resto de los ingredientes y se abren dos hojas. Se coloca una hoja en la fuente, se extiende el relleno por encima, se cubre con la otra hoja, se pulveriza la empanada con un poco de agua y se asa a horno mediano.

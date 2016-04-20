@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Muslos de pollo
 
 puerro
@@ -37,6 +36,5 @@ huevo
 pan rallado
 
 <h3>Preparación</h3>
-
 Se cuecen los muslos con puerro, zanahoria y tomate. Una vez cocidos se sacan del agua y se escurren. Se reboza cada muslo en huevo y pan rallado y se sirve.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Cebolla
 
 2 Berenjenas
@@ -39,6 +38,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Limpiar y cortar en trozos todos los ingredientes. Freírlos por separado. Una vez listos, colocarlos en una cazuela todos juntos y llenarla con salsa de tomate. Puede servirse tanto frío como caliente.
 

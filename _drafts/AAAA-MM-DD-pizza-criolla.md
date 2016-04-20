@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para la masa
 
 250g (2 tazas) de harina 0000
@@ -64,7 +63,6 @@ Para la cubierta
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Para hacer esta pizza deberá utilizar un molde para tarta con el aro desmontable, y al forrar la tartera con la masa los bordes deberán altos, como para contener el relleno.
 
 Picar los morrones. En una sartén bien grande y profunda, colocar el aceite de oliva, cuando esté caliente rehogar rápidamente los morrones y el ajo, a fuego bajo, dado que éste se quema rápido, inmediatamente colocar la panceta ahumada, rehogar unos minutos y luego la carne picada trabajándola con tenedor y cuchara para ir deshaciéndola, dejar que la carne se cocine a medida que la vamos revolviendo para que no se apelmace y se hagan pelotas grandes de carne, es importante este paso porque la carne debe quedar bien separada, cuando la carne esta cocida que ya ha largado su jugo, condimentar con sal, pimentón, orégano y pimienta, tapar y dejar a fuego bajo.

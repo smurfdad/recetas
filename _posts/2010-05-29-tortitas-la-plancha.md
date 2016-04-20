@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 200 grs. de harina
 
 1 huevo
@@ -31,7 +30,6 @@ el zumo de medio limón
 una pizca de sal.
 
 <h3>Preparación</h3>
-
 Cortar la leche con el zumo de limón (se obtiene calentando la leche y añadiéndo el limón, revolviendo).
 
 Batir el huevo, añadir la leche cortada y el bicarbonato.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 12 minutos.
 
 <h3>Ingredientes</h3>
-
 Pimiento del piquillo
 
 anchoa
@@ -35,6 +34,5 @@ Perejil picado
 Huevo duro
 
 <h3>Preparación</h3>
-
 Se trocean los pimientos y se colocan sobre una rebanada de pan tostado. Se ponen dos anchoas sobre el pimiento y se decora con la clara rallada de un huevo cocido. Se le da un toque de color con una pizca de perejil picado.
 

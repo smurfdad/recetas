@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 taza de aceite de oliva
 
 4 dientes de ajo picados finamente
@@ -47,6 +46,5 @@ queso parmensano al gusto
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Calienta el aceite y frie los dientes de ajo con los chiles hasta que doren un poco,añade el pure de jitomate oregano y abundante pimienta deja que hierva la salsa a fuego bajo durante 20 minutos,agrega la salsa inglesa y sal al gusto revuelve con el espagueti cocido y añade 2 cucharadas del agua de la coccion del espagueti,mezcla las alcaparras y las aceitunas y al servir rocia el queso.
 

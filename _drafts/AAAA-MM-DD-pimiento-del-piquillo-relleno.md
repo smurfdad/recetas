@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pimiento del piquillo de Mendavia
 
 bonito en escabeche
@@ -36,6 +35,5 @@ vinagre
 sal
 
 <h3>Preparación</h3>
-
 Se desmiga el bonito y se pica la cebolla muy fina. Se mezcla todo con la mahonesa y se le añade un poquito de vinagre y salsa tártara. Con la masa resultante se rellenan los pimientos y se sazonan con aceite de oliva y sal.
 

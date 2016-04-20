@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 filetes de trucha salmonada
 
 2 cebollitas de cambray rebanadas diagonalmente
@@ -39,7 +38,6 @@ jugo de limón sin semilla
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Coloque el pescado en un molde refractorio untado con mantequilla. Espárzale las cebollitas de cambray y los ingredientes restantes.
 
 Ase el pescado 6 minutos en el horno precalentado.

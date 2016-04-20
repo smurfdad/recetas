@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 k de bonito limpio sin espinas ni piel cortada en lomos enteros
 
 3 escalonias picadas
@@ -43,6 +42,5 @@ el zumo de 1 limón
 sal
 
 <h3>Preparación</h3>
-
 Envolver cada lomo de bonito en papel film. Para poder cortarlo con facilidad meterlo en el congelador durante 30 minutos. Cortar los lomos de bonito lo más fino posible, colocarlos entre dos hojas de papel film y aplastarlos con el rodillo sin que se rompan. Disponerlos en los platos de servir. Repartir las escalonias, las alcaparras y los granos de pimienta. Salpimentar y rociar con el aceite y el zumo de limón. Espolvorear con el cebollino y servir en el acto.
 

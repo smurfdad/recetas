@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3 kg. de conejo
 
 3 kg. de cebollas
@@ -45,6 +44,5 @@ Tomillo
 Sal
 
 <h3>Preparación</h3>
-
 Se pela el conejo, se limpia y una vez lavado se trocea. Se pone en una cazuela de barro, se añade el resto de los ingredientes y se deja cocer a fuego lento de 50 a 60 minutos, hasta que el conejo esté blando. Se recomiendan los gazapos de campo.
 

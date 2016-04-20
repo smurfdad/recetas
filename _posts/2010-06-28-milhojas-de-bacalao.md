@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 hojas de pasta filo
 
 800gr. de bacalao desmigado
@@ -31,7 +30,6 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Poner el bacalao a remojo en agua fría durante 48 horas y cambiando el agua al menos 3 veces cada día. Aclararlo con agua fría, escurrirlo y secar con papel absorbente de cocina.
 
 Pelar las cebollas y el ajo y picarlos muy finamente. Calentar un poco de aceite de oliva en una sartén, añadir la cebolla y el ajo picados y rehogar a fuego lento hasta que estén tiernas y algo doradas, deben quedar como confitadas. Incorporar el bacalao desmigado y rehogar suavemente.

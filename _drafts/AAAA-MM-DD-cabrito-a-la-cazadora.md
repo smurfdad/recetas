@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kg. de cabrito troceado
 
 3 cucharadas soperas de aceite
@@ -40,7 +39,6 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Machacad en un mortero los ajos y las anchoas y diluid con el vinagre.
 
 Poned en una sartén el aceite y el romero; cuando empiece a humear, retirad el romero y añadir los trozos de cabrito, ligeramente enharinados.

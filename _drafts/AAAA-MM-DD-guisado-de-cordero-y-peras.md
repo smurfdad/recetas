@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1,125 kg. de espalda de cordero
 
 6 ó 7 peras de la reina (pequeñas, verdes y de clase dura)
@@ -44,6 +43,5 @@ Sal
 Agua
 
 <h3>Preparación</h3>
-
 Se corta la carne de cordero en dados de aproximadamente cuatro centímetros. A continuación, se echa en una cazuela de barro, con el aceite y se sofríe la carne. Cuando está dorada se añaden las cebollas troceadas y las judías. Se dan dos vueltas y se agregan las patatas, cortadas a cantos, y el pimentón. Una vez se doren las patatas, se añaden tres vasos de agua, el garrofó (que habrá estado en remojo desde la víspera) y la sal. Por último, a mitad de cocción, se incorporan las peras sin pelar. La salsa debe quedar espesa y las peras enteras.
 

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 ó 3 cucharas soperas de aceite
 
 4 gambas
@@ -52,7 +51,6 @@ azafrán
 200 gr. de chirlas
 
 <h3>Preparación</h3>
-
 Se sofríen un poco las gambas y las cigalas.
 
 Se sala y reboza el pescado y se fríe en un recipiente aparte con bastante aceite.

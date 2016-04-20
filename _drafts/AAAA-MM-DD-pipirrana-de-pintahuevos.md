@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de pimientos para asar.
 
 250 gr. de atún en aceite.
@@ -40,6 +39,5 @@ Sal.
 Pan tierno.
 
 <h3>Preparación</h3>
-
 Se asan los pimientos y se dejan sudar en un recipiente cerrado. Se les quita la piel y se limpian de semillas, se parten en tiras y se van colocando extendidas en una fuente. Se les añade el atún, las aceitunas negras, abundante aceite de oliva, para que se pueda mojar con el pan tierno, un poco de sal y vinagre al gusto. Por último se decoran con los tres huevos duros hechos rodajas.
 

@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 cucharadas de aceite de oliva
 
 1,5 litros de caldo
@@ -29,7 +28,6 @@ Para 4 personas.
 10 gramos de sal
 
 <h3>Preparación</h3>
-
 Pelar la cebolla y cortarla en rodajas finas.
 
 Derretir en una cacerola la mantequilla y añadir el aceite y rehogar suavemente la cebolla.

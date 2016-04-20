@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 bote de maíz
 
 1 bote de guisantes
@@ -57,6 +56,5 @@ Pimienta
 Cebollino
 
 <h3>Preparación</h3>
-
 Pon en una ensaladera el maíz, los guisantes, el jamón finamente picado, las rodajas de salami cortadas en dos, las hojas de ensalada picadas, el aguacate cortado en dados, el gruyere cortado en láminas, el pepino en láminas. Prepara una vinagreta, añade el queso blanco, la nata fresca, el roquefort desmenuzado, mézclalo bien, añade el cebollino picado. Sirve la ensalada acompañada de esta salsa.
 

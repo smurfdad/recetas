@@ -23,7 +23,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 3 filetes de pechuga de pollo.
 
 6 lonchas de queso de nata.
@@ -43,7 +42,6 @@ Para 3 personas.
 1 vaso de aceite.
 
 <h3>Preparación</h3>
-
 Cortar las pechugas de pollo para poder extenderlas bien y cubrir con una loncha de jamón y dos de queso.
 
 Enrollar y atar bien. Cubrir el fondo de una cazuela con aceite y rehogar la cebolla y las zanahorias troceadas.

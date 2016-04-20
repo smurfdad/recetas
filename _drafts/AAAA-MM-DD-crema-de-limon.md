@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 yogures naturales
 
 el zumo de 3 limones
@@ -32,7 +31,6 @@ una lata pequeña de leche condensada
 la ralladura de la piel del limón
 
 <h3>Preparación</h3>
-
 Vertemos los tres yogures en un recipiente en el que podamos remover los ingredientes sin riesgo de que se nos caigan.
 
 incorporamos luego la leche condensada y removemos con una espátula de madera.
@@ -42,7 +40,6 @@ Una vez bien mezclados el yogur y la leche condensada, añadiremos el zumo de li
 por último, mezclamos con la crema las ralladuras de limón.
 
 <h3>Observaciones</h3>
-
 Las cantidades de esta receta pueden variarse en dependencia del gusto de cada uno: punto de acidez, dulzor, etc.
 
 Es importante que la crema tenga un reposo de un mínimo de 6 horas para que todos los sabores se unifiquen convenientemente.

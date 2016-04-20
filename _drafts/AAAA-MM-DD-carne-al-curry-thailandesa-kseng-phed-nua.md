@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 tacitas de leche de coco clara
 
 500 g. de carne de vaca magra en tiras de 2,5x1,5 cm.
@@ -39,10 +38,8 @@ Para 4 personas.
 50 g. de hojas de albahaca picadas o 1 cucharada de albahaca seca remojada en agua templada 5 minutos y escurrida
 
 <h3>Preparación</h3>
-
 En un cazo, llevar a ebullición la leche de coco. Agregar la carne a tiras, reducir el fuego y dejar cocer despacio, parcialmente tapado, 1 hora o hasta que la carne esté tierna. Agregar, removiendo, la pasta de curry, el cardamomo, macis y nam pla (o esencia de anchoa) y dejar cocer el curry destapado 15 minutos. Antes de servir, añada la albahaca.
 
 <h3>Observaciones</h3>
-
 Receta thailandesa
 

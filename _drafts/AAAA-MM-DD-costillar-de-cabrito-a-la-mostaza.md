@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 costillares de cabrito (6 costillas)
 
 4 gr. de sal
@@ -44,7 +43,6 @@ medio de cogollo de Tudela
 hierbas aromáticas (tomillo, romero y cebollino picado)
 
 <h3>Preparación</h3>
-
 Con un tallant o macheta (cuchillos de carnicero de grandes dimensiones y peso), cortar la parte superior del costillar, tanto por estética como por funcionalidad, dado que estas partes son prácticamente inaprovechables.
 
 Raspar la parte trasera del costillar hasta conseguir desgarrarla y separarla del hueso. Sólo se desgarrará la carne en la parte más superior del costillar, nunca más abajo de la mitad del mismo. Y cortar la carne sobrante.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de carne de vacuno sin hueso (aguja o morcillo).
 
 Sal.
@@ -47,7 +46,6 @@ Aceite.
 Vinagre.
 
 <h3>Preparación</h3>
-
 Trocear la cebolla, la zanahoria, el tomate con piel, las patatas y el pimiento. Trocear también la carne como para estofar.
 
 Poner todas las verduras en el fondo de una cacerola y, sobre ellas, la carne. Sazonar y añadir aceite y vinagre (un poco más de vinagre que de aceite). Añadir también la guindilla y el ajo. Poner a cocer a fuego lento, con la cacerola tapada, mientras tanto, se doran las patatas en una sartén.

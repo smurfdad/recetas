@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 hojas de acelgas
 
 100 gramos de calabaza
@@ -44,7 +43,6 @@ Para 4 personas.
 200 gramos de zanahorias
 
 <h3>Preparación</h3>
-
 Se cuecen todos los ingredientes, previamente lavados y cortados, junto a la pastilla de caldo y la pimienta.
 
 Cuando las verduras estén blandas se pasan por el pasapuré o por la batidora.

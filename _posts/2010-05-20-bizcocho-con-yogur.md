@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 yogur de limón(o natural con ralladura de limón)
 
 1 medida de yogur de aceite de girasol
@@ -23,7 +22,6 @@ Para 6 personas.
 1 sobre de royal (3 cucharadas rasas)
 
 <h3>Preparación</h3>
-
 Batir con la batidora el yogur, las yemas de los huevos, el aceite y el azúcar.
 
 Añadir las claras a punto de nieve, mezclar sin batir.

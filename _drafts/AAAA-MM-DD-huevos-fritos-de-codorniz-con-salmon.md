@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 huevos de codorniz
 
 400 g de salmón limpio sin piel ni espinas
@@ -38,6 +37,5 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Cortar el salmón en dados pequeños. Calentar 1 dl de aceite en una sartén y saltear los dados de salmón durante 2 minutos. Salpimentar y agregar el eneldo. Reservar al calor. Freír los huevos de codorniz en el aceite sobrante. Repartir el salmón en cuatro platos. Disponer encima tres huevos fritos muy escurridos. Adornar con las huevas de salmón y servir enseguida.
 

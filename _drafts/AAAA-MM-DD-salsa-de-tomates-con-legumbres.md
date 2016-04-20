@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 tomates pelados sin semillas y picados 1 lata de puré de tomates
 
 200g de garbanzos en lata o remojados 24 h y hervidos
@@ -44,7 +43,6 @@ categories:
 Sal, pimienta y ají molido a gusto
 
 <h3>Preparación</h3>
-
 Colocar en una cacerola abundante agua salada a hervir.
 
 En una sartén antiadherente colocar el aceite de oliva y la manteca, dorar la cebolla, el ajo y la panceta, agregar el tomate, condimentar con sal, pimienta y ají molido dejar reducir.

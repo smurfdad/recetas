@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 200 Gr. de ternera
 
 200 Gr. de manteca de cerdo
@@ -55,6 +54,5 @@ Sopa verde
 Un trozo de col
 
 <h3>Preparación</h3>
-
 Colocar todas las carnes en una cazuela y dejarlo hasta que hierva. Seguidamente, cambiar el agua. Añadir las verduras, excepto la col y los garbanzos, y dejarlo hervir una hora y media. Al cabo de 45 minutos, sacar el pollo. Cuando esté todo cocido, añadir la patata, la col, los embutidos y el pollo que habíamos sacado. Hervir 20 minutos más. Escurrir el caldo para añadir a la pasta y servir como primer plato y, el resto de ingredientes, serán el segundo plato.
 

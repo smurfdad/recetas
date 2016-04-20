@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 200 gramos de manzana reineta.
 
 200 gramos de pera blanquilla.
@@ -51,7 +50,6 @@ Sabayón:
 1 rama de canela.
 
 <h3>Preparación</h3>
-
 Hervimos el vino con el azúcar, el agua y la canela. En este liquido ponemos a remojo los orejones durante toda una noche.
 
 Al día siguiente añadimos las uvas pasas y le damos un hervor durante 10 minutos.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebollas
 
 4 calabacines
@@ -36,7 +35,6 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Picar todas las verduras en cuadraditos.
 
 Poner a rehogar con un poco de aceite cuando este echa, agregar el tomate y dejar que se termine de hacer.

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 5 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Repollo
 
 2 manzanas grandes de cascara verde.
@@ -32,6 +31,5 @@ Para 6 personas.
 Sal, jugo de limón, aceite.
 
 <h3>Preparación</h3>
-
 Se pica finito el repollo, se lava la manzana, se pela y se pica en pequeños cubitos que se agregan al repollo, luego se aliña al gusto con la sal, aceite y el jugo de limón.
 

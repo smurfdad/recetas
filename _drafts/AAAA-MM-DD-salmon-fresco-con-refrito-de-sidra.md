@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lonchas de salmón.
 
 3 dientes de ajo.
@@ -36,6 +35,5 @@ Sal.
 3 cucharada de aceite de oliva.
 
 <h3>Preparación</h3>
-
 Las lonchas de salmón se salpimientan y se asan en una sartén antiadherente con tres gotas de aceite. Cuando el salmón este doradito por los dos lados, lo ponemos en un plato y lo rociamos con el vinagre de sidra. En la misma sartén ponemos aceite a calentar y doramos los ajos fileteados. Rociamos con este refrito el salmón y servimos.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 gallina
 
 2 cebollas
@@ -40,7 +39,6 @@ aceite
 200 gr alubia verde
 
 <h3>Preparación</h3>
-
 Trocear la gallina y ponerla en la olla con bastante cebolla y cocerla durante tres cuartos de hora.
 
 Una vez cocida, se saca de la olla.

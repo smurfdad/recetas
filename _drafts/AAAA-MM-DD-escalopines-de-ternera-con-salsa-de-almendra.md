@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 filetes de ternera de 100 gramos cada uno.
 
 100 gramos de almendras tostadas.
@@ -51,7 +50,6 @@ Huevo.
 Pan rallado.
 
 <h3>Preparación</h3>
-
 Se salan los filetes y se pasan por harina, huevo batido y pan rallado. Se aplastan con la pala del cuchillo y se le hacen unos cortes en forma de rombo al empanado. Se fríen y se reservan en un lugar caliente.
 
 En el aceite sobrante freímos la cebolla, el tomate y el ajo, todo muy finamente picado. Salpimentamos y esperamos a que este bien rehogado. Entonces agregamos las almendras trituradas, un poco de perejil picado y el vino.

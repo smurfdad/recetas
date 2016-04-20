@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 500 grs. de garbanzos
 
 1 kg de espárragos triguros
@@ -46,7 +45,6 @@ categories:
 Agua y sal
 
 <h3>Preparación</h3>
-
 Cocer los garbanzos durante 90 minutos, una vez hayan estado en remojo 12 horas.
 
 Aparte, refreír en aeite el pan, los ajos pelados y la ñoras, sacándolo a un mortero para majarlo.

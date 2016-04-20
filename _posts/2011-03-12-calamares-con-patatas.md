@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilogramo de calamares troceados
 
 1 kilogramo de patatas
@@ -25,7 +24,6 @@ Para 4 personas.
 perejil picado
 
 <h3>Preparación</h3>
-
 Se ponen en una cazuela los dientes de ajo y las cebollas bien picadas con el aceite. Se deja sudar.
 
 A continuación, se añaden los calamares troceados y el vaso de vino blanco.

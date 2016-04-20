@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 hojas de berza grandes y bonitas
 
 200 gr. de carne de cerdo picada
@@ -52,7 +51,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 De víspera, se pone a remojo el pan en el vaso de leche y se mete al frigorífico, cubierto con papel film. Se pone a hervir agua sazonada con sal. Se lavan bien las hojas de berza; se meten al agua hirviendo y justo se escaldan.
 
 Se sacan a un recipiente con agua y hielos y se van sacando con la espumadera, siempre sobre un paño limpio. Se pone en un bol la carne picada, el jamón serrano, el pan remojado, bien escurrido, apretando con las manos, el huevo crudo y el queso parmesano. Se sazona con sal y pimienta y se mezcla bien.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr de coco rallado
 
 500 gr de azucar
@@ -32,7 +31,6 @@ Para 6 personas.
 mantequilla
 
 <h3>Preparación</h3>
-
 Se mezcla el coco con el azucar y se incorporan los huevos de uno en uno hasta que esté todo bien unido.
 
 Se unta una bandeja con mantequilla.

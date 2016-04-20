@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2,3 kg. de harina
 
 1,6 kg. de margarina
@@ -34,10 +33,8 @@ ralladura de 1,5 limones
 colorante de huevo (unas gotas)
 
 <h3>Preparación</h3>
-
 Mezclar la harina, el azúcar, la ralladura del limón y el colorante. Deshacer la margarina y cuando presente apariencia cremosa unir a la anterior mezcla. Trabajar hasta que adquiera una presencia uniforme y suave. Conformar las pastas con una manga pastelera en la bandeja. Hornear a 235 grados durante 15 minutos.
 
 <h3>Observaciones</h3>
-
 Se pueden unir dos pastas con relleno de praliné, mantequilla dulce, etc.
 

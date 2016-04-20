@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 175 g de harina
 
 3 dl de leche
@@ -45,6 +44,5 @@ Para EL RELLENO:
 1 cucharada de azúcar glacé
 
 <h3>Preparación</h3>
-
 Mezclar la harina con los huevos enteros y la sal. Agregar la leche fría y el aceite. Batir ligeramente con varillas y dejar reposar durante 1 hora. En el momento de hacer las crépes agregar un poco de agua mineral para que la masa esté más ligera. Calentar una sartén de 18 cm de diámetro, verter unas cucharadas de la masa y cuajar la crepe. Cuando esté dorada darle la vuelta, retirarla de la sartén y reservar. Continuar hasta terminar con la masa. Mezclar el queso con el azúcar y el azúcar de vainilla y rellenar las crepes. Espolvorear con el azúcar glasé y servir.
 

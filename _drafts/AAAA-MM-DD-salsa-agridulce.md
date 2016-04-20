@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharaditas. de salsa de soja
 
 3 cucharaditas. de azúcar
@@ -40,6 +39,5 @@ Para 6 personas.
 1 cucharadita de maicena
 
 <h3>Preparación</h3>
-
 Poner los ingredientes en un cazo y cocer sobre el fuego 20 min., removiendo para que se disuelvan el azúcar y la maicena. Retirar del fuego y dejar enfriar a temperatura ambiente. Acompaña a platos orientales, especialmente de pescado, carnes, arroz y rollitos primavera.
 

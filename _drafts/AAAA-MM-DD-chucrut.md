@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 Kg de repollo blanco
 
 60 g de sal marina
@@ -32,7 +31,6 @@ categories:
 4 hojas grandes de repollo enteras
 
 <h3>Preparación</h3>
-
 Lavar y secar muy bien un frasco de vidrio.
 
 Colocar el trigo o la cebada en el fondo del recipiente.

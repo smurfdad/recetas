@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 Tazas de arroz cocido
 
 Ramitas de cilantro
@@ -44,6 +43,5 @@ Sal al gusto
 Aceite
 
 <h3>Preparación</h3>
-
 Se cortan los aliños. Se amasan con el arroz y se dejan reposar. Se aplanan con rodillo. Se cortan círculos bien finitos con la ayuda de la harina de trigo. Se cocinan en budare. Se pueden rellenar con ensaladas o cremas.
 

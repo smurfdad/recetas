@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de levadura Royal
 
 150 gr. de harina
@@ -38,7 +37,6 @@ Para 4 personas.
 Azúcar glass
 
 <h3>Preparación</h3>
-
 Mezclar la levadura Royal, la harina y el huevo (batido como para tortilla). Añadir el azúcar y agregar la leche. Mezclar bien.
 
 Pelar y trocear las manzanas (quitarles las semillas) en trozos pequeños. Añadir la manzana a la mezcla anterior y revolver todo bien.

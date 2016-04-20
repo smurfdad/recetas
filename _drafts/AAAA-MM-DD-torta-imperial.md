@@ -22,7 +22,6 @@ categories:
 Para 20 personas.
 
 <h3>Ingredientes</h3>
-
 500 gramos de mantequilla
 
 10 huevos
@@ -44,7 +43,6 @@ Crema para cubrirla:
 1 yema de huevo
 
 <h3>Preparación</h3>
-
 En un recipiente grande bate la mantequilla hasta que esté cremosa (preferiblemente batir a mano con una paleta de madera), se le va añadiendo pococ a poco el azúcar, luego los huevos enteros; luego de esto añadir poco a poco la harina simultáneamente con la leche y de último la cucharada de vainilla.
 
 Cuando veas que no quedan grumos quiere decir que está lista la mezcla. Enmantequilla y enharina un molde de dos kilos de capacidad, introduce en él la mezcla anterior y hornea a una temperatura de 300 grados aproximadamente, alrededor de unos 45 minutos.

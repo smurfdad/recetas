@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 kilo y medio de conejo
 
 2 cebollas
@@ -44,7 +43,6 @@ agua
 aceite
 
 <h3>Preparación</h3>
-
 Limpiar y trocear el conejo sazonándolo con sal.
 
 Picar muy fina la cebolla, el ajo, los pimientos verdes y los tomates, previamente pelados.

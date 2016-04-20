@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 cr&ecirc;pe (elaboración tradicional)
 
 kokotxas de bacalao
@@ -30,6 +29,5 @@ salsa pil pil
 salsa vizcaína
 
 <h3>Preparación</h3>
-
 Se hace una oblea de cr&ecirc;pe al estilo tradicional. Se hace la mitad de las kokotxas al pil pil y la otra mitad a la vizcaína. Se rellena el cr&ecirc;pe con las kokotxas. Se mezclan las dos salsas y se ligan bien. Se pone en el fondo de un plato, colocando encima el cr&ecirc;pe.
 

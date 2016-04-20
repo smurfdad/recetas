@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1kg. de merluza
 
 1kg de espinacas
@@ -42,7 +41,6 @@ cebolla
 laurel
 
 <h3>Preparación</h3>
-
 Cocemos las espinacas y las ponemos a escurrir en un colador
 
 estrujándolas con la mano para que suelten todo el agua

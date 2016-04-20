@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 patatas.
 
 1 cogollo de lechuga.
@@ -34,7 +33,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Desalar el bacalao. Picar el pimiento verde y la cebolla en juliana. Ponerlos a marinar con sal, los ajos machacados, la guindilla, el aceite y el vinagre durante toda la noche.
 
 (Reservar el líquido, que después servirá para aliñar la ensalada).

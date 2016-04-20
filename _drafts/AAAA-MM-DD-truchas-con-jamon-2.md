@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 truchas de 200 gr.
 
 4 lonchas de jamón serrano
@@ -42,6 +41,5 @@ sal
 1 ramita de perejil
 
 <h3>Preparación</h3>
-
 Limpia bien las truchas y rellénalas con una loncha de jamón. A continuación, sazónalas por los dos lados. Pásalas por harina y fríelas con los dientes de ajo en una sartén con abundante aceite. Cuando estén doradas, sácalas a una fuente. Adorna con un limón y sirve.
 

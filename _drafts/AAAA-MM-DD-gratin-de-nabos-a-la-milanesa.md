@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de nabos jóvenes
 
 100 gr. de parmesano
@@ -35,6 +34,5 @@ Para 4 personas.
 2 cucharadas soperas de perejil picado
 
 <h3>Preparación</h3>
-
 Pela los nabos, hazlos pochar en agua salada hirviendo durante quince minutos (el tiempo depende del tamaño de los nabos). Escurre los nabos, déjalos templar y córtalos en rodajas. Ponlos en una bandeja de horno bien untada en mantequilla y espolvoréalos con el parmesano picado. Añade el jugo de carne y ponlo a gratinar en horno caliente durante unos 10 minutos, échale la mantequilla fundida y el perejil picado dejándolo unos minutos más en el horno. Servir acompañando a carne asada
 

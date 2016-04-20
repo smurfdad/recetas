@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Un conejo de campo.
 
 2 cebollas medianas.
@@ -43,6 +42,5 @@ Sal.
 Agua.
 
 <h3>Preparación</h3>
-
 Se limpia el conejo y se trocea en tajadas. Se rehoga con el aceite en la sartén junto a la cebolla y los ajos, todo picado. Le agregamos un poquito de agua, el hinojo, el laurel y la sal necesaria, y esperamos a que reduzca un poco, entonces le echamos el vino y dejamos hervir hasta que la carne este tierna y tengamos un fondo de salsa.
 

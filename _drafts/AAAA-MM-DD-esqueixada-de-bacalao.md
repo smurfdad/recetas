@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 600 gr. de bacalao remojado.
 
 1 manojo de cebollas tiernas.
@@ -36,6 +35,5 @@ Para 6 personas.
 aceite.
 
 <h3>Preparación</h3>
-
 Desmigajar el bacalao. Cortar las cebollas tiernas a tiras, el tomate a cuadros, sin piel ni pepitas, el pimiento a tiras. Colocarlo todo armoniosamente en un plato rodeado de hojas de lechuga. Poner unas aceitunas negras y aliñarlo con aceite.
 

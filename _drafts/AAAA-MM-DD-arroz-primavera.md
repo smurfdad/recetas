@@ -24,7 +24,6 @@ Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 vaso arroz largo
 
 1/4 kg. carne picada de ternera
@@ -48,6 +47,5 @@ colorante
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Se hace en olla a presión: Primero se rehoga la cebolla y el pimiento, a continuación se hecha la carne salpimentada y los guisantes. Cuando esté bien rehogado se agrega el arroz, el tomillo, el tomate y el vino blanco, se rehoga unos 5 minutos y se le hecha el caldo necesario solo para cubrir el arroz, y por último el colorante al gusto. Se cierra la olla y cuando suba la presión se cuentan 7 minutos, se retira y listo para servir.
 

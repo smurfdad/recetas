@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 k. de espinacas
 
 2 rebanadas de pan
@@ -48,6 +47,5 @@ un poco de nuez moscada
 sal
 
 <h3>Preparación</h3>
-
 Hervir las espinacas y dejarlas escurrir, en una sarten con el fondo de aceite preparamos el mojo, freimos los ajos y los retiramos, seguidamente se frien las rebanadas de pan, se pasa por la batidora el aceite, el pan y los ajos, el pimenton y un poco de agua, mezclamos el mojo con las espinacas y lo mareamos un rato al fuego. Poner las espinacas en una fuente de horno honda, preparamos bastante bechamel que nos quede clarita y cubrimos las espinacas con ella, lo ponemos en el horno a gratinar.
 

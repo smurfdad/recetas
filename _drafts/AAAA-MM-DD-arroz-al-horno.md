@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 Costilla de cerdo troceada.
 
 1/4 Pollo troceado.
@@ -49,7 +48,6 @@ Caldo (el doble que de arroz).
 Azafrán.
 
 <h3>Preparación</h3>
-
 En un caldero, se sofrie la carne troceada con un poco de sal. Cuando casi está dorada, se le añade la cabeza de ajos entera y se sofrie.
 
 Cortar la patata a rodajas y sofreirla. Se deja a parte.

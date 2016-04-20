@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 grs. championes
 
 80 grs. de harina
@@ -47,6 +46,5 @@ sal
 800 grs. de lenguados sin espina
 
 <h3>Preparación</h3>
-
 Sazonar los lenguados y pasarlos ligeramente por leche y por harina. Freirlos , cuando esten durados, colorlos en una fuente poner los cahmpiñones laminadospreviamente hervidos y espolvorear las nueces bien picadas.Cubrirlos con la siguiente salsa: hacer una mechamel con la mantequilla y la harina una pastilla caldo de pescado la leche sazonar con pimienta y nuez moscada. Finalmente espolvorear con el queso rallado y gratinar al horno.
 

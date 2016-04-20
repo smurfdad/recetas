@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo espaguetis
 
 3/4 litro de salsa de tomate
@@ -19,7 +18,6 @@ Para 6 personas.
 50 gr mantequilla
 
 <h3>Preparación</h3>
-
 Cocer la pasta en abundante agua hirviendo con sal y aceite, durante diez minutos.
 
 Una vez cocida escurrirla y enfriarla bajo el chorro del agua fría.

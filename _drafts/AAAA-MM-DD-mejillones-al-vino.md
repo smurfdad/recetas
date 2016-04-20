@@ -23,7 +23,6 @@ categories:
 Para 1 personas.
 
 <h3>Ingredientes</h3>
-
 10 MEJILLONES
 
 1/2 CDA. MANTEQUILLA
@@ -45,7 +44,6 @@ Para 1 personas.
 SAL Y PIMIENTA A GUSTO
 
 <h3>Preparación</h3>
-
 Dore en la mantequilla los ajos.
 
 Agregue los pimientos, cebolla, tomate y dore.

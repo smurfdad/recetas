@@ -11,7 +11,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 endibias
 
 8 lonchas de jamón york
@@ -27,7 +26,6 @@ pan rallado
 1 litro de salsa bechamel(para napar)
 
 <h3>Preparación</h3>
-
 Cortar las endibias cada una por la mitad.
 
 Poner encima de cada endibia, una loncha de jamón y una de queso.

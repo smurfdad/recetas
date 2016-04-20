@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kg. manzana (gran smith)
 
 125 gr. azúcar
@@ -45,7 +44,6 @@ Para 6 personas.
 250 gr. hojaldre
 
 <h3>Preparación</h3>
-
 Hacer un caramelo con el azúcar y el agua y bañar con él el molde de forma que los bordes queden bien cubiertos. Pelar, descorazonar y cortar la mitad de la manzana en rodajas y la otra mitad en dados pequeños. En un bol, mezclar la mitad de la manzana cortada en dados, los frutos secos, las frutas escarchadas (que antes habremos picado muy finas), la canela, y el vino moscatel, y dejarlo macerar media hora. En el molde caramelizado, colocar las rodajas de manzana (para que sea más fácil, se pueden hervir 1 minuto en agua), añadir la mezcla de manzana y frutos secos, y tapar el molde con el hojaldre estirado (no tiene que quedar muy fino). Pinchar el hojaldre y hornear a 200 grados unos 10 minutos.
 
 Desmoldar y colocar en una fuente. Gratinar la tarta unos segundos y servirla acompañada de helado o nata líquida.

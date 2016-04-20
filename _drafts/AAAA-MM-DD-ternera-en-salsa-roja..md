@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 700gs de babilla de ternera.
 
 Manteca de cerdo
@@ -52,7 +51,6 @@ vino blanco
 un huevo duro
 
 <h3>Preparación</h3>
-
 Prepare la carne troceándola en tacos,sazone con sal y pimienta.Ponga manteca y aceite en una cazuela de barro y fría la carne despues de enharinar:aparte.En el mismo aceite sofría la
 
 cebolla hasta verlas transparentes,añada los dientes de ajo fileteadosy la carne de los pimienteos que habremos separado de las pieles despues de tener en remojo en agua caliente,reserve las pieles.Freir unos curruscos de pan y majar en el almirez junto con las pieles y las almendras,echar el majado al sofrito y continuar lentamente:pasar por el colador sobre la carne que habremos colocado de nuevo en la cazuela de barro.Añadir el agua,un vaso, y otro igual de vino blanco,antes de terminar la cocción se añade el huevo duro picado.Si se hace en olla rápida se pone al sacarla del fuego,perolos resultados no son tan excelentes como los de la cazuela.Servir con papas fritas o hervidas,ésto al gusto del consumidor.

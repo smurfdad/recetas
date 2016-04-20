@@ -9,7 +9,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo asado y troceado en cuadraditos(tijera)
 
 1 lata de piña
@@ -19,7 +18,6 @@ Para 8 personas.
 1/2 yogur
 
 <h3>Preparación</h3>
-
 Se trocea la piña, menos unas rodajas para adornar.
 
 Se mezcla con los cuadraditos de pollo y se añade también un poco de jugo de la piña.

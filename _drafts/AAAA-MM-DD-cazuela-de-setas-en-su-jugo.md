@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de boletus limpio
 
 200 gr. de amanita cesarea limpia
@@ -48,6 +47,5 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Limpiar las setas con mucho cuidado y partirlas en trozos grandes. En una cocotera (o en individuales 4) incorporar todo en crudo. Tapar y estofar a fuego lento durante 20 minutos. En un plato con campana colocar todas las setas de forma desordenada, habiéndolas colado antes y retirado todas las hierbas, piñas y demás condimentos. Colar el caldo y servir.
 

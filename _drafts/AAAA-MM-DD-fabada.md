@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 1 morcilla
 
 1 chorizo
@@ -42,6 +41,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Se pica bien la cebolla y se sofríe a fuego lento en el aceite de oliva. Cuando la cebolla está bien pasada se añade el chorizo cortado en rodajas y se fríe. Se agregan después las alubias blancas, la panceta cortada en tacos y la morcilla, y se cubre con agua fría y un chorrito de vino blanco. Se deja cocer a fuego lento y avanzada la cocción se prueba, se sazona, y si están tiernas las alubias se sirve. El tiempo de cocción dependerá de la calidad de las alubias que habremos tenido a remojo desde el día anterior.
 

@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Pasta cocida.
 
 5 cola de langostinos cocidos.
@@ -44,7 +43,6 @@ Medio tomate cortado en dados.
 Sal gorda.
 
 <h3>Preparación</h3>
-
 Una vez que estén todos los ingredientes limpios y preparados, montamos el plato.
 
 En el fondo colocamos la pasta cocida y refrescada. Encima, el tomate en daditos y las judías. Ponemos la lechuga en los bordes del plato y espaciamos las hojas de canónigos por encima. Colocamos los langostinos partidos por la mitad, en sentido longitudinal.

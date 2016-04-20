@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 medida de aceite
@@ -32,7 +31,6 @@ Para 4 personas.
 5 medidas de harina
 
 <h3>Preparación</h3>
-
 Poner a calentar el aceite y la leche y añadir harina hasta
 
 que la masa tenga una consistencia de masa de croquetas. Dejar enfriar y después ablandar la masa con los huevos (blanda pero no chorreante). Freir en abundante aceite caliente. Pásarlos por azúcar.

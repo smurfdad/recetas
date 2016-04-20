@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 80 cc. de aceite
 
 1 cabeza de ajo
@@ -50,6 +49,5 @@ Para 6 personas.
 1 pizca de sal
 
 <h3>Preparación</h3>
-
 Se ponen los frijoles 24 horas en remojo. Se ponen a hervir con agua y sal una vez cocinado se reserva. Se sofríe la mitad de la cebolla, el comino, la mitad del ajo, el laurel con el bacón y el chicharrón de puerco, a continuación, se le agrega el arroz y se sofríe, seguidamente se le echa el frijol seco y se moja con el agua del frijol y se deja cocinar. A parte se hace un mojo con la otra mitad de la cebolla en juliana y el ajo molido salteándolo en blanco luego se le agrega el agrio de naranja o vinagre. Cuando este hecho se le echa por encima el mojo.
 

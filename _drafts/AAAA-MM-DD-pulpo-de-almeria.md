@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1,400 kg. de pulpo, aproximadamente
 
 3 tomates
@@ -45,6 +44,5 @@ sal
 una pizca de pimentón dulce
 
 <h3>Preparación</h3>
-
 Congelamos previamente el pulpo, para que resulte más tierno y una vez listo, lo lavamos bien y cortamos en trozos. Picamos la cebolla, partimos el tomate en cuartos y ponemos todos los ingredientes en crudo a cocer en una olla alta durante hora y media aproximadamente hasta que el molusco esté tierno. Comprobamos su punto de sal y a la hora de servir, sacamos el pulpo con las verduras y, si gustan, le pondremos un chorrito de aceite de oliva virgen crudo.
 

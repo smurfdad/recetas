@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. cordero (asadura)
 
 1 kg. patata
@@ -43,7 +42,6 @@ Para 5 personas.
 1 pizca sal y pimienta
 
 <h3>Preparación</h3>
-
 Cortar en trozos pequeños la asadura de cordero. Poner una sartén aceite y manteca. Sofreir la cabeza de ajos, añadir la asadura y salpimentar, agregar la guindilla y el hinojo tierno. Cuando esté tierna la carne y ligeramente dorada la retiramos del fuego y la reservamos en una greixonera bien caliente.
 
 Sofreir aparte el sofrito ya troceado pequeño y los guisantes, una vez cocido lo retiramos del fuego. Freír la patata cortada a cantos pequeños. Mezclar todo el conjunto en la greixonera darle vueltas probar de sal y servir bien caliente.

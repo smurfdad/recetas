@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 berenjenas
 
 1 cebolla
@@ -42,7 +41,6 @@ tomate natural triturado
 queso rallado
 
 <h3>Preparación</h3>
-
 Corta las berenjenas longitudinalmente. Lavarlas, salarlas y dejarlas reposar durante 30 minutos. Despues lavarlas y dejarlas escurrir.
 
 Pasarlas por la sartén durante 2 minutos por cada lado y reservarlas.

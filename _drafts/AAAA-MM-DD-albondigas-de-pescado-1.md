@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. pescado congelado sin piel ni espinas
 
 2 huevos
@@ -35,6 +34,5 @@ Para 6 personas.
 1 pastilla avecrem pescado
 
 <h3>Preparación</h3>
-
 Desmigar el pescado en crudo y mezclar con los huevos batidos, el pan, los ajos picados y la pastilla de avecrem pescado desmenuzada. Formar pequeñas albóndigas, enharinar (mezclar harina con pan rallado) y freir.
 

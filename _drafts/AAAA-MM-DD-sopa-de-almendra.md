@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 Medio litro de leche
 
 Un paquete de pasta de almendra, que se vende en todos los mercados
@@ -41,7 +40,6 @@ canela en polvo
 azúcar
 
 <h3>Preparación</h3>
-
 Se cuece la leche con la cáscara de limón y la barrita de canela.
 
 Cuando ha cocido un rato se disuelve la pasta de almendra.

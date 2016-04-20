@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 salchichas Frankfurt medianas.
 
 2 cebollas.
@@ -38,7 +37,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Pelamos y cortamos en juliana (en tiras finas) la cebolla.
 
 En una cazuela pequeña y tapada sofreímos a fuego lento la cebolla con 4 cucharadas de aceite de oliva y una pizca de sal.

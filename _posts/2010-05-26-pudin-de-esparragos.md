@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 lata mediana de puntas de espárragos
 
 1 bote de leche evaporada
@@ -19,7 +18,6 @@ Para 6 personas.
 1 pastilla de caldo de carne
 
 <h3>Preparación</h3>
-
 Triturar todo con la batidora y rellenar con ello un molde alargado, previamente untado con mantequilla y pan rallado.
 
 Meter en el horno no muy fuerte al baño maría durante unos 45 minutos.

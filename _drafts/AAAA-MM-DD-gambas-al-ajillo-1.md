@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 48 gambas
 
 10 cucharadas de aceite
@@ -34,6 +33,5 @@ Para 4 personas.
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Primero se quita la cabeza y el caparazón de las gambas. Poner el aceite en una cazuela de barro con los ajos picados y la guindilla, cuando comiencen a dorarse los ajos, salpimentamos las gambas y cuando el aceite esté muy caliente echaremos las gambas. Cuando llevan poco más de un minuto se sirven
 

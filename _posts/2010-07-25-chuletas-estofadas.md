@@ -11,7 +11,6 @@ Para 6 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 6 chuletas de cerdo medianas
 
 3 cdas. de aceite de oliva
@@ -35,7 +34,6 @@ Para 6 personas.
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Salpimentar las chuletas y dorarlas por ambos lados en una sarten amplia.
 
 Agregar la cebolla y rehogarlas durante unos 5 min. luego añadir el tomate y cocer unos 10 min.

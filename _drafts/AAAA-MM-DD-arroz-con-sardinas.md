@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 gr. de arroz
 
 350 gr. de filetes de sardinas sin la espina central
@@ -43,7 +42,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Poner 3 cucharadas de aceite en una cazuela redonda y plana y dorar en ella la cabeza de ajos. A continuación, se añaden las sardinas y se rocían con el brandy. Después de remover durante unos minutos se incorpora el perejil triturado, los piñones y una pizca de sal y pimienta. Se remueve durante 2 minutos más y se retira del fuego.
 
 En otra cazuela se hierve el arroz en abundante agua salada, evitando que se pase.

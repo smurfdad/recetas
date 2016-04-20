@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia
 
 800 gr. de fresas
@@ -34,7 +33,6 @@ categories:
 Aceite
 
 <h3>Preparación</h3>
-
 Limpiar las fresas y picar. Echar el azúcar y mezclar. Disolver la gelatina en 4 cucharadas de agua hirviendo y mezclar con las fresas, el queso y los piñones.
 
 Engrasar un molde y verter la mezcla anterior. Dejar enfriar 3 horas. Desmoldar y servir.

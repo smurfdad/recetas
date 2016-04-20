@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 k de dátiles
 
 2 yogures naturales
@@ -36,6 +35,5 @@ el zumo de 1 limón
 canela molida
 
 <h3>Preparación</h3>
-
 Deshuesar los dátiles y triturarlos. En la batidora batir los yogures con el zumo de limón y los dátiles triturados. Repartir en 4 copas. Montar la nata con el azúcar y adornar las copas. Espolvorear con la canela y servir enseguida.
 

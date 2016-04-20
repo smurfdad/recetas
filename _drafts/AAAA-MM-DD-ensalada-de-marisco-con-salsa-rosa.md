@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 escarola.
 
 2 endibias.
@@ -52,7 +51,6 @@ Sal.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Pelamos las naranjas, las abrimos en gajos, que también pelamos, y los reservamos.
 
 Seguidamente preparamos la salsa rosa mezclando bien todos sus ingredientes. Cocemos el marisco en agua con sal y procedemos a montar el plato.

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 docena de cangrejos
 
 mantequilla
@@ -30,7 +29,6 @@ tomate
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Se fríen una docena de cangrejos de río con mantequilla, después se rehogan y se les echa una copa de coñac o vino blanco, se les cubre y se tienen 3 ó 4 minutos cociendo. Se separan las cáscaras y lo demás se pone en almidez; se machaca.
 
 Se tienen por separado en una cacerola mantequilla, se rehoga un poco de cebolla y una zanahoria con un atado de perejil y tomillo. Cuando todo esté bien dorado se le añade tomate y el jugo que han dejado los cangrejos.

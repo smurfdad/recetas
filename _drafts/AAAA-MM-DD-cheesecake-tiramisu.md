@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 3 tazas de café expreso frío
 
 1/4 taza licor de café
@@ -44,7 +43,6 @@ Para 8 personas.
 5 hojas de colapez (gelatina)
 
 <h3>Preparación</h3>
-
 Mezcle el café con el licor y luego bata las yemas hasta que estén espesas. Agregue queso, revuelva, y finalmente incorpore la crema semibatida.
 
 Reserve una taza de la mezcla de café y licor, ponga las cinco hojas de colapez. Cuando estén hidratadas, disuélvalas a baño María y agregue a la mezcla de nata con queso.

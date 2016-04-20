@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Un lomo abierto de salmón, con piel
 
 Sal gorda
@@ -37,6 +36,5 @@ Cebollino
 Eneldo
 
 <h3>Preparación</h3>
-
 Se prepara un bol con azúcar y sal gorda a partes iguales. Se añade el eneldo, la pimienta y el cebollino (al gusto). Se mezcla todo y se cubre el lomo del salmón. Se cubre con un plástico y se mete en la nevera, colocando peso encima (ej. un par de briks de leche). Está listo en 2-4 horas para una pieza pequeña. uno lomo mediano tarda unas 8 h. Un lomo grande hasta 12-24 horas. Cuando esté listo se pasa por el grifo y se seca bien. Se puede raspar la capa superior, que queda un poco seca y salada. Cortar muy finito con un cuchillo bien afilado
 

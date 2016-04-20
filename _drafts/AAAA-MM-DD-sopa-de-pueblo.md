@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 4 puerros
 
 1 repollo pequeño
@@ -35,7 +34,6 @@ perejil
 sal
 
 <h3>Preparación</h3>
-
 Se prepara el caldo con los menudillos y las alas de un pollo.
 
 En una olla se pone el aceite al fuego y se fríen los puerros, cortados en rodajas y también el repollo. Luego se vierte encima el caldo bien caliente y se deja cocer durante 15 minutos. Se echan entonces los fideos y el perejil y se deja cocer todo durante otros 6 minutos

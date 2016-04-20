@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 naranja.
 
 Pollo.
@@ -42,10 +41,8 @@ Sal.
 Agua.
 
 <h3>Preparación</h3>
-
 Se echa en una olla aceite con cebolla, ajo, pimiento verde y un par de guindillas. Cuando esto se ha dorado, se echa el pollo troceado al gusto y cubierto con unas rodajas de naranja, cuando se ha frito un poco se echa agua hasta cubrir el pollo y sal. Se pone a fuego lento y no se apaga hasta que el agua se haya sumido del todo para que así se refría un poco mas. Luego se sirve como se guste.
 
 <h3>Observaciones</h3>
-
 Si se deja enfriar es un plato frío riquísimo para el verano.
 

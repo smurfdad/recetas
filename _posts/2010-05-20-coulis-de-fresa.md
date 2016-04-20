@@ -8,7 +8,6 @@ categories:
 - Frutas
 ---
 <h3>Ingredientes</h3>
-
 1/4 de kg. de fresas maduras
 
 1/2 vaso de agua
@@ -16,7 +15,6 @@ categories:
 1 vaso de azúcar
 
 <h3>Preparación</h3>
-
 Cocer el agua con el azúcar hasta que se haga un almíbar a punto de hebra fuerte.
 
 Lavar las fresas después de quitarles el rabo.

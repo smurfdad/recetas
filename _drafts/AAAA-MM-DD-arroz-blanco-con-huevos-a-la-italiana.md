@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 2 cucharadas de perejil
@@ -44,7 +43,6 @@ sal al gusto
 1 cucharada de pimiento rojo
 
 <h3>Preparación</h3>
-
 En una sartén con aceite, colocar los tomates pelados y partidos en rebanadas y cocinarlos a fuego lento hasta que se conviertan en una salsa, agregar el pimiento picado en tiras finas y la cebolla picada fino, el ajo y cocinar por 2 minutos más. Aparte batir los huevos juntos y agregarlos a la salsa, rebullendo constantemente. Luego agregar el perejil finamente picado, mezclarlo y apagar el fuego.
 
 Modo de servirlo: en una bandeja colocar una corona de arroz blanco y verter sobre el, los huevos. Por último agregar el queso parmesano y servir inmediatamente

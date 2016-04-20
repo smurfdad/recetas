@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 200 g de chocolate para postres
 
 200 ml (1 vaso) de nata para montar
@@ -40,7 +39,6 @@ Cobertura:
 50 g de mantequilla
 
 <h3>Preparación</h3>
-
 Calentar la nata, añadir el chocolate en trocitos y mezclarlo hasta que esté fundido y la preparación sea homogénea. Dejarla en la nevera y cuando esté muy fría, montarla hasta obtener una trufa esponjosa, reservarla.
 
 Preparar un almíbar clarito con el azúcar y 100 ml de agua.

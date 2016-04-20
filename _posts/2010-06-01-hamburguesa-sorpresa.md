@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 300grs. de carne de ternera picada
 
 250grs. de queso
@@ -23,7 +22,6 @@ salsa de tomate, aceite y sal
 perejil y calabacin
 
 <h3>Preparación</h3>
-
 Picamos la cebolla, el ajo y el perejil. Hacemos las hamburguesas mezclando
 
 estos ingredientes con la carne picada y el huevo crudo, y procuramos que

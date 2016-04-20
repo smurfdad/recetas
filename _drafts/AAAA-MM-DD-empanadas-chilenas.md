@@ -22,7 +22,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 (Para 20 unidades)
 
 Pino:
@@ -60,7 +59,6 @@ La masa:
 1 cucharadita de ají de color preparado en una cucharada de aceite
 
 <h3>Preparación</h3>
-
 Pique la carne en cubitos de 1 cm. No la muela, porque el pino pierde su atractivo. Fría la carne en manteca de cerdo sólo hasta que se cueza muy ligeramente, para que pueda aportar su jugo cuando complete la cocción dentro del horno. Alíñela con sal, comino recién molido en el mortero de piedra y salsa de ají. Corte la cebolla en cuadros gruesos, fríala en manteca sólo hasta que se ponga ligeramente transparente, sin recocerla porque perderá su jugo. Alíñela con sal, ají de color y pimienta antes de retirar del fuego. Mezcle la carne y la cebolla, deje enfriar y lleve esta preparación al refrigerador.
 
 Forme un cono de harina en la mesa o tabla de amasar. Ahueque su interior haciendo un cráter donde irá echando, alternadamente, salmuera, manteca y color. Con una cuchara revuelva el interior del cráter para mezclar los ingredientes. En esta primera etapa no meta la mano, porque se quemará. Una vez lista la mezcla, inicie el amasado con ambas manos hasta homogeneizarla totalmente. Forme una pelota y abríguela con paños de cocina para evitar que se enfríe, porque así es más difícil manejarla.

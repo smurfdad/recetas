@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 cucharada de levadura
 
 1 1/2 taza de agua tibia
@@ -54,7 +53,6 @@ Para 6 personas.
 1 cucharada de agua.
 
 <h3>Preparación</h3>
-
 Coloque la levadura con el agua y 1/2 cucharada de azúcar, deje reposar hasta que fermente.
 
 Ponga la harina sobre una mesa, haga un hueco en el centro y vierta mientras amasa la levadura diluida, leche, manteca, mantequilla, sal, el resto del azúcar y los huevos. Amase hasta que no queden grumos. Coloque en un envase, tape con un paño, deje reposar, repita esta operación dos veces más.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de costillas de cordero
 
 1 kilo de alcachofas
@@ -34,7 +33,6 @@ Para 4 personas.
 1 tazón de caldo de cocido
 
 <h3>Preparación</h3>
-
 Se rebozan las costillas dejándolas en una cazuela.
 
 Se limpian los espárragos y se cuecen con un poco de sal.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 40 gr. de mantequilla.
 
 40 gr. de harina.
@@ -36,10 +35,8 @@ Sal.
 Pimienta(opcional).
 
 <h3>Preparación</h3>
-
 Se derrite la mantequilla en una sartén antiadherente. Se echa la harina sobre la mantequilla derretida y se tuesta durante 2 minutos. Se añade la leche y se mueve sin parar hasta que empieza a hervir y espese; si quedan grumos, se pasa por la batidora. Se añade nuez moscada rayada en el momento y un pellizco da sal.
 
 <h3>Observaciones</h3>
-
 Se puede variar la cantidad de leche para hacer la bechamel mas espesa o mas liquida.
 

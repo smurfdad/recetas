@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 bote de 1 Kg. de piña en almíbar.
 
 1 bote pequeño de leche condensada.
@@ -37,7 +36,6 @@ gelatina (colas de pescado).
 nata.
 
 <h3>Preparación</h3>
-
 Se unta un molde con mantequilla. Después se coge un recipiente que aguante el fuego, se vierte todo el almíbar de la piña, dejando las rodajas separadas en un plato, cortamos la gelatina
 
 sobre el almíbar y ponemos el recipiente al fuego (hay que estar removiendo). Abrimos la leche condensada y se vierte toda en una batidora.

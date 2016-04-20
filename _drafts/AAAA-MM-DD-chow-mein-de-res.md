@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 kilo de carne de res, bistec
 
 1 cucharada de salsa soya,
@@ -44,7 +43,6 @@ categories:
 2 cucharadas de fideo chino seco (o una sopa maruchan, sabor oriental)
 
 <h3>Preparación</h3>
-
 Rebana la carne en tiritas delgadas. Mezcla la sal, el azucar y la salsa soya y revuelve bien, después añade la carne y marinala por lo menos una hora, mas tiempo si se quiere mas sabor.
 
 2. Lava y rebana los champiñones, incluido el palito. Corta la jicama en cuadritos, del tamaño de un bocado; corta los cebollines en rabanaditas; remoja, enjuaga y cuela los retoños.

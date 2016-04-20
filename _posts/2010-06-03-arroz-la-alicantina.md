@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr arroz
 
 3 ó 4 pimientos verdes
@@ -25,7 +24,6 @@ Para 4 personas.
 3 pimientos morrones
 
 <h3>Preparación</h3>
-
 Picar fino el pimiento verde, el ajo y trocear las alcachofas, rehogándolo todo con un poco de aceite.
 
 Freír los pimientos rojos triturar y agregar.

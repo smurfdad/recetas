@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 200 g de boliches de palo
 
 200 g de boliches sin palo
@@ -53,6 +52,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Poner en remojo 24 horas lo boliches, siempre por separado. En cuatro peroles colocar los boliches y, en cada recipiente, una cabeza de ajos, una zanahoria, un trozo de puerro y un buen chorro de aceite de oliva. Cocer a fuego lento hasta que tengan una textura mantecosa. Sazonar con un sofrito de cebolla y perejil picado y sal. Decorar con una loncha de jamón y una rebanada de pan tostado.
 

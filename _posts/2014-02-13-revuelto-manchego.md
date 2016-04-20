@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 grs de cebolla
 
 500 grs de tomates
@@ -30,7 +29,6 @@ Sal
 2 dl de aceite de oliva
 
 <h3>Preparación</h3>
-
 Picamos en cuadraditos la cebolla, los pimientos verdes y el calabacín y los cocinamos a fuego suave.
 
 Abrimos los tomates, los quitamos el jugo interior y los añadimos al pisto Por otra parte troceamos también en cuadraditos las patatas y las freímos.

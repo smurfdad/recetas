@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 pescadilla, 4 (1/2 kg. pieza)
 
 almejas, 2 docenas
@@ -42,6 +41,5 @@ harina, 1/2 cucharada
 pimienta, una pizca
 
 <h3>Preparación</h3>
-
 En una cazuela de barro se pone el aceite, la guindilla, la cebolla, el ajo, el jamón y la pimienta. Se rehoga, se le añade la harina y se mezcla bien. Seguidamente se le añade el vino y un chorrito de agua. Se colocan los filetes de pescadilla y las almejas y se deja hervir unos minutos tapando la cazuela. Se sazona al gusto y se deja reposar diez minutos.
 

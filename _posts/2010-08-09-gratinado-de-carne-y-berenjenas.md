@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gr. de carne picada
 
 300 gr. de berenjenas
@@ -32,7 +31,6 @@ sal
 20 gr. de aceite.
 
 <h3>Preparación</h3>
-
 Cortar la berenjena en rodajas finas y sazonar con sal. Rehogar a fuego muy suave en una sarten untada con un poco de aceite. Retirar de la sarten y conservar.
 
 Mezclar la carne picada con la cebolla, el ajo picado y la sal. Rehogar en una sarten con otro poco de aceite, hasta que esté cocida.

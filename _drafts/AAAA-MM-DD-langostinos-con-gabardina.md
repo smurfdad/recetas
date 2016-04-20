@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. de langostinos
 
 2 Huevos
@@ -38,6 +37,5 @@ Para 4 personas.
 Aceite suficiente para freír
 
 <h3>Preparación</h3>
-
 Se pelan los langostinos crudos, se les saca la vena y la cabeza cuidando de dejar la colita. Se maceran con sal, pimienta y jugo de limón, dejar por dos horas en la nevera. Luego batir los huevos como para tortilla y pasar los langostinos por ellos, por pan rallado y freír en aceite bien caliente. Estos langostinos se acompañan con salsa rosada, salsa tártara o salsa aurora.
 

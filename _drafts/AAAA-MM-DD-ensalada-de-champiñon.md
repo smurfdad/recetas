@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 500 g. de champiñón
 
 limón
@@ -33,6 +32,5 @@ aceite
 vinagre (o salsa mayonesa o vinagreta)
 
 <h3>Preparación</h3>
-
 Se limpian los champiñones, se cortan, se ponen a hervir durante unos minutos en agua, con sal y el zumo de un limón. Cuando estén tiernos, se escurren, se pasan a una fuente y se aliñan con aceite y vinagre o con salsa mayonesa o vinagreta.
 

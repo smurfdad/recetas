@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 600 g de calabaza
 
 1 cebolla.
@@ -38,6 +37,5 @@ Para 4 personas.
 Aceite, sal, agua y leche.
 
 <h3>Preparación</h3>
-
 En una cazuela con un poco de aceite, poner la cebolla, las zanahorias, la parte blanca del puerro y el ajo, todo muy picado y a fuego lento. Mientras rehogamos las verduras, pelamos y picamos la calabaza y las patatas, a la calabaza también le quitamos las pepitas. Cuando las verduras estén doradas, añadimos las patatas y la calabaza, ambas troceadas y rehogamos todo junto. Agregamos agua hirviendo hasta cubrir y dejamos cocer unos 20 minutos. Escurrimos todo y lo pasamos por pasapurés o con la batidora, lo trituramos muy fino, añadimos un poco de leche templada para lograr la consistencia deseada.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de pollo
 
 1/4 de jamón
@@ -45,7 +44,6 @@ sal
 4 huevos
 
 <h3>Preparación</h3>
-
 Se pone a cocer el pollo troceado con el jamón. Una vez cocido se saca de la olla y se reserva el caldo.
 
 Aparte, se pica la carne del cerdo, el tocino, hígado, carne de pollo que se ha cocido y el jamón.

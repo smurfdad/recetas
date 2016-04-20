@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de fresas del mismo tamaño más o menos
 
 4 cucharadas soperas de mermelada de fresas
@@ -28,7 +27,6 @@ Para 4 personas.
 60 cl. de nata doble
 
 <h3>Preparación</h3>
-
 Se enciende el horno para que se vaya calentando. Se pone el chocolate en trozos en un cazo al baño maría. Se le añaden dos cucharadas de agua y se remueve, hasta que se funda.
 
 Una vez fundido el chocolate, se le añade el azúcar y se disuelve bien. A continuación, se retira del fuego y se le agregan 125 gr. de mantequilla en trozos, las yemas de huevo, de una en una, y la harina tamizada. Se trabaja bien esta mezcla hasta que quede homogénea. Se baten las claras a punto de nieve bien firme y se añaden con delicadeza a la mezcla anterior.

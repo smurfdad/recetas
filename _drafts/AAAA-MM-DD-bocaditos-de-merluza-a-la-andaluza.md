@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 16 escalopes de lomo de merluza de 25 gr. aproximadamente
 
 2 huevos
@@ -54,6 +53,5 @@ Ralladura de 1/4 de piel de naranja
 1/4 cucharadita de café de jengibre en polvo
 
 <h3>Preparación</h3>
-
 Triturar y hacer una farsa con todos los elementos del apartado relleno. Con dicha farsa untar una de las caras de los escalopes de merluza y disponer uno encima de otro, de dos en dos y con el relleno en medio (tipo sándwich). Batir los huevos, pasar el pescado por harina y seguido por el huevo. Freír en abundante aceite, una vez dorados, escurrir bien y con ayuda de un paño o servilleta, secar el aceite que les pueda quedar. Picar el tomate a mano en pequeños cuadraditos y saltearlo en una sartén con aceite muy caliente. Añadir la ralladura de limón, naranja y el jengibre. Servir con la salsa encima de la merluza y con guarnición de arroz al azafrán.
 

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 kg. de recortes de carne
 
 Un hueso pequeño de codillo
@@ -42,6 +41,5 @@ un diente de ajo, clavo, laurel y perejil
 sal
 
 <h3>Preparación</h3>
-
 En un cazo se pone aceite a calentar, poniendo la cebolla picada a dorar, dando vueltas con una cuchara de madera. Se añaden los recortes de carne, se rehoga bien y luego se agregan las zanahorias picadas. Se dan unas vueltas y se añade la harina. SE revuelve con la cuchara de madera y se deja freír durante unos 5 minutos, añadiendo entonces el agua fría, las hierbas y especies, así como el hueso. Se deja cocer a fuego lento unos 30 minutos. Pasado ese tiempo, se saca el hueso y se pasa la salsa por el chino. Se vuelve a poner en un cazo my se deja cocer, sin dejar de mover hasta obtener el espesor deseado.
 

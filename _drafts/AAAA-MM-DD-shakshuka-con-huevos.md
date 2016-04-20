@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 5 huevos
 
 1 cebolla rallada
@@ -43,11 +42,9 @@ Para 6 personas.
 Sal, pimienta y Cayena
 
 <h3>Preparación</h3>
-
 Freír la cebolla en aceite muy caliente hasta que esté dorada. Añadir el tomate y el agua, dejar hervir 5 minutos. Añadir el arroz lavado, dejar cocer. Echar el perejil, el pimiento verde, sal, pimienta y Cayena. Romper los huevos (cuidadosamente ) de uno en uno y echarlos encima del tomate de modo que estén separados. Dejar cocer sin mover la mezcla hasta que estén los huevos duros. Servir caliente con patatas fritas.
 
 <h3>Observaciones</h3>
-
 Se puede poner los huevos pasados por agua, sin cáscara.
 
 Receta egipcia

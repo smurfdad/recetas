@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gr. de pan asentado (de 2 días)
 
 200 gr. de panceta adobada, c en pequeñas tiritas
@@ -45,6 +44,5 @@ anís en grano
 Uvas de temporada
 
 <h3>Preparación</h3>
-
 Cortadas las migas de pan en cuadraditos, se rocían con un cazo de agua salada y los granos de anís y se cubren toda la noche con un paño húmedo. Se fríen los ajos, la panceta, los chorizos y el pimentón. A continuación se echa el pan remojado y el orégano y se sofríe durante 20 a 30 minutos hasta que el pan esté frito y suelto. Se sirve colocando encima de cada plato uvas de temporada.
 

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 rebanadas de pan de molde sin corteza.
 
 50 gramos de salmón ahumado.
@@ -37,7 +36,6 @@ Una pizca de sal.
 1 rodaja de limón.
 
 <h3>Preparación</h3>
-
 Batimos la nata con una pizca de sal y añadimos 1 cucharada de agua helada y batimos hasta que quede espumosa.
 
 Untamos las rebanadas de pan con la crema anterior.

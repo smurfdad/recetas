@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de patatas(6 patatas grandes)
 
 1/4 de cebolla
@@ -23,7 +22,6 @@ pimentón (si gusta, picante)
 aceite, sal
 
 <h3>Preparación</h3>
-
 Pelar las patatas y cascarlas en trozos regulares.
 
 Picar la cebolla en trozos menudos y rehogarla en una cazuela.

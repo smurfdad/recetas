@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 G. fideos fusile o cualquier otra clase de fideos fideos que mas te guste, o cualquiera que te guste.
 
 500 cc. de crema de leche.
@@ -38,7 +37,6 @@ pimenta negra a gusto recien molida.
 2 hojitas de albahaca
 
 <h3>Preparación</h3>
-
 Poner una olla grande con agua en el fuego.
 
 Rehogar en la manteca las cebollas de verdeo hasta que tomen una textura blanda (calcula cinco minutos ojo que no se te pegue!!! revolve seguido con una cuchara de madera), luego cortar la panceta en cuadraditos pequeños y echarlo a las cebollas, dejarlo mas o menos dos minutos, a esta preparación agregarle la totalidad de la crema, dejarlo en el fuego hasta el primer hervor, preferentemente usa un fuego medio moderado. de ese modo ya tendras la salsa para tus fideos.

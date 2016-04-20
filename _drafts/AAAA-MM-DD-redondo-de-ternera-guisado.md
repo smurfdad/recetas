@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 un redondo de ternera
 
 una cebolla
@@ -36,7 +35,6 @@ perejil
 Harina, sal y aceite
 
 <h3>Preparación</h3>
-
 Se frota el redondo con sal y se reboza en harina
 
 Se pone aceite en la olla y, cuando está caliente, se pone la carne a dorar, dándole la vuelta. &iexcl;Ojo con que no se queme!.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Para los panqueques:
 
 60g de manteca blanda
@@ -50,7 +49,6 @@ Para gratinar:
 150g de queso rallado
 
 <h3>Preparación</h3>
-
 Para los panqueques: derretir la manteca en un sartén, colocarla en un bol y añadir huevos, sal, harina, mezclar con batidor, agregar leche lentamente hasta lograr una crema y dejar descansar 40 minutos en la heladera.
 
 Cocer los panqueques en sartén enmantecada hasta lograr 8 de ellos y reservar tapados.

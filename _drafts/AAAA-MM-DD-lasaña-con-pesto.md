@@ -21,7 +21,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 440g Pasta al huevo
 
 80 gr. Mantequilla fundida
@@ -31,7 +30,6 @@ categories:
 Para el
 
 <h3>Preparación</h3>
-
 Poner en el mortero el diente de ajo, la albahaca, una pizca de sal y los dos tipos de queso rallado.
 
 Machacar bien hasta obtener un compuesto homogéneo, diluirlo con aceite.

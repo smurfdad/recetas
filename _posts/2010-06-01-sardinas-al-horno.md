@@ -7,7 +7,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 20 sardinas frescas
 
 1 pimiento verde
@@ -23,7 +22,6 @@ aceite
 sal y perejil
 
 <h3>Preparación</h3>
-
 Limpiamos las sardinas, las abrimos y les añadimos sal para a continuacion
 
 colocarlas sobre una placa de horno. Salteamos la cebolleta y el pimiento

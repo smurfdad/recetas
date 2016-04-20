@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 de acelgas
 
 100 gr. de jamón
@@ -31,7 +30,6 @@ aceite para freír
 harina para rebozar
 
 <h3>Preparación</h3>
-
 Se cuecen las acelgas por separado (las pencas tardan más), en agua hirviendo con sal, en recipientes que no sean ni de hierro ni de aluminio. Cuando están tiernas se retiran de la placa y se escurren.
 
 En un cazo se calienta la mantequilla y se añade la harina dando unas vueltas. La leche caliente se incorpora en dos o tres veces, sin dejar de revolver, para que cueza despacio unos minutos. Se añade el jamón picadito, se sazona y se deja enfriar.

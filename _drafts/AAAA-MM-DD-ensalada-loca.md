@@ -24,7 +24,6 @@ Para 8 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lechuga pequeña cortada en juliana
 
 2 remolachas
@@ -60,6 +59,5 @@ vinagre
 un poco de mostaza
 
 <h3>Preparación</h3>
-
 se pica todo menudito,aparte se prepara la salsa con el yogur, el aceite limon ,mostaza y un poco de vinagre se bate bien y se le echa sobre la ensalada.
 

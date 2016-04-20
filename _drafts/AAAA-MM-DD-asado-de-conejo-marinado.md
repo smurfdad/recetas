@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo.
 
 Agua o caldo.
@@ -53,7 +52,6 @@ Sal.
 5 granos de pimienta.
 
 <h3>Preparación</h3>
-
 Troceamos el conejo y lo salpimentamos. Picamos la cebolla y la zanahoria y las juntamos en un recipiente con el resto de los ingredientes de la marinada. Ponemos el conejo en dicha marinada y lo dejamos en el frigorífico unas doce horas. Pasado este tiempo, ponemos el conejo y la marinada en una fuente refractaria y la metemos en el horno, a 180 grados, durante una hora y media. Mientras se va haciendo, vigilamos para añadirle caldo o agua si hace falta. Sacamos la fuente del horno, retiramos los trozos de conejo, pasamos la salsa por el pasapuré y la ligamos, si es necesario, con Roux. Roux es harina y mantequilla, en cantidades iguales, ligadas.
 
 Por ultimo, freímos en aceite un puerro cortado en tiras y lo ponemos como adorno.

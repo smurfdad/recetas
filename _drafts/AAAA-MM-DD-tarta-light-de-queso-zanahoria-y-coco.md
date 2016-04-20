@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 500 g de galletas integrales con muesli
 
 1 Tarrina de margarina light
@@ -30,7 +29,6 @@ Para 8 personas.
 2 Tarrinas de queso
 
 <h3>Preparación</h3>
-
 Se pelan las zanahorias y se parten en trozos medianos. Se ponen a hervir con agua que las cubra durante 35 min. o hasta que estén muy tiernas.
 
 Una vez cocidas, se dejan enfriar y se pasan por la batidora, junto con la fructosa, la miel, el queso y la mitad del coco rallado. Luego se mezcla con las pasas (guardando unas pocas para la decoración final).

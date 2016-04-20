@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 5 yemas de huevo
 
 5 claras de huevo
@@ -37,7 +36,6 @@ bizcochos o base de tarta.
 5 cucharadas de azúcar
 
 <h3>Preparación</h3>
-
 Se baten las yemas con el azúcar y el queso hasta que quede la mezcla cremosa.
 
 A continuación se le añaden poco a poco las claras a punto de nieve. Se empapan los bizcochos en el carajillo

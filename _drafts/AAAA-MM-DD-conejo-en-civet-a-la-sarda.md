@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 conejo de 2 kg., con su hígado
 
 1 cebolla grande
@@ -41,7 +40,6 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Trocear el conejo y picar muy fino su hígado Picar cebolla, ajos y por separado las alcaparras. En un morterillo, machacaremos y mezclaremos el hígado con la cebolla, los ajos y la mitad de las alcaparras.
 
 Un una cocotte grande, calentaremos el aceite y pondremos a dorar los trozos de conejo. Cuando todo esté bien coloreado, lo pondremos en espera en un plato. Echar el contenido del morterillo en la cocotte y dejaremos cocer a fuego suave unos 10 minutos.

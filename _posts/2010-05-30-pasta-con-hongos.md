@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 350 gr. de pasta fresca
 
 250 gr. de hongos frescos o dos botes de hongos desecados
@@ -36,7 +35,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Cortar la panceta en dados y saltearla un poco y retirarla.
 
 Freír lentamente la cebolla y el diente de ajo picados, y antes de que tomen color, saltear los hongos (si son desecados hay que ponerlos previamente a remojo) y sazonarlos con sal y pimienta.

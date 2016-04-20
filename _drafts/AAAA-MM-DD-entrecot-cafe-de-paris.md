@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 Ud. entrecot de buey
 
 2 cuchara sopera tomate concentrado
@@ -58,6 +57,5 @@ salvia
 albahaca
 
 <h3>Preparación</h3>
-
 Se salpimenta la carne. Se derrite la mantequilla y se fríe en ella la carne a gusto de cada cual. Se retira la carne de la sartén, se incorpora el oporto y se flambea. A continuación se añade la maicena y todas las hierbas juntas. Se incorpora el caldo con las anchoas trituradas y el concentrado de tomate. Se hierve unos minutos, se le añade la nata, se comprueba la sazón y se riega la carne con la salsa. Se acompaña con patatas gratinadas, zanahorias y judías verdes, salteadas con mantequilla.
 

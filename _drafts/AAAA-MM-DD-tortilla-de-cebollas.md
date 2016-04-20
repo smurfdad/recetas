@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 6 huevos
 
 800 gr. de cebollas
@@ -36,6 +35,5 @@ perejil picado
 sal
 
 <h3>Preparación</h3>
-
 Pelar, lavar, cortar muy finas las cebollas. Untar con aceite o mantequilla una bandeja de vidrio, después frotarla con ajo. Poner en la bandeja las cebollas y cocer durante 10 minutos a fuego moderado. Batir en un cuenco los huevos, con el perejil picado y la sal y añadirlo a las cebollas. Cocer durante 4 minutos más, mezclando a mitad de cocción, dejar reposar antes de servir.
 

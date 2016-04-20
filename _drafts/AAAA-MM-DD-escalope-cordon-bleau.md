@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de ternera
 
 4 lonchas de queso(tipo fundido)
@@ -36,7 +35,6 @@ huevo
 pan rallado
 
 <h3>Preparación</h3>
-
 Poner cuatro filetes extendidos y sazonarlos con sal.
 
 Encima poner la loncha de jamón y la loncha de queso y tapar con el otro filete.

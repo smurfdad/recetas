@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 El jugo de 6 naranjas
 
 130g de azúcar
@@ -34,7 +33,6 @@ Pimiente negra de molinillo
 120g de roux
 
 <h3>Preparación</h3>
-
 Llevar a ebullición el jugo de naranjas con los clavos de olor.
 
 En otro recipiente hacer un roux con la manteca y la harina(ver masas básicas en panadería y repostería), y agregar el jugo poco a poco revolviendo constantemente con cuchara de madera, hasta que vuelva a hervir apagar el fuego retirar y agregar pimienta negra de molinillo y si gusta el licor.

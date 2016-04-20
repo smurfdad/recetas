@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 Gr. de judías secas
 
 2 Huevos
@@ -37,6 +36,5 @@ Perejil
 1 Cucharada de mantequilla
 
 <h3>Preparación</h3>
-
 Dejar las judías en remojo durante 12 horas. Pasado este tiempo, cambiarles el agua y poner a hervir a fuego lento durante 30 minutos. Añadir una pizca de sal y, si es necesario, un poco más de agua. Dejar hervir 30 minutos más y escurrir las judías. Guardar el caldo. Picar el perejil y freírlo junto a la mantequilla derretida durante 1 minuto. Añadir el pimiento rojo y remover bien. Echar 1 vaso de agua y 1 vaso del caldo del que habíamos guardado y dejar hervir un par de minutos. Añadir las judías y el ajoaceite. Coger los 2 huevos, separar las yemas, mezclarlas con una cucharada de agua fresca y añadirlas a la olla.
 

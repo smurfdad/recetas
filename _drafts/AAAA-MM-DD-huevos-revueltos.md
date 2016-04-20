@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos
 
 250 ml de salsa de tomate
@@ -36,7 +35,6 @@ Para 4 personas.
 Mantequilla, aceite y un poco de sal
 
 <h3>Preparación</h3>
-
 Cortamos las rebanadas de pan en triángulos, se fríen en aceite bien caliente, se escurren y se reservan al calor. Se baten los huevos en un cuenco, se añade la nata y la salsa de tomate, se revuelven y se sazonan. Se funde un poco de mantequilla en una sartén antiadherente, se echan los huevos y se cuajan a fuego suave, removiendo y separándolos de las paredes, hasta que adquieran una consistencia cremosa.
 
 Se añaden las aceitunas deshuesadas, que se revuelven; se pasan a una fuente de servir, se adornan con los panes fritos y se sirven inmediatamente.

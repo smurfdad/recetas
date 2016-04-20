@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de lubina
 
 100 gr. almejas
@@ -43,6 +42,5 @@ sal, pimienta
 1 vaso de crema de leche
 
 <h3>Preparación</h3>
-
 Se cuecen al horno, por espacio de 12 minutos y tapándolos con papel de aluminio, la lubina, el jamón, las almejas, las gambas, junto con la sidra y la crema de leche. El fondo que queda, una vez cocido el pescado, se reduce y se utiliza para cubrirlo. La manzana se corta en rodajas y se fríe rebozada en huevo y harina, utilizándola como guarnición.
 

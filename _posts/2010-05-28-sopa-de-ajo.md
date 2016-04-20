@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 8 ajos
 
 1 1/2 l. agua
@@ -21,7 +20,6 @@ Para 6 personas.
 1/4 de barra grande de pan duro
 
 <h3>Preparación</h3>
-
 Freír un ajo en un poco de aceite, en una cazuela y retirar.
 
 Añadir el chorizo, darle unas vueltas y ponerle el agua, caldo de carne y los ajos pelados.

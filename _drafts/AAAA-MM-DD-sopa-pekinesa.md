@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 ---
 <h3>Ingredientes</h3>
-
 6 cucharones de caldo
 
 15g. Setas chinas, deshidratados
@@ -51,6 +50,5 @@ categories:
 Sal y pimienta.
 
 <h3>Preparación</h3>
-
 Hidratar las setas, pelar el nabo y cortarlo en rodajitas finas. En una cacerola, calentar el aceite y grasa, agregar las cebolletas, los nabos, setas troceadas y brotes de bambu. Sazonar con jengibre y sal y saltear por unos minutos, aqadir la salsa de pimiento, azzcar y tomate, mezclar todo bien. En el caldo diluiremos la maicena y aqadiremos a la cazuela, dejar hervir por un minuto. En el momento de servir espolvorear con pimienta reciin molida.
 

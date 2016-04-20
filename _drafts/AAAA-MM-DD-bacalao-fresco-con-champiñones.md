@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 trozos de bacalao de 200 gramos.
 
 1 patata nueva.
@@ -43,7 +42,6 @@ Perejil picado.
 Sal y azafrán.
 
 <h3>Preparación</h3>
-
 En una cazuela ancha, con aceite, ponemos a rehogar la cebolleta y el ajo bien picaditos, con unas hebras de azafrán. Cuando empiece a dorarse, añadimos los champiñones fileteados y la patata cortada en rodajas finas, rehogándolo todo.
 
 Añadimos el caldo y lo dejamos cocer por espacio de 15-20 minutos. No importa que se rompan las patatas porque así se espesa la salsa y no será necesario utiliza la harina.

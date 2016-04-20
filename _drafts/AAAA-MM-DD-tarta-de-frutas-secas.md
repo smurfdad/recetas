@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Base:
 
 150 gramos de harina.
@@ -60,7 +59,6 @@ Nuez molida o almendra molida.
 Molde para tarta.
 
 <h3>Preparación</h3>
-
 En el ron o brandy remojar ciruelas pasas y las pasitas durante 3 horas.
 
 En una mesa de trabajo poner harina en forma de volcán y en el centro colocar mantequilla, azúcar, huevo, leche y sal, con un tenedor integrar los ingredientes, al final amasar con los dedos lo menos posible, que repose durante 15 minutos tapado con una servilleta de cocina.

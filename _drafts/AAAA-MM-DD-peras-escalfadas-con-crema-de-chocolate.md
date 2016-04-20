@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 peras de consistencia firme
 
 100 gramos de azúcar
@@ -44,7 +43,6 @@ CREMA DE CHOCOLATE
 2 cucharadas de licor de naranja
 
 <h3>Preparación</h3>
-
 Pele cuidadosamente las peras, dejando el tallo intacto.
 
 Ponga el azúcar, el vino, la canela, la ralladura y los clavos en una cazuela donde quepan las 6 peras.

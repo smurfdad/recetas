@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 langostinos con cabeza
 
 2 cebollas
@@ -45,7 +44,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Pelar los langostinos y reservar las cáscaras y las cabezas.
 
 Retirar la vena de los langostinos. Poner las cabezas y las cáscaras en una

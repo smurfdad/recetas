@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gramos de higos secos
 
 600 gramos de almendras tostadas
@@ -35,7 +34,6 @@ Para 4 personas.
 matalahuva
 
 <h3>Preparación</h3>
-
 Los higos, las almendras y la matalahuva se machacan en un mortero por separado, procurando que queden bastante desechas. Se pone todo en un recipiente. Se le agrega el moscatel y el anís. Se remueve hasta que quede una masa homogénea y compacta. Se pone en un molde enharinado. Se pone un peso ligero encima.
 
 Tiene de estar de 2 a 4 días en reposo y en un sitio fresco.

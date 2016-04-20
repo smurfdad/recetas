@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 1 pavo de 2 Kg aprox.
 
 50 gr de piñones
@@ -59,7 +58,6 @@ categories:
 Aceite, sal y pimienta.
 
 <h3>Preparación</h3>
-
 La noche anterior poner una copita de brandy dentro del pavo y guardarlo en
 
 la nevera. Pelar y trocear las cebollas y las manzanas.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 225 g. de tallarines chinos de harina de arroz
 
 1 cucharada de azúcar
@@ -59,10 +58,8 @@ Ramitas de cilantro
 225 g. de brotes de alubias de soja
 
 <h3>Preparación</h3>
-
 Cubrir de agua caliente los tallarines y dejarlos 1 minuto. Escurrir y deje secar. Mezclar el azúcar con la salsa de soja y el vinagre. Calentar el aceite en un wok, cuando un trozo de pan se nos dore en 30 segundos el aceite estará a punto. Freír los tallarines, un puñado cada vez, hasta que se doren, dándoles vuelta una vez. Sacar y escurrir sobre papel absorbente. Los tallarines se romperán. Calentar1/2 tacita de aceite vegetal en un wok, o sartén, a fuego medio. Cuando esté caliente, rehogar los chalotes y ajo durante 30 segundos. Incorporar el cerdo o pollo y rehogar 1 minuto. Agregar la carne de cangrejo o gambas y rehogar otro minuto. Añadir el nam pla (o esencia de anchoas) y el zumo de limón, revolver para mezclar y cocer 1 minuto. Agregar los tallarines a la mezcla de carne, revolver y mojar con la mezcla de vinagre reservada. Cocer a fuego moderado hasta que se caliente bien. Pasar la mezcla de tallarines a una fuente grande de servicio caliente y adornar con las tiras de tortilla, guindilla, cebolletas, ramitas de cilantro y brotes de soja. Servir inmediatamente.
 
 <h3>Observaciones</h3>
-
 Receta típica de Thailandia
 

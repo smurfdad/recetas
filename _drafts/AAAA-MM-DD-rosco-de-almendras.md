@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 100 grs. de almendras machacadas
 
 10 galletas María
@@ -34,6 +33,5 @@ Para 6 personas.
 3 huevos
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes con la batidora en un molde redondo. Echar caramelo líquido en el fondo, encima la mezcla y se introduce 15 minutos al microondas. Cuando se enfrié, meter a la nevera una hora aproximadamente.
 

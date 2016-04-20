@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 muslos de pollo medianos
 
 1/2 taza de salsa de soja
@@ -43,7 +42,6 @@ Para 4 personas.
 1 cucharada de semillas de sésamo tostadas.
 
 <h3>Preparación</h3>
-
 Lavar el pollo en agua fría y secar con papel absorbente.
 
 Mezclar todos los ingredientes en un cuenco, menos las semillas de sésamo, taparlo bien y poner a marinar en el frigorífico durante 1 hora como mínimo. Precalentar el horno a 180&ordm; C. Escurrir el pollo de la marinada, poner en una fuente de horno y asar durante 15 minutos.

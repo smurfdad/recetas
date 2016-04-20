@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Huevos - 6
 
 Judías verdes - 100 grms
@@ -46,7 +45,6 @@ Aceite - 5 cucharadas
 Sal y pimentón
 
 <h3>Preparación</h3>
-
 Se ponen a hervir las judías verdes bien cortadas y los guisantes con abundante agua y sal.
 
 A la vez y aparte, se cuecen los espárragos a fuego bajo, procurando que no se deshagan.

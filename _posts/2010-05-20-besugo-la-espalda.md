@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 besugo de 1 1/2 kg.
 
 un poco de aceite de oliva
@@ -23,7 +22,6 @@ sal
 un chorrito de vinagre
 
 <h3>Preparación</h3>
-
 Decir en la pescadería que preparen el pescado para asar.
 
 Poner el besugo, limpio y seco y con la sal necesaria, en una fuente alargada untada de aceite.

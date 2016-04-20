@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 yogures de limón
 
 6 vasos de harina
@@ -48,7 +47,6 @@ decoración:(opcional)
 2 barritas de regaliz (bigotes)
 
 <h3>Preparación</h3>
-
 Haz dos bizcochos. Déjalos enfriar después sácalos de los moldes.
 
 Prepara una crema pastelera (o de la que venden en las pastelerías), y .deja un poco para los adornos.

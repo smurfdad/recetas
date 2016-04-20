@@ -22,7 +22,6 @@ categories:
 Para 15 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Viga de Pan de Sandwichs
 
 1 Frasco de 1/2 libra de queso Filadelfia o otro parecido.
@@ -48,7 +47,6 @@ Segundo relleno:
 4 Cucharadas de Mermelada de Piña
 
 <h3>Preparación</h3>
-
 1.-Limpiar los bordes del pan y colocar la mitad en un pairex de cristal o metático que te quepa en el refrigerador.
 
 2.- Ponerle 1/2 lata de leche al pan para que humedezca.
@@ -68,6 +66,5 @@ Segundo relleno:
 9.- Es ideal para picaderas fuertes y puedes acompañarlo con algun rollito de carne, vegetales...Usa tu imaginación.
 
 <h3>Observaciones</h3>
-
 Puedes variar los rellenos de acuerdo a tu gusto, pueden ser de pollo, tuna, vegetales, mariscos, varios tipos de quesos juntos o de embutidos, etc.
 

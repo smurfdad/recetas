@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de salmón de 200 gr cada una
 
 1 pimiento rojo
@@ -40,7 +39,6 @@ pimienta blanca
 patatas al vapor
 
 <h3>Preparación</h3>
-
 Para elaborar la piperrada, picaremos la cebolla, y los pimientos en juliana fina.
 
 En una cazuela poner las verduras a rehogar con un poco de aceite de oliva.

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 gallo de corral de 5 kg.
 
 1 barra de pan
@@ -38,7 +37,6 @@ Para 6 personas.
 100 gr. de almendras
 
 <h3>Preparación</h3>
-
 Se limpia el gallo y se trocea, reservando la carcasa con la que se preparará un caldo que se pasará por la batidora. Dorar el gallo ya troceado con, aproximadamente, un cazo de aceite.
 
 En una cazuela se rehogan las cebollas picaditas y se incorpora el gallo. Aparte, en una sartén, se fríen los ajos y el pan. Se incorporan a la cazuela con el gallo el vino y el caldo preparado anteriormente.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Media barra de pan del día anterior
 
 Leche
@@ -38,7 +37,6 @@ Mermelada
 Aceite para freir
 
 <h3>Preparación</h3>
-
 El pan tiene que estar un poco blando, y lo partimos en rodajas medianamente gorditas sin que se desmigaje.
 
 Empapar las rodajas de pan en un bol con leche en el que hemos disuelto unas cucharadas de azúcar normal (según el gusto).

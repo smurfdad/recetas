@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de judías verdes
 
 2 zanahorias
@@ -49,6 +48,5 @@ Sal
 Agua
 
 <h3>Preparación</h3>
-
 Limpia las judías y córtalas por la mitad. Limpia también las zanahorias (si quieres, puedes tornearlas). Hierve estas hortalizas con agua, sal y un chorrito de aceite durante 12 a 15 minutos. En una cacerola con aceite rehoga la panceta troceada, añade el pimentón y la harina, y vuelve a rehogar con cuidado de que no se queme. Moja con el caldo y agrega las chauchas y las zanahorias cocidas. Añade los huevos y deja que se haga a fuego suave durante unos minutos. Tapa la cacerola para que se cocinen los huevos. En una sartén con aceite fríe los panes cortados en bastoncitos y úntalos con ajo. Sirve este plato acompañado de los panes fritos.
 

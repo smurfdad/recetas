@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 atados espárragos
 
 sal, jugo limón
@@ -39,7 +38,6 @@ pimienta, nuez moscada
 150g queso blanco
 
 <h3>Preparación</h3>
-
 Desechar la parte dura de los espárragos, cocinar el resto en agua y sal y 2 cdas de jugo de limón.
 
 Cuando estén tiernos, escurrirlos y licuarlos junto con la crema y 2 o 3 cdas. del agua de cocción. Filtrar por un colador y mezclar con los huevos ligeramente batidos, el queso rallado y condimentar con sal, pimienta y nuez moscada; verter sobre el queso blanco y mezclar bien.

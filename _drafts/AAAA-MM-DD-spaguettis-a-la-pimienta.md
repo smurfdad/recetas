@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 grs de espaguettis
 
 125cl de nata líquida
@@ -41,7 +40,6 @@ Para 4 personas.
 1bolsa de queso rallado
 
 <h3>Preparación</h3>
-
 en un cazo se pone a hervir abundante agua con sal, se echan los espaguettis que cuezan hasta que esté en su punto,una vez cocidos se escurren.
 
 Aparte se prepara la salsa de la siguiente manera:se derrite la mantequilla y se frie la cebolla cortada muy menudita,se bate la nata y se le agrega a la cebolla, se le pone la pastilla de caldo, la pimienta molida, el coñac y por ultimo el queso, dar vuelta y verter sobre los espaguettis.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 10 unidades de alcachofas
 
 1/2 kg. de carne picada preparada Assag
@@ -39,10 +38,8 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Preparar las alcachofas y cortarlas en cuatro trocitos, hervir en agua 5 minutos y escurrir. Freírlas un poco en aceite. Añadir el tomate al aceite que se queda de freír las alcachofas 15 minutos (a fuego lento). Poner las alcachofas en un molde o fuente, cubrir con el assag, otra capa de alcachofas, cubrir con assag. Echar la salsa de tomate y meter en horno a temperatura mediana. Servir caliente.
 
 <h3>Observaciones</h3>
-
 Receta árabe.
 

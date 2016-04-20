@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Alcachofas.
 
 Arroz.
@@ -36,6 +35,5 @@ Pastilla de caldo.
 Tomate, aceite y ajo.
 
 <h3>Preparación</h3>
-
 Poner a calentar el aceite una vez caliente sofreír las alcachofas mientras se pone un cazo con agua a calentar con la pastilla de caldo una vez que las alcachofas están se sofríe el arroz con las alcachofas sin dejarlo de mover pues se quema rápidamente echar el agua hirviendo y dejas cocer.
 

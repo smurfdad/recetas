@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de queso fresco
 
 3 huevos
@@ -24,5 +23,4 @@ Para 4 personas.
 mantequilla
 
 <h3>Preparación</h3>
-
 Se trituran todos los ingredientes y se vierten en un molde previamente untado de mantequilla. Se mete al baño María durante 45 minutos. Desmoldar y servir.

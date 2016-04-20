@@ -22,7 +22,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 libras de carne molida de cerdo
 
 2 cucharadas de salsa de soya
@@ -42,6 +41,5 @@ Para 3 personas.
 1 Cucharada de agua mezclada con 1/2 cucharada de maicena
 
 <h3>Preparación</h3>
-
 Mezcle el cerdo, jerez, soya, azúcar y jengibre y forme 6 albóndigas grandes. Aplánelas un poco. Caliente la mitad del aceite en un sartén, dórelas bien por ambos lados. Remueva las albóndigas y déjelas a un lado. Agregue el bok choy y fríalo ligeramente. Añada el agua y haga hervir. Caliente el horno a 350. Coloque al bok choy en una cazuela. Cubra con las albóndigas, tape a la cazuela y póngala en el horno por 45-60 minutos. Escurra el líquido a una olla pequeña y bata con la mezcla de maicena. Caliente a esta mezcla hasta que esté espesa. Ponga esta salsa sobre las albóndigas y bok choy.
 

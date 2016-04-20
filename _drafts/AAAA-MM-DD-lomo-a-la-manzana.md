@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 4 filetes de lomo
 
 1 cucharada de mantequilla
@@ -34,7 +33,6 @@ aceite de oliva
 sal
 
 <h3>Preparación</h3>
-
 Lavar los filetes de lomo quitándoles la grasa y sazonándoles por los dos lados.
 
 Freírlos en una sartén al fuego para que se doren con la mantequilla.

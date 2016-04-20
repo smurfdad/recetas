@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 5 pepinos no muy grandes.
 
 3 pimientos rojos, picantes
@@ -32,7 +31,6 @@ categories:
 3 cucharadas de vinagre de vino de arroz o de buen vino de jerez
 
 <h3>Preparación</h3>
-
 Quitar las puntas a los pepinos, cortarlos a lo largo y quitar las semillas, despues cortarlos en tiras, si los pepinos son largos las tiras las cortais por la mitad.
 
 Los pepinos no se pelan, asm que para mm son mejor los que tienen piel fina, de poco diametro y alargados.

@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de manzanas, si es posible reineta
 
 200 grs.(2 vasos de vino) de azúcar
@@ -28,7 +27,6 @@ Para 6 personas.
 1 chorrito de ron
 
 <h3>Preparación</h3>
-
 Cocer las manzanas con un poco de agua, la mitad del azúcar y el coñac.
 
 Hacer la crema pastelera poniéndo a hervir la leche con el azúcar, menos un poco en donde se disuelve la maizena y las yemas.

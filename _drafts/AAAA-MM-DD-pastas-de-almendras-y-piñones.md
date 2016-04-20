@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 330 gramos de almendra molida
 
 330 gramos de azúcar
@@ -33,7 +32,6 @@ Para 6 personas.
 1 yema de huevo
 
 <h3>Preparación</h3>
-
 Cocéis la patata con su piel y cuando este blanda, que se pueda atravesar con una aguja, la peláis en caliente (esto es importante), os protegéis la mano con un guante de horno y no hay problema de quemarse. La patata todavía caliente la pasáis por un pasa purés fino y cuando la/las tengáis pasadas le añadís el azúcar y revolvéis, el azúcar se disolverá por la temperatura de la patata y os quedara una pasta acuosa.
 
 Llegado a este punto le añadís la almendra molida y la

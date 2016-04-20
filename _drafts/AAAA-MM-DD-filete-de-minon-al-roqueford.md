@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>
-
 Un filete de minon
 
 Una cajita de nata batida de 120 ml.
@@ -35,7 +34,6 @@ una pizca de perejil cortado chiquito
 1/4 libra de mantequilla.
 
 <h3>Preparación</h3>
-
 Se corta el filete perpendicularmente quedando como conos, se para el cono de carne y se le da un golpe quedando machacadocomo un toston.
 
 Se pone una sarten con dos cucharadas de aceite de oliva y se doran los filetes de minon a fuego lento por 5 minutos aprox. cada.

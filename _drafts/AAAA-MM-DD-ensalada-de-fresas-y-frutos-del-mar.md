@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de fresas
 
 2 endibias
@@ -43,6 +42,5 @@ Para 4 personas.
 1 cucharadita de menta seca
 
 <h3>Preparación</h3>
-
 Limpiamos y troceamos las endibias reservando alguna hoja entera para decorar. Limpiamos y troceamos las fresas, pelamos y troceamos los langostinos, troceamos el queso fresco y el salmón marinado. Lo mezclamos todo en un bol y lo reservamos. Para realizar la salsa echamos las dos cucharaditas de miel en una cazuela pequeña, añadimos las 4 cucharadas de vinagre y las 2 de aceite de oliva virgen extra junto con la cucharadita de menta seca. Lo llevamos a ebullición y lo hervimos a fuego bajo durante un par de minutos removiendo de vez en cuando. Echamos una pizca de sal y colamos la salsa para retirar las hojitas de menta. Dejamos enfriar la salsa y servimos la ensalada decorando los platos con puntas de endibias y laminas de fresas.
 

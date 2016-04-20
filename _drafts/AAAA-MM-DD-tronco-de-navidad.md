@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 Para el bizcocho:
 
 3 huevos.
@@ -53,7 +52,6 @@ Para la cobertura:
 200 gramos de azúcar glass.
 
 <h3>Preparación</h3>
-
 Cómo se elabora el bizcocho:
 
 Batimos los tres huevos, los 75 gramos de azúcar, las gotas de vainilla con las varillas eléctricas hasta que doble el volumen.

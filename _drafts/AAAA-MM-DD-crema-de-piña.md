@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 piñas
 
 Maizena para repostería, para espesar.
@@ -32,7 +31,6 @@ Azúcar o edulcorante líquido o sacarina.
 4 claras de huevo.
 
 <h3>Preparación</h3>
-
 Partimos las piñas transversalmente, incluso el manojo verde.
 
 Le quitamos con ayuda de un cuchillo o cuchara la pulpa de la piña, con cuidado de no hacer ningún agujero. Dejamos a un lado las barquitas de la piña.

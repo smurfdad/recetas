@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 faisán limpio y vaciado
 
 1/2 kg. de setas
@@ -47,6 +46,5 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Cortar el faisán en trozos regulares. Poner el aceite en una cazuela al fuego, y añadir los trozos de faisán previamente sazonados. Añadir la cebolla picada, los ajos pelados y picados, y el resto de ingredientes excepto las setas. Se rehoga todo muy bien, y cuando la cebolla esté pochada se añaden dos vasos de agua, y se deja cocer a fuego moderado durante una hora y media aproximadamente, hasta que la carne esté en su punto. Unos 15 minutos antes de acabar la cocción, se añaden las setas limpias y troceadas. Servir inmediatamente.
 

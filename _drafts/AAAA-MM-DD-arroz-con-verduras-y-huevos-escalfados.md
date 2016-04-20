@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 tomate.
 
 1 zanahoria.
@@ -43,6 +42,5 @@ Sal.
 Aceite.
 
 <h3>Preparación</h3>
-
 Se pican finamente el tomate, la cebolleta, el pimiento morrón y la zanahoria y se ponen a pochar en una sartén con un chorro de aceite. A continuación, se añade el arroz, se rehoga bien y se cubre con el caldo de verduras, en una proporción de algo mas del doble de caldo que de arroz. Se sazona y se deja cocer unos 20 minutos. Pasado este tiempo, se añade los huevos, procurando que no se rompan, y se dejan hervir dos minutos. Se retira del fuego y se deja reposar tapado durante tres minutos.
 

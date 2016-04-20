@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kilo de cinta de chuletas.
 
 Medio de cebollitas.
@@ -37,6 +36,5 @@ Medio litro de cerveza.
 Pimienta y Sal.
 
 <h3>Preparación</h3>
-
 Salpimentamos la carne y la doramos en una cazuela, con un chorrito de aceite. Una vez dorada, la sacamos y reservamos. En la misma cazuela y utilizando el aceite sobrante, se doran las cebollitas. Después incorporamos las ciruelas pasas, la carne y la cerveza, dejando cocer, con la cazuela tapada, durante una hora. Sacamos la carne y, cuando este fría, la cortamos en lonchas. Se sirve con la salsa reducida y caliente, adornando el plato con las ciruelas pasas y las cebollitas.
 

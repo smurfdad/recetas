@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 muslos de conejo de monte
 
 800 gr. de setas de cardo
@@ -47,6 +46,5 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 En una cacerola se doran bien los muslos de conejo con la cebolla cortada, los ajos y el tomate picado. Se añade el vino y se reduce a una tercera parte. Se incorpora el caldo de carne, así como las verduras y las hierbas aromáticas y se deja cocer todo ello hasta que la carne esté tierna. Las setas se saltean con aceite y se añaden de guarnición.
 

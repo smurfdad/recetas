@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 100 cc. de aceite
 
 150 gr. de bacon cortado en taquitos
@@ -44,7 +43,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 En una sartén honda se pone el aceite, se hace el bacon y se reserva.
 
 Una vez preparadas las perdices se rehogan en el mismo aceite hasta dorarlas, se añaden al mismo tiempo las cebollas troceadas y cuando éstas están bien doradas, se pone todo en una cazuela de barro, se añaden los demás ingredientes y el bacon, se tapa y se pone al horno.

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. tallarines
 
 4 dientes de ajo
@@ -17,7 +16,6 @@ Para 6 personas.
 1/4 litro de aceite
 
 <h3>Preparación</h3>
-
 Cocer los tallarines como indica en el paquete.
 
 En una cazuela de barro o similar freír los dientes de ajo en filetes (si se quiere se le puede añadir un poco de guindilla) en el aceite.

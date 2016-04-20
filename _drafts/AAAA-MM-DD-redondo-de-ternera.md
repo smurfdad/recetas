@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 Kg de redondo de ternera
 
 2 cebollas medianas
@@ -36,7 +35,6 @@ Para 6 personas.
 un chorro de vino tinto
 
 <h3>Preparación</h3>
-
 Limpiar el redondo de grasa y nervios.
 
 Salpimentar el redondo y Enharinarlo.

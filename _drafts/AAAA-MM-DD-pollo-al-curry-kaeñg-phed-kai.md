@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1,500 kg. de pollo, troceado o deshuesado y cortado en tiritas pequeñas
 
 4 tacitas de leche de coco
@@ -38,10 +37,8 @@ Para 4 personas.
 50g. de hojas de albahaca, picadas o 5 gramos de albahaca seca, la que pondremos a remojo en agua templada por unos minutos y luego la escurriremos.
 
 <h3>Preparación</h3>
-
 Combinar el pollo con la leche de coco y el nam pla (o esencia de anchoas) en un cazo de fondo grueso y deje cocer suavemente, parcialmente tapado, hasta que esté tierno el pollo, unos 15 minutos, según el tamaño de las tiritas. Agregar, removiendo, la pasta de curry y la guindilla. Dejar cocer, destapado, otros 5 minutos. Agregar las hojas de albahaca, revolver bien y servir
 
 <h3>Observaciones</h3>
-
 Nota: Este plato es muy picante.
 

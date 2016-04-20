@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pescadillas de unos 350 gr. cada una
 
 4 cucharadas soperas de harina
@@ -54,7 +53,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Para hacer la mantequilla m&acirc;itre d&acute;h&ocirc;tel, se pone la mantequilla en un bol y se trabaja con una cuchara de madera para ablandarla. Se le añade el zumo de limón, el perejil, sal y pimienta. Se le da forma de cilindro y se envuelve éste en papel de aluminio.
 
 Se mete al frigorífico y se tiene ahí mientras se preparan las pescadillas. Se abren las pescadillas con cuidado y se pasa el filo de un cuchillo por ambos lados de la espina, para poderla sacar limpiamente, con cuidado de no romper la cola.

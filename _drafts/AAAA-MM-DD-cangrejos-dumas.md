@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 cebollas
 
 zanahorias
@@ -36,6 +35,5 @@ vaso de vinagre
 botella de coñac
 
 <h3>Preparación</h3>
-
 En un caldero grande, se prepara un caldo cociendo cebollas, zanahorias, un ramo de aromáticos, pimienta de Cayena y otros bravos condimentos. Se reduce, de modo que, después de añadirle un vaso generoso de vinagre, quede sólo la cuarta parte del volumen inicial. Se añaden los cangrejos limpios y se hacen saltar en el caldero. A fuego fuerte, se sigue haciéndoles saltar continuamente, hasta cocerse. Al final, se añade una botella de cognac y se deja que reposen unos minutos. Se deja templar en el caldero, para que los cangrejos se empapen y queden realmente sabrosos.
 

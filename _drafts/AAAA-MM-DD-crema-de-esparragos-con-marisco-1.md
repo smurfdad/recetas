@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 2 manojos de espárragos verdes.
 
 3 patatas.
@@ -37,7 +36,6 @@ Aceite de oliva.
 Sal y pimienta y agua.
 
 <h3>Preparación</h3>
-
 Ponemos en una cazuela con agua y sal las patatas peladas y picadas
 
 y un chorrito de aceite, junto con los espárragos bien limpios y trozeados.

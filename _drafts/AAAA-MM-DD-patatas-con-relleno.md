@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>
-
 4 patatas
 
 1 lata de atun
@@ -39,7 +38,6 @@ perejil
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Cocer las patatas,machacarlas muy bien y
 
 añadirle,el atún,un huevo duro,perejil picado y un poco de cebolla picadita, remover todo muy bien.

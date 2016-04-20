@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para las albóndigas:
 
 500g de carne picada
@@ -50,7 +49,6 @@ Para el puré:
 2 cdas de queso crema
 
 <h3>Preparación</h3>
-
 Cocinar las hojas de espinacas. Poner en remojo con la leche las rebanadas de pan desmenuzadas. Procesar la miga de pan y las espinacas escurridas.
 
 En un bol mezclar la carne con la cebolla, la yema, la miga de pan y las espinacas procesadas, el perejil, condimentar con sal, mezclar bien la preparación de ser posible con las manos. Poner la preparación en la heladera media hora.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 dl. de aceite de oliva virgen extra
 
 Vinagre de Jerez
@@ -36,6 +35,5 @@ Vinagre de Jerez
 Orégano, cilantro y sal al gusto
 
 <h3>Preparación</h3>
-
 Picar el pepino pelado e incorporar en un recipiente todos los ingredientes. Dejar macerar al menos 2 horas en el frigorífico todo junto. Transcurrido ese tiempo, batir con la batidora hasta conseguir una crema de textura ligada. Comprobar de sal y vinagre. Volver a reservar en el frigorífico hasta la hora de servir. Se debe de tomar bien fría.
 

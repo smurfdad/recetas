@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg de mejillones
 
 salsa de tomate
@@ -37,7 +36,6 @@ Agua
 Sal
 
 <h3>Preparación</h3>
-
 En la vaporera se pone agua, vino y sal. En la parte superior se ponen los mejillones para abrirse al vapor. Una vez abiertos se le quita la valva sin carne y se colocan en una bandeja.
 
 Se recubren con tomate y se adornan con una cucharada de mayonesa.

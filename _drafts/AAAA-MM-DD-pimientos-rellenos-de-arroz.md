@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 pimientos rojos grandes (de 150 gr. cada uno aprox.)
 
 250 gr. de magro de cerdo picado
@@ -37,7 +36,6 @@ Para 4 personas.
 1 pizca de orégano y sal
 
 <h3>Preparación</h3>
-
 Una vez lavados los pimientos cortarles el casquete como una tapadera, quitarles las semillas y ponedlos en una cazuela honda de barro para horno.
 
 Pelar y picar los tomates. Pelar y rallar la cebolla. Encender el horno para que vaya calentándose hasta que esté muy caliente (200 grados aproximadamente)

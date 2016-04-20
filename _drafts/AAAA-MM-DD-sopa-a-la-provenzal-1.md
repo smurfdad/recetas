@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de pescado blanco de varias clases, quitarles las cabezas y las espinas, reservar todo
 
 500 gr. de cangrejos de mar
@@ -51,7 +50,6 @@ pimienta
 sal
 
 <h3>Preparación</h3>
-
 Con las raspas de pescado, 2 litros de agua, y las colas del puerro hacer un caldo de pescado.
 
 Picar la cebolla, el ajo, el puerro y el perejil.

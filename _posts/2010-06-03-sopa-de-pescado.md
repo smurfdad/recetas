@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 cebolla
 
 3 dientes de ajo
@@ -28,7 +27,6 @@ Para 4 personas.
 100 gr gambas
 
 <h3>Preparación</h3>
-
 Poner una cazuela con dos litros de agua, la cabeza de merluza, la de congrio y las raspas.
 
 Dejar hervir hasta que quede 1 litro aproximadamente. Colar y reservar.

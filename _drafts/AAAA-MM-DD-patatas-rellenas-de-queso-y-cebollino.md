@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 6 patatas grandes
 
 1 paquete pequeño de nata líquida (160 gr.)
@@ -37,6 +36,5 @@ Para 6 personas.
 Sal y pimienta negra en polvo
 
 <h3>Preparación</h3>
-
 Cocer las patatas enteras y con piel hasta que estén hechas. Pelarlas y con una cucharita, hacer un agujero en la parte superior y vaciarlas, dejando un dedo de grosor. Moler bien la pulpa de la patata mezclándola con la nata, el cebollino y la mitad de la mantequilla, debe quedar suave y lisa. Sazonar con sal y pimienta. Poner una tajada de queso gouda en el fondo de cada patata y rellenarlas con la mezcla anterior, poner encima otras rebanadas de queso. Introducir las patatas en una fuente, pintar los bordes con el resto de la mantequilla y meter en el horno moderado hasta que estén calientes y el queso derretido.
 

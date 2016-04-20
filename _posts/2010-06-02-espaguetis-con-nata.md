@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de Espaguetis
 
 50 gr. de Mantequilla
@@ -25,5 +24,4 @@ Para 4 personas.
 1 Pizca de sal
 
 <h3>Preparación</h3>
-
 Cocemos los espaguetis con sal durante 10 min , luego lo enjuagamos con agua fria y en el mismo cuenco ponemos la mantequilla y el jamón o bacon hasta que cambie de color (no debe formar corteza), posteriormente ponemos los espaguetis y lo movemos en el recipiente, le incorporamos la nata liquida, la pimienta negra y le rallamos entera la nuez mozcada.

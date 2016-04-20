@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 melones catalupos
 
 225 g de fresones
@@ -34,6 +33,5 @@ Para 4 personas.
 hojas de menta.
 
 <h3>Preparación</h3>
-
 Se cortan los melones por la mitad y se retiran las semillas. Se reparten los fresones dentro de cada mitad de melón y se vierte por encima un poco de vino. Se mantiene en el frigorífico hasta que se vaya a servir. En ese momento, se espolvorea cada mitad con un poco de azúcar y se decora con unas hojas de menta.
 

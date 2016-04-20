@@ -29,7 +29,6 @@ Para 10 personas.
 - 1/2 Kg. costilla
 
 <h3>Preparación</h3>
-
 Poner a cocer las alubias en agua fría, previamente remojadas de víspera, con 1/2 cebolla, chorizo, costilla y tocino durante unas tres horas (en la olla rápida 15 minutos).
 
 Mientras tanto rehogar el resto de la cebolla y luego añadir el pimentón y un cazo de alubias con caldo.

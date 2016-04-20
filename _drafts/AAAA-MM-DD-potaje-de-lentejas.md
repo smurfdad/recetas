@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de lentejas
 
 1 cebolla
@@ -44,7 +43,6 @@ Para 6 personas.
 Sal
 
 <h3>Preparación</h3>
-
 En una olla con abundante agua, echar las lentejas. Poner al fuego y cuando empece a hervir, se le echa la cebolla, pelada y cortada en dos, los dientes de ajo, pelados y enteros, el laurel y el aceite. bajar el fuego y dejar cocer a fuego lento. Cuando las lentejas estén tiernas, añadir el tomate, cortado por las mitad, el chorizo cortado en rodajas anchas y el tocino cortado en trozos.
 
 Mantener cociendo a fuego lento durante 15 minutos, vigilando que no se queden secas, en cuyo caso se les puede añadir agua.

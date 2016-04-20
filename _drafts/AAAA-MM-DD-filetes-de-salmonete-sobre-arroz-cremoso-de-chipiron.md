@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Salmonetes 1,60 kg
 
 Cebolla 100 gr
@@ -42,6 +41,5 @@ Caldo de vacuno
 Tempura
 
 <h3>Preparación</h3>
-
 Filetear los salmonetes retirando con cuidado todas las espinas. Marcar en la plancha por el lado de la piel y terminar de cocinar en el horno. Por otra parte se pocha la cebolla y el ajo, se añade el chipirón troceado y por último el arroz, mojar con el fondo blanco en el que se disuelven unas tintas de chipirón y dejamos hervir durante 14 minutos una vez cocido, sacamos a una placa para enfriar rápidamente. A la hora de utilizar coger parte y terminar de cocinar con un poco de fondo blanco y mantequilla. Elaborar asi mismo una salsa de idiazabal, para ello poner a reducir nata y queso idiazabal rallado. Como decoración se presenta con una tempura de triguero.
 

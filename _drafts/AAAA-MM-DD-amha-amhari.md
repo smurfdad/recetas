@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 kg. lentejas rojas
 
 2 cebollas
@@ -41,10 +40,8 @@ sal y pimienta
 aceite
 
 <h3>Preparación</h3>
-
 Cocer las lentejas 30 minutos y escurrir (Reservar), picar las cebollas y los ajos, rehogar en aceite , cuando empiece a tomar color, añadir las especias y el tomate. Freír un poco añadir 1 vaso de agua y llevar a ebullición. Cuando hierva, añadir las lentejas y cocer a fuego lento 20 30 minutos más, hasta que estén hechas.
 
 <h3>Observaciones</h3>
-
 Esta es una receta tradicional de Etiopía.
 

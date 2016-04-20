@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 Kg de patatas pequeñas
 
 Una pizca de sal
@@ -32,7 +31,6 @@ Vinagre
 Ajo
 
 <h3>Preparación</h3>
-
 Se ponen las patatas con piel, en agua y en una olla, a cocer. Cuando estén cocidas, se retira el agua y se pelan.
 
 Se trocean las patatas en una sartén, se pone al fuego, y se les da vueltas sin parar, hasta hacerlas pedazos más pequeños.

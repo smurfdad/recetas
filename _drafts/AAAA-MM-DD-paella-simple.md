@@ -23,7 +23,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de aceite
 
 2 cucharadas de margarina
@@ -59,6 +58,5 @@ El jugo de un limón
 1 cucharadas de perejil picado
 
 <h3>Preparación</h3>
-
 Caliente el aceite y la margarina en una sartén grande o paellera. Fría ligeramente el pollo y el chorizo y remuévalos de la sartén. Fría la cebolla y el ajo hasta que estén suaves pero no dorados. Agregue los tomates, el pimentón, la sal, la pimienta y la paprika y cocine por 10 o 12 minutos. Agregue el arroz, saltee por 3 minutos, revolviendo frecuentemente. Vierta el agua o consomé, el jugo de limón y el ácido turmérico. Tape la olla y deje cocinar a fuego lento por 15 minutos, revuelva ocasionalmente. Agregue los guisantes, el pollo y el chorizo (puede agregar mariscos y pescado si lo desea). Tape de nuevo y deje cocinar por 10 minutos más o hasta que el arroz esté cocido. Espolvoree con perejil antes de servir.
 

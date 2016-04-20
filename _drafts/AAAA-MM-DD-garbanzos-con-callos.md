@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 300 gr. de garbanzos
 
 1 tomate
@@ -54,7 +53,6 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Pon los garbanzos a remojo de víspera. Ponlos a cocer en agua caliente. Incorpora el perejil, la cebolla cortada por la mitad, 2 ajos enteros, la zanahoria troceada y el tomate pelado y picado. Sazona. Retira la espuma y deja cocer hasta que se ablanden, aproximadamente durante 2 horas.
 
 Pon los callos a cocer en la olla de presión con un poco de agua, déjalos 5 minutos y cámbiales el agua. Ponlos nuevamente a cocer. Introduce la cabeza de ajos entera, sazona y tápalos. En media hora estarán en su punto.

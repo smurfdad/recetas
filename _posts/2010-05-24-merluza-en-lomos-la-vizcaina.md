@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 kg. de merluza en lomos gruesos
 
 1/4 de litro de fumet hecho con las espinas y pieles
@@ -27,7 +26,6 @@ Para 6 personas.
 sal, aceite de oliva
 
 <h3>Preparación</h3>
-
 Hacer un fumet, cociendo agua, vino blanco, un poquito de aceite, sal, alguna verdura (puerro, cebolla, perejil, ajo) y las espinas cabezas y pieles de la merluza.
 
 Abrir las almejas en una cazuela al fuego fuerte con un poco de agua y reservar.

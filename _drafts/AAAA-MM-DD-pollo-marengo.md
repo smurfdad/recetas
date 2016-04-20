@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo de 1 Kg.
 
 harina
@@ -51,7 +50,6 @@ sal
 pimienta.
 
 <h3>Preparación</h3>
-
 Cortar el pollo en trozos. Calentar en una sartén medio vaso de aceite. Echar en él los trozos de pollo enharinados. Erogarlos. Agregar los tomates, el apio picado y un vaso de vino blanco. Taparlo y dejarlo cocer durante 20 minutos. Agregar las setas a la cazuela. Sazonar con sal y pimienta y cocerlo 20 minutos más. Cocer los cangrejos con un vaso de vino blanco. Reservarlo. Freír el pan y los huevos.
 
 Servir el pollo acompañado de un huevo frito encima de una rebanada de pan y los cangrejos.

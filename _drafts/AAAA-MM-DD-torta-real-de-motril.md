@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 3/4 de kg. de almendra molida
 
 1/2 kg. de azúcar
@@ -39,6 +38,5 @@ la ralladura de un limón
 1 cucharadita de canela en polvo.
 
 <h3>Preparación</h3>
-
 Precalentar el horno a 170 grados. En un bol grande, batir los huevos, añadir el azúcar, la almendra molida y la ralladura de limón, y mezclar bien hasta conseguir una pasta homogénea. Preparar un molde redondo forrándolo con papel de estraza untado con el aceite, y poner en él la pasta. Hornear durante 40 minutos. Sacar del horno y dejar enfriar. Una vez fría, desmoldar la torta y adornarla espolvoreando por encima con azúcar glass y canela.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 ó 4 salchichas de carnicería por persona
 
 1 cebolla
@@ -30,6 +29,5 @@ Para 4 personas.
 vino blanco
 
 <h3>Preparación</h3>
-
 Se parte la cebolla en juliana y se coloca en el fondo de una cazuela. Se pinchan las salchichas con un tenedor y se ponen sobre la cebolla. Se cubren con el vino blanco. Se ponen a fuego medio hasta que el vino se consuma, y quede una salsa espesa.
 

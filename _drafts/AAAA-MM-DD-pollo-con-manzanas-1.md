@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo entero
 
 Sal
@@ -48,6 +47,5 @@ Aceite
 Manteca
 
 <h3>Preparación</h3>
-
 Se mezcla la manteca, la sal, la pimienta y la canela. Se embadurna el pollo con la mezcla por dentro y por fuera, dentro del pollo se meten los ajos y el perejil, se le echa un vaso de aceite hirviendo por encima. Se mete al horno y a mitad de cocción se le echan las patatas y las manzanas cortadas por fuera y si se quiere alguna dentro. Se tiene que bañar bastante con el jugo que suelta para que quede sabroso. Diez minutos antes de acabar la cocción se baña con el vino blanco.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Mariscos de su elección.(camarones grandes,mejillones,trozos de pescado y aros de calamar)
 
 160 ml de vino blanco seco.
@@ -45,7 +44,6 @@ La ralladura y el jugo de un limón.
 sal y pimienta al gusto.
 
 <h3>Preparación</h3>
-
 En un platón hondo combine el vino,aceite, ajo, ralladura y jugo de limón y naranja,salsa de soya,azúcar,jengibre,sal y pimienta al gusto.
 
 Marine los mariscos o pescado de su elección en la salsa,por lo menos durante una hora.

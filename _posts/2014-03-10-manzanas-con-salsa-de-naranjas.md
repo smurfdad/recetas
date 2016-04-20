@@ -24,7 +24,6 @@ tags:
 - Queso crema o medio kilo de helado sabor americana
 
 <h3>Preparación</h3>
-
 Lavar bien las manzanas y quitarles el centro.
 
 Espolvorear con las cucharadas de azúcar la ralladura de naranja, el jugo de naranja, el licor de naranja (optativo) y la canela.

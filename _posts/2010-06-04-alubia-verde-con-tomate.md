@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo alubia verde
 
 1 cebolla
@@ -23,7 +22,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Limpiar la alubia verde, trocearla y ponerla a cocer con agua y un poco de sal.
 
 Aparte picar muy fina la cebolla, el ajo y los pimientos.

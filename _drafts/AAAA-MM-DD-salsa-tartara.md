@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>
-
 Mayonesa de 1 huevo
 
 1 cucharada de perejil picado
@@ -39,6 +38,5 @@ Mayonesa de 1 huevo
 1 cucharada de salsa inglesa
 
 <h3>Preparación</h3>
-
 Mezclar bien todos los ingredientes con la mayonesa.
 

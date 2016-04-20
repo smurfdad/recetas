@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 gramos de macarrones.
 
 6 cucharadas de aceite de oliva.
@@ -40,7 +39,6 @@ Sal.
 Pimienta blanca.
 
 <h3>Preparación</h3>
-
 Ponemos a calentar agua con sal y una cucharada de aceite. Cuando rompa a hervir echamos los macarrones. Los removemos para que no se peguen. Una vez cocidos en su punto, los sacamos y escurrimos bien.
 
 En un mortero majamos el ajo, el perejil y la menta y le agregamos 4 cucharadas de aceite de oliva. Con el resto del aceite salteamos los macarrones, salpimentándolos.

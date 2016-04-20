@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 lomos de bacalao de ración
 
 2 cucharadas soperas de mantequilla
@@ -43,7 +42,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 En una sartén con aceite bien caliente se rehogan las gambas sazonadas de sal y pimienta. Se tienen durante 2 minutos y se sacan. Se desglasa el fondo de la sartén con el vino balnco.
 
 En el vaso del tourmix se meten las gambas y la mantequilla, así como el vino blanco de la sartén. Se tritura bien. Se aclaran bien los lomos de bacalao y se escurren. Se enciende el horno. Cuando esté caliente se meten al grill los lomos de bacalao rociados con aceite y zumo de limón. Se tienen en el horno 5 minutos por cada lado.

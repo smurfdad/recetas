@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 1 lechuga
 
 1 bote de piña en almibar
@@ -37,7 +36,6 @@ categories:
 1 bote de salsa rosa
 
 <h3>Preparación</h3>
-
 Pelar y trocear los langostinos (cocidos), el aguacate, el mango, la piña y la manzana, y ponerlo en un bol.
 
 Añadir la salsa (rebajada con un poco de agua), y mezclar todo bien.

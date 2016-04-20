@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 1/2 litros de consomé de pollo
 
 1 chile serrano
@@ -39,7 +38,6 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Corte las tortillas en cuadritos, en un sarten con aceite , dore los cuadritos , cuidando que no se quemen.
 
 Licue una taza de consome de pollo el chile los aguacates.

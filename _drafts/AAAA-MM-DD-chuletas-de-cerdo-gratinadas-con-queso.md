@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 chuletas de cerdo
 
 150 gr de queso rallado(roncal)
@@ -38,7 +37,6 @@ aceite
 patatas fritas
 
 <h3>Preparación</h3>
-
 Sazonar las chuletas con sal y darles una vuelta en la plancha, poniéndolas después sobre una placa de horno.
 
 Batir las yemas y mezclarlas con el queso y la nata.

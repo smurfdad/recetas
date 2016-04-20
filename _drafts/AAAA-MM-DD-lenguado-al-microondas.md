@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de lenguado
 
 500 gr. patata nueva
@@ -43,6 +42,5 @@ agua
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Pinchar las patatas, colocarlas enteras y con piel, unas al lado de otras en un recipiente especial para microondas y añadir agua hasta cubrir por la mitad y un poco de sal. Cocinar en el microondas durante 10 ó 12 minutos a 780 W. Desgranar los guisantes y colocar en un recipiente para microondas con 2 cucharadas de agua y sal y cocinar durante 10 minutos a 780 W. Poner los filetes de lenguado en una fuente con el zumo de limón, sal y pimienta. Cocinar en el microondas durante 6 ó 9 minutos a 780 W. Sofreír el ajo y la cebolla picada a fuego lento hasta que la cebolla ablande. Pelar las patatas cocidas, cortarlas en rodajas y colocar en una fuente. Sobre las patatas volcar los guisantes y finalmente colocar el pescado. Echar por encima del pescado el sofrito de ajo y cebolla.
 

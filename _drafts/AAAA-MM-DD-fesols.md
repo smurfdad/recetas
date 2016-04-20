@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/4 fesols (habichuelas)
 
 1 cebolla
@@ -45,6 +44,5 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Se pone una olla con agua al fuego con los fesols (habichuelas), cuando ya estén casi hechos, se añaden las verduras troceadas en juliana. Cuando hierva se rectifica la sal y la pimienta y se añade el trozo de sobrasada. Se puede servir con costrones de pan o arroz hervido mezclado con las habichuelas.
 

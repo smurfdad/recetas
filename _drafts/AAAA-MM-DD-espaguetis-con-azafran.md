@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de espaguetis
 
 50 gr. de mantequilla
@@ -39,6 +38,5 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Hervir los espaguetis en abundante agua salada, mientras tanto preparamos el condimento: en una cacerola derretimos la mantequilla y la mitad del queso rallado, mezclando sin parar, diluimos el queso rallado fundido en la nata caliente en la que habremos disuelto el azafrán. Salpimentamos abundantemente y apagamos el fuego. Echamos la pasta bien escurrida en la salsa y añadimos las yemas, espolvoreamos con emmental rallado y mezclamos bien.
 

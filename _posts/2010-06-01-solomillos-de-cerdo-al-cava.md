@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos de cerdo
 
 1/4 kilo de champiñones
@@ -25,7 +24,6 @@ aceite de oliva
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Salpimenta los solomillos y sofrielos junto con los ajos picados en una cazuela o sarten con aceite.
 
 Una vez que esten dorados rehoga en el mismo aceite los champiñones limpios y cortados en laminas.

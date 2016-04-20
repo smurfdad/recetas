@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 ---
 <h3>Ingredientes</h3>
-
 2 pollos de 1 kilo cada uno
 
 1/4 litro de aceite de oliva
@@ -47,10 +46,8 @@ Sal
 1 sobre de azafrán
 
 <h3>Preparación</h3>
-
 Se limpian los pollos, se separan los menudillos y se trocea cada cuarto en dos. Se pone la sartén al fuego con aceite, se dora la carne y se pasa a un caldero plano; en el mismo aceite se doran los menudillos y el pan, y se reservan. Se fríen la cebolla y el tomate y se agregan al pollo. Aparte se majan los ajos en el mortero con sal, los menudillos, el pan, pimienta, clavos y se vuelca en el caldero del pollo dejándolo rehogar y añadiéndole vino. Se deja cocer durante cinco minutos, luego se le pone el caldo y el azafrán, y se deja hacer 15 minutos más. Se retira y se sirve con papas sancochadas.
 
 <h3>Observaciones</h3>
-
 Comentar que papas sancochadas son papas grandecitas peladas y hervidas como si fueran para puré o ensaladilla y que reciben con alegría la misma salsa que cumplimenta al ave.
 

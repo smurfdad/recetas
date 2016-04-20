@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de tomates rojos maduros
 
 1 pimiento verde
@@ -47,7 +46,6 @@ media tacita de vinagre
 media tacita de aceite de oliva
 
 <h3>Preparación</h3>
-
 SEguir la receta del gazpacho andaluz de este mismo programa pero con la variacion de añadir menos agua al pure final. Una vez preparado, reservar.
 
 Hervir los espaghettis en abundante agua, con un diente de ajo y una cucharadita de sal durante aproximadamente 8 minutos, una vez pasado ese tiempo, retirar y lavar con agua fria, y justo a continuacion aplicar la media tacita de aceite de oliva sobre los espaghettis removiendolos para que toda la pasta quede bañada en aceite.

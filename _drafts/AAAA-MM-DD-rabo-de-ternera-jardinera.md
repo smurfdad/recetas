@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 rabo de ternera, 2 piezas
 
 cebolla, 2
@@ -63,6 +62,5 @@ sal,
 pimienta,
 
 <h3>Preparación</h3>
-
 Se trocea el rabo por las articulaciones. Se pone sal y pimienta y se pasa por harina. Se pone a dorar en una sartén. Se pasa a una cazuela de barro y se guisa con las legumbres, el vino y el caldo. Se cuece a fuego lento encima de la plancha. Se sirve en la misma cazuela.
 

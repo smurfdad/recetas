@@ -22,7 +22,6 @@ categories:
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 5 dientes de ajo
 
 250 gr. de pimiento verde
@@ -40,7 +39,6 @@ caldo de carne
 perejil
 
 <h3>Preparación</h3>
-
 Poner a rehidratar los pimientos choriceros, les quitamos el rabo y los sumergimos en agua fría durante una hora o los ponemos al fuego y los retiramos cuando el agua rompa a hervir La zurrukutuna se elabora en cazuela de barro. Picamos el ajo muy fino y lo ponemos a dorar en la cazuela. cuando este dorado añadimos el pimiento verde cortado muy fino.
 
 Cortar el pan en rodajas y tostarlo (es importante que esté bien tostado ya que si no hace goma).

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Puerros
 
 coñac
@@ -38,6 +37,5 @@ sal
 txangurro
 
 <h3>Preparación</h3>
-
 Se trituran todos los ingredientes, incluido el txangurro. Después, se mete al horno al baño María en un molde untado de mantequilla. Cuando está hecho, se adorna con mahonesa.
 

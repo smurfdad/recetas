@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 kg. de berenjenas
 
 1 cebolla
@@ -28,7 +27,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Se hace un sofrito de cebolla cortada a cuadritos con los tacos de jamón.
 
 Se añaden las berenjenas cortadas a cuadritos y se cocina junto a fuego lento tapado.

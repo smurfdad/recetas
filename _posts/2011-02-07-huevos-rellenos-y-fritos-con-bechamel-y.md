@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 huevos.
 
 Medio litro de leche.
@@ -31,7 +30,6 @@ Pimienta.
 Medio litro de salsa de tomate para acompañar los huevos.
 
 <h3>Preparación</h3>
-
 En un cazo ponemos los 8 huevos a cocer, les echamos un puñado de sal, no muy grande, y dejamos que hiervan durante 10 minutos, después de los cuales dejamos enfriar. Cuando estén fríos o templados los pelamos y reservamos.
 
 Mientras cuecen los huevos preparamos una bechamel con las 3 cucharadas de aceite, 3 de harina y el cuarto de litro de leche. Sazonamos la bechamel con sal, un poco de nuez moscada y un poco de pimienta.

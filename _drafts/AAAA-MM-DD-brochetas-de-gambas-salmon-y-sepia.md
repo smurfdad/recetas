@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de gambas
 
 1/2 kg de salmon fresco
@@ -40,7 +39,6 @@ pan rallado
 ajos
 
 <h3>Preparación</h3>
-
 Se ponen las brochetas un rato antes en agua para que no se quemen.
 
 Se pelan las gambas dejando la cola, se parte el salmón en dados y la sepia en tiras

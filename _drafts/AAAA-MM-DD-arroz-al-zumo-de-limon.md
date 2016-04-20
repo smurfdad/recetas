@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 Taza y media de arroz
 
 2 cucharadas de coco desecado
@@ -45,7 +44,6 @@ media taza de ghee
 1/3 cucharadita de semillas de mostaza
 
 <h3>Preparación</h3>
-
 Cueza en una cacerola el arroz con el agua y la cúrcuma a fuego fuerte hasta que hierva,tapelo bien y deje cocer a fuego lento durante 15 minutos.
 
 Humedezca el coco desecado con la leche y dejelo aparte

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 tajadas de bacalao de 100 gr.
 
 50 gr. de arroz
@@ -32,7 +31,6 @@ Para 4 personas.
 1/4 litro de cava
 
 <h3>Preparación</h3>
-
 Desalar el bacalao durante 36 horas en cámara, cambian 3 veces el agua. En un cazo se suda a fuego lento la chalota picada con 2 cucharadas de aceite. Cuando esté blanda, se agrega el arroz, que se rehoga con unas gotas de cava durante 2 minutos. Después se incorpora el caldo de verduras hirviendo hasta cubrir ligeramente. Remover de vez en cuando con una espátula de madera.
 
 Según se va consumiendo el caldo, añadir más poco a apoco, siempre hirviendo y que cubra ligeramente el arroz. Cuando lleve 17 minutos se prueba y, si está al dente, se retira del fuego, se añade la mantequilla y se remueve para que quede cremoso.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de carne picada
 
 2 tazas de arroz
@@ -43,12 +42,10 @@ zumo de 2 limones
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Se pone la carne picada en un recipiente, se añade sal y pimienta, perejil, las cebollas ralladas, el arroz y se amasa bien hasta que se unan todos los ingredientes. A continuación se pone en una cacerola 2 litros de agua o caldo de carne y se hierve a fuego mediano. Mientras tanto, se forman las pequeñas bolitas con la carne picada y se echan en el caldo hirviendo y se deja a fuego lento durante 1 hora y media.
 
 Después se retira la cacerola del fuego y se hace la salsa de la siguiente manera: En un recipiente se baten, con las varillas, primero las claras y después las yemas, se añade, poco a poco el limón, la harina de maíz y el caldo del guiso. Se vierte la salsa sobre las yuvarlakia, moviendo la cacerola circularmente.
 
 <h3>Observaciones</h3>
-
 Plato típico griego
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de habas frescas
 
 200 gr venas de ternera
@@ -36,7 +35,6 @@ Para 4 personas.
 1 pastilla de caldo de carne
 
 <h3>Preparación</h3>
-
 Picar la cebolla bien fina y ponerla en una cazuela a rehogar despacio con un poco de aceite.
 
 Cuando este echa, agregar la carne troceada y freírla bien, después añadir el tomate pelado y cortado en dados.

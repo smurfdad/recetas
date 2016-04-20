@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 1 paquete de zanahorias picaditas
 
 1 paquete de queso crema
@@ -33,7 +32,6 @@ Para 4 personas.
 1/3 leche evaporada
 
 <h3>Preparación</h3>
-
 En un procesador de alimento, mezcla el queso crema, blue cheese y la leche .
 
 Refrigeralo por media hora.

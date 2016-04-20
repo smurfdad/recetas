@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 Endibias
 
 50 gr. de mantequilla
@@ -39,6 +38,5 @@ Para 4 personas.
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Lavamos y cortamos las endibias y las patatas en trocitos, picamos la cebolla y rehogamos estos ingredientes en la mantequilla a fuego suave, durante 30 minutos aprox. Disolvemos las pastillas de caldo en 1 litro de agua y lo añadimos a las verduras. Dejamos cocer durante 20 minutos, lo salpimentamos y lo pasamos por el pasapurés. Agregamos la nata y cocemos durante 5 minutos más, decoramos con unas hojitas de perejil.
 

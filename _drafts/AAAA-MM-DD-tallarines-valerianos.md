@@ -21,7 +21,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 500g de tallarines
 
 150cc de aceite de oliva
@@ -51,7 +50,6 @@ Azafrán
 Perejil picado
 
 <h3>Preparación</h3>
-
 En una cacerola ponemos la pechuga de pollo a hervir con el ramo de hierbas y el laurel. Retirar la pechuga y reservar el caldo. Dorar en manteca y aceite de oliva, agregamos, la cebolla, el tomate, los pimientos, los champiñones y la pechuga cortada en tiritas salpimentamos.
 
 Luego agregamos las arvejas y dejamos a fuego moderado hasta que todo este dorado. Se le agrega el caldo con el azafrán disuelto continuamos cocinando a fuego bajo.

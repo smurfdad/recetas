@@ -23,7 +23,6 @@ Para 5 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 4 Boniatos(Sweet Potatos)
 
 Anis 1 cucharadita
@@ -35,7 +34,6 @@ Sal media cucharadita
 una taza de azucar
 
 <h3>Preparación</h3>
-
 Hervir los boniatos con una pizca de sal, agregarle una cucharadita de anis de semilla y tres palitos de canela.
 
 Dejarlo a fuego medio hasta que al introducirle un palillo atraviese los boniatos.

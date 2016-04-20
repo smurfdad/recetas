@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tarrina de 150 gr. de queso Philadelphia
 
 1 lámina de pasta brisa descongelada
@@ -40,7 +39,6 @@ Para 4 personas.
 1 cucharada de harina
 
 <h3>Preparación</h3>
-
 Poner a remojo las ciruelas en ron durante 30 min. Estirar la pasta, forrar un molde, pinchar con el tenedor y forrar de aluminio presionando.
 
 Hornear a 180&ordm; durante 10 min. Retirar el papel de aluminio.

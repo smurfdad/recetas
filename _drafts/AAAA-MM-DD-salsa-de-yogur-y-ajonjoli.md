@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 taza de yogur natural
 
 1 cda. de crema de ajonjolí o tahini
@@ -30,10 +29,8 @@ categories:
 1 diente de ajo machacado
 
 <h3>Preparación</h3>
-
 Mezclar todos los ingredientes en un recipiente. Enfriar en la nevera hasta el momento de servir.
 
 <h3>Observaciones</h3>
-
 El tahini o crema de ajonjolí lo venden en latas en los automercados, tiendas gourmet o árabes.
 

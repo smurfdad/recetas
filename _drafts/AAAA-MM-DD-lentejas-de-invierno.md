@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 600 grs de Lentejas
 
 2 Pimientos verdes
@@ -41,6 +40,5 @@ Aceite de oliva
 Sal
 
 <h3>Preparación</h3>
-
 Picar los pimientos verdes en cuadraditos, ponerlas en una cazuela junto a las lentejas y 1,5 litros de agua. Poner a fuego bajo y cocinar cerca de 40 minutos. Cortar la cebolla finamente y la zanahoria en medias lunas (esto es, cortar una pequeña rodaja no muy gruesa y ésta cortarla por la mitad). Cortar el bacon en tiritas. Reservar todo. Mientras se cuecen las lentejas, ponemos en una sartén a rehogar la cebolla y la zanahoria hasta que estén blandas. Cuando hayan pasado los 40 minutos de la cocción de las lentejas, le añadiremos la cebolla y la zanahoria rehogadas, al bacon y el arroz. Cocinaremos unos 20 minutillos, le pondremos sal, un chorrito de aceite y lo retiraremos del fuego. Lo dejamos que repose un momento antes de servirlo.
 

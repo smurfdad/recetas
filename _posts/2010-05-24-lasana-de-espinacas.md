@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 paquetes de placas de canelones sin cocción
 
 1/2 kg. de espinacas (pueden ser congeladas)
@@ -26,7 +25,6 @@ Para 6 personas.
 mantequilla para untar
 
 <h3>Preparación</h3>
-
 Cocer las espinacas si son frescas, en agua salada hirviendo, durante diez minutos. Si son congeladas meterlas al microondas junto con un vaso con agua a la mitad, durante 8 minutos.
 
 Una vez hecha la bechamel, reservar.

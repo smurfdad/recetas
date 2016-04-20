@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 pierna de cordero (con cortes)
 
 1 cebolla grande o dos pequeños
@@ -42,7 +41,6 @@ una ramita de romero
 2 dientes de ajo
 
 <h3>Preparación</h3>
-
 Limpiar la pierna muy bien, y dejarla escurrir. Luego ponerla en una fuente de cristal con el oporto, el zumo de limón, los granos de pimienta, la hoja de laurel, el romero y el ajo cortados en trocitos. Taparla y dejar en la nevera durante toda la noche (lo mejor es utilizar dos fuentes de cristal iguales, una tapando la otra.
 
 Tres horas y media antes de que quiera servir la pierna, calentar el horno a 150&ordm;. Abrir la fuente, darle la vuelta al cordero, de manera que la parte que estaba en el líquido durante la noche ahora está arriba.

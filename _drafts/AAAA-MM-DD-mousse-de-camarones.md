@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 2 cdas de gelatina sin sabor
 
 50 cc(1/4 taza) de agua
@@ -44,7 +43,6 @@ pimienta
 nuez moscada
 
 <h3>Preparación</h3>
-
 Disolver la gelatina en el caldo tibio, agregarla a la salsa blanca (véase salsas básicas)y condimentar con sal, pimienta y nuez moscada.
 
 Llevar a la heladera hasta que espese, luego mezclar con los camarones y el jugo de limón.

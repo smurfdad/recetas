@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de perejil finamente picado
 
 1 huevo batido
@@ -40,7 +39,6 @@ Para 4 personas.
 3 cucharadas de mantequilla
 
 <h3>Preparación</h3>
-
 En un tazón grande mezclar el perejil con el huevo, mayonesa, mostaza y sal.
 
 Desmenuzae finamente el surimi y agrégarlo a lo anterior junto con el pan; mezclar hasta que todo esté integrado.

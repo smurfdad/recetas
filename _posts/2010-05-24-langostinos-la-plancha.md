@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. langostinos
 
 1 limón
@@ -19,7 +18,6 @@ sal gorda
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Los langostinos, si son congelados, dejarlos descongelar.
 
 Calentar la plancha e ir pasando cada langostino por aceite y colocarlos sobre la plancha.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 BIZCOCHO
 
 6 claras
@@ -43,7 +42,6 @@ RELLENO
 1 cucharadita vainilla
 
 <h3>Preparación</h3>
-
 Montamos bien las claras a punto de Nieve y vamos espolvoreando el azúcar glass.
 
 Cuando esté bien mezclado añadimos la avellana y la maicena tamizada. Mezclamos con cuidado y al molde cubierto de Albal. Y al horno 160 grados ó 170 grados (unos 15 ó 20 min.). Para el relleno batimos muy bien la mantequilla y le añadimos el azúcar hasta hacer una crema. Cuando saquemos el bizcocho del horno, lo dejamos enfriar y lo partimos por la mitad. Lo cubrimos con el relleno y ponemos la tapa y por encima espolvoreamos con azúcar glass. El relleno también puede ser de crema pastelera.

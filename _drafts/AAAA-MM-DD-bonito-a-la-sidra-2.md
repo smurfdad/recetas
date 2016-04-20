@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 750 gr. bonito (en filetes)
 
 sal y pimienta
@@ -46,6 +45,5 @@ aceite de oliva
 1/2 l. sidra
 
 <h3>Preparación</h3>
-
 Lavar y secar los filetes de bonito y sazonarlos con sal y pimienta. Pasar el pescado por harina y freírlo en aceite de oliva por los dos lados. Reservar caliente en una fuente de horno. Pelar y cortar las patatas en dados pequeños y dorarlas en el mismo aceite que se ha hecho el pescado. Añadir la cebolla pelada y picada, el ajo, los trozos de manzana, también dorados y picados y las almejas. Tapar y rehogar todo durante unos minutos removiendo la fuente con frecuencia. Incorporar el bonito y añadir la sidra. Meter en el horno caliente (175 grados), durante 10 minutos y servir enseguida.
 

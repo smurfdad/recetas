@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 500 g de arroz
 
 3 muslos de gallina
@@ -50,6 +49,5 @@ unas hebras de azafrán
 sal
 
 <h3>Preparación</h3>
-
 Deshuesar los muslos de gallina. Trocear a dados y rehogar con aceite. Añadir el pimiento verde, la cebolla, el ajo y el pimiento rojo previamente asado, todo picado muy fino. Por último añadir el tomate rallado. Agregar los caracoles engañados, el azafrán machacado a mortero y los carabineros. Rehogar un rato hasta que la gallina esté tierna. Retirar los carabineros y añadir el arroz. Mojar con el caldo obtenido con los huesos de gallina. Disponer los carabineros por encima y dejar cocer a fuego moderado de 18 a 20 minutos.
 

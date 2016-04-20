@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 4 Aguacates maduros, pelados
 
 1 Sobre de gelatina sabor de limón
@@ -40,6 +39,5 @@ Jugo de dos limones
 Frutas al gusto
 
 <h3>Preparación</h3>
-
 Licúe los aguacates sin la semilla en dos tazas de caldo de gallina y el jugo de dos limones. Añada taza y media de la crema de leche. Aparte humedezca la gelatina sin sabor en un poco de agua fría, agregue la media taza restante de caldo de gallina bien caliente y la gelatina de limón. Incorpore a la mezcla de aguacate y revuelva bien. Por último vierta la mezcla en un molde previamente engrasado y refrigere por 12 horas, desmolde sobre una bandeja y adorne con el resto de crema de leche batida con el azúcar y frutas al gusto.
 

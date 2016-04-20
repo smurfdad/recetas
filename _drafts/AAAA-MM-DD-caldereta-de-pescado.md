@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gramos de camarones
 
 2 calamares medianos
@@ -51,7 +50,6 @@ unas ramitas de perejil
 sal
 
 <h3>Preparación</h3>
-
 Limpiar los calamares, los mejillones y las almejas. Lavar y secar el pescado y los camarones. Sofreir en una cazuela con el aceite el pescado, los camarones y los calamares.
 
 Retirar y reservar. Pelar y picar el ajo; escaldar, pelar y trocear los tomates. Llavar y picar el perejil. Incorporar el ajo y el tomate a la cazuela, salar y dejar cocer durante 15 minutos a fuego medio, removiendo y añadiendo, si es necesario, un poco de agua caliente. Machacar la guindilla y añadirla a la cazuela, junto con el vino blanco.

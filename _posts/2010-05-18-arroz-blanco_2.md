@@ -22,7 +22,6 @@ Para 5 personas.
 - aceite de oliva, sal
 
 <h3>Preparación</h3>
-
 Rehogar en un poco de aceite los ajos picados en trocitos sin que lleguen a dorarse.
 
 Añadir el arroz y saltearlo.

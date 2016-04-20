@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3 aguacates
 
 1/2 calabacín
@@ -58,7 +57,6 @@ Guarnición:
 unas rebanadas de pan tostado
 
 <h3>Preparación</h3>
-
 Corta los aguacates por la mitad, retira los huesos, pélalos y pícalos. Limpia el calabacín y el pimiento, trocéalos y añádelos al cuenco. Pela el pepino
 
 y el diente de ajo, pícalos y añádelos. Pica también unas ramas de cebollino e incorpóralas. Sazona todo, vierte un chorrito de vinagre y un poco más de
@@ -72,7 +70,6 @@ Pela el tomate y los huevos cocidos y pícalos en daditos. Pica también el pimi
 en un plato y coloca al lado las rebanadas de pan tostado. Sirve el gazpacho y acompáñalo con la guarnición.
 
 <h3>Observaciones</h3>
-
 Para enfriar el gazpacho, colócalo en una jarra, tápalo con film de cocina e introduce en el frigorífico. A no ser que el gazpacho esté muy espeso, nunca
 
 lo serviremos con esos innecesarios cubitos de hielo que lo aguarán convirtiéndolo en un caldo sin sabor. Si tenéis mucha prisa en enfriarlo, podéis añadir

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 Arepas con chicharrón (12 a 14 arepas):
 
 300 gr. de harina de trigo o 500 gr. de harina de maíz
@@ -67,7 +66,6 @@ agua y sal
 300 gr. de queso rallado, no muy seco, aceite.
 
 <h3>Preparación</h3>
-
 Con chicharrón:
 
 Prepare la masa de la misma manera que se preparan las arepas normalmente. Pero mezcle de una vez todos los ingredientes: la harina, el chicharrón, la crema de leche, leche pasteurizada, polvo de hornear, sal y pimienta.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 120 gr.de margarina
 
 1 taza de azúcar
@@ -38,7 +37,6 @@ Para 4 personas.
 1/2 taza de nueces picadas
 
 <h3>Preparación</h3>
-
 Con la margarina y el azúcar formar una crema, luego agregar los huevos, las bananas bien maduras (pizarlas hasta formar un puré).
 
 Ponerle media cucharadita de bicarbonato. También agregar las nueces y mezclar bien. Colocar la masa en un molde de puding.

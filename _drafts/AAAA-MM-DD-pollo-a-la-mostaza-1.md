@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Pechuga de pollo sin hueso
 
 Cebolla
@@ -37,6 +36,5 @@ Mantequilla
 Salsa inglesa
 
 <h3>Preparación</h3>
-
 Se pica la cebolla en aros. Se sofrie en mantequilla, se echa el pollo, la sal, la salsa inglesa, la mostaza y se cocina 15 minutos.
 

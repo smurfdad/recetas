@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 champiñones.
 
 4 palos de brochetas.
@@ -41,7 +40,6 @@ Pimienta.
 4 pimientos verdes en tiras.
 
 <h3>Preparación</h3>
-
 Hacemos cuatro brochetas, intercalando champiñones ya limpios, trozos de bacón y taquitos de pechuga de pollo.
 
 Las salpimentamos y ponemos a la plancha con un chorrito de aceite, dándoles la vuelta cada tres minutos. Cuando las brochetas estén hechas, se sirven acompañadas de tiras de pimiento verde frito.

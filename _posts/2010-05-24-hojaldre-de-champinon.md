@@ -10,7 +10,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. pasta de hojaldre
 
 1 kg. champiñón
@@ -28,7 +27,6 @@ Para 8 personas.
 perejil, sal, pimienta molida, nuez moscada
 
 <h3>Preparación</h3>
-
 Freír el bacon con la cebolla y el champiñón en trocitos.
 
 Cuando esté frito dejar enfriar y añadir los demás ingredientes mezclando bien.

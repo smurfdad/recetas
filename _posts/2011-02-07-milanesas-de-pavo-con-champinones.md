@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 milanesas de pavo (1 cm de grueso)
 
 500 g de champiñones de Paris
@@ -26,7 +25,6 @@ Para 6 personas.
 sal, pimienta
 
 <h3>Preparación</h3>
-
 Limpiar los champiñones y cortarlos en cuatro.
 
 Recortar las cebolletas.

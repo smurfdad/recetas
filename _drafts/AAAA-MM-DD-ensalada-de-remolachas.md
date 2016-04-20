@@ -23,7 +23,6 @@ categories:
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 remolachas cocidas
 
 zanahorias ralladas
@@ -35,6 +34,5 @@ huevos duros
 tomate fresco cortado
 
 <h3>Preparación</h3>
-
 Colocar en una fuente las remolachas cortadas,y agregar las zanahorias,apio ,huevos y los tomates, agregar sal aceite y mayonesa unir todo llevar a la heladera.
 

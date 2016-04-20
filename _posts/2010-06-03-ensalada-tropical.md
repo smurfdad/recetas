@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 lechuga
 
 2 tomates medianos
@@ -22,7 +21,6 @@ Para 4 personas.
 100 gr mango
 
 <h3>Preparación</h3>
-
 Lavar y picar la lechuga en juliana fina.
 
 El tomate en gajos.

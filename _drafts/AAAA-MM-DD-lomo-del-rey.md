@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1k de lomo limpio
 
 100g de manteca
@@ -43,7 +42,6 @@ Para 4 personas.
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Condimentar el lomo colocarlo en una fuente de horno y cocinarlo con la manteca durante 35 minutos a horno fuerte.
 
 En una sartén dorar en manteca los ajos los puerros y la cebolla agregarles los tomates y el extracto de tomate después de unos minutos agregar el vino, el azúcar, salpimentar dejar reducir.

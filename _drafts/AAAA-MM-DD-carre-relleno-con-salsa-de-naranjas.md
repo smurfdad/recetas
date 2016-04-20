@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 carré
 
 1 manzana verde
@@ -68,7 +67,6 @@ Pimiente negra de molinillo
 120g de roux
 
 <h3>Preparación</h3>
-
 Pelar la manzana frotarla con el medio limón y cortarla en trocitos. En una sartén colocar la manteca y rehogar la manzana con las ciruelas, agregar el azúcar y el oporto y cocinar a fuego bajo hasta que reduzca apagar el fuego agregar las nueces y un poco de pimienta y reservar.
 
 Abrir el carré en forma de libro, con un cuchillo filoso cortarlo longitudinalmente a 1/3 de altura de la base hasta el centro, ahí se abre como un libro luego, cortar la otra parte (que ha quedado más alta) al medio, de esta manera el carré queda abierto a manera de matambre. Colocar el relleno en el interior del carré sin llegar a los bordes enrollarlo y atarlo.

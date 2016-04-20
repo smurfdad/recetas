@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1cebolla mediana
 
 3 dientes de ajo
@@ -24,7 +23,6 @@ sal
 1litro de agua
 
 <h3>Preparación</h3>
-
 Picar muy fina la cebolla y el ajo, poniéndolo en una cazuela con un poco de aceite a rehogar.
 
 Cuando este echo, añadir el tomate y las espinacas, y rehogar todo bien.

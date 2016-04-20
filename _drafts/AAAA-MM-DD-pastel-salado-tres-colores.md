@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 250 g de paté
 
 dos porciones de queso azul
@@ -36,7 +35,6 @@ dos porciones de queso azul
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Se cuecen en agua con sal las espinacas y se escurren muy bien. Se sazonan con un poquito de pimienta negra. Se trituran con 60 gr de nata líquida y se mezclan con un tercio de los polvos de gelatina.
 
 Se mezclan el queso y el paté y se añade otros 60 gr de nata líquida y otro tercio de gelatina.

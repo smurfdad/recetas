@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de lisas
 
 1 cebolla
@@ -40,6 +39,5 @@ azafrán
 sal.
 
 <h3>Preparación</h3>
-
 Se limpian y se trocean las lisas, y se colocan los trozos en una cazuela. Se pone el aceite a calentar en una sartén y se fríen un par de rebanadas de pan; una vez fritas se echan en un mortero. A continuación se fríen la cebolla y el ajo bien picados. Una vez dorados, se escurren y se echan en el mortero, vertiendo el aceite frito sobre el pescado. Se machacan los avíos del mortero, se les agregan unas hebras de azafrán, haciendo con todo el conjunto una pasta fina, que se deslíe con un poco de agua y se echa sobre el pescado. Se añade por último el zumo del limón, se sazona con sal y se deja cocer durante unos 10-15 minutos. Se sirve bien caliente.
 

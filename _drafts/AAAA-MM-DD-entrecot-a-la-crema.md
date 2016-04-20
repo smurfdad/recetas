@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>
-
 4 filetes de lomo (lomito, solomo) de ternera
 
 500 gramos de zanahorias cortadas en rodajas
@@ -41,7 +40,6 @@ Para 4 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Cocine las zanahorias en agua con sal hasta que estén tiernas.
 
 Escúrralas y saltéelas en una sartén con una cucharada de mantequilla. Retírelas del fuego y resérvelas al calor.

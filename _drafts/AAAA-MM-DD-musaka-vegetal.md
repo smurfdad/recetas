@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 ó 5 berenjenas
 
 1/2 kilo de patatas cocidas
@@ -54,7 +53,6 @@ Para la bechamel:
 Sal, pimienta y nuez moscada rallada
 
 <h3>Preparación</h3>
-
 Lavar, limpiar y cortar las berenjenas en rodajas de 1 cm de grosor. Sumergir en abundante agua con sal mientras se sigue con la preparación de la musaka.
 
 En una cacerola, calentar aceite y sofreír la cebolla picada hasta que quede transparente.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 tajadas de bacalao salado.
 
 300 gramos de salmón ahumado.
@@ -36,7 +35,6 @@ Salsa de tomate.
 Perejil picado.
 
 <h3>Preparación</h3>
-
 Desalamos el bacalao y lo mechamos con el salmón. En una cazuela de barro, con aceite, ponemos a dorar los dientes de ajo enteros. Cuando est n bien doraditos, los retiramos y reservamos.
 
 Freímos a continuación el bacalao, tres minutos por cada lado, en primer lugar con la piel hacia arriba. Apartamos la cazuela del fuego y retiramos el aceite, dejando sólo el bacalao.

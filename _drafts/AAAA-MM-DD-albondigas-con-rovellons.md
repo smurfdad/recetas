@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg.de albóndigas
 
 1/2 copa de Coñac
@@ -50,7 +49,6 @@ Aceite de Oliva
 Sal y Pimienta
 
 <h3>Preparación</h3>
-
 Sofreir las albóndigas en una cazuela con aceite caliente; cuando estén a medio cocer, retirarlas del fuego y colocar la cebolla en la cazuela, pelada y cortada muy fina. Cuando la cebolla tenga color de miel, añadir los guisantes (pelados), el pimiento rojo y el verde (lavados y cortados pequeños),
 
 y la zanahoria (pelada y cortada en dados).

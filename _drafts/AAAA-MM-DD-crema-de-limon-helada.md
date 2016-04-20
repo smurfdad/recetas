@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 limones grandes.
 
 100 gramos azúcar molida.
@@ -33,7 +32,6 @@ Para 4 personas.
 2 claras de huevo.
 
 <h3>Preparación</h3>
-
 Exprimimos los limones hasta obtener el zumo y reservamos la cáscara intentando limpiar bien su interior.
 
 Mezclamos el azúcar con el zumo de limón y los yogures.
@@ -45,6 +43,5 @@ Una vez tengamos la crema espumosa introducimos dentro de la cáscara de limón 
 Introducimos estos limones rellenos al congelador durante 2 horas antes de consumir para que se semi congele pero que no se endurezca en exceso.
 
 <h3>Observaciones</h3>
-
 Puede adornarse con virutas o ralladuras de limón y hojas de menta.
 

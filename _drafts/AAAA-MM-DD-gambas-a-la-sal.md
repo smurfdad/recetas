@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 50 gambas pequeñas
 
 1 kg de Sal Costa Alta Cocina
@@ -34,7 +33,6 @@ el zumo de 2 limones
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Se remoja la Sal Costa con dos cucharadas de agua; se precalienta el horno a 200&ordm;; se pelan los dientes de ajo y se cortan en láminas finas.
 
 Se dispone la mitad de la sal en una fuente refractaria; se ponen las gambas sobre la sal, una al lado de la otra; se cubren con la sal restante.

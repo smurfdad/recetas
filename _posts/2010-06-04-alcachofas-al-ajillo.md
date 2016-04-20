@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo alcachofas
 
 1 limón
@@ -19,7 +18,6 @@ Para 4 personas.
 sal
 
 <h3>Preparación</h3>
-
 Preparar un cubo con agua y un chorrito de limón.
 
 Ir poniendo las alcachofas e introducirlas en el cubo para evitar que se oxiden (se pongan negras.

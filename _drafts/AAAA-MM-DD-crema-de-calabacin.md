@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de calabacines
 
 una patatas
@@ -30,6 +29,5 @@ una patatas
 2 quesitos
 
 <h3>Preparación</h3>
-
 Poner a cocer los calabacines pelados y troceados en un poco de agua, trocea la patata y échala también para que se cueza todo junto. Cuando esta todo cocido lo pasas por la batidora y echas los dos quesitos, y ya esta lista para comer
 

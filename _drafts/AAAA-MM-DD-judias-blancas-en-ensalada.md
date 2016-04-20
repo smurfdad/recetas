@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 300 gramos de alubias blancas.
 
 Costrones de pan frito.
@@ -47,7 +46,6 @@ Vinagreta:
 Sal.
 
 <h3>Preparación</h3>
-
 Las alubias, que la noche anterior han estado en remojo, se ponen en una cazuela, con agua fría y sal, y se cuecen durante cuarenta minutos.
 
 Mientras, hacemos una vinagreta con tomates, huevos cocidos, cebolleta, vinagre, aceite, pimiento y sal.

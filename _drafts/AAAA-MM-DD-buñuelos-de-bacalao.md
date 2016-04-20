@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 grs. de bacalao desalado
 
 200 grs. de patatas
@@ -44,6 +43,5 @@ Nuez moscada
 Aceite
 
 <h3>Preparación</h3>
-
 Se cuecen las patatas y se hace un puré. Se cuece el bacalao y se limpia de piel y espinas, desmigándolo bien. En un recipiente se mezclan el puré de patata, el bacalao, la cebolla y el perejil picados muy finos y el vino, aderezando con sal y nuez moscada. A continuación se van incorporando los huevos uno a uno para ligar la masa (3 o 4 según admita). Con dos cucharas se coje un poco de masa, se le da forma y se fríe en aceite bien caliente.
 

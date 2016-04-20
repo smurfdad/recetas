@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kilo alubias blancas
 
 1 cebolla
@@ -33,7 +32,6 @@ sal
 aceite
 
 <h3>Preparación</h3>
-
 Poner las alubias a remojo la noche anterior. A la mañana siguiente poner a cocer las alubias con agua fría sazonada con sal.
 
 Cuando rompa a cocer, quitar la espuma y continuar con la cocción.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de venas de ternera
 
 2 cebollas
@@ -46,7 +45,6 @@ aceite
 caldo de carne
 
 <h3>Preparación</h3>
-
 Cortar la carne en tacos, sazonarla con sal y pasarla por harina.
 
 Freír la carne en abundante aceite caliente, hasta verla doradita.

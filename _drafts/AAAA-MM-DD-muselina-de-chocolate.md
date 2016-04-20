@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 8 huevos
 
 1 libra de mantequilla
@@ -32,6 +31,5 @@ categories:
 nueces picadas
 
 <h3>Preparación</h3>
-
 Derretir el chocolate troceado a baño María, hasta que esté como puré. Batir la mantequilla hasta que esté cremosa, agregar poco a poco el azúcar y seguir batiendo. Agregar el chocolate derretido lentamente y cuando esté todo bien mezclado, agregarle uno por uno los huevos, hasta que este todo unido. Colar la preparación, agregar las nueces y poner en un bonito recipiente y llevar al congelador. Este postre se prepara la víspera.
 

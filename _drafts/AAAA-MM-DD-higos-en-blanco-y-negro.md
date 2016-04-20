@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 Brevas o higos
 
 200 Grs. chocolate negro (para fundir)
@@ -34,7 +33,6 @@ Para 6 personas.
 200 Ml. de nata líquida
 
 <h3>Preparación</h3>
-
 Limpiar las brevas o los higos, que deberán ser igual de tamaño. Montar la nata con el azúcar y ponerla en una manga pastelera con boquilla lisa. Hacer un pequeño corte en la parte superior de cada higo (en la puntita).
 
 Ahuecar el interior de cada higo con el mango de una cucharilla.

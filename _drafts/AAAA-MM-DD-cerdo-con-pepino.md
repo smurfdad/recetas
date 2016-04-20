@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 solomillo de cerdo o 250 gr. de magro
 
 2 pepinos pequeños
@@ -55,10 +54,8 @@ Para 4 personas.
 2 cucharadas de agua
 
 <h3>Preparación</h3>
-
 Cortar la carne en dados y le añadís 1 cucharada de salsa de soja y una cucharilla de maicena, mezclando bien todo. Cortar el pepino en dados. Mezclar los dados de cerdo y pepino y freírlos por 30 segundos. Picar la cebolla, pimientos y jengibre en juliana, que no sea muy fina. Mezclar, la cucharilla de glutamato, sal, azúcar, maicena con la cucharada de vinagre, salsa de soja, aceite de sésamo y las dos cucharadas de agua. La cebolla, jengibre y pimiento lo saltearemos en el wok con una cucharada de aceite, le añadiremos la cucharada de pasta picante de soja y el cerdo con el pepino, saltearemos el conjunto rápidamente a fuego bien vivo, terminado el salteado le añadiremos la mezcla de ingredientes líquidos que tenemos previamente preparada y una cucharada de aceite, una vez levantado el hervor, sacar del fuego y servir.
 
 <h3>Observaciones</h3>
-
 Cocina cantonesa
 

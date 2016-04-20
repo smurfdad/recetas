@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de trocitos de pollo o alas cortadas por la articulación
 
 2 cebollas
@@ -25,7 +24,6 @@ un poco de leche
 sal, aceite, pimienta
 
 <h3>Preparación</h3>
-
 Dorar ligeramente los trozos de pollo y añadir las cebollas y manzanas picadas.
 
 Rehogar todo y añadir el curry, moviéndolo con cuchara de madera.
@@ -41,5 +39,4 @@ Colocar pollo y salsa en una bandeja honda se servir.
 Se puede acompañar con arroz blanco o patatas fritas.
 
 <h3>Observaciones</h3>
-
 Con ésta misma receta se puede cocinar ternera o cordero en trocitos pequeños.

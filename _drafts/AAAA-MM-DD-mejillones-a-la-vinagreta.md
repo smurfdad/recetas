@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 un kilo de mejillones
 
 dos cebolletas
@@ -51,7 +50,6 @@ un diente de ajo
 200 mililitros de vino blanco
 
 <h3>Preparación</h3>
-
 Limpiamos los mejillones de sus barbas bajo el grifo y con ayuda de una puntilla. Ponemos un puchero con un poco de aceite de oliva al fuego y añadimos el ajo picado; cuando comience a dorarse, le añadimos el vino blanco, dejamos que se evapore el alcohol y metemos los mejillones. Cubrimos de agua y los dejamos hervir hasta que estén abiertos. Los escurrimos, separamos la carne de la cáscara y los reservamos.
 
 Picamos en dados pequeños las cebolletas, los pimientos, los pepinillos y el tomate. Lo mezclamos todo en un bol junto con las alcaparras. Lavamos y pelamos el limón y cortamos su piel en juliana fina. La hervimos durante un minuto y la escurrimos, añadiéndoselo a las verduras. Incorporamos aceite, vinagre y sal y lo dejamos que se enfríe.

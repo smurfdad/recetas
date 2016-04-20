@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 solomillos de cerdo
 
 400 cl. de nata para cocinar
@@ -36,6 +35,5 @@ sal
 pimienta molida
 
 <h3>Preparación</h3>
-
 Cortar los solomillos en medallones, salpimentarlos, freirlos en la cazuela. Deshacer el roquefort con la nata y añadirla a los solomillos. Dejar cocer unos 15 minutos y servir con patatas fritas.
 

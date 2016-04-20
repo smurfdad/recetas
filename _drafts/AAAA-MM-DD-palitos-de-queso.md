@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/4 de libra de mantequilla
 
 1/2 libra de queso rallado
@@ -38,7 +37,6 @@ Leche
 Sal
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes hasta formar una masa homogenea.
 
 Con el rodillo se extiende la masa delgada y se cortan tiras largas que luego se dividen en pedazos del tamaño de un cigarrillo.

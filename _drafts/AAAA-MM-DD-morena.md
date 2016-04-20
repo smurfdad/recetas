@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Base Bizcocho
 
 100 gr. de harina
@@ -62,7 +61,6 @@ crema chantilly (antidad necesaria)
 azúcar
 
 <h3>Preparación</h3>
-
 Base Biscocho:
 
 Bata los huevos en batidora eléctrica con el azúcar hasta que espumen y llegue a punto letra.

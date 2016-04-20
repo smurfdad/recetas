@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de mollejas de cordero
 
 1 cebolla
@@ -42,6 +41,5 @@ perejil
 50 cc. de caldo de carne
 
 <h3>Preparación</h3>
-
 Se limpian las mollejas y se cortan en trozos pequeños. En una sartén se pone a freír el aceite con la cebolla, la guindilla, el ajo y el perejil, todo picado, y las mollejas. Cuando esté todo rehogado se le añade un poco de pimentón y harina. A continuación se le deja dar un hervor con el caldo de carne. Sazonar a gusto y servir en cazuela de barro.
 

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 y 1/2 kg. de berberechos
 
 600 gr. de rape
@@ -48,6 +47,5 @@ Para 4 personas.
 Sal y pimienta molida
 
 <h3>Preparación</h3>
-
 Colocar los berberechos en agua con sal para que expulsen la tierra durante tres horas. Abrirlos al vapor y separar las cáscaras de su carne. Cocer el rape en un caldo corto con una zanahoria, una cebolla, una hoja de laurel y sal. Desmenuzar su carne y añadirla a los berberechos. En un recipiente hondo mezclar la cebolla y el pimiento cortados finísimamente con las alcaparras y el huevo también picados, el aceite de oliva, la sal, el vinagre y la pimienta. Incorporar el pescado y revolver bien. Dejar reposar al menos dos horas en el frigorífico y rectificar de sal antes de servir.
 

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 macarrones o espaguettis o tiburones o espirales
 
 jamón serrano
@@ -39,7 +38,6 @@ un pellizco de orégano
 sal
 
 <h3>Preparación</h3>
-
 Hervir la pasta al dente, escurrir y agregar un poco de mantequilla. En una cazuela a parte dorar la cebolla picada fina. Cuando esté doradita agregar el chorizo cortado a dados. Cuando esté frito, agregar el jamón cortado a tiras, sofreir y añadir por último el tomate natural triturado.
 
 Cuando el tomate esté frito regular la acidez con un poco de azúcar. Añadir orégano y apagar el fuego. Servir la pasta y verter la salsa al gusto de cada comensal.

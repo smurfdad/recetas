@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 6 berenjenas medianas
 
 2 cebollas
@@ -48,13 +47,11 @@ Sal y pimienta negra recién molida al gusto
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Lavar las berenjenas, cortarlas en rebanadas, pasarlas por harina y freírlas en una sartén con aceite bien caliente. Espolvorearlas con sal. Picar las cebollas, los ajos y los tomates. Sofreír los ingredientes anteriores en un caldero con un poco de aceite de oliva.
 
 Agregar al sofrito la pasta de tomate y el perejil. Condimentar con sal y pimienta al gusto. Cuando esté lista la salsa, agregar la carne y cocinar. En un pyrex o recipiente refractario distribuir por capas las berenjenas fritas, la carne cocinada y el queso feta o de cabra desmenuzado. Cocinar a 350 &ordm;F durante media hora. Dejar reposar y servir caliente.
 
 <h3>Observaciones</h3>
-
 Se le puede agregar arroz o papas cocinadas entre las capas mencionadas.
 
 Al sofrito se le puede agregar vegetales como guisantes, zanahorias o célery.

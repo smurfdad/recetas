@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 400 gramos de alubias.
 
 1 cebolleta.
@@ -41,7 +40,6 @@ Perejil picado.
 Aceite y Sal.
 
 <h3>Preparación</h3>
-
 Ponemos a cocer las alubias en remojo desde la víspera en agua con sal, a fuego suave para que no se rompan.
 
 Una vez cocidas, las escurrimos y enfriamos bajo el chorro de agua fría. En una sartén, con un poco de aceite, freímos el jamón, el chorizo y el tocino. Cuando están dorados, añadimos la cebolleta y el tomate finamente picados, lo rehogamos y quitamos parte de la grasa. Agregamos las alubias, salteamos a fuego fuerte y las servimos espolvoreadas de perejil picado.

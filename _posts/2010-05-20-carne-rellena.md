@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 750 grs. de tapa para rellenar (pedir en la carnicería)
 
 1/2 kg. de carne picada
@@ -31,7 +30,6 @@ Para 6 personas.
 1 chorrito de vino blanco
 
 <h3>Preparación</h3>
-
 Se echa sal a la carne picada y también las aceitunas picadas.
 
 Se mezcla y se extiende sobre el trozo de carne a rellenar.

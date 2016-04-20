@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cebolletas frescas
 
 2 cucharadas de las de café de ajo picado
@@ -51,7 +50,6 @@ pimienta
 perejil
 
 <h3>Preparación</h3>
-
 Picamos las cebolletas y las reservamos. Salteamos el ajo con un poco de aceite y le añadimos la cebolleta.
 
 Incorporamos al salteado el tuétano picado, rehogando un par de minutos más e incorporamos el arroz; lo salteamos otros dos minutos y le añadimos dos cacillos de fumet. Hervimos y dejamos reducir casi a seco. Añadimos caldo otras 2 ó 3 veces más, lo que nos admita el arroz.
@@ -63,6 +61,5 @@ Salteamos a la plancha las colas de langostinos, apenas vuelta y vuelta para que
 Servimos el arroz en un plato o bandejita, colocando las colas de langostinos encima y espolvoreando perejil picado.
 
 <h3>Observaciones</h3>
-
 Hay que tener presente que el queso parmesano tiene ya cierta cantidad de sal; por tanto, debemos salpimentar con moderación.
 

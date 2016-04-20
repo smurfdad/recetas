@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 200 grs. de frijoles (alubias) cocidos.
 
 200 grs. de Maíz en Granos
@@ -46,6 +45,5 @@ Sal
 Pimienta blanca
 
 <h3>Preparación</h3>
-
 Se mezclan todos los ingredientes y se aderezan con el aceite, sal y pimienta. Se puede servir decorando la ensalada con unas rodajas de tomate, perejil, etc.
 

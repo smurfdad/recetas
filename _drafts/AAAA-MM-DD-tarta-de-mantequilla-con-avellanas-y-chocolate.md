@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Ingredientes para el bizcocho:
 
 4 huevos medianos
@@ -52,7 +51,6 @@ Una tableta de Cobertura de Chocolate Valor (en tableta de 500 g)
 100 g de avellanas tostadas Instrucciones
 
 <h3>Preparación</h3>
-
 Elaboración de la crema de mantequilla:
 
 Batir con las varillas eléctricas la mantequilla y el azúcar molido hasta que quede una crema suave. Después, agregar a la mezcla las dos yemas de huevo, batirlo todo y guardarlo en el frigorífico. Para la cobertura cortar la tableta de Cobertura de Chocolate Valor por la mitad y, con ayuda de un pelapatatas, raspar uno de los trozos de manera que vayan saliendo virutas. Colocarlas con cuidado sobre un plato forrado con un papel de aluminio y guardarlas en la nevera.

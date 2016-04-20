@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 2 kg. de almendras peladas
 
 750 gr.. de azúcar
@@ -35,6 +34,5 @@ Una cucharada de canela
 Un limón Agua
 
 <h3>Preparación</h3>
-
 Escalfar las almendras sin cáscara en agua caliente y quitarles la piel. Partirlas y cocerlas un buen rato con agua. Sacarlas y secarlas con un plato limpio y molerlas majándolas bien en un mortero. Cuando se tenga una pasta, ir agregando el azúcar, los huevos, la canela y la ralladura de la cáscara del limón, amasando a mano. Dejar reposar la masa una hora y hacer bolitas. Meter la bolas al horno unos quince minutos. Sacar y dejar enfriar. Servir fríos.
 

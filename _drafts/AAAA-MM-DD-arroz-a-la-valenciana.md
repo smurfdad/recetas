@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pollo chico
 
 sal, pimienta
@@ -56,7 +55,6 @@ aceite para freír
 1 lata morrones
 
 <h3>Preparación</h3>
-
 Cortar el pollo en presas chicas, condimentar con sal y pimienta, pasarlas por harina y dorarlas en el aceite.
 
 Aparte, en una cazuela, rehogar en la manteca y 3 cdas aceite, la cebolla, el ajo y el ají picados y agregar el tomate.

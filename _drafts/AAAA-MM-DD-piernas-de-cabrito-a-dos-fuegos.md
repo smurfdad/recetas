@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 2 piernas de cabrito recortado forma de jamón
 
 1 cucharada de piñones
@@ -47,6 +46,5 @@ harina
 6 granos de pimienta
 
 <h3>Preparación</h3>
-
 Salpimentadas las piernas y bien enharinadas, se doran en una sartén con los ajos. Se doran a continuación los piñones y se apartan. Se incorpora a las piernas la cebolla picada para dorarla lentamente y a continuación se coloca todo en una cazuela, lo más recogida posible. Se agrega el caldo o agua, con el laurel y los granos de pimienta y se deja hervir muy suavemente. Por último, se incorpora el vino, el perejil y los piñones machacados y se deja hacer hasta que la carne esté suelta. Se rectifica y se presenta en la misma cazuela.
 

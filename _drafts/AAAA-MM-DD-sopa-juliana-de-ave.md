@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 100 gramos de zanahorias.
 
 100 gramos de cebollas.
@@ -48,6 +47,5 @@ Para 6 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Cortamos toda la verdura en juliana (menos los guisantes) y la mezclamos. En una cazuela ponemos a calentar la mantequilla y el aceite, añadiendo el jamón cortado en daditos y, a continuación la verdura. Si los guisantes est n cocidos, los añadimos Después, junto con el caldo. Salamos y pochamos a fuego lento durante 5-10 minutos. Después vertemos el caldo, rectificamos de sal y dejamos que cueza otros veinte minutos, tapado, hasta que reduzca a la mitad.
 

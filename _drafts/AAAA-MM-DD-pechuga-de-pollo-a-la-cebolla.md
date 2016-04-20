@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 Kg. filete de pechuga de pollo
 
 Un sobre de sopa de cebolla
@@ -31,6 +30,5 @@ Un sobre de sopa de cebolla
 Un bote de leche evaporada Ideal
 
 <h3>Preparación</h3>
-
 Rebozar los filetes en la sopa de cebolla, poner en una bandeja de horno y echar por encima la leche. Meter al horno a fuego medio un cuarto de hora.
 

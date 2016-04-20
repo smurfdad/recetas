@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de mero, cortados en tres tiras
 
 600 g de pulpo, limpio y cocido, en trozos
@@ -44,7 +43,6 @@ sal y pimienta a gusto
 4 cucharadas de manteca
 
 <h3>Preparación</h3>
-
 En el centro de un cuadrado de papel de aluminio coloque tres tiras de mero y acomode encima 1/4 parte del pulpo, de los camarones, de las ostras y del kanikama. Sobre los mariscos, acomode 1/4 de las rebanadas de cebolla, los trozos de tomate y coloque la manteca encima. Repita la operación con los otros 3 filets y salpimiente a gusto
 
 Doble el papel de aluminio y enrolle las orillas para cerrar bien el paquete.

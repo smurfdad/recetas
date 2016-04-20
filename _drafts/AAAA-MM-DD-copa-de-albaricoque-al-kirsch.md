@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 tarrinas de 200 gramos de queso Philadelphia
 
 12 albaricoques
@@ -38,7 +37,6 @@ Para 6 personas.
 3 cucharadas de leche
 
 <h3>Preparación</h3>
-
 Partir los albaricoques ya pelados en dos, quitarles el hueso y colocarlos en seis copas. Espolvorear los albaricoques con azúcar y rociarlos con Kirsch.
 
 En un recipiente aparte, mezclar la leche, la crema de leche, el queso y el azúcar que ha sobrado después de espolvorear los albaricoques. Repartir la crema anterior sobre los albaricoques y adornar con las almendras enteras o fileteadas.

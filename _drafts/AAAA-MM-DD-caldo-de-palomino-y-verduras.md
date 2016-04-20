@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 palominos
 
 2 l de vino blanco
@@ -46,7 +45,6 @@ Caldo de consomé
 1 cabeza de ajos
 
 <h3>Preparación</h3>
-
 Se cortan las verduras y las patatas de forma juliana. Se hierven por separado, se dejan enfriar y se reservan. Se despluman los palominos, se destripan y una vez desangrados se rehogan con la mantequilla, junto con las cebollas troceadas, los ajos y el laurel y se pone todo a cocer con el vino durante una hora aproximadamente, reservándose el caldo.
 
 Se deshuesan los palominos y se añaden al caldo de consomé preparado previamente, junto con las verduras y el caldo de la cocción de los palominos, dejándolo hervir todo durante 10 minutos.

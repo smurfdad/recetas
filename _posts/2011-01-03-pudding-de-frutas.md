@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 l. de leche
 
 canela en rama
@@ -26,7 +25,6 @@ corteza de limón
 8 huevos
 
 <h3>Preparación</h3>
-
 Poner la leche al fuego con la canela y la corteza de limón para que hierva.
 
 Acaramelar un molde para pudding. Echar la fruta troceada fina y las galletas desmenuzadas.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 25 minutos.
 
 <h3>Ingredientes</h3>
-
 8 remolachas medianas
 
 1/2 taza de mantequilla
@@ -37,7 +36,6 @@ Para 6 personas.
 6 supremas de naranja previamente preparadas para decorar la receta si lo desea.
 
 <h3>Preparación</h3>
-
 Cocinar las remolachas con su cáscara hasta que se ablanden. Escurrirlas y pelarlas. Cortarlas en ruedas gruesas.
 
 Derretir la mantequilla en una sartén. Agregar la ralladura y el jugo de naranja junto con la sal.

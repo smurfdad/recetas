@@ -22,7 +22,6 @@ categories:
 Para 8 personas.
 
 <h3>Ingredientes</h3>
-
 200 gr. de galletas
 
 50 gr. de avellanas
@@ -44,7 +43,6 @@ Para 8 personas.
 Ralladura y zumo de 2 limones
 
 <h3>Preparación</h3>
-
 Triturar las galletas, avellanas, mantequilla fundida y jerez y mezclarlo todo. Forrar un molde y meter en la nevera 30 minutos. Poner una capa de uvas partidas sin pepitas muy juntas encima de la masa.
 
 Batir el queso, añadir los huevos la mitad del azucar miel y el limón. Colocarlo encima de las uvas y meter al horno 160 grados hasta que cuaje. Dejar enfriar y adornar con uvas y el resto del azúcar.

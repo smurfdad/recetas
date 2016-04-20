@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de orejones de albaricoques
 
 200 gr. de azúcar
@@ -36,6 +35,5 @@ Para 4 personas.
 2,5 dl. de agua
 
 <h3>Preparación</h3>
-
 La víspera, poner a remojo los orejones con agua. Por la mañana, tirar el agua, y llevar a ebullición el azúcar con el agua, los clavos y la canela. Cuando comience ha hervir, incorporar los orejones, cocerlos durante 5 minutos y retirarlos con la espumadera. Dejar espesar el almíbar a fuego lento, sacarlo del fuego y añadir el brandy. En un tarro esterilizado, poner los orejones, el almíbar y dejarlos macerar tres semanas.
 

@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 2 manojos de espárragos verdes
 
 3 patatas
@@ -41,7 +40,6 @@ Sal y pimienta
 Agua
 
 <h3>Preparación</h3>
-
 Pelar las patatas y pícalas. A continuación, en una cazuela con agua con sal y un chorrito de aceite, cuécelas con los espárragos bien limpios y troceados. Deja cocer 25 minutos. Una vez cocidos, tritura con una batidora y pásalo por el chino para obtener una crema fina.
 
 Pela las gambas y langostinos. Trocea estos últimos, así como la carne de las vieiras con su coral. Salpimienta todo y saltea en una sartén con aceite y un diente de ajo en laminas.

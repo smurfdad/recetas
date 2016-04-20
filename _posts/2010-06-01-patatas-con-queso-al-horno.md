@@ -8,7 +8,6 @@ categories:
 - Huevos y lacteos
 ---
 <h3>Ingredientes</h3>
-
 6 Patatas grandes peladas
 
 Mantequilla
@@ -18,7 +17,6 @@ Sal y pimentón
 6-8 lonchas de queso
 
 <h3>Preparación</h3>
-
 Se parten las patatas horizontalmente por la
 
 mitad, y se disponen en una fuente de horno engrasada con el corte

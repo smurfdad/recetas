@@ -7,7 +7,6 @@ categories:
 - Pastas
 ---
 <h3>Ingredientes</h3>
-
 60 grs de mantequilla
 
 250 grs de macarrones hervidos y escurridos
@@ -23,7 +22,6 @@ sal y pimienta
 50 grs de migas de pan rallado
 
 <h3>Preparación</h3>
-
 Caliente el horno a 220º. Unte una fuente con una nuez de mantequilla.
 
 Ponga los macarrones en un cuenco con la mitad de la mantequilla, la sal, la pimienta, la salsa de tomate y el jamon. Mezclelo todo y pongalo en la fuente.

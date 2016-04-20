@@ -21,7 +21,6 @@ categories:
 - Pescados
 ---
 <h3>Ingredientes</h3>
-
 250 gr. de bacalao salado
 
 100 gr. de harina
@@ -41,7 +40,6 @@ categories:
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Trocear el bacalao y ponerlo en remojo 24 horas, cambiándole el agua tres o cuatro veces. En una olla pondremos agua una hoja de laurel, un par de granos de pimienta, medio puerro y una gotita de aceite de oliva (No poner sal). Poner esta agua a fuego vivo hasta que rompa el hervor.
 
 Una vez lo haya hecho, apagar el fuego poner los trozos de bacalao y tejar el recipiente tapado durante unos 10 minutos. Deslía la harina la harina junto con la levadura en 3 o 4 cucharadas de agua templada. Podéis usar la misma de haber cocido el pescado. Escurrir bien el pescado y picarlo con el cuchillo o aplastarlo con un tenedor.

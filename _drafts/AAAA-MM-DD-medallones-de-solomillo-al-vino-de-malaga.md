@@ -23,7 +23,6 @@ Para 1 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 200 g de solomillo.
 
 Jugo de carnes.
@@ -35,7 +34,6 @@ Mantequilla.
 Nata.
 
 <h3>Preparación</h3>
-
 Se corta el solomillo en dos mitades, se pasa por harina y se sofríe vuelta y vuelta. Se le echan las pasas y un poco de vino de Málaga. Sacar el solomillo y echar un poco de nata líquida y jugo de carne.
 
 Hacer una reducción con la salsa y echarsela al solomillo.

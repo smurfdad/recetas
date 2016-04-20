@@ -23,7 +23,6 @@ Para 8 personas.
 <b>Tiempo</b> 70 minutos.
 
 <h3>Ingredientes</h3>
-
 250 grs de requeson o queso cottage.
 
 1 lata de leche condensada.
@@ -43,7 +42,6 @@ Para el caramelo:
 un chorrito de agua caliente.
 
 <h3>Preparación</h3>
-
 En un refractario o molde para flan redondo poner el caramelo bañando tambien las paredes.
 
 Licuar,el requeson,leche condensada,leche natural,huevos,vainilla y brandy;vaciar al refractario o molde ya con el caramelo frio,Cubrir perfectamente el molde con papel aluminio para que no le entre agua y cocinar a baño Maria por 20 minutos en la olla de presión o en forma convencional por una hora.

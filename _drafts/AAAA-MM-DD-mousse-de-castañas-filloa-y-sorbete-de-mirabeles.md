@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 castaña, 300 gr.
 
 nata líquida, 250 cl.
@@ -51,7 +50,6 @@ vinagre de miel, 100 ml.
 miel de eucalipto, 50 gr.
 
 <h3>Preparación</h3>
-
 Mousse de castañas: Cocemos la castaña pelada, pasamos por chino, añadimos el 1/2 dl. de leche y trituramos en el Túrmix, añadimos la cobertura fundida y amalgamamos con la nata montada con 100 g. de azúcar; reservamos en frío.
 
 Filloas crocantis: Preparamos la masa por este orden, los huevos, la nata (batimos), la harina, el azúcar, las ralladuras, la leche templada y la mantequilla. En una sartén hacemos las filloas tan finas como sea posible, cortamos en forma de rectángulo y secamos al horno a 120 grados en forma de rulo hasta que estén crujientes.

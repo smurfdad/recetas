@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 tomate
 
 1 cebolla
@@ -44,6 +43,5 @@ Para 4 personas.
 vinagre y sal al gusto
 
 <h3>Preparación</h3>
-
 En un mortero machacamos los ajos e incorporamos a chorro fino el aceite de oliva sin dejar de mover. A continuación añadimos la almendra molida y mezclamos todo bien. Cortamos en daditos el pepino, la cebolla y el tomate. En una ensaladera ponemos agua fresca con vinagre y sal, a la que poco a poco incorporamos el contenido del mortero hasta que quede bien ligado. Seguidamente agregamos el pepino, la cebolla y el tomate, lo mezclamos y rectificamos de sal. Lo servimos fresquito y acompañado, si lo prefieren, con picatostes y medios granos de uva blanca sin piel ni pepitas.
 

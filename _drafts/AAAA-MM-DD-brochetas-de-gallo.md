@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 filetes de gallo.
 
 8 champiñones pequeños.
@@ -43,7 +42,6 @@ Aceite.
 Sal.
 
 <h3>Preparación</h3>
-
 Los filetes de gallo se cortan por la mitad y se salan. Los champiñones se limpian y se cuecen en agua con sal unos minutos, sólo para blanquearlos. Si son muy pequeños, no hace falta. Cortar los pimientos verdes en ocho trozos.
 
 Los distintos ingredientes se pinchan en las brochetas, alternándolos: el tomate, el pescado, el pimiento y los champiñones. Las brochetas sazonadas se fríen en una plancha o sartén, con un poquito de aceite, durante tres o cuatro minutos por cada lado. Se sirven acompañadas de limón y espolvoreadas con orégano.

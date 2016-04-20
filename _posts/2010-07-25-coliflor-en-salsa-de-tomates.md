@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 ---
 <h3>Ingredientes</h3>
-
 1 coliflor
 
 250g de patatas peladas
@@ -33,7 +32,6 @@ Pimienta
 Agua
 
 <h3>Preparación</h3>
-
 Lavar la coliflor y separar en gajos.
 
 Cortar las patatas en rodajas, los tomates en cubos, los morrones en tiras y las cebollas en aros.

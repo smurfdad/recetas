@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 500g zanahorias chicas
 
 2cditas de azúcar
@@ -47,7 +46,6 @@ Sal y pimienta a gusto
 1/4 taza de jugo de limón
 
 <h3>Preparación</h3>
-
 Pelar las zanahorias y hervirlas hasta que estén tiernas, colar el agua de cocción reservando 2 cdas.
 
 Colocar el jugo de cocción en una sartén, agregar el azúcar, la miel, la manteca y la sal. Dejar cocinar hasta que la mezcla se dore y luego impregnar las zanahorias en ella.

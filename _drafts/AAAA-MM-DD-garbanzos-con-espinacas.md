@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 3 rabos de cerdo
 
 300 gr de tocino con beta
@@ -54,7 +53,6 @@ curry
 sal
 
 <h3>Preparación</h3>
-
 Poner los garbanzos a remojo con agua fría la noche anterior.
 
 Por la mañana cambiarles el agua, añadir la verdura lavada y entera, las especias y ponerlos al fuego.

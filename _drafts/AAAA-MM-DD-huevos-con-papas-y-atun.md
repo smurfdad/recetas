@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 3 papas
@@ -42,7 +41,6 @@ aceite para fre&igrave;r
 sal al gusto
 
 <h3>Preparación</h3>
-
 pelar las papas,cortarlas en cuadritos y freir en abundante aceite hasta que se ablanden. Retirar y reservar.
 
 Picar los tomates,la cebolla y el ajo, y freir en un sarten hasta obtener una salsa. agregar sal e incorporar las papas fritas y el atún desmenuzado y mezclar bien.

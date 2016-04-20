@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 12 discos para empanadas
 
 Para el relleno
@@ -44,7 +43,6 @@ Para el relleno
 1 cuchara de perejil picado
 
 <h3>Preparación</h3>
-
 En una sartén con aceite rehogar la cebolla, el tomate, las berenjenas y el ajo.
 
 Condimentar con sal y pimienta y dejar que se cocine a fuego bajo hasta que se haga una salsa espesa, apagar el fuego, agregar la cuchara de perejil picado y dejar enfriar.

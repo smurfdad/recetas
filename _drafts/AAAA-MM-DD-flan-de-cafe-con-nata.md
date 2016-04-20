@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 litro de leche
 
 6 huevos
@@ -34,7 +33,6 @@ Para 4 personas.
 Nata montada
 
 <h3>Preparación</h3>
-
 Separar las yemas de las claras en un bol. Mezclar las yemas con 4 claras y la mitad del azúcar. Batirlo todo un poco y añadir la leche caliente y a continuación la taza de café.
 
 Removerlo todo un poco y colarlo; reservar la crema obtenida. En un cazo con unas gotas de la agua y la otra mitad del azúcar, hacer el caramelo y verterlo sobre unos moldes de flan.

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 300 gramos de bacalao desalado.
 
 1 puerro.
@@ -30,7 +29,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Damos un hervor a las tajadas de bacalao desalado en un cazo con un poco de agua.
 
 En un minuto las sacamos del agua de cocción, teniendo en cuenta que el bacalao debe quedar jugoso.
@@ -52,5 +50,4 @@ Montamos el plato colocando como base las verduras asadas, encima disponemos las
 Esta ensalada se debe servir templada.
 
 <h3>Observaciones</h3>
-
 Se pueden sustituir las láminas de bacalao desalado por bacalao marinado o ahumado que ya se vende listo para consumir o marinarlo nosotros mismos.

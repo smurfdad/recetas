@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 40 minutos.
 
 <h3>Ingredientes</h3>
-
 12 escalopines de ternera pequeños y finos
 
 2 cdas. de margarina
@@ -39,7 +38,6 @@ El zumo de un limón
 Sal y pimienta negra al gusto
 
 <h3>Preparación</h3>
-
 Caliente la margarina en una sartén y dore los escalopines previamente sazonados, retire y reserve.
 
 Vierta todos los ingredientes restantes en la sartén y cocine, sin dejar de remover, hasta que esta salsa espese ligeramente.

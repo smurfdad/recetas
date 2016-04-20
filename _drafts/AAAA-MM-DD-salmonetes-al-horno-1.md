@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 salmonetes de 300 grs. cada uno (si es para una ocasión especial pide al pescatero que te los haga filetes)
 
 2 cebollas grandes
@@ -40,7 +39,6 @@ Para 4 personas.
 Sal
 
 <h3>Preparación</h3>
-
 Lavar y secar los salmonetes y sazonarlos.Precalentar el horno a 200 grados.
 
 Colocar los salmonetes en una bandeja de horno untada con un poco del aceite y ponerles bolitas de mantequilla encima. Meter al horno 15 minutos.

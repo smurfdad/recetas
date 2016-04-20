@@ -10,7 +10,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. de calabaza pelada y troceada
 
 1 puerro limpio y troceado
@@ -26,7 +25,6 @@ Para 6 personas.
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Poner un puchero u olla a presión al fuego con la mantequilla.
 
 Cuando esté derretida, añadir la calabaza, puerro y patata y rehogar durante dos minutos.

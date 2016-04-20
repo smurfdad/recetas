@@ -23,7 +23,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 2 tacos de bacalao desalado
 
 400 grs de judiones cocidos
@@ -51,6 +50,5 @@ Leche
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Se escaldan los dos tacos de bacalao en agua caliente con un chorro de leche durante unos segundos, lo que permitirá desconcharlos bien. Se reserva el bacalao desmigado y las pieles. En un fondo de aceite se doran los ajos laminados con las pieles del bacalao. Cuando los ajos están listos se retiran las pieles y se añade la cebolla picada y los pimientos cortados en tiras. Cuando la verdura está lista se agregan los tomates pelados y cortados en dados, la hoja de laurel, una pizca de orégano, una cucharada de pimentón dulce y un chorrito de caldo de pescado. Diez o quince minutos después se añaden los judiones cocidos y el bacalao desmigado, se les da un golpe de calor, y se sirve.
 

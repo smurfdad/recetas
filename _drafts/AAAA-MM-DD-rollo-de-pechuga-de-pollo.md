@@ -23,7 +23,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 Libras de Pechugas Molida
 
 1 Pimiento Morrón
@@ -49,7 +48,6 @@ Zumo de dos limones verde
 1 Zanahoria
 
 <h3>Preparación</h3>
-
 Sazonar el pollo con el sazón, la sal, pimienta, zumo de limón y dejare reposar.
 
 Mientras hacemos un picadillo con el pimiento, aji, cebolla, puerros, zanahoria.

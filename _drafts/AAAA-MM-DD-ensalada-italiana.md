@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 4 patatas
 
 2 manzanas
@@ -41,6 +40,5 @@ agua
 sal
 
 <h3>Preparación</h3>
-
 Se hierven las patatas, con su piel, en agua con sal Cuando estan cocidas y frías, se pelan y se cortan formando tiras; de igual forma se cortan las manzanas peladas y sin corazón, los pimientos sin rabo ni semillas y el jamon cocido. Se mezcla bien la mayonesa con el yoghourt, y se cubre con esta salsa la ensalada,sirviendose en fuentes individuales Por ultimo se adornan con los huevos duros pelados y cortados en discos. Servir fria
 

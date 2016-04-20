@@ -22,7 +22,6 @@ categories:
 Para 2 personas.
 
 <h3>Ingredientes</h3>
-
 Cuatro nabos grandes
 
 Caldo de pollo o de gallina sin grasa
@@ -32,6 +31,5 @@ Caldo de pollo o de gallina sin grasa
 Una cebolla pequeña
 
 <h3>Preparación</h3>
-
 Freír despacio la cebolla picada. Cocer los nabos con su piel en el microondas hasta que estén blandos. Enfriarlos con agua y retirar la piel. Mezclar el caldo, cebolla frita y nabos en la batidora. Poner la crema en una olla pequeña y añadir el queso rallado. Calentarlo brevemente hasta que el queso esté fundido.
 

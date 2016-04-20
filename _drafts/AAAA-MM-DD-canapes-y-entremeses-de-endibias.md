@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 endibias
 
 1 queso tentación (una flor), camembert o brie
@@ -38,6 +37,5 @@ Para 6 personas.
 2 cdas. de alcaparras en vinagre
 
 <h3>Preparación</h3>
-
 Comprar las endibias frescas. Separar las hojas. Colocar las hojitas de endibias en dos bandejas. Colocar a las hojas de una bandeja un trozo de trucha o salmón ahumado y adornarlas con alcaparras. A las hojas de la otra bandeja colocarles un trozo de queso tentación, camembert o brie y adornar con trozos de pepinillos en encurtidos. Preparar la salsa mezclando la mayonesa y el eneldo picado y colocarla en un recipiente. Acompañar las endibias con la salsa de mayonesa y eneldo y servirlas como pasapalo o entrada.
 

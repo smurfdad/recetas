@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 8 sepias limpias
 
 2 ajos picados
@@ -49,7 +48,6 @@ Para 6 personas.
 20 gr. de almendras tostadas
 
 <h3>Preparación</h3>
-
 Separar los tentáculos, la cabeza y el cuerpo de las sepias cortarlo en 3 trozos en sentido vertical. Sofreir sobre un poco de aceite de oliva y retirarlas. En el mismo aceite se sofríen consecutivamente el jamón, la cebolla, la zanahoria y las setas.
 
 Dejar cocer todo durante 10 minutos, añadir el tomate y a continuación el vino. Cuando se haya reducido un poco, añadir los garbanzos cocidos y cubrir con un poco de agua. Añadir la sepia y dejar cocer 15 minutos mas. Para terminar preparar una picada con ajo, perejil y almendras y añadirla sobre el fricando, dejar cocer 4 minutos y servir.

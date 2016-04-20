@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg de patatas cortadas en rodajas
 
 1 cebolla mediana
@@ -37,7 +36,6 @@ un poco de comino molido
 sal
 
 <h3>Preparación</h3>
-
 Poner en una sarten el aceite cuando este caliente echar las patatas cortadas en rodajas, el pimiento tambien en rodajas y la cebolla finamente picada espolvorear el comino por encima y la sal a fuego lento dejar tapada la sarten y de vez en cuando dar vueltas para que queden como fritas pero en su jugo.
 
 Sirve como primer plato o para acompañar carnes y pescados o huevos.

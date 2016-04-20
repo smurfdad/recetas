@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr. de queso Philadelphia
 
 400 gr. de azúcar
@@ -38,7 +37,6 @@ Para 4 personas.
 3 cucharadas de mermelada de frambuesa
 
 <h3>Preparación</h3>
-
 Batir los huevos hasta que estén espumosos; incorporar azúcar, el coco rallado (guardar un poco), tres cuartas partes de la mantequilla ablandada y la harina y mezclarlo bien sin batir.
 
 Echar en una bandeja de horno untada con el resto de la mantequilla y cocerlo a horno bien caliente durante unos 12 minutos.

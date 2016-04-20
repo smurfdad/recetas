@@ -9,7 +9,6 @@ categories:
 Para 3 personas.
 
 <h3>Ingredientes</h3>
-
 1 calabaza grande
 
 1 kg. de piloncillo
@@ -21,7 +20,6 @@ Para 3 personas.
 1/2 cucharadita de sal hojas de elote o de maíz, limpias
 
 <h3>Preparación</h3>
-
 Partir en trozos la calabaza sin pelar y quitarle la fibra y las semillas.
 
 En una cazuela grande de barro, colocar en el fondo un plato boca abajo, para evitar que se pegue la calabaza. Con los trozos de calabaza, forrar toda la cazuela, con la parte de la pulpa para adentro.

@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 calamares medianos.
 
 200 gr. de carne magra de cerdo.
@@ -46,7 +45,6 @@ sal y pimienta
 Aparte, 4 flanes de arroz
 
 <h3>Preparación</h3>
-
 Limpiar los calamares y los chipirones por separado. Picar la cebolla, freír los chipirones en 1/2 dl. de aceite y añadir la cebolla picada. Cuando está bien dorada añadir el vino blanco y reducir a la mitad, Poner e) agua, cocer 30 minutos y pasar por el colador.
 
 Aparte picar y freír las patas de los calamares, la carne, los huevos duros, el ajo y el perejil. Salpimentar, remover y rellenar los calamares con la mezcla.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 naranjas grandes
 
 1 limón
@@ -36,7 +35,6 @@ Para 4 personas.
 2 yemas de huevo
 
 <h3>Preparación</h3>
-
 Se cortan las naranjas por la parte superior y se exprimen con cuidado. Este zumo se mezcla con el zumo del limón, el agua y el azúcar, y se pone a hervir 10 minutos.
 
 Cuando se enfríe, se añaden las yemas batidas y el queso philadelphia. Con esta crema se rellenan las naranjas y se meten 2 horas en el congelador.

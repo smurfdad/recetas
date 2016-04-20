@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 Kg. de merluza
 
 16 navajas frescas
@@ -56,6 +55,5 @@ Pimienta blanca
 Pan rallado.
 
 <h3>Preparación</h3>
-
 Picamos la cebolla muy fina y los tomates, sin piel ni pepitas, los cortamos en trocitos pequeños. En un mortero majamos los ajos, el perejil, y después le mezclamos un poco de aceite frito y la sal. Lo reservamos. De un lomo grande de merluza sacamos filetes finos y los aplastamos bien. Los sazonamos con sal y limón y también se reservan. En una sartén con aceite de oliva rehogamos la cebolla y a continuación el tomate. Al cabo de 5 minutos le agregamos las navajas. salpimentamos y tapamos el recipiente. Una vez abiertas, apartamos este sofrito del fuego y retiramos las conchas de las navajas. Entre dos filetes de merluza colocamos unas navajas en su sal y cerramos bien sus extremos. Los colocamos en el horno, se unta en el majado preparado anteriormente. Los horneamos durante 10 minutos a 180 grados y los acompañamos con la salsa.
 

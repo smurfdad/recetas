@@ -24,7 +24,6 @@ Para 10 personas.
 <b>Tiempo</b> 70 minutos.
 
 <h3>Ingredientes</h3>
-
 1 taza de arros extra largo
 
 1/2 taza de arroz salvaje
@@ -40,7 +39,6 @@ Para 10 personas.
 Sal al gusto.
 
 <h3>Preparación</h3>
-
 En una olla se pone a hervir la taza de arros extra largo con 2 tazas de caldo de pollo.
 
 En otra olla se pone el arroz salvaje con las otras 2 tazas de caldo de pollo a hervir.

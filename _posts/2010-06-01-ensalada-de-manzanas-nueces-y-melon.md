@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 manzanas
 
 150 gramos de nueces
@@ -24,7 +23,6 @@ jugo de limon
 2 cucharadas de nata liquida
 
 <h3>Preparación</h3>
-
 Cortar el melón y las manzanas en trocitos. Picar las nueces.
 
 Mezclarlo todo y aderezar con el jugo del limón, el azucar y la nata.

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 laminas de hojaldre del congelado o hecho en casa
 
 200 grms de jamon dulce (York o cocido)
@@ -30,7 +29,6 @@ Para 4 personas.
 150 grms de queso tipo sanwich en lonchas
 
 <h3>Preparación</h3>
-
 Descongelar y extender las laminas de hojaldre dejandola del grosor como de 1 mlm, repartir en la base el jamon y encima las lonchas de queso. Humedecer con agua los bordes de la base de hojaldre, tapar con la otra lamina, apretar bien los bordes, decorar y trenzarla alrededor. Pintarla con huevo batido, hacer un agujero en el medio y pincharla por todo su superficie simetricamente con un tenedor para que no infle al cocer. Cocerla como cualquier otra empanada y tomarla preferiblemente aun caliente.
 
 Trucos y consejos

@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gramos de tallarines
 
 1 pequena berenjena(cortada en trocitos y sin piel)
@@ -47,6 +46,5 @@ un poca de sal
 1 vaso de vino blanco
 
 <h3>Preparación</h3>
-
 En un sarten,aceite caliente y toda las verduras en trocitos,despues de 3 minutos anadir el vino blanco,y a fuego bajito remover hasta que se hace una crema,anadir la sal.Ahora todo el tomate triturado,y despues de 10 minutos anadir la nata liquida.Cocinar por 5 minutos y apagar el fuego.Ahora,cuando la agua con la sal esta' hirviendo,poner la pasta y esperar uno 5 minutos.Quitar la agua y condimentar con la salsa y parte de el parmesano.POner en los platos y anadir arriba de la pasta lo que queda de el parmesano
 

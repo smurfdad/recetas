@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg de bacalao
 
 1 cebolla pequeña
@@ -34,7 +33,6 @@ Aceite
 Pimentón
 
 <h3>Preparación</h3>
-
 Se pone el bacalo a desalar dos días antes. Cuando esté desalado se pone a cocer en agua unos dos o tres minutos.
 
 En una cazuela de barro, que sea más bien plana, se echa un poco del agua de la cocción del bacalao con la cebolla y los pimientos partidos en tiras.

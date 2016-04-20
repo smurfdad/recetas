@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 50 cl. nata
 
 100 gr. almendra tostada
@@ -37,6 +36,5 @@ Para 6 personas.
 1 Ud. bizcocho rectangular
 
 <h3>Preparación</h3>
-
 Montar la nata con el azúcar, añadir las almendras tostadas y troceadas, el caramelo y el licor. Mezclar bien y extender la crema a lo largo del bizcocho. Envolver con cuidado y meterlo en la nevera hasta el momento de servir. Espolvorear con azúcar glass y trocitos de almendra.
 

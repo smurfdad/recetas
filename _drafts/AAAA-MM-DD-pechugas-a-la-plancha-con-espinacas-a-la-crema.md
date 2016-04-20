@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pechuga de pollo
 
 350g de espinacas cocidas
@@ -41,7 +40,6 @@ Sal a gusto y nuez moscada
 Manteca extra para dorar.
 
 <h3>Preparación</h3>
-
 Quitar la piel de las pechugas con un cuchillo y descartar. Con un cuchillo filoso cortar al o largo del hueso central y separar delicadamente la carne del hueso. Separar los filetes pequeños y separar en dos la parte central de la pechuga haciendo un corte longitudinal a lo largo de la misma.
 
 Escurrir bien las espinacas y picarlas chiquito. En una sartén poner a derretir manteca y cocinar las pechugas de pollo por ambos lados hasta dorar.

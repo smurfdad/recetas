@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 160 minutos.
 
 <h3>Ingredientes</h3>
-
 400g de fresas maduras.
 
 50g de azucar.
@@ -33,7 +32,6 @@ Para 4 personas.
 1cucharada de jarabe de granadina.
 
 <h3>Preparación</h3>
-
 Quita las hojas de las fresas y lavalas.
 
 En un bol, tritura las fresas con ayuda de un tenedor.

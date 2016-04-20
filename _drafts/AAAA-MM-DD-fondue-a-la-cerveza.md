@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 600 grs. de queso Chester
 
 1/4 de litro de cerveza blanca liviana tipo pilsen
@@ -45,6 +44,5 @@ pimienta
 pan de centeno cortado a dados
 
 <h3>Preparación</h3>
-
 Verter las cervezas en el caquelon y poner a calentar. Cortar el queso en laminas finas y añadirlo a las cervezas cuando ya suelten el hervor. Bajar el fuego y revolver continuamente. Desleir la harina en el zumo de limon y el agua y añadirlo al caquelon. Servir revolviendo y, cuando haya espesado, echar el kirsch, salpimentar, llevar a la mesa y mantener caliente sobre calentador de alcohol. Servir con el pan de centeno.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1/2 kg. de carne de 2.&ordf; o congelada
 
 dos pimientos verdes
@@ -38,7 +37,6 @@ azafrán
 laurel
 
 <h3>Preparación</h3>
-
 Puede hacer los oficios de un primer y segundo plato, si además, y aparte, los servimos acompañándolo con unas croquetas, por ejemplo.
 
 Pelar las patatas y cortarlas, como para cocer, en trozos medianos. Ponerlas en la cazuela con agua suficiente que las cubra

@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 kg de cebolla
 
 75 gr de gruyer rallado
@@ -35,7 +34,6 @@ sal
 pimienta negra molida
 
 <h3>Preparación</h3>
-
 Se pelan las cebollas bajo el grifo de agua fría y se cortan en aros muy finos. En cazuela se calientan el aceite y la mantequilla con la cebolla. Se sazona y se estofa, tapada, hasta que esté blandita Se añade harina y se rehoga.
 
 Después se añaden el caldo y la pimienta y se deja que cueza suavemente unos treinta minutos aproximadamente. Se retira después de la placa

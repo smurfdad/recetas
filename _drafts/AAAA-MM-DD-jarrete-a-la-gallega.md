@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 180 minutos.
 
 <h3>Ingredientes</h3>
-
 1 a 2 kg. de carne para asar (morcillo)
 
 1/2 kg. de cebollitas francesas
@@ -49,7 +48,6 @@ Pimienta
 Perejil
 
 <h3>Preparación</h3>
-
 Adobar la carne el día anterior con ajos machacados, 1 chorro de aceite, pimienta, sal y perejil.
 
 Calentar el horno alto (220 grados). En una cacerola que luego se pueda meter al horno, hervir el aceite y dorar la carne en él. Retirar los ajos que queden en el aceite, y con la cazuela tapada, pasarla al horno, y bajar la temperatura a 175&ordm; (medio - bajo), dejar 1 1/2 horas o hasta que al pinchar la carne salga jugo, no sangre.

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 12 discos para empanadas
 
 Relleno:
@@ -36,7 +35,6 @@ Relleno:
 Sal y pimienta a gusto
 
 <h3>Preparación</h3>
-
 Poner en un bol, los tomates, el queso, la albahaca, el aceite de oliva y salpimentar.
 
 Rellenar con esta mezcla los discos de empanada.

@@ -23,7 +23,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 chorizos
 
 5 patatas
@@ -49,6 +48,5 @@ Aceite
 Sal
 
 <h3>Preparación</h3>
-
 Pica la cebolla, 3 dientes de ajo y el morrón en cubitos chiquitos y rehoga en una cazuela con aceite. Agrega las hojas de laurel, el chorizo en rodajas, las patatas cortadas irregularmente, agua y sal. Deja que se cocine por espacio de 30/35 minutos y antes de servir, añádele un sofrito hecho con aceite, dos dientes de ajo en láminas, dos cucharaditas de pimentón y los huevos cocidos y picados. Espolvorea con perejil picado.
 

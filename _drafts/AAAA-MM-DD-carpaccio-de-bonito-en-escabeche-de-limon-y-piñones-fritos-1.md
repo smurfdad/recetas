@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Un lomo de bonito del Norte
 
 una cebolla
@@ -40,7 +39,6 @@ Aceite de oliva
 piñones
 
 <h3>Preparación</h3>
-
 Limpiamos el lomo y lo envolvemos con film transparente. Lo metemos a congelar hasta que quede duro.
 
 Para el escabeche ponemos aceite en una sartén, añadimos la cebolla en trozos grandes, el laurel, los ajos y la pimienta negra. Lo sofreímos a fuego lento, hasta que coja color. Al retirarlo le añadimos el zumo de limón y una pizca de sal.

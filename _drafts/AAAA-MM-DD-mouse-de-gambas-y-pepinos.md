@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 100 gr. de requesón
 
 3 envases de yogur natural
@@ -44,6 +43,5 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Mezclar y batir el requesón y yogur, pelar el pepino y la mitad de las gambas. Diluir la mitad de la gelatina en cuatro cucharadas de caldo de pollo y calentar suavemente. Verter a continuación sobre el resto del caldo. Mezclar el pepino y las gambas picadas con el requesón, el yogur y el caldo gelatinoso, añadir zumo de limón y condimentar con sal y pimienta. Si dispone de colorante alimentario verde, agregar unas gotas. Verter en un molde metálico y dejar enfriar en la nevera. Decorar con las gambas que aún quedan.
 

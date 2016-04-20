@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 ---
 <h3>Ingredientes</h3>
-
 Media escarola
 
 2 pomelos
@@ -43,7 +42,6 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Colocar la escarola en una ensaladera.
 
 Cortar los pomelos, eliminar la parte blanca y separar los gajos introduciendo un cuchillo entra las membranas.

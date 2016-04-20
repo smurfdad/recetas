@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 8 trozos de bacalao
 
 1 cebolla mediana
@@ -40,10 +39,8 @@ perejil
 1 diente de ajo
 
 <h3>Preparación</h3>
-
 Se fríe el bacalao en una sartén con aceite de oliva (el bacalao previamente desalado al punto). En el mismo aceite se sofríe la cebolla y el ajo bien picados. A continuación se añade la picada y se termina de sofreir. Lo añadimos todo encima del bacalao conjuntamente con los guisantes y lo cocemos durante 15 minutos.
 
 <h3>Observaciones</h3>
-
 Receta típica de Aragón.
 

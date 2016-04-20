@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 Polvo para hornear 1 cuch.
 
 Azucar 120 gr.
@@ -34,7 +33,6 @@ Harina 180 gr.
 Huevos 4.
 
 <h3>Preparación</h3>
-
 Integrar todos los ingredientes secos primero y luego los huevos de a uno por vez. Colocar la mezcla en pirotines y luego llevar a un horno moderado.
 
 Tiempo de coccion 20' aprox.

@@ -24,7 +24,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 rodajas de merluza de unos 200 gr. cada una
 
 4 langostinos
@@ -56,7 +55,6 @@ sal
 aceite de oliva
 
 <h3>Preparación</h3>
-
 Pelamos todo el marisco y reservamos las cáscaras. Ponemos en una bandeja las rodajas crudas y los demás productos pelados.
 
 Pelamos y picamos las verduras. Pelamos y despepitamos los tomates y los picamos en trozos. Rehogamos la cebolla y los puerros con un chorro de aceite y, ya pochadita, añadimos los tomates. Incorporamos las cáscaras de marisco y lo rehogamos todo junto. Si tenemos cáscaras congeladas, las echamos también. Rehogamos 4 ó 5 min., añadimos el vino y reducimos. Añadimos el brandy y con una cerilla quemamos. Añadimos el caldo de pescado. Hervimos 30 min.
@@ -68,6 +66,5 @@ Ponemos en un puchero de base ancha el caldo de marisco ya colado, con cierta te
 Lo de la sartén lo echamos por encima de las merluzas; lo dejamos hervir 1 min. y servimos. Servimos en partes equitativas.
 
 <h3>Observaciones</h3>
-
 A la hora de quemar los alcoholes, es importante no tener jamás encendida la campana extractora, pues podría atraer las llamas y provocar un incendio en nuestra cocina.
 

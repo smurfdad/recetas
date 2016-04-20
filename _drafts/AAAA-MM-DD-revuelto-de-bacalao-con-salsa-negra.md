@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 PARA LA SALSA:
 
 5 bolsitas de tinta de calamar
@@ -57,10 +56,8 @@ PARA EL REVUELTO:
 sal
 
 <h3>Preparación</h3>
-
 Para hacer la salsa se dora en aceite la cebolla, los puerros y los ajos y cuando tomen color se añade el pimentón, se rehoga un minuto y se añade el vino manzanilla. Después de darle unas vueltas, se añaden los tomates rallados y la tinta de calamar. Seguir removiendo 1/4 de hora, y mientras espesa se sala. Luego se calentará y se rectificará de sal. Para hacer el revuelto picar muy menudas las escalonias y la cebolla y dorar en aceite, añadir el bacalao desmenuzado sin espinas ni piel y sofreir 3 minutos removiéndolo constantemente. Probar de sal. Añadir los huevos batidos y dejar cuajar, dejando que quede jugoso al gusto. Después se vuelca la salsa en una fuente, colocando el revuelto en el medio y salpicándolo de perejil fresco.
 
 <h3>Observaciones</h3>
-
 La salsa puede triturarse con la batidora y también pasarse por el chino, según gustos.
 

@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 1 k de cordero.
 
 2 cebollas medianas.
@@ -40,7 +39,6 @@ Harina.
 Aceite, sal y agua.
 
 <h3>Preparación</h3>
-
 Trocear la carne y limpiarla de nervios. Salpimentar y dorarla en aceite, reservar.
 
 En el mismo aceite, rehogar la cebolla y los ajos picados, añadir el tomate frito y los tomates troceados, espolvorear con un poco de harina. Cocer todo unos minutos.

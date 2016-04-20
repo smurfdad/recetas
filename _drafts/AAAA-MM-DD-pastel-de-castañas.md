@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 550 gramos de chocolate cobertura
 
 3/4 de taza de azúcar
@@ -46,7 +45,6 @@ Para la cobertura:
 1 cucharada de brandy
 
 <h3>Preparación</h3>
-
 Derretimos a baño María el chocolate, el azúcar, el brandy y la mantequilla. Dejamos enfriar.
 
 Mientras tanto, batimos los huevos con las yemas, la nata y la maizena hasta que esponje.

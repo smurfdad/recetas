@@ -9,7 +9,6 @@ categories:
 Para 9 personas.
 
 <h3>Ingredientes</h3>
-
 2 limones
 
 10 naranjas
@@ -17,7 +16,6 @@ Para 9 personas.
 200 <span class=goog-spellcheck-word style=background: none repeat scroll 0% 0% yellow;>grs</span>. de azúcar
 
 <h3>Preparación</h3>
-
 Cortar un casquete en la parte superior de 9 naranjas y sacar la pulpa con un cuchillo pequeño.
 
 Meter en el congelador las cáscaras vacías y los casquetes.

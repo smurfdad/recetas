@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1/2 kg. de patatas cocidas y machacadas.
 
 Carne picada y preparada Assag con piñones
@@ -41,10 +40,8 @@ Sal
 Pimienta
 
 <h3>Preparación</h3>
-
 Mezclar las patatas machacadas con 1 huevo, zumo de cebolla, perejil, sal y pimienta y amasar. Coger un trozo en forma de huevo, ahuecar y rellenar con Assag, mojar con el huevo batido, empanar. Dejar en la nevera 1/2 hora antes de freír en aceite caliente. Servir en plato y adornar con rodajas de tomate y hojitas de perejil.
 
 <h3>Observaciones</h3>
-
 Receta árabe
 

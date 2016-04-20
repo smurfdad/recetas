@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 tazas de porotos negros limpios y enjuagados
 
 11/2 de agua
@@ -59,7 +58,6 @@ Yogur natural descremado
 Cebollitas de verdeo picadas
 
 <h3>Preparación</h3>
-
 En una olla cubra los porotos con agua salada y póngalos a hervir a fuego moderado entre 30 minutos a 40 minutos, retire del fuego, escúrralos y enjuáguelos.
 
 Coloque los porotos en la olla agregue el agua, la cebolla, los pimientos, el ajo, la salsa picante, el laurel, la canela y la mejorana, y póngalos a hervir. Cuando hierva, baje el fuego para que se cocinen a fuego mínimo, hasta que los porotos estén suaves.

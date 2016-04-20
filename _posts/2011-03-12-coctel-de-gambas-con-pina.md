@@ -7,7 +7,6 @@ categories:
 - Mariscos y moluscos
 ---
 <h3>Ingredientes</h3>
-
 8 hojas de lechuga
 
 20 colas de gambas
@@ -21,7 +20,6 @@ categories:
 sal
 
 <h3>Preparación</h3>
-
 Verter 4 vasos de agua en una cacerola y llevarla a ebullición, añadirle el vino, las gambas y una pizca de sal; cocerlas 2-3 minutos.
 
 Escurrirlas, dejarlas enfriar y pelarlas.

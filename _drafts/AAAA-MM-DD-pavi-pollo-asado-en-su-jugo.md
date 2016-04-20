@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pavi pollo de kilo y medio
 
 200 gr manteca de cerdo
@@ -41,7 +40,6 @@ sal
 pimienta negra
 
 <h3>Preparación</h3>
-
 Derretir la manteca y poner a fondear el ajo picado fino la hoja de laurel un poco de pimienta un poco de tomillo y el vino blanco.
 
 Tener al fuego unos dos minutos para que el ajo este bien echo pero sin que coja color.

@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de patatas
 
 2 o 3 calabacines medianos
@@ -43,10 +42,8 @@ Para 4 personas.
 Sal y pimienta
 
 <h3>Preparación</h3>
-
 Se pelan las patatas, las berenjenas, los calabacines, los pimientos y las cebollas y se cortan en rodajas de tamaño mediano (las cebollas en tamaño mas fino que lo demás). Se ponen en una fuente de horno, se añaden los tomates, perejil, hierbabuena, aceite, sal y pimienta y se revuelve todo bien. Se añade un poco de agua caliente y se mete en horno mediano durante unos 90 minutos. Se acompaña de queso feta (queso fresco y salado), se corta el queso en daditos y se añade al final, tras sacar todo del horno.
 
 <h3>Observaciones</h3>
-
 Receta griega.
 

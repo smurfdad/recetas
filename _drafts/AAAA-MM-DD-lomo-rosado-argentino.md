@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 kg. de lomo
 
 100 grs. de gelatina
@@ -46,7 +45,6 @@ laurel
 huevo hilado para decorar con gelatina picada
 
 <h3>Preparación</h3>
-
 Se deshuesa el lomo
 
 Se le pone sal y pimienta y se ata con un cordel

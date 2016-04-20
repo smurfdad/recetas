@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 18 minutos.
 
 <h3>Ingredientes</h3>
-
 400 g de gulas.
 
 1 cebolleta.
@@ -44,7 +43,6 @@ Sal y pimienta molida.
 Un calabacín para decorar.
 
 <h3>Preparación</h3>
-
 Pelamos la cebolleta y la picamos muy fina.
 
 Lavamos bien los rabanitos y los cortamos en rodajas muy finas.

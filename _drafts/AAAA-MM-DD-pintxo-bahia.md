@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Pan tostado
 
 jamón de York
@@ -30,6 +29,5 @@ salmón
 chatka
 
 <h3>Preparación</h3>
-
 Sobre una rebanada de pan tostado, se pone un poco de mahonesa, y se cubre con jamón de York  sobre el cual se coloca una loncha de salmón. A continuación, ponemos la chatka
 

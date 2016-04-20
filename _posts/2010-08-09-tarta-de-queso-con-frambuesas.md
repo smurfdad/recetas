@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 30 galletas
 
 1/2 vaso de leche
@@ -27,7 +26,6 @@ Para 4 personas.
 Mermelada de frambuesas
 
 <h3>Preparación</h3>
-
 Se trituran las galletas con el medio vaso de leche y se vierte esta masa en el fondo de un molde de tarta que previamente se ha untado con mantequilla.
 
 En un cazo se calienta el medio vaso de agua y se le añade el azúcar y el sobre de gelatina que se calentará hasta que tenga la textura de la yema de huevo.

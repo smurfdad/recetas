@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 4 Calabacines de tamaño medio
 
 2 cebollas picadas
@@ -45,7 +44,6 @@ nuez moscada
 pan rallado para gratinar
 
 <h3>Preparación</h3>
-
 Cortar los extremos del calabacín para hacerlos de igual tamaño, abrirlos longitudinalmente y vaciarlos. Reservar.
 
 En una sartén rehogar la cebolla y el puerro picado con el aceite y la mantequilla, agregar la pulpa del calabacin y dejar pochar lentamente hasta que esté transparente, tapado aproximadamente durante 20 minutos. Añadir la sal y la nuez moscada.

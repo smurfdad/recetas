@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 750 gr. de cordero (delantero)
 
 1 hígado de cedo
@@ -40,7 +39,6 @@ aceite
 una cucharada sopera rasa de harina
 
 <h3>Preparación</h3>
-
 En una olla y sobre la placa de su cocina eléctrica, se fríe un ajo, y se doran en este aceite los trozos de cordero y el hígado. Se aparta el hígado y a los rozos de carne se les añade cebolla picada y laurel; cuando la cebolla empiece a dorarse, se añade el vino y pimentón.
 
 Se añade la harina, se rehoga, y todo ello se moja con caldo o agua, tapando la olla y dejando cocer.

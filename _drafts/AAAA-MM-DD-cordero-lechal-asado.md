@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 8 cortes de costillar de cordero lechal sin el espinazo
 
 1 ramita de romero
@@ -41,10 +40,8 @@ sal
 pimienta
 
 <h3>Preparación</h3>
-
 Sazonar los costillares y poner a asarlos en una rustidera con el aceite bien caliente y la piel hacia abajo, en el horno a 220 grados de temperatura. Añadir los ajos y el romero a medio asar. Sacar el lechal cuando esté dorado por fuera pero jugoso por dentro. Retirarlo, quitar la grasa sobrante, verter el vino y el jugo, hervir la salsa, poner a punto de sazón y colar. Acompañar con unas patatas panadera al gusto. Decorar con unas ramitas de romero.
 
 <h3>Observaciones</h3>
-
 Ternasco de Aragón, ajo, romero y aceite de oliva son los sencillos ingredientes de un plato que hará las delicias de los amantes de la cocina aragonesa.
 

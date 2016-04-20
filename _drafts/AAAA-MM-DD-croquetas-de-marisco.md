@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 250 gr. de harina de trigo.
 
 1,250 litros de leche semidesnatada.
@@ -52,7 +51,6 @@ Pan rallado.
 Harina.
 
 <h3>Preparación</h3>
-
 Picamos tan menuda como nos sea posible, la cebolla y el ajo y los rustimos en aceite muy caliente. Añadimos la harina y cuando esté bien mezclada incluimos la leche, que previamente habremos calentado hasta su punto de hervor, sazonada con la ralladura de nuez moscada.
 
 Anteriormente habremos pasado por agua hirviendo los langostinos para darles un escaldado y los pelamos. Picamos las colas y se reservan.
@@ -64,6 +62,5 @@ Una vez fría, cortamos en porciones para croquetas, dándole la forma que desee
 Las dejamos escurrir antes de servir.
 
 <h3>Observaciones</h3>
-
 Las croquetas podremos hacerlas con el marisco que tengamos a mano. Los langostinos parece un ingrediente muy noble y no excesivamente costoso, para empezar. Pero se puede echar imaginación y otros crustáceos.
 

@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 Para la crema
 
 2 yemas
@@ -46,7 +45,6 @@ Para el merengue
 2 cucharadas de azúcar
 
 <h3>Preparación</h3>
-
 Mezclar las yemas y el azúcar, y anadir la harina. Incorporar la leche y remover en frío.
 
 En una cazuela, echar el azúcar y el agua; poner al fuego hasta que se forme caramelo.

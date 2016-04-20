@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 250 gr. de dátiles
 
 2 naranjas
@@ -33,6 +32,5 @@ Para 4 personas.
 2 cucharadas de licor dulce
 
 <h3>Preparación</h3>
-
 Cortar los dátiles por la mitad y extraer el hueso. Pelar los naranjas con cuidado sin que quede ningún filamento. Cortarlas por la mitad a los largo y cortarlas en gajos. Ponerlas en una ensaladera y rociar con el licor. Añadir los dátiles, mezclar bien y dejar reposar. Repartir las almendras tostadas por encima justo antes de servir.
 

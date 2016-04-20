@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 4 huevos
 
 1 yogourth de chocolate
@@ -36,13 +35,11 @@ Para 6 personas.
 1 sobre de levadura
 
 <h3>Preparación</h3>
-
 Batir bien los huevos y añadir los demás ingredientes, llenar el molde previamente untado de mantequilla. Introducir en el microondas 10 minutos (depende de la potencia del microondas, claro).
 
 Rellenar al gusto.
 
 <h3>Observaciones</h3>
-
 Rellenos que le van bien:
 
 crema pastelera

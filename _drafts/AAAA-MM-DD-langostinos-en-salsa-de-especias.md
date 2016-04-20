@@ -24,7 +24,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 20 langostinos
 
 4 cebollas medianas
@@ -52,6 +51,5 @@ Para 4 personas.
 1 y 1/2 dl de aceite
 
 <h3>Preparación</h3>
-
 Calentar 1 dl de aceite en una sartén y rehogar las cebollas picadas y los dientes de ajo sin que cojan color. Agregar los tomates pelados y picados. Saltearlos dos minutos. Bajar el fuego e incorporar el jengibre, el cilantro, el comino, los pimentones y el azúcar, mojar con el caldo y continuar la cocción a fuego suave entre 10 y 15 minutos. Pelar los langostinos. Calentar el aceite restante en una sartén y saltearlos 1 minuto por cada lado. Escurrirlos y servir con la salsa al lado.
 

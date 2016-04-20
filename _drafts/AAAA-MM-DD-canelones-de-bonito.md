@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 12 canelones cocidos.
 
 300 gramos de bonito (en conserva).
@@ -41,6 +40,5 @@ Sal.
 Medio litro de bechamel.
 
 <h3>Preparación</h3>
-
 En una cazuela, con agua y sal, se cuecen las laminas de pasta y se reservan. La verdura se pica finamente y se pone a rehogar en un poco de aceite, añadiéndole poco después el bonito picado. Se saltea todo, se rectifica de sal y se rellenan los canelones. Se colocan en una bandeja o fuente que vaya al horno, se cubren con bechamel y se ponen a gratinar. Se sirven bien calientes.
 

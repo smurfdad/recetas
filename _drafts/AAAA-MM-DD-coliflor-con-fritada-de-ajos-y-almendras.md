@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor.
 
 2 dientes de ajos.
@@ -38,7 +37,6 @@ Para 4 personas.
 Sal.
 
 <h3>Preparación</h3>
-
 Limpiamos la coliflor y la cortamos en ramilletes.
 
 En una cazuela u olla rápida con agua hirviendo con sal, cocinamos los ramilletes de coliflor hasta que estén cocidos (en cazuela normal unos 45 minutos, en olla rápida unos 8 minutos a máxima presión)

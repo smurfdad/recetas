@@ -8,7 +8,6 @@ categories:
 - Postres y dulces
 ---
 <h3>Ingredientes</h3>
-
 1/2 l. de leche
 
 5 cucharadas rasas de azúcar
@@ -20,7 +19,6 @@ categories:
 2 huevos
 
 <h3>Preparación</h3>
-
 Apartar en un recipiente un poco de la leche y mezclar las yemas de los huevos y la maicena. Puede ser con batidora.
 
 El resto de la leche ponerla al fuego, y cuando hierva, añadir el revuelto de maicena sin dejar de revolver hasta que hierva.

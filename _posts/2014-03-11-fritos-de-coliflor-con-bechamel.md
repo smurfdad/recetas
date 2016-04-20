@@ -29,7 +29,6 @@ Para la bechamel:
 - Aceite de semillas para freír
 
 <h3>Preparación</h3>
-
 Quitamos las hojas verdes a la coliflor, la lavamos en agua fría y retiramos el tallo central, ahuecándolo por debajo con un cuchillo.
 
 En una cazuela ponemos agua con sal. Cuando el agua comience a hervir añadimos la coliflor entera y un poco de miga de pan mojada en leche (esto último es para evitar el mal olor).

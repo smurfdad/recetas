@@ -21,7 +21,6 @@ categories:
 - Arroces
 ---
 <h3>Ingredientes</h3>
-
 100 ml. de aceite de oliva.
 
 2 dientes de ajo.
@@ -43,7 +42,6 @@ Dos bolsitas de tinta de calamar.
 8 cucharadas de tomate triturado.
 
 <h3>Preparación</h3>
-
 En una paellera se calienta el aceite de oliva y se añade la cebolla picada, dejándola hasta que comience a dorarse, se trocea la sepia y el calamar en trozos regulares y se añade junto con los ajos picados, se
 
 sofríe unos minutos y se añade el tomate, el pimentón y rápidamente el arroz. Se sofríe un minuto el conjunto y se añade el caldo hirviendo, la tinta de calamar disuelta en un poco de caldo y se rectifica de sal.

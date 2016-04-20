@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 kg. de brazuelo de cabrito
 
 1 vaso de aceite de oliva
@@ -57,6 +56,5 @@ sal
 1 vaso de vino blanco
 
 <h3>Preparación</h3>
-
 Se trocea el cabrito y se deja reposar en una cazuela con el vino, el laurel y un poco de sal. En otro recipiente se vierte el aceite y una vez éste caliente se añaden los demás ingredientes. Cuando esté todo rehogado se le añade el cabrito y un poco de agua, dejándolo cocer, removiendo de vez en cuando hasta que este casi tierno. Entonces se le añade el coñac y se remueve, agregando también las patatas y dejándolas cocer hasta que estén tiernas. Al final se añade un poco de azafrán.
 

@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 berenjenas blancas.
 
 2 tomates bien maduros.
@@ -36,6 +35,5 @@ Para 6 personas.
 2 cebollas
 
 <h3>Preparación</h3>
-
 Cortar por la mitad las berenjenas, pimientos y tomates, y la cebolla en cuatro trozos, y ponerlo en una bandeja de barro cocido para ir al horno. Salpimentar y ponerle aceite e introducir en el horno durante unos 30 minutos y dejarlo enfriar en la misma fuente. Pelar el pimiento. Reservar tres cucharadas de cada ingrediente. Pasarlo por la batidora eléctrica y añadirle 15 gr. de gelatina. Dejar cuajar en 6 moldes de flan y servir en platos individuales, colocando el pastel en el centro y los demás ingredientes alrededor, cubrir con la salsa vinagreta y servir frío.
 

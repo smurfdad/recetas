@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 melón
 
 200g de pasas reblandecidas
@@ -41,6 +40,5 @@ Azúcar
 1 vasito vino dulce
 
 <h3>Preparación</h3>
-
 Cortar el melón en dados y la manzana y melocotón en rodajas, poner todo en un recipiente y añadir las almendras y el azúcar, el zumo de limón y el vino. Mezclar, tapar y dejar macerar en la nevera hasta el momento de servir.
 

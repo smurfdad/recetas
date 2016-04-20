@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo de 1,200 Kg
 
 1 cebolla
@@ -29,7 +28,6 @@ vinagre
 1 cucharada de azafrán
 
 <h3>Preparación</h3>
-
 Limpiar y trocear el pollo, poniéndolo en una cazuela cubierto de agua con la cebolla, los ajos y un poco de sal.
 
 Cocer el pollo.

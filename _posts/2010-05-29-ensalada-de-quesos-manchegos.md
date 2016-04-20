@@ -10,7 +10,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 800 gr. de queso de diferente curación
 
 berros
@@ -36,5 +35,4 @@ Para la vinagreta:
 1 dl. de vinagre de frambuesa
 
 <h3>Preparación</h3>
-
 Hacer una ensalada con las hierbas y colocar en el centro del plato. Cortar los quesos en bastoncillos finos. Añadir las nueces, las pasas y aliñar con la vinagreta. Poner al punto de sal. Adornar con la manzana verde y los frutos rojos.

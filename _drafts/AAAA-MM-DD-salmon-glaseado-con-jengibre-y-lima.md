@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 4 filetes de salmón de 170 grs c/u cortados a un grosor de 2,5 cm
 
 1 cucharada de jengibre, pelado y rallado
@@ -44,7 +43,6 @@ sal y pimienta al gusto
 1 lima, cortada en cuñitas.
 
 <h3>Preparación</h3>
-
 Distribuya los filetes de salmón en un molde de hornear poco hondo. En un tazón pequeño, bata todo el resto de los ingredientes menos la lima.
 
 Póngale la salsa de marinar al salmón; déle vuelta para cubrir los dos lados con el líquido. Cubra con papel plástico y refrigere por 1 hora. Caliente el asador del horno. Saque el salmón de la salsa de marinar y póngalo en una parrilla de alambre sobre un molde de asar. Reserve la salsa de marinar. Ase el salmón en la parrilla media del horno por 8-10 minutos, báñelo frecuentemente con salsa de marinar. Ponga el salmón en una fuente de servir y adórnelo con cuñitas de lima.

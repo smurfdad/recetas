@@ -20,7 +20,6 @@ categories:
  
 ---
 <h3>Ingredientes</h3>
-
 Endibias
 
 confit de pato
@@ -34,6 +33,5 @@ sal
 perifollo
 
 <h3>Preparación</h3>
-
 Se prepara una hoja de endibia. Se calienta una porción de confit de pato y se coloca sobre la endibia. Se prepara una vinagreta con aceite de oliva puro y vinagre de frambuesa, se rocía la endibia con el confit y se adorna con perifollo
 

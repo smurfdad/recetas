@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 coliflor de 750 gr.
 
 400 gr. de bacalao desalado
@@ -43,6 +42,5 @@ sal
 agua
 
 <h3>Preparación</h3>
-
 En una paella al fuego echamos el aceite y una vez caliente ponemos la coliflor troceada. A medio sofreír echamos el bacalao desmenuzado. Seguimos 5 minutos más con el sofrito y añadimos los ajos y el tomate rallado. Removemos y agregamos el arroz, el azafrán y el agua. Al hervir, ajustar de sal.
 

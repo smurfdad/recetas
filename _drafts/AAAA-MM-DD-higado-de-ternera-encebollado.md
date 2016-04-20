@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kilo de hígado
 
 aceite
@@ -34,7 +33,6 @@ sal
 pimienta blanca
 
 <h3>Preparación</h3>
-
 Pelar y cortar la cebolla en juliana fina, poniéndola a continuación a rehogar con un poco de aceite.
 
 Cuando este echa la cebolla, añadir el hígado troceado y sazonarlo con sal y pimienta blanca.

@@ -24,7 +24,6 @@ Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lamprea
 
 1 botella de vino de burdeos (Graves, Médoc, Saint-Emilion)
@@ -52,7 +51,6 @@ Para 6 personas.
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Agarre la lamprea por la cabeza y corte la cola, tras colocar un plato hondo debajo para recoger la sangre. Deje que se vacíe completamente (durante 2 horas, como mínimo).
 
 Sumerja el pescado en agua hirviendo, retire el cordón central, la cabeza, la cola, los huevos. Límpielo bajo el agua del grifo.

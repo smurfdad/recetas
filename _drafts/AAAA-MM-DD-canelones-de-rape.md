@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gramos de canelones precocidos.
 
 250 gramos de medallones de rape.
@@ -50,7 +49,6 @@ Salsa bechamel:
 Sal.
 
 <h3>Preparación</h3>
-
 Picamos la cebolla, el pimiento verde y el diente de ajo en brounoisse (picadito muy fino) y las ponemos a fuego lento con aceite hasta que la verdura esté blandita y con un poco de color.
 
 Añadimos parte del tomate a la verdura y sofreímos unos instantes.

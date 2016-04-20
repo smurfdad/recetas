@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 500 gr. de manzanas
 
 170 gr. de harina
@@ -38,7 +37,6 @@ Para 4 personas.
 &frac12; cucharada de sal
 
 <h3>Preparación</h3>
-
 Se pone a templar la leche en un cazo. Se tamizan la harina y la sal, juntas, en un bol. Se hace un agujero en el centro y se vierten allí los dos huevos batidos. Se mezclan con la harina, al tiempo que se añade a la mezcla la leche tibia, sin dejar de batir, hasta formar una masa homogénea.
 
 Por último, se le añade el aceite y se mezcla bien. Se pelan las manzanas. Se parten en cuartos y se les quita el corazón y las semillas. Se cortan en láminas finas. Se pone a fundir un poco de mantequilla en una sartén antiadherente de fondo grueso y que tenga 18 cm. de diámetro. Se echa ahí la cuarta parte de la manzana y se va dorando a fuego suave.

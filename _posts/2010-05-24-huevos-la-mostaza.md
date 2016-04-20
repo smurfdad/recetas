@@ -9,7 +9,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 12 huevos cocidos
 
 1/4 l. nata líquida
@@ -25,7 +24,6 @@ Para 6 personas.
 1 cucharada de vinagre
 
 <h3>Preparación</h3>
-
 Mezclar la nata con la mostaza y el vinagre, arrimar al fuego sin dejar de mover hasta que espese.
 
 Añadir el champiñón limpio y fileteado, dejar unos minutos.

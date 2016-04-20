@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 3/4 de kilo de chuletas de cerdo
 
 100 gr. de manteca de cerdo
@@ -42,10 +41,8 @@ Para 4 personas.
 una pizca de canela
 
 <h3>Preparación</h3>
-
 Se enharinan las chuletas y se fríen en la manteca. Se ponen en una cazuela. En la grasa que queda se fríe el jamón picado y la cebolla también picada. En cuanto empieza a tomar color se echa el tomate pelado y picado y el pimiento a cuadraditos. Se rehoga todo y se añade el vino blanco y el huevo duro rallado. Se tapan y se dejan cocer a fuego muy lento 1 hora y media aproximadamente. Un poco antes de retirarlas del fuego se espolvorean con canela. Servir.
 
 <h3>Observaciones</h3>
-
 Se puede sustituir la manteca de cerdo por aceite de oliva virgen.
 

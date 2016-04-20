@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 lomos de conejo, limpios y deshuesados, 8 piezas
 
 hierbas aromáticas, 1 ramillete
@@ -41,7 +40,6 @@ setas, 100 gr.
 jugo de carne, 200 ml.
 
 <h3>Preparación</h3>
-
 Marinado del lomo: Una vez limpios los lomos de conejo los salamos y los cubrimos con una marinada que haremos con el vinagre, el aceite y el ramillete de hierbas aromáticas. Dejamos reposar 6 horas.
 
 Raviolis: Blanqueamos con cuidado las lonchas de patata y les damos forma de cuadraditos, preparamos un puré con la castaña triturada, un chorrito de leche y un golpe de azúcar, con lo cual rellenamos los raviolis de patata gallega.

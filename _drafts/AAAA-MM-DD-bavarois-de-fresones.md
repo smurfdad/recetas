@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1/2 bote de 740 gr. de leche condensada
 
 200 ml. de nata para montar
@@ -34,7 +33,6 @@ Para 4 personas.
 4 hojas de gelatina
 
 <h3>Preparación</h3>
-
 Pasar por la batidora la mitad de los fresones con la leche condensada y los yogures, hasta obtener un puré fino.
 
 Mojar las hojas de gelatina en agua fría y disolverlas con un poco de agua caliente. Pasarlas por un colador y mezclarlos con el puré de fresones.
@@ -42,6 +40,5 @@ Mojar las hojas de gelatina en agua fría y disolverlas con un poco de agua cali
 Añadir el resto de los fresones cortados en trocitos e incorporar la nata montada. Verterlo en una flanera ligeramente humedecida y dejarlo en el refrigerador hasta que esté cuajado.
 
 <h3>Observaciones</h3>
-
 Los fresones se pueden sustituir por plátanos, peras, manzanas, kiwis, etc.
 

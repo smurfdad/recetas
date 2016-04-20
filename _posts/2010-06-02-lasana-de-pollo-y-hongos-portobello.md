@@ -9,7 +9,6 @@ categories:
 - Setas y hongos
 ---
 <h3>Ingredientes</h3>
-
 1 Paquete de lasagna
 
 2 Hongos portobello (o cualquier otro tipo de hongos)
@@ -31,7 +30,6 @@ Un poco de aceite de oliva
 Sal y pimienta al gusto
 
 <h3>Preparación</h3>
-
 Hornear el pollo solo con sal y pimienta. Mientras, aparte, hacer una salsa bechamel.
 
 Aparte, en una olla, poner a calentar el aceite de oliva y cuando esté caliente, agregar la mantequilla a fuego bajo; cuando se haya derretido la mantequilla y esté caliente, agregar la cebolla y los ajos; luego, picaremos los hongos (si son Portobello, partirlos en rebanadas medianas eliminando el tallo, y si son de lata en rebanaditas pequeñas) y agregarlos junto con la cebolla y el ajo a la mantequilla con el aceite y esperar a que se suavicen un poco estos hongos.

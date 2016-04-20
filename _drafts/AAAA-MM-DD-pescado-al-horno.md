@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 kg. palo rosado o cualquier otro pescado de buena carne
 
 sal y pimienta
@@ -39,6 +38,5 @@ sal y pimienta
 pimentón colorado
 
 <h3>Preparación</h3>
-
 Tomar una fuente para microondas, untarla con aceite y acomodar trozos de palo rosado o cualquier otro pescado de buena carne, condimentado con sal y pimienta. Poner alrededor 1 cebolla cortada en juliana, tiras de ají verde, 2 dientes de ajo en láminas y 2 patatas peladas y cortadas en gajos. Rociar estos alimentos con un hilo de aceite y mezclarlos con un poco de pimentón colorado.
 

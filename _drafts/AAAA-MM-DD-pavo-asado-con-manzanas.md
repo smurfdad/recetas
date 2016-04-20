@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>
-
 1 pavo de 2 kg.
 
 100 gr. de lomo de cerdo
@@ -47,6 +46,5 @@ mantequilla
 sal
 
 <h3>Preparación</h3>
-
 Se prepara el relleno mezclando el lomo de cerdo, la carne de ternera, el jamón serrano, las pasas, las almendras, un poco de pimiento, la mantequilla, el vino blanco y la sal. (A excepción de las pasas, los restantes ingredientes deben ir bien picados). Se vacía el interior del pavo ya pelado y se rellena la parte del buche con la masa preparada, a la que se añaden dos manzanas, mondadas y partidas en cuatro trozos. Se rellena también el interior del pavo utilizando la misma masa, agregando otras dos manzanas cortadas de igual forma. Se cose la abertura, se ata el pavo y se asa el tiempo conveniente.
 

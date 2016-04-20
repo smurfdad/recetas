@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 2 cucharadas de mantequilla
 
 4 cucharadas de harina
@@ -23,7 +22,6 @@ Para 4 personas.
 1 copa de licor a gusto
 
 <h3>Preparación</h3>
-
 Poner a derretir la mantequilla al fuego, añadir la harina y revolver bien.
 
 Añadir el azúcar y la leche hirviendo, sin dejar de revolver.

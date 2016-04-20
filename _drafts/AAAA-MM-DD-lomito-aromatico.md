@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>
-
 4 filetes de lomito de res
 
 el jugo de un limón
@@ -39,7 +38,6 @@ hierbas aromáticas : tomillo, albahaca, orégano, romero, perejil
 sal y pimienta
 
 <h3>Preparación</h3>
-
 Prepare un adobo vertiendo en un cuenco el zumo de limón, el aceite, los ajos previamente machacados junto con las hierbas elegidas, sal y pimienta.
 
 A continuación, coloque los filetes en una fuente, en una sola capa. Rocíelos con el adobo preparado y déjelos reposar en un lugar fresco durante 4 o 5 horas para que tomen bien el sabor.

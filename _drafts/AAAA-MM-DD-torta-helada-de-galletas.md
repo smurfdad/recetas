@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 2 paquetes de galletas maria
 
 2 sobres de pudin de chocolate
@@ -32,7 +31,6 @@ Para 6 personas.
 1 litro de leche
 
 <h3>Preparación</h3>
-
 1/2 taza de leche en la licuadora con los 2 sobres de pudin de chocolate.licuas y lo pones a fuego lento en la cocina. Repetir la misma operación con los sobres de vainilla, dejarlos espesar y luego retirarlos del fuego.
 
 En un recipiente, mojar las galletas con leche y colocarlas alrededor del refractario, untarle una capa de pudin de vainilla y otra de chocolate , repetir haciendo capas hasta acabar las galletas.

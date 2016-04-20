@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 400 gr. de setas de otoño (pueden servir champiñones)
 
 3 calabacines grandes
@@ -40,7 +39,6 @@ aceite
 sal
 
 <h3>Preparación</h3>
-
 Cortar los calabacines en tres trozos cada uno y retirar las puntas para que se puedan mantener de pie.
 
 Vaciar con una cucharita los calabacines, sazonar el interior con sal y reservar la pulpa.

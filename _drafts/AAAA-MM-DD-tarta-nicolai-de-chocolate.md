@@ -22,7 +22,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 50 gramos de azúcar
 
 1 cucharada sopera de coñac
@@ -50,7 +49,6 @@ Para el Glaseado:
 3 cucharadas soperas de agua
 
 <h3>Preparación</h3>
-
 Prepare un almibar poniendo a hervir el agua junto con el azúcar. Fuera del fuego añada el coñac y deje que se enfríe. En un cazo ponga el chocolate a calentar al baño Maria, a fuego muy lento.
 
 Cuando esté derretido y tenga consistencia de pomada retire el cazo del fuego e incorpore la mantequilla batiendo con las varillas, y una vez que la mezcla se haya enfriado bien, las yemas de huevo. Mezcle bien

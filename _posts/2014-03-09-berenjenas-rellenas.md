@@ -9,7 +9,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 aceite de oliva
 
 4 berenjenas
@@ -29,7 +28,6 @@ aceite de oliva
 2 huevo, yemas
 
 <h3>Preparación</h3>
-
 Cortar a lo largo por la mitad las berenjenas y vaciarlas con cuidado.
 
 Picar la carne de las berenjenas y rehogarla con las cebollas en una sartén con aceite.Cuando estén doraditas, agregar los champiñones, perejil y la miga de pan.

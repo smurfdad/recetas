@@ -23,7 +23,6 @@ categories:
 Para 4 personas.
 
 <h3>Ingredientes</h3>
-
 1 pollo de 1.5 kg. picado en trozos
 
 50 gr. de harina
@@ -45,6 +44,5 @@ Para 4 personas.
 400 gr. de patatas peladas en trocitos
 
 <h3>Preparación</h3>
-
 Sofría en la mantequilla la pimienta en granos, los clavos y canela en rama, luego añada las cebollas trituradas y el jengibre. Cocine durante 5 minutos, luego agregue el pollo pasado por la harina y cocine hasta que el pollo este dorado. Agregue la leche de coco y las patatas, tape y deje cocinar a fuego lento por 30 minutos.
 

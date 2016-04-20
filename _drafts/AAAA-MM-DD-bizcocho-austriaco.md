@@ -22,7 +22,6 @@ categories:
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 1 vaso y 1/2 de cacao en polvo
 
 1 vaso de harina
@@ -38,6 +37,5 @@ Para 6 personas.
 4 huevos
 
 <h3>Preparación</h3>
-
 Juntar todos los ingredientes batiendo enérgicamente con una barilla, meter en el microondas en el cuenco especial de plástico circular 10-15 minutos a temperatura máxima. Sacar y desmoldar. Cortar en capas y rellenar. Se puede presentar cortando en dos capas el bizcocho y rellenando al gusto como por ejemplo con nata, mermelada, trufa, zarzamora etc.
 

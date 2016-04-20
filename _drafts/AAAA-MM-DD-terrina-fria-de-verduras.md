@@ -23,7 +23,6 @@ Para 4 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>
-
 1 lata pequeña de champiñones fileteados
 
 2 berenjenas
@@ -57,6 +56,5 @@ Sal y pimienta al gusto
 Aceite de oliva
 
 <h3>Preparación</h3>
-
 Preparación de las verduras: las berenjenas se lavan y se cortan a lo largo en láminas finas. Las zanahorias se pelan y se cortan en rodajas. Trocear los pimientos rojos a tiras no muy gruesas. Filetear en rodajas el tomate y el calabacín con su piel. Una vez preparadas las verduras, asarlas en una sartén con un chorrito de aceite. En un vasito de agua tibia disolver la gelatina y triturar junto con todos los ingredientes de la salsa. Forrar un molde refractario con papel vegetal y colocar una capa de verduras asadas (mezcladas), encima el jamón y luego la salsa. Repetir hasta llegar a agotar los ingredientes. Terminar con una capa de salsa. Refrigerar unas 3 horas en el frigorífico. Desmoldar y servir.
 
