@@ -20,7 +20,6 @@ categories:
 
 - Arroces
 
-
 ---
 
 Para 2 personas.

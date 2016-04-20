@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
  
 
-
 ---
 
 <b>Tiempo</b> 10 minutos.

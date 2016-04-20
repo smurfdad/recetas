@@ -18,8 +18,6 @@ categories:
 - Ensaladas
 - Setas y hongos
 
-
-
 ---
 
 Para 4 personas.

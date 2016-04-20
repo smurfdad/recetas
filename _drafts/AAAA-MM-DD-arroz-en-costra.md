@@ -20,7 +20,6 @@ categories:
 
 - Arroces
 
-
 ---
 
 <h3>Ingredientes</h3>

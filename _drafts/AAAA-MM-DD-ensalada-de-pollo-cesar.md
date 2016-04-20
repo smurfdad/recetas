@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 - Carnes y derivados
 
-
 ---
 
 <h3>Ingredientes</h3>

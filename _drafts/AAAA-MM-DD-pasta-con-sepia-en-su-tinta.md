@@ -20,7 +20,6 @@ categories:
 
 - Pastas
 
-
 ---
 
 Para 6 personas.

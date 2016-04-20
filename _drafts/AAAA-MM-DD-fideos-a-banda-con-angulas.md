@@ -20,7 +20,6 @@ categories:
 
 - Pescados
 
-
 ---
 
 <b>Tiempo</b> 25 minutos.

@@ -21,7 +21,6 @@ categories:
 - Pescados
 - Arroces
 
-
 ---
 
 Para 6 personas.

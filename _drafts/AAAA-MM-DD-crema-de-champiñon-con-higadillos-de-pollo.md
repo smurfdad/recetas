@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 - Carnes y derivados
 
-
 ---
 
 <h3>Ingredientes</h3>

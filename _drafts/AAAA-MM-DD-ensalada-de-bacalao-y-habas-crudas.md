@@ -20,7 +20,6 @@ categories:
 
 - Ensaladas
 
-
 ---
 
 <h3>Ingredientes</h3>

@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
  
 
-
 ---
 
 Para 1 personas.

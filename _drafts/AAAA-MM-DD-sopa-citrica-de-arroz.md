@@ -21,7 +21,6 @@ categories:
 - Arroces
 - Sopas y cremas
 
-
 ---
 
 <h3>Ingredientes</h3>

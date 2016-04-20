@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 - Mariscos y moluscos
 
-
 ---
 
 Para 4 personas.

@@ -21,7 +21,6 @@ categories:
 - Arroces
 - Carnes y derivados
 
-
 ---
 
 Para 5 personas.

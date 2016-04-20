@@ -21,7 +21,6 @@ categories:
 - Arroces
 - Mariscos y moluscos
 
-
 ---
 
 Para 6 personas.
