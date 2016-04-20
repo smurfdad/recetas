@@ -1,6 +1,6 @@
 ---
-title: Categorias
-layout: page
+title: Categorias de Recetas
+layout: summary
 ---
 <ul class="list-unstyled">
   {% assign sorted_categories = (site.data.categorias | sort: 'name') %}

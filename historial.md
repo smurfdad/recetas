@@ -1,6 +1,6 @@
 ---
 title: Histórico de Publicaciones
-layout: default
+layout: summary
 permalink: /historial/index.html
 ---
 <div class="timeline"><dl>
