@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 8 pescadillas (pijotas) pequeñas (150 gr. cada una)

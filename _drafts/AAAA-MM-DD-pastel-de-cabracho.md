@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 8 
 ---
-Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>

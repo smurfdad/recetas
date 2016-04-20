@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 salmonetes de 300 grs. cada uno (si es para una ocasión especial pide al pescatero que te los haga filetes)

@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 Bolsas de merluza congelada sin piel de 400 gr./Ud.

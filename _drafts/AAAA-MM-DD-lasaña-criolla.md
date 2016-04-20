@@ -20,8 +20,8 @@ categories:
 
 - Carnes y derivados
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 <b>Tiempo</b> 45 minutos.
 
 <h3>Ingredientes</h3>

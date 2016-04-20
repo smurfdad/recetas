@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Ensaladas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 lechuga o escarola (lo que os guste más).

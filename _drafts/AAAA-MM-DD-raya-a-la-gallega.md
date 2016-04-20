@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 2 alas de raya

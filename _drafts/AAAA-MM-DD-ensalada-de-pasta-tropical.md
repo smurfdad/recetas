@@ -20,8 +20,8 @@ categories:
 
 - Ensaladas
 - Pastas
+personas: 3 
 ---
-Para 3 personas.
 <b>Tiempo</b> 10 minutos.
 
 <h3>Ingredientes</h3>

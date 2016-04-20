@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 500 g de higaditos de pollo

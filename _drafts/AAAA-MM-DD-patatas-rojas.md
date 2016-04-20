@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 4 Patatas

@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 1 1/2 libras de carne molida de cerdo

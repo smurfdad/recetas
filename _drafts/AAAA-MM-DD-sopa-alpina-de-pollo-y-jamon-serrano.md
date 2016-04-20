@@ -20,8 +20,8 @@ categories:
 
 - Sopas y cremas
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 pechugas de pollo o 4 muslos

@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 20 
 ---
-Para 20 personas.
 
 <h3>Ingredientes</h3>
 INGREDIENTES PARA EL ADOBO.

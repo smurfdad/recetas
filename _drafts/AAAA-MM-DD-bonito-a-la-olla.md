@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 1 rodaja de bonito de aprox. 1/2 kg

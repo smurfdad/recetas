@@ -20,8 +20,8 @@ categories:
 
 - Pescados
 - Sopas y cremas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 Para el caldo:

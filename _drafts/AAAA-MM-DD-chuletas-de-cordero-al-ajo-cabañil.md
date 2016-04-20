@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de chuletas de cordero (si pueden ser de lechal mucho mejor)

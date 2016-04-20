@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 solomillos (lomito,solomo) de cerdo cortados en medallones gruesos

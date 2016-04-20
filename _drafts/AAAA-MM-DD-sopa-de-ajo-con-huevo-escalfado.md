@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 250 gr. de pan de sopa (sopako) o pan de víspera

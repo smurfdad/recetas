@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 Polvo para hornear 1 cuch.

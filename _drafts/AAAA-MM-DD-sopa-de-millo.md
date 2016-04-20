@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 
 <h3>Ingredientes</h3>

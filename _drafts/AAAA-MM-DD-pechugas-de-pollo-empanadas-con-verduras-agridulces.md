@@ -20,8 +20,8 @@ categories:
 
 - Carnes y derivados
 - Pastas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 pechugas de pollo deshuesadas

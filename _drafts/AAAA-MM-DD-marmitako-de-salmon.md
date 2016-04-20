@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 un lomo de salmón de unos 800 gramos

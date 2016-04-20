@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 12 
 ---
-Para 12 personas.
 <b>Tiempo</b> 50 minutos.
 
 <h3>Ingredientes</h3>

@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 600 gr. de rape limpio y cortado en medallones de 75 gr. cada uno

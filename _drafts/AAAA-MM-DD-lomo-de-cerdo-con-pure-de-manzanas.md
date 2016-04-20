@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 1 lomo de cerdo entero de 1,5 kg.

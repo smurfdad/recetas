@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 lenguados con piel preparados para hacer a la plancha

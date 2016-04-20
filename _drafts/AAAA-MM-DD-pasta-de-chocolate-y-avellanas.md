@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pastas
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 250 gr. de leche

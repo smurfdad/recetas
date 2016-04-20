@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>

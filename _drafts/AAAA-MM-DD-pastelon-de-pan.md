@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 15 
 ---
-Para 15 personas.
 
 <h3>Ingredientes</h3>
 1/2 Viga de Pan de Sandwichs

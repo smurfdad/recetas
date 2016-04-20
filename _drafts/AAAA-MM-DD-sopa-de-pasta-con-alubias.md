@@ -20,8 +20,8 @@ categories:
 
 - Sopas y cremas
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 500 g alubias secas

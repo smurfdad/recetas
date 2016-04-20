@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 25 
 ---
-Para 25 personas.
 
 <h3>Ingredientes</h3>
 1/4 kg. de pan seco

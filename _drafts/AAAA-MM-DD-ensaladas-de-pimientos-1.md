@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Ensaladas
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 3 pimientos verdes

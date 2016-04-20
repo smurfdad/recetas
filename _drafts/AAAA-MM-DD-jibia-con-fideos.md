@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 Jibia: 1 mediana (podemos congelar la tinta para otro plato)

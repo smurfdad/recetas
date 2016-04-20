@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Ensaladas
+personas: 1 
 ---
-Para 1 personas.
 
 <h3>Ingredientes</h3>
 Para las anchoas:

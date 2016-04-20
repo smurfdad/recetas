@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 800 gramos de congrio limpio.

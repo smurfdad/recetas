@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 18 filetes de tomo de ciervo de 75 gr.

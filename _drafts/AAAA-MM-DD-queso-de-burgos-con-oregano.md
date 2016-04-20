@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 250 a 300 gr de queso de tipo Burgos

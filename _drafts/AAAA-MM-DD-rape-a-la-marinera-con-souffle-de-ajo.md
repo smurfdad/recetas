@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 rodajas de rape

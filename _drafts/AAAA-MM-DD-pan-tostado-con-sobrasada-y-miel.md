@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 4 Rebanadas de pan de payes de 1,5 cm. de grueso , a ser posible que tengan 1 ó 2 días

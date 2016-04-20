@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Arroces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 kg de arroz

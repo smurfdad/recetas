@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Arroces
+personas: 7 
 ---
-Para 7 personas.
 
 <h3>Ingredientes</h3>
 1/2 libra de gandules frescos

@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>

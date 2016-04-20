@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 12 
 ---
-Para 12 personas.
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>

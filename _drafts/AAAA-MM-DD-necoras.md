@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 4 nécoras (se calculan 2 por persona)

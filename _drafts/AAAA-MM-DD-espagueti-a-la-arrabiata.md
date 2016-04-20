@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pastas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/4 taza de aceite de oliva

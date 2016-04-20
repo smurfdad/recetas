@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 conejo de monte de 1 Kg. aprox.

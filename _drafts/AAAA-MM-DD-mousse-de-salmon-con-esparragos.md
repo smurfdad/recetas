@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 500 gr. de espárragos

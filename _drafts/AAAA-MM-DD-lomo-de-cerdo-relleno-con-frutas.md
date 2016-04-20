@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 16 
 ---
-Para 16 personas.
 <b>Tiempo</b> 80 minutos.
 
 <h3>Ingredientes</h3>

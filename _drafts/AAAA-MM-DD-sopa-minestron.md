@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 2 litros de caldo de carne o de verdura

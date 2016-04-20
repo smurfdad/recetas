@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 taza de café de arroz por cada comensal, unas lascas de bacalao sin desalar, varios dientes de ajo (1 por comensal), una ramita de perejil, 1 huevo por comensal, aceite de oliva virgen del Somontano, agua mineral.

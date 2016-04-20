@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 500 gr. de camarones vivos (se calculan 250 gr. por persona)

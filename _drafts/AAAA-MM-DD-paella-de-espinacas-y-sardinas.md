@@ -20,8 +20,8 @@ categories:
 
 - Pescados
 - Arroces
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 12 sardinas frescas

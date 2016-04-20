@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1/4 kg. de gámbaros (camarones )

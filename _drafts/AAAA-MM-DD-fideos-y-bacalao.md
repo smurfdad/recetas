@@ -20,8 +20,8 @@ categories:
 
 - Pescados
 - Pastas
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 400 g. de fideos finos,

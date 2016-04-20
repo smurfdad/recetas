@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 7 
 ---
-Para 7 personas.
 
 <h3>Ingredientes</h3>
 6 huevos

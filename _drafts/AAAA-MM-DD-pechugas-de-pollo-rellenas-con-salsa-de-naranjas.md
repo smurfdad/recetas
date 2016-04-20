@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 1 
 ---
-Para 1 personas.
 
 <h3>Ingredientes</h3>
 1 Pechuga de pollo finitas

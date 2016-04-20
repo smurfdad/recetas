@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 Kg. de mejillones

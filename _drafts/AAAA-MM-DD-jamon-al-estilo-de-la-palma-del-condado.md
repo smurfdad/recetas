@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 6 lonchas de jamón de Jabugo

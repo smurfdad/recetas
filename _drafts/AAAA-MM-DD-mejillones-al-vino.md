@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
+personas: 1 
 ---
-Para 1 personas.
 
 <h3>Ingredientes</h3>
 10 MEJILLONES

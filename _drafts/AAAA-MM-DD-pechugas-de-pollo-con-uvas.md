@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 Pechugas de pollo sin piel 4

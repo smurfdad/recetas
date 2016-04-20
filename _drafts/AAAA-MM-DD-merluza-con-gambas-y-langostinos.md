@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1merluza de 1kg aprox. (cortada a supremas)

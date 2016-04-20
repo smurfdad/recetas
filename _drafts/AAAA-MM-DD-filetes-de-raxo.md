@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 8 filetes finos de cinta de lomo de cerdo

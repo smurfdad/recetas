@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pastas
+personas: 2 
 ---
-Para 2 personas.
 
 <h3>Ingredientes</h3>
 200 grs de carne de ternera

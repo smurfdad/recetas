@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/2 kg. de colas de cigalas cocidas

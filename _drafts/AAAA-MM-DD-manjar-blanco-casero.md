@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 10 
 ---
-Para 10 personas.
 
 <h3>Ingredientes</h3>
 3 litros de leche blanca entera

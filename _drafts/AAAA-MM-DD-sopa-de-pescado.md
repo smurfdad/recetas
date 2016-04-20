@@ -20,8 +20,8 @@ categories:
 
 - Pescados
 - Sopas y cremas
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Cocochas de rape: 750 grs.

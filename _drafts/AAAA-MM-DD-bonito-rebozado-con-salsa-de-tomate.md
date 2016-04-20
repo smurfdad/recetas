@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 tajada de bonito de 800 gr.

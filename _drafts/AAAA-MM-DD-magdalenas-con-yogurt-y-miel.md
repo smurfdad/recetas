@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 12 
 ---
-Para 12 personas.
 
 <h3>Ingredientes</h3>
 55 grs de mantequilla

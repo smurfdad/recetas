@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 trozo de lomo de 1 kg. o 1 1/2kg.

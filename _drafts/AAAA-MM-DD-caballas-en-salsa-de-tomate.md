@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 ó 2 caballas por persona, según el tamaño.

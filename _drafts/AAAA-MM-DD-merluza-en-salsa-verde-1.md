@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 8 rodajas de mediana (merluza) de 2cm de grosor

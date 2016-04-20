@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 Mariscos de su elección.(camarones grandes,mejillones,trozos de pescado y aros de calamar)

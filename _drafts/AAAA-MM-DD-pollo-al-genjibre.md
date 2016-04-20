@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 Kilo de pollo trozado o sólo filetes de pechuga.

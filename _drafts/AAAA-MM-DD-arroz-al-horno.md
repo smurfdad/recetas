@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1/4 Costilla de cerdo troceada.

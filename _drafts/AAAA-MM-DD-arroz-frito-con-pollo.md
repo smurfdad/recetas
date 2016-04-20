@@ -20,8 +20,8 @@ categories:
 
 - Arroces
 - Carnes y derivados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 taza de de pollo cocido cortado en cubos

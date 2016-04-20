@@ -20,8 +20,8 @@ categories:
 
 - Pescados
 - Arroces
+personas: 6 
 ---
-Para 6 personas.
 <b>Tiempo</b> 35 minutos.
 
 <h3>Ingredientes</h3>

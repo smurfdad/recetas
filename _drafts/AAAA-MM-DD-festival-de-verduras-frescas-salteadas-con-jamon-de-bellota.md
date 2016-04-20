@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 3 kg, de verduras (alcachofas; habas, guisantes espinacas, bulbos de hinojo, coles de bruselas, apio, coliflor)

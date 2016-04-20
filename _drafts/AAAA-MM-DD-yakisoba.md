@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 1 
 ---
-Para 1 personas.
 
 <h3>Ingredientes</h3>
 100 gr. de carne de vacuno cortada a tiras muy finas.

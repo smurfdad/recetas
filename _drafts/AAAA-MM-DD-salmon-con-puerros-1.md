@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 1 kg. de salmón (sin piel ni espinas) en filetes de 2 cm de grueso.

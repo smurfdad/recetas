@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 3 bogavantes de 1kg aproximadamente

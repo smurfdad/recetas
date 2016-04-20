@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Ensaladas
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 tazas de garbanzos cocinados

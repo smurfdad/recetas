@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Arroces
+personas: 4 
 ---
-Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 
 <h3>Ingredientes</h3>

@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 4 
 ---
-Para 4 personas.
 <b>Tiempo</b> 87 minutos.
 
 <h3>Ingredientes</h3>

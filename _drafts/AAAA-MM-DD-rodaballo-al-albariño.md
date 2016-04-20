@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 3 
 ---
-Para 3 personas.
 
 <h3>Ingredientes</h3>
 1 rodaballo de 1,5 kgr.

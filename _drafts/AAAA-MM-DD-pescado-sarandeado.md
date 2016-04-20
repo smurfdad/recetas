@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Pescados
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 1 pescado de 1 a 1 1/2 kg

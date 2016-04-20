@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
+personas: 7 
 ---
-Para 7 personas.
 
 <h3>Ingredientes</h3>
 1 pollo tierno partido en piezas

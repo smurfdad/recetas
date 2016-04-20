@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 8 
 ---
-Para 8 personas.
 
 <h3>Ingredientes</h3>
 3 tarrinas de 200 grs. de queso Philadelphia

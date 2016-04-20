@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 4 
 ---
-Para 4 personas.
 
 <h3>Ingredientes</h3>
 500 G. fideos fusile o cualquier otra clase de fideos fideos que mas te guste, o cualquiera que te guste.

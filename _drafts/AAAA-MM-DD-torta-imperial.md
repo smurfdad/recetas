@@ -18,8 +18,8 @@ categories:
 - Ensaladas
 - Setas y hongos
  
+personas: 20 
 ---
-Para 20 personas.
 
 <h3>Ingredientes</h3>
 500 gramos de mantequilla

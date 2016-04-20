@@ -19,8 +19,8 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
+personas: 6 
 ---
-Para 6 personas.
 
 <h3>Ingredientes</h3>
 2 Kgrs de mejillones de roca
