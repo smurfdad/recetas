@@ -2,8 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
+@import "bootstrap";
+@import "font-awesome";
 @import "timeline";
+@import "bs-callout";
+@import "bs-cloud-tag-list";
 
 $footer-height: 60px;
 
