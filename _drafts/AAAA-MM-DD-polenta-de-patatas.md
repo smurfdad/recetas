@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLENTA DE PATATAS
-date: '2010-10-08T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

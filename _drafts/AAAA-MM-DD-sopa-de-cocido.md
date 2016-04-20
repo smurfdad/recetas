@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE COCIDO
-date: '2010-06-14T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

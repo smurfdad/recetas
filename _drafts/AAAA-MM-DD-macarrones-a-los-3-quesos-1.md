@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MACARRONES A LOS 3 QUESOS
-date: '2010-07-09T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

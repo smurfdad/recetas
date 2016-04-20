@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESPINACAS A LA CREMA
-date: '2010-06-04T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

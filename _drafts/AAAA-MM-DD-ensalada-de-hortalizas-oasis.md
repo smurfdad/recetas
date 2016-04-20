@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE HORTALIZAS OASIS
-date: '2010-09-15T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

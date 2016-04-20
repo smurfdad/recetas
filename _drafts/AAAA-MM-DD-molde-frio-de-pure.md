@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOLDE FRÍO DE PURÉ
-date: '2010-09-25T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

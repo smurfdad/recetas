@@ -4,7 +4,7 @@ layout: post
 
 title: BACON ESPECIAL
 
-date: '2010-05-18T17:16:00.003-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO A LA CAZADORA
-date: '2010-07-06T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

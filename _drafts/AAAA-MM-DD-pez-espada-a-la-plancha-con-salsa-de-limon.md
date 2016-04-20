@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PEZ ESPADA A LA PLANCHA CON SALSA DE LIMON
-date: '2010-07-13T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

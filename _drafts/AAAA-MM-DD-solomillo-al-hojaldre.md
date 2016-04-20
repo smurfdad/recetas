@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO AL HOJALDRE
-date: '2010-06-09T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

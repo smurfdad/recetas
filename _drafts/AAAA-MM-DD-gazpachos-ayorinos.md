@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GAZPACHOS AYORINOS
-date: '2010-07-07T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

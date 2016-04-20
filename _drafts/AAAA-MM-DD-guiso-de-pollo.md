@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GUISO DE POLLO
-date: '2010-07-09T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

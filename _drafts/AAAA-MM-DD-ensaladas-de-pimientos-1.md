@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADAS DE PIMIENTOS
-date: '2010-07-20T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

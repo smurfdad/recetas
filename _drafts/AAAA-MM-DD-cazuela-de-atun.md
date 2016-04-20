@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAZUELA DE ATÚN
-date: '2010-09-07T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

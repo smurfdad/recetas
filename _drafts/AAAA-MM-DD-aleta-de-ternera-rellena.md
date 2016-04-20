@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALETA DE TERNERA RELLENA
-date: '2010-08-26T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

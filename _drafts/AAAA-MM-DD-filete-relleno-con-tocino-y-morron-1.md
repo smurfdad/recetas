@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETE RELLENO CON TOCINO Y MORRÓN
-date: '2010-07-10T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

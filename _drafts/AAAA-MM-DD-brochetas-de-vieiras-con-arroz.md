@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BROCHETAS DE VIEIRAS CON ARROZ
-date: '2010-09-05T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

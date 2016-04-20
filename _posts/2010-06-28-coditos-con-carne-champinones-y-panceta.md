@@ -4,7 +4,7 @@ layout: post
 
 title: CODITOS CON CARNE, CHAMPIÑONES Y PANCETA AHUMADA
 
-date: '2010-06-28T04:05:00.002-07:00'
+
 
 author: Smurf Dad
 

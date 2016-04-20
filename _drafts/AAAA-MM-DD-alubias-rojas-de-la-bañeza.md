@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALUBIAS ROJAS DE LA BAÑEZA
-date: '2010-06-23T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

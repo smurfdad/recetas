@@ -4,7 +4,7 @@ layout: post
 
 title: CARNE GUISADA
 
-date: '2010-05-20T15:59:00.012-07:00'
+
 
 author: Smurf Dad
 

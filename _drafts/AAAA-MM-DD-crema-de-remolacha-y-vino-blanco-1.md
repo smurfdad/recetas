@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE REMOLACHA Y VINO BLANCO
-date: '2010-07-19T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

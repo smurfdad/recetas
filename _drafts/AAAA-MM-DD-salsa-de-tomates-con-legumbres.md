@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA DE TOMATES CON LEGUMBRES
-date: '2010-07-02T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

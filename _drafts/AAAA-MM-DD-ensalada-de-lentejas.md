@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE LENTEJAS
-date: '2010-06-15T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

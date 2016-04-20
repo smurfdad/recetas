@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAVO RELLENO ALCOLEA
-date: '2010-09-29T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: HUEVOS AL PLATO
 
-date: '2010-05-24T09:35:00.000-07:00'
+
 
 author: Smurf Dad
 

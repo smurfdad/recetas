@@ -4,7 +4,7 @@ layout: post
 
 title: TORTILLA DE PATATA
 
-date: '2010-05-29T03:09:00.001-07:00'
+
 
 author: Smurf Dad
 

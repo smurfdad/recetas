@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGAS DE POLLO AL ROQUEFORT
 
-date: '2010-06-01T23:30:00.000-07:00'
+
 
 author: Smurf Dad
 

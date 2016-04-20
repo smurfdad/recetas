@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HOJALDRE DE ROQUEFORT Y NUECES
-date: '2010-06-21T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

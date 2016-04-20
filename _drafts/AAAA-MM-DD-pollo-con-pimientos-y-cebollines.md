@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO CON PIMIENTOS Y CEBOLLINES
-date: '2010-08-24T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

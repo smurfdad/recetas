@@ -4,7 +4,7 @@ layout: post
 
 title: ESPAGUETIS CON NATA
 
-date: '2010-06-02T13:11:00.001-07:00'
+
 
 author: Smurf Dad
 

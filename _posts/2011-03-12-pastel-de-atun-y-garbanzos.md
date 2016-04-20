@@ -4,7 +4,7 @@ layout: post
 
 title: PASTEL DE ATÚN Y GARBANZOS
 
-date: '2011-03-12T02:28:00.000-08:00'
+
 
 author: Smurf Dad
 

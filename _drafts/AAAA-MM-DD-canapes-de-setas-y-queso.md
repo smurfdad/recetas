@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CANAPÉS DE SETAS Y QUESO
-date: '2010-09-03T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

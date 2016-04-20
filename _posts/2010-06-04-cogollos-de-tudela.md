@@ -4,7 +4,7 @@ layout: post
 
 title: COGOLLOS DE TUDELA
 
-date: '2010-06-04T07:30:00.000-07:00'
+
 
 author: Smurf Dad
 

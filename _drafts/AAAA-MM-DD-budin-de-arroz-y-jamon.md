@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BUDÍN DE ARROZ Y JAMÓN
-date: '2010-06-20T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

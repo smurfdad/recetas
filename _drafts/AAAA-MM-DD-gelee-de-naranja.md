@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GELEE DE NARANJA
-date: '2010-09-16T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

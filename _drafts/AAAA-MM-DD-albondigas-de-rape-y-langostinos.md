@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE RAPE Y LANGOSTINOS
-date: '2010-08-26T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

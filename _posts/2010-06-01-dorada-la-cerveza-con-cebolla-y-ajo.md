@@ -4,7 +4,7 @@ layout: post
 
 title: DORADA A LA CERVEZA, CON CEBOLLA Y AJO
 
-date: '2010-06-01T10:33:00.002-07:00'
+
 
 author: Smurf Dad
 

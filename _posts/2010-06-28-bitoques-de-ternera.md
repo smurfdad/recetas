@@ -4,7 +4,7 @@ layout: post
 
 title: BITOQUES DE TERNERA
 
-date: '2010-06-28T04:41:00.000-07:00'
+
 
 author: Smurf Dad
 

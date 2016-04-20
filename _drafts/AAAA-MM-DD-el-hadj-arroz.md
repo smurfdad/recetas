@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EL HADJ ARROZ
-date: '2010-09-10T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

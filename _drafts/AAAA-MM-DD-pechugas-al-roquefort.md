@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGAS AL ROQUEFORT
-date: '2010-07-14T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

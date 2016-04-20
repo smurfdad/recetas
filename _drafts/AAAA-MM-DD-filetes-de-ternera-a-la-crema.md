@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETES DE TERNERA A LA CREMA
-date: '2010-10-14T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CALDOSO
-date: '2010-06-30T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

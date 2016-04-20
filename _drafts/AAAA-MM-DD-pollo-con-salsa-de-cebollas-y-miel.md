@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO CON SALSA DE CEBOLLAS Y MIEL
-date: '2010-07-20T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FRICANDO DE SEPIA CON GARBANZOS
-date: '2010-09-17T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

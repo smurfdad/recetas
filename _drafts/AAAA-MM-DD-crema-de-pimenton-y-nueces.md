@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE PIMENTÓN Y NUECES
-date: '2010-07-17T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

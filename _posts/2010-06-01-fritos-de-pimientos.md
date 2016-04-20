@@ -4,7 +4,7 @@ layout: post
 
 title: FRITOS DE PIMIENTOS
 
-date: '2010-06-01T10:26:00.000-07:00'
+
 
 author: Smurf Dad
 

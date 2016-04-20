@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON ESPINACAS Y SALSA BLANCA
-date: '2010-07-22T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

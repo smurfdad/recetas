@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE BROTES CON YOGUR
-date: '2010-06-29T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

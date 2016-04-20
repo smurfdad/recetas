@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ DEL ABROJO
-date: '2010-06-07T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

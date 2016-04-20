@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATA RELLENA
-date: '2010-06-24T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

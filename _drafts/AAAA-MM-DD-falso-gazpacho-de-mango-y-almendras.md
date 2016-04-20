@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FALSO GAZPACHO DE MANGO Y ALMENDRAS
-date: '2010-09-20T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

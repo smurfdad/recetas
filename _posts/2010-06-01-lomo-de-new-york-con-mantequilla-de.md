@@ -4,7 +4,7 @@ layout: post
 
 title: LOMO DE NEW YORK CON MANTEQUILLA DE QUESO STILTON
 
-date: '2010-06-01T11:16:00.000-07:00'
+
 
 author: Smurf Dad
 

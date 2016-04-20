@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO RELLENAS CON SALSA DE NARANJAS
-date: '2010-10-15T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

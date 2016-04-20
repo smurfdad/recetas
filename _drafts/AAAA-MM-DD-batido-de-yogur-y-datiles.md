@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BATIDO DE YOGUR Y DÁTILES
-date: '2010-09-01T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: SALMÓN EN ESCAMAS ENVUELTO EN FINAS RODAJAS DE PATATAS
 
-date: '2010-08-09T03:16:00.000-07:00'
+
 
 author: Smurf Dad
 

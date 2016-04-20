@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHAMPIÑONES A LA PLANCHA CON GAMBAS
-date: '2010-07-24T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE CARNE Y ARROZ
-date: '2010-06-15T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

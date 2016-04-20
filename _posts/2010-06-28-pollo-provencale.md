@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO PROVENCALE
 
-date: '2010-06-28T04:44:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTILLA MURCIANA DE PISTO CON PATATAS Y BACALAO
-date: '2010-10-15T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

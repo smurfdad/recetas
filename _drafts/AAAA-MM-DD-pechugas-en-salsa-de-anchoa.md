@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGAS EN SALSA DE ANCHOA
-date: '2010-10-01T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

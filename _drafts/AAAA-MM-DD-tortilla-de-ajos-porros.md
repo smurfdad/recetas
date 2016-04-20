@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTILLA DE AJOS PORROS
-date: '2010-10-05T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

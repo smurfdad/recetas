@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PIE DE PIÑA
-date: '2010-06-23T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

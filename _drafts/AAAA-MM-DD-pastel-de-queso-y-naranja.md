@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE QUESO Y NARANJA
-date: '2010-10-17T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

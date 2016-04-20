@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COCOCHAS DE BACALAO
-date: '2010-06-06T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

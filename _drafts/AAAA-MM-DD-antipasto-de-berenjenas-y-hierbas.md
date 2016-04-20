@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ANTIPASTO DE BERENJENAS Y HIERBAS
-date: '2010-06-08T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

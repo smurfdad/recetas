@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ EN SALSA VERDE
-date: '2010-07-22T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

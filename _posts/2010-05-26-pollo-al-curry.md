@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO AL CURRY
 
-date: '2010-05-26T09:52:00.000-07:00'
+
 
 author: Smurf Dad
 

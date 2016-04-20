@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO TIKKA DE LA INDIA
-date: '2010-10-01T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

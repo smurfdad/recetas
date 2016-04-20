@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLO DE ESPINACAS CON QUESO RICOTTA
-date: '2010-06-25T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

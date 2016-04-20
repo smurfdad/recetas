@@ -4,7 +4,7 @@ layout: post
 
 title: GUISO DE ARROZ CON PESCADO
 
-date: '2011-02-07T14:57:00.000-08:00'
+
 
 author: Smurf Dad
 

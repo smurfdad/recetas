@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS CON YEMA Y CHORIZO
-date: '2010-09-29T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

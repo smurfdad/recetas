@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA DE PLATANOS
-date: '2010-10-14T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

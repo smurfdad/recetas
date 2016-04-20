@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MERO AL ESTILO DE LA COSTA BRAVA
-date: '2010-09-26T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

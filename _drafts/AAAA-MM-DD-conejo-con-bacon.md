@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONEJO CON BACÓN
-date: '2010-09-08T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

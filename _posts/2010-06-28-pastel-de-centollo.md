@@ -4,7 +4,7 @@ layout: post
 
 title: PASTEL DE CENTOLLO
 
-date: '2010-06-28T04:48:00.001-07:00'
+
 
 author: Smurf Dad
 

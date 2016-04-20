@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE FRUTAS TROPICALES
-date: '2010-09-12T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

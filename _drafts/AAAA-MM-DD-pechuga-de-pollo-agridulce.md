@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGA DE POLLO AGRIDULCE
-date: '2010-09-29T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

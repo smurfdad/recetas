@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEPIA ESTOFADA A LA LIONESA
-date: '2010-06-18T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

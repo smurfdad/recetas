@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CANELONES DE RAPE
-date: '2010-07-21T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

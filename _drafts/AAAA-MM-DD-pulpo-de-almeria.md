@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PULPO DE ALMERÍA
-date: '2010-10-02T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

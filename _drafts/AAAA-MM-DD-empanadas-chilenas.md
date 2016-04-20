@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMPANADAS CHILENAS
-date: '2010-09-12T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

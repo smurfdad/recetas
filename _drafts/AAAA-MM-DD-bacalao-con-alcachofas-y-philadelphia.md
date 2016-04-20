@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO CON ALCACHOFAS Y PHILADELPHIA
-date: '2010-06-21T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BRAZO DE GITANO
-date: '2010-09-06T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

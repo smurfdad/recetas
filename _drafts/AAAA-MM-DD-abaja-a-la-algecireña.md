@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ABAJÁ A LA ALGECIREÑA
-date: '2010-08-26T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

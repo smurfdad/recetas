@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETES DE MERLUZA A LA CREMA PHILADELPHIA
-date: '2010-07-20T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE GUISANTES CON NUECES
-date: '2010-09-11T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

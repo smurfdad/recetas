@@ -4,7 +4,7 @@ layout: post
 
 title: LUBINA AL HORNO SOBRE CREMA DE VERDURAS Y REFRITO DE LIMÓN
 
-date: '2010-07-25T08:00:00.000-07:00'
+
 
 author: Smurf Dad
 

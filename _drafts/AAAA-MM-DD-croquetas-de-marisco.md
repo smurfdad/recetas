@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CROQUETAS DE MARISCO
-date: '2010-09-12T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

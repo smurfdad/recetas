@@ -4,7 +4,7 @@ layout: post
 
 title: CARNE ASADA DE CERDO
 
-date: '2010-05-30T13:46:00.001-07:00'
+
 
 author: Smurf Dad
 

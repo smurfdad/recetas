@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOLITAS DE PATATA
-date: '2010-09-02T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

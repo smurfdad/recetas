@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BLANQUETA DE TERNERA
-date: '2010-06-05T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

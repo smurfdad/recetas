@@ -4,7 +4,7 @@ layout: post
 
 title: PATATAS A LA RIOJANA
 
-date: '2010-06-01T13:35:00.000-07:00'
+
 
 author: Smurf Dad
 

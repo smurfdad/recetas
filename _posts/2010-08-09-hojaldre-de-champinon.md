@@ -4,7 +4,7 @@ layout: post
 
 title: HOJALDRE DE CHAMPIÑÓN
 
-date: '2010-08-09T03:25:00.000-07:00'
+
 
 author: Smurf Dad
 

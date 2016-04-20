@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGA DE POLLO CON PIÑA
 
-date: '2014-02-01T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

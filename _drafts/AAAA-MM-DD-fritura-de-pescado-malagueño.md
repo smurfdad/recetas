@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FRITURA DE PESCADO MALAGUEÑO
-date: '2010-09-17T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

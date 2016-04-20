@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MACEDONIA DE FRUTAS
-date: '2010-06-13T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

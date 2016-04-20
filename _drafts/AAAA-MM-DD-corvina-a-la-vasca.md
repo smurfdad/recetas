@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CORVINA A LA VASCA
-date: '2010-06-23T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

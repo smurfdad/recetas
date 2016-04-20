@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOCARTES AL AJILLO
-date: '2010-10-17T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

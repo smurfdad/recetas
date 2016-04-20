@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE PAPA EN SALSA DE SPAGUETI
-date: '2010-07-01T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

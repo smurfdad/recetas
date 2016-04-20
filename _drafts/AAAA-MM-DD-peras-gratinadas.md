@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PERAS GRATINADAS
-date: '2010-10-03T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

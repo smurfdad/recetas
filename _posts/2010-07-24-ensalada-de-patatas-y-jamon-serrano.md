@@ -4,7 +4,7 @@ layout: post
 
 title: ENSALADA DE PATATAS Y JAMÓN SERRANO
 
-date: '2010-07-24T19:30:00.000-07:00'
+
 
 author: Smurf Dad
 

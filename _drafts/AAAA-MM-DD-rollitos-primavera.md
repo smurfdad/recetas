@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLITOS PRIMAVERA
-date: '2010-06-16T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

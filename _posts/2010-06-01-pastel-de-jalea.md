@@ -4,7 +4,7 @@ layout: post
 
 title: PASTEL DE JALEA
 
-date: '2010-06-01T13:29:00.005-07:00'
+
 
 author: Smurf Dad
 

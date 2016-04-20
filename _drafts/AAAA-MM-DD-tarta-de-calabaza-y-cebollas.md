@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA DE CALABAZA Y CEBOLLAS
-date: '2010-07-03T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

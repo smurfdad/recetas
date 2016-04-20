@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GUISADO DE TERNERA
-date: '2010-07-12T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

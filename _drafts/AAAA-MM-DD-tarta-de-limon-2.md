@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA DE LIMÓN
-date: '2010-10-05T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

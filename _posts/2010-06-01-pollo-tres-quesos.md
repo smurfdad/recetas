@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO TRES QUESOS
 
-date: '2010-06-01T10:30:00.000-07:00'
+
 
 author: Smurf Dad
 

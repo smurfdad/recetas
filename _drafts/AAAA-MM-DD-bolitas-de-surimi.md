@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOLITAS DE SURIMI
-date: '2010-06-26T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

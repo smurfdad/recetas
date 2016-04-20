@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOUSSE DE CASTAÑAS, FILLOA Y SORBETE DE MIRABELES
-date: '2010-09-27T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MORTERUELO
-date: '2010-09-25T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: PUDIN DE VERDURAS DEL TIEMPO
 
-date: '2010-06-01T10:18:00.000-07:00'
+
 
 author: Smurf Dad
 

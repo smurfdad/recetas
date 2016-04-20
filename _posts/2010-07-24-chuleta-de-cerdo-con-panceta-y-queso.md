@@ -4,7 +4,7 @@ layout: post
 
 title: CHULETA DE CERDO CON PANCETA Y QUESO
 
-date: '2010-07-24T15:30:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA DE PIÑA AL MICROONDAS
-date: '2010-10-05T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

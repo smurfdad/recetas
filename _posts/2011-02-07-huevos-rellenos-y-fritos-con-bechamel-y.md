@@ -4,7 +4,7 @@ layout: post
 
 title: HUEVOS RELLENOS Y FRITOS CON BECHAMEL Y TOMATE
 
-date: '2011-02-07T15:13:00.000-08:00'
+
 
 author: Smurf Dad
 

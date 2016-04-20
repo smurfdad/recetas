@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MANITAS DE CERDO EN SALSA
-date: '2010-09-24T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

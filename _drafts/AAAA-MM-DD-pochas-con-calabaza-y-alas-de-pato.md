@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POCHAS CON CALABAZA Y ALAS DE PATO
-date: '2010-10-03T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

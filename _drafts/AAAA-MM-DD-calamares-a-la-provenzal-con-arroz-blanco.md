@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALAMARES A LA PROVENZAL CON ARROZ BLANCO
-date: '2010-06-23T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: ENSALADA DE PATATA
 
-date: '2010-06-02T14:14:00.000-07:00'
+
 
 author: Smurf Dad
 

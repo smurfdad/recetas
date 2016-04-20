@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COQUITOS BLANCOS
-date: '2010-06-25T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

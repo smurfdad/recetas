@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARACOLES DE LA HUERTA SOBRE PURÉ DE ORTIGAS
-date: '2010-09-05T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

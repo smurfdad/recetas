@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS A LA SARTEN CON MANZANA Y RELLENO
-date: '2010-10-13T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FIDEOS CON CONGRIO
-date: '2010-09-16T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

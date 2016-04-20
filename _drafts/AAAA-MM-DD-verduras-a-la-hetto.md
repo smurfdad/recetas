@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VERDURAS A LA HETTO
-date: '2010-06-09T23:34:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTA FUERTE
-date: '2010-07-22T09:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

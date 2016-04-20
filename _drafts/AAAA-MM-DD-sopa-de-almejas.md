@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE ALMEJAS
-date: '2010-10-10T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

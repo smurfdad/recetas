@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO A LA CAZUELA
-date: '2010-10-01T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

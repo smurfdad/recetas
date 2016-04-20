@@ -4,7 +4,7 @@ layout: post
 
 title: CONGRIO EN SALSA DE PATATA
 
-date: '2010-06-01T13:26:00.000-07:00'
+
 
 author: Smurf Dad
 

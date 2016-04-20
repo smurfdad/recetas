@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PULPO A LA GUINDILLA
-date: '2010-10-02T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LENGUADO AL HORNO
-date: '2010-06-13T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

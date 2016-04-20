@@ -4,7 +4,7 @@ layout: post
 
 title: SALTEADO DE BUEY A LA CREMA
 
-date: '2010-06-02T13:17:00.000-07:00'
+
 
 author: Smurf Dad
 

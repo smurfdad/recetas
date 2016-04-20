@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTXO DE BERENJENAS CON CHIPIRÓN
-date: '2010-06-23T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

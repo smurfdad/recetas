@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOGAVANTE DOS SALSAS
-date: '2010-09-02T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

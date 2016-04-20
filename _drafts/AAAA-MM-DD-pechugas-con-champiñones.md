@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGAS CON CHAMPIÑONES
-date: '2010-06-25T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

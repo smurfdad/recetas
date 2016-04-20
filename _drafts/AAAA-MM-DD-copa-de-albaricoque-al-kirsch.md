@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COPA DE ALBARICOQUE AL KIRSCH
-date: '2010-06-30T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

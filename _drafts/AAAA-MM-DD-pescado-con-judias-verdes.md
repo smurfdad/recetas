@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PESCADO CON JUDÍAS VERDES
-date: '2010-10-02T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

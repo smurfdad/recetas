@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALCHICHAS AL VINO FINO
-date: '2010-10-01T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMÓN EN ESCAMAS ENVUELTO EN FINAS RODAJAS DE PATATAS
-date: '2010-07-07T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

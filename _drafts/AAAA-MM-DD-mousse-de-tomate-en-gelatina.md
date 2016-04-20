@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOUSSE DE TOMATE EN GELATINA
-date: '2010-06-21T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

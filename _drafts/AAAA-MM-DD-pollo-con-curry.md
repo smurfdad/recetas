@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO CON CURRY
-date: '2010-10-01T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

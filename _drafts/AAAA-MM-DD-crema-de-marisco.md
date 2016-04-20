@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE MARISCO
-date: '2010-09-11T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

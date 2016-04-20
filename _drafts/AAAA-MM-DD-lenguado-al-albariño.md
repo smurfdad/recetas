@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LENGUADO AL ALBARIÑO
-date: '2010-09-22T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

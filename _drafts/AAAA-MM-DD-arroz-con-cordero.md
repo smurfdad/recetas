@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON CORDERO
-date: '2010-08-29T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

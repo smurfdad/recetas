@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO A LA SECRETARIA
-date: '2010-10-01T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

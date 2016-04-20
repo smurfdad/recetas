@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE ARROZ CON SALSA DE TOMATE
-date: '2010-08-25T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

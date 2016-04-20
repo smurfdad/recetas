@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CORDERO SEFARDÍ
-date: '2010-09-11T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

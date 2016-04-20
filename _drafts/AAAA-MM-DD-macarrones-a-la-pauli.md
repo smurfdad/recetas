@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MACARRONES A LA PAULI
-date: '2010-06-30T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

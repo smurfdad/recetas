@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREPINETAS CON OSTRAS
-date: '2010-09-12T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

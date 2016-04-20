@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LASAÑA DE QUESO Y ESPINACAS
-date: '2010-09-22T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

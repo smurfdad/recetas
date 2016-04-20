@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TERNERA A LA NATA
-date: '2010-10-12T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

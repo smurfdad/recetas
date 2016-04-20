@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FONDUE DE CHOCOLATE Y MOKA
-date: '2010-07-09T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

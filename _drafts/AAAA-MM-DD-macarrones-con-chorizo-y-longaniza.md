@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MACARRONES CON CHORIZO Y LONGANIZA
-date: '2010-09-24T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FLAN DE CALABACÍN A LAS HIERBAS
-date: '2010-08-25T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LENGUAS DE GATO
-date: '2010-09-23T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

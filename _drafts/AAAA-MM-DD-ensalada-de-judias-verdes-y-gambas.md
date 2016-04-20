@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE JUDÍAS VERDES Y GAMBAS
-date: '2010-09-16T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

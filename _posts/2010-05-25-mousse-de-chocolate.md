@@ -4,7 +4,7 @@ layout: post
 
 title: MOUSSE DE CHOCOLATE
 
-date: '2010-05-25T13:22:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ANILLAS DE CALAMAR EN SU TINTA CON ARROZ
-date: '2010-07-22T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

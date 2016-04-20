@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTXO AMARA ZAHARRA
-date: '2010-10-06T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

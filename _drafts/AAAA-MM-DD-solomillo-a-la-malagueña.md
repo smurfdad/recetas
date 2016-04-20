@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO A LA MALAGUEÑA
-date: '2010-10-10T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

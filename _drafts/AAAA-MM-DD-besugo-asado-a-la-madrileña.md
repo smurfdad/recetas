@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BESUGO ASADO A LA MADRILEÑA
-date: '2010-09-01T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

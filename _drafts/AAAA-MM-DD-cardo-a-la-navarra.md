@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARDO A LA NAVARRA
-date: '2010-06-16T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

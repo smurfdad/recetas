@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AJOARRIERO CON LANGOSTA
-date: '2010-08-27T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

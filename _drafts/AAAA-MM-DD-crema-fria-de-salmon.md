@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA FRÍA DE SALMÓN
-date: '2010-09-12T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

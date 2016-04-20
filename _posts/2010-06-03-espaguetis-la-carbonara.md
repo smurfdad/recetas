@@ -4,7 +4,7 @@ layout: post
 
 title: ESPAGUETIS A LA CARBONARA
 
-date: '2010-06-03T17:30:00.000-07:00'
+
 
 author: Smurf Dad
 

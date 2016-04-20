@@ -4,7 +4,7 @@ layout: post
 
 title: CHARLOTA DE BERENJENAS Y QUESO
 
-date: '2010-08-09T03:45:00.000-07:00'
+
 
 author: Smurf Dad
 

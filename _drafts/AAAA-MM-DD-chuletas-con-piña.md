@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS CON PIÑA
-date: '2010-06-18T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

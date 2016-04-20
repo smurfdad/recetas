@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOLAS DE TERNERA CON COGOLLOS ASADOS
-date: '2010-10-14T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

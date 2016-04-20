@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALPICÓN DE RAPE
-date: '2010-06-14T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

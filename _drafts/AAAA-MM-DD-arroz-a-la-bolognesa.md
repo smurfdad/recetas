@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ A LA BOLOGNESA
-date: '2010-08-27T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

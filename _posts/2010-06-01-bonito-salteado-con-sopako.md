@@ -4,7 +4,7 @@ layout: post
 
 title: BONITO SALTEADO CON SOPAKO
 
-date: '2010-06-01T10:31:00.001-07:00'
+
 
 author: Smurf Dad
 

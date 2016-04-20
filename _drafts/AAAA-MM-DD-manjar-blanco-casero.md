@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MANJAR BLANCO CASERO
-date: '2010-07-01T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

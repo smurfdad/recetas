@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RODABALLO PLANCHA CON VINAGRETA DE HIERBAS AROMÁTICAS Y PURÉ DE COLIFLOR
-date: '2010-07-07T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

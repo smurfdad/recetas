@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO EN PASTA CON QUESO
-date: '2010-07-05T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

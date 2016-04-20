@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLITOS DE JAMÓN YORK
 
-date: '2010-05-30T13:50:00.001-07:00'
+
 
 author: Smurf Dad
 

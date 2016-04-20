@@ -4,7 +4,7 @@ layout: post
 
 title: TARTA DE SALMÓN
 
-date: '2010-05-28T09:34:00.001-07:00'
+
 
 author: Smurf Dad
 

@@ -4,7 +4,7 @@ layout: post
 
 title: TARTA DE NATA
 
-date: '2010-08-09T03:25:00.001-07:00'
+
 
 author: Smurf Dad
 

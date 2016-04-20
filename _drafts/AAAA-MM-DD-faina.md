@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FAINA
-date: '2010-07-04T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

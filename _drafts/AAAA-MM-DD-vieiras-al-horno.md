@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIEIRAS AL HORNO
-date: '2010-06-14T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

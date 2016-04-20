@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALMEJAS MARINERAS CON SOLOMILLO DE CERDO
-date: '2010-07-02T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

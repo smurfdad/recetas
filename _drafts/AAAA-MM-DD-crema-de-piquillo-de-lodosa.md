@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE PIQUILLO DE LODOSA
-date: '2010-06-26T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

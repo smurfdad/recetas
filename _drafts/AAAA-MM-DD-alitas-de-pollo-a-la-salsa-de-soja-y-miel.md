@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALITAS DE POLLO A LA SALSA DE SOJA Y MIEL
-date: '2010-08-25T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALLOS AL ESTILO DE ALCANTARA
-date: '2010-06-21T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

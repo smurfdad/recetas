@@ -4,7 +4,7 @@ layout: post
 
 title: MINESTRONE
 
-date: '2010-06-01T10:35:00.001-07:00'
+
 
 author: Smurf Dad
 

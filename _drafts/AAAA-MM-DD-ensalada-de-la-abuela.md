@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE LA ABUELA
-date: '2010-09-15T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

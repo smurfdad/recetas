@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GAZPACHO DE LECHUGA
-date: '2010-07-11T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

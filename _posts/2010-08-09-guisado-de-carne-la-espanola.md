@@ -4,7 +4,7 @@ layout: post
 
 title: GUISADO DE CARNE A LA ESPAÑOLA
 
-date: '2010-08-09T03:20:00.001-07:00'
+
 
 author: Smurf Dad
 

@@ -4,7 +4,7 @@ layout: post
 
 title: ARROZ CON CHORIZOS A LA PUMAROLA
 
-date: '2010-06-28T04:03:00.000-07:00'
+
 
 author: Smurf Dad
 

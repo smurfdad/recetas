@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CEBOLLAS RELLENAS
-date: '2010-07-03T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE BERENJENAS COCIDAS
-date: '2010-06-09T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

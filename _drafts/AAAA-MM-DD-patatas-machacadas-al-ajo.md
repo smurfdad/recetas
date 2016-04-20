@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS MACHACADAS AL AJO
-date: '2010-08-24T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

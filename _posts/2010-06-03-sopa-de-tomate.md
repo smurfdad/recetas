@@ -4,7 +4,7 @@ layout: post
 
 title: SOPA DE TOMATE
 
-date: '2010-06-03T13:28:00.000-07:00'
+
 
 author: Smurf Dad
 

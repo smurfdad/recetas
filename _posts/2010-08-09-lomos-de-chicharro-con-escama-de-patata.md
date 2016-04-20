@@ -4,7 +4,7 @@ layout: post
 
 title: LOMOS DE CHICHARRO CON ESCAMA DE PATATA Y PERCEBES
 
-date: '2010-08-09T03:24:00.000-07:00'
+
 
 author: Smurf Dad
 

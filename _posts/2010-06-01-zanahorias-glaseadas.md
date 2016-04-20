@@ -4,7 +4,7 @@ layout: post
 
 title: ZANAHORIAS GLASEADAS
 
-date: '2010-06-01T10:15:00.000-07:00'
+
 
 author: Smurf Dad
 

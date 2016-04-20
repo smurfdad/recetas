@@ -4,7 +4,7 @@ layout: post
 
 title: PIMIENTOS VERDES O ROJOS RELLENOS DE BACALAO
 
-date: '2010-05-25T15:00:00.000-07:00'
+
 
 author: Smurf Dad
 

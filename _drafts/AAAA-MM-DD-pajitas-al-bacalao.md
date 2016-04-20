@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAJITAS AL BACALAO
-date: '2010-06-29T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

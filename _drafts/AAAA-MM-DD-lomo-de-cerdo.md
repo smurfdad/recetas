@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMO DE CERDO
-date: '2010-06-13T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

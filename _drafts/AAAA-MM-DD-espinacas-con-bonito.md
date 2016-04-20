@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESPINACAS CON BONITO
-date: '2010-09-16T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

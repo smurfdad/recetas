@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CERDO CON SALSA DE NUECES
-date: '2010-06-19T07:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

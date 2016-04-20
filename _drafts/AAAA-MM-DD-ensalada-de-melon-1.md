@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE MELÓN
-date: '2010-07-19T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

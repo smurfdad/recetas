@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GRATINADO DE BERENJENAS
-date: '2010-07-01T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

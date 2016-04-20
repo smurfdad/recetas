@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HELADO DE YOGUR CON SABOR A CAFÉ
-date: '2010-07-22T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

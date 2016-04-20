@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON POLLO A LA CERVEZA
-date: '2010-08-29T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

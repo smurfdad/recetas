@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SPAGHETTI FRUTOS DE MAR
-date: '2010-06-28T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

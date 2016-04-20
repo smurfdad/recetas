@@ -4,7 +4,7 @@ layout: post
 
 title: QUESO DE CABRA GRATINADO CON ABANICO DE JAMÓN DE PATO Y TOMATE CONFITADO
 
-date: '2011-02-07T15:15:00.000-08:00'
+
 
 author: Smurf Dad
 

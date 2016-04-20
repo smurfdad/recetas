@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BREAK DE LIEBRE
-date: '2010-09-03T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

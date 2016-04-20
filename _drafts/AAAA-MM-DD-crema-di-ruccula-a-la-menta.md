@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DI RUCCULA A LA MENTA
-date: '2010-09-11T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

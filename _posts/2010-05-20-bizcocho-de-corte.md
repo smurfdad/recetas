@@ -4,7 +4,7 @@ layout: post
 
 title: BIZCOCHO DE CORTE
 
-date: '2010-05-20T15:47:00.005-07:00'
+
 
 author: Smurf Dad
 

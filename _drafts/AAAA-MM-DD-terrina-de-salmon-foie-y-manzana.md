@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TERRINA DE SALMON, FOIE Y MANZANA
-date: '2010-10-12T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

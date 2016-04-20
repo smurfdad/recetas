@@ -4,7 +4,7 @@ layout: post
 
 title: ESCALOPES DE TERNERA A LA CREMA
 
-date: '2010-06-28T04:36:00.000-07:00'
+
 
 author: Smurf Dad
 

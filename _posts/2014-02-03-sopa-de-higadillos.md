@@ -4,7 +4,7 @@ layout: post
 
 title: SOPA DE HIGADILLOS
 
-date: '2014-02-03T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

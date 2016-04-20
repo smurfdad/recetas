@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL SALADO TRES COLORES
-date: '2010-06-09T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

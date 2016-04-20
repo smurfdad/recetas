@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MATAMBRE DE MERLUZA CON RELLENO DE ACELGAS
-date: '2010-07-06T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

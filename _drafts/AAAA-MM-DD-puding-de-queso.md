@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PUDING DE QUESO
-date: '2010-10-08T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LAMPREA A LA BORDELESA
-date: '2010-07-21T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

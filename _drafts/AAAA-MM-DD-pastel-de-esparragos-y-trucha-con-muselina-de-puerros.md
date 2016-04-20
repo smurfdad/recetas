@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE ESPÁRRAGOS Y TRUCHA CON MUSELINA DE PUERROS
-date: '2010-09-29T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

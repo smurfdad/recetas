@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORNILLOS CON BACON
-date: '2010-06-10T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

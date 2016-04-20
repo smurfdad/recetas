@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COCA BOBA
-date: '2010-09-09T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POTAJE SARA
-date: '2010-06-08T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

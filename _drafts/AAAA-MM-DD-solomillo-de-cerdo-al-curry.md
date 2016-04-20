@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO AL CURRY
-date: '2010-10-15T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

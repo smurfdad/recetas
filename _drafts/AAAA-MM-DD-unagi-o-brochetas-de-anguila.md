@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UNAGI O BROCHETAS DE ANGUILA
-date: '2010-10-13T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

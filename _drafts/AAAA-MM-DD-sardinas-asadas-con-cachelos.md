@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SARDINAS ASADAS CON CACHELOS
-date: '2010-06-14T07:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

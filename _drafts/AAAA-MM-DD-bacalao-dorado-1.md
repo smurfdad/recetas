@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO DORADO
-date: '2010-07-10T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

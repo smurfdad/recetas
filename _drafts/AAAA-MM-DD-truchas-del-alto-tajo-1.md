@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHAS DEL ALTO TAJO
-date: '2010-10-05T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

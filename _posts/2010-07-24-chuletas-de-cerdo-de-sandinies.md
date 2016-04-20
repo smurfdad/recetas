@@ -4,7 +4,7 @@ layout: post
 
 title: CHULETAS DE CERDO DE SANDINIÉS
 
-date: '2010-07-24T16:00:00.000-07:00'
+
 
 author: Smurf Dad
 

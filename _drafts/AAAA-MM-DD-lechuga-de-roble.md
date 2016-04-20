@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LECHUGA DE ROBLE
-date: '2010-07-05T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TOFU FRITO CON SALSA DE SOJA
-date: '2010-10-06T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

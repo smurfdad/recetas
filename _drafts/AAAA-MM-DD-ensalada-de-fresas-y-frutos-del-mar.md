@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE FRESAS Y FRUTOS DEL MAR
-date: '2010-09-15T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

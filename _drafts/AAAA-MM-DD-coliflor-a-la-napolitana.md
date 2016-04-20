@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COLIFLOR A LA NAPOLITANA
-date: '2010-06-17T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

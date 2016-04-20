@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUDIONES DE LA GRANJA CON ALMEJAS
-date: '2010-09-22T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

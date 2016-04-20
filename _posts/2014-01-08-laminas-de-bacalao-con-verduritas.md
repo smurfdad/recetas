@@ -4,7 +4,7 @@ layout: post
 
 title: LÁMINAS DE BACALAO CON VERDURITAS ASADAS Y VINAGRETA BALSÁMICA
 
-date: '2014-01-08T23:00:00.000-08:00'
+
 
 author: Smurf Dad
 

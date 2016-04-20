@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FONDUE A LA CERVEZA
-date: '2010-09-19T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

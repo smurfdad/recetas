@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLO DE CARNE A LA CERVEZA
-date: '2010-06-14T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTALETAS DE MERENGUE RÁPIDO CON CANELA Y COCO
-date: '2010-10-15T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

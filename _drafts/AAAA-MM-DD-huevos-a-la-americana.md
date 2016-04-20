@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HUEVOS A LA AMERICANA
-date: '2010-07-10T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

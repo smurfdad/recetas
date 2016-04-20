@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAELLA DE COLIFLOR Y BACALAO
-date: '2010-07-22T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

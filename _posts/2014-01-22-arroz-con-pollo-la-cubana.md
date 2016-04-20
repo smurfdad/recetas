@@ -4,7 +4,7 @@ layout: post
 
 title: ARROZ CON POLLO A LA CUBANA
 
-date: '2014-01-22T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

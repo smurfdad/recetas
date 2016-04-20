@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALABACINES GRATINADOS CON QUESO
-date: '2010-06-20T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

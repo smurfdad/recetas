@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO EN CHANFAINA
 
-date: '2010-05-25T23:00:00.000-07:00'
+
 
 author: Smurf Dad
 

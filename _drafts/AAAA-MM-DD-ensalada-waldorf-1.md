@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA WALDORF
-date: '2010-07-19T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

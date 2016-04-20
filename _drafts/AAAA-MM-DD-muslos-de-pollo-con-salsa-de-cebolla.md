@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MUSLOS DE POLLO CON SALSA DE CEBOLLA
-date: '2010-06-10T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MERLUZA A LA AMERICANA
-date: '2010-06-06T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

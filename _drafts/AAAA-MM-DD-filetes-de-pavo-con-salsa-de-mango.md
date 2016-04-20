@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETES DE PAVO CON SALSA DE MANGO
-date: '2010-07-10T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

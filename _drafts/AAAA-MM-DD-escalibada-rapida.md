@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESCALIBADA RÁPIDA
-date: '2010-09-14T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTILLA DE PATATAS CON BOLETUS
-date: '2010-10-05T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

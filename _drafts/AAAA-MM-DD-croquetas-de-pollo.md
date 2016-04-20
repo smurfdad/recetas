@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CROQUETAS DE POLLO
-date: '2010-06-16T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

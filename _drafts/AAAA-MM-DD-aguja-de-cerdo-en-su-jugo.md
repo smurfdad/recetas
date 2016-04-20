@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AGUJA DE CERDO EN SU JUGO
-date: '2010-07-12T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

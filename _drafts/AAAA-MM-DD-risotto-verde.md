@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RISOTTO VERDE
-date: '2010-10-09T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NATILLAS DE LA JARA
-date: '2010-09-27T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE BACALAO MARINADO Y SALMOREJO
-date: '2010-09-13T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VERDURAS CON JARRETES EN SU JUGO
-date: '2010-06-05T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

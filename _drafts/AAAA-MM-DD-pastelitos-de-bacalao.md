@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTELITOS DE BACALAO
-date: '2010-09-30T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

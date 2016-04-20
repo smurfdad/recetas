@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARNERETE
-date: '2010-09-05T07:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

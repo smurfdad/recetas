@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POTAJE DE RAPE
-date: '2010-10-14T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

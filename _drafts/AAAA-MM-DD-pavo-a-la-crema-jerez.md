@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAVO A LA CREMA JEREZ
-date: '2010-07-14T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

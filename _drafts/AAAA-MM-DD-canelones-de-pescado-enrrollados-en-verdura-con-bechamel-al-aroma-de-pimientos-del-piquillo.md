@@ -2,7 +2,7 @@
 layout: post
 title: CANELONES DE PESCADO ENRROLLADOS EN VERDURA CON BECHAMEL AL AROMA DE PIMIENTOS
   DEL PIQUILLO
-date: '2010-06-23T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

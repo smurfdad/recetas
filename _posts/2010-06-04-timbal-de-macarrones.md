@@ -4,7 +4,7 @@ layout: post
 
 title: TIMBAL DE MACARRONES
 
-date: '2010-06-04T10:45:00.000-07:00'
+
 
 author: Smurf Dad
 

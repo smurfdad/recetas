@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS A LO POBRE
-date: '2010-09-29T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

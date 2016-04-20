@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MACARRONES A LA PUTTANESCA
-date: '2010-10-17T09:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

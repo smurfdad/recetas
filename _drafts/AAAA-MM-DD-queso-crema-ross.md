@@ -1,7 +1,7 @@
 ---
 layout: post
 title: QUESO CREMA ROSS
-date: '2010-07-17T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

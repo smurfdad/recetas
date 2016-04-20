@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FIDEOS A BANDA
-date: '2010-09-16T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

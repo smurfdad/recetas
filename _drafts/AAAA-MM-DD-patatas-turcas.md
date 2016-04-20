@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS TURCAS
-date: '2010-07-23T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

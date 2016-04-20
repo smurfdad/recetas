@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BIZCOCHO DE MANZANA
-date: '2010-06-11T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

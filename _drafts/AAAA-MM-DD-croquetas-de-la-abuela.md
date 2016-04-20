@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CROQUETAS DE LA ABUELA
-date: '2010-06-16T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

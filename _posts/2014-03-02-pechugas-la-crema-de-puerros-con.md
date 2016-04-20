@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGAS A LA CREMA DE PUERROS CON PATATAS DORE
 
-date: '2014-03-02T01:00:00.000-08:00'
+
 
 author: Smurf Dad
 

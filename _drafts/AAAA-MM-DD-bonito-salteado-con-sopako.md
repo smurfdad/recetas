@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BONITO SALTEADO CON SOPAKO
-date: '2010-07-14T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

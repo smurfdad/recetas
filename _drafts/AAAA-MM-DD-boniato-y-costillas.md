@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BONIATO Y COSTILLAS
-date: '2010-09-02T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

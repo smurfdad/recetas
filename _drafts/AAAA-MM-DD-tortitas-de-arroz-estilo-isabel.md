@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTITAS DE ARROZ ESTILO ISABEL
-date: '2010-06-23T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE PEPINOS Y QUESO
-date: '2010-06-19T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

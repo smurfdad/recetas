@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREPES DE TRIGUEROS A LOS TRES QUESOS
-date: '2010-09-12T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: TARTA TEMPLADA DE QUESO IDIAZABAL
 
-date: '2010-06-01T11:37:00.000-07:00'
+
 
 author: Smurf Dad
 

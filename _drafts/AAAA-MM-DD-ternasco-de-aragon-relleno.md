@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TERNASCO DE ARAGÓN RELLENO
-date: '2010-10-12T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

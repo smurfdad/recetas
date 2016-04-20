@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIEIRAS A LA GALLEGA
-date: '2010-10-13T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

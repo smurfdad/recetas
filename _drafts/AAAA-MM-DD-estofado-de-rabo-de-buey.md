@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESTOFADO DE RABO DE BUEY
-date: '2010-06-05T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

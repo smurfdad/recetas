@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE ESCAROLA CON JUGO DE TOMATE
-date: '2010-09-14T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

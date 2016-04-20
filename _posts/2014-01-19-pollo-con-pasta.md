@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO CON PASTA
 
-date: '2014-01-19T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

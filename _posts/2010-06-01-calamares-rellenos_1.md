@@ -4,7 +4,7 @@ layout: post
 
 title: CALAMARES RELLENOS
 
-date: '2010-06-01T14:01:00.000-07:00'
+
 
 author: Smurf Dad
 

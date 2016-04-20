@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CODORNICES EN ADOBO
-date: '2010-06-12T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

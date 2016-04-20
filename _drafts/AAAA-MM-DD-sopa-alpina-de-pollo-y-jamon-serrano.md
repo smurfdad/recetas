@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA ALPINA DE POLLO Y JAMON SERRANO
-date: '2010-06-15T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

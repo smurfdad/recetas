@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA  LEVANTE
-date: '2010-07-10T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

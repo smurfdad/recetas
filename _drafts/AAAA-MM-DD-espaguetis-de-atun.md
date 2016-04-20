@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESPAGUETIS DE ATUN
-date: '2010-06-26T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LACÓN CON GRELOS
-date: '2010-06-12T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

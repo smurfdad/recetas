@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMÓN CON SALSA DE CAVA
-date: '2010-10-09T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

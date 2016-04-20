@@ -4,7 +4,7 @@ layout: post
 
 title: MORCILLO DE TERNERA GRATINADO EN OLLA A PRESIÓN
 
-date: '2010-06-01T10:30:00.001-07:00'
+
 
 author: Smurf Dad
 

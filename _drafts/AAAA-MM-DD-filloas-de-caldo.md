@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILLOAS DE CALDO
-date: '2010-06-12T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

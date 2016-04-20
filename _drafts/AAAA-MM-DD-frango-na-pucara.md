@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FRANGO NA PUCARA
-date: '2010-09-17T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

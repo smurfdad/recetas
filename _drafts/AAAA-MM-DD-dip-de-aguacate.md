@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DIP DE AGUACATE
-date: '2010-10-14T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

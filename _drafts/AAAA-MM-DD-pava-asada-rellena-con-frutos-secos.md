@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAVA ASADA RELLENA, CON FRUTOS SECOS
-date: '2010-06-08T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

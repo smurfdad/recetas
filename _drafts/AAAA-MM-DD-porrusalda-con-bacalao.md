@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PORRUSALDA CON BACALAO
-date: '2010-10-08T11:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HONGOS PI-PI CU-CU
-date: '2010-06-15T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

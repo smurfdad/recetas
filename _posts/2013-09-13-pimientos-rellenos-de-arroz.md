@@ -4,7 +4,7 @@ layout: post
 
 title: PIMIENTOS RELLENOS DE ARROZ
 
-date: '2013-09-13T15:30:00.000-07:00'
+
 
 author: Smurf Dad
 

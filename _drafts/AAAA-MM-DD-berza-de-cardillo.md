@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BERZA DE CARDILLO
-date: '2010-09-02T11:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

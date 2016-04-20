@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LANGOSTINOS GRATINADOS
-date: '2010-09-22T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

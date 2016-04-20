@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHAS A LA NARANJA
-date: '2010-10-12T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

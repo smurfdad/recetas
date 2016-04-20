@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA DE TOMATES CON MEJILLONES
-date: '2010-07-03T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA DE QUESO Y CHAMPIÑONES
-date: '2010-08-24T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

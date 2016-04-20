@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO AL GRATEN
-date: '2010-06-18T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO A LA MIEL
-date: '2010-07-01T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

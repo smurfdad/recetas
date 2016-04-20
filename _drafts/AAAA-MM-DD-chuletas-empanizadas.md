@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS EMPANIZADAS
-date: '2010-07-07T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

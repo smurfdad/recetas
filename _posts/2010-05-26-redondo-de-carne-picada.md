@@ -4,7 +4,7 @@ layout: post
 
 title: REDONDO DE CARNE PICADA
 
-date: '2010-05-26T13:00:00.000-07:00'
+
 
 author: Smurf Dad
 

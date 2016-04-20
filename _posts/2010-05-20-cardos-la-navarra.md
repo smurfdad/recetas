@@ -4,7 +4,7 @@ layout: post
 
 title: CARDOS A LA NAVARRA
 
-date: '2010-05-20T15:59:00.013-07:00'
+
 
 author: Smurf Dad
 

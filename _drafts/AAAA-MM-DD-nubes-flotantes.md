@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NUBES FLOTANTES
-date: '2010-07-03T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

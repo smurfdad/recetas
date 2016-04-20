@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALCACHOFAS A LA AMERICANA
-date: '2010-08-27T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

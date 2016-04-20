@@ -4,7 +4,7 @@ layout: post
 
 title: MUSLO DE POLLO RELLENO DE JAMÓN Y QUESO
 
-date: '2010-07-25T10:00:00.000-07:00'
+
 
 author: Smurf Dad
 

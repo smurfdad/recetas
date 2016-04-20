@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CASTAÑAS ASADAS
-date: '2010-06-11T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

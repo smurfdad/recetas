@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PURÉ DE LEGUMBRES
-date: '2010-10-08T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

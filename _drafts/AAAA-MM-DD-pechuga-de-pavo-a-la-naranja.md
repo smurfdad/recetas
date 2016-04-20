@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGA DE PAVO A LA NARANJA
-date: '2010-07-15T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

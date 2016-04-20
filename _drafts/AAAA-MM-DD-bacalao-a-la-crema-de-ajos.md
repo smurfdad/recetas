@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO A LA CREMA DE AJOS
-date: '2010-07-23T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

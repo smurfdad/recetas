@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENTREMÉS DE JAMÓN Y QUESO
-date: '2010-09-16T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

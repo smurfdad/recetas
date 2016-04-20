@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SARDINAS ALBARDADAS A LA VINAGRETA
-date: '2010-10-03T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

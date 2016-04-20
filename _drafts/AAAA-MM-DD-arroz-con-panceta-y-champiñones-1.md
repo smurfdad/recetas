@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON PANCETA Y CHAMPIÑONES
-date: '2010-07-20T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

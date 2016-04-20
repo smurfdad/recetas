@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REVUELTO DE GUISANTES Y JAMÓN
-date: '2010-06-14T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

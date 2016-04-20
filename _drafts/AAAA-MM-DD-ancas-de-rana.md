@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ANCAS DE RANA
-date: '2010-08-30T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

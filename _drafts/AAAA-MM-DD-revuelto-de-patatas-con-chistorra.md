@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REVUELTO DE PATATAS CON CHISTORRA
-date: '2010-07-21T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

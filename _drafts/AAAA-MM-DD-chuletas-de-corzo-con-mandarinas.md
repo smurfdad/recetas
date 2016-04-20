@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE CORZO CON MANDARINAS
-date: '2010-10-13T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

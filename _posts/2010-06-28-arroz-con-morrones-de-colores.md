@@ -4,7 +4,7 @@ layout: post
 
 title: ARROZ CON MORRONES DE COLORES
 
-date: '2010-06-28T04:39:00.000-07:00'
+
 
 author: Smurf Dad
 

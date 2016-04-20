@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATO LAQUEADO A LA PEKINESA
-date: '2010-09-28T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

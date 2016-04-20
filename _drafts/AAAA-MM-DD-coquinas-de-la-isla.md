@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COQUINAS DE LA ISLA
-date: '2010-09-12T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

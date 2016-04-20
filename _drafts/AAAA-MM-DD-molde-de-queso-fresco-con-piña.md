@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOLDE DE QUESO FRESCO CON PIÑA
-date: '2010-09-26T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

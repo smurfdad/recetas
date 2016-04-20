@@ -4,7 +4,7 @@ layout: post
 
 title: HAMBURGUESA SORPRESA
 
-date: '2010-06-01T13:34:00.001-07:00'
+
 
 author: Smurf Dad
 

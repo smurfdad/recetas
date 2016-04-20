@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE ESPAGUETIS CON MAHONESA DE HORTALIZAS
-date: '2010-09-15T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

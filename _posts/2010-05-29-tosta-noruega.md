@@ -4,7 +4,7 @@ layout: post
 
 title: TOSTA NORUEGA
 
-date: '2010-05-29T03:02:00.000-07:00'
+
 
 author: Smurf Dad
 

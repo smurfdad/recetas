@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MINI ALBÓNDIGAS DE CARNE Y ESPINACAS CON PURÉ DE CALABAZA
-date: '2010-06-20T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

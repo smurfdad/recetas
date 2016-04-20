@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ DE MARISCO
-date: '2010-06-10T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

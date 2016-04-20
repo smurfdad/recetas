@@ -4,7 +4,7 @@ layout: post
 
 title: CORDERO ASADO
 
-date: '2010-05-20T15:59:00.001-07:00'
+
 
 author: Smurf Dad
 

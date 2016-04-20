@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOUFFLE DE ESPINACAS
-date: '2010-06-16T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

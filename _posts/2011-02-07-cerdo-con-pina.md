@@ -4,7 +4,7 @@ layout: post
 
 title: CERDO CON PIÑA
 
-date: '2011-02-07T14:56:00.001-08:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHA AL CHAMPAN
-date: '2010-06-09T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

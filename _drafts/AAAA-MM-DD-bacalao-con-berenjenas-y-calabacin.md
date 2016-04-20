@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO CON BERENJENAS Y CALABACIN
-date: '2010-06-23T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA DE CHOCOLATE
-date: '2010-10-05T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FIDEOS Y BACALAO
-date: '2010-09-16T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

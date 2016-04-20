@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGA A LA FLORENTINA
-date: '2010-09-29T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOUSSE DE PLÁTANO Y QUESO PHILADELPHIA
-date: '2010-06-30T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

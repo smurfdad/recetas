@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETES DE MERO REBOZADOS CON SALSA DE CURRY
-date: '2010-07-21T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

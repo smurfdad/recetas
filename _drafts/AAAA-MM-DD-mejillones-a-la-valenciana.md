@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MEJILLONES A LA VALENCIANA
-date: '2010-07-11T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

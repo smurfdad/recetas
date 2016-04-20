@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE LOMO DE CERDO RELLENAS
-date: '2010-07-22T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TERNERA STROGONOV
-date: '2010-10-15T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

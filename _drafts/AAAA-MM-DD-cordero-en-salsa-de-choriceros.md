@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CORDERO EN SALSA DE CHORICEROS
-date: '2010-09-11T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

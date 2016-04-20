@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALCHICHAS EN PAPILLOTE CON CEBOLLA Y CALABACÍN
-date: '2010-07-23T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

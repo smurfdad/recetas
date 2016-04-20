@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTXO LARRAMENDI
-date: '2010-06-22T21:31:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

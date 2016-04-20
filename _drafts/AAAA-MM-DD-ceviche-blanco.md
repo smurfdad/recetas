@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CEVICHE BLANCO
-date: '2010-07-22T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

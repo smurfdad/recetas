@@ -4,7 +4,7 @@ layout: post
 
 title: SALMÓN EN SALSA DE SIDRA
 
-date: '2010-08-09T03:18:00.001-07:00'
+
 
 author: Smurf Dad
 

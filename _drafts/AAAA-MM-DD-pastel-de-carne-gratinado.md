@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE CARNE GRATINADO
-date: '2010-07-01T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

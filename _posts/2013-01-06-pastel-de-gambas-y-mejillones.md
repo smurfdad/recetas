@@ -4,7 +4,7 @@ layout: post
 
 title: PASTEL DE GAMBAS Y MEJILLONES
 
-date: '2013-01-06T23:00:00.000-08:00'
+
 
 author: Smurf Dad
 

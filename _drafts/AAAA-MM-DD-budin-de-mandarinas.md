@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BUDÍN DE MANDARINAS
-date: '2010-07-08T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HOJALDRE DE PANCETA
-date: '2010-06-12T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

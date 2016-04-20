@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO AL JEREZ
-date: '2010-10-10T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

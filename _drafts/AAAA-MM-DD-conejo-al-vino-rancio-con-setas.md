@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONEJO AL VINO RANCIO CON SETAS
-date: '2010-07-22T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO EN SALSA DE CREMA
-date: '2010-06-10T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

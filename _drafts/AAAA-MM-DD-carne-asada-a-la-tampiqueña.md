@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARNE ASADA A LA TAMPIQUEÑA
-date: '2010-06-28T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

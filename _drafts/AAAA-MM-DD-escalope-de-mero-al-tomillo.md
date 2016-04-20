@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESCALOPE DE MERO AL TOMILLO
-date: '2010-09-14T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

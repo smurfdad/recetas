@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MUSLOS DE POLLO PICANTES
-date: '2010-09-26T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

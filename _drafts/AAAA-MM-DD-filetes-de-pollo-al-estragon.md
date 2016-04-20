@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETES DE POLLO AL ESTRAGÓN
-date: '2010-06-25T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

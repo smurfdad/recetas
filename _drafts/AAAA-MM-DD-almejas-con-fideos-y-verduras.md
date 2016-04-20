@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALMEJAS CON FIDEOS Y VERDURAS
-date: '2010-08-26T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

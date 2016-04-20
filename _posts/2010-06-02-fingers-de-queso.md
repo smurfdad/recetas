@@ -4,7 +4,7 @@ layout: post
 
 title: FINGERS DE QUESO
 
-date: '2010-06-02T13:13:00.001-07:00'
+
 
 author: Smurf Dad
 

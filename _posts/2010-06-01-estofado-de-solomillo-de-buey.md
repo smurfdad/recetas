@@ -4,7 +4,7 @@ layout: post
 
 title: ESTOFADO DE SOLOMILLO DE BUEY
 
-date: '2010-06-01T11:40:00.000-07:00'
+
 
 author: Smurf Dad
 

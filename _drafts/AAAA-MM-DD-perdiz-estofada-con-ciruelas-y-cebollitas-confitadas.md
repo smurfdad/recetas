@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PERDIZ ESTOFADA CON CIRUELAS Y CEBOLLITAS CONFITADAS
-date: '2010-10-06T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

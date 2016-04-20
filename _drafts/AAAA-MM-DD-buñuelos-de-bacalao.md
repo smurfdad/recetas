@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BUÑUELOS DE BACALAO
-date: '2010-06-11T09:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

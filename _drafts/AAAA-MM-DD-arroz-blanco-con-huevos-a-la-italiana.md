@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ BLANCO CON HUEVOS A LA ITALIANA
-date: '2010-07-21T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

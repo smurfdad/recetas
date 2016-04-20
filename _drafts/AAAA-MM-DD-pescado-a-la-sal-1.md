@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PESCADO A LA SAL
-date: '2010-07-18T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: ESTOFADO DE MORCILLO
 
-date: '2011-03-12T02:19:00.000-08:00'
+
 
 author: Smurf Dad
 

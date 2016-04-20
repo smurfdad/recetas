@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ PRIMAVERA
-date: '2010-08-30T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

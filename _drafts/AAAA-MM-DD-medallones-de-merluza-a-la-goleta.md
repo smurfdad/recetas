@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MEDALLONES DE MERLUZA A LA GOLETA
-date: '2010-09-24T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

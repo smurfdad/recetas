@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON CHORIZO Y VERDURAS
-date: '2010-08-29T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

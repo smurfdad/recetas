@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALBÓNDIGAS CON SALSA A LA MENORQUINA
-date: '2010-08-26T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

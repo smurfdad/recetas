@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO CON SETAS Y SALSA DE ALMENDRAS.
 
-date: '2011-11-01T15:09:00.000-07:00'
+
 
 author: Smurf Dad
 

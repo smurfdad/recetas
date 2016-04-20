@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO CON PIMIENTOS
-date: '2010-08-31T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

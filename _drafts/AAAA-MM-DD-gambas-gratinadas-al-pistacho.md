@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GAMBAS GRATINADAS AL PISTACHO
-date: '2010-09-19T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CABEZA DE LEÓN
-date: '2010-06-07T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

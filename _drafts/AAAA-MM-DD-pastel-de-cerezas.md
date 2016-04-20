@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE CEREZAS
-date: '2010-09-30T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

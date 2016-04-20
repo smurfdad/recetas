@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO A LA NORMANDA
-date: '2010-10-10T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

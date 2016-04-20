@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HOJALDRES RELLENOS DE ANGULAS Y CHAMPIÑÓN
-date: '2010-09-18T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

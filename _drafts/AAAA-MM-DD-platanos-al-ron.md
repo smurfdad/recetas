@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PLÁTANOS AL RON
-date: '2010-10-07T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

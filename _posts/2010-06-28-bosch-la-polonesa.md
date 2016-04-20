@@ -4,7 +4,7 @@ layout: post
 
 title: BOSCH A LA POLONESA
 
-date: '2010-06-28T04:04:00.000-07:00'
+
 
 author: Smurf Dad
 

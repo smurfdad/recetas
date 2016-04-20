@@ -4,7 +4,7 @@ layout: post
 
 title: CALAMARES CON PATATAS
 
-date: '2011-03-12T02:30:00.000-08:00'
+
 
 author: Smurf Dad
 

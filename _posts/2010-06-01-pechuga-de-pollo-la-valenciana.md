@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGA DE POLLO A LA VALENCIANA
 
-date: '2010-06-01T13:32:00.004-07:00'
+
 
 author: Smurf Dad
 

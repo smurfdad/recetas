@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMO DE CERDO CON MANZANA
-date: '2010-08-23T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

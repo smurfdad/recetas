@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PIMIENTOS RELLENOS DE ARROZ
-date: '2010-10-07T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

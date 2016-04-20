@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ AJOARRIERO
-date: '2010-08-28T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

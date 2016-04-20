@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHAS FRITAS
-date: '2010-06-14T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

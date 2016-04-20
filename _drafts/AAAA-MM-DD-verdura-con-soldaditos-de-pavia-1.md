@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VERDURA CON SOLDADITOS DE PAVIA
-date: '2010-07-11T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

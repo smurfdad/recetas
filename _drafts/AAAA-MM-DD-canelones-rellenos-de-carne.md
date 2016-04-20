@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CANELONES RELLENOS DE CARNE
-date: '2010-09-03T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: CORAZONES DE ALCACHOFAS AL VINO BLANCO
 
-date: '2014-03-04T01:00:00.000-08:00'
+
 
 author: Smurf Dad
 

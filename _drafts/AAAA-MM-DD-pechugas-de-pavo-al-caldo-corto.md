@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGAS DE PAVO AL CALDO CORTO
-date: '2010-10-16T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

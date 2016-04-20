@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REVUELTO A LA MANCHEGA
-date: '2010-10-09T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: SILLA A LA PIÑA
 
-date: '2010-05-28T09:38:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PESCADILLA CON CHAMPIÑON
-date: '2010-06-10T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

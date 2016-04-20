@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUANILLO
-date: '2010-07-06T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: TARTA HELADA DE QUESO
 
-date: '2010-08-09T02:59:00.000-07:00'
+
 
 author: Smurf Dad
 

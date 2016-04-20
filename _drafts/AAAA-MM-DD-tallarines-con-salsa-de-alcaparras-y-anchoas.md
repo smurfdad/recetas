@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TALLARINES CON SALSA DE ALCAPARRAS Y ANCHOAS
-date: '2010-10-04T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

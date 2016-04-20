@@ -4,7 +4,7 @@ layout: post
 
 title: TXANGURRO DE BERMEO
 
-date: '2010-06-01T13:31:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TURRÓN DE CHOCOLATE HELADO
-date: '2010-07-13T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

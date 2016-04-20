@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO A LA MANCHEGA
-date: '2010-07-22T11:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

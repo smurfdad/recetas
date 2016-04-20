@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE ATÚN Y AGUACATE
-date: '2010-09-13T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HUEVO EN COSTRA DE PATATAS FRITAS
-date: '2010-09-21T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

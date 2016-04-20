@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BONITO CON PISTO
-date: '2010-06-10T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HÍGADO DE TERNERA MECHADO
-date: '2010-09-18T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

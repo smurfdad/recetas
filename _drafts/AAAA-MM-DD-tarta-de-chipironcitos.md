@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA DE CHIPIRONCITOS
-date: '2010-06-08T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

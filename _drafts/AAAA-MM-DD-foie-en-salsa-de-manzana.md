@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FOIE EN SALSA DE MANZANA
-date: '2010-09-17T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

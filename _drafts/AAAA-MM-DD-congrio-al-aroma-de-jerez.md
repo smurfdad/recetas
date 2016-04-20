@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONGRIO AL AROMA DE JEREZ
-date: '2010-09-12T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

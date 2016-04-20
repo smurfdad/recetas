@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHIPIRONES RELLENOS CON SALSA
-date: '2010-06-28T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

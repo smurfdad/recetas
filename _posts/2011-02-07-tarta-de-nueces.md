@@ -4,7 +4,7 @@ layout: post
 
 title: TARTA DE NUECES
 
-date: '2011-02-07T14:40:00.000-08:00'
+
 
 author: Smurf Dad
 

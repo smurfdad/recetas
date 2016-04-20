@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUDÍAS VERDES CON AJADA
-date: '2010-06-12T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

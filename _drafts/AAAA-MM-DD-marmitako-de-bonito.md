@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MARMITAKO DE BONITO
-date: '2010-09-24T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

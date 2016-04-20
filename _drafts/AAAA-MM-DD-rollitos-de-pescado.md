@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLITOS DE PESCADO
-date: '2010-07-20T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

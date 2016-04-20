@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MACARRONES A LA ROMANA
-date: '2010-07-01T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

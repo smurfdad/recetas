@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA NIZA
-date: '2010-07-18T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

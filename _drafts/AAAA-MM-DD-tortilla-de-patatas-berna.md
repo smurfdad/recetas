@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTILLA DE PATATAS BERNA
-date: '2010-07-07T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

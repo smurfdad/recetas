@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOUSSE DE ATÚN AL MICROONDAS
-date: '2010-09-27T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

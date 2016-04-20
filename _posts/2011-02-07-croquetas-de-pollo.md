@@ -4,7 +4,7 @@ layout: post
 
 title: CROQUETAS DE POLLO
 
-date: '2011-02-07T15:04:00.000-08:00'
+
 
 author: Smurf Dad
 

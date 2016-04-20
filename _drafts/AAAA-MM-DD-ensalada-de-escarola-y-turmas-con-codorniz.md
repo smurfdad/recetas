@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE ESCAROLA Y TURMAS CON CODORNIZ
-date: '2010-09-15T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SPAGHETTI CON MEJILLONES
-date: '2010-06-28T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

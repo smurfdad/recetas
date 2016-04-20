@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JAMONCITOS DE PAVO CON CARDO
-date: '2010-06-12T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

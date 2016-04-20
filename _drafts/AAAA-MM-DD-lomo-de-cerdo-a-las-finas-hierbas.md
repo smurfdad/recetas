@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMO DE CERDO A LAS FINAS HIERBAS
-date: '2010-06-17T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

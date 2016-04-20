@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONEJO CON SALSA DE ALMENDRAS
-date: '2010-07-21T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

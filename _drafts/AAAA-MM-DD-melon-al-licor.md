@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MELÓN AL LICOR
-date: '2010-09-25T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

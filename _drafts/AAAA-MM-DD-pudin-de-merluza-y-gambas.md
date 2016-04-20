@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PUDIN DE MERLUZA Y GAMBAS
-date: '2010-06-24T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

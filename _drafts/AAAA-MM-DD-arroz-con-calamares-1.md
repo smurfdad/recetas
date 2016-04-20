@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON CALAMARES
-date: '2010-07-10T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

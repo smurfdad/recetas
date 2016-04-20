@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTXO CHAMPIS
-date: '2010-10-06T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

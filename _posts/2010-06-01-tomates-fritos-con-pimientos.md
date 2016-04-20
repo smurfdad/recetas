@@ -4,7 +4,7 @@ layout: post
 
 title: TOMATES FRITOS CON PIMIENTOS
 
-date: '2010-06-01T10:21:00.000-07:00'
+
 
 author: Smurf Dad
 

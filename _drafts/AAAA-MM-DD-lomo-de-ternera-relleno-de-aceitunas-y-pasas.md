@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMO DE TERNERA RELLENO DE ACEITUNAS Y PASAS
-date: '2010-08-23T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

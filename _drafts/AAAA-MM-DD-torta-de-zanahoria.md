@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTA DE ZANAHORIA
-date: '2010-07-03T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

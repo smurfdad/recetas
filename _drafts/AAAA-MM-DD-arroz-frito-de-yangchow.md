@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ FRITO DE YANGCHOW
-date: '2010-08-30T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

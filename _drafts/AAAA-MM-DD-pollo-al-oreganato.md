@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO AL OREGANATO
-date: '2010-07-13T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

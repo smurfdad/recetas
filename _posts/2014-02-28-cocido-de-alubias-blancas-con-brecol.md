@@ -4,7 +4,7 @@ layout: post
 
 title: COCIDO DE ALUBIAS BLANCAS CON BRÉCOL
 
-date: '2014-02-28T01:00:00.000-08:00'
+
 
 author: Smurf Dad
 

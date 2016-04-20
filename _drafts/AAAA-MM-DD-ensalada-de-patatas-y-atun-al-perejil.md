@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE PATATAS Y ATÚN AL PEREJIL
-date: '2010-07-18T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

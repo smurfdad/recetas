@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARRILLERAS DE RAPE A LA MOSTAZA
-date: '2010-09-06T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

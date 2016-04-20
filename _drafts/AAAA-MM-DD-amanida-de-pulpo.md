@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AMANIDA DE PULPO
-date: '2010-08-27T11:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

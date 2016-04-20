@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALAMARES GUISADOS
-date: '2010-06-11T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ DE VERDURAS CON BOQUERONES
-date: '2010-08-30T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

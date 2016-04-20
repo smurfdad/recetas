@@ -4,7 +4,7 @@ layout: post
 
 title: HÍGADO CON PATATAS EN SALSA DE ADOBO
 
-date: '2010-08-09T02:41:00.002-07:00'
+
 
 author: Smurf Dad
 

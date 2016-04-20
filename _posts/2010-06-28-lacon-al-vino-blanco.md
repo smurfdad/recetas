@@ -4,7 +4,7 @@ layout: post
 
 title: LACÓN AL VINO BLANCO
 
-date: '2010-06-28T04:11:00.000-07:00'
+
 
 author: Smurf Dad
 

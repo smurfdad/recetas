@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA DE PATATAS BRAVAS A LA MADRILEÑA.
-date: '2010-10-02T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

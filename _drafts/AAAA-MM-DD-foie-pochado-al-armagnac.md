@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FOIE POCHADO AL ARMAGNAC
-date: '2010-06-24T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

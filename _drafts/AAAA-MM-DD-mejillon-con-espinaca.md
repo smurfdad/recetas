@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MEJILLÓN CON ESPINACA
-date: '2010-06-25T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

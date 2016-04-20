@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHAS LYLDIA
-date: '2010-07-04T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHOP SUEY
-date: '2010-06-16T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

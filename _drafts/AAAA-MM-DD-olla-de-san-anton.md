@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OLLA DE SAN ANTÓN
-date: '2010-09-28T11:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

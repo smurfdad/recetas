@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE MENUDILLOS A LA MADRILEÑA
-date: '2010-10-04T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

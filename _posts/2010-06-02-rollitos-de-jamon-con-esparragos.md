@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLITOS DE JAMÓN CON ESPÁRRAGOS
 
-date: '2010-06-02T13:10:00.003-07:00'
+
 
 author: Smurf Dad
 

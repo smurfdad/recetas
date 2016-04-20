@@ -4,7 +4,7 @@ layout: post
 
 title: CONEJO CON ARROZ Y TRUFAS
 
-date: '2010-06-01T11:23:00.000-07:00'
+
 
 author: Smurf Dad
 

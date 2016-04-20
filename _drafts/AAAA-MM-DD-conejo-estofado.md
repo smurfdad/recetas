@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONEJO ESTOFADO
-date: '2010-07-11T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

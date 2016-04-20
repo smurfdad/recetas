@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SETAS LLANEGAS EN SALSA
-date: '2010-10-10T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHOTO DEL PIRINEO AL AJILLO
-date: '2010-09-08T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

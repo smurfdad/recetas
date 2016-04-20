@@ -4,7 +4,7 @@ layout: post
 
 title: TORTILLA SORPRESA (TORTILLA ALSAKA O SOUFFLÉ NORUEGO)
 
-date: '2010-06-01T11:14:00.001-07:00'
+
 
 author: Smurf Dad
 

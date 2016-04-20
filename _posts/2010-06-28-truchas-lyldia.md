@@ -4,7 +4,7 @@ layout: post
 
 title: TRUCHAS LYLDIA
 
-date: '2010-06-28T04:47:00.000-07:00'
+
 
 author: Smurf Dad
 

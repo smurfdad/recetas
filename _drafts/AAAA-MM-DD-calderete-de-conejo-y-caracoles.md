@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALDERETE DE CONEJO Y CARACOLES
-date: '2010-06-18T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

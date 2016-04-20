@@ -4,7 +4,7 @@ layout: post
 
 title: ALUBIAS VERDES CON PATATAS
 
-date: '2010-06-01T13:28:00.002-07:00'
+
 
 author: Smurf Dad
 

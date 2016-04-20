@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMONETES EN SALSA AMARILLA
-date: '2010-07-02T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

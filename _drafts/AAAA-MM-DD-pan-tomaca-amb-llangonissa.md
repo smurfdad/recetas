@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAN TOMACA AMB LLANGONISSA
-date: '2010-09-26T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

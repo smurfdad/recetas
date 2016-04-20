@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AGUA DE VALENCIA
-date: '2010-08-26T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

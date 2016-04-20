@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO A LA NARANJA
-date: '2010-10-07T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

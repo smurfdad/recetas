@@ -4,7 +4,7 @@ layout: post
 
 title: SOLOMILLOS DE CERDO AL CAVA
 
-date: '2010-06-01T13:33:00.002-07:00'
+
 
 author: Smurf Dad
 

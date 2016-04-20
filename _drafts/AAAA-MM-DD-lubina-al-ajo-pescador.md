@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LUBINA AL AJO PESCADOR
-date: '2010-09-24T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

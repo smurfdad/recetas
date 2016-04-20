@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE HÍGADO A LA SIDRA
-date: '2010-10-07T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

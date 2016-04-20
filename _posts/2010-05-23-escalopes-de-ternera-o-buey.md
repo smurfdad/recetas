@@ -4,7 +4,7 @@ layout: post
 
 title: ESCALOPES DE TERNERA O BUEY
 
-date: '2010-05-23T13:39:00.001-07:00'
+
 
 author: Smurf Dad
 

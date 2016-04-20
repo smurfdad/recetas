@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMÓN MARINADO
-date: '2010-10-09T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

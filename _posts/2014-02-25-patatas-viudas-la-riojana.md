@@ -4,7 +4,7 @@ layout: post
 
 title: PATATAS VIUDAS A LA RIOJANA
 
-date: '2014-02-25T01:00:00.000-08:00'
+
 
 author: Smurf Dad
 

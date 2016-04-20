@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DASHI CALDO JAPONÉS
-date: '2010-09-13T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

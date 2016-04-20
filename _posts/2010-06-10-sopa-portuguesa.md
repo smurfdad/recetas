@@ -4,7 +4,7 @@ layout: post
 
 title: SOPA PORTUGUESA
 
-date: '2010-06-10T15:27:00.000-07:00'
+
 
 author: Smurf Dad
 

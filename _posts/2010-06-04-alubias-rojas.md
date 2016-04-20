@@ -4,7 +4,7 @@ layout: post
 
 title: ALUBIAS ROJAS
 
-date: '2010-06-04T03:30:00.000-07:00'
+
 
 author: Smurf Dad
 

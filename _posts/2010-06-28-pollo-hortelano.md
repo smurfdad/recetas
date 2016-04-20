@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO HORTELANO
 
-date: '2010-06-28T04:28:00.000-07:00'
+
 
 author: Smurf Dad
 

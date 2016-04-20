@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE AJO CON NUECES
-date: '2010-10-15T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

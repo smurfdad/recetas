@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COSTILLAR DE CORDERO ASADO CON YOGUR GRIEGO
-date: '2010-09-11T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

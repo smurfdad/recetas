@@ -4,7 +4,7 @@ layout: post
 
 title: ESPAGUETIS A LA VERMICHELLI
 
-date: '2010-06-03T19:30:00.000-07:00'
+
 
 author: Smurf Dad
 

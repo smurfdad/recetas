@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON ESPECIES ESTILO INDONESIO
-date: '2010-06-16T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

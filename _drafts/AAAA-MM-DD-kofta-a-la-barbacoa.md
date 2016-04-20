@@ -1,7 +1,7 @@
 ---
 layout: post
 title: KOFTA A LA BARBACOA
-date: '2010-09-22T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

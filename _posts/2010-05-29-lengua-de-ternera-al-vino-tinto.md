@@ -4,7 +4,7 @@ layout: post
 
 title: LENGUA DE TERNERA AL VINO TINTO
 
-date: '2010-05-29T14:12:00.000-07:00'
+
 
 author: Smurf Dad
 

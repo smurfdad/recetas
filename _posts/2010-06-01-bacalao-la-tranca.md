@@ -4,7 +4,7 @@ layout: post
 
 title: BACALAO A LA TRANCA
 
-date: '2010-06-01T13:28:00.004-07:00'
+
 
 author: Smurf Dad
 

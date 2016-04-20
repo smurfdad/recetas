@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO LAI-MING
-date: '2010-10-01T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

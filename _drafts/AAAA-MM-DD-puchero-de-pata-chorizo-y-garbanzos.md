@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PUCHERO DE PATA, CHORIZO Y GARBANZOS
-date: '2010-10-01T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

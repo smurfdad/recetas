@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONEJO CON CARACOLES
-date: '2010-06-05T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

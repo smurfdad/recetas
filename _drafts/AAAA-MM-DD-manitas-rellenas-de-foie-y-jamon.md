@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MANITAS RELLENAS DE FOIE Y JAMÓN
-date: '2010-09-24T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

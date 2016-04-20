@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JARRETE A LA GALLEGA
-date: '2010-09-20T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

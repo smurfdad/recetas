@@ -4,7 +4,7 @@ layout: post
 
 title: ENSALADA DE PATATAS Y ATÚN AL PEREJIL
 
-date: '2011-02-07T14:58:00.000-08:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTXO DE ANCHOA
-date: '2010-06-23T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

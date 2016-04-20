@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO A LA MANZANA Y ALMENDRA
-date: '2010-06-29T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

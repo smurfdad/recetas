@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GALLO CON ESPINACAS
-date: '2010-09-17T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

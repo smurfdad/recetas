@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RAPE CON SETAS Y GAMBAS
-date: '2010-06-06T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

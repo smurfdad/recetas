@@ -4,7 +4,7 @@ layout: post
 
 title: PATA DE CERDO ASADA
 
-date: '2010-05-25T13:21:00.001-07:00'
+
 
 author: Smurf Dad
 

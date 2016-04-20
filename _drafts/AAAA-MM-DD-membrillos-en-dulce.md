@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MEMBRILLOS EN DULCE
-date: '2010-09-25T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

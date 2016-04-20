@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTUGA CHEESECAKE
-date: '2010-07-15T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

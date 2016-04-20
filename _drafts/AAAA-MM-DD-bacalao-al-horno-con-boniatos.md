@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO AL HORNO CON BONIATOS
-date: '2010-08-31T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

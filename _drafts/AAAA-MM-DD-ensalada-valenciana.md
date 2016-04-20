@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA VALENCIANA
-date: '2010-09-15T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

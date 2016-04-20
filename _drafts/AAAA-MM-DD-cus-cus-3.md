@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CUS-CUS
-date: '2010-09-13T07:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

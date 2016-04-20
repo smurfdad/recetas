@@ -4,7 +4,7 @@ layout: post
 
 title: LOMOS DE BONITO ENCEBOLLADOS
 
-date: '2010-08-09T03:24:00.001-07:00'
+
 
 author: Smurf Dad
 

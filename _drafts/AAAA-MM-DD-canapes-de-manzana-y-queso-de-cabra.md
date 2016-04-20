@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CANAPÉS DE MANZANA Y QUESO DE CABRA
-date: '2010-09-03T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

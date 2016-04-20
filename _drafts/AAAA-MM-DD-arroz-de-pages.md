@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ DE PAGES
-date: '2010-08-30T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JARRETES DE CORDERO
-date: '2010-06-07T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

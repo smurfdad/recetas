@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALDERETA DE ALMEJAS
-date: '2010-09-06T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

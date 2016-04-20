@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TERNERA CON ALUBIAS DE OJO NEGRO
-date: '2010-10-04T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

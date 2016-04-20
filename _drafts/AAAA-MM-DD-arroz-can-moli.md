@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CAN MOLÍ
-date: '2010-08-28T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

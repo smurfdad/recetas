@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BAVAROIS DE FRESAS
-date: '2010-07-20T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

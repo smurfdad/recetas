@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FONDO OSCURO
-date: '2010-06-07T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

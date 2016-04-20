@@ -4,7 +4,7 @@ layout: post
 
 title: TIMBAL DE AJOS TIERNOS Y BACALAO
 
-date: '2010-06-01T10:29:00.002-07:00'
+
 
 author: Smurf Dad
 

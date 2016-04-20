@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAELLA DE ESPINACAS Y SARDINAS
-date: '2010-06-29T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

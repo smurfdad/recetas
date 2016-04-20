@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CANELONES DE ESPINACAS
-date: '2010-07-19T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

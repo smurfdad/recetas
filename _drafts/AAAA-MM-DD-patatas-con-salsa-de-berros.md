@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS CON SALSA DE BERROS
-date: '2010-07-12T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMOREJO DE CONEJO A LA EXTREMEÑA
-date: '2010-07-10T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

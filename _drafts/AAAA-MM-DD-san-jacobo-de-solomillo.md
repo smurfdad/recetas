@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAN JACOBO DE SOLOMILLO
-date: '2010-10-10T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

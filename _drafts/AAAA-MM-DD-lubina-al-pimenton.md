@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LUBINA AL PIMENTÓN
-date: '2010-06-13T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMO DE CERDO CON SALSA NIÇOISE
-date: '2010-06-08T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

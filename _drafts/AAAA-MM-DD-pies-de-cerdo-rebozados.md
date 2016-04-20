@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PIES DE CERDO REBOZADOS
-date: '2010-06-14T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LIEBRE AL VINO TINTO
-date: '2010-06-19T09:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

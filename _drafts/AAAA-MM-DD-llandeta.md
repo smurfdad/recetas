@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LLANDETA
-date: '2010-07-14T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

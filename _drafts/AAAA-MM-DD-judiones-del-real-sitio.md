@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JUDIONES DEL REAL SITIO
-date: '2010-09-22T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

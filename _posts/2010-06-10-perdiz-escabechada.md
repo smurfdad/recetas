@@ -4,7 +4,7 @@ layout: post
 
 title: PERDIZ ESCABECHADA
 
-date: '2010-06-10T15:31:00.000-07:00'
+
 
 author: Smurf Dad
 

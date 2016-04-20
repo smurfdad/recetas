@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MANZANA CARAMELIZADA Y SORBETE
-date: '2010-09-24T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

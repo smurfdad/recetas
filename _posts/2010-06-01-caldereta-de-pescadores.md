@@ -4,7 +4,7 @@ layout: post
 
 title: CALDERETA DE PESCADORES
 
-date: '2010-06-01T10:24:00.001-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO EN SALSA DECURRY AL ESTILO DE NUEVA DELHI
-date: '2010-07-03T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

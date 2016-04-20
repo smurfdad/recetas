@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO AGRIDULCE
-date: '2010-07-15T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

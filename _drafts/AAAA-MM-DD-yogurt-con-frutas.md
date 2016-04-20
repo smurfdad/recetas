@@ -1,7 +1,7 @@
 ---
 layout: post
 title: YOGURT CON FRUTAS
-date: '2010-10-16T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

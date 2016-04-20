@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CABEZAS DE CABRITO ASADAS
-date: '2010-07-23T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

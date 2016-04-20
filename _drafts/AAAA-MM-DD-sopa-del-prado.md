@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DEL PRADO
-date: '2010-06-19T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

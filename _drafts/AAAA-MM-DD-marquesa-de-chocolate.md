@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MARQUESA DE CHOCOLATE
-date: '2010-07-11T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

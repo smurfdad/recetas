@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO CARMELITANA
-date: '2010-06-28T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

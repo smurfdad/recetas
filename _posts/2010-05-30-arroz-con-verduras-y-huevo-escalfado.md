@@ -4,7 +4,7 @@ layout: post
 
 title: ARROZ CON VERDURAS Y HUEVO ESCALFADO
 
-date: '2010-05-30T13:52:00.000-07:00'
+
 
 author: Smurf Dad
 

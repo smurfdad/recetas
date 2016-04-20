@@ -4,7 +4,7 @@ layout: post
 
 title: ARROZ CON MAGRO Y VERDURAS
 
-date: '2011-03-12T02:30:00.002-08:00'
+
 
 author: Smurf Dad
 

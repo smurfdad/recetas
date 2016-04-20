@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PICANTONES ASADOS CON MANZANA
-date: '2010-06-13T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

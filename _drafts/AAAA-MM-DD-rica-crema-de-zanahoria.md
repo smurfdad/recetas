@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RICA CREMA DE ZANAHORIA
-date: '2010-07-01T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

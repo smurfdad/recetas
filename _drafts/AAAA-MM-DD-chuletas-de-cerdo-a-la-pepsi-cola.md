@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE CERDO A LA PEPSI-COLA
-date: '2010-06-08T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

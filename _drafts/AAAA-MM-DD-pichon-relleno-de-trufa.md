@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PICHÓN RELLENO DE TRUFA
-date: '2010-10-07T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

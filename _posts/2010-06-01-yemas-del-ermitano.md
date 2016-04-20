@@ -4,7 +4,7 @@ layout: post
 
 title: YEMAS DEL ERMITAÑO
 
-date: '2010-06-01T11:17:00.000-07:00'
+
 
 author: Smurf Dad
 

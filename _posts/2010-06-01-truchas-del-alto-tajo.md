@@ -4,7 +4,7 @@ layout: post
 
 title: TRUCHAS DEL ALTO TAJO
 
-date: '2010-06-01T11:13:00.000-07:00'
+
 
 author: Smurf Dad
 

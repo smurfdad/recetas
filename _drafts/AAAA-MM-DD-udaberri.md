@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UDABERRI
-date: '2010-06-25T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

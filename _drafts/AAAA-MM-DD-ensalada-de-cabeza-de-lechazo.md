@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE CABEZA DE LECHAZO
-date: '2010-08-25T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

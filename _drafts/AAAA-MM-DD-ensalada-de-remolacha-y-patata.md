@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE REMOLACHA Y PATATA
-date: '2010-10-13T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

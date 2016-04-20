@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASADO DE CERDO CON PURÉ DE MANZANA
-date: '2010-08-30T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

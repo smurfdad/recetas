@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PERDIZ A LA CAZUELA
-date: '2010-06-21T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

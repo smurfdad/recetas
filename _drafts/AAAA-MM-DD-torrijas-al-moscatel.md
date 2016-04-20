@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORRIJAS AL MOSCATEL
-date: '2010-10-12T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

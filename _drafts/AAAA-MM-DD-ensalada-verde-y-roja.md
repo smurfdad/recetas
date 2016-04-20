@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA VERDE Y ROJA
-date: '2010-07-21T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

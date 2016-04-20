@@ -4,7 +4,7 @@ layout: post
 
 title: CARNE ASADA AL VINAGRE
 
-date: '2010-06-01T13:34:00.002-07:00'
+
 
 author: Smurf Dad
 

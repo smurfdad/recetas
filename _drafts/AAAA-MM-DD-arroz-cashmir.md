@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CASHMIR
-date: '2010-08-28T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HÍGADO GUISADO
-date: '2010-07-15T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

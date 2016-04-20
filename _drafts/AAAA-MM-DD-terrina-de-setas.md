@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TERRINA DE SETAS
-date: '2010-06-21T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

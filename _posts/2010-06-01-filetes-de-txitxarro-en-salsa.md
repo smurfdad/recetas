@@ -4,7 +4,7 @@ layout: post
 
 title: FILETES DE TXITXARRO EN SALSA
 
-date: '2010-06-01T13:27:00.002-07:00'
+
 
 author: Smurf Dad
 

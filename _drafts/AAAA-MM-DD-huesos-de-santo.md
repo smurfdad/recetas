@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HUESOS DE SANTO
-date: '2010-09-19T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

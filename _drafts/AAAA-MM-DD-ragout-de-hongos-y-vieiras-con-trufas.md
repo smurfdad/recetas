@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RAGOUT DE HONGOS Y VIEIRAS CON TRUFAS
-date: '2010-06-09T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

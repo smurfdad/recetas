@@ -1,7 +1,7 @@
 ---
 layout: post
 title: STRÜDEL DE MANZANA
-date: '2010-07-09T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TXAPELA DE CHAMPIÑÓN CON JAMÓN Y LANGOSTINOS
-date: '2010-07-23T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

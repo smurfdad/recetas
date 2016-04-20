@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PARFAIT CROCANTTI
-date: '2010-07-16T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

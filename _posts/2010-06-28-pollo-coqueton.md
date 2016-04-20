@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO COQUETON
 
-date: '2010-06-28T04:35:00.001-07:00'
+
 
 author: Smurf Dad
 

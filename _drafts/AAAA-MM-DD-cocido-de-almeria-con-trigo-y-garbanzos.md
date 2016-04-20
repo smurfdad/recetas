@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COCIDO DE ALMERÍA CON TRIGO Y GARBANZOS
-date: '2010-10-16T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

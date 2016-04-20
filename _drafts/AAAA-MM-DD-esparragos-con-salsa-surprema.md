@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESPÁRRAGOS CON SALSA SURPREMA
-date: '2010-09-16T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

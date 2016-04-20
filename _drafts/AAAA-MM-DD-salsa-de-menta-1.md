@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA DE MENTA
-date: '2010-10-03T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

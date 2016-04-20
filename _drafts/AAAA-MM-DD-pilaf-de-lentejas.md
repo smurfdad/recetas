@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PILAF DE LENTEJAS
-date: '2010-06-19T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

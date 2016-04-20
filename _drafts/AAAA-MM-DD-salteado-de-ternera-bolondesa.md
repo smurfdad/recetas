@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALTEADO DE TERNERA BOLONDESA
-date: '2010-06-06T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

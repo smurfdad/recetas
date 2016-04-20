@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VERDURAS HORNEADAS AL VINO
-date: '2010-07-09T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

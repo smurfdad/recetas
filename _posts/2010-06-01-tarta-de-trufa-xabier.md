@@ -4,7 +4,7 @@ layout: post
 
 title: TARTA DE TRUFA XABIER
 
-date: '2010-06-01T13:28:00.001-07:00'
+
 
 author: Smurf Dad
 

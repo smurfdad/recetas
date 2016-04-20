@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESTOFADO DE TERNERA CON CHOCOLATE
-date: '2010-07-17T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

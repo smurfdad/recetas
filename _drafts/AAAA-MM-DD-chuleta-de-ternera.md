@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETA DE TERNERA
-date: '2010-06-11T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CERDO LECHADO A LA RAQUEL
-date: '2010-07-01T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

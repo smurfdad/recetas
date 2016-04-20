@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESPAGUETI A LA ARRABIATA
-date: '2010-06-26T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

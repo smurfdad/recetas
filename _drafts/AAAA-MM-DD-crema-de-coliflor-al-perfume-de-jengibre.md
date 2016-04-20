@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE COLIFLOR AL PERFUME DE JENGIBRE
-date: '2010-09-11T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

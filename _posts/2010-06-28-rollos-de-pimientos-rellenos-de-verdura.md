@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLOS DE PIMIENTOS RELLENOS DE VERDURA
 
-date: '2010-06-28T04:29:00.000-07:00'
+
 
 author: Smurf Dad
 

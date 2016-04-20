@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ATÚN EN JENGIBRE Y NARANJA
-date: '2010-06-18T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

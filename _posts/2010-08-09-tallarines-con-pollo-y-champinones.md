@@ -4,7 +4,7 @@ layout: post
 
 title: TALLARINES CON POLLO Y CHAMPIÑONES
 
-date: '2010-08-09T03:26:00.000-07:00'
+
 
 author: Smurf Dad
 

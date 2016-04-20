@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO ESPACIAL
 
-date: '2010-06-10T15:30:00.000-07:00'
+
 
 author: Smurf Dad
 

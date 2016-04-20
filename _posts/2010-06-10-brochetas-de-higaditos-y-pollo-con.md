@@ -4,7 +4,7 @@ layout: post
 
 title: BROCHETAS DE HIGADITOS Y POLLO CON QUINOA
 
-date: '2010-06-10T15:28:00.001-07:00'
+
 
 author: Smurf Dad
 

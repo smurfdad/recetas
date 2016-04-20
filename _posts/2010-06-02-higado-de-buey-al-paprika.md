@@ -4,7 +4,7 @@ layout: post
 
 title: HÍGADO DE BUEY AL PAPRIKA
 
-date: '2010-06-02T13:16:00.003-07:00'
+
 
 author: Smurf Dad
 

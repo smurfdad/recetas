@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO ASADO CON ESPECIAS
-date: '2010-10-16T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: SALMÓN EN PAPILLOTE
 
-date: '2010-05-26T22:00:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO CON SALSA DE CEBOLLA
-date: '2010-10-15T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RAPE A LA GRANADINA
-date: '2010-06-14T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

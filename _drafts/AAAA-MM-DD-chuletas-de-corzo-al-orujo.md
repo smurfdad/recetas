@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE CORZO AL ORUJO
-date: '2010-09-09T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

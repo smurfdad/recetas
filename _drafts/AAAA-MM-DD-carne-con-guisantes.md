@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARNE CON GUISANTES
-date: '2010-09-04T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

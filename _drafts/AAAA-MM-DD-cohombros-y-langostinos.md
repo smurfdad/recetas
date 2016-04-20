@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COHOMBROS Y LANGOSTINOS
-date: '2010-09-09T11:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

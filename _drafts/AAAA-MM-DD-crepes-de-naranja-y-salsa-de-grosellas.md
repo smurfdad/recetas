@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREPES DE NARANJA Y SALSA DE GROSELLAS
-date: '2010-09-12T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

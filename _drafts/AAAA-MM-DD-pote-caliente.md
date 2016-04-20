@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POTE CALIENTE
-date: '2010-06-30T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE MEJILLÓN
-date: '2010-06-25T07:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

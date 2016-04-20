@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GRATINADO DE CALABACINES
-date: '2010-09-20T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

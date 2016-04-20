@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HINOJOS A LA NIZATTA
-date: '2010-07-01T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

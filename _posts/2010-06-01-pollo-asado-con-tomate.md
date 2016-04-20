@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO ASADO CON TOMATE
 
-date: '2010-06-01T13:34:00.000-07:00'
+
 
 author: Smurf Dad
 

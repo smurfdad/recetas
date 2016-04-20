@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PESCADO A LA PIMIENTA Y COMINO
-date: '2010-06-19T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

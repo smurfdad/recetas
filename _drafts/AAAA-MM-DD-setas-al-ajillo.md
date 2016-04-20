@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SETAS AL AJILLO
-date: '2010-06-14T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

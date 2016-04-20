@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTA PLUMA
-date: '2010-06-23T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

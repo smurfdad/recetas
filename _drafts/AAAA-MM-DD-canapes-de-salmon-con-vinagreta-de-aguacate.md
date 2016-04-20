@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CANAPÉS DE SALMÓN CON VINAGRETA DE AGUACATE
-date: '2010-09-03T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

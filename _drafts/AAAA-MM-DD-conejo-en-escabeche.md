@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONEJO EN ESCABECHE
-date: '2010-06-12T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

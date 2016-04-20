@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA CATALANA
-date: '2010-09-12T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

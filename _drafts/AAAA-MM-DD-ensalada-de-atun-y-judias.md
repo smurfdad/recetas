@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE ATÚN Y JUDÍAS
-date: '2010-07-11T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

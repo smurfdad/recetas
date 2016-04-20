@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALL CREMAT  (BACALAO AL AJO QUEMADO)
-date: '2010-07-22T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

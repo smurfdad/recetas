@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MAGRET DE PATO Y COMPOTA DE AGRIOS
-date: '2010-09-23T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

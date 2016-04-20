@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE ATÚN Y VERDURAS
-date: '2010-10-17T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

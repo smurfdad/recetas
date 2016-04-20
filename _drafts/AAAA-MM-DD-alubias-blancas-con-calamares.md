@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALUBIAS BLANCAS CON CALAMARES
-date: '2010-07-10T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: PIMIENTOS ROJOS RELLENOS EN SALSA DE CHIPIRÓN
 
-date: '2010-05-25T19:00:00.000-07:00'
+
 
 author: Smurf Dad
 

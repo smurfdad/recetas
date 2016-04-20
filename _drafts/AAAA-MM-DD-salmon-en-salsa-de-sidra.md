@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMÓN EN SALSA DE SIDRA
-date: '2010-07-07T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

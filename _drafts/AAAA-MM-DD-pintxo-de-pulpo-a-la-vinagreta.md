@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTXO DE PULPO A LA VINAGRETA
-date: '2010-06-22T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

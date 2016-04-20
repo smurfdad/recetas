@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COSTILLITAS DE CERDO CON ARROZ
-date: '2010-06-17T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

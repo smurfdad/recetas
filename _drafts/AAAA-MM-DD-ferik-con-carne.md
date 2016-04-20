@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FERIK CON CARNE
-date: '2010-09-17T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

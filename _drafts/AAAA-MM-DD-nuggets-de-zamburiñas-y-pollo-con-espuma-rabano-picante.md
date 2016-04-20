@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NUGGETS DE ZAMBURIÑAS Y POLLO CON ESPUMA RÁBANO PICANTE
-date: '2010-07-16T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

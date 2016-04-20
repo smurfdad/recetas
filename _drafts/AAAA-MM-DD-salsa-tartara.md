@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA TARTARA
-date: '2010-10-03T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

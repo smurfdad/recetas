@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO AL PEREJIL
-date: '2010-07-23T11:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESTOFADO DE TERNERA DE ALCOLEA
-date: '2010-09-18T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

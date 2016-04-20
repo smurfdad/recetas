@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HUEVOS REVUELTOS CON BACALAO
-date: '2010-09-21T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS EN AJOPOLLO
-date: '2010-09-29T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

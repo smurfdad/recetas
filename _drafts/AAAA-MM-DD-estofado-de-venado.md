@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESTOFADO DE VENADO
-date: '2010-09-17T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

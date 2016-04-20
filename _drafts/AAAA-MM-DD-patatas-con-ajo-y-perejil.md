@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS CON AJO Y PEREJIL
-date: '2010-07-09T09:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

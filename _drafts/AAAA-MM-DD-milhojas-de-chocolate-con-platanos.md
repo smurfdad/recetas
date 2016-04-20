@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MILHOJAS DE CHOCOLATE CON PLÁTANOS
-date: '2010-06-29T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

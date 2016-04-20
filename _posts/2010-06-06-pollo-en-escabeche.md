@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO EN ESCABECHE
 
-date: '2010-06-06T01:00:00.000-07:00'
+
 
 author: Smurf Dad
 

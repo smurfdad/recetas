@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALAMARES CON CEBOLLA
-date: '2010-06-22T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

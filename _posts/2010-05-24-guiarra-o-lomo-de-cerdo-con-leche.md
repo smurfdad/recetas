@@ -4,7 +4,7 @@ layout: post
 
 title: GUIARRA O LOMO DE CERDO CON LECHE
 
-date: '2010-05-24T09:38:00.000-07:00'
+
 
 author: Smurf Dad
 

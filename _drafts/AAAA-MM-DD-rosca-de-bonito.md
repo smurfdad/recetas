@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROSCA DE BONITO
-date: '2010-07-03T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

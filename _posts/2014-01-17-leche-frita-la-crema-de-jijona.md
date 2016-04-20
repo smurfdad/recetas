@@ -4,7 +4,7 @@ layout: post
 
 title: LECHE FRITA A LA CREMA DE JIJONA
 
-date: '2014-01-17T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

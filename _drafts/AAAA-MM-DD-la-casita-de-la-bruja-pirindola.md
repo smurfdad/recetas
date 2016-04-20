@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LA CASITA DE LA BRUJA PIRINDOLA
-date: '2010-09-23T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

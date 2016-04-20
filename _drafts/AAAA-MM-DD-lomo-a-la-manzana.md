@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMO A LA MANZANA
-date: '2010-07-09T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

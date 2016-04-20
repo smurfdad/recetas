@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JURELITOS EN ESCABECHE
-date: '2010-06-12T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

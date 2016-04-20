@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE PESCADO A LA MARINERA
-date: '2010-06-15T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

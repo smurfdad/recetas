@@ -4,7 +4,7 @@ layout: post
 
 title: VICHYSSOISE CALIENTE
 
-date: '2010-05-29T02:21:00.001-07:00'
+
 
 author: Smurf Dad
 

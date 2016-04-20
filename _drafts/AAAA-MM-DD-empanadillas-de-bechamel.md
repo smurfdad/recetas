@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMPANADILLAS DE BECHAMEL
-date: '2010-06-26T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

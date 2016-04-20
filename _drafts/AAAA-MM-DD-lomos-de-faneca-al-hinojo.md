@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMOS DE FANECA AL HINOJO
-date: '2010-09-24T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

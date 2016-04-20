@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO A LA TRANCA
-date: '2010-07-13T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

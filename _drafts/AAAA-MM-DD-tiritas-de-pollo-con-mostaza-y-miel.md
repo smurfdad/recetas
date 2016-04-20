@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TIRITAS DE POLLO CON MOSTAZA Y MIEL
-date: '2010-07-21T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

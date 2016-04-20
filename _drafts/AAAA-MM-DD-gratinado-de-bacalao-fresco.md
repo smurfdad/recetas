@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GRATINADO DE BACALAO FRESCO
-date: '2010-07-14T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

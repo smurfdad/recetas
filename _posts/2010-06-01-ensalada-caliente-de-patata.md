@@ -4,7 +4,7 @@ layout: post
 
 title: ENSALADA CALIENTE DE PATATA
 
-date: '2010-06-01T20:30:00.000-07:00'
+
 
 author: Smurf Dad
 

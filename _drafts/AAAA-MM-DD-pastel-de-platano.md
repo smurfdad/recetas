@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE PLÁTANO
-date: '2010-07-13T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

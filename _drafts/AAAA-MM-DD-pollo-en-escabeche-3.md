@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO EN ESCABECHE
-date: '2010-10-16T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

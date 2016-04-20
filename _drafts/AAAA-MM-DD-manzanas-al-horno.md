@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MANZANAS AL HORNO
-date: '2010-10-13T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

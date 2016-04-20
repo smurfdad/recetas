@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO AL ESTILO CÁCERES
-date: '2010-06-28T09:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTARROJA A LA CASERA
-date: '2010-10-07T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

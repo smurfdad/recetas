@@ -4,7 +4,7 @@ layout: post
 
 title: CHARLOTA DE PIÑA
 
-date: '2010-05-20T15:59:00.008-07:00'
+
 
 author: Smurf Dad
 

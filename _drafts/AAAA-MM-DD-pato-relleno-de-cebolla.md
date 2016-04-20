@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATO RELLENO DE CEBOLLA
-date: '2010-09-28T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

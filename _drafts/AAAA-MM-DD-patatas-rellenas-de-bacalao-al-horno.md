@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS RELLENAS DE BACALAO AL HORNO
-date: '2010-07-23T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

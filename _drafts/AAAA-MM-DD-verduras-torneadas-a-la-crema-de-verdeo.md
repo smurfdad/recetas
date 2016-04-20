@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VERDURAS TORNEADAS A LA CREMA DE VERDEO
-date: '2010-07-05T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

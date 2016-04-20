@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS NUEVAS RELLENAS
-date: '2010-09-29T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

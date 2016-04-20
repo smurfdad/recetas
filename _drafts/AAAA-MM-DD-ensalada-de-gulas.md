@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE GULAS
-date: '2010-09-16T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

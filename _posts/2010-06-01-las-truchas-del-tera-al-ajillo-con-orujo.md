@@ -4,7 +4,7 @@ layout: post
 
 title: LAS TRUCHAS DEL TERA AL AJILLO CON ORUJO
 
-date: '2010-06-01T13:29:00.001-07:00'
+
 
 author: Smurf Dad
 

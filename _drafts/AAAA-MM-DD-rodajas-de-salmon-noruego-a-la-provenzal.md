@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RODAJAS DE SALMÓN NORUEGO A LA PROVENZAL
-date: '2010-06-29T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

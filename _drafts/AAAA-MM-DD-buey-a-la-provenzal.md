@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BUEY A LA PROVENZAL
-date: '2010-07-22T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

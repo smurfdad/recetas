@@ -4,7 +4,7 @@ layout: post
 
 title: PANACHÉ DE VERDURAS
 
-date: '2010-05-25T13:22:00.004-07:00'
+
 
 author: Smurf Dad
 

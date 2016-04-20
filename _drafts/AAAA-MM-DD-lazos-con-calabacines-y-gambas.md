@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LAZOS CON CALABACINES Y GAMBAS
-date: '2010-09-22T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

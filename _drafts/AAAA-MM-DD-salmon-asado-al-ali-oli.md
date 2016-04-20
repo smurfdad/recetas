@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMÓN ASADO AL ALI-OLI
-date: '2010-07-01T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

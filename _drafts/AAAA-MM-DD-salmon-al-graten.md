@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMÓN AL GRATÉN
-date: '2010-10-02T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

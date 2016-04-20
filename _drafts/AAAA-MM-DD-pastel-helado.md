@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL HELADO
-date: '2010-06-29T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

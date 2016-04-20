@@ -4,7 +4,7 @@ layout: post
 
 title: PASTEL DE ESPÁRRAGOS TRIGUEROS Y SALMÓN
 
-date: '2010-08-09T02:58:00.002-07:00'
+
 
 author: Smurf Dad
 

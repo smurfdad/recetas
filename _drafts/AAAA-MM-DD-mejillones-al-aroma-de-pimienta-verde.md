@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MEJILLONES AL AROMA DE PIMIENTA VERDE
-date: '2010-07-05T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

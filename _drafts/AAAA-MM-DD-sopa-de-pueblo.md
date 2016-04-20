@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE PUEBLO
-date: '2010-07-11T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

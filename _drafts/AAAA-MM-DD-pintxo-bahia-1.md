@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PINTXO BAHÍA
-date: '2010-10-06T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

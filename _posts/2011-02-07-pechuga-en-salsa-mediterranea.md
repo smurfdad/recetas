@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGA EN SALSA MEDITERRÁNEA ACOMPAÑADA DE POLENTA CLÁSICA
 
-date: '2011-02-07T15:02:00.001-08:00'
+
 
 author: Smurf Dad
 

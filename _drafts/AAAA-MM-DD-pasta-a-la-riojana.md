@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTA A LA RIOJANA
-date: '2010-07-23T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

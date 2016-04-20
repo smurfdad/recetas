@@ -4,7 +4,7 @@ layout: post
 
 title: COMIDA DEL DIABLO
 
-date: '2010-05-20T15:59:00.003-07:00'
+
 
 author: Smurf Dad
 

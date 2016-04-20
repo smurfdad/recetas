@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA A LA PROVENZAL
-date: '2010-10-15T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

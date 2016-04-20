@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESCUDELLA I CARN D OLLA
-date: '2010-09-14T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

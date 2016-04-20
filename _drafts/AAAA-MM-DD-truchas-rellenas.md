@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHAS RELLENAS
-date: '2010-07-17T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

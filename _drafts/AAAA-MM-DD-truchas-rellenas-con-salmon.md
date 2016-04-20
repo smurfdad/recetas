@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHAS RELLENAS CON SALMÓN
-date: '2010-06-19T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

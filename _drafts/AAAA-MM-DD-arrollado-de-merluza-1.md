@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROLLADO DE MERLUZA
-date: '2010-06-30T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

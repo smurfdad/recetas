@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DORADA AL VINO
-date: '2010-09-10T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

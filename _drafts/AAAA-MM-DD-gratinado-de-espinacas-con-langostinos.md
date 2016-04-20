@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GRATINADO DE ESPINACAS CON LANGOSTINOS
-date: '2010-06-04T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

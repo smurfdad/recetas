@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FLAN DE CAFÉ
-date: '2010-09-19T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

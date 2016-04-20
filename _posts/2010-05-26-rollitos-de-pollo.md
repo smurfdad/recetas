@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLITOS DE POLLO
 
-date: '2010-05-26T17:00:00.000-07:00'
+
 
 author: Smurf Dad
 

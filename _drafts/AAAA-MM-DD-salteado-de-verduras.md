@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALTEADO DE VERDURAS
-date: '2010-06-30T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

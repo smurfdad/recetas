@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SCONES DE QUESO
-date: '2010-07-02T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

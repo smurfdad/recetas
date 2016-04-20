@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TACO DE BUEY CON SETAS Y AJETES AL JEREZ
-date: '2010-10-11T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

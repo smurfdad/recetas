@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAZUELITAS DE TERNERA
-date: '2010-10-13T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

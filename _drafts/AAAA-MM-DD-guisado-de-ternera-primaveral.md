@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GUISADO DE TERNERA PRIMAVERAL
-date: '2010-09-18T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

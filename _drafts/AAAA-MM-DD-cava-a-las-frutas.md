@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CAVA A LAS FRUTAS
-date: '2010-09-07T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

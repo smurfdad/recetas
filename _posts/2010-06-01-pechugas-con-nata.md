@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGAS CON NATA
 
-date: '2010-06-01T22:30:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -4,7 +4,7 @@ layout: post
 
 title: PATATAS EN SALSA VERDE
 
-date: '2010-05-25T13:21:00.003-07:00'
+
 
 author: Smurf Dad
 

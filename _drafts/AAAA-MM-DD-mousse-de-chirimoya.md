@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOUSSE DE CHIRIMOYA
-date: '2010-09-27T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

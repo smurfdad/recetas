@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SUFLÉ DE QUARK
-date: '2010-10-11T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

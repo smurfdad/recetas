@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONEJO CON SETAS
-date: '2010-09-10T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

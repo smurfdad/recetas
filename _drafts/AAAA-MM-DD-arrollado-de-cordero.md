@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROLLADO DE CORDERO
-date: '2010-06-20T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

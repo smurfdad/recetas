@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DORADA EN SARTÉN
-date: '2010-09-10T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

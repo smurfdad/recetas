@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CANELONES DE POLLO Y VERDURA
-date: '2010-07-12T08:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

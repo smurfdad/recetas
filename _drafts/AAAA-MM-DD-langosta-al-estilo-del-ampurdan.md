@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LANGOSTA AL ESTILO DEL AMPURDÁN
-date: '2010-09-22T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

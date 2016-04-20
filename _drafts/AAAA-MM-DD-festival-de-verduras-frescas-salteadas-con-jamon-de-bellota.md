@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FESTIVAL DE VERDURAS FRESCAS SALTEADAS CON JAMON DE BELLOTA
-date: '2010-06-28T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

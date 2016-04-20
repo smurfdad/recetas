@@ -4,7 +4,7 @@ layout: post
 
 title: PAELLA DE CARNE
 
-date: '2010-06-03T13:30:00.003-07:00'
+
 
 author: Smurf Dad
 

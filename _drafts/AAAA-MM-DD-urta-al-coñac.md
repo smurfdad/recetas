@@ -1,7 +1,7 @@
 ---
 layout: post
 title: URTA AL COÑAC
-date: '2010-10-05T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

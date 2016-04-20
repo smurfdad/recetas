@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS BRAVAS
-date: '2010-10-14T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

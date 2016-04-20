@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMÓN AL HORNO CON PATATAS PANADERA
-date: '2010-07-22T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

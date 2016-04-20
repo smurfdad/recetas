@@ -4,7 +4,7 @@ layout: post
 
 title: LENTEJAS POSADERAS
 
-date: '2010-05-30T13:53:00.000-07:00'
+
 
 author: Smurf Dad
 

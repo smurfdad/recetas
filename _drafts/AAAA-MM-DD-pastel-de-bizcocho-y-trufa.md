@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE BIZCOCHO Y TRUFA
-date: '2010-07-14T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

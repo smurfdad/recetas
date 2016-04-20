@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PIES DE CERDO CON SALSA
-date: '2010-10-07T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

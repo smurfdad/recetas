@@ -4,7 +4,7 @@ layout: post
 
 title: GALIANOS MANCHEGOS
 
-date: '2010-08-09T03:38:00.000-07:00'
+
 
 author: Smurf Dad
 

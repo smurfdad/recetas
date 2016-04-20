@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENTRECOT DE TERNERA GALLEGA PILOTO
-date: '2010-09-14T13:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

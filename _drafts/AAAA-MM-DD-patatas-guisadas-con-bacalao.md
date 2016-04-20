@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS GUISADAS CON BACALAO
-date: '2010-06-04T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

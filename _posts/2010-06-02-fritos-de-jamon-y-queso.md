@@ -4,7 +4,7 @@ layout: post
 
 title: FRITOS DE JAMÓN Y QUESO
 
-date: '2010-06-02T13:08:00.004-07:00'
+
 
 author: Smurf Dad
 

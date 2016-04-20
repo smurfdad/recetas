@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO A LA FRANCESA
-date: '2010-06-29T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

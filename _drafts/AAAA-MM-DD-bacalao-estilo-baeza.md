@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO ESTILO BAEZA
-date: '2010-09-01T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

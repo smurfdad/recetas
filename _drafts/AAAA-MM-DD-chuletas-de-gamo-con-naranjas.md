@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE GAMO CON NARANJAS
-date: '2010-09-09T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

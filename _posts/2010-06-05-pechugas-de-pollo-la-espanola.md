@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGAS DE POLLO A LA ESPAÑOLA
 
-date: '2010-06-05T21:30:00.000-07:00'
+
 
 author: Smurf Dad
 

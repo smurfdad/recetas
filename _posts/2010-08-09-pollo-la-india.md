@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO A LA INDIA
 
-date: '2010-08-09T02:42:00.000-07:00'
+
 
 author: Smurf Dad
 

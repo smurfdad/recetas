@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLO DE PAVO SABROSO
 
-date: '2010-06-02T00:30:00.000-07:00'
+
 
 author: Smurf Dad
 

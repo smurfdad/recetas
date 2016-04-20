@@ -4,7 +4,7 @@ layout: post
 
 title: HUEVOS ESCALFADOS FIORENTINA
 
-date: '2010-06-03T20:30:00.000-07:00'
+
 
 author: Smurf Dad
 

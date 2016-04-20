@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATA EN CALDO MOJETILLO EN ACABANDO
-date: '2010-07-07T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

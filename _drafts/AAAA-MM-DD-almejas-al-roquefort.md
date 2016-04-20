@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALMEJAS AL ROQUEFORT
-date: '2010-08-26T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

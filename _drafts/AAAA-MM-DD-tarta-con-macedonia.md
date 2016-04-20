@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA CON MACEDONIA
-date: '2010-07-20T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

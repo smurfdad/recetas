@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMON CON SALSA DE MOSTAZA
-date: '2010-07-04T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE GARBANZOS
-date: '2010-07-17T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

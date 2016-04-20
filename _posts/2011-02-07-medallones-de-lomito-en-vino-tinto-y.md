@@ -4,7 +4,7 @@ layout: post
 
 title: MEDALLONES DE LOMITO EN VINO TINTO Y MILHOJAS DE PATATAS
 
-date: '2011-02-07T15:02:00.000-08:00'
+
 
 author: Smurf Dad
 

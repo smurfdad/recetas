@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LAS TRUCHAS DEL TERA AL AJILLO CON ORUJO
-date: '2010-07-12T19:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

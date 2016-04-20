@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PERAS AL VINO
-date: '2010-07-08T02:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

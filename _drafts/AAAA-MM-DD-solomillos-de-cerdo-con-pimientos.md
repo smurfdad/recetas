@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLOS DE CERDO CON PIMIENTOS
-date: '2010-07-02T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

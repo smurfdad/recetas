@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FLAN DE CALABAZA
-date: '2010-07-02T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

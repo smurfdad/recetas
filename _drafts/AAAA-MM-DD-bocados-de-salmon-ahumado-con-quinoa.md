@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOCADOS DE SALMÓN AHUMADO CON QUINOA
-date: '2010-07-15T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

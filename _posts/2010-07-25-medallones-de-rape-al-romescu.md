@@ -4,7 +4,7 @@ layout: post
 
 title: MEDALLONES DE RAPE AL ROMESCU
 
-date: '2010-07-25T08:30:00.000-07:00'
+
 
 author: Smurf Dad
 

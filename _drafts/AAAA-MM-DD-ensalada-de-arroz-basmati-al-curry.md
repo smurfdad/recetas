@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA DE ARROZ BASMATI AL CURRY
-date: '2010-07-21T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

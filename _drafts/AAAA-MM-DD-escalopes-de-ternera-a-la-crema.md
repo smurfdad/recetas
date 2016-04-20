@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESCALOPES DE TERNERA A LA CREMA
-date: '2010-07-06T04:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ A LA HUERTANA
-date: '2010-06-25T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON ALCACHOFAS
-date: '2010-08-28T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

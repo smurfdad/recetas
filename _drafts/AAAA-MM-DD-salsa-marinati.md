@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA MARINATI
-date: '2010-10-03T06:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

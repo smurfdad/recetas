@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE GAMBAS Y ALCACHOFAS
-date: '2010-10-10T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

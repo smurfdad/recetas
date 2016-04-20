@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PIERNA DE CERDO, FRIJOLES NEGROS Y ARROZ BLANCO
-date: '2010-06-28T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

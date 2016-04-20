@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PEZ ESPADA A LA CORDOBESA
-date: '2010-10-07T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

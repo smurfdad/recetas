@@ -4,7 +4,7 @@ layout: post
 
 title: HUEVOS REVUELTOS CON BACALAO
 
-date: '2014-01-10T23:00:00.000-08:00'
+
 
 author: Smurf Dad
 

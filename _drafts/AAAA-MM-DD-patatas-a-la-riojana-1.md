@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS A LA RIOJANA
-date: '2010-09-29T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

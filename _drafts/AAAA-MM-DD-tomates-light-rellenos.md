@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TOMATES LIGHT RELLENOS
-date: '2010-06-28T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

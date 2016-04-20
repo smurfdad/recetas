@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REPOLLO  RELLENO
-date: '2010-07-16T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

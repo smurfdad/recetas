@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALAMARES A LA AMERICANA
-date: '2010-09-05T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

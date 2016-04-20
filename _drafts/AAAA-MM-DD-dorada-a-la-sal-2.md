@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DORADA A LA SAL
-date: '2010-09-10T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

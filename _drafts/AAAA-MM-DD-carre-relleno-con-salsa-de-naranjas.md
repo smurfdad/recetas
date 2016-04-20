@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARRÉ RELLENO CON SALSA DE NARANJAS
-date: '2010-07-15T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

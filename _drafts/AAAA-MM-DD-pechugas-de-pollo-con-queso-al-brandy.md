@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO CON QUESO AL BRANDY
-date: '2010-10-15T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

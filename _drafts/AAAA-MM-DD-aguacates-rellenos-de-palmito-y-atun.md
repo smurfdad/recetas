@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AGUACATES RELLENOS DE PALMITO Y ATÚN
-date: '2010-06-16T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

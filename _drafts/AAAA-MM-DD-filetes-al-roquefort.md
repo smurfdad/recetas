@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETES AL ROQUEFORT
-date: '2010-07-06T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHAMPIÑONES AL AJILLO PICANTES
-date: '2010-07-04T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

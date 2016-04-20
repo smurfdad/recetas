@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MOUSSE HELADA DE FRESONES Y QUESO
-date: '2010-07-20T17:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

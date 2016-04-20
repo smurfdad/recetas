@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLITOS DE JAMÓN RELLENOS DE ENSALADILLA RUSA
 
-date: '2010-06-10T15:29:00.000-07:00'
+
 
 author: Smurf Dad
 

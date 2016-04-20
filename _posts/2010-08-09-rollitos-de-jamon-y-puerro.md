@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLITOS DE JAMÓN Y PUERRO
 
-date: '2010-08-09T02:43:00.000-07:00'
+
 
 author: Smurf Dad
 

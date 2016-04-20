@@ -1,7 +1,7 @@
 ---
 layout: post
 title: QUESILLO EXQUISITO
-date: '2010-07-09T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

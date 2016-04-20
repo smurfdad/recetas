@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POTAJE ESTOFADO DE ZANAHORIAS
-date: '2010-10-03T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

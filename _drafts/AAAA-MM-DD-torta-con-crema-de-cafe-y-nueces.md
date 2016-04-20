@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TORTA CON CREMA DE CAFE Y NUECES
-date: '2010-07-15T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

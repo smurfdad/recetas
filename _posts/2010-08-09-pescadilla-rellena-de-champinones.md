@@ -4,7 +4,7 @@ layout: post
 
 title: PESCADILLA RELLENA DE CHAMPIÑONES
 
-date: '2010-08-09T03:26:00.001-07:00'
+
 
 author: Smurf Dad
 

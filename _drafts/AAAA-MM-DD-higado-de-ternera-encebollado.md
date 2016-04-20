@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HIGADO DE TERNERA ENCEBOLLADO
-date: '2010-06-05T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

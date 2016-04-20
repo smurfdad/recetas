@@ -4,7 +4,7 @@ layout: post
 
 title: ENSALADA ESCANDINAVIA TROPICAL
 
-date: '2010-05-22T15:00:00.000-07:00'
+
 
 author: Smurf Dad
 

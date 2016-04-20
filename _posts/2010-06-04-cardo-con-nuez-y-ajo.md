@@ -4,7 +4,7 @@ layout: post
 
 title: CARDO CON NUEZ Y AJO
 
-date: '2010-06-04T07:00:00.000-07:00'
+
 
 author: Smurf Dad
 

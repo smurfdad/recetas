@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTEL DE ARROZ CON HORTALIZAS ASADAS
-date: '2010-07-09T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

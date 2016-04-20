@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO ASADO AL LIMÓN
 
-date: '2010-05-30T13:46:00.000-07:00'
+
 
 author: Smurf Dad
 

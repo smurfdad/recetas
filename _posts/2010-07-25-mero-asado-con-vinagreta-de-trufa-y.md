@@ -4,7 +4,7 @@ layout: post
 
 title: MERO ASADO CON VINAGRETA DE TRUFA Y CEBOLLETA
 
-date: '2010-07-25T09:30:00.000-07:00'
+
 
 author: Smurf Dad
 

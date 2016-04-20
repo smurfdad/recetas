@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO RELLENO DE QUESO PHILADELPHIA Y MIEL
-date: '2010-07-03T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

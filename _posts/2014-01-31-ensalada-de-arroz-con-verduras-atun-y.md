@@ -4,7 +4,7 @@ layout: post
 
 title: ENSALADA DE ARROZ CON VERDURAS, ATÚN Y JAMÓN
 
-date: '2014-01-31T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

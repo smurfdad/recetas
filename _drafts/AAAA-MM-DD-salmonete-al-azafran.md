@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALMONETE AL AZAFRÁN
-date: '2010-10-09T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

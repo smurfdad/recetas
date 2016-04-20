@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PERAS DEL ABAD
-date: '2010-06-29T17:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

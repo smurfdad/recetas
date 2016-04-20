@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PECHUGA CON SALSA DE HIERBAS Y YOGURT
-date: '2010-10-16T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

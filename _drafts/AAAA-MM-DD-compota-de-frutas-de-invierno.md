@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COMPOTA DE FRUTAS DE INVIERNO
-date: '2010-09-10T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

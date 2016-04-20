@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALCACHOFAS EN CROCANTI
-date: '2010-07-21T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

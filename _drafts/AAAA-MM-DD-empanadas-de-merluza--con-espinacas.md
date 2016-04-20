@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMPANADAS DE MERLUZA  CON ESPINACAS
-date: '2010-06-07T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

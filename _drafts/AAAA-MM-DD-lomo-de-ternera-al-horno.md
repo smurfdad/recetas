@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LOMO DE TERNERA AL HORNO
-date: '2010-09-24T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

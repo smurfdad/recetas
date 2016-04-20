@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ AL HORNO, CON PATA, CARETA Y OREJA DE CERDO
-date: '2010-07-06T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

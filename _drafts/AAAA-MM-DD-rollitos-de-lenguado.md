@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLITOS DE LENGUADO
-date: '2010-10-02T19:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

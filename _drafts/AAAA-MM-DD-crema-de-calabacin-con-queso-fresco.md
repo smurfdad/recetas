@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE CALABACÍN CON QUESO FRESCO
-date: '2010-09-11T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

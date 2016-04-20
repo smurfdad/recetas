@@ -4,7 +4,7 @@ layout: post
 
 title: SOPA DE MEJILLONES A LA MARINERA
 
-date: '2014-01-20T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

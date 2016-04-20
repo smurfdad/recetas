@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHAMPIÑONES A LA PROVENZAL
-date: '2010-06-18T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

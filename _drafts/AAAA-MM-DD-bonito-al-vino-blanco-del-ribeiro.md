@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BONITO AL VINO BLANCO DEL RIBEIRO
-date: '2010-06-11T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

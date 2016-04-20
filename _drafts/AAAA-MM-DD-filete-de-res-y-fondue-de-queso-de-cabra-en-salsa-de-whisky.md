@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FILETE DE RES Y FONDUE DE QUESO DE CABRA EN SALSA DE WHISKY
-date: '2010-09-18T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

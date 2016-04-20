@@ -4,7 +4,7 @@ layout: post
 
 title: RISOTTO DE BACALAO Y TRUFAS DE ACEITE DE OLIVA VIRGEN
 
-date: '2010-05-29T05:58:00.000-07:00'
+
 
 author: Smurf Dad
 

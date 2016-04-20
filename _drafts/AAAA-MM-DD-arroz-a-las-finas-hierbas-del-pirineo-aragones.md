@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ A LAS FINAS HIERBAS DEL PIRINEO ARAGONÉS
-date: '2010-08-27T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

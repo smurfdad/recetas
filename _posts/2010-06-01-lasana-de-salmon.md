@@ -4,7 +4,7 @@ layout: post
 
 title: LASAÑA DE SALMÓN
 
-date: '2010-06-01T13:22:00.000-07:00'
+
 
 author: Smurf Dad
 

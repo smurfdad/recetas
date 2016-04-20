@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLO DE PECHUGA DE POLLO
-date: '2010-06-25T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

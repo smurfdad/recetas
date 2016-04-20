@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA BOLOGNESA
-date: '2010-07-17T09:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

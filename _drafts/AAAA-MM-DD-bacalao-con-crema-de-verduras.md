@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO CON CREMA DE VERDURAS
-date: '2010-06-10T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

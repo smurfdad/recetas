@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BESUGO A LAS FINAS HIERBAS
-date: '2010-09-01T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

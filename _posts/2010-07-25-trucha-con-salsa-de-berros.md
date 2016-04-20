@@ -4,7 +4,7 @@ layout: post
 
 title: TRUCHA CON SALSA DE BERROS
 
-date: '2010-07-25T11:30:00.000-07:00'
+
 
 author: Smurf Dad
 

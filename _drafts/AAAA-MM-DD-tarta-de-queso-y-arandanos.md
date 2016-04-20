@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TARTA DE QUESO Y ARANDANOS
-date: '2010-10-15T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

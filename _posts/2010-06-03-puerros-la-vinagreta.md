@@ -4,7 +4,7 @@ layout: post
 
 title: PUERROS A LA VINAGRETA
 
-date: '2010-06-03T13:30:00.000-07:00'
+
 
 author: Smurf Dad
 

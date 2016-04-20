@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NIEVE DE LIMON CON FRUTA
-date: '2010-07-01T12:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

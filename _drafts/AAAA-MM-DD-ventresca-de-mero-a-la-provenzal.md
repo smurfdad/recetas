@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VENTRESCA DE MERO A LA PROVENZAL
-date: '2010-07-08T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

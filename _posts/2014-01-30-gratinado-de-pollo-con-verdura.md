@@ -4,7 +4,7 @@ layout: post
 
 title: GRATINADO DE POLLO CON VERDURA
 
-date: '2014-01-30T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

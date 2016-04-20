@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGAS DE POLLO RELLENAS DE FINAS HIERBAS
 
-date: '2010-06-02T00:00:00.000-07:00'
+
 
 author: Smurf Dad
 

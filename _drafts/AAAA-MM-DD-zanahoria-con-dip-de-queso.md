@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ZANAHORIA CON DIP DE QUESO
-date: '2010-08-24T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

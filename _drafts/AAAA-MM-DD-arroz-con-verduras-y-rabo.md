@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CON VERDURAS Y RABO
-date: '2010-08-29T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

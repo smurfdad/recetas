@@ -4,7 +4,7 @@ layout: post
 
 title: ROLLITOS DE SALMÓN
 
-date: '2011-02-07T14:59:00.000-08:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ENSALADA ITALIANA
-date: '2010-06-08T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

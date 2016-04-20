@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HUEVOS REVUELTOS
-date: '2010-09-21T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

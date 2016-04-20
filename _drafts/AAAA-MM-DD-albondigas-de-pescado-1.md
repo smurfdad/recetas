@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE PESCADO
-date: '2010-07-06T02:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

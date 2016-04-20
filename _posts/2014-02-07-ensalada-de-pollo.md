@@ -4,7 +4,7 @@ layout: post
 
 title: ENSALADA DE POLLO
 
-date: '2014-02-07T02:25:00.000-08:00'
+
 
 author: Smurf Dad
 

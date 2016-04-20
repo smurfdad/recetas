@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO CON SALSA DE CHAMPIÑONES Y VINO
-date: '2010-07-14T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

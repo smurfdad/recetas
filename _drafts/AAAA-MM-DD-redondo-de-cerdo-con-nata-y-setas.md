@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REDONDO DE CERDO CON NATA Y SETAS
-date: '2010-07-11T15:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

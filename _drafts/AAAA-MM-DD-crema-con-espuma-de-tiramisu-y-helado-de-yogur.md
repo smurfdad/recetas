@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA CON ESPUMA DE TIRAMISÚ Y HELADO DE YOGUR
-date: '2010-09-12T20:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

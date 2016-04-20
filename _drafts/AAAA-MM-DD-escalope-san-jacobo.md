@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ESCALOPE SAN JACOBO
-date: '2010-06-05T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

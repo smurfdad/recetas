@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LUBINA DEL NORTE
-date: '2010-09-24T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

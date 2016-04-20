@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RABO DE BUEY AL VINO
-date: '2010-10-01T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

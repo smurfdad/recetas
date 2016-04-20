@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BOMBA HELADA CON SALSA DE FRAMBUESA
-date: '2010-07-23T21:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

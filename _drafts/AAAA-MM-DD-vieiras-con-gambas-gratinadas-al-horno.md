@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIEIRAS CON GAMBAS GRATINADAS AL HORNO
-date: '2010-07-21T15:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

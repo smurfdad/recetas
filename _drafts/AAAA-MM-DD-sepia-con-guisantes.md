@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SEPIA CON GUISANTES
-date: '2010-10-01T10:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

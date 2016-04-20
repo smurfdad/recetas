@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE CALABAZA CON PUERROS Y APIO
-date: '2010-09-11T14:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

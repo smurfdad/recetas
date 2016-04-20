@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POLLO ESTOFADO DE LAS PALMAS
-date: '2010-10-08T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

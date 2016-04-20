@@ -4,7 +4,7 @@ layout: post
 
 title: ABADEJO AL HORNO
 
-date: '2010-06-28T04:37:00.001-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALMEJAS EN SALSA VERDE
-date: '2010-08-26T20:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

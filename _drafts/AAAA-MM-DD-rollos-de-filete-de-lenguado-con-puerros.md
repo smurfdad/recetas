@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLOS DE FILETE DE LENGUADO CON PUERROS
-date: '2010-06-14T23:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

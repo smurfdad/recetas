@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA VINAGRETA
-date: '2010-06-07T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

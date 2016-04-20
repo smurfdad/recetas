@@ -4,7 +4,7 @@ layout: post
 
 title: POLLO A LA CREMA CON DÁTILES
 
-date: '2010-06-02T13:11:00.000-07:00'
+
 
 author: Smurf Dad
 

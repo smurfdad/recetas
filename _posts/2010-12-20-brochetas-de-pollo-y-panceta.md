@@ -4,7 +4,7 @@ layout: post
 
 title: BROCHETAS DE POLLO Y PANCETA
 
-date: '2010-12-20T09:46:00.000-08:00'
+
 
 author: Smurf Dad
 

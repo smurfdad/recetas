@@ -4,7 +4,7 @@ layout: post
 
 title: ARROZ SALTEADO CON OMELETTE DE VEGETALES
 
-date: '2010-06-28T04:24:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -4,7 +4,7 @@ layout: post
 
 title: MANTECADAS
 
-date: '2010-05-24T12:38:00.000-07:00'
+
 
 author: Smurf Dad
 

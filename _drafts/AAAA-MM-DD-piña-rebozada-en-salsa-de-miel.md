@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PIÑA REBOZADA EN SALSA DE MIEL
-date: '2010-07-06T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

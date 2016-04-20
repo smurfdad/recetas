@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAN DE CARNE
-date: '2010-06-26T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

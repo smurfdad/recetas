@@ -4,7 +4,7 @@ layout: post
 
 title: SALPICÓN DE ARROZ CON VERDURAS Y TRUCHA
 
-date: '2010-08-09T03:19:00.001-07:00'
+
 
 author: Smurf Dad
 

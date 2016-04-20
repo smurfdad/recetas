@@ -4,7 +4,7 @@ layout: post
 
 title: TURBANTE DE CHOCOLATE
 
-date: '2010-08-09T03:17:00.001-07:00'
+
 
 author: Smurf Dad
 

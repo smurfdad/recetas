@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE CORDERO VILLAROY
-date: '2010-07-13T22:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

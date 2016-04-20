@@ -4,7 +4,7 @@ layout: post
 
 title: PUDIN DE CHATKA
 
-date: '2010-05-26T09:50:00.002-07:00'
+
 
 author: Smurf Dad
 

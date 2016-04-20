@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ROLLO DE CARNE PICADA
-date: '2010-06-30T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

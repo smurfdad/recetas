@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CERDO SABROSON
-date: '2010-07-07T03:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

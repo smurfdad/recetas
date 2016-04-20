@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PAELLA ANTILLANA
-date: '2010-09-26T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: TRUCHAS AL VINO TINTO
 
-date: '2010-07-25T12:00:00.000-07:00'
+
 
 author: Smurf Dad
 

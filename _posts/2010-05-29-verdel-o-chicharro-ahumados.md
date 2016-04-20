@@ -4,7 +4,7 @@ layout: post
 
 title: VERDEL O CHICHARRO AHUMADOS
 
-date: '2010-05-29T02:21:00.000-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALTEADO DE CERDO AL LIMÓN
-date: '2010-06-25T18:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

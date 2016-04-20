@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOLOMILLO DE TERNERA CON SALSA DE QUESO TETILLA
-date: '2010-10-02T01:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

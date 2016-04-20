@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PASTAS DE COCO
-date: '2010-09-30T10:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

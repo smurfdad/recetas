@@ -4,7 +4,7 @@ layout: post
 
 title: FILETE DE RES AL VINO TINTO
 
-date: '2010-07-25T05:30:00.000-07:00'
+
 
 author: Smurf Dad
 

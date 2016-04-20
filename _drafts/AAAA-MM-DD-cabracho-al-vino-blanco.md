@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CABRACHO AL VINO BLANCO
-date: '2010-06-17T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

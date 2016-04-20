@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO CON VERDURAS
-date: '2010-06-06T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

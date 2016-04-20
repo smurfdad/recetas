@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RABO AL VINO DE RIOJA
-date: '2010-07-20T16:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

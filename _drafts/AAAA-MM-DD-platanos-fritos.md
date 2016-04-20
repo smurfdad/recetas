@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PLÁTANOS FRITOS
-date: '2010-06-22T05:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

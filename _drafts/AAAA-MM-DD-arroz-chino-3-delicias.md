@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARROZ CHINO 3 DELICIAS
-date: '2010-08-30T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

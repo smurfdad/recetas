@@ -4,7 +4,7 @@ layout: post
 
 title: TRUCHA REBOZADA
 
-date: '2010-07-25T13:30:00.000-07:00'
+
 
 author: Smurf Dad
 

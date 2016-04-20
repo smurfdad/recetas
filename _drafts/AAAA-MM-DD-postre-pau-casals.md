@@ -1,7 +1,7 @@
 ---
 layout: post
 title: POSTRE PAU CASALS
-date: '2010-10-14T18:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

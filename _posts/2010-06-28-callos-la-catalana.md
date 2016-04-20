@@ -4,7 +4,7 @@ layout: post
 
 title: CALLOS A LA CATALANA
 
-date: '2010-06-28T04:16:00.000-07:00'
+
 
 author: Smurf Dad
 

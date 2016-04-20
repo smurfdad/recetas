@@ -4,7 +4,7 @@ layout: post
 
 title: SOLOMILLO AL CABRALES
 
-date: '2010-06-01T13:27:00.004-07:00'
+
 
 author: Smurf Dad
 

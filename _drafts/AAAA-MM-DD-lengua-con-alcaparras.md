@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LENGUA CON ALCAPARRAS
-date: '2010-09-22T14:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

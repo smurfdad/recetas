@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REVUELTO DE GAMBAS Y AJOS FRESCOS
-date: '2010-10-02T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

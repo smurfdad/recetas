@@ -4,7 +4,7 @@ layout: post
 
 title: CHIPIRONES EN SU TINTA
 
-date: '2010-05-20T15:59:00.007-07:00'
+
 
 author: Smurf Dad
 

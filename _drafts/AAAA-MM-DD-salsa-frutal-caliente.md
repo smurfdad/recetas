@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SALSA FRUTAL CALIENTE
-date: '2010-10-03T03:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

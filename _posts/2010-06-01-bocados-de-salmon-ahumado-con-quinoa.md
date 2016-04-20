@@ -4,7 +4,7 @@ layout: post
 
 title: BOCADOS DE SALMÓN AHUMADO CON QUINOA
 
-date: '2010-06-01T10:35:00.000-07:00'
+
 
 author: Smurf Dad
 

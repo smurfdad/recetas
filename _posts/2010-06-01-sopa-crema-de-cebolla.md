@@ -4,7 +4,7 @@ layout: post
 
 title: SOPA-CREMA DE CEBOLLA
 
-date: '2010-06-01T13:25:00.002-07:00'
+
 
 author: Smurf Dad
 

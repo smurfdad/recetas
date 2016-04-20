@@ -4,7 +4,7 @@ layout: post
 
 title: PECHUGAS DE POLLO REBOZADAS DE CREMA DE ESPÁRRAGOS
 
-date: '2010-06-01T23:00:00.000-07:00'
+
 
 author: Smurf Dad
 

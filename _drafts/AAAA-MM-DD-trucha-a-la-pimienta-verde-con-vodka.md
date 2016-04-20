@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TRUCHA A LA PIMIENTA VERDE CON VODKA
-date: '2010-10-05T11:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

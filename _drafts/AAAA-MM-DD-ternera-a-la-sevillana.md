@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TERNERA A LA SEVILLANA
-date: '2010-10-12T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -4,7 +4,7 @@ layout: post
 
 title: CHAMPIÑONES FRITOS
 
-date: '2010-06-28T04:48:00.000-07:00'
+
 
 author: Smurf Dad
 

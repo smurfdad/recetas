@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ALBONDIGAS DE BACALAO
-date: '2010-06-08T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

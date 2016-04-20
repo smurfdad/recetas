@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BUDÍN DE CALABAZA
-date: '2010-07-08T22:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

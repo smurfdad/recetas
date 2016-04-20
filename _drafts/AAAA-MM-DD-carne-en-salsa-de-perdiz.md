@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARNE EN SALSA DE PERDIZ
-date: '2010-09-03T12:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

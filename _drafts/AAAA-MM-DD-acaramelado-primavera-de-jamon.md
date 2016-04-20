@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ACARAMELADO PRIMAVERA DE JAMÓN
-date: '2010-06-28T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

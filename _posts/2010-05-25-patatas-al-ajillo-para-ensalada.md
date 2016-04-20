@@ -4,7 +4,7 @@ layout: post
 
 title: PATATAS AL AJILLO PARA ENSALADA
 
-date: '2010-05-25T13:21:00.002-07:00'
+
 
 author: Smurf Dad
 

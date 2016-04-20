@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARNE DE MONTE EN ADOBO
-date: '2010-09-04T05:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

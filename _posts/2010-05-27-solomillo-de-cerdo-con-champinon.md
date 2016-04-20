@@ -4,7 +4,7 @@ layout: post
 
 title: SOLOMILLO DE CERDO CON CHAMPIÑÓN
 
-date: '2010-05-27T17:00:00.000-07:00'
+
 
 author: Smurf Dad
 

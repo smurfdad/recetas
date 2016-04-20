@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CREMA DE PERAS Y FRAMBUESAS A LA MENTA
-date: '2010-09-12T23:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

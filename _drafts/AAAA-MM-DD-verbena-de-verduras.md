@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VERBENA DE VERDURAS
-date: '2010-10-05T01:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

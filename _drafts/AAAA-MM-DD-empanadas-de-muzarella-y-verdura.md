@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMPANADAS DE MUZARELLA Y VERDURA
-date: '2010-06-19T00:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

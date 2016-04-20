@@ -4,7 +4,7 @@ layout: post
 
 title: BISQUE DE PAPAS Y HIERBAS
 
-date: '2010-06-28T04:06:00.000-07:00'
+
 
 author: Smurf Dad
 

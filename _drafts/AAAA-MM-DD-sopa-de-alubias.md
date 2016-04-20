@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SOPA DE ALUBIAS
-date: '2010-06-19T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

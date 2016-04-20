@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CARRÉ DE TERNERA GALLEGA
-date: '2010-09-04T09:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

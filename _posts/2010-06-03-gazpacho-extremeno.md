@@ -4,7 +4,7 @@ layout: post
 
 title: GAZPACHO EXTREMEÑO
 
-date: '2010-06-03T13:29:00.001-07:00'
+
 
 author: Smurf Dad
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MELÓN ADOBADO
-date: '2010-07-17T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

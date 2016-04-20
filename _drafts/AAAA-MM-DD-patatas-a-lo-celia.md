@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PATATAS A LO CELIA
-date: '2010-07-08T08:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

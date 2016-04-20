@@ -4,7 +4,7 @@ layout: post
 
 title: PATITAS DE CORDERO
 
-date: '2010-08-09T03:18:00.002-07:00'
+
 
 author: Smurf Dad
 

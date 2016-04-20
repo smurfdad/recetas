@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BACALAO ALCARREÑO
-date: '2010-07-11T13:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

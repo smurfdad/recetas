@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CRÊPES DE JAMÓN
-date: '2010-06-29T16:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

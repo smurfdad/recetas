@@ -4,7 +4,7 @@ layout: post
 
 title: ARROZ VERDE
 
-date: '2010-06-02T13:14:00.000-07:00'
+
 
 author: Smurf Dad
 

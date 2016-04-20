@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CALABACINES A LA JARDINERA
-date: '2010-07-10T06:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

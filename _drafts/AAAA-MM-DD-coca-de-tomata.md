@@ -1,7 +1,7 @@
 ---
 layout: post
 title: COCA DE TOMATA
-date: '2010-09-09T21:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

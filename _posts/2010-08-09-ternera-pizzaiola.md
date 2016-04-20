@@ -4,7 +4,7 @@ layout: post
 
 title: TERNERA PIZZAIOLA
 
-date: '2010-08-09T02:41:00.001-07:00'
+
 
 author: Smurf Dad
 

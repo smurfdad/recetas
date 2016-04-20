@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS DE CERDO CON SALSA DE PEREJIL
-date: '2010-09-09T04:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

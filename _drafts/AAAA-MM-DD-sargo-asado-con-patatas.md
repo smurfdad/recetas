@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SARGO ASADO CON PATATAS
-date: '2010-10-10T07:30:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

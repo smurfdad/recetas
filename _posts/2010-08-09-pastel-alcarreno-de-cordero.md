@@ -4,7 +4,7 @@ layout: post
 
 title: PASTEL ALCARREÑO DE CORDERO
 
-date: '2010-08-09T03:00:00.001-07:00'
+
 
 author: Smurf Dad
 

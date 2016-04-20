@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CHULETAS A LA ARAGONESA
-date: '2010-09-09T00:00:00.000-07:00'
+
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

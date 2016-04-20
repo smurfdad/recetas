@@ -4,7 +4,7 @@ layout: post
 
 title: PATATAS GRATINADAS CON QUESO GRUYERE
 
-date: '2010-08-09T03:21:00.000-07:00'
+
 
 author: Smurf Dad
 
