@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MOUSSE DE AGUACATE CON NUECES
@@ -8,7 +7,6 @@ categories:
 - Frutas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

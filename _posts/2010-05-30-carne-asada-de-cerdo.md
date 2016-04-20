@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CARNE ASADA DE CERDO
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 pieza de aproximadamente 1 kg. o 1 1/4 (lomo, cabeza, etc.) La cabeza de lomo aunque con un poco de más grasa, resulta mucho más jugosa.

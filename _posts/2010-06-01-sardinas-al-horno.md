@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SARDINAS AL HORNO
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 20 sardinas frescas

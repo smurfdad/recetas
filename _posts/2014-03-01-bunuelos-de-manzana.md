@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: BUÑUELOS DE MANZANA
@@ -10,7 +9,6 @@ categories:
 - Frutas
 
 ---
-
 <h3>Ingredientes</h3>
 
 4 manzanas ácidas

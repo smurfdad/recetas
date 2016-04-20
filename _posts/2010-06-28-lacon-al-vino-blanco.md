@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LACÓN AL VINO BLANCO
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 650 gr. de lacón fresco

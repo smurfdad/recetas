@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CALDERETA DE PESCADORES
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 4 rodajas de mújol

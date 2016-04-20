@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 tarros de piña (ananás)

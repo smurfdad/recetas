@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MACARRONES Y FIDEOS CON MEJILLONES
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 6 personas.
 
 <b>Tiempo</b> 60 minutos.

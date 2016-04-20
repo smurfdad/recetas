@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1kg de calabacín.

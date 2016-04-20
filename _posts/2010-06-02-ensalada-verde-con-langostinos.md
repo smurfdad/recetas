@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA VERDE CON LANGOSTINOS
@@ -9,7 +8,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 1 personas.
 
 <h3>Ingredientes</h3>

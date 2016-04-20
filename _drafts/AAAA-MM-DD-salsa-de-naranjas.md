@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 El jugo de 6 naranjas

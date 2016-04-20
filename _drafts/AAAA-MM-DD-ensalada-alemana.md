@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 200 grs. de col blanca

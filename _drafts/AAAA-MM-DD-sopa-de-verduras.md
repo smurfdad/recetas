@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 Para 4 personas.
 <b>Tiempo</b> 30 minutos.
 

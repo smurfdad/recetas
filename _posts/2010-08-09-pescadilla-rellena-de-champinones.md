@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PESCADILLA RELLENA DE CHAMPIÑONES
@@ -9,7 +8,6 @@ categories:
 - Setas y hongos
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 1/2 de pescadilla

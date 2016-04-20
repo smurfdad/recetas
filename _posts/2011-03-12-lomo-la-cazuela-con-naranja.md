@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LOMO A LA CAZUELA CON NARANJA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 kg. de lomo (en un trozo)

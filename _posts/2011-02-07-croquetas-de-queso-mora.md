@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CROQUETAS DE QUESO MORA
@@ -9,7 +8,6 @@ categories:
 - Entrantes y bocadillos
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 litro de leche

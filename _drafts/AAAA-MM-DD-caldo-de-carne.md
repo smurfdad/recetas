@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 5 litros de agua

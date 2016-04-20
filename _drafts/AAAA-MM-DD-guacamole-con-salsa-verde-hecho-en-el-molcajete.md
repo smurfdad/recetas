@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 libra tomatillos (unas cuatro medianos), pelados y lavados en agua tibia

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PESCADO AL HORNO
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 Para 2 personas.
 
 <h3>Ingredientes</h3>

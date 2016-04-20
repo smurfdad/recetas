@@ -22,7 +22,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 500 gramos de espaguetis

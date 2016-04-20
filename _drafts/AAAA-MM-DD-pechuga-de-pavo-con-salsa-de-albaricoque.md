@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 pechuga de pavo de unos 600 g.

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PASTEL DE TOMATES
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 pasta de hojaldre para hornear

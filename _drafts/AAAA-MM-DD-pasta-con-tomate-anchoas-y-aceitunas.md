@@ -21,7 +21,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 cucharadas de aceite

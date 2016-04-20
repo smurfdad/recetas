@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 pollo de 1,5k limpio y en presas

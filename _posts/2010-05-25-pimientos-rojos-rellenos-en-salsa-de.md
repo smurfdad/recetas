@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PIMIENTOS ROJOS RELLENOS EN SALSA DE CHIPIRÓN
@@ -9,7 +8,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

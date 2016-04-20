@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 tarrina de 150 gr. de queso Philadelphia

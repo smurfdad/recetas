@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 un rollo de carne,puede ser de ternera,de cerdo,solomillo...

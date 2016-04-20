@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 700 gramos de carne vacuna, (carne con hueso)

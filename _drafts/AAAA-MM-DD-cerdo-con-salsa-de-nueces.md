@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1.200 kg. de lomo de cerdo entero

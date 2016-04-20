@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 taza de nuez de castilla picada

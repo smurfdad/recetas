@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOPA DE CEBOLLA GRATINADA
@@ -9,7 +8,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

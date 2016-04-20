@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: FINGERS DE QUESO
@@ -8,7 +7,6 @@ categories:
 - Entrantes y bocadillos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

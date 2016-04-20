@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CARNE ESCABECHADA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

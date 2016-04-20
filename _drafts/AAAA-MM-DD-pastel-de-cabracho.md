@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 Para 8 personas.
 <b>Tiempo</b> 60 minutos.
 

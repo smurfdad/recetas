@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 litro de nata liquida

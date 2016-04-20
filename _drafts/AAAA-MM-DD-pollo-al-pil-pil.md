@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 5 personas.
 <b>Tiempo</b> 40 minutos.
 

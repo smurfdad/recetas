@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LASAÑA DE POLLO Y HONGOS PORTOBELLO
@@ -10,7 +9,6 @@ categories:
 - Setas y hongos
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 Paquete de lasagna

@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 2 personas.
 <b>Tiempo</b> 60 minutos.
 

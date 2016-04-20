@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CAKE DE ARROZ
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

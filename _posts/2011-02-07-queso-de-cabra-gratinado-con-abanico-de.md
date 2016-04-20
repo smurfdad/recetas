@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: QUESO DE CABRA GRATINADO CON ABANICO DE JAMÓN DE PATO Y TOMATE CONFITADO
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 600 gr. de queso de cabra (rollo)

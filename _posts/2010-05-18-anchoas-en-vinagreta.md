@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ANCHOAS EN VINAGRETA
@@ -10,7 +9,6 @@ categories:
 tags:
 - anchoas
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

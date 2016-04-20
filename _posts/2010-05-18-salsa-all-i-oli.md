@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SALSA ALL-I-OLI
@@ -8,7 +7,6 @@ categories:
 - Salsas
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

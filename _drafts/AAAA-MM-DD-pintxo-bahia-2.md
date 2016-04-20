@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <b>Tiempo</b> 6 minutos.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PASTEL DE PUERROS Y GAMBAS
@@ -9,7 +8,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

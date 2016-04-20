@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TARTA HELADA DE QUESO
@@ -9,7 +8,6 @@ categories:
 - Postres y dulces
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOPA MARINA
@@ -10,7 +9,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 8 personas.
 
 <b>Tiempo</b> 50 minutos.

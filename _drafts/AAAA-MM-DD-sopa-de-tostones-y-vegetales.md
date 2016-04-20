@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 plátano verde (No banana)

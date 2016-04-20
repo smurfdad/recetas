@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: FOIE-GRAS DE CERDO
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 kg. tocino

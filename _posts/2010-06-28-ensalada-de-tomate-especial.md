@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE TOMATE ESPECIAL
@@ -8,7 +7,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

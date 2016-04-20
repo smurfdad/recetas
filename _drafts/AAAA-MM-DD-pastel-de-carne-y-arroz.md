@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 500g carne picada

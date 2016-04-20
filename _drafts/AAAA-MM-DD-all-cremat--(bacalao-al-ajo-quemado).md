@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 8 trozos de Bacalao de unos 100 gr. cada uno

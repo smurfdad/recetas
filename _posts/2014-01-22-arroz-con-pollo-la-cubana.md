@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ CON POLLO A LA CUBANA
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

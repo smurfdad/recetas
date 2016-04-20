@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 Unas tiras de bacalao desalado tras 24 horas de remojo

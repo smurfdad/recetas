@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LASAÑA DE CHAMPIÑONES
@@ -9,7 +8,6 @@ categories:
 - Setas y hongos
 
 ---
-
 <h3>Ingredientes</h3>
 
 350 gramos de champiñones

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ESPAGUETIS CON SALMÓN
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 1 personas.
 
 <h3>Ingredientes</h3>

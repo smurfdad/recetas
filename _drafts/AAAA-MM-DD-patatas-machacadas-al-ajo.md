@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 10 personas.
 <b>Tiempo</b> 40 minutos.
 

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CUS CUS CON CARNE
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

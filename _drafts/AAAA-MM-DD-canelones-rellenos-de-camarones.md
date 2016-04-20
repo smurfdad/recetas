@@ -21,7 +21,6 @@ categories:
 - Pastas
 
 ---
-
 Para 3 personas.
 <b>Tiempo</b> 30 minutos.
 

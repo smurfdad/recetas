@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PASTEL DE LIMÓN
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

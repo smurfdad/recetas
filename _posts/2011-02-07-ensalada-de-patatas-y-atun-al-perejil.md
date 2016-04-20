@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE PATATAS Y ATÚN AL PEREJIL
@@ -9,7 +8,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 4 patatas hervidas en cubitos

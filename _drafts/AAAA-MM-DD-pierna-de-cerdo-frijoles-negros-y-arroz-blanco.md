@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 pierna de cerdo o trozo magro de cerdo en una pieza (2,5 Kg. aproximadamente)

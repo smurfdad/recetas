@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CERDO CON PIÑA
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 Kg de cerdo para guisar

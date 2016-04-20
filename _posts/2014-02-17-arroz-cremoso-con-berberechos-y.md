@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ CREMOSO CON BERBERECHOS Y MEJILLONES
@@ -9,7 +8,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

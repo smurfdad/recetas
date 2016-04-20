@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 30 galletas tipo maría (según diámetro del molde desmontable)

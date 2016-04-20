@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 4 ó 6 tiras de Bacalao de la parte más gruesa

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PASTA CON HONGOS
@@ -9,7 +8,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PERDIZ ESCABECHADA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>6 perdices de 300 gr

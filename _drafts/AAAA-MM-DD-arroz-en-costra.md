@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 pollo 400 gr. de arroz

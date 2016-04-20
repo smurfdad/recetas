@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 <h3>Ingredientes</h3>
 
 8 tazas de caldo de pollo,de preferencia concentrado

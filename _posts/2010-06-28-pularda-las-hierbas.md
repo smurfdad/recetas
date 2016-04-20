@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PULARDA A LAS HIERBAS
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 pularda de 1, 1/2 kg.

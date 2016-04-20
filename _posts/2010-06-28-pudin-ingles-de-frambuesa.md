@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PUDÍN INGLÉS DE FRAMBUESA
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 Para 3 personas.
 
 <h3>Ingredientes</h3>

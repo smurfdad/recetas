@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 tomates pelados sin semillas y picados 1 lata de puré de tomates

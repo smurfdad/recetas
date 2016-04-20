@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOLOMILLO DE CERDO CON CHAMPIÑÓN
@@ -9,7 +8,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

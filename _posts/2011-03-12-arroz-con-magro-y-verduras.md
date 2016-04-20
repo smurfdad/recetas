@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ CON MAGRO Y VERDURAS
@@ -10,7 +9,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

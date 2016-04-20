@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE PASTA
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

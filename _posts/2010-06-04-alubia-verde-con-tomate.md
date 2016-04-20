@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ALUBIA VERDE CON TOMATE
@@ -8,7 +7,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

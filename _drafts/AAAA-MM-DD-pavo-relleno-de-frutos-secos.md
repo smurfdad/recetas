@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 pavo de 2 Kg aprox.

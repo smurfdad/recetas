@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 400gr de pechuga de pollo.

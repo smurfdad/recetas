@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE FIDEOS
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 250 grs. de fideos

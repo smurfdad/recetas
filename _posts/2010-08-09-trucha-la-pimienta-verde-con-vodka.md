@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TRUCHA A LA PIMIENTA VERDE CON VODKA
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

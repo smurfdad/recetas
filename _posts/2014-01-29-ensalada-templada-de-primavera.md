@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA TEMPLADA DE PRIMAVERA
@@ -8,7 +7,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 aceite de oliva virgen

@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 Para 3 personas.
 <b>Tiempo</b> 45 minutos.
 

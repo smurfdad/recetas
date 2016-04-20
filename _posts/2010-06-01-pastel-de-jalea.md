@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PASTEL DE JALEA
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 tazas de azúcar

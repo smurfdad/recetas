@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ROLLITOS DE POLLO
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

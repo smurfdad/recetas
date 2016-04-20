@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MUFFINS DE QUESO
@@ -8,7 +7,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 tazas de harina preparada para bísquetes

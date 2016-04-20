@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADILLA RUSA
@@ -8,7 +7,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

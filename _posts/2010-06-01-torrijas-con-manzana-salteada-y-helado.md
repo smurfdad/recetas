@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TORRIJAS CON MANZANA SALTEADA Y HELADO DE MANZANA
@@ -10,7 +9,6 @@ categories:
 - Frutas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ESPAGUETIS CON ALMEJAS Y MEJILLONES
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.

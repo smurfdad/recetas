@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: FANTASÍA DE AVELLANA
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 <h3>Ingredientes</h3>
 
 100 gr de clara de huevo

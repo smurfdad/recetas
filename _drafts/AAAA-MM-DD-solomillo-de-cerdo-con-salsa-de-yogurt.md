@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 solomillos de cerdo de 400 gramos cada uno

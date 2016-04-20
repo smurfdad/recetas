@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: DORADA A LA CERVEZA, CON CEBOLLA Y AJO
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

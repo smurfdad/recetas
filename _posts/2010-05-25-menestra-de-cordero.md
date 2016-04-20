@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MENESTRA DE CORDERO
@@ -10,7 +9,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

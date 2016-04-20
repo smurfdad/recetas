@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 manojos de espárragos (pueden utilizarse también los enlatados)

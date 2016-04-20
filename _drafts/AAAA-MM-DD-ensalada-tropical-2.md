@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 3 rodajas de piña

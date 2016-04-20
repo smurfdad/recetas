@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ESTOFADO DE MORCILLO
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 500 kg de ternera de morcillo

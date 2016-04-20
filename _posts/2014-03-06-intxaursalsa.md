@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: INTXAURSALSA
@@ -9,7 +8,6 @@ categories:
 - Postres y dulces
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CHEESECAKE DE FRESAS
@@ -9,7 +8,6 @@ categories:
 - Postres y dulces
 
 ---
-
 Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.

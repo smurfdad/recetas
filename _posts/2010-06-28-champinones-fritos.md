@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CHAMPIÑONES FRITOS
@@ -8,7 +7,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

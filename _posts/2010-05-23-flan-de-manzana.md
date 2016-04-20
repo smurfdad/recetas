@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: FLAN DE MANZANA
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ALUBIAS ROJAS
@@ -17,7 +16,6 @@ tags:
 - tocino blanco
 - costilla
 ---
-
 Para 10 personas.
 
 <h3>Ingredientes</h3>

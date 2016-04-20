@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: RAPE EN SALSA DE PUERROS
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TARTA TEMPLADA DE QUESO IDIAZABAL
@@ -9,7 +8,6 @@ categories:
 - Postres y dulces
 
 ---
-
 <h3>Ingredientes</h3>
 
 200 gr. de harina

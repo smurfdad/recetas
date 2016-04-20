@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: EMPANADAS DE ESPINACAS Y RICOTA LIGTH
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 <h3>Ingredientes</h3>
 
 24 discos para empanadas

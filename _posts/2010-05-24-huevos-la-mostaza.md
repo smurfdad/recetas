@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: HUEVOS A LA MOSTAZA
@@ -8,7 +7,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

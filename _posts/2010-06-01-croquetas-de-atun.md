@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CROQUETAS DE ATÚN
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 cebolla y 1 pimiento verde

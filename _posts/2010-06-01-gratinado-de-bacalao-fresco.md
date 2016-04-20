@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: GRATINADO DE BACALAO FRESCO
@@ -9,7 +8,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

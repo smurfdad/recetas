@@ -22,7 +22,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 kilo de pasta de lacitos con espinaca

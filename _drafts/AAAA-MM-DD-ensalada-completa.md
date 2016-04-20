@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 <b>Tiempo</b> 15 minutos.
 
 <h3>Ingredientes</h3>

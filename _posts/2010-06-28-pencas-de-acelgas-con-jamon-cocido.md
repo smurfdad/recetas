@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PENCAS DE ACELGAS CON JAMÓN COCIDO
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 2 personas.
 
 <h3>Ingredientes</h3>

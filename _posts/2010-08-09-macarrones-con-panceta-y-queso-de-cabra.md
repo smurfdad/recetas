@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MACARRONES CON PANCETA Y QUESO DE CABRA
@@ -8,7 +7,6 @@ categories:
 - Pastas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

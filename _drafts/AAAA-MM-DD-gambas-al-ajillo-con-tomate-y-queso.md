@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 1 personas.
 <b>Tiempo</b> 1200 minutos.
 

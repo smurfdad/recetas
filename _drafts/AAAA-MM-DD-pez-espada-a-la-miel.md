@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 Para 4 personas.
 <b>Tiempo</b> 24 minutos.
 

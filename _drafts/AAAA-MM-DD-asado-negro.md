@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 a 2 1/2 kilos de muchacho cuadrado res con su grasa

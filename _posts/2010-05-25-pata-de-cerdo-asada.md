@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PATA DE CERDO ASADA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

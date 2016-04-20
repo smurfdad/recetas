@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TARTA DE NATA
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 <h3>Ingredientes</h3>
 
 Tres paquetitos de nata

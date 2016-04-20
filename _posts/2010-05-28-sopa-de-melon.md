@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOPA DE MELÓN
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

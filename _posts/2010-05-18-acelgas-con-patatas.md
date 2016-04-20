@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ACELGAS CON PATATAS
@@ -11,7 +10,6 @@ tags:
 - Acelga
 - Patata
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

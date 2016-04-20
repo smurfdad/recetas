@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 Para 8 personas.
 <b>Tiempo</b> 20 minutos.
 

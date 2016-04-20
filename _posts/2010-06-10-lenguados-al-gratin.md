@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LENGUADOS AL GRATIN
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>1 kilo y 1/2 de lenguados, ya quitada la piel
 
 50 gr. de mantequilla

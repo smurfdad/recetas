@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 bogavante de aprox. 1/2 kilo

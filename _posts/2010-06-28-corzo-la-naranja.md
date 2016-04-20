@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CORZO A LA NARANJA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 Un lomo de corzo

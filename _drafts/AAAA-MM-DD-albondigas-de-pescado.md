@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 3/4k de Bacalao (remojado 24 hs.) o abadejo fresco.

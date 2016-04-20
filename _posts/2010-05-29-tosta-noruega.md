@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TOSTA NORUEGA
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

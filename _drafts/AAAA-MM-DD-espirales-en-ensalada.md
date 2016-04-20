@@ -22,7 +22,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 Pasta de espirales

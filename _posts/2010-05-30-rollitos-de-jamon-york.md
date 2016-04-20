@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ROLLITOS DE JAMÓN YORK
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 2 personas.
 
 <h3>Ingredientes</h3>

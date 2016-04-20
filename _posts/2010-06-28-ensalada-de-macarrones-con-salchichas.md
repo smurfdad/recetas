@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE MACARRONES CON SALCHICHAS
@@ -10,7 +9,6 @@ categories:
 - Pastas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

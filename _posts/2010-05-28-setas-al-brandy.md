@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SETAS AL BRANDY
@@ -8,7 +7,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

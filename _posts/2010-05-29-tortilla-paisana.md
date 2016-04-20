@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TORTILLA PAISANA
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 10 personas.
 
 <h3>Ingredientes</h3>

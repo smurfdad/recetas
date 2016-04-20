@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LASAÑA DE CHIPIRONES CON ACEITE DE CEBOLLINO Y CHIPIRÓN
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

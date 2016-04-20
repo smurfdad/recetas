@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ALMEJAS A LA MARINERA
@@ -15,7 +14,6 @@ tags:
 - aceite
 - perejil
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

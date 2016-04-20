@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CHIPIRONES EN SU TINTA
@@ -8,7 +7,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

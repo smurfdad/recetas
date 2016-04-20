@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 300 gramos de caraotas pintas tiernas (frijoles frescos)(Borlotti)

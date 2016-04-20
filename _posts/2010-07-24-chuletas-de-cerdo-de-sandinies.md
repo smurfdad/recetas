@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CHULETAS DE CERDO DE SANDINIÉS
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

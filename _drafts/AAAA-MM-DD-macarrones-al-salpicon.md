@@ -21,7 +21,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 kg. carne picada de ternera

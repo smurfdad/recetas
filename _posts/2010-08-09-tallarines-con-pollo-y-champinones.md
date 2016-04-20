@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TALLARINES CON POLLO Y CHAMPIÑONES
@@ -10,7 +9,6 @@ categories:
 - Setas y hongos
 
 ---
-
 <h3>Ingredientes</h3>
 
 500 gr. de tallarines

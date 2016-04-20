@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 6 personas.
 <b>Tiempo</b> 150 minutos.
 

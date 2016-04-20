@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ SALTEADO CON OMELETTE DE VEGETALES
@@ -9,7 +8,6 @@ categories:
 - Arroces
 
 ---
-
 Para 7 personas.
 
 <h3>Ingredientes</h3>

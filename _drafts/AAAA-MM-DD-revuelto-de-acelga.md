@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 y 1/2 taza de acelga hervida, escurrida y picada

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PATATAS VIUDAS A LA RIOJANA
@@ -8,7 +7,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>1 kilo de patatas.

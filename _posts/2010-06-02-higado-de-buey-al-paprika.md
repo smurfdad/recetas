@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: HÍGADO DE BUEY AL PAPRIKA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

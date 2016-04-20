@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 Kilo de Chuletas de Cerdo

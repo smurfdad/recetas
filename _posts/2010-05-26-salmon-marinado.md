@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SALMÓN MARINADO
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 Para 10 personas.
 
 <h3>Ingredientes</h3>

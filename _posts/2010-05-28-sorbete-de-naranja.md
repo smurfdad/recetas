@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SORBETE DE NARANJA
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 Para 9 personas.
 
 <h3>Ingredientes</h3>

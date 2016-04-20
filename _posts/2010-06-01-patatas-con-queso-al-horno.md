@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PATATAS CON QUESO AL HORNO
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 <h3>Ingredientes</h3>
 
 6 Patatas grandes peladas

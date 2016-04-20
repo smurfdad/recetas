@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CALAMARES RELLENOS
@@ -8,7 +7,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 <h3>Ingredientes</h3>cuatro calamares frescos
 
 dos latas de atun

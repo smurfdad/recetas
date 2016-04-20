@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 Para 4 personas.
 <b>Tiempo</b> 20 minutos.
 

@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 lata (150 grs. aprox.) de aceitunas verdes con hueso

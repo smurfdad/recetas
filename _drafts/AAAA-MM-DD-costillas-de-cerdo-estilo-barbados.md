@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 kilos de costillas, cortados en raciones de una o dos costillas.

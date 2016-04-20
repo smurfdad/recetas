@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MERLUZA CON SALSA DE PIMIENTOS VERDES
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 4 lomos de merluza (150 grs. cada uno).

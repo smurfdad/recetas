@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ALUBIAS BLANCAS - POCHAS
@@ -15,7 +14,6 @@ tags:
 - aceite
 - pimentón
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

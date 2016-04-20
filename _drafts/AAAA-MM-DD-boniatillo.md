@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 5 personas.
 <b>Tiempo</b> 45 minutos.
 

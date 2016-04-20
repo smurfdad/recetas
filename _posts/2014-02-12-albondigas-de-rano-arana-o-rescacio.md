@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ALBÓNDIGAS DE RAÑO, ARAÑA O RESCACIO
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.

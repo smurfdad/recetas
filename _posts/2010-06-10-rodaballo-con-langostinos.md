@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: RODABALLO CON LANGOSTINOS
@@ -9,7 +8,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>1 Kg y 1/2 de rodaballo cortado en rodajas

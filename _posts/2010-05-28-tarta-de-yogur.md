@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TARTA DE YOGUR
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

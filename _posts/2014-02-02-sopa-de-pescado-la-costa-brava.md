@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOPA DE PESCADO A LA COSTA BRAVA
@@ -9,7 +8,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

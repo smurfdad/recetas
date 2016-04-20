@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CANELONES SUPREMA
@@ -8,7 +7,6 @@ categories:
 - Pastas
 
 ---
-
 Para 5 personas.
 
 <h3>Ingredientes</h3>

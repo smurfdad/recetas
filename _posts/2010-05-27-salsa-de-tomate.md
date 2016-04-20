@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SALSA DE TOMATE
@@ -8,7 +7,6 @@ categories:
 - Salsas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

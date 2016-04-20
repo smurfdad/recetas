@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ VERDE
@@ -8,7 +7,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 1/2 tazas de arroz

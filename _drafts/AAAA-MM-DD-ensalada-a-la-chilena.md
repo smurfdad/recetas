@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 6 personas.
 <b>Tiempo</b> 18 minutos.
 

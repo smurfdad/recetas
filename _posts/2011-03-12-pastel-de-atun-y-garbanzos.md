@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PASTEL DE ATÚN Y GARBANZOS
@@ -9,7 +8,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 10 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MOUSSE DE CHOCOLATE
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 <h3>Ingredientes</h3>
 
 300 grs. de chocolate de cobertura

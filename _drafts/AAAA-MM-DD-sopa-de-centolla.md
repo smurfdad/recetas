@@ -22,7 +22,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 centollas

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LANGOSTINOS COCIDOS
@@ -8,7 +7,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 12 personas.
 
 <h3>Ingredientes</h3>

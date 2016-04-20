@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LASAÑA DE PRIMAVERA
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 6 placas de lasaña.

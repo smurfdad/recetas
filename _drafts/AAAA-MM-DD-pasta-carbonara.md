@@ -21,7 +21,6 @@ categories:
 - Pastas
 
 ---
-
 Para 4 personas.
 <b>Tiempo</b> 54 minutos.
 

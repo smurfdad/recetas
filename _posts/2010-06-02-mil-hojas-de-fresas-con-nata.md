@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MIL HOJAS DE FRESAS CON NATA
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

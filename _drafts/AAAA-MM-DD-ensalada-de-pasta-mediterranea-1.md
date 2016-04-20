@@ -22,7 +22,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 caja de pasta de espirales

@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 Para 12 personas.
 <b>Tiempo</b> 15 minutos.
 

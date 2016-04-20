@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TORTILLA PORTUGUESA
@@ -8,7 +7,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 1 personas.
 
 <h3>Ingredientes</h3>

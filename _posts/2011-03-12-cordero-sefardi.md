@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CORDERO SEFARDÍ
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 Una pierna de cordero deshuesada y hecha filetes.

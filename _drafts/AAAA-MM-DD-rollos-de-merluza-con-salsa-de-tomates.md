@@ -21,7 +21,6 @@ categories:
 - Pescados
 
 ---
-
 Para 2 personas.
 <b>Tiempo</b> 70 minutos.
 

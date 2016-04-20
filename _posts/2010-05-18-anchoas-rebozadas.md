@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ANCHOAS REBOZADAS
@@ -11,7 +10,6 @@ tags:
 - anchoas
 - huevo
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

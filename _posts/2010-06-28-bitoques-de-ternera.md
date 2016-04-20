@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: BITOQUES DE TERNERA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 3/4 de kilo de ternera picada

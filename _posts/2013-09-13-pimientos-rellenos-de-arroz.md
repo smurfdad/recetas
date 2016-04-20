@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PIMIENTOS RELLENOS DE ARROZ
@@ -10,7 +9,6 @@ categories:
 - Entrantes y bocadillos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

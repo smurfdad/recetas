@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MEDALLONES DE RAPE AL ROMESCU
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 Rape 2 kg

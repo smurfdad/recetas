@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LOMOS DE BONITO ENCEBOLLADOS
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 Bonito 0,88 kg

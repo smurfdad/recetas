@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 4 piezas de pollo de preferencia pechuga o pierna y muslo.

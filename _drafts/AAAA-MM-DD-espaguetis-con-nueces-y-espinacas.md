@@ -21,7 +21,6 @@ categories:
 - Pastas
 
 ---
-
 <h3>Ingredientes</h3>
 
 400 gr. de espaguetis

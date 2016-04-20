@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOPA DE BRECOL Y QUESO
@@ -9,7 +8,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 Para 4 personas.
 
 <b>Tiempo</b> 20 minutos.

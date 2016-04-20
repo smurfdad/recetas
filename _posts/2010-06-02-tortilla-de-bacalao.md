@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TORTILLA DE BACALAO
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 1 personas.
 
 <h3>Ingredientes</h3>

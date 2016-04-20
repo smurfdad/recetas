@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: GARBANZOS DE VIGILIA
@@ -8,7 +7,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

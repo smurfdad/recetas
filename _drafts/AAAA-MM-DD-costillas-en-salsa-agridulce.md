@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 Kg. De costillas de res cortadas en pedazos pequeños

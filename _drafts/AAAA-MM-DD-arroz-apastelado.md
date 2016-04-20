@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 Para 10 personas.
 <b>Tiempo</b> 45 minutos.
 

@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 Para 10 personas.
 
 <h3>Ingredientes</h3>

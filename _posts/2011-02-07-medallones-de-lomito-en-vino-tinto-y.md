@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MEDALLONES DE LOMITO EN VINO TINTO Y MILHOJAS DE PATATAS
@@ -9,7 +8,6 @@ categories:
 - Setas y hongos
 
 ---
-
 <h3>Ingredientes</h3>
 
 Dos medallones de lomito de 100 g c/u

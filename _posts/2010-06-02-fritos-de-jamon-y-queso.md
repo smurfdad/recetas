@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: FRITOS DE JAMÓN Y QUESO
@@ -8,7 +7,6 @@ categories:
 - Entrantes y bocadillos
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 litro de leche

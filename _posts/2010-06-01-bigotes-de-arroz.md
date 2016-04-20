@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: BIGOTES DE ARROZ
@@ -9,7 +8,6 @@ categories:
 - Postres y dulces
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 taza de arroz lavado

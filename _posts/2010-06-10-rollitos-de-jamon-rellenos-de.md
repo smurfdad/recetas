@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ROLLITOS DE JAMÓN RELLENOS DE ENSALADILLA RUSA
@@ -10,7 +9,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>8 lonchas de jamón

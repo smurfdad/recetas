@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CALABAZA CON PILONCILLO.
@@ -8,7 +7,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 3 personas.
 
 <h3>Ingredientes</h3>

@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 4 personas.
 <b>Tiempo</b> 95 minutos.
 

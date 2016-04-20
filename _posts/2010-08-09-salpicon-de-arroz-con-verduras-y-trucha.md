@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SALPICÓN DE ARROZ CON VERDURAS Y TRUCHA
@@ -10,7 +9,6 @@ categories:
 - Arroces
 
 ---
-
 Para 2 personas.
 
 <h3>Ingredientes</h3>

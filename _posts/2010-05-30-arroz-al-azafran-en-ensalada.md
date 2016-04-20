@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ AL AZAFRÁN EN ENSALADA
@@ -9,7 +8,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

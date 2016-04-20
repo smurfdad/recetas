@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 Para 6 personas.
 <b>Tiempo</b> 60 minutos.
 

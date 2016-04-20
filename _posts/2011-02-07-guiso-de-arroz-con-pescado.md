@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: GUISO DE ARROZ CON PESCADO
@@ -9,7 +8,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 pescados secos

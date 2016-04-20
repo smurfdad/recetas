@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 Un hígado de oca, o en su defecto, grasa de oca

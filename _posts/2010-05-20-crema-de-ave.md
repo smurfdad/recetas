@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CREMA DE AVE
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: BOLLOS DE CARNAVAL
@@ -8,7 +7,6 @@ categories:
 - Postres y dulces
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 kg de harina

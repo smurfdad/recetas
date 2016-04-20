@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ A LA CUBANA
@@ -8,7 +7,6 @@ categories:
 - Arroces
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

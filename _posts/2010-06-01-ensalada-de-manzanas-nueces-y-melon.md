@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE MANZANAS, NUECES Y MELÓN
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

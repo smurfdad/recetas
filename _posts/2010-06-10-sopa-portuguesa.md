@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOPA PORTUGUESA
@@ -8,7 +7,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 <h3>Ingredientes</h3>media col verde.
 
 1 chorizo de puerco fresco.

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CREMA DE ALBARICOQUE AL QUESO
@@ -10,7 +9,6 @@ categories:
 - Frutas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

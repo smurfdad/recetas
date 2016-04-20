@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 bizcocho redondo de unos 20 cm de di metro y 3 cm de alto

@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 carne de solomillo de ternera y de cerdo cortada en trozos pequeños

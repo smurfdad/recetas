@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 1 personas.
 
 <h3>Ingredientes</h3>

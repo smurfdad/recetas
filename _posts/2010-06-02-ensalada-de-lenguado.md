@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE LENGUADO
@@ -9,7 +8,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

@@ -22,7 +22,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 litros de caldo de pollo

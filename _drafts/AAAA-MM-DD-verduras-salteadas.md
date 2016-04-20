@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 500 gramos de verdura de hojas verdes, como cansnigos, berros, espinacas.

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: HUEVOS ESCALFADOS FIORENTINA
@@ -8,7 +7,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

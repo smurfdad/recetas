@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 4 personas.
 <b>Tiempo</b> 70 minutos.
 

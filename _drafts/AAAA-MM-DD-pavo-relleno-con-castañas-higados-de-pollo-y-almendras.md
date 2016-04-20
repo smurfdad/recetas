@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 20 personas.
 
 <h3>Ingredientes</h3>

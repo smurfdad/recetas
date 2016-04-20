@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PIMIENTOS RELLENOS DE MARISCO
@@ -9,7 +8,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 lata de pimientos del piquillo

@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 6 piñas enanas vacías, relleno de las piñas partido en trozos pequeños

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TRUCHA CON SALSA DE BERROS
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 800 gr. de trucha

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE POLLO Y POMELO
@@ -10,7 +9,6 @@ categories:
 - Frutas
 
 ---
-
 Para 2 personas.
 
 <h3>Ingredientes</h3>

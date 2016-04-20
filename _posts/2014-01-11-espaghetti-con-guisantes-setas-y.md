@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ESPAGHETTI CON GUISANTES, SETAS Y CALABAZA
@@ -10,7 +9,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

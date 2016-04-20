@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TORTILLA DE PATATA
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 <h3>Ingredientes</h3>
 
 4 patatas medianas

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE PIMIENTOS ROJOS
@@ -8,7 +7,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 kilo de pimientos rojos

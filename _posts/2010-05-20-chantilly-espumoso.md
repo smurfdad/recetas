@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CHANTILLY ESPUMOSO
@@ -7,7 +6,6 @@ title: CHANTILLY ESPUMOSO
 categories: 
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 vaso de agua de nata

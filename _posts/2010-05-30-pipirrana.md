@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PIPIRRANA
@@ -8,7 +7,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 3 tomates grandes para ensalada.

@@ -22,7 +22,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 125 Gr. de de frijolito chino

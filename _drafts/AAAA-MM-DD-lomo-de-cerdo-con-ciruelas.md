@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 12 personas.
 
 <h3>Ingredientes</h3>

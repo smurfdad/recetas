@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

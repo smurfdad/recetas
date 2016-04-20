@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: HUEVOS DE COLOR
@@ -10,7 +9,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

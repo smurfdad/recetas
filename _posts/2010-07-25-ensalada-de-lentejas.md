@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE LENTEJAS
@@ -9,7 +8,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 1 personas.
 
 <b>Tiempo</b> 20 minutos.

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ CON VERDURAS Y HUEVO ESCALFADO
@@ -10,7 +9,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 cebolleta

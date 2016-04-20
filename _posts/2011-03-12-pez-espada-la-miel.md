@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PEZ ESPADA A LA MIEL
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 kg. de pez espada cortado en filetes

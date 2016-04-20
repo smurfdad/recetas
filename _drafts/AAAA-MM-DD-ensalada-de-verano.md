@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 2 personas.
 
 <h3>Ingredientes</h3>

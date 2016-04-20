@@ -21,7 +21,6 @@ categories:
 - Pastas
 
 ---
-
 Para 5 personas.
 <b>Tiempo</b> 30 minutos.
 

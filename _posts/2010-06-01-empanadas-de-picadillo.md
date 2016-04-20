@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: EMPANADAS DE PICADILLO
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 tazas de harina

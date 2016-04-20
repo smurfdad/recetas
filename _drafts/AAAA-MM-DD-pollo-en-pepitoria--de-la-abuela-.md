@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <b>Tiempo</b> 120 minutos.
 
 <h3>Ingredientes</h3>

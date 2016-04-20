@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: BRANDADA DE BACALAO
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 400 gr de bacalao salado

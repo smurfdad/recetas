@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CALDERA DE PESCADO Y MARISCO
@@ -9,7 +8,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 4 personas.
 
 <b>Tiempo</b> 60 minutos.

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SOPA DE HIGADILLOS
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 
 <b>Tiempo</b> 60 minutos.

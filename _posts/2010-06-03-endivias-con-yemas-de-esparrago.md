@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENDIVIAS CON YEMAS DE ESPÁRRAGO
@@ -8,7 +7,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 6 endibias

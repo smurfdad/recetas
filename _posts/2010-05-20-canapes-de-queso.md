@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CANAPÉS DE QUESO
@@ -9,7 +8,6 @@ categories:
 - Entrantes y bocadillos
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

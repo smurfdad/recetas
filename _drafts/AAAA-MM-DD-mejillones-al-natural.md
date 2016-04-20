@@ -21,7 +21,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 3 personas.
 
 <h3>Ingredientes</h3>

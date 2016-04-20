@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PIMIENTOS RELLENOS DE CHATKA
@@ -9,7 +8,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 8 personas.
 <b>Tiempo</b> 75 minutos.
 

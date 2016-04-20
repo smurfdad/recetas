@@ -21,7 +21,6 @@ categories:
 - Pastas
 
 ---
-
 Para 6 personas.
 <b>Tiempo</b> 54 minutos.
 

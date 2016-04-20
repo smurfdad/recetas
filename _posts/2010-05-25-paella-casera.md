@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PAELLA CASERA
@@ -8,7 +7,6 @@ categories:
 - Arroces
 
 ---
-
 Para 10 personas.
 
 <h3>Ingredientes</h3>

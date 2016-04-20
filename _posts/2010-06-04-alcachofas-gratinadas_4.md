@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ALCACHOFAS GRATINADAS
@@ -8,7 +7,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 kilos de alcachofas frescas

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PATATAS A LA RIOJANA
@@ -8,7 +7,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 Kg de patatas

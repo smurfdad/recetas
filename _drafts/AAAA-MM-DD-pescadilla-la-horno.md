@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 Una bolsa de filetes de pescadilla congelada de 500 gr. aproximadamente.

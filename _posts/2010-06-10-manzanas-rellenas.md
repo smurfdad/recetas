@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MANZANAS RELLENAS
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>12 manzanas reinetas.

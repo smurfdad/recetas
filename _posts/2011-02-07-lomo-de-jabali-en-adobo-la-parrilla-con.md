@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LOMO DE JABALI EN ADOBO, A LA PARRILLA CON CALABACIN
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

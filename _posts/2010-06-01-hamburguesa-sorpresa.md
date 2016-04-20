@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: HAMBURGUESA SORPRESA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 300grs. de carne de ternera picada

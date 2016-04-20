@@ -21,7 +21,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 8 personas.
 <b>Tiempo</b> 15 minutos.
 

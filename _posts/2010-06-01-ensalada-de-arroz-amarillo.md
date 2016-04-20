@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE ARROZ AMARILLO
@@ -9,7 +8,6 @@ categories:
 - Ensaladas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

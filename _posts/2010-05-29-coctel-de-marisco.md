@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CÓCTEL DE MARISCO
@@ -8,7 +7,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 kg. de gambas frescas.

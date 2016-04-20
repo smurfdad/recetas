@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PURÉ DE CALABAZA
@@ -9,7 +8,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 kilo de calabaza limpia y pelada

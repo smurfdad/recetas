@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 3 pechugas de pollo o un pollo limpio de piel y huesos a ser posible troceado en tacos.

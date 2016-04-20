@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 kg de lomo cortado en cubos de 2 cm de lado aproximadamente

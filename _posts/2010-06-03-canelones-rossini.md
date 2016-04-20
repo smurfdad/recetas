@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CANELONES ROSSINI
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 5 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: BIZCOCHO DE MANZANA
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 <h3>Ingredientes</h3>
 
 750 grs. de manzanas

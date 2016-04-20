@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 3 personas.
 <b>Tiempo</b> 120 minutos.
 

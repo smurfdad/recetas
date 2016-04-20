@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: HUEVOS REVUELTOS CON BACALAO
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

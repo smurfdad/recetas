@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 3 tazas de arroz del dia anterior,este puede ser rojo o blanco.

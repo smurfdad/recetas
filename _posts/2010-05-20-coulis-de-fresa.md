@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: COULIS DE FRESA
@@ -9,7 +8,6 @@ categories:
 - Frutas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/4 de kg. de fresas maduras

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ CON VERDURAS
@@ -9,7 +8,6 @@ categories:
 - Arroces
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

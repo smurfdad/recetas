@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CALLOS A LA CATALANA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 600 gr. de callos cocidos

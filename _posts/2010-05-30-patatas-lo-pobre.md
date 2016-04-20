@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PATATAS A LO POBRE
@@ -8,7 +7,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 kg. de patatas.

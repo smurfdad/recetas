@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: BESUGO A LA ESPALDA
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

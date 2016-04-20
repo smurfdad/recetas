@@ -1,13 +1,11 @@
 ---
-
 layout: post
 
 title: ARROZ A LA MARINERA
 
-categories: 
-
+categories:
+- Arroces
 ---
-
 Para 10 personas.
 
 <h3>Ingredientes</h3>

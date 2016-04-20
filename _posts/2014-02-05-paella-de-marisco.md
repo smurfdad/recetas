@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PAELLA DE MARISCO
@@ -9,7 +8,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 Para 6 personas.
 
 <b>Tiempo</b> 60 minutos.

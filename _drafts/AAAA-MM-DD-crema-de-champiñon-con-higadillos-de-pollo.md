@@ -22,7 +22,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 800 gr. de champiñones

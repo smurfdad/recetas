@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADA DE AGUACATE Y ANCHOAS
@@ -10,7 +9,6 @@ categories:
 - Frutas
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

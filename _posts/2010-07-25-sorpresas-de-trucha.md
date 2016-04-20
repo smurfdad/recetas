@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: SORPRESAS DE TRUCHA
@@ -8,7 +7,6 @@ categories:
 - Pescados
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 trucha hermosa

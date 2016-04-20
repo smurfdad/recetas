@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PECHUGA EN SALSA MEDITERRÁNEA ACOMPAÑADA DE POLENTA CLÁSICA
@@ -8,7 +7,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 pechugas sin hueso

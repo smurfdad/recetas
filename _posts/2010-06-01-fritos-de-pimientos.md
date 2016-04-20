@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: FRITOS DE PIMIENTOS
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

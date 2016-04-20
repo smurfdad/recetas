@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 <h3>Ingredientes</h3>
 
 1 taza de garbanzos puestos en remojo 12 horas y luego ponerlos a cocinar en abundante agua y dos hojas de laurel

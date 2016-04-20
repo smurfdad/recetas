@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ BLANCO
@@ -13,7 +12,6 @@ tags:
 - zanahoria
 - limón
 ---
-
 Para 5 personas.
 
 <h3>Ingredientes</h3>

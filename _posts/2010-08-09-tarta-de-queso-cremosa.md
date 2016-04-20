@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TARTA DE QUESO CREMOSA
@@ -9,7 +8,6 @@ categories:
 - Postres y dulces
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>

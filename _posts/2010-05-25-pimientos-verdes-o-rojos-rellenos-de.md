@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: PIMIENTOS VERDES O ROJOS RELLENOS DE BACALAO
@@ -9,7 +8,6 @@ categories:
 - Verduras y legumbres
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

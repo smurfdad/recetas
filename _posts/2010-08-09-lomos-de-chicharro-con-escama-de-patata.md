@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LOMOS DE CHICHARRO CON ESCAMA DE PATATA Y PERCEBES
@@ -10,7 +9,6 @@ categories:
 - Mariscos y moluscos
 
 ---
-
 <h3>Ingredientes</h3>
 
 Chicharro 1,50 kg

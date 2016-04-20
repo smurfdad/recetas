@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CANELONES DE BACALAO Y AJOARRIERO CON VINAGRETA DE POCHAS Y LANGO
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

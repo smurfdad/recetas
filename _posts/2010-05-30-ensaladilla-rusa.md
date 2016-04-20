@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ENSALADILLA RUSA
@@ -9,7 +8,6 @@ categories:
 - Ensaladas
 
 ---
-
 <h3>Ingredientes</h3>
 
 2 patatas que sean hermosas.

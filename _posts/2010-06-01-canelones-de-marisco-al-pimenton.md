@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CANELONES DE MARISCO AL PIMENTÓN
@@ -9,7 +8,6 @@ categories:
 - Pastas
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

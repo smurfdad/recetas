@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: MUSAKA DE CALABACÍN CON GAMBAS Y ATÚN
@@ -11,7 +10,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 4 personas.
 
 <h3>Ingredientes</h3>

@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: VERDEL O CHICHARRO AHUMADOS
@@ -7,7 +6,6 @@ title: VERDEL O CHICHARRO AHUMADOS
 categories: 
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

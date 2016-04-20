@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: TORTILLAS ALIADAS
@@ -9,7 +8,6 @@ categories:
 - Huevos y lacteos
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

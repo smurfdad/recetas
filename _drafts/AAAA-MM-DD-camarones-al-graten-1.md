@@ -20,7 +20,6 @@ categories:
  
 
 ---
-
 Para 7 personas.
 <b>Tiempo</b> 45 minutos.
 

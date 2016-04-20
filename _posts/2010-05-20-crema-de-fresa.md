@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: CREMA DE FRESA
@@ -10,7 +9,6 @@ categories:
 - Frutas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/2 l. de nata líquida

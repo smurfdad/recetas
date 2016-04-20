@@ -21,7 +21,6 @@ categories:
 - Arroces
 
 ---
-
 <b>Tiempo</b> 60 minutos.
 
 <h3>Ingredientes</h3>

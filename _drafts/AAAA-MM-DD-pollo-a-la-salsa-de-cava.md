@@ -21,7 +21,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 <b>Tiempo</b> 120 minutos.
 

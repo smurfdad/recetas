@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: ARROZ FRITO CHINO
@@ -8,7 +7,6 @@ categories:
 - Arroces
 
 ---
-
 <h3>Ingredientes</h3>
 
 3 tazas de Arroz ya cocido (frito)

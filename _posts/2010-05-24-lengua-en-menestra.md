@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: LENGUA EN MENESTRA
@@ -9,7 +8,6 @@ categories:
 - Carnes y derivados
 
 ---
-
 Para 6 personas.
 
 <h3>Ingredientes</h3>

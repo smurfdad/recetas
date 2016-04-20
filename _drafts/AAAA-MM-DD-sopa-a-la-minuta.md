@@ -21,7 +21,6 @@ categories:
 - Sopas y cremas
 
 ---
-
 <h3>Ingredientes</h3>
 
 1/4 de kg. de carne de loco picado

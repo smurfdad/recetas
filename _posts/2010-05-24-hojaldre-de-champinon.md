@@ -1,5 +1,4 @@
 ---
-
 layout: post
 
 title: HOJALDRE DE CHAMPIÑÓN
@@ -9,7 +8,6 @@ categories:
 - Setas y hongos
 
 ---
-
 Para 8 personas.
 
 <h3>Ingredientes</h3>
