@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5782471421305094409
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/lomo-la-cazuela-con-naranja.html
+
+
 ---
 
 <h3>Ingredientes</h3>

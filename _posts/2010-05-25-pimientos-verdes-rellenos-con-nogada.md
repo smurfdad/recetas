@@ -15,9 +15,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3667153245089797289
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pimientos-verdes-rellenos-con-nogada.html
+
+
 ---
 
 Para 8 personas.

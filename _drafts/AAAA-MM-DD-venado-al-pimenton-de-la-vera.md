@@ -19,7 +19,7 @@ categories:
 - Setas y hongos
  
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4041280228015636086
+
 ---
 
 Para 6 personas.

@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7201720970299842948
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/brandada-de-bacalao.html
+
+
 ---
 
 <h3>Ingredientes</h3>

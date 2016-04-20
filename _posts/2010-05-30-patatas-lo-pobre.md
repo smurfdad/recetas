@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6936039963292531328
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/patatas-lo-pobre.html
+
+
 ---
 
 <h3>Ingredientes</h3>

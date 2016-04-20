@@ -21,7 +21,7 @@ categories:
 - Sopas y cremas
 - Mariscos y moluscos
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3691896709811980562
+
 ---
 
 Para 10 personas.

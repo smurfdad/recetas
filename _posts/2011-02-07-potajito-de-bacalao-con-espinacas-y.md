@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2379112066144847145
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/potajito-de-bacalao-con-espinacas-y.html
+
+
 ---
 
 Para 6 personas.

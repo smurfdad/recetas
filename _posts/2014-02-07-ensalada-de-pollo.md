@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7590540452741034209
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/ensalada-de-pollo.html
+
+
 ---
 
 Para 4 personas.

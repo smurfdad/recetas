@@ -20,7 +20,7 @@ categories:
 
 - Mariscos y moluscos
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-335738480210438552
+
 ---
 
 <h3>Ingredientes</h3>

@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2655640695316441661
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/sopa-portuguesa.html
+
+
 ---
 
 <h3>Ingredientes</h3>media col verde.

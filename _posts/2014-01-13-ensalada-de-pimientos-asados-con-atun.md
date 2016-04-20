@@ -15,9 +15,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3863796525277334538
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/ensalada-de-pimientos-asados-con-atun.html
+
+
 ---
 
 Para 2 personas.

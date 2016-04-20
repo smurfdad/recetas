@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1361820636865282825
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/arroz-con-pasas-y-garbanzos.html
+
+
 ---
 
 Para 4 personas.

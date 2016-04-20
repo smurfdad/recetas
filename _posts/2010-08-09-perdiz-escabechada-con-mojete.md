@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3317765747258405016
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/perdiz-escabechada-con-mojete.html
+
+
 ---
 
 Para 4 personas.

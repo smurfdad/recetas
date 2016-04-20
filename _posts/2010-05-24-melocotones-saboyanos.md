@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2704596941378886028
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/melocotones-saboyanos.html
+
+
 ---
 
 Para 8 personas.

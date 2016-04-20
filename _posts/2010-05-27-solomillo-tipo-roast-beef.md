@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5424312023303700274
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/solomillo-tipo-roast-beef.html
+
+
 ---
 
 Para 6 personas.

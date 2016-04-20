@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2118970194577097199
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/habas-con-jamon.html
+
+
 ---
 
 Para 6 personas.

@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5518723130803725649
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/rollitos-de-salmon.html
+
+
 ---
 
 <h3>Ingredientes</h3>

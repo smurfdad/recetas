@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8011863612304666008
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/lomo-de-cerdo-wellington.html
+
+
 ---
 
 Para 6 personas.

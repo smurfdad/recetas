@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8225124771150064448
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/bruselas-en-vino-blanco.html
+
+
 ---
 
 Para 6 personas.

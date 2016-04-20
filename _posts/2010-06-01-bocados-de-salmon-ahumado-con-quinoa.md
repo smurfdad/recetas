@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3599253311046844890
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/bocados-de-salmon-ahumado-con-quinoa.html
+
+
 ---
 
 Para 4 personas.

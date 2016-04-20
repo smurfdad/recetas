@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1361966185633979903
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/lomos-de-bonito-encebollados.html
+
+
 ---
 
 <h3>Ingredientes</h3>

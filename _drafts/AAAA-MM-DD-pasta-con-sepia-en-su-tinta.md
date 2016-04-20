@@ -20,7 +20,7 @@ categories:
 
 - Pastas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4392768589992808650
+
 ---
 
 Para 6 personas.

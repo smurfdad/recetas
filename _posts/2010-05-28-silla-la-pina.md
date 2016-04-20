@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2146515082023615654
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/silla-la-pina.html
+
+
 ---
 
 Para 8 personas.

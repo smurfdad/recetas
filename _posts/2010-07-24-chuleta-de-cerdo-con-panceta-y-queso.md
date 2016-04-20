@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1399480842371020987
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/chuleta-de-cerdo-con-panceta-y-queso.html
+
+
 ---
 
 Para 4 personas.

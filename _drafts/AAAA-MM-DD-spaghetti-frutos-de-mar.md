@@ -21,7 +21,7 @@ categories:
 - Mariscos y moluscos
 - Pastas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-327936386362197880
+
 ---
 
 Para 4 personas.

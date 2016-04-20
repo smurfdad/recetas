@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8927095786663932906
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/tostadas-de-pan.html
+
+
 ---
 
 Para 8 personas.

@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-11443780852885299
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/mero-con-salsa-de-setas.html
+
+
 ---
 
 Para 4 personas.

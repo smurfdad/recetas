@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5699615569032958862
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/pescadilla-rellena-de-champinones.html
+
+
 ---
 
 <h3>Ingredientes</h3>

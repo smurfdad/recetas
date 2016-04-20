@@ -20,7 +20,7 @@ categories:
 
 - Ensaladas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3397319196234700248
+
 ---
 
 <h3>Ingredientes</h3>

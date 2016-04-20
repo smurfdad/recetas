@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1231464048636252428
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/01/escabeche-para-pescado.html
+
+
 ---
 
 Para 4 personas.

@@ -15,9 +15,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2196782626068437
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/menestra-de-cordero.html
+
+
 ---
 
 Para 6 personas.

@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8633043930581255918
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/paella-casera.html
+
+
 ---
 
 Para 10 personas.

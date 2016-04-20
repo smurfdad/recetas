@@ -19,7 +19,7 @@ categories:
 - Setas y hongos
  
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6329777332799890630
+
 ---
 
 <b>Tiempo</b> 120 minutos.

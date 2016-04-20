@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3637839845436524295
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/pastel-de-esparragos-trigueros-y-salmon.html
+
+
 ---
 
 Para 4 personas.

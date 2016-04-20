@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7290784678950844365
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/mousse-de-vieiras.html
+
+
 ---
 
 Para 6 personas.

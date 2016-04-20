@@ -16,9 +16,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-742761950445383061
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/musaka-de-calabacin-con-gambas-y-atun.html
+
+
 ---
 
 Para 4 personas.

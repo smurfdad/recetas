@@ -20,7 +20,7 @@ categories:
 
 - Pescados
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5479194505878678648
+
 ---
 
 Para 4 personas.

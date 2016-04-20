@@ -20,7 +20,7 @@ categories:
 
 - Sopas y cremas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4916437930276020594
+
 ---
 
 Para 4 personas.

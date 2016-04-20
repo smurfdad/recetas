@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3979735087986498279
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/almondroc.html
+
+
 ---
 
 Para 4 personas.

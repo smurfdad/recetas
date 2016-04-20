@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4696066407381223928
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/creme-brulee.html
+
+
 ---
 
 <h3>Ingredientes</h3>

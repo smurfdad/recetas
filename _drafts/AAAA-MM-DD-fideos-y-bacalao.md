@@ -21,7 +21,7 @@ categories:
 - Pescados
 - Pastas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6276560547083684456
+
 ---
 
 Para 2 personas.

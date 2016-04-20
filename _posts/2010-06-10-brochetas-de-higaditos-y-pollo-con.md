@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3663541395177886148
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/brochetas-de-higaditos-y-pollo-con.html
+
+
 ---
 
 Para 4 personas.

@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7847637800544000158
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/costrada-de-aaoiz-con-natillas.html
+
+
 ---
 
 Para 6 personas.

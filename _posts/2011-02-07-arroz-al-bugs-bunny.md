@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5029281998467187521
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/arroz-al-bugs-bunny.html
+
+
 ---
 
 Para 4 personas.

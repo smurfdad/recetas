@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7050837476374008319
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/sopa-fria-de-mejillones.html
+
+
 ---
 
 Para 4 personas.

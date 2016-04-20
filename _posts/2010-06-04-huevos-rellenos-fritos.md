@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4530823368816091642
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/huevos-rellenos-fritos.html
+
+
 ---
 
 Para 4 personas.

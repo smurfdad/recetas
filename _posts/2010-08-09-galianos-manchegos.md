@@ -15,9 +15,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6580862156458432467
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/galianos-manchegos.html
+
+
 ---
 
 Para 4 personas.

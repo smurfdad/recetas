@@ -20,7 +20,7 @@ categories:
 
 - Carnes y derivados
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4313219875662959838
+
 ---
 
 Para 8 personas.

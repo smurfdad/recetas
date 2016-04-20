@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6242948608549362491
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/croquetas-dulces-de-arroz.html
+
+
 ---
 
 <h3>Ingredientes</h3>

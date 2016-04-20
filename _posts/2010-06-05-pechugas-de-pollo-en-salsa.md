@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4164265257559896193
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pechugas-de-pollo-en-salsa.html
+
+
 ---
 
 Para 4 personas.

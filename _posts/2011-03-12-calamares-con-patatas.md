@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4390825341924927818
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/calamares-con-patatas.html
+
+
 ---
 
 Para 4 personas.

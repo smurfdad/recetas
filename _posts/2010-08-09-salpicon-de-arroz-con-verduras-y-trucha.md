@@ -15,9 +15,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3915359689624379415
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/salpicon-de-arroz-con-verduras-y-trucha.html
+
+
 ---
 
 Para 2 personas.

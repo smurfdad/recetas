@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2265424690486467268
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/truchas-con-cebolla.html
+
+
 ---
 
 Para 4 personas.

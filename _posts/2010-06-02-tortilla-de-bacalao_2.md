@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-919150634393503504
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/tortilla-de-bacalao_2.html
+
+
 ---
 
 Para 2 personas.

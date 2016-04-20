@@ -20,7 +20,7 @@ categories:
 
 - Ensaladas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8353053212449794695
+
 ---
 
 Para 4 personas.

@@ -20,7 +20,7 @@ categories:
 
 - Carnes y derivados
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6351345310351151946
+
 ---
 
 Para 6 personas.

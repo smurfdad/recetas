@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5275352231613252046
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/laminas-de-bacalao-con-verduritas.html
+
+
 ---
 
 Para 4 personas.

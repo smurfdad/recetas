@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3747781536726237057
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/risotto-de-bacalao-y-trufas-de-aceite.html
+
+
 ---
 
 Para 4 personas.

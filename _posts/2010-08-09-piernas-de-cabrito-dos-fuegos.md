@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4066305633005175909
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/piernas-de-cabrito-dos-fuegos.html
+
+
 ---
 
 Para 4 personas.

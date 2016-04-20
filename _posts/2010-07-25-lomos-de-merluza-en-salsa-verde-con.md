@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-336739654989184140
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/lomos-de-merluza-en-salsa-verde-con.html
+
+
 ---
 
 Para 4 personas.

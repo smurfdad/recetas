@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-898173123296593340
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/sopa-de-cebolla.html
+
+
 ---
 
 Para 4 personas.

@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4372648373271120250
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/ensalada-de-pimientos-y-bacalao.html
+
+
 ---
 
 Para 8 personas.

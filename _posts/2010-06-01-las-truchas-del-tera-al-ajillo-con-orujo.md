@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3564808676832170426
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/las-truchas-del-tera-al-ajillo-con-orujo.html
+
+
 ---
 
 Para 4 personas.

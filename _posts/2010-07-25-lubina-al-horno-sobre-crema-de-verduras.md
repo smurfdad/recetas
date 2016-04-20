@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1947844398419088256
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/lubina-al-horno-sobre-crema-de-verduras.html
+
+
 ---
 
 <h3>Ingredientes</h3>

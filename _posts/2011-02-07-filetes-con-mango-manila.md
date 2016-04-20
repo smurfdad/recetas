@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6231246613919852275
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/filetes-con-mango-manila.html
+
+
 ---
 
 Para 6 personas.

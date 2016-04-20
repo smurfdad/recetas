@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2909618098811254701
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/compota-de-cerezas.html
+
+
 ---
 
 Para 4 personas.

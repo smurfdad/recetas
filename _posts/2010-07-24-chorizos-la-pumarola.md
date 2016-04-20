@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7771744407407469312
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/chorizos-la-pumarola.html
+
+
 ---
 
 Para 4 personas.

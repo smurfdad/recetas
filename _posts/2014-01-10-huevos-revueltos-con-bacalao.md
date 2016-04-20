@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5533629199542584694
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/huevos-revueltos-con-bacalao.html
+
+
 ---
 
 Para 4 personas.

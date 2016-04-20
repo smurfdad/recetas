@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7373624006088860104
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/lengua-de-ternera-al-vino-tinto.html
+
+
 ---
 
 Para 4 personas.

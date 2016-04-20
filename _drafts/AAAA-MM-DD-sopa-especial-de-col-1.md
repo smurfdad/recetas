@@ -20,7 +20,7 @@ categories:
 
 - Sopas y cremas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6151092529850282143
+
 ---
 
 Para 8 personas.

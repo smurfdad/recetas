@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4121245583589869378
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/carne-asada-de-cerdo.html
+
+
 ---
 
 <h3>Ingredientes</h3>

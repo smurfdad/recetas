@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7197266840505602392
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/coctel-de-gambas.html
+
+
 ---
 
 Para 4 personas.

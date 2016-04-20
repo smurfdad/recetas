@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6663390010424817558
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pescado-al-vino-blanco.html
+
+
 ---
 
 Para 4 personas.

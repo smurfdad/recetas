@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6401965151963939132
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/pastel-de-tomates.html
+
+
 ---
 
 <h3>Ingredientes</h3>

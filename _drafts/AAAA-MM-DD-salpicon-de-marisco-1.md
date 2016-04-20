@@ -20,7 +20,7 @@ categories:
 
 - Mariscos y moluscos
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8889158890624868209
+
 ---
 
 Para 4 personas.

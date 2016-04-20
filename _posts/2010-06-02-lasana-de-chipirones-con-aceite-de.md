@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7057819266446502827
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/lasana-de-chipirones-con-aceite-de.html
+
+
 ---
 
 Para 4 personas.

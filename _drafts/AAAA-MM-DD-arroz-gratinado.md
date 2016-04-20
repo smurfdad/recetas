@@ -20,7 +20,7 @@ categories:
 
 - Arroces
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4159482695912715875
+
 ---
 
 Para 6 personas.

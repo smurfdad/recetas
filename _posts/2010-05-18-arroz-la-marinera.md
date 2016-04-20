@@ -12,9 +12,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7488472985085774160
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/arroz-la-marinera.html
+
+
 ---
 
 Para 10 personas.

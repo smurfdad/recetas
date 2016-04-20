@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-45991913318697187
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/leche-frita-la-crema-de-jijona.html
+
+
 ---
 
 Para 4 personas.

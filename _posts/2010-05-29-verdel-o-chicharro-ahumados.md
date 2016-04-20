@@ -12,9 +12,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3400631659252028884
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/verdel-o-chicharro-ahumados.html
+
+
 ---
 
 Para 6 personas.

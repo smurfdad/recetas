@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4890971282461703044
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/tarta-de-nueces.html
+
+
 ---
 
 Para 6 personas.

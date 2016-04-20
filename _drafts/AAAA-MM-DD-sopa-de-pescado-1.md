@@ -21,7 +21,7 @@ categories:
 - Pescados
 - Sopas y cremas
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6228199339406421756
+
 ---
 
 Para 6 personas.

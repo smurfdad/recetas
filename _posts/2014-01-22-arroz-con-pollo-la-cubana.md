@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4336645107800310310
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/arroz-con-pollo-la-cubana.html
+
+
 ---
 
 Para 4 personas.

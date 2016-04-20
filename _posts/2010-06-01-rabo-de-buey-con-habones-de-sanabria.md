@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4372085711840443405
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rabo-de-buey-con-habones-de-sanabria.html
+
+
 ---
 
 Para 4 personas.

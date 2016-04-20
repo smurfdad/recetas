@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5390779122579972638
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/brazo-de-gitano-relleno-de-trufa.html
+
+
 ---
 
 Para 4 personas.

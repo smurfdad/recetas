@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1251719259428515237
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/tarta-de-queso-philadelphia-con.html
+
+
 ---
 
 Para 6 personas.

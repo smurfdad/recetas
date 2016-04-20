@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7692662145351286744
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/lomo-de-jabali-en-adobo-la-parrilla-con.html
+
+
 ---
 
 Para 6 personas.

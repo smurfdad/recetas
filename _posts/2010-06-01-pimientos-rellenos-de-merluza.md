@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4539516559791221008
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pimientos-rellenos-de-merluza.html
+
+
 ---
 
 Para 6 personas.

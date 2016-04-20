@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6730330000943391815
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/escalopes-de-ternera-la-crema.html
+
+
 ---
 
 Para 4 personas.

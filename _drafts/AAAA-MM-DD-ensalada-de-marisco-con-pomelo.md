@@ -21,7 +21,7 @@ categories:
 - Ensaladas
 - Mariscos y moluscos
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4594397771742157511
+
 ---
 
 Para 4 personas.

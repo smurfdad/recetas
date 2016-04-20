@@ -20,7 +20,7 @@ categories:
 
 - Carnes y derivados
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8823815736856017995
+
 ---
 
 <h3>Ingredientes</h3>

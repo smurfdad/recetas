@@ -14,9 +14,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3037527323214724330
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/lasana-de-champinones.html
+
+
 ---
 
 <h3>Ingredientes</h3>

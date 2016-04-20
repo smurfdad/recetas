@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4024749624547701588
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pollo-asado-al-limon.html
+
+
 ---
 
 <h3>Ingredientes</h3>

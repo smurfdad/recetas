@@ -13,9 +13,9 @@ categories:
 
 
 
-blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2872859503478132177
 
-blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/huevos-rellenos-y-fritos-con-bechamel-y.html
+
+
 ---
 
 Para 4 personas.
