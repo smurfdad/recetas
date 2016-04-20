@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON CARNE Y VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

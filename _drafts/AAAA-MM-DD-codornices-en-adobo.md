@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES EN ADOBO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

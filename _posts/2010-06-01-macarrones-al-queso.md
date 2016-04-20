@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MACARRONES AL QUESO
-
 categories:
 - Pastas
 ---

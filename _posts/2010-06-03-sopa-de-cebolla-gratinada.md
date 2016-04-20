@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA DE CEBOLLA GRATINADA
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

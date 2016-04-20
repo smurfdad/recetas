@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHAMPIÑONES AL AJILLO
-
 categories:
 - Verduras y legumbres
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAMPIÑONES ADOBADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CREMOSO CON ESPÁRRAGOS VERDES Y GAMONEU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

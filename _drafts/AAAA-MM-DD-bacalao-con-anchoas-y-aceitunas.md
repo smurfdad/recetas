@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON ANCHOAS Y ACEITUNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

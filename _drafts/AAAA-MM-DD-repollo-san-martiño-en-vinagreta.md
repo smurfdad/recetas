@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REPOLLO SAN MARTIÑO EN VINAGRETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FILETES RELLENOS
-
 categories:
 - Carnes y derivados
 personas: 4 

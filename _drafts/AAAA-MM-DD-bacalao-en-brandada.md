@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO EN BRANDADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

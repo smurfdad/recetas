@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO EN MICROONDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

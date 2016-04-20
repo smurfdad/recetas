@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO A LA PLANCHA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

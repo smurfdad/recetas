@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO AGRIDULCE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

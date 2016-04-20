@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE POLLO AL ESTRAGÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

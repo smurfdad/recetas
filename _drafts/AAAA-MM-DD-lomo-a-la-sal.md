@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO A LA SAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

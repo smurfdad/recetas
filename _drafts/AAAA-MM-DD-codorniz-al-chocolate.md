@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNIZ AL CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

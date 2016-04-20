@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA HELADA DE QUESO
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

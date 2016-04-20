@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PESCADO BLANCO AL VINO BLANCO O CAVA
-
 categories:
 - Pescados
 - Setas y hongos

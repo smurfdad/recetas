@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS A LA ANDALUZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COLIFLOR POLONESA
-
 categories:
 - Verduras y legumbres
 personas: 4 

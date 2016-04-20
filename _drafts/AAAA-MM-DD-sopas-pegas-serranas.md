@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPAS PEGÁS SERRANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

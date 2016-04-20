@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA FRANCESA DE CEBOLLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

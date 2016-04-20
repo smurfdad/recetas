@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALITAS DE POLLO ESCABECHADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO EMPANADO CON MELOCOTONES CONFITADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

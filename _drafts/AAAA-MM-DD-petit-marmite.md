@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PETIT MARMITE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

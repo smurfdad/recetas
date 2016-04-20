@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON CRUJIENTE DE ACEITUNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

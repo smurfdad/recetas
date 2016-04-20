@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA CASTELLANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

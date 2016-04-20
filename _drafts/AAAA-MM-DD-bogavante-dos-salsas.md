@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOGAVANTE DOS SALSAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

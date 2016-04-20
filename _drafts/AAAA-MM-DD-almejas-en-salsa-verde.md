@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS EN SALSA VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

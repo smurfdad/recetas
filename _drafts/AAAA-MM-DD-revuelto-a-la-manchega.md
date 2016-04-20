@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO A LA MANCHEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

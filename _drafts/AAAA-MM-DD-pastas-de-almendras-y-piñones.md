@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTAS DE ALMENDRAS Y PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

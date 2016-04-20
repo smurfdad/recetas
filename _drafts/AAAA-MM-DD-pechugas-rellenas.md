@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

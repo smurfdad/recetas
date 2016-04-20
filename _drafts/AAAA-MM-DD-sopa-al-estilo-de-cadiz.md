@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA AL ESTILO DE CÁDIZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS A LA NATA CON ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO CON TOMATE AL RIBEIRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

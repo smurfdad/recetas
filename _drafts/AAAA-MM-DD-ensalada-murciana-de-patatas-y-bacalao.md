@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA MURCIANA DE PATATAS Y BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

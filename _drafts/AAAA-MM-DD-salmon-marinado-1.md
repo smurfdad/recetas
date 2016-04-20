@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN MARINADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

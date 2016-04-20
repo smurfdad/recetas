@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUÑUELOS DE TODOS LOS SANTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

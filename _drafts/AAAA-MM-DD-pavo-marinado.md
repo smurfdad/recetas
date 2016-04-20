@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO MARINADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

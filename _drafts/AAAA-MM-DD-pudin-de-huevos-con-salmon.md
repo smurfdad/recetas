@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDIN DE HUEVOS CON SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

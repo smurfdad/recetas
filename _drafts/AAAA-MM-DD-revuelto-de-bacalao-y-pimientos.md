@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE BACALAO Y PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

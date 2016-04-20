@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FESENJAN DE POLLO DE IRAK
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

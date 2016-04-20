@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANUTILLOS DE PATATA RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CEBICHE DE CAMARÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

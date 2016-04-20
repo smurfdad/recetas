@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA HELADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

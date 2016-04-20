@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSSEJAT DE FIDEOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

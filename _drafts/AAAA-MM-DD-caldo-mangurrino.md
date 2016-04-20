@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDO MANGURRINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

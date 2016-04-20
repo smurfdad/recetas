@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SAN JACOBOS DE ANCHOAS ALBARDADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

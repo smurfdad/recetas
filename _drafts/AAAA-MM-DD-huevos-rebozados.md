@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS REBOZADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

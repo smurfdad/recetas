@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS TIERNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

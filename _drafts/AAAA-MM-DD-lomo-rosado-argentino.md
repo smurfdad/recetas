@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO ROSADO ARGENTINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

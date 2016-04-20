@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAPRICHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

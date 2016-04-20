@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE LOMO A LA ITALIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

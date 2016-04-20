@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE POLLO CON ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

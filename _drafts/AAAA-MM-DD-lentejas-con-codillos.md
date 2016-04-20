@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS CON CODILLOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

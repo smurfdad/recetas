@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTEL ALCARREÑO DE CORDERO
-
 categories:
 - Carnes y derivados
 personas: 4 

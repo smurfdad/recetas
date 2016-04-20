@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KESHK CON POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

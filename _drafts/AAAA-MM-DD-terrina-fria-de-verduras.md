@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERRINA FRÍA DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

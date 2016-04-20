@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS A LA HOLANDESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

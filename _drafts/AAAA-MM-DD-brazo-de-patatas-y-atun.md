@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRAZO DE PATATAS Y ATÚN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

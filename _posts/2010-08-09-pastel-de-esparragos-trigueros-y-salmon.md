@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTEL DE ESPÁRRAGOS TRIGUEROS Y SALMÓN
-
 categories:
 - Pescados
 - Verduras y legumbres

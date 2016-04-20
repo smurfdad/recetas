@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE LENTEJAS, BERROS Y PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

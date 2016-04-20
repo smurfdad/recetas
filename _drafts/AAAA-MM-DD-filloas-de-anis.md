@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILLOAS DE ANÍS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

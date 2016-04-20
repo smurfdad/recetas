@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVO SALPICADO DE TOCINO, NUEZ Y PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

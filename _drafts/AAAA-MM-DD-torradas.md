@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORRADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

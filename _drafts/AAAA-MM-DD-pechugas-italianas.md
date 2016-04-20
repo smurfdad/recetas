@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS ITALIANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

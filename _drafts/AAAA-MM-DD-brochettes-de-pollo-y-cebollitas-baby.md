@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETTES DE POLLO Y CEBOLLITAS BABY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO DE MONTAÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZOQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CANAPÉS DE QUESO
-
 categories:
 - Huevos y lacteos
 - Entrantes y bocadillos

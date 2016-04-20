@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AGUA DE LIMÓN Y MENTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA ALCAÑIZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

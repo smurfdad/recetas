@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS FRITOS DE CODORNIZ CON SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

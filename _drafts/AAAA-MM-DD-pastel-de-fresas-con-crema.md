@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE FRESAS CON CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

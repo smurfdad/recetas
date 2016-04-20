@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRATINADO DE MAÍZ CON JAMÓN Y CARACOLILLOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

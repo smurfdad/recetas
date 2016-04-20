@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALMITOS GRATINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

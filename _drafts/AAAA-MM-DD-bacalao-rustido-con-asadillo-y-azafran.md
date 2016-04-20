@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO RUSTIDO CON ASADILLO Y AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

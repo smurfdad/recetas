@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA BOSTON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CONEJO MARINADO EN ALBARIÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

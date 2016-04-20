@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRÉCOL AL ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

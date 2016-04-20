@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO CANARIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

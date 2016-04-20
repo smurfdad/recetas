@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO EN LIBRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

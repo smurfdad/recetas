@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FLAN DE NARANJA
-
 categories:
 - Postres y dulces
 ---

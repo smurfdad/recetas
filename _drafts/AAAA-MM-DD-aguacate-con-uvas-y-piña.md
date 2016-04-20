@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AGUACATE CON UVAS Y PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

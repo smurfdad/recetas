@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS AL GRATIN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

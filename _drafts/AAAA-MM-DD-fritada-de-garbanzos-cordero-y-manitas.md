@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITADA DE GARBANZOS CORDERO Y MANITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

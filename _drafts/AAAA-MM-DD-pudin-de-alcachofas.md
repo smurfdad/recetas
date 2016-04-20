@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDIN DE ALCACHOFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

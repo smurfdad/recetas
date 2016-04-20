@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO DE NAVIDAD RELLENO DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

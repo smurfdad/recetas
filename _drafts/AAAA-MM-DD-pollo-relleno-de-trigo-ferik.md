@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO RELLENO DE TRIGO FERIK
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

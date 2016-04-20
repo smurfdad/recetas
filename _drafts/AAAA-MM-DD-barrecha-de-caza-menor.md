@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BARRECHA DE CAZA MENOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

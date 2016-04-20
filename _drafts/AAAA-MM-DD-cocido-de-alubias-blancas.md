@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCIDO DE ALUBIAS BLANCAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

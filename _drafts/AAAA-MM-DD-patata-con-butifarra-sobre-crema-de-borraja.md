@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATA CON BUTIFARRA SOBRE CREMA DE BORRAJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

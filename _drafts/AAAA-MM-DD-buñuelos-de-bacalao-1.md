@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUÑUELOS DE BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

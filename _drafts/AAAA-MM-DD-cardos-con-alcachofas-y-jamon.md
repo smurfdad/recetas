@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARDOS CON ALCACHOFAS Y JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

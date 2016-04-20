@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POLLO EN CHANFAINA
-
 categories:
 - Carnes y derivados
 personas: 6 

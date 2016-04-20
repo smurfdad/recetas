@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FONDUE DE CHOCOLATE Y MOKA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MUFFINS DE QUESO
-
 categories:
 - Huevos y lacteos
 ---

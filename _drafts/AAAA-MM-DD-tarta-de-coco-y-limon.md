@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE COCO Y LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PASTA MEDITERRANEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

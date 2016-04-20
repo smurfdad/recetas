@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE AL TOMBET
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

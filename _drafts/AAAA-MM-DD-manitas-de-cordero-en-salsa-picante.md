@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANITAS DE CORDERO EN SALSA PICANTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

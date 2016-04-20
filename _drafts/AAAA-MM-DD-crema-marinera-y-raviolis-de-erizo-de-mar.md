@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA MARINERA Y RAVIOLIS DE ERIZO DE MAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

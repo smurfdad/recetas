@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BUÑUELOS DE MANZANA
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

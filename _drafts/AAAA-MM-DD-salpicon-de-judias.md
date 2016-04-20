@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALPICÓN DE JUDIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

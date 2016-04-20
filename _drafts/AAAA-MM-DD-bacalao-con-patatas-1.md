@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

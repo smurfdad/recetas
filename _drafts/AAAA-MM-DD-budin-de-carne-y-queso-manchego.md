@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDÍN DE CARNE Y QUESO MANCHEGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

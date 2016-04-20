@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA ROSÁCEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

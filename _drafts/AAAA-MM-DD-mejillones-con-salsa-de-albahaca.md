@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES CON SALSA DE ALBAHACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

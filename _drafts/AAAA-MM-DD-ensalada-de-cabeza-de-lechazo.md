@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE CABEZA DE LECHAZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

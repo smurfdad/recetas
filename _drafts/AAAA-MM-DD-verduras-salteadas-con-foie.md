@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VERDURAS SALTEADAS CON FOIE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

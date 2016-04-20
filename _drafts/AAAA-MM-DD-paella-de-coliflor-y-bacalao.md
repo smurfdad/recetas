@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAELLA DE COLIFLOR Y BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

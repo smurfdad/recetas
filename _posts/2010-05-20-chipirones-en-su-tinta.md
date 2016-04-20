@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHIPIRONES EN SU TINTA
-
 categories:
 - Mariscos y moluscos
 ---

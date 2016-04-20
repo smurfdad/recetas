@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALIBADA RÁPIDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

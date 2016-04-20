@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CIGALAS SALTEADAS CON HOJAS DE LECHUGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

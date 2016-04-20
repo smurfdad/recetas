@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALMÓN MARINADO
-
 categories:
 - Pescados
 personas: 10 

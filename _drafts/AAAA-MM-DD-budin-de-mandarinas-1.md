@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDÍN DE MANDARINAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

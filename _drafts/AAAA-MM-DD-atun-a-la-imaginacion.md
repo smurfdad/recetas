@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN A LA IMAGINACIÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

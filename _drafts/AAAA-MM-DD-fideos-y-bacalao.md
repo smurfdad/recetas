@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEOS Y BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

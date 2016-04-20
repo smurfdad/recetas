@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALIÑO CREMOSO DE CILANTRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

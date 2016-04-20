@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAJOS DE POMELO EN ALMÍBAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

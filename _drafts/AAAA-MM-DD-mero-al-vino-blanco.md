@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO AL VINO BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPITOS AL CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

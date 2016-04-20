@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREPES DE MARISCOS
-
 categories:
 - Huevos y lacteos
 - Mariscos y moluscos

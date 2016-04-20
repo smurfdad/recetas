@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CROQUETAS DE PAPAS CON ESPINACAS Y MOZARELLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

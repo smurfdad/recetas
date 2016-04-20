@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLAS DE GÁMBAROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

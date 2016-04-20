@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ GRANEADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

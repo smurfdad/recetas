@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA DE PATATAS Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

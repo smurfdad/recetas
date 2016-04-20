@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPAS PEROTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

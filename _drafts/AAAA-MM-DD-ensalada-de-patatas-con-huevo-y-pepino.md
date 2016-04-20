@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PATATAS CON HUEVO Y PEPINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

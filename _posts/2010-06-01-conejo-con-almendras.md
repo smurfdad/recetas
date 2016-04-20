@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CONEJO CON ALMENDRAS
-
 categories:
 - Carnes y derivados
 personas: 4 

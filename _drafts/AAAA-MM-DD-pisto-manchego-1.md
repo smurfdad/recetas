@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PISTO MANCHEGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

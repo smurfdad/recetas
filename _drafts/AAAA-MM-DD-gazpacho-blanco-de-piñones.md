@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO BLANCO DE PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

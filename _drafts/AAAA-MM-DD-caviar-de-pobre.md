@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAVIAR DE POBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

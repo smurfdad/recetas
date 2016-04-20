@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS FRESCAS EN CALZÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTO RELLENO DE MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

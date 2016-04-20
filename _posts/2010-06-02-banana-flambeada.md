@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BANANA FLAMBEADA
-
 categories:
 - Postres y dulces
 - Frutas

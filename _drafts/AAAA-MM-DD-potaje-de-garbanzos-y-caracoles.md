@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE DE GARBANZOS Y CARACOLES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

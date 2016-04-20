@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FINGERS DE QUESO
-
 categories:
 - Entrantes y bocadillos
 personas: 4 

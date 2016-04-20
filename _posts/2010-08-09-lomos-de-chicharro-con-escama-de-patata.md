@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LOMOS DE CHICHARRO CON ESCAMA DE PATATA Y PERCEBES
-
 categories:
 - Pescados
 - Verduras y legumbres

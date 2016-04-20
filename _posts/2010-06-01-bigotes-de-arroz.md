@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BIGOTES DE ARROZ
-
 categories:
 - Arroces
 - Postres y dulces

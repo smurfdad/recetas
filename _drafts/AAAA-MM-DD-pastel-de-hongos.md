@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE HONGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

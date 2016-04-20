@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RIOJANITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

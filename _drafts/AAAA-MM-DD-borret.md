@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BORRET
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

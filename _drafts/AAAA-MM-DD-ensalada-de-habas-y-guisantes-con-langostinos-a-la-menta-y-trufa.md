@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE HABAS Y GUISANTES CON LANGOSTINOS A LA MENTA Y TRUFA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

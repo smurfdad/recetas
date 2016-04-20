@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA CAZADORA
-
 categories:
 - Salsas
 personas: 6 

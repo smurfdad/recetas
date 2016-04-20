@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FETUCCINNI PALOMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

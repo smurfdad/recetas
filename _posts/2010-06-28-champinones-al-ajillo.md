@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHAMPIÑONES AL AJILLO
-
 categories:
 - Setas y hongos
 personas: 2 

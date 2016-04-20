@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON LANGOSTINOS GRATINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

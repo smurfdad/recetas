@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARACOLES CON POLEO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERBERECHOS AL VAPOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

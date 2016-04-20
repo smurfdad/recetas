@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NARANJAS HELADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

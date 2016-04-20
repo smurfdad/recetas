@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANDARINES O ALCUZCUZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

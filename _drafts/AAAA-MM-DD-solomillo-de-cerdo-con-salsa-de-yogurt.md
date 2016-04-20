@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO CON SALSA DE YOGURT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO AL ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

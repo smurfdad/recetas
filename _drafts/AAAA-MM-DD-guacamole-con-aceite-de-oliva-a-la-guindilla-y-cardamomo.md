@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUACAMOLE CON ACEITE DE OLIVA A LA GUINDILLA Y CARDAMOMO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

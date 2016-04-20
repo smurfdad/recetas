@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MACARRONES AL SALPICON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA VALENCIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

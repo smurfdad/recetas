@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TOMATES GRATINADOS
-
 categories:
 - Verduras y legumbres
 personas: 6 

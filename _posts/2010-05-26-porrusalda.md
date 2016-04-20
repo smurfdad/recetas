@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PORRUSALDA
-
 categories:
 - Verduras y legumbres
 personas: 6 

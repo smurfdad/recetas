@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE FRESA
-
 categories:
 - Sopas y cremas
 - Postres y dulces

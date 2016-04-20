@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS CON NUECES Y ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

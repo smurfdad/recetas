@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PAPA FRESCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

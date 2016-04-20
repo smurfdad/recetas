@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANCHOAS EN SALAZÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VERDURAS BRIAM
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

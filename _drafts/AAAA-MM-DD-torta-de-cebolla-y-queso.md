@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA DE CEBOLLA Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

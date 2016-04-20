@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COLIFLOR AL QUESO DE TRESVISO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

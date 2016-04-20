@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHACÁ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

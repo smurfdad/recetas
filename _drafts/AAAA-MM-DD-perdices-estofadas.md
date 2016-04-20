@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES ESTOFADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

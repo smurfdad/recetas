@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELONES DE ACELGAS Y PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

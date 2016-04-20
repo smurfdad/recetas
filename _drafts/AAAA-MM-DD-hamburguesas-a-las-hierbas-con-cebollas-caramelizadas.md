@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HAMBURGUESAS A LAS HIERBAS CON CEBOLLAS CARAMELIZADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

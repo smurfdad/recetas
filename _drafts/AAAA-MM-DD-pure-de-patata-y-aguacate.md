@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PURÉ DE PATATA Y AGUACATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

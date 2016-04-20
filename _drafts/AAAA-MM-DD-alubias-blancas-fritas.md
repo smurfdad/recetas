@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS BLANCAS FRITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

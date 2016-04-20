@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE A LA COCA-COLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MEJILLONES AL AROMA DE PIMIENTA VERDE
-
 categories:
 - Mariscos y moluscos
 personas: 4 

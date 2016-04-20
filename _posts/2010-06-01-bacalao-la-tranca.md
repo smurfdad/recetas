@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BACALAO A LA TRANCA
-
 categories:
 - Pescados
 personas: 4 

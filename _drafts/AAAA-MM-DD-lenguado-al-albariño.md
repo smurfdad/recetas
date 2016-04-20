@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO AL ALBARIÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

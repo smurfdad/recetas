@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELA DE PUERROS CON TOMATE Y JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

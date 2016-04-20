@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIAMBRE DE CARNE CON ENSALADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIES DE CORDERO CON SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

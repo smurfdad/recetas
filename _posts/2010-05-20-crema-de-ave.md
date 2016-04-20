@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE AVE
-
 categories:
 - Sopas y cremas
 - Carnes y derivados

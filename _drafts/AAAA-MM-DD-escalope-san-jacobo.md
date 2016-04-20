@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPE SAN JACOBO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

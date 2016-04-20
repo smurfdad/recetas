@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MEJILLONES RELLENOS
-
 categories:
 - Mariscos y moluscos
 personas: 6 

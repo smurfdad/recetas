@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE QUESO Y MELOCOTON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

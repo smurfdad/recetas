@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN CON ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

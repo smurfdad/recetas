@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MOLDE DE VERDURAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

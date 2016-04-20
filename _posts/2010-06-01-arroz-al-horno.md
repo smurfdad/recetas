@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ AL HORNO
-
 categories:
 - Arroces
 ---

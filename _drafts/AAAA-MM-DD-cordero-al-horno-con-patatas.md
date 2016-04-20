@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO AL HORNO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RODABALLO A LA PLANCHA CON PISTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

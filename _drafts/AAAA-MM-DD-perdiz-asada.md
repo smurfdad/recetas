@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDIZ ASADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

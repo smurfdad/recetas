@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS CON ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

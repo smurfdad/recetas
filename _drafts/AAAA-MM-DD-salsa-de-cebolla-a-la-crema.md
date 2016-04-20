@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE CEBOLLA A LA CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

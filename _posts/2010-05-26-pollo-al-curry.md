@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POLLO AL CURRY
-
 categories:
 - Carnes y derivados
 personas: 6 

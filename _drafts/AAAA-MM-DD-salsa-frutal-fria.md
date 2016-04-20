@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA FRUTAL FRIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

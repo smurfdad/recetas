@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PANATELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

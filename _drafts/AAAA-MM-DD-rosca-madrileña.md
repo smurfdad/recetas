@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSCA MADRILEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

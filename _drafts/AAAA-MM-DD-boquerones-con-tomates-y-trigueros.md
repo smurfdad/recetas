@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOQUERONES CON TOMATES Y TRIGUEROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

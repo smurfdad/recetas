@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREPES RELLENOS DE CIRUELAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

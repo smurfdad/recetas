@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PESCADILLA RELLENA DE CHAMPIÑONES
-
 categories:
 - Pescados
 - Setas y hongos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COGOTE DE MERLUZA A LA VASCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

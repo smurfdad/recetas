@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREPES RELLENOS DE QUESO BLANCO
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

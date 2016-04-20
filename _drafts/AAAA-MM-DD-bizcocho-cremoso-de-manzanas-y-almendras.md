@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO CREMOSO DE MANZANAS Y ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

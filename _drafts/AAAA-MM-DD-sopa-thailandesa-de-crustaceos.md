@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA THAILANDESA DE CRUSTÁCEOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

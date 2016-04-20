@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HUEVOS AL PLATO FLAMENCA
-
 categories:
 - Huevos y lacteos
 personas: 4 

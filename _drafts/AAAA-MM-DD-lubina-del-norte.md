@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA DEL NORTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

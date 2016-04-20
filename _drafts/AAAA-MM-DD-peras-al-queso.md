@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERAS AL QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

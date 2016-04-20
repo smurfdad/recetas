@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CROQUETAS DE MANZANA
-
 categories:
 - Postres y dulces
 - Frutas

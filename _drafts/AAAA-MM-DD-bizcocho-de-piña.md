@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO DE PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

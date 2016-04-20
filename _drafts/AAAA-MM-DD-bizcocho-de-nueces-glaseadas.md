@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO DE NUECES GLASEADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

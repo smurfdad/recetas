@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON VERDURAS Y ANGULAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

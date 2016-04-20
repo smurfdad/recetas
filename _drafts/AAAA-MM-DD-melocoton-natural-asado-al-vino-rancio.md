@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MELOCOTÓN NATURAL ASADO AL VINO RANCIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO EMPANADAS CON VERDURAS AGRIDULCES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

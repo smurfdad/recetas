@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDIN DE MANZANA Y PLÁTANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

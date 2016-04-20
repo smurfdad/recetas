@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PURÉ DE GARBANZOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

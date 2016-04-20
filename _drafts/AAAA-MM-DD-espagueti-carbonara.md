@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETI CARBONARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

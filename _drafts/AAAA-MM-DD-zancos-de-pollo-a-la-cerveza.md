@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZANCOS DE POLLO A LA CERVEZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

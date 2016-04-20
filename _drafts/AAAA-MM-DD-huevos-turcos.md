@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS TURCOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

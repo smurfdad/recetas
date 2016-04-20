@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAN DE MANZANA Y CEREAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPÁRRAGOS TRIGUEROS CON PIMENTÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES ESTOFADAS AL VINO BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

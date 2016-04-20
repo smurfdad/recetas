@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE JAMÓN, QUESO, HUEVO DURO Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

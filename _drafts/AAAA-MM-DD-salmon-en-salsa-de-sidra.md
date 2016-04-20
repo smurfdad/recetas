@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN EN SALSA DE SIDRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

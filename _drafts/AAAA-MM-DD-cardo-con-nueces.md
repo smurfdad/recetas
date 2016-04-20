@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARDO CON NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

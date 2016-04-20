@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO DE POLLO AL COCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA DE PATATAS CON PISTO Y BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

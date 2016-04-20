@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TXANGURRO DE BERMEO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

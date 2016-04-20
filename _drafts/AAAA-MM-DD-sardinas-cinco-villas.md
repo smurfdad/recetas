@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SARDINAS CINCO VILLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

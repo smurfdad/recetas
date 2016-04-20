@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABICHUELAS CON PERDIZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO GUISADO ESTILO NAVARRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

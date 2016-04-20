@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HABAS CON JAMÓN
-
 categories:
 - Verduras y legumbres
 personas: 6 

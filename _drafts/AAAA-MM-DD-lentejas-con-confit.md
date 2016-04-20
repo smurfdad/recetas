@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS CON CONFIT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

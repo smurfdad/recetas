@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FEGATO ALLA VENECIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

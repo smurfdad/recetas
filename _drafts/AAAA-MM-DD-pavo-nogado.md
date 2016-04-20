@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO NOGADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

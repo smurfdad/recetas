@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RABO DE BUEY AL VINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

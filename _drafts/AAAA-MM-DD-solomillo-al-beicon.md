@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO AL BEICON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL FRÍO DE PESCADO Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

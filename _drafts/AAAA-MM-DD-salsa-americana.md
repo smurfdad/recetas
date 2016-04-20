@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA AMERICANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

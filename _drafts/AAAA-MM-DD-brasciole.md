@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRASCIOLE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

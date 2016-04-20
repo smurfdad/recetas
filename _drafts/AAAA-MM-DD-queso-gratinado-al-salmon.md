@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESO GRATINADO AL SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

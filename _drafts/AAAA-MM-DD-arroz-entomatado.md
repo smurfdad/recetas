@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ ENTOMATADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

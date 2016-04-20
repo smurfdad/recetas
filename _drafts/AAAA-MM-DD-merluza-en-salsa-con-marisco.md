@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA EN SALSA CON MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

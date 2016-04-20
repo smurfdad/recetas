@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO CON SOFRITO DE TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

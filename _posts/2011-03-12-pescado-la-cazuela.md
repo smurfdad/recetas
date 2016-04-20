@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PESCADO A LA CAZUELA
-
 categories:
 - Pescados
 personas: 4 

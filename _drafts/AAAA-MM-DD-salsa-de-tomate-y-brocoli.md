@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE TOMATE Y BRÓCOLI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

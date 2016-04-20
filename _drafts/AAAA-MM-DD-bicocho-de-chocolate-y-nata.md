@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BICOCHO DE CHOCOLATE Y NATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

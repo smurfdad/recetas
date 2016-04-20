@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO CON SALSA DE NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

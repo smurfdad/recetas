@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANGREJOS RELLENOS DE BANGKOK PU CA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

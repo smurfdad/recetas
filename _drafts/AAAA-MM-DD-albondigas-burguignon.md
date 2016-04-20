@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS BURGUIGNON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

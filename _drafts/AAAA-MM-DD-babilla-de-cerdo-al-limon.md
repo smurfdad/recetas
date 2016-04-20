@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BABILLA DE CERDO AL LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

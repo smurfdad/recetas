@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS EMPANADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

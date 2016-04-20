@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS A LA CAZUELA CON JAMÓN SERRANO.
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

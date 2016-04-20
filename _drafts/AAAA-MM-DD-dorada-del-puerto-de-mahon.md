@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA DEL PUERTO DE MAHÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

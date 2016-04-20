@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MOUSSE DE CHOCOLATE
-
 categories:
 - Postres y dulces
 ---

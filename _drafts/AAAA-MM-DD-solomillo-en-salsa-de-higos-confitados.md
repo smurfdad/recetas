@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO EN SALSA DE HIGOS CONFITADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

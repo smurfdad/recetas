@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ FRITO CON HIGADITOS Y MOLLEJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

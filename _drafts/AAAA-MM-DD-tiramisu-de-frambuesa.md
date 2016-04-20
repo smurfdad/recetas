@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIRAMISU DE FRAMBUESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

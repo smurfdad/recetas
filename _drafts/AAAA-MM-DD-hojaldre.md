@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJALDRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

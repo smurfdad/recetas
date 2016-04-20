@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA FRIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

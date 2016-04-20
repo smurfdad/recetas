@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BATIDO DE HORCHATA Y CACAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOUFFLÉ AL LICOR
-
 categories:
 - Postres y dulces
 personas: 4 

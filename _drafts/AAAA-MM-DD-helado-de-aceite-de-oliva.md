@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HELADO DE ACEITE DE OLIVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

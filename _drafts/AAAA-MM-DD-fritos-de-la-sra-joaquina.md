@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITOS DE LA SRA JOAQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

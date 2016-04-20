@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARENQUES CON PAN TOSTADO Y UVAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

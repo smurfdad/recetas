@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA STEMOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

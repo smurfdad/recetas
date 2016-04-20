@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LECHAZO ASADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

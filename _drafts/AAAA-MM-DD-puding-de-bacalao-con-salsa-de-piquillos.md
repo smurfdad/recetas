@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDING DE BACALAO CON SALSA DE PIQUILLOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

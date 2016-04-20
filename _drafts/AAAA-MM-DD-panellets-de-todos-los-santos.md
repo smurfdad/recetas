@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PANELLETS DE TODOS LOS SANTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

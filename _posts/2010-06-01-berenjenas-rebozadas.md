@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BERENJENAS REBOZADAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

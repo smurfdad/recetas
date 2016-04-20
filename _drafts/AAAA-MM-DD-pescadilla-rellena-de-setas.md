@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADILLA RELLENA DE SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

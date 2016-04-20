@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BORSCHT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

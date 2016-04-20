@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTINOS AL RON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

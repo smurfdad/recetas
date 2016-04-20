@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITADA ARAGONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

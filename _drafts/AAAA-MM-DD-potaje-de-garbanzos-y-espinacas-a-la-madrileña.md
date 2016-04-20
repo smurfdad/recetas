@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE DE GARBANZOS Y ESPINACAS A LA MADRILEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

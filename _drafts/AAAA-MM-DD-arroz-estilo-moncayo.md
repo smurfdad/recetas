@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ ESTILO MONCAYO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

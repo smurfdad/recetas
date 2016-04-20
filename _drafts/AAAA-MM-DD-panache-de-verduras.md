@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PANACHE DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

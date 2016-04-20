@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA FRÍA DE MELÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

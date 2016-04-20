@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA COMPLETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

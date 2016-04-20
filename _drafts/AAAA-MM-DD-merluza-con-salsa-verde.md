@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA CON SALSA VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

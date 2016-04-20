@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EL COFRE DE LAS SORPRESAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

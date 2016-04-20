@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ORUHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

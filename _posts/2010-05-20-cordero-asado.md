@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CORDERO ASADO
-
 categories:
 - Carnes y derivados
 personas: 4 

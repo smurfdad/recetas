@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MELÓN CON FRESONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RABO DE BUEY EN SALSA
-
 categories:
 - Carnes y derivados
 personas: 6 

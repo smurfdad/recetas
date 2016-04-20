@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHURRASCO DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

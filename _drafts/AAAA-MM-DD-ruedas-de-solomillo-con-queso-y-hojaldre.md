@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RUEDAS DE SOLOMILLO CON QUESO Y HOJALDRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

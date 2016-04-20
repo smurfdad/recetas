@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SORBETE DE NARANJA AL CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

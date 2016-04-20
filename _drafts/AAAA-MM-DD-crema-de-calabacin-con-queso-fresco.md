@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE CALABACÍN CON QUESO FRESCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

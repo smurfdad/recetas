@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FONDUE DE TERNERA Y VEGETALES CON CREMA DE QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

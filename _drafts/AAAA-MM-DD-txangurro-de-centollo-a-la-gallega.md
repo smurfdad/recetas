@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TXANGURRO DE CENTOLLO A LA GALLEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

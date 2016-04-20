@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE ARROZ SALVAJE CON ALCACHOFAS
-
 categories:
 - Verduras y legumbres
 - Arroces

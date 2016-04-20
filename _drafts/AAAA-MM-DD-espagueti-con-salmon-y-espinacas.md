@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETI CON SALMÓN Y ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

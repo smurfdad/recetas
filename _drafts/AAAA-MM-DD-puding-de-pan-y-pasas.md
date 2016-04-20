@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDING DE PAN Y PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

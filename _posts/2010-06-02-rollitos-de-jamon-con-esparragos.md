@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ROLLITOS DE JAMÓN CON ESPÁRRAGOS
-
 categories:
 - Entrantes y bocadillos
 personas: 4 

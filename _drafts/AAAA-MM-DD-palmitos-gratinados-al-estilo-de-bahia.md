@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALMITOS GRATINADOS AL ESTILO DE BAHÍA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

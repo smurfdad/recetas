@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO MENIERE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

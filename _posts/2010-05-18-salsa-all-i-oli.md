@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA ALL-I-OLI
-
 categories:
 - Salsas
 personas: 8 

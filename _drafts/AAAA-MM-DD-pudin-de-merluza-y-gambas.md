@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDIN DE MERLUZA Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

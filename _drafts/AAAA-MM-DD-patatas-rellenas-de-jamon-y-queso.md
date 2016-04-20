@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS RELLENAS DE JAMÓN Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

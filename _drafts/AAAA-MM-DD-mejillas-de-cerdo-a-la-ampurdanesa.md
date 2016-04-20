@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLAS DE CERDO A LA AMPURDANESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

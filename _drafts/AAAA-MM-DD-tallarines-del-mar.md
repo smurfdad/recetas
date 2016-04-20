@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES DEL MAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

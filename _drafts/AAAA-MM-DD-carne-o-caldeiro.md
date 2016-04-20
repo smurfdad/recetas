@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE Ó CALDEIRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

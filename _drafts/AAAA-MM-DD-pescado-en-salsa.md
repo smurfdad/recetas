@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADO EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTINO CON CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

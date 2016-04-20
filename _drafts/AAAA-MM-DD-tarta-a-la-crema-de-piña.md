@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA A LA CREMA DE PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

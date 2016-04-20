@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERAS ESCALFADAS CON CREMA DE CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BORAMI PERSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

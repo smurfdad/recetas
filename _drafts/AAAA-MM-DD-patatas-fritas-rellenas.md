@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS FRITAS RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTITAS DE CARNE DESHEBRADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

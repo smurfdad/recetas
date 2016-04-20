@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE COSTILLA DE CERDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HUEVOS REVUELTOS CON BACALAO
-
 categories:
 - Pescados
 - Huevos y lacteos

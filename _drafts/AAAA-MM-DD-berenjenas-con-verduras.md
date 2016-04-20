@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS CON VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

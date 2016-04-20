@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CROQUETAS DE QUESO MANCHEGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

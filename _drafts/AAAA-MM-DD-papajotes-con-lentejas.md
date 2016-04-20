@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAPAJOTES CON LENTEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

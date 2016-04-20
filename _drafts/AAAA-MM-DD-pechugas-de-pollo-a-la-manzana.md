@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO A LA MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POPIETAS DE LENGUADO GRATINADOS CON LANGOSTINOS
-
 categories:
 - Pescados
 - Mariscos y moluscos

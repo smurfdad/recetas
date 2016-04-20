@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOUFFLES DE CHOCOLATES AL RON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

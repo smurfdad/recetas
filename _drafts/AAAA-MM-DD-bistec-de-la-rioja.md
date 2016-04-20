@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BISTEC DE LA RIOJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

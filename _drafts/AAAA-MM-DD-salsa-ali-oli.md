@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA ALI-OLI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

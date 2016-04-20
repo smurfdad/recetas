@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PANACHÉ DE VERDURAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE HELADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

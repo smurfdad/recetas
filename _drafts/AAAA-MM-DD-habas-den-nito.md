@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS DEN NITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

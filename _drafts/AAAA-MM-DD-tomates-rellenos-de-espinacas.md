@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOMATES RELLENOS DE ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

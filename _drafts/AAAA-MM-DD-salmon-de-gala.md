@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN DE GALA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

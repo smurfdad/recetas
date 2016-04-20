@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BERENJENAS RELLENAS DE VERDURAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

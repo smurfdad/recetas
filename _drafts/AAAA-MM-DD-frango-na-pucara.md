@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRANGO NA PUCARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

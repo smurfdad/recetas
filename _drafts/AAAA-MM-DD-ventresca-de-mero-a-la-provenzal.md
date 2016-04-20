@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VENTRESCA DE MERO A LA PROVENZAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

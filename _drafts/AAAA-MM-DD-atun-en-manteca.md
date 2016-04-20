@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN EN MANTECA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

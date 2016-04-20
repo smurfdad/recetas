@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NUBES FLOTANTES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

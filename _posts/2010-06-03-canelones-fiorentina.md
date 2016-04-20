@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CANELONES FIORENTINA
-
 categories:
 - Verduras y legumbres
 - Pastas

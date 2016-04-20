@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: EMPANADAS DE ESPINACAS Y RICOTA LIGTH
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

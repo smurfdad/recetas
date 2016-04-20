@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANGUILA FRITA CON APIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

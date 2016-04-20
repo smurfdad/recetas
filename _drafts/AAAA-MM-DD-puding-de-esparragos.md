@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDING DE ESPARRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

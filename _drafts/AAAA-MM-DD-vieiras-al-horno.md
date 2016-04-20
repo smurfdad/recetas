@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VIEIRAS AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

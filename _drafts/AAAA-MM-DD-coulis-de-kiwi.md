@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COULIS DE KIWI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

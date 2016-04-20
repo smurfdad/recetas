@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO A LA NORTEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

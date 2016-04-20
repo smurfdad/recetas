@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON GARBANZOS  Y  HIERBABUENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

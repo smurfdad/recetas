@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ESCABECHES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

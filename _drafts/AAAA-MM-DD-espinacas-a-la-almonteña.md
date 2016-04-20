@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPINACAS A LA ALMONTEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

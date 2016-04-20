@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE FRAMBUESAS Y MORAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

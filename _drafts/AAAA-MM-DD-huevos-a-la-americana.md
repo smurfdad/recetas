@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS A LA AMERICANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

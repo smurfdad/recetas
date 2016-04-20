@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALETA DE TERNERA RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITOS VARIADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

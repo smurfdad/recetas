@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OSSOBUCCO ITALIANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

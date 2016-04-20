@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE ESPÁRRAGOS TRIGUEROS CON BACON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

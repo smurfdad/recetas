@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANAPÉS DE CAVIAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJO CALIENTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

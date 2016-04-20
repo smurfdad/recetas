@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: VERDEL O CHICHARRO AHUMADOS
-
 categories: 
 personas: 6 
 ---

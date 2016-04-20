@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VENADO AL PIMENTÓN DE LA VERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

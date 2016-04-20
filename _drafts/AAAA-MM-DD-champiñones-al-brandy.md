@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAMPIÑONES AL BRANDY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

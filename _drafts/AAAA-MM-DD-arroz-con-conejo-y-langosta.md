@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON CONEJO Y LANGOSTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

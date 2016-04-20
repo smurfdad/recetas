@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLINA EN PEPITORIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

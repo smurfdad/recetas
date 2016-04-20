@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA RELLENA DE NAVAJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

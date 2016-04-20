@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEOS CON CONGRIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

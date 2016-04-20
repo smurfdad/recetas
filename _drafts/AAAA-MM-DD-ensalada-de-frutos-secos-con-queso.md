@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE FRUTOS SECOS CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

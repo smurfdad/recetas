@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE POLLO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

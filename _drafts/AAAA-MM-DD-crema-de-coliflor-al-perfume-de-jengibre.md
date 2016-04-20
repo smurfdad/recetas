@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE COLIFLOR AL PERFUME DE JENGIBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

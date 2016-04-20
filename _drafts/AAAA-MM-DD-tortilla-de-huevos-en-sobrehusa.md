@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA DE HUEVOS EN SOBREHUSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

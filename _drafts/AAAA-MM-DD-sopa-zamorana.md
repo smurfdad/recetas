@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA ZAMORANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

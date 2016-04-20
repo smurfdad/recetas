@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SUPREMAS DE SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE TOSTONES Y VEGETALES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAMPIÑONES RELLENOS DE CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

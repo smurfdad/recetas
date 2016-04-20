@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COUS COUS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

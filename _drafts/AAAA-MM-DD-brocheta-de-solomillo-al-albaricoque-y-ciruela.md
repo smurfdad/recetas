@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE SOLOMILLO AL ALBARICOQUE Y CIRUELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

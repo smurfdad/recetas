@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES ESTOFADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS MACHACADAS AL AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

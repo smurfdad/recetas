@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SESOS CON SALSA DE TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

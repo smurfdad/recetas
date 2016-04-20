@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CADERA DE CERDO ASADA CON LECHUGAS VARIADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

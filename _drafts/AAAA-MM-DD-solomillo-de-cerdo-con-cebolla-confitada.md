@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO CON CEBOLLA CONFITADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA MANCHEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

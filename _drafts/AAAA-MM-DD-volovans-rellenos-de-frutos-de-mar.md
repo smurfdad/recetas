@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VOLOVANS RELLENOS DE FRUTOS DE MAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

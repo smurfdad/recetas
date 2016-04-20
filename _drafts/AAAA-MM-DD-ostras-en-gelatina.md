@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OSTRAS EN GELATINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

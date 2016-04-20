@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO ASADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

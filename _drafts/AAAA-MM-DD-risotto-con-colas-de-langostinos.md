@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISOTTO CON COLAS DE LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

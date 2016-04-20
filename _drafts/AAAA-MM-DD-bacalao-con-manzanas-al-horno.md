@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON MANZANAS AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

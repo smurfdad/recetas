@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CÓCTEL DE GAMBAS
-
 categories:
 - Mariscos y moluscos
 personas: 4 

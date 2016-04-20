@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FABADA RÁPIDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

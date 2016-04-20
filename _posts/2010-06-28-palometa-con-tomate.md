@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PALOMETA CON TOMATE
-
 categories:
 - Pescados
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MORTERUELO DE CAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

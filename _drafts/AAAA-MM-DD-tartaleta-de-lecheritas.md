@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTALETA DE LECHERITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OCA CON PERAS AL ESTILO DE SALT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

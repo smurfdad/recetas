@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRESAS CON CREMA DE QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

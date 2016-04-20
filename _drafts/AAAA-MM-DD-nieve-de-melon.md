@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NIEVE DE MELON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

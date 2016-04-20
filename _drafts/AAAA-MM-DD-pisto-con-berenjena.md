@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PISTO CON BERENJENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

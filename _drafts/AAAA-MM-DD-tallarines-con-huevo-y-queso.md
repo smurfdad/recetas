@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES CON HUEVO Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

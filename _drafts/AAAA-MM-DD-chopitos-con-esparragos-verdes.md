@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHOPITOS CON ESPÁRRAGOS VERDES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

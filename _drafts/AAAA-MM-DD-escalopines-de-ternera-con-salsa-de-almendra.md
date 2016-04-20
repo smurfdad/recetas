@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPINES DE TERNERA CON SALSA DE ALMENDRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE CEBOLLETA Y APIO CON VINAGRETA DE MOSTAZA.
-
 categories:
 - Ensaladas
 personas: 4 

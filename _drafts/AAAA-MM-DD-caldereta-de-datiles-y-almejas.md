@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETA DE DÁTILES Y ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

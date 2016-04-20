@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE CAZÓN, NARANJA Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ACARAMELADO PRIMAVERA DE JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

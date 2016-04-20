@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATO ASADO AL VINO TINTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

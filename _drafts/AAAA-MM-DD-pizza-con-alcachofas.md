@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIZZA CON ALCACHOFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

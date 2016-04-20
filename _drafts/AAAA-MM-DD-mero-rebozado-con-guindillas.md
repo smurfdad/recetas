@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO REBOZADO CON GUINDILLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA DE QUESO CON FRAMBUESAS
-
 categories:
 - Postres y dulces
 personas: 4 

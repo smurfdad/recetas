@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO ASADO CON MANZANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

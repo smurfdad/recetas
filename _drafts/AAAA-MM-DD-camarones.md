@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAMARONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

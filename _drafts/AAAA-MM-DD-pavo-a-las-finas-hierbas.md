@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO A LAS FINAS HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

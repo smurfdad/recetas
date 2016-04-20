@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO BACALAO AJOARRIERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

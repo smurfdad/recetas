@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PENCAS DE ACELGAS CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONIATOS A LA MALLORQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

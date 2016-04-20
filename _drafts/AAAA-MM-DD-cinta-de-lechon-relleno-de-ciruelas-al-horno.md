@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CINTA DE LECHÓN RELLENO DE CIRUELAS AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

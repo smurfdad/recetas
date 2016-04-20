@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPALDAS DE CABRITO ASADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

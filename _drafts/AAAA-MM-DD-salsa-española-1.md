@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA ESPAÑOLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

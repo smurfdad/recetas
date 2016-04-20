@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PEPINO CON SALSA DE YOGUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

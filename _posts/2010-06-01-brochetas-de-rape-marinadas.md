@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BROCHETAS DE RAPE MARINADAS
-
 categories:
 - Pescados
 personas: 4 

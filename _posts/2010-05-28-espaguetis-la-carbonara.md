@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS A LA CARBONARA
-
 categories:
 - Pastas
 personas: 8 

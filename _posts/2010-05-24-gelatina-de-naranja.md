@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: GELATINA DE NARANJA
-
 categories:
 - Postres y dulces
 personas: 6 

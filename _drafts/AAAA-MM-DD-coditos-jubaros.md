@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODITOS JUBAROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

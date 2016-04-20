@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BECHAMEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

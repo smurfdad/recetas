@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POLLO COQUETON
-
 categories:
 - Carnes y derivados
 personas: 4 

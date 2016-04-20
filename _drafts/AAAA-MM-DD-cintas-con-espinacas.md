@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CINTAS CON ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

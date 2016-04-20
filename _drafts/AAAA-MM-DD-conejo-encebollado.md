@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO ENCEBOLLADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

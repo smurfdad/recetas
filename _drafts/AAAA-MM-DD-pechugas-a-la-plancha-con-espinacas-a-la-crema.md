@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS A LA PLANCHA CON ESPINACAS A LA CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

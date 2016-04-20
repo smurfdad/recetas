@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE MARISCOS AL LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

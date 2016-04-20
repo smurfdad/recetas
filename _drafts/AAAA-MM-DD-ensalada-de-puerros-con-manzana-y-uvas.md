@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PUERROS CON MANZANA Y UVAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

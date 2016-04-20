@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALIBADA CON PASTEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIERNA DE CARNERO A LA CORDOBESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

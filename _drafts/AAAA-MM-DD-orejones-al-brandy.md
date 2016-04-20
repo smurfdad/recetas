@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OREJONES AL BRANDY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BOMBONES ALMENDRADOS (ERIZOS)
-
 categories:
 - Postres y dulces
 personas: 6 

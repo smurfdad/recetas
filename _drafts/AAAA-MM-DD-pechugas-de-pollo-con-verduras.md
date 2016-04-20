@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO CON VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS DE CERDO CON AJO Y LIMON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

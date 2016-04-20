@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLETAS PARISINAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

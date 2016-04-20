@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO A LA MIEL DE ROMERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

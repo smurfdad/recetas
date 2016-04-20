@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: DORADA AL VINO
-
 categories:
 - Pescados
 ---

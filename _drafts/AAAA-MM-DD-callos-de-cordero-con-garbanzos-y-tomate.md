@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALLOS DE CORDERO CON GARBANZOS Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

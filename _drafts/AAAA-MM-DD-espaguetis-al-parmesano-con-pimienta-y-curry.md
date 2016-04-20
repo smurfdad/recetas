@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS AL PARMESANO CON PIMIENTA Y CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

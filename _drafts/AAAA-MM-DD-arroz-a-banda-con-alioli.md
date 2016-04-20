@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ A BANDA CON ALIOLI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

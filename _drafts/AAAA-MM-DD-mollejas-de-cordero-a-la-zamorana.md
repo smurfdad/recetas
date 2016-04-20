@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOLLEJAS DE CORDERO A LA ZAMORANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

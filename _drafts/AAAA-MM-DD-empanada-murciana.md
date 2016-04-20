@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADA MURCIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

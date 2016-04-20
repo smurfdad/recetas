@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE VERDURAS CON QUESO
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HIGADITOS DE POLLO CON MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MENESTRA CON COSTILLAS REBOZADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

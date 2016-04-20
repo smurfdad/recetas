@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA VINAGRETA MARINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

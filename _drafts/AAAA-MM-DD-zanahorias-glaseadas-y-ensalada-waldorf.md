@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZANAHORIAS GLASEADAS Y ENSALADA WALDORF
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANCHOAS EN ESCABECHE FRITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

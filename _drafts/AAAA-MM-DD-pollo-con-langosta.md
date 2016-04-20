@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON LANGOSTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

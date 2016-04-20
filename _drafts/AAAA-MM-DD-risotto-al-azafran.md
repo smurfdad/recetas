@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISOTTO AL AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

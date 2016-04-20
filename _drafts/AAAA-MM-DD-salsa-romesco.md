@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA ROMESCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO A LA PLANCHA CON CREMA DE GRELOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

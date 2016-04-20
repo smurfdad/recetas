@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CANELONES SUPREMA
-
 categories:
 - Pastas
 personas: 5 

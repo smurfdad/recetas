@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BAVAROIS DE FRESONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

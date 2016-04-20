@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA CORTA A LA SINATRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

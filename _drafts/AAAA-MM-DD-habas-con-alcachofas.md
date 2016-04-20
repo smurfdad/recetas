@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS CON ALCACHOFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOSTILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

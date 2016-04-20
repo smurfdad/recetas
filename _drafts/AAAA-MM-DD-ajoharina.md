@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJOHARINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

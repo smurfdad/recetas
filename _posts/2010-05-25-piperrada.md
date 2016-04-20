@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PIPERRADA
-
 categories:
 - Verduras y legumbres
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETA DE CORDERO A LO PASTORIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

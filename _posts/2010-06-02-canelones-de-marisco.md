@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CANELONES DE MARISCO
-
 categories:
 - Mariscos y moluscos
 - Pastas

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO EN CIVET A LA SARDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

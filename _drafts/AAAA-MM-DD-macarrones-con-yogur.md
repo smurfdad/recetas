@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MACARRONES CON YOGUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

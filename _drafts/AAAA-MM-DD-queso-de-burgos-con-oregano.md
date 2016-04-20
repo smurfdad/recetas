@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESO DE BURGOS CON OREGANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

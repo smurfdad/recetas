@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TRUCHAS DEL ALTO TAJO
-
 categories:
 - Pescados
 personas: 6 

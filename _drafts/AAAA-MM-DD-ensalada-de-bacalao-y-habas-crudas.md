@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE BACALAO Y HABAS CRUDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ INTEGRAL CON VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

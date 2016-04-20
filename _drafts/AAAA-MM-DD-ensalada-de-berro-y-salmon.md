@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE BERRO Y SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

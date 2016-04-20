@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON TORDOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

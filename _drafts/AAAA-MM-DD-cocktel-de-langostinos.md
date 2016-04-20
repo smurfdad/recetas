@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCKTEL DE LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

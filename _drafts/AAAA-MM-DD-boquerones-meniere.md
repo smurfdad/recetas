@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOQUERONES MENIÉRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

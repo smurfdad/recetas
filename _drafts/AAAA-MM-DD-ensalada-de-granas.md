@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE GRANÁS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

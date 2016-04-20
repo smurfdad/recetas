@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BISQUET DE GAMBAS
-
 categories:
 - Mariscos y moluscos
 personas: 4 

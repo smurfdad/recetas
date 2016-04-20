@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO AL PLÁTANO CANARIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

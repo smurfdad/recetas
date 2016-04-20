@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOCADITOS DE ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

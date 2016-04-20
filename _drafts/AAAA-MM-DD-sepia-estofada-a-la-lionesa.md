@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SEPIA ESTOFADA A LA LIONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

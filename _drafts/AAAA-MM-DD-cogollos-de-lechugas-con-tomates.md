@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COGOLLOS DE LECHUGAS CON TOMATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

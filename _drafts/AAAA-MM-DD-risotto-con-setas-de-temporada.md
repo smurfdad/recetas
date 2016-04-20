@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISOTTO CON SETAS DE TEMPORADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

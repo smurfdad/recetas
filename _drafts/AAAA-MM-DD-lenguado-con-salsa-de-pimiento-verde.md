@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO CON SALSA DE PIMIENTO VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

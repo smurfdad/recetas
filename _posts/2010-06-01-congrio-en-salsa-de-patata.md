@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CONGRIO EN SALSA DE PATATA
-
 categories:
 - Pescados
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LECHERITA DE CORDERO DE LECHE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

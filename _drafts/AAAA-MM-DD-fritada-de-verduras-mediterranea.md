@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITADA DE VERDURAS MEDITERRÁNEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

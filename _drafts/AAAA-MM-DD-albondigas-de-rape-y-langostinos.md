@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE RAPE Y LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

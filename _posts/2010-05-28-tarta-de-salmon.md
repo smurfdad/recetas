@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA DE SALMÓN
-
 categories:
 - Pescados
 personas: 6 

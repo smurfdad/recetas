@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO CON BECHAMEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

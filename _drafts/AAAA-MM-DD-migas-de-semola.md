@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MIGAS DE SÉMOLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

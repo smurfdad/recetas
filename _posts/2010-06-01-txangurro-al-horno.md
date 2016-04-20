@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TXANGURRO AL HORNO
-
 categories:
 - Mariscos y moluscos
 personas: 4 

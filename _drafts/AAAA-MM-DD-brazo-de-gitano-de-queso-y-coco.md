@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRAZO DE GITANO DE QUESO Y COCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

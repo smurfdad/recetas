@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERIYAKI DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

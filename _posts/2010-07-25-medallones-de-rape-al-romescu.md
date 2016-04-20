@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MEDALLONES DE RAPE AL ROMESCU
-
 categories:
 - Pescados
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA CON MELÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

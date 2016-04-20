@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUÑUELOS DE JAMÓN Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMON EN PIPERRADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

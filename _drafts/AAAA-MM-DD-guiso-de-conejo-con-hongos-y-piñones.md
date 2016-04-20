@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE CONEJO CON HONGOS Y PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COL CON MANZANAS Y CIRUELAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

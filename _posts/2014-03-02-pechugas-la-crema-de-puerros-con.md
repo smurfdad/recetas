@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PECHUGAS A LA CREMA DE PUERROS CON PATATAS DORE
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados

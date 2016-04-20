@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE DE CERDO CON CIRUELAS PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CÓCTEL DE AGUACATES CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE BACALAO Y ESCAROLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

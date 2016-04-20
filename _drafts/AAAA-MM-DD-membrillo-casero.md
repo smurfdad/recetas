@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEMBRILLO CASERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

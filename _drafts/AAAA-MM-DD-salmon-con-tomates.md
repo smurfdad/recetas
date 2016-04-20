@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN CON TOMATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

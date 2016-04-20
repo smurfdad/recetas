@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALPICÓN DE ARROZ CON VERDURAS Y TRUCHA
-
 categories:
 - Pescados
 - Verduras y legumbres

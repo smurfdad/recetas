@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO EN ESCABECHE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

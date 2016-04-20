@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA JULIANA DE AVE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTELITOS DE CREMA ALCOLEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

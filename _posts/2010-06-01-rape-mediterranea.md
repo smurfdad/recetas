@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RAPE MEDITERRÁNEA
-
 categories:
 - Pescados
 personas: 6 

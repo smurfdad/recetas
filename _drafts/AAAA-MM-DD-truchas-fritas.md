@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS FRITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

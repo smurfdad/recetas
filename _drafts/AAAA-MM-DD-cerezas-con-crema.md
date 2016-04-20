@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CEREZAS CON CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

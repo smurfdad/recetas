@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CROQUETAS DE BACALADILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

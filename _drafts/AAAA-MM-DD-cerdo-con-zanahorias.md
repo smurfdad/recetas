@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO CON ZANAHORIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

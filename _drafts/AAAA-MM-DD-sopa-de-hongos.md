@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE HONGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

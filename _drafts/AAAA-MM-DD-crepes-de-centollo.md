@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREPES DE CENTOLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

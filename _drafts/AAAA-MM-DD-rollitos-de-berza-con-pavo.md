@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS DE BERZA CON PAVO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

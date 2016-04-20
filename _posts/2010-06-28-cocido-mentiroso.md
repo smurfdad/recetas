@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COCIDO MENTIROSO
-
 categories:
 - Verduras y legumbres
 personas: 3 

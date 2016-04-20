@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIZZA DE CEBOLLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

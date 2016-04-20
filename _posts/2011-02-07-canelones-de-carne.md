@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CANELONES DE CARNE
-
 categories:
 - Carnes y derivados
 - Pastas

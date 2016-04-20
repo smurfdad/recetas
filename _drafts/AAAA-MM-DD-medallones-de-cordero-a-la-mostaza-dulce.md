@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLONES DE CORDERO A LA MOSTAZA DULCE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

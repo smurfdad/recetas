@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGA DE PAVO RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

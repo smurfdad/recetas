@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES RELLENAS DE FOIE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPINACAS CON BONITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

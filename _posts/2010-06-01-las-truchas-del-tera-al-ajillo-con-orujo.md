@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LAS TRUCHAS DEL TERA AL AJILLO CON ORUJO
-
 categories:
 - Pescados
 personas: 4 

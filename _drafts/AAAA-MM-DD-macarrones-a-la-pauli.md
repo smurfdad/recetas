@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MACARRONES A LA PAULI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

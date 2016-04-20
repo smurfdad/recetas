@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA VINAGRETA
-
 categories:
 - Salsas
 personas: 6 

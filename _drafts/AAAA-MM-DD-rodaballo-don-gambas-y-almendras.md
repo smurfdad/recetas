@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RODABALLO DON GAMBAS Y ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

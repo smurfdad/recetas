@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODILLO CON GRELOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

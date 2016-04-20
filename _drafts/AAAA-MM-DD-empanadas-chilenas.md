@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADAS CHILENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: YUVARLAKIA CON SALSA DE HUEVO Y LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

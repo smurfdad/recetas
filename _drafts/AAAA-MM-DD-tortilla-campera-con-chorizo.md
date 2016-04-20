@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA CAMPERA CON CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

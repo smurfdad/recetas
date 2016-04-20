@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHA MARINADA A LA SERRANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDÓN BLEU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

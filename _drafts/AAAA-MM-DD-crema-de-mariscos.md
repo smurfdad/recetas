@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE MARISCOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

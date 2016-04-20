@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVO EN COSTRA DE PATATAS FRITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

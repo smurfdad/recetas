@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHURROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

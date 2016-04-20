@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJAS DE BERZA EN ROLLITOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

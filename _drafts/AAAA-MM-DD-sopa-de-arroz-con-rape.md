@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE ARROZ CON RAPE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

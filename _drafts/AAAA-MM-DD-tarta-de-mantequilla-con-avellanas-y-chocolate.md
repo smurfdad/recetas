@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE MANTEQUILLA CON AVELLANAS Y CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

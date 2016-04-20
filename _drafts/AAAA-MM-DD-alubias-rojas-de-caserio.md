@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS ROJAS DE CASERÍO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

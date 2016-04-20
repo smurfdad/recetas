@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ABAJÁ A LA ALGECIREÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

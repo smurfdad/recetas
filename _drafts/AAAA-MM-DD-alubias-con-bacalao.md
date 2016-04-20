@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS CON BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

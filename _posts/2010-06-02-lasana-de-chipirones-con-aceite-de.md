@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LASAÑA DE CHIPIRONES CON ACEITE DE CEBOLLINO Y CHIPIRÓN
-
 categories:
 - Mariscos y moluscos
 - Pastas

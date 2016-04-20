@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA DE MANZANA
-
 categories:
 - Salsas
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PANECILLOS CON BUTIFARRA BLANCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

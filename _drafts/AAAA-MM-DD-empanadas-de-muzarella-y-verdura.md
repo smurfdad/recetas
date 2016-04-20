@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADAS DE MUZARELLA Y VERDURA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

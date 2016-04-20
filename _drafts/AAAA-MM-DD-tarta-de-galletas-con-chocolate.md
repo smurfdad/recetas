@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE GALLETAS CON CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

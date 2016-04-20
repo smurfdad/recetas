@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARRÉ DE CERDO CON PURÉ DE MANZANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

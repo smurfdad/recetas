@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

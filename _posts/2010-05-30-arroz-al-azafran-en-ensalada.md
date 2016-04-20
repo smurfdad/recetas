@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ AL AZAFRÁN EN ENSALADA
-
 categories:
 - Arroces
 - Ensaladas

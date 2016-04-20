@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRANIZADO DE LIMÓN CON CARAMELO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

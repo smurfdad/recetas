@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS EN NIDO DE ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

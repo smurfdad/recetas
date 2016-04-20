@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTOS RELLENOS DE BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

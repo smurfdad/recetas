@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ENDIBIAS Y POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

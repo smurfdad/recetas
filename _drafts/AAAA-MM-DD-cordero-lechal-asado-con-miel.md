@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO LECHAL ASADO CON MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

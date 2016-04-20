@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MACEDONIA AGRIDULCE TEMPLADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

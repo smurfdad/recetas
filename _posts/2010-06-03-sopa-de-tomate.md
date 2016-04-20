@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA DE TOMATE
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELÓN DE PATATA Y SARDINA DE CUBO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

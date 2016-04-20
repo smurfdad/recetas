@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLOS SALSA ARCHIDUQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

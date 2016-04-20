@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS AL AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAPE CON SETAS Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

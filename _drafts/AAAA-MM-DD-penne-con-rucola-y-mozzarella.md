@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PENNE CON RUCOLA Y MOZZARELLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

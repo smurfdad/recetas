@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BACALAO CON PIMIENTOS
-
 categories:
 - Pescados
 personas: 6 

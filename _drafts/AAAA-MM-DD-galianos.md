@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALIANOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

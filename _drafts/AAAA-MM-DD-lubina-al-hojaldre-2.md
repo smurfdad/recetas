@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA AL HOJALDRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

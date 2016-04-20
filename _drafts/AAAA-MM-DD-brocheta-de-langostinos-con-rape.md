@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE LANGOSTINOS CON RAPE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

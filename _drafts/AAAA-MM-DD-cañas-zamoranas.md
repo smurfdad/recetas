@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAÑAS ZAMORANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

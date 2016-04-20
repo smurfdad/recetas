@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO ÁLEX
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POLLO PROVENCALE
-
 categories:
 - Carnes y derivados
 personas: 4 

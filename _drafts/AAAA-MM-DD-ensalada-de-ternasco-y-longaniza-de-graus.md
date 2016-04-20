@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE TERNASCO Y LONGANIZA DE GRAUS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

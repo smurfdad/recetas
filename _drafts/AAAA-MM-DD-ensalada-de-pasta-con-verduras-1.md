@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PASTA CON VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

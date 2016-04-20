@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREPINETAS CON OSTRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENVUELTOS DE COL Y CANGREJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

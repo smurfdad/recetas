@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASADO TROPICAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

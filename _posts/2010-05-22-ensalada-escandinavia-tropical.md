@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA ESCANDINAVIA TROPICAL
-
 categories:
 - Ensaladas
 personas: 6 

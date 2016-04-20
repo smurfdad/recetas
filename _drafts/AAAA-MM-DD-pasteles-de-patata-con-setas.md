@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTELES DE PATATA CON SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

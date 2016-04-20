@@ -1,7 +1,6 @@
 ---
 layout: post
 title: STRACOTTO ALLA LOMBARDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

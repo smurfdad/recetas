@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO AL RIBEIRO TINTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

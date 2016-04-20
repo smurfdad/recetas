@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORAZONES DE QUESO A LAS FINAS HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

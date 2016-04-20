@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ DE CUARESMA ALTOARAGONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

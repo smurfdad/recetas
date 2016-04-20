@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA A LA SEVILLANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

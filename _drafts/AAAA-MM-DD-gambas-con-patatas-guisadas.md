@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAMBAS CON PATATAS GUISADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

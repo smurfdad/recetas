@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHA SALMONADA TERIYAKI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

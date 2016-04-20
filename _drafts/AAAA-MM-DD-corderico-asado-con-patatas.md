@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERICO ASADO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

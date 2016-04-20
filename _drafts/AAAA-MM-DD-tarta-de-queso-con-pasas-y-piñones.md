@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE QUESO CON PASAS Y PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

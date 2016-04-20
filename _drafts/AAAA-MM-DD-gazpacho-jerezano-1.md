@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO JEREZANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

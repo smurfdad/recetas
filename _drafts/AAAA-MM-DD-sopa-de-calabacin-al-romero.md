@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE CALABACIN AL ROMERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

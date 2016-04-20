@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CALDERETA DE PESCADORES
-
 categories:
 - Pescados
 ---

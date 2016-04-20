@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BASQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

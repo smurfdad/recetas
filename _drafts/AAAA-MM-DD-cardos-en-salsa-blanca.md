@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARDOS EN SALSA BLANCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

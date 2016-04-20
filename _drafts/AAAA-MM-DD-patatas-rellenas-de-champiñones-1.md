@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS RELLENAS DE CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LA CASITA DE LA BRUJA PIRINDOLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

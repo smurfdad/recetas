@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACÍN MEDITERRÁNEO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

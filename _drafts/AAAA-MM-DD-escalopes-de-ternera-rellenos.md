@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPES DE TERNERA RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

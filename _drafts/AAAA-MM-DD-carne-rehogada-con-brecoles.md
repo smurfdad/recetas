@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE REHOGADA CON BRÉCOLES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

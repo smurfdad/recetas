@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCKTAIL CHICOTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

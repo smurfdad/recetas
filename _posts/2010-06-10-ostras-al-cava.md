@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: OSTRAS AL CAVA
-
 categories:
 - Mariscos y moluscos
 personas: 4 

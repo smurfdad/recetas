@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN BELLAVISTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

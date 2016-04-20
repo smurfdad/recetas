@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IDIAZABAL EN PIPERRADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE CIRUELAS Y ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

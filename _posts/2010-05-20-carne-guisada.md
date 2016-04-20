@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CARNE GUISADA
-
 categories:
 - Carnes y derivados
 personas: 6 

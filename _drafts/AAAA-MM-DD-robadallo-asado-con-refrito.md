@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROBADALLO ASADO CON REFRITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SUKALKI A LA HÚNGARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

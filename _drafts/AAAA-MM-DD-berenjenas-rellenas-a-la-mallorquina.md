@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS RELLENAS A LA MALLORQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

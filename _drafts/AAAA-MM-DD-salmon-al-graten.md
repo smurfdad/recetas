@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN AL GRATÉN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

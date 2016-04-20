@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO ANDALUZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

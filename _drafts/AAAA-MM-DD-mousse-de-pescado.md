@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE PESCADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GARBANZOS CON PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

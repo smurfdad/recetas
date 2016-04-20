@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VIEIRAS SENCILLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

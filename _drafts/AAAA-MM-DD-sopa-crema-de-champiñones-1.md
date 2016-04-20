@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA CREMA DE CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

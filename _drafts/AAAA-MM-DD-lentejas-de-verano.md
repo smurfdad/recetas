@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS DE VERANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

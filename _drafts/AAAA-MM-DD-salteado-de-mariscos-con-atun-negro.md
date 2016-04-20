@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALTEADO DE MARISCOS CON ATUN NEGRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

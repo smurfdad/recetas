@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE QUESO GRATINADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SEPIA CON GUISANTES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

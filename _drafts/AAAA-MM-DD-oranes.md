@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ORANES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

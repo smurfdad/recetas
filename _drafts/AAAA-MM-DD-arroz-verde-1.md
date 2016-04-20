@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

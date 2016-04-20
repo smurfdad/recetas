@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: GELATINA DE PIÑA Y LIMÓN
-
 categories:
 - Postres y dulces
 personas: 8 

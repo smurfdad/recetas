@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ BLANCO CON HUEVOS A LA ITALIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE CEBOLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

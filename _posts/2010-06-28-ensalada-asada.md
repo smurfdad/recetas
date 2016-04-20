@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA ASADA
-
 categories:
 - Verduras y legumbres
 - Ensaladas

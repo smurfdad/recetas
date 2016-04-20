@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ACELGAS AL NATURAL
-
 categories:
 - Verduras y legumbres
 personas: 6 

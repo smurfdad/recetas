@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CARN AL TOMBET
-
 categories:
 - Carnes y derivados
 personas: 4 

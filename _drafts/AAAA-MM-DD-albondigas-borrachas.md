@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS BORRACHAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

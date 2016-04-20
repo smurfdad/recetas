@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CROQUETAS DULCES DE ARROZ
-
 categories:
 - Arroces
 - Postres y dulces

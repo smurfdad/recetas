@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PEPINOS Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

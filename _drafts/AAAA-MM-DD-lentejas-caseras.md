@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS CASERAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

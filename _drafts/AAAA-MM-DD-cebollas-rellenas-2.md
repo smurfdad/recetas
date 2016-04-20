@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CEBOLLAS RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

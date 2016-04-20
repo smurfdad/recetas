@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA FRESCA CON SALSA CARBONARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

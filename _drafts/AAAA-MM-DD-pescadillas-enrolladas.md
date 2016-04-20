@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADILLAS ENROLLADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

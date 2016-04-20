@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCIDO MALAGUEÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

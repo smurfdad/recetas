@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADAS DE JAMÓN QUESO Y HUEVO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

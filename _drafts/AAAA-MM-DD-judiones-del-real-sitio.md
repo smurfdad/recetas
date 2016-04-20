@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDIONES DEL REAL SITIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

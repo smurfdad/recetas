@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGHETIS A LO TRAPPER.
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

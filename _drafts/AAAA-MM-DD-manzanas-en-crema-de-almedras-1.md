@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANZANAS EN CREMA DE ALMEDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

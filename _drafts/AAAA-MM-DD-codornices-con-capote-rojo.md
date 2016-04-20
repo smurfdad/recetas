@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES CON CAPOTE ROJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

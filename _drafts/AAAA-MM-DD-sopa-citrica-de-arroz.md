@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA CÍTRICA DE ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

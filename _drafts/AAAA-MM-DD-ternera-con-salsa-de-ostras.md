@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA CON SALSA DE OSTRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

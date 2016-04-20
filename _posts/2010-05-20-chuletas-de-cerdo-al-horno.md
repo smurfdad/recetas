@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHULETAS DE CERDO AL HORNO
-
 categories:
 - Carnes y derivados
 personas: 6 

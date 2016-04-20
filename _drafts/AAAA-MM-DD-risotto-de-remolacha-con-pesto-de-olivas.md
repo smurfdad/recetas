@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISOTTO DE REMOLACHA CON PESTO DE OLIVAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

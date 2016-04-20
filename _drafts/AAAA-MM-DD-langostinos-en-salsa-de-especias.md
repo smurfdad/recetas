@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTINOS EN SALSA DE ESPECIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

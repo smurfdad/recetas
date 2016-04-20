@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LOMOS DE BONITO ENCEBOLLADOS
-
 categories:
 - Pescados
 ---

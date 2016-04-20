@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELONES DE RAPE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

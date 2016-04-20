@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BESUGO A LA ESPALDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

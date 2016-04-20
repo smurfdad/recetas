@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TÓRTOLAS AL VINO TINTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

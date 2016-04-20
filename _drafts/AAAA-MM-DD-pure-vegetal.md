@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PURÉ VEGETAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

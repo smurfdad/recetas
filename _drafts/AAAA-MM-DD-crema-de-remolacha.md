@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE REMOLACHA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

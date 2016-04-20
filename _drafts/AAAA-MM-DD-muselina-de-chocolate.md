@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MUSELINA DE CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

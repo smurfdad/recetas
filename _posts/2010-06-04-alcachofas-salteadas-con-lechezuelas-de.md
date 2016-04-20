@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALCACHOFAS SALTEADAS CON LECHEZUELAS DE CORDERO
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados

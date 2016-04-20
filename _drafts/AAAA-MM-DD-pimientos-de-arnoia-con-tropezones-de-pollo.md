@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTOS DE ARNOIA CON TROPEZONES DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

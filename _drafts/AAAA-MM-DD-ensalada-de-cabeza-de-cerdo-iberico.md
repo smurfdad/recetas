@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE CABEZA DE CERDO IBÉRICO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

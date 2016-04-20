@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ACEITUNAS RELLENAS FRITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

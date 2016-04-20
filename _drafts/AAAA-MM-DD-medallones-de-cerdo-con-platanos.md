@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLONES DE CERDO CON PLÁTANOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

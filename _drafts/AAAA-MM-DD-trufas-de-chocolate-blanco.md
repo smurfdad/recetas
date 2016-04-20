@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUFAS DE CHOCOLATE BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

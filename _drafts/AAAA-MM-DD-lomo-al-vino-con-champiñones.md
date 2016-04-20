@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO AL VINO CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AMARGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

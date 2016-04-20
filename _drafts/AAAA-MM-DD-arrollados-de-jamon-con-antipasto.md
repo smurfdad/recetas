@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROLLADOS DE JAMÓN CON ANTIPASTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

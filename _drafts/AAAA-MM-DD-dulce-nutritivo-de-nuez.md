@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DULCE NUTRITIVO DE NUEZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

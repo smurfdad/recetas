@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADA NAPOLITANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

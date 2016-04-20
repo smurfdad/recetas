@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS CON PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

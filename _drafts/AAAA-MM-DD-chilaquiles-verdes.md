@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHILAQUILES VERDES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

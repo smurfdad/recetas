@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELONES VEGETALES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MORCILLO DE TERNERA GRATINADO EN OLLA A PRESIÓN
-
 categories:
 - Carnes y derivados
 personas: 4 

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS A LA BOLOÑESA
-
 categories:
 - Pastas
 personas: 6 

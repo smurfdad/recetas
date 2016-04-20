@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIRAMISÚ CASPOLINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

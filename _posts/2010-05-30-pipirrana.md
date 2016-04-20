@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PIPIRRANA
-
 categories:
 - Ensaladas
 ---

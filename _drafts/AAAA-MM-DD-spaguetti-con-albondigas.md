@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGUETTI CON ALBÓNDIGAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

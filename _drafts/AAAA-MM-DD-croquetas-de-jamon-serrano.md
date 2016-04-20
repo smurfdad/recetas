@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CROQUETAS DE JAMÓN SERRANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ AL AMPURDÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

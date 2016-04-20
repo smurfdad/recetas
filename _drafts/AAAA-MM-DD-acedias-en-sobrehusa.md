@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ACEDIAS EN SOBREHUSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

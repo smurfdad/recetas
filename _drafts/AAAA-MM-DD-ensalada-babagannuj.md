@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA BABAGANNUJ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

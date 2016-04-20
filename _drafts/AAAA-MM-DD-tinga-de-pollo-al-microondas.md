@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TINGA DE POLLO AL MICROONDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

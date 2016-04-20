@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZUMO DE BROTES DE ALFALFA Y ZANAHORIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

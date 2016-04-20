@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO ROLLITO DE SALMÓN AHUMADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

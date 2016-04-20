@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPECIAL DE PESCADOS EN SALSA DE ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

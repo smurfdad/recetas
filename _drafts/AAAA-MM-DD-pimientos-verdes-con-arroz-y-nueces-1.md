@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTOS VERDES CON ARROZ Y NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

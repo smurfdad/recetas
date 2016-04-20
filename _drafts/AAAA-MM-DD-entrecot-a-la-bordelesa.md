@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENTRECOT A LA BORDELESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

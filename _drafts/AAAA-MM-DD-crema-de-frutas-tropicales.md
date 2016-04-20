@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE FRUTAS TROPICALES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

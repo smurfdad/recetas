@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE CORDERO TRUFADO AL HOJALDRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

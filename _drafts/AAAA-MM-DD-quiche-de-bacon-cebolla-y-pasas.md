@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUICHE DE BACÓN, CEBOLLA Y PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

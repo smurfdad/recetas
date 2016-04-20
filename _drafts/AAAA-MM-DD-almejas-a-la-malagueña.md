@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS A LA MALAGUEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

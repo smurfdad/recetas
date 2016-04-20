@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERO AL HORNO
-
 categories:
 - Pescados
 personas: 4 

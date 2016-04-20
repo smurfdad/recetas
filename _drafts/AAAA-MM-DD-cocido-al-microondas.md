@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCIDO AL MICROONDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

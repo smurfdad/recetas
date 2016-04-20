@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRONCO DE ESPINACAS Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

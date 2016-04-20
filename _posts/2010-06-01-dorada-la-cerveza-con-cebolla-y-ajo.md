@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: DORADA A LA CERVEZA, CON CEBOLLA Y AJO
-
 categories:
 - Pescados
 personas: 4 

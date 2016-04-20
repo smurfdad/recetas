@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POSTRES ESPECIAL DE MALVAVISCOS CON FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

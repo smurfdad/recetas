@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RODABALLO EN SALSA VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

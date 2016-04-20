@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONFITES BLANCOS DE ALBARICOQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

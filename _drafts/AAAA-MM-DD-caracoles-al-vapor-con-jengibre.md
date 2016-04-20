@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARACOLES AL VAPOR CON JENGIBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO DE CASTAÑAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

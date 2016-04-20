@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO ENREJADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

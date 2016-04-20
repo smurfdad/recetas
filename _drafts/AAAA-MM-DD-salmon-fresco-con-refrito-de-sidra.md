@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN FRESCO CON REFRITO DE SIDRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

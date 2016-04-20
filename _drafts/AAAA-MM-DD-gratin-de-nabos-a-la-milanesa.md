@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRATÍN DE NABOS A LA MILANESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

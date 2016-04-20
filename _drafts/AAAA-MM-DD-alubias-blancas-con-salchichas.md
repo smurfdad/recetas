@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS BLANCAS CON SALCHICHAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

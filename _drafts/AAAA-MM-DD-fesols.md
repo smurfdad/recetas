@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FESOLS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO AL GENJIBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

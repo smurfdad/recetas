@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE HUERTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

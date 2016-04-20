@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDEIRADA GALLEGA CON FONDO CALDOSO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

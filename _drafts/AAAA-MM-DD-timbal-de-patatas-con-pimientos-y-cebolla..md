@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIMBAL DE PATATAS CON PIMIENTOS Y CEBOLLA.
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

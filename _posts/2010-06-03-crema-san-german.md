@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA SAN GERMAN
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

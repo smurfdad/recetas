@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS AL VINO FINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

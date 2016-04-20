@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ A BANDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

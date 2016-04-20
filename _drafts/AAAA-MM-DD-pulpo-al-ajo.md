@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PULPO AL AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

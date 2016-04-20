@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PILAF DE LENTEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

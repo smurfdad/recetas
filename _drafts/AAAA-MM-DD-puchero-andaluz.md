@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUCHERO ANDALUZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

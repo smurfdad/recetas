@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE HÍGADO DE RES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

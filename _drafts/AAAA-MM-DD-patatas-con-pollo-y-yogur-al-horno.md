@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS CON POLLO Y YOGUR AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

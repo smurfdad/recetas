@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS CON BACÓN Y PIMIENTOS DEL PIQUILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAELLA SIMPLE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

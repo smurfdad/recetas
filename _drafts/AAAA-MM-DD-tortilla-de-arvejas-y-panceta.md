@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA DE ARVEJAS Y PANCETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

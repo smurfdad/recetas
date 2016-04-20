@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLOS AL OPORTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

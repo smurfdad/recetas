@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITATTA SUPREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

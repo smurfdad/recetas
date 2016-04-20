@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALITAS DE POLLO ESTILO CALLOS -DE LA ABUELA-
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

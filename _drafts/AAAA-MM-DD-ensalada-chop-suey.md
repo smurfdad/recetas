@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA CHOP SUEY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

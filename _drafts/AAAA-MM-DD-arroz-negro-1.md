@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ NEGRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

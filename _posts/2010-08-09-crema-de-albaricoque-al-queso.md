@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE ALBARICOQUE AL QUESO
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

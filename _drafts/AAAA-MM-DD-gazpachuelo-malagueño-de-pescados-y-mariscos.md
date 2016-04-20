@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHUELO MALAGUEÑO DE PESCADOS Y MARISCOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHOCOLATE EN TEXTURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

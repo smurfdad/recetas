@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASADURA DE CORDERO EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTINOS A LA MANTEQUILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

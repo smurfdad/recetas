@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE RAPE Y BERBERECHOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

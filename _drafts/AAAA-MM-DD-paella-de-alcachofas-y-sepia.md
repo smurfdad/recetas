@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAELLA DE ALCACHOFAS Y SEPIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

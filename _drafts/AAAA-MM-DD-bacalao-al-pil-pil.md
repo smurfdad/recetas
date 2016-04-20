@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO AL PIL-PIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

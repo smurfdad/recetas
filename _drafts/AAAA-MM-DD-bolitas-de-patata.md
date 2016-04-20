@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLITAS DE PATATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

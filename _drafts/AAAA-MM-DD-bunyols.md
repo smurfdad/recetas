@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUNYOLS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

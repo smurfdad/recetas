@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES A LA CREMA DE CAMARONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

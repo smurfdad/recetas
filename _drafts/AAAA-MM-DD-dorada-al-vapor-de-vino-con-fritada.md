@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA AL VAPOR DE VINO CON FRITADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

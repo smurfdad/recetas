@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NARANJAS CON ACEITE DE OLIVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

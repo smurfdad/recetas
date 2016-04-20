@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RABO DE BUEY CON HABONES DE SANABRIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

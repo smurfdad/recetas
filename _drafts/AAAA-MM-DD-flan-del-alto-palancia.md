@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAN DEL ALTO PALANCIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

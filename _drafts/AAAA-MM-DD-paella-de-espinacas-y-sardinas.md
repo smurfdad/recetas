@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAELLA DE ESPINACAS Y SARDINAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

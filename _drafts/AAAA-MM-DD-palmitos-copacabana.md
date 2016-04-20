@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALMITOS COPACABANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDIN DE CALABAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

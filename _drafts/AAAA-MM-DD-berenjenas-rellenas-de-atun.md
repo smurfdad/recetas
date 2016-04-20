@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS RELLENAS DE ATÚN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

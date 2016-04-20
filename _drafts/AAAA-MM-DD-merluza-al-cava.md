@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA AL CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

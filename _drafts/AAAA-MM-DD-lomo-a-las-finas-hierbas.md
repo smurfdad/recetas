@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO A LAS FINAS HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

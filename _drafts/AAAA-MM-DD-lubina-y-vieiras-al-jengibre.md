@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA Y VIEIRAS AL JENGIBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

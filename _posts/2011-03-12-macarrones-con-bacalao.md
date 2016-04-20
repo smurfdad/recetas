@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MACARRONES CON BACALAO
-
 categories:
 - Pescados
 - Pastas

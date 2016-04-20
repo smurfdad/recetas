@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS DE ATUN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

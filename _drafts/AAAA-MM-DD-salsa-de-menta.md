@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE MENTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

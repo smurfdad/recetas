@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERRINA DE HIGADITOS DE POLLO CON APIO NABO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

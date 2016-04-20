@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA TEMPLADA DE LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE PESCADO EN SALSA DE GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

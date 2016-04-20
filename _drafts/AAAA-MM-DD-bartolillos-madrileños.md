@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BARTOLILLOS MADRILEÑOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

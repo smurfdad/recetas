@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS A LO POBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

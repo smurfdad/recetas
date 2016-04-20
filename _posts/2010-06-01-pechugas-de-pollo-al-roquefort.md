@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PECHUGAS DE POLLO AL ROQUEFORT
-
 categories:
 - Carnes y derivados
 personas: 4 

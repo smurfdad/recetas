@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CINTA DE LOMO EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

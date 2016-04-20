@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACITAS MEXICANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

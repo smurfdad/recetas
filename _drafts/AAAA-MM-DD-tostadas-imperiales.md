@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOSTADAS IMPERIALES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

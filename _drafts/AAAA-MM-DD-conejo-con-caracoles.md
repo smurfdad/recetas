@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO CON CARACOLES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

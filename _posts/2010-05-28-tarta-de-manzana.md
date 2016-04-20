@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA DE MANZANA
-
 categories:
 - Postres y dulces
 - Frutas

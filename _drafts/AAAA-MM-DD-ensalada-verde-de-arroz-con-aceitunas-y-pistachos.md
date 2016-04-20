@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA VERDE DE ARROZ CON ACEITUNAS Y PISTACHOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

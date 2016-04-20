@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERAS CON CHOCOLATE Y MENTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

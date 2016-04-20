@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLONES DE TERNERA A LA PIMIENTA VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

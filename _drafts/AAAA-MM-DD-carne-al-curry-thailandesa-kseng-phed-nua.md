@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE AL CURRY THAILANDESA KSENG PHED NUA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

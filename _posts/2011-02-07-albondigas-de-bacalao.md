@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALBONDIGAS DE BACALAO
-
 categories:
 - Pescados
 personas: 6 

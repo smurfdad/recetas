@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALOMA TORCAZ EN SU SALSA TRADICIONAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

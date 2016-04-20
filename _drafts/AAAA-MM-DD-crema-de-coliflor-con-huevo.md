@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE COLIFLOR CON HUEVO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

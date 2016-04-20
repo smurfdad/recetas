@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALTADO DE ABADEJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

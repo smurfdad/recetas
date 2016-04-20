@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA AL GRATÍN PROVENZALA DE CONGRIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

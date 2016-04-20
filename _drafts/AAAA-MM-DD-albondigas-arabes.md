@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS ÁRABES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

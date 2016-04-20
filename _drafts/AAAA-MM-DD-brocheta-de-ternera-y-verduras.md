@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE TERNERA Y VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

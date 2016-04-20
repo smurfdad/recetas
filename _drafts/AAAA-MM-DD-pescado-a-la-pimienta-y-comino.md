@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADO A LA PIMIENTA Y COMINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

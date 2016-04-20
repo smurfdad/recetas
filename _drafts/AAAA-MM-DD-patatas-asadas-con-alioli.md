@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS ASADAS CON ALIOLI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

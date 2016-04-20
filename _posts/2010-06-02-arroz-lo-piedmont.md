@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ A LO PIEDMONT
-
 categories:
 - Arroces
 personas: 4 

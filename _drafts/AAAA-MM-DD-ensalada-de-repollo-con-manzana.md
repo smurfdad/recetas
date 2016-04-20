@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE REPOLLO CON MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOGAVANTE EN SALSA ROSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

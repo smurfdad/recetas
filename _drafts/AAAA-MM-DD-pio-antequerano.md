@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PÍO ANTEQUERANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

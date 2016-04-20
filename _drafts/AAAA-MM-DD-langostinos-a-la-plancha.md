@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTINOS A LA PLANCHA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

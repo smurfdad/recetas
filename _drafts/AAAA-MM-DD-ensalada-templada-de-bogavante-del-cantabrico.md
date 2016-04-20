@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA TEMPLADA DE BOGAVANTE DEL CANTABRICO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

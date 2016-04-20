@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA DE SETAS
-
 categories:
 - Salsas
 - Setas y hongos

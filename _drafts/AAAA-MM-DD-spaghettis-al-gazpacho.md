@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGHETTIS AL GAZPACHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

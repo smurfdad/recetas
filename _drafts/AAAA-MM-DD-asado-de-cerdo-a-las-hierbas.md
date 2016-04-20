@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASADO DE CERDO A LAS HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

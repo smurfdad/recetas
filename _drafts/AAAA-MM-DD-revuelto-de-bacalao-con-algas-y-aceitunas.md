@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE BACALAO CON ALGAS Y ACEITUNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

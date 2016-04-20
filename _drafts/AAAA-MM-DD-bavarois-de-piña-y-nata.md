@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BAVAROIS DE PIÑA Y NATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

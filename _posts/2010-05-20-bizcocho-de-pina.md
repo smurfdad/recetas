@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BIZCOCHO DE PIÑA
-
 categories:
 - Postres y dulces
 personas: 6 

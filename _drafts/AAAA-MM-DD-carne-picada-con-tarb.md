@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE PICADA CON TARB
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

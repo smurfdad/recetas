@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITO MALLORQUIN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

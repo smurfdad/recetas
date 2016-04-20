@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA MÁXIMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

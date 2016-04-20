@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZÓN EN AMARILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

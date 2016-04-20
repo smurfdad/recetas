@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENTREMÉS A LA CHINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

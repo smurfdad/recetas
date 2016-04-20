@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO MIL SABORES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

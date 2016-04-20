@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CAN MOLÍ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

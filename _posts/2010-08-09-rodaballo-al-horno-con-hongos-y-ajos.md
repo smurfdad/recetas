@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RODABALLO AL HORNO CON HONGOS Y AJOS CONFITADOS
-
 categories:
 - Pescados
 - Setas y hongos

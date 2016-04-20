@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO CON TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

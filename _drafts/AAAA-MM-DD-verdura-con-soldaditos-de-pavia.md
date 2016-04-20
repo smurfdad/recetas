@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VERDURA CON SOLDADITOS DE PAVIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

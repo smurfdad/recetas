@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REDONDO DE TERNERA GUISADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

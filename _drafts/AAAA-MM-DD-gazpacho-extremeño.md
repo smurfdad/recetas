@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO EXTREMEÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

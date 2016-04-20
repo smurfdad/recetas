@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MACARRONES CON BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES ESCABECHADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS CON ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

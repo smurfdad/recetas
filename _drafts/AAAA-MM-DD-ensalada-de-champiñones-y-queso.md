@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE CHAMPIÑONES Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

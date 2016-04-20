@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGA A LA FLORENTINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

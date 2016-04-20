@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SETAS AL BRANDY
-
 categories:
 - Setas y hongos
 personas: 8 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAN DE LECHE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

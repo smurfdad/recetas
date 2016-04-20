@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO FRESCO CON ANCHOAS EN SALAZÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

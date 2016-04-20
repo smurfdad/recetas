@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMPOTA DE MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

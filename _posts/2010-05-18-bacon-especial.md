@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BACON ESPECIAL
-
 categories:
 - Carnes y derivados
 personas: 4 

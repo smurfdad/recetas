@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PLATO DE DELICIAS DE BOSQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

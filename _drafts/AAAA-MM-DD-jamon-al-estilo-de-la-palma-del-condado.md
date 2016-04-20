@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAMÓN AL ESTILO DE LA PALMA DEL CONDADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

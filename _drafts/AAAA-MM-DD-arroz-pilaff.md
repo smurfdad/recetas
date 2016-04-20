@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ PILAFF
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

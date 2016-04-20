@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO CON UVAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

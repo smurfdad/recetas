@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COLIFLOR CON SALSA DE PIMENTÓN
-
 categories:
 - Verduras y legumbres
 personas: 4 

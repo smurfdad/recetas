@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE YOGUR Y AJONJOLÍ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

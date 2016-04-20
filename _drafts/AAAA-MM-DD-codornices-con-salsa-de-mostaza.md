@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES CON SALSA DE MOSTAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

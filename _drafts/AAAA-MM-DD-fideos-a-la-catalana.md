@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEOS A LA CATALANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANOS DE CERDO ESTOFADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

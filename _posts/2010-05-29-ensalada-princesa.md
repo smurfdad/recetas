@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA PRINCESA
-
 categories:
 - Ensaladas
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS VERDES CON JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

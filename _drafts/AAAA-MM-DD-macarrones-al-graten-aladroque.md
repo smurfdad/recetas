@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MACARRONES AL GRATÉN ALADROQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

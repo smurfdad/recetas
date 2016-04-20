@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJO VIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

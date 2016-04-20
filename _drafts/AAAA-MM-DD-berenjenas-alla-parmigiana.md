@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS ALLA PARMIGIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

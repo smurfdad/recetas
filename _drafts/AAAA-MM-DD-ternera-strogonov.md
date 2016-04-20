@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA STROGONOV
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

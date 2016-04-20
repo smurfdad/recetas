@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS RELLENAS DE REQUESÓN Y NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

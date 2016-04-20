@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MENJAR BLANC MALLORQUIN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAS DE CORDERO ADOBADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

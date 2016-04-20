@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES Y GAMBONES SALTEADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

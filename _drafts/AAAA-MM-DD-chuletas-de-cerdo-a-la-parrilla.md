@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS DE CERDO A LA PARRILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

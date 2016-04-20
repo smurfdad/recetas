@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO DE BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

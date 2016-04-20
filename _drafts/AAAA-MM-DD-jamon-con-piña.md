@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAMÓN CON PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

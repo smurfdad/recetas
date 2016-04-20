@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CALABAZA CON PILONCILLO.
-
 categories:
 - Verduras y legumbres
 personas: 3 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTINOS DEL MAR MENOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

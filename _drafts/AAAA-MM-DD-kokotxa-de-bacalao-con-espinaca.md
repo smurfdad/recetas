@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KOKOTXA DE BACALAO CON ESPINACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

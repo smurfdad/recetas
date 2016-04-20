@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COPA DE ALBARICOQUE AL KIRSCH
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

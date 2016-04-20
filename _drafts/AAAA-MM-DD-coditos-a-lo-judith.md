@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODITOS A LO JUDITH
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

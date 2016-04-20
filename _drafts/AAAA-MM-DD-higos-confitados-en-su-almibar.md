@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HIGOS CONFITADOS EN SU ALMÍBAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

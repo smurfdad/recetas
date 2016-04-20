@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JARRETES DE CORDERO CON CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

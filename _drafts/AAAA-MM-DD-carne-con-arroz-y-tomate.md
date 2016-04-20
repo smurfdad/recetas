@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE CON ARROZ Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA RATATOUILLE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA CAPRESE
-
 categories:
 - Ensaladas
 personas: 6 

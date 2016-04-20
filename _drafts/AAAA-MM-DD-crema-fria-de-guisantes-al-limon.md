@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA FRIA DE GUISANTES AL LIMON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

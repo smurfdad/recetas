@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA CON ALCACHOFAS Y ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA A LA CERVEZA, CON CEBOLLA Y AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

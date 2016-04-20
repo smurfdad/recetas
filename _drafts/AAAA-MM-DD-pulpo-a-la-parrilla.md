@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PULPO A LA PARRILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO PATATA RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

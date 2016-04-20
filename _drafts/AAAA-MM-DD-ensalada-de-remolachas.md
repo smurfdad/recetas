@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE REMOLACHAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

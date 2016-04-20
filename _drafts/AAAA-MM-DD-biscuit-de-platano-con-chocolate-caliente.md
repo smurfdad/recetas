@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BISCUIT DE PLÁTANO CON CHOCOLATE CALIENTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

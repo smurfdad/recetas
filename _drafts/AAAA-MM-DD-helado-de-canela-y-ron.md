@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HELADO DE CANELA Y RON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO DE NAVIDAD RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPÁRRAGOS GRATINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

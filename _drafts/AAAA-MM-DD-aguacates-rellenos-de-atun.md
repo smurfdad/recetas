@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AGUACATES RELLENOS DE ATUN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

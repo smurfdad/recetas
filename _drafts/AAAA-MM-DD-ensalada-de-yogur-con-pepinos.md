@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE YOGUR CON PEPINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

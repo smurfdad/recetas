@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDIZ ESTOFADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

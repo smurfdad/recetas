@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAN TOSTADO CON SOBRASADA Y MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

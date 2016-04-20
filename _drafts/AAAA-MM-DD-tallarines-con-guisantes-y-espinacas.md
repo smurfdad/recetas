@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES CON GUISANTES Y ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

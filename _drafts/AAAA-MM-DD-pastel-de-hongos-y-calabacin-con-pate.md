@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE HONGOS Y CALABACÍN CON PATÉ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

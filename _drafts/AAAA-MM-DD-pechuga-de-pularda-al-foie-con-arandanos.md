@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGA DE PULARDA AL FOIE CON ARÁNDANOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA MIXTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

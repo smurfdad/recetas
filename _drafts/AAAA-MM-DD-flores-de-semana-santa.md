@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLORES DE SEMANA SANTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

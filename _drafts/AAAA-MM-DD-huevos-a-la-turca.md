@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS A LA TURCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

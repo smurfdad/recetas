@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOCADITOS DE SOLOMILLO RELLENOS DE QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

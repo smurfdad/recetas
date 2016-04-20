@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CODITOS CON CARNE, CHAMPIÑONES Y PANCETA AHUMADA
-
 categories:
 - Carnes y derivados
 personas: 4 

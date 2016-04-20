@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TALLARINES CON POLLO Y CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Pastas

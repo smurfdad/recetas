@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDO CORTO PARA PESCADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

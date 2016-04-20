@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIÑA RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

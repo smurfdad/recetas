@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE FRUTAS
-
 categories:
 - Ensaladas
 - Frutas

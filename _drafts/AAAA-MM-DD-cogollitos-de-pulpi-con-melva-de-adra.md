@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COGOLLITOS DE PULPÍ CON MELVA DE ADRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

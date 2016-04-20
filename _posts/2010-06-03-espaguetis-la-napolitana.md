@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS A LA NAPOLITANA
-
 categories:
 - Pastas
 personas: 6 

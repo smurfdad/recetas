@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAPAS BATIDAS CON CREMA AGRIA Y CEBOLLINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MORUNA DE SARDINAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

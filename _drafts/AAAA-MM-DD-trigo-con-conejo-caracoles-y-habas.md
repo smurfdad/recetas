@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRIGO CON CONEJO, CARACOLES Y HABAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

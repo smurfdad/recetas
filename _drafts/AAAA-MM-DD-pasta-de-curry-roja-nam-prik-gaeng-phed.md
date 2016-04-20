@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA DE CURRY ROJA NAM PRIK GAENG PHED
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

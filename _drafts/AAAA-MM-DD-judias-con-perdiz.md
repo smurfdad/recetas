@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDIAS CON PERDIZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

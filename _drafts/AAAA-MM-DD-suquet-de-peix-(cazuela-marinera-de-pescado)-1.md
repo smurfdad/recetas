@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SUQUET DE PEIX (CAZUELA MARINERA DE PESCADO)
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

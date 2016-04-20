@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MUSAKA VEGETAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

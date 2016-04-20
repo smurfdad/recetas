@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA VELUTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

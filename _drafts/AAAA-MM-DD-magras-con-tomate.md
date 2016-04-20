@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MAGRAS CON TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

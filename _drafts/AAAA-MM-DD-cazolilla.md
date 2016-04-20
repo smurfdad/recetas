@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZOLILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GROG
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AGUACATES FLAMEADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALPICÓN DE PULPO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

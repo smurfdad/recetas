@@ -1,11 +1,8 @@
 ---
 layout: post
-
 title: ALUBIAS ROJAS
-
 categories:
 - Verduras y legumbres
-
 tags:
 - alubias
 - cebolla

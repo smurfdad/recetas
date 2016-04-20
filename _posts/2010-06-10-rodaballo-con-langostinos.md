@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RODABALLO CON LANGOSTINOS
-
 categories:
 - Pescados
 - Mariscos y moluscos

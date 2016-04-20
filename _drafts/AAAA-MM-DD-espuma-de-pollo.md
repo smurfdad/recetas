@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPUMA DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

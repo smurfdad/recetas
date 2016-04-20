@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERENGUES DE CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

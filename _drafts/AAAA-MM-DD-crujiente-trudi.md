@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CRUJIENTE TRUDI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

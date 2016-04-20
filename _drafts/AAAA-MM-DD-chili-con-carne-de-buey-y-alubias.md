@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHILI CON CARNE DE BUEY Y ALUBIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

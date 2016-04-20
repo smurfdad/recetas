@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS DEL PUCHERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

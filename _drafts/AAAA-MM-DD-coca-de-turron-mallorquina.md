@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCA DE TURRÓN MALLORQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

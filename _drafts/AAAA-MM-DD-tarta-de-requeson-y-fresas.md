@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE REQUESÓN Y FRESAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

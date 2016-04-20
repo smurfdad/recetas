@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAPE A LA CREMA DE AJOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

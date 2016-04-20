@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BONITO CON TOMATE
-
 categories:
 - Pescados
 personas: 6 

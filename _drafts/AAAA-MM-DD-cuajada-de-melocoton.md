@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CUAJADA DE MELOCOTÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

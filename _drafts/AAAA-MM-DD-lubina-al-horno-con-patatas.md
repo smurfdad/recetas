@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA AL HORNO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

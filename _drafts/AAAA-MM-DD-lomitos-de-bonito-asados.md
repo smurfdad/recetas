@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMITOS DE BONITO ASADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

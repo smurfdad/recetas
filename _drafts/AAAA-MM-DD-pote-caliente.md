@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTE CALIENTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

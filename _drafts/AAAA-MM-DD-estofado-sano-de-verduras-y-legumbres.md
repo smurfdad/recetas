@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO SANO DE VERDURAS Y LEGUMBRES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

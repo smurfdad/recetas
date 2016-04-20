@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADA DE JAMON YORK Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

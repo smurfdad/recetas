@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BACALAO AL ESTILO DE MI ABUELA
-
 categories:
 - Pescados
 personas: 4 

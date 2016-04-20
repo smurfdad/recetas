@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE BERBERECHOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

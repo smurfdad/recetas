@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITE EXTREMEÑO DE CORDERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

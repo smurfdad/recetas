@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ACELGAS EN ESCABECHE
-
 categories:
 - Verduras y legumbres
 personas: 4 

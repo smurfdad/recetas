@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HUEVOS CON ESPINACAS
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PLUM CAKE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

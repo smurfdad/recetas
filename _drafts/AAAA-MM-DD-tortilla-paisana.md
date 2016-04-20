@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA PAISANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

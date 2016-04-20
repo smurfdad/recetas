@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON PANCETA Y CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

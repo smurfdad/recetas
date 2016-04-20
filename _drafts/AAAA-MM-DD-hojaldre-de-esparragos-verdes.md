@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJALDRE DE ESPÁRRAGOS VERDES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

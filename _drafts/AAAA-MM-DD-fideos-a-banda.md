@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEOS A BANDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

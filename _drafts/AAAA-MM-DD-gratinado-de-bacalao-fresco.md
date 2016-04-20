@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRATINADO DE BACALAO FRESCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

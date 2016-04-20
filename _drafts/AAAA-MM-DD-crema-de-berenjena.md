@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE BERENJENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

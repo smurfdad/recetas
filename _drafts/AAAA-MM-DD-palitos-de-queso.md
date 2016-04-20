@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALITOS DE QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

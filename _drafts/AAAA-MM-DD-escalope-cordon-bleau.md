@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPE CORDON BLEAU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

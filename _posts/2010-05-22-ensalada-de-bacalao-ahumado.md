@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE BACALAO AHUMADO
-
 categories:
 - Pescados
 - Ensaladas

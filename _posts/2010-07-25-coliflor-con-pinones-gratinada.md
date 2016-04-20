@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COLIFLOR CON PIÑONES GRATINADA
-
 categories:
 - Verduras y legumbres
 personas: 4 

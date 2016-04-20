@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTITA DE MEMBRILLO, FRESONES Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

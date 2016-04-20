@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA ESPUMOSA DE UVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

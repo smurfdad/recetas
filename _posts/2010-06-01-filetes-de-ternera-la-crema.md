@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FILETES DE TERNERA A LA CREMA
-
 categories:
 - Carnes y derivados
 personas: 4 

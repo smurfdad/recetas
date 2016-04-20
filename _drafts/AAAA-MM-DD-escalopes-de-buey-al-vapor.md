@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPES DE BUEY AL VAPOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

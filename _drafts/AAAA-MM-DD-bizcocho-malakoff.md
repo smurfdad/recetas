@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO MALAKOFF
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

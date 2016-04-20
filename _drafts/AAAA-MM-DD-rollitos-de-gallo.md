@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS DE GALLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS BRAVAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

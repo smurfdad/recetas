@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PURÉ DE PUERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

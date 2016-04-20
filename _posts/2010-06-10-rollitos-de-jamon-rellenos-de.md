@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ROLLITOS DE JAMÓN RELLENOS DE ENSALADILLA RUSA
-
 categories:
 - Pescados
 - Verduras y legumbres

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MELÓN A LAS ESPECIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

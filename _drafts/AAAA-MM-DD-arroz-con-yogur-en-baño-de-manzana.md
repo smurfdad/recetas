@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON YOGUR EN BAÑO DE MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

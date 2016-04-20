@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAS A LA VILLAROY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

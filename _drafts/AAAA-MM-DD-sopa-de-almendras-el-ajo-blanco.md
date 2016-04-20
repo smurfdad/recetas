@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE ALMENDRAS EL AJO BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

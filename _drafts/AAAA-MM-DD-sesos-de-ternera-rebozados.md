@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SESOS DE TERNERA REBOZADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

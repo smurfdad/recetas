@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS DE SOLOMILLO DE CERDO IBÉRICO CON JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

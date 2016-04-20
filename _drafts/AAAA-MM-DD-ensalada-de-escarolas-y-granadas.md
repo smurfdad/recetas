@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ESCAROLAS Y GRANADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

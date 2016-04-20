@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO DE PLÁTANO Y CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

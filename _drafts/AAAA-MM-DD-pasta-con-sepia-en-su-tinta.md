@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA CON SEPIA EN SU TINTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

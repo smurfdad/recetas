@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERAS GRATINADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

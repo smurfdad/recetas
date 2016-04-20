@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COGOLLICOS DE LA RIBERA EN SALSA TEMPLADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS CON JAMÓN Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

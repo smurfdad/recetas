@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FUSSILLI CON AHUMADO
-
 categories:
 - Pastas
 personas: 6 

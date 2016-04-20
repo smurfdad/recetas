@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PULPO CON CEBOLLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

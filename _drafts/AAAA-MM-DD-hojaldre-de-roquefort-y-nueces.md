@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJALDRE DE ROQUEFORT Y NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

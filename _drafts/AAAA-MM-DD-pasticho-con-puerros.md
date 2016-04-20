@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTICHO CON PUERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

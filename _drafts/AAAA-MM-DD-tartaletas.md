@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTALETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

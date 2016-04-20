@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS A LA ESCOCESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

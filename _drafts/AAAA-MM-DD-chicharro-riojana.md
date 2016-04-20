@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHICHARRO RIOJANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

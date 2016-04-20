@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO DE ENSALADA DE PIMIENTOS Y JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

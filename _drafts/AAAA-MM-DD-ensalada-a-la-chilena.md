@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA A LA CHILENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

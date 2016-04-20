@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE PATATAS Y JAMÓN SERRANO
-
 categories:
 - Carnes y derivados
 personas: 4 

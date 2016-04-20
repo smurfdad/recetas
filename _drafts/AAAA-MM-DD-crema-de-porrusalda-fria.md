@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE PORRUSALDA FRÍA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

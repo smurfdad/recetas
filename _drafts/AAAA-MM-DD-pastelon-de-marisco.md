@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTELÓN DE MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

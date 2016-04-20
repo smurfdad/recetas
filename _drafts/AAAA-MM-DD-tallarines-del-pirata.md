@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES DEL PIRATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

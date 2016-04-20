@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS BLANCAS EN ENSALADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

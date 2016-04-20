@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CONEJO CON ARROZ Y TRUFAS
-
 categories:
 - Arroces
 - Carnes y derivados

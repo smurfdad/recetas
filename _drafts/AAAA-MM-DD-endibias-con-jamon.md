@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENDIBIAS CON JAMON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

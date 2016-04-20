@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POLLO A LA INDIA
-
 categories:
 - Carnes y derivados
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE JUDIAS VERDES Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAMBAS AL AJILLO CON TOMATE Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE CON ALBAHACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

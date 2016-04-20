@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS POSADERAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

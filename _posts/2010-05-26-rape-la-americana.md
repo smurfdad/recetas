@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RAPE A LA AMERICANA
-
 categories:
 - Pescados
 personas: 6 

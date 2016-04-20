@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLO TURRESILANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

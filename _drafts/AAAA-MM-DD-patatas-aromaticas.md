@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS AROMÁTICAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PEZ ESPADA A LA MIEL
-
 categories:
 - Pescados
 ---

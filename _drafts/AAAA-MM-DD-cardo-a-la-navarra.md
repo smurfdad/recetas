@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARDO A LA NAVARRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

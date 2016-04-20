@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS DUROS GRATINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

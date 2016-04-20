@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: GRATINADO DE POLLO CON VERDURA
-
 categories:
 - Carnes y derivados
 personas: 2 

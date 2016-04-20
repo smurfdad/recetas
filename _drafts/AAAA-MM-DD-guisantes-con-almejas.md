@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISANTES CON ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

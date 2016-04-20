@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SHAKSHUKA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

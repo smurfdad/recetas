@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA VARIADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA BARBARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

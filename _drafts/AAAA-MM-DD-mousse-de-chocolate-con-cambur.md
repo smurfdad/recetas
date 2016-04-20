@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE CHOCOLATE CON CAMBUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

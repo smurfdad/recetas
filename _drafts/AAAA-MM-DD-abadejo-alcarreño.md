@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ABADEJO ALCARREÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

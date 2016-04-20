@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CACHAPAS DE BUDARE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

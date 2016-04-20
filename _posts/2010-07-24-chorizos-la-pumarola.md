@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHORIZOS A LA PUMAROLA
-
 categories:
 - Carnes y derivados
 personas: 4 

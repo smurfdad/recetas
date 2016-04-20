@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATITAS DE CERDO EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

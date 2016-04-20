@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA CON QUESO
-
 categories:
 - Ensaladas
 personas: 4 

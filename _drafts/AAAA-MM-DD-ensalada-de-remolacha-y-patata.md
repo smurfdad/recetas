@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE REMOLACHA Y PATATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

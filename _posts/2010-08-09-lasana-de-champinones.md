@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LASAÑA DE CHAMPIÑONES
-
 categories:
 - Pastas
 - Setas y hongos

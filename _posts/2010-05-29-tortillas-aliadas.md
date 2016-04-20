@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TORTILLAS ALIADAS
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

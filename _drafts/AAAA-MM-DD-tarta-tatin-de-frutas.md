@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA TATÍN DE FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE SANTIAGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

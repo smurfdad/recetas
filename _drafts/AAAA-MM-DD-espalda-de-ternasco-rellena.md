@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPALDA DE TERNASCO RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

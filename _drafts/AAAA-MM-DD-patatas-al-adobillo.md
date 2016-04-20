@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS AL ADOBILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLANES DE PESCADO AL CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

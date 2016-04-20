@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREPES CON ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

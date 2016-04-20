@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE GAMBAS SALMÓN Y SEPIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

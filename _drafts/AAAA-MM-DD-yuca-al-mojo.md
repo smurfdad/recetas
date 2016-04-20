@@ -1,7 +1,6 @@
 ---
 layout: post
 title: YUCA AL MOJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLOS OLAZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

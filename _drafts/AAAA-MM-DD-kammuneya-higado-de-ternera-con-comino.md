@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KAMMUNEYA, HÍGADO DE TERNERA CON COMINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

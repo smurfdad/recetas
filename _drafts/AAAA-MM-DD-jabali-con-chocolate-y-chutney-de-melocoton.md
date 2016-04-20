@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JABALÍ CON CHOCOLATE Y CHUTNEY DE MELOCOTÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

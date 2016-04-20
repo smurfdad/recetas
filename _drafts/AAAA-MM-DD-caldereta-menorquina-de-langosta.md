@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETA MENORQUINA DE LANGOSTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

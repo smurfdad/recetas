@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES PICANTES AL VAPOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES A LA CARBONARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

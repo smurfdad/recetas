@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO BLANQUEADO CON ALIÑO DE HUNAN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

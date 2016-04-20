@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIERNA DE LECHAZO RELLENA DE NÍSCALOS Y PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

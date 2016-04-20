@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERLUZA ASALMONADA
-
 categories:
 - Pescados
 personas: 6 

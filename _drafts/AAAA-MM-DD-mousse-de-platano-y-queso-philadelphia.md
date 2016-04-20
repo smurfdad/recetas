@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE PLÁTANO Y QUESO PHILADELPHIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE ESPÁRRAGOS TRIGUEROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS CON PAPAS Y ATUN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SUPREMAS DE PESCADO CON SALSA DE PUERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

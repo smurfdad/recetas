@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TEMPURA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

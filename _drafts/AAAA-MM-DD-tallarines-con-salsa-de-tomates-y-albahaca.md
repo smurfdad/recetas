@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES CON SALSA DE TOMATES Y ALBAHACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIERNAS DE CABRITO A DOS FUEGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

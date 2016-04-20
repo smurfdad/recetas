@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LASAÑA DE SALMÓN Y BRÉCOL
-
 categories:
 - Pescados
 - Verduras y legumbres

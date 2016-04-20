@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO CON OREJONES DE CALANDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

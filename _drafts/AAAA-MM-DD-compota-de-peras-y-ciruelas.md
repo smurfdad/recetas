@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMPOTA DE PERAS Y CIRUELAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

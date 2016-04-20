@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDIN DE ESPINACAS Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

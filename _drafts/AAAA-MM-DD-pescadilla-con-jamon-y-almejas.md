@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADILLA CON JAMÓN Y ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

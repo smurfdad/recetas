@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FANTASÍA DE AVELLANA
-
 categories:
 - Postres y dulces
 ---

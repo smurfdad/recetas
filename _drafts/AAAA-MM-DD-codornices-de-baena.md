@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES DE BAENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

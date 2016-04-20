@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VOLOVANES DE PAVO Y PERA DE INVIERNO CON LICOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

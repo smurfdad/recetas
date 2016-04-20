@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAR DE TERNERA ESTOFADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

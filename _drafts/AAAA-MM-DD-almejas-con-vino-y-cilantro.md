@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS CON VINO Y CILANTRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

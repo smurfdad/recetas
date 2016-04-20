@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FILETES DE LUBINA A LA DENIA
-
 categories:
 - Pescados
 personas: 2 

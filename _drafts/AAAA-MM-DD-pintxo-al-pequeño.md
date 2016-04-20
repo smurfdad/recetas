@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO AL PEQUEÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

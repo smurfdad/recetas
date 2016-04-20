@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES CHARLESTON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

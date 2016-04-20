@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAMONCITOS DE POLLO CON MAÍZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

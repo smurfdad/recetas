@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAN DE CALABAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

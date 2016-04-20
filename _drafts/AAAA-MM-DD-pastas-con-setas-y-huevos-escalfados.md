@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTAS CON SETAS Y HUEVOS ESCALFADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

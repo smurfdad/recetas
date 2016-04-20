@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SARLAISE DE CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

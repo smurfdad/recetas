@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ DEL ABROJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

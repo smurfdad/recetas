@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCACHOFAS RELLENAS DE BECHAMEL CON JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

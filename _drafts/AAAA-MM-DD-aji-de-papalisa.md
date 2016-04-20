@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJÍ DE PAPALISA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

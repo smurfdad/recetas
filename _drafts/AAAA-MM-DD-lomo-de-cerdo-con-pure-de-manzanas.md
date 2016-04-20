@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CERDO CON PURÉ DE MANZANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUTA-JIRU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

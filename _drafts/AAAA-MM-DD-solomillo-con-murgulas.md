@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO CON MURGULAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

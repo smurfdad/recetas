@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO RUSTIDO CON ASADILLO Y ACEITE DE AZAFRAN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

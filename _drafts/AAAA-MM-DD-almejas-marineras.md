@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS MARINERAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAVA A LAS FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

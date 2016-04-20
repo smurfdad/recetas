@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO MECHADO CON TRUFAS Y PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

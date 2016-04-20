@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE DE MINON AL ROQUEFORD
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

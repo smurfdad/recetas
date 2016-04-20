@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CALLOS A LA CATALANA
-
 categories:
 - Carnes y derivados
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO AL YOGURT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

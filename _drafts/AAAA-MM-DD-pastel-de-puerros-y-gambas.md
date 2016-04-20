@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE PUERROS Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

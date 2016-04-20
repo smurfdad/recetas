@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA CON ACEITE Y AZÚCAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

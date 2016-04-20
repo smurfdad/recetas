@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE AJOS FRESCOS Y CHAMPIÑONES
-
 categories:
 - Sopas y cremas
 - Setas y hongos

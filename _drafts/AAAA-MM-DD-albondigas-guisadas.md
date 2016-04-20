@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS GUISADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

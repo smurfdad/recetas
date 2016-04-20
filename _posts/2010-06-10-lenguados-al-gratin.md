@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LENGUADOS AL GRATIN
-
 categories:
 - Pescados
 ---

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PESCADO ESCABECHADO
-
 categories:
 - Pescados
 personas: 6 

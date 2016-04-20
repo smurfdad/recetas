@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MUSAKA DE CALABACÍN CON GAMBAS Y ATÚN
-
 categories:
 - Pescados
 - Verduras y legumbres

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDÍN DE ESPÁRRAGOS Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

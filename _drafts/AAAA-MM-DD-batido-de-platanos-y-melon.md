@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BATIDO DE PLÁTANOS Y MELÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

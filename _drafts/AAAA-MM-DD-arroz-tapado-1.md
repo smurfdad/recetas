@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ TAPADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

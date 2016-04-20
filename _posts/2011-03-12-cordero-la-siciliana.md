@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CORDERO A LA SICILIANA
-
 categories:
 - Carnes y derivados
 personas: 6 

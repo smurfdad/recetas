@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA A LA SAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

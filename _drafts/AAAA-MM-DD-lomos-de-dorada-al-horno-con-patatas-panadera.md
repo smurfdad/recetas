@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMOS DE DORADA AL HORNO CON PATATAS PANADERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

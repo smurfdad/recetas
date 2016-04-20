@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANGREJOS DE RÍO EN ENSALADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

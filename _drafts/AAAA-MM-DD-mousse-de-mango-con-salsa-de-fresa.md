@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE MANGO CON SALSA DE FRESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

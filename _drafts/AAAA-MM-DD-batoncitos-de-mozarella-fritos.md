@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BATONCITOS DE MOZARELLA FRITOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

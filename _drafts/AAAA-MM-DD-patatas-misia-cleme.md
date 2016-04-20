@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS MISIA CLEME
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

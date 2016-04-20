@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUACAMOLE SALVADOREÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA PASTELERA
-
 categories:
 - Sopas y cremas
 - Postres y dulces

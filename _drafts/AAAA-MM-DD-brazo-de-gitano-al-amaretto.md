@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRAZO DE GITANO AL AMARETTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

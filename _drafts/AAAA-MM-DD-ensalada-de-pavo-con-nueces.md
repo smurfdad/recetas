@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PAVO CON NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

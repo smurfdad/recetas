@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE FRUTAS SECAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

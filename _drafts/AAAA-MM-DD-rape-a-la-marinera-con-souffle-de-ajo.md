@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAPE A LA MARINERA CON SOUFFLE DE AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

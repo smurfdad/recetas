@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL RUSO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA MARINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

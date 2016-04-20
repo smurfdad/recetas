@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CÓCTEL DE TORONJA Y MAÍZ CON CANGREJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

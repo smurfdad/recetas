@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEOS CARACOL CON POLLO AL VERDEO Y MOSTAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

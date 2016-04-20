@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE SALMÓN AHUMADO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

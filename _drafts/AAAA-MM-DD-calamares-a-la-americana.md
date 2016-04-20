@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES A LA AMERICANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

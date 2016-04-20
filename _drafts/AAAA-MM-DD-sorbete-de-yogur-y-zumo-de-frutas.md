@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SORBETE DE YOGUR Y ZUMO DE FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

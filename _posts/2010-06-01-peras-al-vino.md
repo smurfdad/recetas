@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PERAS AL VINO
-
 categories:
 - Postres y dulces
 - Frutas

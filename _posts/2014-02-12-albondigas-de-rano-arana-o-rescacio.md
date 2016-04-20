@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALBÓNDIGAS DE RAÑO, ARAÑA O RESCACIO
-
 categories:
 - Pescados
 personas: 4 

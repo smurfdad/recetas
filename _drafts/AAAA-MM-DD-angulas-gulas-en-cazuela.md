@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANGULAS GULAS EN CAZUELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

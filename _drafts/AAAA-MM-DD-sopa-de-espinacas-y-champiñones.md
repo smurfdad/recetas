@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE ESPINACAS Y CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

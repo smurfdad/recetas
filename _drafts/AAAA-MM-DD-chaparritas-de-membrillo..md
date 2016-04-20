@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAPARRITAS DE MEMBRILLO.
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

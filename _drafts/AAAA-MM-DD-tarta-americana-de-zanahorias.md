@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA AMERICANA DE ZANAHORIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HONGOS CON HIERBAS DEL MONTE Y JAMÓN DE HEBRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

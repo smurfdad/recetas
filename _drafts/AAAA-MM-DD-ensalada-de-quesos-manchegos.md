@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE QUESOS MANCHEGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

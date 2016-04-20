@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA FRÍA EN SALSA DE CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALCACHOFAS CON HUEVOS
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE CARMELITANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

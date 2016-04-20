@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS A LA ARAGONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

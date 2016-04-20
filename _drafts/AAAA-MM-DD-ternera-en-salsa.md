@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

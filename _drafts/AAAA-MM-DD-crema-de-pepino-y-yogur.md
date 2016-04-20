@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE PEPINO Y YOGUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

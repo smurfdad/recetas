@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DÁTILES RELLENOS DE PHILADELPHIA Y NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

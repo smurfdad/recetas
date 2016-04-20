@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ROLLITOS DE SALMÓN
-
 categories:
 - Pescados
 ---

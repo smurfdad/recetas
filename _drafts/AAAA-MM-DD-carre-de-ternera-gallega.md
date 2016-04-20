@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARRÉ DE TERNERA GALLEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

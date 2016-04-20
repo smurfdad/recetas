@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGHETTIS CON ANCHOAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

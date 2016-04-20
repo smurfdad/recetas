@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON BACALAO A LA MENORQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

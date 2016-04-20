@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO ASADO ÁRABE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

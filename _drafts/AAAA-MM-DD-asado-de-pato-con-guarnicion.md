@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASADO DE PATO CON GUARNICIÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

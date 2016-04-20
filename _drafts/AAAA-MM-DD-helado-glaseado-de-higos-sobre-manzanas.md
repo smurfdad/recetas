@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HELADO GLASEADO DE HIGOS SOBRE MANZANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

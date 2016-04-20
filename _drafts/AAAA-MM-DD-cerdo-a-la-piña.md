@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO A LA PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

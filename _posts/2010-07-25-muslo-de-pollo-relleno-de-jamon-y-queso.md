@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MUSLO DE POLLO RELLENO DE JAMÓN Y QUESO
-
 categories:
 - Carnes y derivados
 personas: 4 

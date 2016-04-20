@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO CON SETAS DE CARDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO EN TIRITAS CON REPOLLO ENCURTIDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

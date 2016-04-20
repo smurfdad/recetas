@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LABAN MAA IJIAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

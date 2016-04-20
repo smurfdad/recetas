@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISSOTTO DE LANGOSTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

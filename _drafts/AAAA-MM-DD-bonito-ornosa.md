@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO ORNOSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

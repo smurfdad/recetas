@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BAVAROIS DE FRESAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

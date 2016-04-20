@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE PASTA
-
 categories:
 - Ensaladas
 - Pastas

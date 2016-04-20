@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLA DE TERNERA ASADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

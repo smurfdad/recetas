@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BARRITAS DE TRUCHAS CON 2 SALSAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

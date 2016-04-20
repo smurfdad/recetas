@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARACOLES AL TOMILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

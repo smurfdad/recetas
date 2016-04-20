@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS BOCA ABAJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

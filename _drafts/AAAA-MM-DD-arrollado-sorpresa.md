@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROLLADO SORPRESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

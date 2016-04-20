@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ DE PAGES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

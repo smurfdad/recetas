@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUDDING DE FRUTAS
-
 categories:
 - Postres y dulces
 - Frutas

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PERDIZ ESCABECHADA
-
 categories:
 - Carnes y derivados
 personas: 6 

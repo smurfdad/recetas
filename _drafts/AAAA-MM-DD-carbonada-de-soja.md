@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARBONADA DE SOJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

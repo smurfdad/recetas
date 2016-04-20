@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTALETAS DE FOIE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

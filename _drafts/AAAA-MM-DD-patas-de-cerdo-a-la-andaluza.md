@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATAS DE CERDO A LA ANDALUZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

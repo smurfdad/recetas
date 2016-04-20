@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE FRUTAS DE TIEMPO
-
 categories:
 - Ensaladas
 - Frutas

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIPIRRANA DE PINTAHUEVOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

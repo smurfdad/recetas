@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GELATINA DE ATÚN APERITIVO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

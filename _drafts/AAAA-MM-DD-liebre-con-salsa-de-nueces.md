@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LIEBRE CON SALSA DE NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

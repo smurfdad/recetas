@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FILETE DE RES AL VINO TINTO
-
 categories:
 - Carnes y derivados
 personas: 4 

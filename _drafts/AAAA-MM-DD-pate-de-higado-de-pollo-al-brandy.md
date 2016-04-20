@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATE DE HÍGADO DE POLLO AL BRANDY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

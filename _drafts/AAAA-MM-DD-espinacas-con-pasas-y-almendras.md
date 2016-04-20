@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPINACAS CON PASAS Y ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

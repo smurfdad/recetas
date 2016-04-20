@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCACHOFAS CON CHAMPIÑÓN Y HUEVO DE CODORNIZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

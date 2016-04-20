@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS DE CORDERO CON PURÉ DE NABOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

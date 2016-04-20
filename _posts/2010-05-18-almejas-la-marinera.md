@@ -1,11 +1,8 @@
 ---
 layout: post
-
 title: ALMEJAS A LA MARINERA
-
 categories:
 - Mariscos y moluscos
-
 tags:
 - almeja
 - ajo

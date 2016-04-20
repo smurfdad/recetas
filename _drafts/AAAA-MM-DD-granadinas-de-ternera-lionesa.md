@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRANADINAS DE TERNERA LIONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

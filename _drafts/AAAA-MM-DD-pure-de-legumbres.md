@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PURÉ DE LEGUMBRES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PIMIENTOS ROJOS CON ANCHOAS
-
 categories:
 - Pescados
 - Verduras y legumbres

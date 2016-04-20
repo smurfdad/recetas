@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZUMO DE ZANAHORIA, MANZANA Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

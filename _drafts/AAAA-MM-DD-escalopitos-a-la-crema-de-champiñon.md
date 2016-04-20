@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPITOS A LA CREMA DE CHAMPIÑÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

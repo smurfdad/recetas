@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CRÈME BRÛLÉE
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDO PIMENTÓN ALMERIENSE CON BOQUERONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

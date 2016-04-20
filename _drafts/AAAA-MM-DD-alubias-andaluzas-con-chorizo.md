@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS ANDALUZAS CON CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

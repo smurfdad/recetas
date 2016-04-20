@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES CON SALSA DE CHAMPIÑONES Y NATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

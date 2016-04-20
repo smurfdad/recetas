@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA NIZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

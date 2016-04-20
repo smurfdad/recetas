@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE DE CERDO CON SOBRASADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

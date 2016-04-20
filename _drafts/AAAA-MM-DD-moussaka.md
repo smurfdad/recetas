@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSAKA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

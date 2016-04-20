@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSBEEF
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

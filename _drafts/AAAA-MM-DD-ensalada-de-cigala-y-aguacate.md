@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE CIGALA Y AGUACATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

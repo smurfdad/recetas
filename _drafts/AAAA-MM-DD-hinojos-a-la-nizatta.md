@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HINOJOS A LA NIZATTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ CON MAGRO Y VERDURAS
-
 categories:
 - Verduras y legumbres
 - Arroces

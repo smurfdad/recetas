@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA GRIEGA DE PEPINO Y YOGUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

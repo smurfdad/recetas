@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VOLOVANES DE REVUELTO DE ATÚN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

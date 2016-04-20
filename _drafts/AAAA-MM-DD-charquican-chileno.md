@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHARQUICÁN CHILENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

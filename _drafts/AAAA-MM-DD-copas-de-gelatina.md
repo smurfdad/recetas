@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COPAS DE GELATINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

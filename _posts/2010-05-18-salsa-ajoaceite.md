@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA AJOACEITE
-
 categories:
 - Salsas
 personas: 8 

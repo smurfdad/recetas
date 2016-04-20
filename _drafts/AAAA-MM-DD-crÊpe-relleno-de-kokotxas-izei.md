@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CRÊPE RELLENO DE KOKOTXAS IZEI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARRILLERAS DE RAPE CON CALABACÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

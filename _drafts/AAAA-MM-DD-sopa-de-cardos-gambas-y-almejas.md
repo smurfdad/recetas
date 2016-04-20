@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE CARDOS, GAMBAS Y ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS CON CARACOLES AL ALI-OLI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

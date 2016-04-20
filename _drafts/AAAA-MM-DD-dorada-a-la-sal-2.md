@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA A LA SAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

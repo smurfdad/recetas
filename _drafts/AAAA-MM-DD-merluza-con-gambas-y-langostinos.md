@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA CON GAMBAS Y LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

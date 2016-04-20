@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIÑA CON SALMÓN Y LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MONTONCITOS DE ALMENDRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

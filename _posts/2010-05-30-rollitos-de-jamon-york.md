@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ROLLITOS DE JAMÓN YORK
-
 categories:
 - Carnes y derivados
 personas: 2 

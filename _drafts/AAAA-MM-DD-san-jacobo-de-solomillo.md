@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SAN JACOBO DE SOLOMILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

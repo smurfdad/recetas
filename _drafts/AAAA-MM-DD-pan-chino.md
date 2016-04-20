@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAN CHINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

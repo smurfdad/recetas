@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE FRUTA AL VINO DULCE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

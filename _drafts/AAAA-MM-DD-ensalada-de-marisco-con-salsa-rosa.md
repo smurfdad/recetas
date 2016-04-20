@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE MARISCO CON SALSA ROSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

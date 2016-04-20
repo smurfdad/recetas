@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA EN PAPILLOTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

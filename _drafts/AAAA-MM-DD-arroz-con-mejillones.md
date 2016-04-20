@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON MEJILLONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: YEMAS DEL ERMITAÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

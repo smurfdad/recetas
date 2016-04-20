@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE PIMIENTOS ROJOS
-
 categories:
 - Ensaladas
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: STICK TARTARE DE LUBINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

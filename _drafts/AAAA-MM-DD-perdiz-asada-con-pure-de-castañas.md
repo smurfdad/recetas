@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDIZ ASADA CON PURÉ DE CASTAÑAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

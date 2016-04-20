@@ -1,7 +1,6 @@
 ---
 layout: post
 title: YEMAS SEGUNTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

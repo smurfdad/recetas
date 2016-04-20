@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALUBIAS ESTOFADAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

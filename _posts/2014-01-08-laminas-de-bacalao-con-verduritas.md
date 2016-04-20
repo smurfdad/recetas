@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LÁMINAS DE BACALAO CON VERDURITAS ASADAS Y VINAGRETA BALSÁMICA
-
 categories:
 - Pescados
 - Verduras y legumbres

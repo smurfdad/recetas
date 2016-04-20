@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUDIN DE PUERROS
-
 categories:
 - Verduras y legumbres
 personas: 6 

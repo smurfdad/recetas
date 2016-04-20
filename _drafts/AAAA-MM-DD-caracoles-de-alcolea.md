@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARACOLES DE ALCOLEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

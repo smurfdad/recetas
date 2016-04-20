@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO A LA CREMA DE SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

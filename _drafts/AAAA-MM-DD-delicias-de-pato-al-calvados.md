@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DELICIAS DE PATO AL CALVADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

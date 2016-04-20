@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE PUERROS CON ESPÁRRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

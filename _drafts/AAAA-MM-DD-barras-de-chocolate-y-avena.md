@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BARRAS DE CHOCOLATE Y AVENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

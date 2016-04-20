@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENROLLADO DE CERDO Y CIRUELAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

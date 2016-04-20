@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLÓN DE FOIE DE PATO CASERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

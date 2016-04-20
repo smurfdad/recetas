@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO EN SALSA AGRIDULCE AL ESTILO CANTONÉS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE BERROS CON NUEZ Y TOCINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

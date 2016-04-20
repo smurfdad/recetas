@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PAPA EN SALSA DE SPAGUETI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

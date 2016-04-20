@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MAGRET DE PATO AL OPORTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

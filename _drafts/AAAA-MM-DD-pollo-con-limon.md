@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

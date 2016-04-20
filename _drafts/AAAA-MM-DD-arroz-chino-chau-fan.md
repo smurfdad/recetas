@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CHINO CHAU-FÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HUEVOS AL PLATO
-
 categories:
 - Huevos y lacteos
 - Carnes y derivados

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CONEJO A LA MOSTAZA
-
 categories:
 - Carnes y derivados
 personas: 6 

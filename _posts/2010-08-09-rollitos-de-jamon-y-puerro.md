@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ROLLITOS DE JAMÓN Y PUERRO
-
 categories:
 - Pescados
 - Carnes y derivados

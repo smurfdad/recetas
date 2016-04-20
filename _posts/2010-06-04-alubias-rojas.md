@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALUBIAS ROJAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

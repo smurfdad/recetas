@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE BONITO Y PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

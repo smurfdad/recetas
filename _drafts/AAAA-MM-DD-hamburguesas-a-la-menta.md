@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HAMBURGUESAS A LA MENTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

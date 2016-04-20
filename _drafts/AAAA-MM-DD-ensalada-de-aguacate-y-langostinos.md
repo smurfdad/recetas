@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE AGUACATE Y LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

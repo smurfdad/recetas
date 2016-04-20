@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS AL PLATO CON BACALAO Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

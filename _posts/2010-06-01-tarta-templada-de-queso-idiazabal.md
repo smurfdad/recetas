@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA TEMPLADA DE QUESO IDIAZABAL
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

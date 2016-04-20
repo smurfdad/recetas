@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS VERDES SALTEADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

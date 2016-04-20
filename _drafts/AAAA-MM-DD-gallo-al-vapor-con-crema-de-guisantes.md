@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLO AL VAPOR CON CREMA DE GUISANTES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

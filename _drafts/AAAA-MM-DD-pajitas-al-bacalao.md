@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAJITAS AL BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

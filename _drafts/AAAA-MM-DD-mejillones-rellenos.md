@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

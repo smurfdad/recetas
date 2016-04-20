@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TAGLIATELLE CON SALSA DE TRUFAS Y MENUDILLOS DE PATO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

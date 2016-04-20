@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: AROS DE CEBOLLA
-
 categories:
 - Entrantes y bocadillos
 personas: 4 

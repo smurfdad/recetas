@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

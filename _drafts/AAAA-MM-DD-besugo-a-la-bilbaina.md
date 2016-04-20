@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BESUGO A LA BILBAINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

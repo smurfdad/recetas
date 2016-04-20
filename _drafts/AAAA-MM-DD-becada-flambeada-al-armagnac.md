@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BECADA FLAMBEADA AL ARMAGNAC
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

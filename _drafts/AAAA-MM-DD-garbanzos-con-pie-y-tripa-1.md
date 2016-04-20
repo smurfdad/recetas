@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GARBANZOS CON PIE Y TRIPA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

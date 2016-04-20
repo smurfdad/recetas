@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTALETAS DE CENTOLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

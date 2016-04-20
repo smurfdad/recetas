@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDUCHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

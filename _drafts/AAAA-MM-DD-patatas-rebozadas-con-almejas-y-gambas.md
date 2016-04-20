@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS REBOZADAS, CON ALMEJAS Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

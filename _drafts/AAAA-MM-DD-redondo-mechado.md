@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REDONDO MECHADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

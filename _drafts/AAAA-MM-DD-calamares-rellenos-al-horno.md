@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES RELLENOS AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

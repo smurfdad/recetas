@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAP-SUI DE AVE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

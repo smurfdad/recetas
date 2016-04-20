@@ -1,7 +1,6 @@
 ---
 layout: post
 title: APERITIVO  DE LECHUGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

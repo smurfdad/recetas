@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRESAS CON CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLO CON ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

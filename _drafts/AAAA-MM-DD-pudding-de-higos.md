@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDDING DE HIGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

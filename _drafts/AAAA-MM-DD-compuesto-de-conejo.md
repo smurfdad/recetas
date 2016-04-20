@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMPUESTO DE CONEJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE GALLETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

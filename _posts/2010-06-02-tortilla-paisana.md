@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TORTILLA PAISANA
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

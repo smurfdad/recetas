@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESCALOPES DE TERNERA O BUEY
-
 categories:
 - Carnes y derivados
 personas: 6 

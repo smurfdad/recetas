@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO GUISADO A LA BRETONA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA HOLANDESA
-
 categories:
 - Salsas
 personas: 6 

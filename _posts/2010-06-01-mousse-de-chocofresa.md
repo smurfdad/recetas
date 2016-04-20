@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MOUSSE DE CHOCOFRESA
-
 categories:
 - Postres y dulces
 personas: 3 

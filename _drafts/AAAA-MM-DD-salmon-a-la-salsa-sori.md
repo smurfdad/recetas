@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN A LA SALSA SORI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

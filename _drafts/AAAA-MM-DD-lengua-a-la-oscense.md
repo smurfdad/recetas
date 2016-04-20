@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUA A LA OSCENSE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

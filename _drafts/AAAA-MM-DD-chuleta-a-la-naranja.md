@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETA A LA NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

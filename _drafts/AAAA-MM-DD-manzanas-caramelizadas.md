@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANZANAS CARAMELIZADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA CON HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

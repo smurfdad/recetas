@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MAIMONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

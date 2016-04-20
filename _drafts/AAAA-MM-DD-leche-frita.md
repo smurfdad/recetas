@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LECHE FRITA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

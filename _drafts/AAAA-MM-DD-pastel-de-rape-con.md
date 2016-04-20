@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE RAPE CON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

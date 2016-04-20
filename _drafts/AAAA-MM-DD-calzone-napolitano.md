@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALZONE NAPOLITANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

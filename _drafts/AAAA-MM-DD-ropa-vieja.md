@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROPA VIEJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

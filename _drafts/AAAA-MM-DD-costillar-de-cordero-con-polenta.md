@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAR DE CORDERO CON POLENTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

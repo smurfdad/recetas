@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESTOFADO DE SOLOMILLO DE BUEY
-
 categories:
 - Carnes y derivados
 personas: 4 

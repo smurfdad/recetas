@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIE DE PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TRUCHA EN SALSA VERDE
-
 categories:
 - Pescados
 personas: 4 

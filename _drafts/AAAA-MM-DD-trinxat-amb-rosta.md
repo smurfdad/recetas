@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRINXAT AMB ROSTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MUSLOS DE POLLO RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

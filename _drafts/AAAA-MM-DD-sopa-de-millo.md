@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE MILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

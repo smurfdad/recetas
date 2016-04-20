@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLA DE CERDO ADOBADA AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

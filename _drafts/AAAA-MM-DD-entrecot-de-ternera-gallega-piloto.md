@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENTRECOT DE TERNERA GALLEGA PILOTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPARRAGOS CALIENTES
-
 categories:
 - Verduras y legumbres
 personas: 4 

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MELONCITOS MARINADOS
-
 categories:
 - Postres y dulces
 - Frutas

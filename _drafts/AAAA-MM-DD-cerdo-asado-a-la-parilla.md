@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO ASADO A LA PARILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

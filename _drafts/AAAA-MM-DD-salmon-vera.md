@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN VERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

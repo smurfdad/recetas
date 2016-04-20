@@ -2,7 +2,6 @@
 ---
 layout: post
 title: ARROZ BLANCO
-
 categories:
 - Arroces
 tags:

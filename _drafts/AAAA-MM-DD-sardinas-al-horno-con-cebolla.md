@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SARDINAS AL HORNO CON CEBOLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

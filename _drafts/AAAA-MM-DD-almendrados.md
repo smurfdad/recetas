@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMENDRADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

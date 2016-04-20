@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: QUICHE DE CHAMPIÑONES Y BRIE
-
 categories:
 - Huevos y lacteos
 - Setas y hongos

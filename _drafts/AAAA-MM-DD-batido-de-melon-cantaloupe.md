@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BATIDO DE MELÓN CANTALOUPE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

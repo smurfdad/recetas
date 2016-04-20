@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA CALIENTE DE PATATA
-
 categories:
 - Ensaladas
 personas: 8 

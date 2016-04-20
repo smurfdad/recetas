@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADO CON MORRONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

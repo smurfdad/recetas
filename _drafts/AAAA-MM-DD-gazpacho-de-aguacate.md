@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO DE AGUACATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POLLO HORTELANO
-
 categories:
 - Carnes y derivados
 ---

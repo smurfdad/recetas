@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE PESCADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

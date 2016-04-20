@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BRAZO DE PATATA Y MERLUZA
-
 categories:
 - Pescados
 - Verduras y legumbres

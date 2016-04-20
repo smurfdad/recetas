@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA BOLOGNESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

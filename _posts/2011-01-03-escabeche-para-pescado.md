@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESCABECHE PARA PESCADO
-
 categories:
 - Pescados
 personas: 4 

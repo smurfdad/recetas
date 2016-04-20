@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA TEMPLADA DE PIE DE CERDO A LA VINAGRETA DE HONGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

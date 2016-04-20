@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VIEIRAS AL ALBARIÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

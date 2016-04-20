@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETI A LE VONGOLE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

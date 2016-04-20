@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LASAÑA DE JAMON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

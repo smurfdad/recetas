@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJETAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

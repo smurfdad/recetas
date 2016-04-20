@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATAS DE CERDO EN SALSA VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

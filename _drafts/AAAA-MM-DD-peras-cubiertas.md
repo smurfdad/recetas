@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERAS CUBIERTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

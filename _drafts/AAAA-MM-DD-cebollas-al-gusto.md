@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CEBOLLAS AL GUSTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

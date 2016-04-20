@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEUA GANDIENSE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

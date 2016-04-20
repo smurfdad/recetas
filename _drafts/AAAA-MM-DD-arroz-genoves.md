@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ GENOVÉS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

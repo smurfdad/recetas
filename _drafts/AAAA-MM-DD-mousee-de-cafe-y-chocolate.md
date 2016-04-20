@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSEE DE CAFÉ Y CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

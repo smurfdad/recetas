@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PIMIENTOS RELLENOS DE ARROZ
-
 categories:
 - Arroces
 - Carnes y derivados

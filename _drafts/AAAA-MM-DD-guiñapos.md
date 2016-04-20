@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUIÑAPOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOGAVANTE CON ESPINACAS Y VINAGRETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

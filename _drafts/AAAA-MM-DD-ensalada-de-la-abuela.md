@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE LA ABUELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

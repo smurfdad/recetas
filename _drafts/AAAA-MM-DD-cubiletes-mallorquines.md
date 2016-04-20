@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CUBILETES MALLORQUINES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

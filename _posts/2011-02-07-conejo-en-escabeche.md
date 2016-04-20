@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CONEJO EN ESCABECHE
-
 categories:
 - Carnes y derivados
 personas: 6 

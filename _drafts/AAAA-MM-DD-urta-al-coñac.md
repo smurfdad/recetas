@@ -1,7 +1,6 @@
 ---
 layout: post
 title: URTA AL COÑAC
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

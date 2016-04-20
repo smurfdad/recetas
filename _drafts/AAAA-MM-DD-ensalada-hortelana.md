@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA HORTELANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

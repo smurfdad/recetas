@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTEL DE GAMBAS Y MEJILLONES
-
 categories:
 - Mariscos y moluscos
 ---

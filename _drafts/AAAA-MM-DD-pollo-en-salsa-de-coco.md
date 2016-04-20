@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO EN SALSA DE COCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

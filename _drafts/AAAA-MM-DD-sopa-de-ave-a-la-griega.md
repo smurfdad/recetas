@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE AVE A LA GRIEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

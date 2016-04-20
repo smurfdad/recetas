@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MARMITAKO
-
 categories:
 - Pescados
 personas: 6 

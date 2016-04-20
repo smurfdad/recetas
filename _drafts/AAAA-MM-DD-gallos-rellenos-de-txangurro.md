@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLOS RELLENOS DE TXANGURRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA AMERICANA
-
 categories:
 - Salsas
 personas: 6 

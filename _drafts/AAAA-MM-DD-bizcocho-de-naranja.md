@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO DE NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

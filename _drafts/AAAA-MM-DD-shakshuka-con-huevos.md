@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SHAKSHUKA CON HUEVOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

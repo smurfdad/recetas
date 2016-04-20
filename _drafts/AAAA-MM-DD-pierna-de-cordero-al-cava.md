@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIERNA DE CORDERO AL CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

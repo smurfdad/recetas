@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDIZ A LA CAZUELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

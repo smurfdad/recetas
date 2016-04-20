@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: GUISADO DE CARNE A LA ESPAÑOLA
-
 categories:
 - Carnes y derivados
 personas: 4 

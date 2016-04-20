@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS SORPRESA AL CAVIAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

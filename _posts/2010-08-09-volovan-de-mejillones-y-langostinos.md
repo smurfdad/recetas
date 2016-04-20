@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: VOLOVÁN DE MEJILLONES Y LANGOSTINOS
-
 categories:
 - Mariscos y moluscos
 personas: 6 

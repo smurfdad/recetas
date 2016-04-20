@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPE DE MERO AL TOMILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS A LOS 5 QUESOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

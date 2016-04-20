@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LANGOSTINOS COCIDOS
-
 categories:
 - Mariscos y moluscos
 personas: 12 

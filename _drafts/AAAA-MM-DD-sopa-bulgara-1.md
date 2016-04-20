@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA BÚLGARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

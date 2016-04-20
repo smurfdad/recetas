@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE AGUACATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

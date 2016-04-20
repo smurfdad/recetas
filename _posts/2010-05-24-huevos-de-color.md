@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HUEVOS DE COLOR
-
 categories:
 - Pescados
 - Verduras y legumbres

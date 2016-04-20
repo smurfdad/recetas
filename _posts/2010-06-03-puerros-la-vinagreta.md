@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUERROS A LA VINAGRETA
-
 categories:
 - Verduras y legumbres
 personas: 4 

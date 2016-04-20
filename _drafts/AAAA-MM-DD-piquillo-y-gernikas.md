@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIQUILLO Y GERNIKAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

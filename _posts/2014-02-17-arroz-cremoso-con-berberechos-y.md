@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ CREMOSO CON BERBERECHOS Y MEJILLONES
-
 categories:
 - Arroces
 - Mariscos y moluscos

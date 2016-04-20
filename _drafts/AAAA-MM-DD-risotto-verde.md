@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISOTTO VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COLIFLOR AL AJO ARRIERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

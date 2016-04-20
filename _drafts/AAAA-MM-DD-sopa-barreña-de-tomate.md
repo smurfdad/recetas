@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA BARREÑA DE TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

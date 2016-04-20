@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARPACCIO DE ATÚN CON HUEVAS DE PESCADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN YONCAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

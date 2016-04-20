@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATO RELLENO A LA CAMPESINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

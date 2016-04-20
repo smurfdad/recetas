@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LACÓN AL VINO BLANCO
-
 categories:
 - Carnes y derivados
 ---

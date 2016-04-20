@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPAS CON QUESO PHILADELPHIA REBOZADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

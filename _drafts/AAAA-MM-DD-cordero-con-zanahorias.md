@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO CON ZANAHORIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

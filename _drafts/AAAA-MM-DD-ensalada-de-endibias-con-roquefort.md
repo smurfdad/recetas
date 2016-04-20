@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ENDIBIAS CON ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

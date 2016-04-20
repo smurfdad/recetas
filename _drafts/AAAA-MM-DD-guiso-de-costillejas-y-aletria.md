@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE COSTILLEJAS Y ALETRÍA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

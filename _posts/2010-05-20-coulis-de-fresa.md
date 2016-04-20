@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COULIS DE FRESA
-
 categories:
 - Postres y dulces
 - Frutas

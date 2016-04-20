@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELA DE PULPO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

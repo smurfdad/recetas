@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO DE TERNERA CON VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

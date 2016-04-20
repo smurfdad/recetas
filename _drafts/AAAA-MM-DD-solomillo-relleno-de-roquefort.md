@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO RELLENO DE ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

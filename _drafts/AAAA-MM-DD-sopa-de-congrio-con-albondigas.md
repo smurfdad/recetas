@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE CONGRIO CON ALBÓNDIGAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO ESCOCES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

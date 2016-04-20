@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS RELLENAS CON SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

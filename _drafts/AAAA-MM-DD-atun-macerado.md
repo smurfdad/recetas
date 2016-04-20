@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN MACERADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

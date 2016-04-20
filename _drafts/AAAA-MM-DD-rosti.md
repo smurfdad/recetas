@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSTI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

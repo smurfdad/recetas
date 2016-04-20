@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETA DE ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

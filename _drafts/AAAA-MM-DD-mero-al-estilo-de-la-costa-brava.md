@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO AL ESTILO DE LA COSTA BRAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE DE PESCADO RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

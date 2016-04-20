@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLETAS DE LA ABUELA PILARÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

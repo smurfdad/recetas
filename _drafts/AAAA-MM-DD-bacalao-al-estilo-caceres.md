@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO AL ESTILO CÁCERES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

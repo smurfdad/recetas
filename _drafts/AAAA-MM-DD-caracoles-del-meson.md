@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARACOLES DEL MESÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

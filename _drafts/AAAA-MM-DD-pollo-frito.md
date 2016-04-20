@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO FRITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

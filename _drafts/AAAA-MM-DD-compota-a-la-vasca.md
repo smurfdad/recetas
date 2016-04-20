@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMPOTA A LA VASCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

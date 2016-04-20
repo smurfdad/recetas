@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS CON PANCETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

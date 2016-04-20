@@ -1,7 +1,6 @@
 ---
 layout: post
 title: YOGURT CON FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

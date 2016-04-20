@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ CON LECHE
-
 categories:
 - Arroces
 - Huevos y lacteos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON SALSA DE ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

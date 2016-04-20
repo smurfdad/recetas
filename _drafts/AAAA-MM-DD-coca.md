@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

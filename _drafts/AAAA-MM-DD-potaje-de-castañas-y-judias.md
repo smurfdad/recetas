@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE DE CASTAÑAS Y JUDÍAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

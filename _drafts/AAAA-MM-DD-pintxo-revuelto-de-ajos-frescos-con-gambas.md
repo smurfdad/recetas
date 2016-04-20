@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO REVUELTO DE AJOS FRESCOS CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

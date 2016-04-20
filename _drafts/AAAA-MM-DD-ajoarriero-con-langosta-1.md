@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJOARRIERO CON LANGOSTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

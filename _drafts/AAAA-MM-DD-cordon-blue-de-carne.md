@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDON BLUE DE CARNE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

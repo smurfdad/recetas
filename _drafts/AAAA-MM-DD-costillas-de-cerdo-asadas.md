@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAS DE CERDO ASADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

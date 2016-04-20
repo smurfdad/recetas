@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JARRETES DE CORDERO EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

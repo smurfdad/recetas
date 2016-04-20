@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA CON SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

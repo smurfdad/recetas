@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE PERAS DE CARDÓ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

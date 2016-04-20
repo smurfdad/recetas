@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO ASADO CON AGRIDULCE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

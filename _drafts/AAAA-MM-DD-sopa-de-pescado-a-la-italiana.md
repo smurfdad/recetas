@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE PESCADO A LA ITALIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

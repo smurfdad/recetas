@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CIGALAS A LA CARIBEÑA
-
 categories:
 - Mariscos y moluscos
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSCA DE BONITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

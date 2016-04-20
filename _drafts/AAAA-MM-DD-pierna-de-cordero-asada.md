@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIERNA DE CORDERO ASADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

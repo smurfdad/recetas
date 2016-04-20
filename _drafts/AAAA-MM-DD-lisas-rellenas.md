@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LISAS RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

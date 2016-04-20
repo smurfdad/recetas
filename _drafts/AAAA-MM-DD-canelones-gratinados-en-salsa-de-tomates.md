@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELONES GRATINADOS EN SALSA DE TOMATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

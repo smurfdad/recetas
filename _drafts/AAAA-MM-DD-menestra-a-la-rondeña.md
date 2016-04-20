@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MENESTRA A LA RONDEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

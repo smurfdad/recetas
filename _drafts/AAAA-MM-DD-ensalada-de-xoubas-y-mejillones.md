@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE XOUBAS Y MEJILLONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

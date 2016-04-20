@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTICHO DE BERENJENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

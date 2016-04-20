@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS TURCAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

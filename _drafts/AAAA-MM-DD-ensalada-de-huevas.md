@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE HUEVAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

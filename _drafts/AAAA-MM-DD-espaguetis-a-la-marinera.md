@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS A LA MARINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

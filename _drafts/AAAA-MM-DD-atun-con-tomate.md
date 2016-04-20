@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATUN CON TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS FRITAS CON JAMÓN Y CEBOLLETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCAROLA PARÍS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

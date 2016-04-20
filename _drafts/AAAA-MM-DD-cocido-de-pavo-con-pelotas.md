@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCIDO DE PAVO CON PELOTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

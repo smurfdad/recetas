@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESCALIVADA
-
 categories:
 - Verduras y legumbres
 ---

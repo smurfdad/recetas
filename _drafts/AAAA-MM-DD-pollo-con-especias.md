@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON ESPECIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BARQUITAS DE PATATA A LA CREMA DE SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTALETA DE QUESO CON MOUSSE DE MANGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

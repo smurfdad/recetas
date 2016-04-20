@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRUTAS DE ARAGÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

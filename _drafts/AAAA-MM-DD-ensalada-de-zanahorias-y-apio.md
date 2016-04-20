@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ZANAHORIAS Y APIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

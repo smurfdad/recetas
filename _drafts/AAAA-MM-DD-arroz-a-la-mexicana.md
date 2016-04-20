@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ A LA MEXICANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

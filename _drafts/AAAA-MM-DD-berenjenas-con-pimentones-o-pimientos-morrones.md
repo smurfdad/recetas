@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS CON PIMENTONES O PIMIENTOS MORRONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

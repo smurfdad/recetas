@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO CON MANZANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

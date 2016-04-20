@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERRINA DE SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

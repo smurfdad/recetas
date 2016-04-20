@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA EN COPA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

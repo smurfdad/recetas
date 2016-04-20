@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE PIMIENTOS Y BACALAO
-
 categories:
 - Pescados
 - Ensaladas

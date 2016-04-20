@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMUERZO CAMPERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

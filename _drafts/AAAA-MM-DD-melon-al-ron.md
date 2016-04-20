@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MELÓN AL RON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

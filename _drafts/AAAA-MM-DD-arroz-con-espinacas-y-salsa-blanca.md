@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON ESPINACAS Y SALSA BLANCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

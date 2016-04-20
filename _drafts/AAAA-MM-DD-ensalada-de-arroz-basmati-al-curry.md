@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ARROZ BASMATI AL CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

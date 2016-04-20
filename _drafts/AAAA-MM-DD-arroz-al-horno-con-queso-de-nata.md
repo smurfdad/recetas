@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ AL HORNO CON QUESO DE NATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

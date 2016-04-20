@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CERDO EN SALSA DE NATA CON PATÉ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

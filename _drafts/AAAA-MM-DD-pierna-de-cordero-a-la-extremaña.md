@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIERNA DE CORDERO A LA EXTREMAÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

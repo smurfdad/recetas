@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PEDOS DE MONJA (O BUÑUELOS DE CUARESMA)
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

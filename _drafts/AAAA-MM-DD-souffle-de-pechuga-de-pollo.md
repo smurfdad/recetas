@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOUFFLE DE PECHUGA DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAPELLO RELLENO DE RABO DE BUEY Y SETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

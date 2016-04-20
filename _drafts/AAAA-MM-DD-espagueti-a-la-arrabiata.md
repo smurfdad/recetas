@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETI A LA ARRABIATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

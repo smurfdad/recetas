@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMOS DE PESCADO CON HABAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

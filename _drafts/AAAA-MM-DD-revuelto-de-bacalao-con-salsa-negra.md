@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE BACALAO CON SALSA NEGRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

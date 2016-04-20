@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GACHAS CON MATALAHÚVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

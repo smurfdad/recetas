@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETTES DE CERDO CON CEBOLLAS Y JAMONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUDIN DE VERDURAS DEL TIEMPO
-
 categories:
 - Verduras y legumbres
 personas: 6 

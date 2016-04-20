@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE PIMIENTOS CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

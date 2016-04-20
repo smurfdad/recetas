@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJO PESCADOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

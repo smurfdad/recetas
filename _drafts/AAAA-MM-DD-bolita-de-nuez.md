@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLITA DE NUEZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL SALADO TRES COLORES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

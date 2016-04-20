@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPINACAS ESTILO JAÉN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

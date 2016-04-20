@@ -1,11 +1,8 @@
 ---
 layout: post
-
 title: ANCHOAS REBOZADAS
-
 categories:
 - Pescados
-
 tags:
 - anchoas
 - huevo

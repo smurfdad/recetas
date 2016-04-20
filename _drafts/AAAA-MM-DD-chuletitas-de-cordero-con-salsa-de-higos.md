@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETITAS DE CORDERO CON SALSA DE HIGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OREJAS DE CARNAVAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

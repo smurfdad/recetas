@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ROLLITOS DE MERLUZA
-
 categories:
 - Pescados
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISADO DE HÍGADO DE TERNERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

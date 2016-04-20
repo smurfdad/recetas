@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLINA EN MENESTRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

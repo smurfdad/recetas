@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUEY RUSTIDO A LA NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

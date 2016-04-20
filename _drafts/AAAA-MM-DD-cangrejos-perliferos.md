@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANGREJOS PERLÍFEROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

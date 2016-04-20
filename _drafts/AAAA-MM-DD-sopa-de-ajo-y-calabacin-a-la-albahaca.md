@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE AJO Y CALABACÍN A LA ALBAHACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

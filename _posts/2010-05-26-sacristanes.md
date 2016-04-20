@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SACRISTANES
-
 categories:
 - Postres y dulces
 personas: 6 

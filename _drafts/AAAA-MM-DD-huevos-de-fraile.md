@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS DE FRAILE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

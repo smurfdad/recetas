@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DEL REY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

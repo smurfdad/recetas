@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS ALTO PIRINEO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

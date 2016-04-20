@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALLOS A LA GALLEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

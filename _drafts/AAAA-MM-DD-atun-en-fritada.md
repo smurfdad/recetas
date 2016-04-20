@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN EN FRITADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

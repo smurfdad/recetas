@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLA DE QUESO CREMA Y OSTIONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

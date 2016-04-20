@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELA DE ALMEJAS Y ALCACHOFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARABINEROS CON DOS ARROCES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

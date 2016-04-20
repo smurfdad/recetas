@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RISOTTO A LA MILANESA
-
 categories:
 - Arroces
 personas: 4 

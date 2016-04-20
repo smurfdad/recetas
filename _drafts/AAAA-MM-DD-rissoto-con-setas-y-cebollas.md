@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISSOTO CON SETAS Y CEBOLLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

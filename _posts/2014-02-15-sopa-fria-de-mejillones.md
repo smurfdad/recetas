@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA FRÍA DE MEJILLONES
-
 categories:
 - Sopas y cremas
 - Mariscos y moluscos

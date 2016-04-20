@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUERROS O ENDIBIAS GRATINADOS CON JAMÓN
-
 categories:
 - Verduras y legumbres
 personas: 6 

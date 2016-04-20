@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPÁRRAGOS GITANILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE RAPE A LA CATALANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA EN SALSA ROJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

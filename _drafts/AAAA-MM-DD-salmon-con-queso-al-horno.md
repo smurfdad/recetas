@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMON CON QUESO AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

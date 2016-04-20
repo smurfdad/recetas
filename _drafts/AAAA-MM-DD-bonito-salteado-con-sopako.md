@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO SALTEADO CON SOPAKO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

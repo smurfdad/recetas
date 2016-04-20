@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOJARRA EN ADOBO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

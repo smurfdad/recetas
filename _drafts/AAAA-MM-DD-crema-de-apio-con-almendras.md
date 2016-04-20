@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE APIO CON ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

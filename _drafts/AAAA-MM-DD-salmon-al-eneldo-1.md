@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMÓN AL ENELDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

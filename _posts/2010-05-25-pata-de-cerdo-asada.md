@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PATA DE CERDO ASADA
-
 categories:
 - Carnes y derivados
 personas: 8 

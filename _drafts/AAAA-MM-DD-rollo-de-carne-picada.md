@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLO DE CARNE PICADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

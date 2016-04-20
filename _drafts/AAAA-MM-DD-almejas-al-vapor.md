@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS AL VAPOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

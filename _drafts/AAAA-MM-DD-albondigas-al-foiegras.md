@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS AL FOIEGRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

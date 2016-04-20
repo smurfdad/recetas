@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CAZUELA DE LENGUADO
-
 categories:
 - Pescados
 ---

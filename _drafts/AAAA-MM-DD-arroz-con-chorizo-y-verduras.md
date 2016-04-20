@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON CHORIZO Y VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

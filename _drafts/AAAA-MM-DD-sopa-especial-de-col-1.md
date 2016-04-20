@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA ESPECIAL DE COL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETI A LA ZUCCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

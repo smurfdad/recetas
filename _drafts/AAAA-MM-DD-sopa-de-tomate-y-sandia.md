@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE TOMATE Y SANDÍA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

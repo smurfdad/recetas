@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TÓRTOLAS ENCEBOLLADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

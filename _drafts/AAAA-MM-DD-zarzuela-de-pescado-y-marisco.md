@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZARZUELA DE PESCADO Y MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

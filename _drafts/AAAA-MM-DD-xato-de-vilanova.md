@@ -1,7 +1,6 @@
 ---
 layout: post
 title: XATÓ DE VILANOVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

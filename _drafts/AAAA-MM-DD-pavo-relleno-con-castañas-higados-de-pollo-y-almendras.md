@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO RELLENO CON CASTAÑAS, HIGADOS DE POLLO Y ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

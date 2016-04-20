@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RODAJAS DE MERLUZA AL AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

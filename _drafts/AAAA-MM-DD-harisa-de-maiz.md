@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HARISA DE MAÍZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

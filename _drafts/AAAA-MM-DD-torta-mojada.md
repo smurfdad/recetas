@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA MOJADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

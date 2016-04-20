@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: JUDÍAS CON JAMÓN Y HUEVOS ESCALFADOS
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

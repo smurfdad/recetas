@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACINES RELLENOS DE GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MANZANAS RELLENAS
-
 categories:
 - Carnes y derivados
 - Frutas

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALUBIA VERDE CON TOMATE
-
 categories:
 - Verduras y legumbres
 personas: 4 

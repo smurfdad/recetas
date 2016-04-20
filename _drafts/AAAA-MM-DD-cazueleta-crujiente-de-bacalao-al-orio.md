@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELETA CRUJIENTE DE BACALAO AL ORIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

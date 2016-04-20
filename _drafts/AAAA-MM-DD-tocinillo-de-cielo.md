@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOCINILLO DE CIELO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

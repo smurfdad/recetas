@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOCADITOS DE MERLUZA A LA ANDALUZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

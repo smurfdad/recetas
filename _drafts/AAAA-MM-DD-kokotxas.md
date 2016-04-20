@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KOKOTXAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

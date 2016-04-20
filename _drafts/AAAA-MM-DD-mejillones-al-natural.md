@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES AL NATURAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

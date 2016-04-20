@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RABO AL VINO DE RIOJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

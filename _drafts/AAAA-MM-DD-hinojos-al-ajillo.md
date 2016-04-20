@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HINOJOS AL AJILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

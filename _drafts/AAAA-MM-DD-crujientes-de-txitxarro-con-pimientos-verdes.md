@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CRUJIENTES DE TXITXARRO CON PIMIENTOS VERDES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

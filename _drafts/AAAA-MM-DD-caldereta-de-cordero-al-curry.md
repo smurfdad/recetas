@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETA DE CORDERO AL CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

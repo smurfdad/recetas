@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLITAS DE CERDO CON ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

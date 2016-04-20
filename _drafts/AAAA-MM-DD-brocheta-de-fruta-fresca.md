@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE FRUTA FRESCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

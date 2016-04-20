@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS RELLENAS DE BACALAO AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

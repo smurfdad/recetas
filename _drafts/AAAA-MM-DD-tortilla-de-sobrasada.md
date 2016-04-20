@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA DE SOBRASADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

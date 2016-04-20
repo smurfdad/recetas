@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ENDIVIA CON GAMBAS AL CURRY.
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

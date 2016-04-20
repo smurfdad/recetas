@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO A LA PLANCHA CON CACHELOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO FRITO AL ESTILO KENTUCKY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

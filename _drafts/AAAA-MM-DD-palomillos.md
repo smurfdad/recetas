@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALOMILLOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

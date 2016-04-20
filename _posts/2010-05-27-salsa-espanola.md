@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA ESPAÑOLA
-
 categories:
 - Salsas
 personas: 6 

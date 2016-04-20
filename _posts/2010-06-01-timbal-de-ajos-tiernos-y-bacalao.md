@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TIMBAL DE AJOS TIERNOS Y BACALAO
-
 categories:
 - Pescados
 - Verduras y legumbres

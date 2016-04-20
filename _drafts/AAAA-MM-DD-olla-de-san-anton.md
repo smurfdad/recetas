@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OLLA DE SAN ANTÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE DE CALABAZAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

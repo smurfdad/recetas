@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREPES MANDARINES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

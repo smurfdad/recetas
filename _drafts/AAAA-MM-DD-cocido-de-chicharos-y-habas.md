@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCIDO DE CHÍCHAROS Y HABAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

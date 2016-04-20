@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO AL PIL PIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

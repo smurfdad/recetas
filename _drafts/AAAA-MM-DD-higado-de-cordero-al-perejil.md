@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HÍGADO DE CORDERO AL PEREJIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

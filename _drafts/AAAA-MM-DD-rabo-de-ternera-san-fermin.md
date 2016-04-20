@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RABO DE TERNERA SAN FERMÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

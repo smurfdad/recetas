@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUÑUELOS DE CEBOLLAS, SALSA TÁRTARA, CON CEBOLLETA Y ALCAPARRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

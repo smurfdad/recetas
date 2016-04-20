@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE CARNE Y ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REPOLLO  RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

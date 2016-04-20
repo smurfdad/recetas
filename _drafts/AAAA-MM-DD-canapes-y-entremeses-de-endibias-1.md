@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANAPÉS Y ENTREMESES DE ENDIBIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESO DE CABRA TEMPLADO SOBRE BERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

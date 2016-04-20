@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES A LA VINAGRETA NEGRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

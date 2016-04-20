@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENTRECOT AL CABRALES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

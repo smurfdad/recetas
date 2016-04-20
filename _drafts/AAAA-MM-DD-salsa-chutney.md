@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA CHUTNEY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

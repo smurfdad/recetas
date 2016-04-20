@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FOIE DE PATO CON PURÉ DE GUISANTES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DASHI CALDO JAPONÉS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

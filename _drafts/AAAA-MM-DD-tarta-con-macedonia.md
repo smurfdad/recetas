@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA CON MACEDONIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

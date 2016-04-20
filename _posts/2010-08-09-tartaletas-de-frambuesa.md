@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTALETAS DE FRAMBUESA
-
 categories:
 - Postres y dulces
 personas: 4 

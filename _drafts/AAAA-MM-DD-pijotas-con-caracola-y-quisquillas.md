@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIJOTAS CON CARACOLA Y QUISQUILLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

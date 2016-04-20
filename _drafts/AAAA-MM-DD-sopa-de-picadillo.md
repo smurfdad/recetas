@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE PICADILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

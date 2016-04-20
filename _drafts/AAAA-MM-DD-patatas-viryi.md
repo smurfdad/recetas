@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS VIRYI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

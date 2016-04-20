@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE AJOS CON GAMBAS O LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

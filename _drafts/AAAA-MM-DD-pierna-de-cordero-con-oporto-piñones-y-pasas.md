@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIERNA DE CORDERO CON OPORTO, PIÑONES Y PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

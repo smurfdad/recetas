@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS, PANCETA Y HUEVOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

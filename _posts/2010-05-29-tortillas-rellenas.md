@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TORTILLAS RELLENAS
-
 categories:
 - Huevos y lacteos
 personas: 6 

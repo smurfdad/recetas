@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ GALLO PINTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

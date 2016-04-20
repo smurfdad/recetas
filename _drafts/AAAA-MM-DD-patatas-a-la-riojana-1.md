@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS A LA RIOJANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

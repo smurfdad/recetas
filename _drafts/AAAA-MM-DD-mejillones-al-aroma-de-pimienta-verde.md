@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES AL AROMA DE PIMIENTA VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

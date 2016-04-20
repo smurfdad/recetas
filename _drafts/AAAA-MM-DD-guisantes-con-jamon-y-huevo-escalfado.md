@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISANTES CON JAMON Y HUEVO ESCALFADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

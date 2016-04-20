@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE CORDERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

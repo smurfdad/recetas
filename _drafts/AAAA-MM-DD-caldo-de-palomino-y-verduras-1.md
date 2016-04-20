@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDO DE PALOMINO Y VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

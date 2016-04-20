@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJO BLANCO MALAGEÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MILHOJAS DE PAPAS CON PATE Y OPORTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

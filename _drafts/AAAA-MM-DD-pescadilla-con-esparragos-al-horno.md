@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADILLA CON ESPÁRRAGOS AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

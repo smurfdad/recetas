@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCACHOFAS A LAS HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

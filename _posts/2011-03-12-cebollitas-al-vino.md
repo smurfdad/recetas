@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CEBOLLITAS AL VINO
-
 categories:
 - Verduras y legumbres
 ---

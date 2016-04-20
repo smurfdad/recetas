@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RISOTTO CON CARABINEROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE MECHADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

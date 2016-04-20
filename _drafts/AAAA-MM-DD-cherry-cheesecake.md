@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHERRY CHEESECAKE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

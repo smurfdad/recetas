@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEUÁ CON CALAMARES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

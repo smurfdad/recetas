@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIES DE CERDO AL TOMILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

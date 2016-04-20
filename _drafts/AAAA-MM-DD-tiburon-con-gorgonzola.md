@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIBURÓN CON GORGONZOLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

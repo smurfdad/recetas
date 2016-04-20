@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISADO DE CORDERO Y PERAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

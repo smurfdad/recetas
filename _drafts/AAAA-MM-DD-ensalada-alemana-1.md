@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA ALEMANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

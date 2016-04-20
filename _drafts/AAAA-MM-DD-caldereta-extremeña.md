@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETA EXTREMEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

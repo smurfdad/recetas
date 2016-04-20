@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTEL DE CENTOLLO
-
 categories:
 - Mariscos y moluscos
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAPARRONES PINTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

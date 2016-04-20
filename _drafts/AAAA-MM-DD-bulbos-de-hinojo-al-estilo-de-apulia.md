@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BULBOS DE HINOJO AL ESTILO DE APULIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

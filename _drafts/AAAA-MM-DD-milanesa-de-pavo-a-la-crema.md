@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MILANESA DE PAVO A LA CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

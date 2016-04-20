@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ZANAHORIA MORUNA
-
 categories:
 - Verduras y legumbres
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CEBICHE PERUANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

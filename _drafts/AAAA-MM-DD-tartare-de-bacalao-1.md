@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTARE DE BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

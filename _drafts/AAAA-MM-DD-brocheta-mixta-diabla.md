@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA MIXTA DIABLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

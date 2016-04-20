@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PATITAS DE CORDERO
-
 categories:
 - Carnes y derivados
 personas: 4 

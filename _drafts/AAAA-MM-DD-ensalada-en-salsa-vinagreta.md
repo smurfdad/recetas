@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA EN SALSA VINAGRETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

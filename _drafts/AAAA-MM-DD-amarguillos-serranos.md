@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AMARGUILLOS SERRANOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

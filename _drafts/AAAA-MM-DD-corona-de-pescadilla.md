@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORONA DE PESCADILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

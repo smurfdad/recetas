@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS REVOLCONAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

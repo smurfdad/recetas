@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASADO NEGRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

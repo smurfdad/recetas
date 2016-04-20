@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PAELLA CASERA
-
 categories:
 - Arroces
 personas: 10 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESO CON SALSA DE ARÁNDANOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

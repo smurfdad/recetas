@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO DE FOIE AL OPORTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

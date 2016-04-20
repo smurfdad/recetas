@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA CON SALSA CHILI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

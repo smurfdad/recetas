@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCHINILLO ASADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

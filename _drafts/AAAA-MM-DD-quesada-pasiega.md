@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESADA PASIEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

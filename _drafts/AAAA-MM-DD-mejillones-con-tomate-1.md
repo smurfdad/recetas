@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES CON TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

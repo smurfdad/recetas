@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA FRESCA DE PASTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

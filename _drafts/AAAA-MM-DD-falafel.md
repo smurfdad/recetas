@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FALAFEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

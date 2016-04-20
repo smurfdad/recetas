@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS CON SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

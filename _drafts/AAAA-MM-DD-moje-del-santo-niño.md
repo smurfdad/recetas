@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOJE DEL SANTO NIÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERLUZA EN SALSA VERDE
-
 categories:
 - Pescados
 personas: 6 

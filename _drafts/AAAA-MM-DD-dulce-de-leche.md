@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DULCE DE LECHE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

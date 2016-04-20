@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTINOS AL OLOROSO SEVILLANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PULMONES CON SANGRECILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

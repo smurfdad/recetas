@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO MANCHEGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BIZCOCHO DE CORTE
-
 categories:
 - Postres y dulces
 personas: 6 

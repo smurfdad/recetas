@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JARRETE GUISADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO FRITO A LA PORTUGUESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

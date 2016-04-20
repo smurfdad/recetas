@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA TEMPLADA DE RAYA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

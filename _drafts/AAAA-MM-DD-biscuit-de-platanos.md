@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BISCUIT DE PLÁTANOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

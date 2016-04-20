@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LASAÑA DE ESPINACAS
-
 categories:
 - Verduras y legumbres
 - Pastas

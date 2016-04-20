@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE PAVO AL RON Y MOSTAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

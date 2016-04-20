@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO REBOZADO CON SALSA DE TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

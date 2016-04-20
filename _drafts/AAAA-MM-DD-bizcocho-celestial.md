@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO CELESTIAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

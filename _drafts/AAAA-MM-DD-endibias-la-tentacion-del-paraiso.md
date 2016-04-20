@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENDIBIAS LA TENTACIÓN DEL PARAISO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

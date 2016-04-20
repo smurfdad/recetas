@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LIEBRE ENGAZPACHADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

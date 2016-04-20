@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FONDO BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ AL ZUMO DE LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

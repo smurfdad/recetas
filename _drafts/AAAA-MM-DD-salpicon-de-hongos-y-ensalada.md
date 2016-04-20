@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALPICÓN DE HONGOS Y ENSALADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE TOMATE ESPECIAL
-
 categories:
 - Ensaladas
 personas: 6 

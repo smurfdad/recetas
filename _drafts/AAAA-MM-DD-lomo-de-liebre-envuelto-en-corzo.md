@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE LIEBRE ENVUELTO EN CORZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

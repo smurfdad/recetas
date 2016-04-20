@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHURRASCO CORDOBÉS CON SALSAS ÁRABES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

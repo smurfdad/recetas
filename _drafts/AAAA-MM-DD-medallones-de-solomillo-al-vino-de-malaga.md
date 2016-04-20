@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLONES DE SOLOMILLO AL VINO DE MÁLAGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

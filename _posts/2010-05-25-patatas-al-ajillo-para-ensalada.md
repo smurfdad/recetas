@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PATATAS AL AJILLO PARA ENSALADA
-
 categories:
 - Verduras y legumbres
 personas: 6 

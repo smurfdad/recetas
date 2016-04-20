@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE COLIFLOR
-
 categories:
 - Verduras y legumbres
 - Ensaladas

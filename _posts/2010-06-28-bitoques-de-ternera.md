@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BITOQUES DE TERNERA
-
 categories:
 - Carnes y derivados
 ---

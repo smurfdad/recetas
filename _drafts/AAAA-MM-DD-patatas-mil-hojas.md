@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS MIL HOJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

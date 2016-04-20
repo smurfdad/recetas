@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDÍN DE GRELOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO ENTERO ASADO AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

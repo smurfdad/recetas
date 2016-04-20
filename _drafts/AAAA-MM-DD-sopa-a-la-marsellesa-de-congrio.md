@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA A LA MARSELLESA DE CONGRIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

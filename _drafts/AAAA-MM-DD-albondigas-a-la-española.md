@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS A LA ESPAÑOLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

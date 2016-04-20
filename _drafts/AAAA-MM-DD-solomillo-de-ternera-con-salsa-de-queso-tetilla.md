@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE TERNERA CON SALSA DE QUESO TETILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

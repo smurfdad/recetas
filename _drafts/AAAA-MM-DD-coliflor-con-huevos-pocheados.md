@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COLIFLOR CON HUEVOS POCHEADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

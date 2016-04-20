@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETA DE ITSAKABRA O CABRACHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

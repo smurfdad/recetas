@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLETAS DE ACEITUNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

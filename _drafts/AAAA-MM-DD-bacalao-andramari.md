@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO ANDRAMARI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

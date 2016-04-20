@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON ALMEJAS Y SEPIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

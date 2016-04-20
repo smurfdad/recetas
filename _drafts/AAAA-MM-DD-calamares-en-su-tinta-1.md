@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES EN SU TINTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

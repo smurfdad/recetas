@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TORTILLA PORTUGUESA
-
 categories:
 - Huevos y lacteos
 personas: 1 

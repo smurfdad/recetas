@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TERNERA PIZZAIOLA
-
 categories:
 - Carnes y derivados
 personas: 4 

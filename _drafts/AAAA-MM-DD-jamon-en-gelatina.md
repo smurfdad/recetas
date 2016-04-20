@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAMÓN EN GELATINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

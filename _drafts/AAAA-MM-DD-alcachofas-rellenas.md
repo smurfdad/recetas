@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCACHOFAS RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

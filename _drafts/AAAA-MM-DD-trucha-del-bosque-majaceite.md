@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHA DEL BOSQUE MAJACEITE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE CARNE IRLANDES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

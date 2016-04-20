@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADILLA RUSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE MARISCOS Y TRUFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

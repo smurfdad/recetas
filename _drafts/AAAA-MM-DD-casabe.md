@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CASABE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

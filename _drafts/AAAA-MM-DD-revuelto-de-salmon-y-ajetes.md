@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE SALMÓN Y AJETES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

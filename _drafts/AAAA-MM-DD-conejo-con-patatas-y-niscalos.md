@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO CON PATATAS Y NÍSCALOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

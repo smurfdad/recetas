@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SETAS HORNEADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

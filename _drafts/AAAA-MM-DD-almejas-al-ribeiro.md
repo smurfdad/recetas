@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS AL RIBEIRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

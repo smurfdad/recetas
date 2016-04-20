@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO EN CHILINDRON A LA NAVARRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

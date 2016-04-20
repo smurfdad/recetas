@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA DE MELÓN
-
 categories:
 - Sopas y cremas
 - Frutas

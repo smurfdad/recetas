@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LACÓN PRENSADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

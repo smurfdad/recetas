@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VENAS DE TERNERA ESTOFADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

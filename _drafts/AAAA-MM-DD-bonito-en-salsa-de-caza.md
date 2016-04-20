@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO EN SALSA DE CAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HELADO DE GALLETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

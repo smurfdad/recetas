@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BORRAJA CON BERENJENA Y TERNASCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

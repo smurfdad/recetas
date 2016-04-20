@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARACOLES A LA LLAUNA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

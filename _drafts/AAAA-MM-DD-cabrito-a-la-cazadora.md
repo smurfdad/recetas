@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CABRITO A LA CAZADORA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

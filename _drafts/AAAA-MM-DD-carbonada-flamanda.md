@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARBONADA FLAMANDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

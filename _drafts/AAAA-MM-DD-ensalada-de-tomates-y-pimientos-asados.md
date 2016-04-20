@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE TOMATES Y PIMIENTOS ASADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RAPE CON SALSA DE VERDURAS
-
 categories:
 - Pescados
 personas: 6 

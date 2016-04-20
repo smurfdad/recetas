@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALO CON DELICIAS DE CERDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

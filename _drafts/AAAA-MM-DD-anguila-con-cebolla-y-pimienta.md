@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANGUILA CON CEBOLLA Y PIMIENTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

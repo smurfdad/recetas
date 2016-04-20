@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARRINA DE TRES CARNES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

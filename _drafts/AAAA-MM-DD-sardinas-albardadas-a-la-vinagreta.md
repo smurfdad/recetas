@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SARDINAS ALBARDADAS A LA VINAGRETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

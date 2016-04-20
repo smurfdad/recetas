@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ CON PASAS Y GARBANZOS
-
 categories:
 - Verduras y legumbres
 - Arroces

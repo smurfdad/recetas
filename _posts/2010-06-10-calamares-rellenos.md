@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CALAMARES RELLENOS
-
 categories:
 - Mariscos y moluscos
 ---

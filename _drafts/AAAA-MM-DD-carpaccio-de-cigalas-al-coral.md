@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARPACCIO DE CIGALAS AL CORAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES FRITOS EN ENSALADA MI KROB
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

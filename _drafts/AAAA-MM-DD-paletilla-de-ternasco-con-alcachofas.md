@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALETILLA DE TERNASCO CON ALCACHOFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

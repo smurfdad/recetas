@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPERADOR CON SALSA TÁRTARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

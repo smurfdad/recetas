@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LANGOSTA A LA BRASA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

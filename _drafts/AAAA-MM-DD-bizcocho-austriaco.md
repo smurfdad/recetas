@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO AUSTRIACO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

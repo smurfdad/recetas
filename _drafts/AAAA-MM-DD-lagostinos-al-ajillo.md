@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LAGOSTINOS AL AJILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

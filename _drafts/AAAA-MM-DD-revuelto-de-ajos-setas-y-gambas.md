@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE AJOS, SETAS Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

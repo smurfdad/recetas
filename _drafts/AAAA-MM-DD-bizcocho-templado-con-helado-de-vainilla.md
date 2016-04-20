@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO TEMPLADO CON HELADO DE VAINILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

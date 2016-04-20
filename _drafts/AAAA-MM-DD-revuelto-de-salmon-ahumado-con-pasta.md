@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE SALMÓN AHUMADO CON PASTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

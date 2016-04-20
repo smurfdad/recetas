@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS A LO TÍO LUCAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

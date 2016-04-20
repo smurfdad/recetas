@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS A LA CASERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

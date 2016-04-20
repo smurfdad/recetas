@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE BERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

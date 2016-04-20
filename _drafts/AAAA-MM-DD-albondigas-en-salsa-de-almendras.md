@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS EN SALSA DE ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

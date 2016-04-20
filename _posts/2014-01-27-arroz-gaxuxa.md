@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ GAXUXA
-
 categories:
 - Arroces
 personas: 8 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAPE CON CIGALITAS Y HONGOS A LA PLANCHA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

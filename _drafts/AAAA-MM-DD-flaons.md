@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAONS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

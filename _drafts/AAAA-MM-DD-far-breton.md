@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FAR BRETÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

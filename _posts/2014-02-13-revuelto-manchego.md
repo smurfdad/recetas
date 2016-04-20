@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: REVUELTO MANCHEGO
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

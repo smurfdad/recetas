@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LECHUGAS CON AGUACATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CABEZA DE LEÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

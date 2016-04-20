@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DELICIAS DE LENGUADO, OSTRAS Y CIGALAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

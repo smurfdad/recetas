@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PISTO A LA BILBAÍNA
-
 categories:
 - Verduras y legumbres
 personas: 8 

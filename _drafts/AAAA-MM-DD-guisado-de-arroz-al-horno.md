@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISADO DE ARROZ AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

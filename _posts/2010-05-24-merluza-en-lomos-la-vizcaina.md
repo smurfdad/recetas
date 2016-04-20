@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERLUZA EN LOMOS A LA VIZCAÍNA
-
 categories:
 - Pescados
 personas: 6 

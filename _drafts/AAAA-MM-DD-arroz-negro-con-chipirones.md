@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ NEGRO CON CHIPIRONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

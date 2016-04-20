@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CALDOSO CON SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

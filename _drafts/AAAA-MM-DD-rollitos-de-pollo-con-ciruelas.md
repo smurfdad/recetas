@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS DE POLLO CON CIRUELAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

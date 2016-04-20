@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISANTITOS CON PATATAS Y ACEITE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

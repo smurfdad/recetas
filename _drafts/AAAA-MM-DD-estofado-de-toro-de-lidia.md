@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO DE TORO DE LIDIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAMPIÑONES RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

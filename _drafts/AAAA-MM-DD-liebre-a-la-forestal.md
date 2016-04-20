@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LIEBRE A LA FORESTAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

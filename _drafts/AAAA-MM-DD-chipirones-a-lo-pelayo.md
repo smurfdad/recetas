@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHIPIRONES A LO PELAYO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

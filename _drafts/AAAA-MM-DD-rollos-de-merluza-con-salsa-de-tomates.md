@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLOS DE MERLUZA CON SALSA DE TOMATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

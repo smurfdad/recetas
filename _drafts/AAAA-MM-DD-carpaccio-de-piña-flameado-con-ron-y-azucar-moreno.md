@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARPACCIO DE PIÑA FLAMEADO CON RON Y AZÚCAR MORENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

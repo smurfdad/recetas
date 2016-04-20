@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS CON NATA
-
 categories:
 - Pastas
 personas: 4 

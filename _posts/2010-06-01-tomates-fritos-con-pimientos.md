@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TOMATES FRITOS CON PIMIENTOS
-
 categories:
 - Verduras y legumbres
 personas: 6 

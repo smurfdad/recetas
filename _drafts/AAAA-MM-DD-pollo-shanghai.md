@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO SHANGHAI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

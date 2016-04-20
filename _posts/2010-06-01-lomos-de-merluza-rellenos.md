@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LOMOS DE MERLUZA RELLENOS
-
 categories:
 - Pescados
 personas: 4 

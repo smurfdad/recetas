@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MUSLOS DE PAVO AL LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

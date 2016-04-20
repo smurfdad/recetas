@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE HUEVOS CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

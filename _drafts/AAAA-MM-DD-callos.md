@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALLOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

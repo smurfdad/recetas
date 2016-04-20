@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERO DEL MAR MENOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MENESTRA CON JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

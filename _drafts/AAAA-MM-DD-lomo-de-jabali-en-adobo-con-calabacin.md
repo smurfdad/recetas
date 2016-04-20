@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE JABALÍ EN ADOBO CON CALABACÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

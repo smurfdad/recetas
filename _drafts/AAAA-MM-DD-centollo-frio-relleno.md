@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CENTOLLO FRÍO RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

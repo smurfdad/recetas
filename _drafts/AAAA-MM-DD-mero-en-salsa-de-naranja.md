@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO EN SALSA DE NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

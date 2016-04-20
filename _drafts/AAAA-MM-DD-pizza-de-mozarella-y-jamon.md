@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIZZA DE MOZARELLA Y JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

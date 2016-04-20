@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE CARNE DE SIRIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

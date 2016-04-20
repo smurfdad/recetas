@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CALLOS O MORROS DE LA SUEGRA
-
 categories:
 - Carnes y derivados
 personas: 6 

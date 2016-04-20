@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CALDOSO CON BOQUERONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALCACHOFAS CON MERLUZA
-
 categories:
 - Pescados
 - Verduras y legumbres

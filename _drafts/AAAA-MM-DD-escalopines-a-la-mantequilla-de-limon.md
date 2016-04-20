@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPINES A LA MANTEQUILLA DE LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

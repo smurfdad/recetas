@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BERZA ASADA CON JAMÓN
-
 categories:
 - Verduras y legumbres
 personas: 4 

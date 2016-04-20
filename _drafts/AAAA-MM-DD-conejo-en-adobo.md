@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO EN ADOBO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO SABROSON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

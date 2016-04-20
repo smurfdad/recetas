@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLO DE CARNE Y BACON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PICHONES ASADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

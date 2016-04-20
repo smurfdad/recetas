@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA MAYONESA AL CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

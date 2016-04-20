@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGUETTI CON SEPIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

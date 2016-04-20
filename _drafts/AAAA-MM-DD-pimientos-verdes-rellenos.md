@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTOS VERDES RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

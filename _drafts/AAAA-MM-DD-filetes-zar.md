@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES ZAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

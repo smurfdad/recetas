@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MELOCOTONES SABOYANOS
-
 categories:
 - Frutas
 personas: 8 

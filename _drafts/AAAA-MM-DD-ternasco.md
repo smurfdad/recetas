@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNASCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

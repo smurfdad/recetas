@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITURAS DE VEGETALES PICANTES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

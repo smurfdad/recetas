@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

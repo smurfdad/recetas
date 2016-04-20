@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCOCHAS DE MERLUZA CON SU PIL-PIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

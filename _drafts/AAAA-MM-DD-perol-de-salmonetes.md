@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PEROL DE SALMONETES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

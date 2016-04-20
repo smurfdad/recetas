@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRICANDO DE TERNERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

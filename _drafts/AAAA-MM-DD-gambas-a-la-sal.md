@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAMBAS A LA SAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

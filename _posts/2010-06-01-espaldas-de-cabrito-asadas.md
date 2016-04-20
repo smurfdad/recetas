@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPALDAS DE CABRITO ASADAS
-
 categories:
 - Carnes y derivados
 personas: 4 

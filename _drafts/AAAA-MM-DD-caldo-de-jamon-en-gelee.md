@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDO DE JAMÓN EN GELÉE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

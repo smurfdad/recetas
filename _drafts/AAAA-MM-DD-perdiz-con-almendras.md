@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDIZ CON ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

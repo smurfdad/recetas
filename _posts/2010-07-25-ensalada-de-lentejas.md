@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE LENTEJAS
-
 categories:
 - Verduras y legumbres
 - Ensaladas

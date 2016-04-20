@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCIDO DE VERDURAS ALMONTEÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES DE ACELGAS CON PANCETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

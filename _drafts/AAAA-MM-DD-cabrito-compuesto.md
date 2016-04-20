@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CABRITO COMPUESTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

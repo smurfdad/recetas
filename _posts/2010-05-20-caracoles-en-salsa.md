@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CARACOLES EN SALSA
-
 categories:
 - Mariscos y moluscos
 personas: 6 

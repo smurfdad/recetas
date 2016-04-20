@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA DE MARISCOS
-
 categories:
 - Sopas y cremas
 - Mariscos y moluscos

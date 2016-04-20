@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILLOAS CON MARISCO EN SALSA DE ERIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

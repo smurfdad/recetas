@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAN DE VERDURAS (O CAZUELA CUAJADA)
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

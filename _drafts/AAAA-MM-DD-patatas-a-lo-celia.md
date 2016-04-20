@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS A LO CELIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADO AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAPÓN DE NAVIDAD
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

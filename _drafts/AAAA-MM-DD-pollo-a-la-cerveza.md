@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO A LA CERVEZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

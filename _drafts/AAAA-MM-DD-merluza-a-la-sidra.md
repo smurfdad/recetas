@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA A LA SIDRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

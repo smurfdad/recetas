@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS SABROSAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

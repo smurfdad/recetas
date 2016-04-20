@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAKE DE ZANAHORIA Y CUADRADOS DE CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

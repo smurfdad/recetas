@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA DE QUESO CON FRUTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

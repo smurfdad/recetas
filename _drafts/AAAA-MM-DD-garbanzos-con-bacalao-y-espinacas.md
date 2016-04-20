@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GARBANZOS CON BACALAO Y ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

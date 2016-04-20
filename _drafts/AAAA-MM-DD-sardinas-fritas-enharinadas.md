@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SARDINAS FRITAS ENHARINADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

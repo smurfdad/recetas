@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PANRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

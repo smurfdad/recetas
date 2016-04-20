@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA ALL AMATRICIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

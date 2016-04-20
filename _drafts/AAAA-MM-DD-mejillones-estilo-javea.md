@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES ESTILO JAVEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

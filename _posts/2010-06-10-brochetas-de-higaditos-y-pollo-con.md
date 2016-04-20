@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BROCHETAS DE HIGADITOS Y POLLO CON QUINOA
-
 categories:
 - Carnes y derivados
 personas: 4 

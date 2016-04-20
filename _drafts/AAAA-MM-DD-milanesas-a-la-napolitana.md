@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MILANESAS A LA NAPOLITANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

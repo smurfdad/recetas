@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS ESCALFADOS CON ESPÁRRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

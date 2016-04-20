@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS CON YEMA Y CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON FIDEOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAMENQUINES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

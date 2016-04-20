@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NATILLAS DE LA JARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

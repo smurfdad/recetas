@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDO DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

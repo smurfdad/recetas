@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLORES DE ZAPALLO RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

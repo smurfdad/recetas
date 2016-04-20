@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE SALMONETE SOBRE ARROZ CREMOSO DE CHIPIRÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

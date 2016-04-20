@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CIGALA SALTEADA CON CEBOLLA Y ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

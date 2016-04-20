@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE AL CARAMELO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

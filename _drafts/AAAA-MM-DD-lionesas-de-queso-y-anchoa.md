@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LIONESAS DE QUESO Y ANCHOA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

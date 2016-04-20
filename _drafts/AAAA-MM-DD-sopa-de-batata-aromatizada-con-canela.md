@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE BATATA AROMATIZADA CON CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

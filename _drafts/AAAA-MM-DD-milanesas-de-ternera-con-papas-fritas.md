@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MILANESAS DE TERNERA CON PAPAS FRITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

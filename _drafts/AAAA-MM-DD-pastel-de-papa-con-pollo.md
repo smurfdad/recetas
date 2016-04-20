@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE PAPA CON POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

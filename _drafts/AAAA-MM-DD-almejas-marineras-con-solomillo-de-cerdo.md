@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALMEJAS MARINERAS CON SOLOMILLO DE CERDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

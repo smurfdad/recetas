@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE SARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

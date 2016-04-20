@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MILANESAS DE PAVO CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Setas y hongos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS ROJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

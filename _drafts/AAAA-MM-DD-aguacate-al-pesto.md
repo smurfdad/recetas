@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AGUACATE AL PESTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

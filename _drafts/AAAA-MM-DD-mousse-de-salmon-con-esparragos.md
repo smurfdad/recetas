@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE SALMÓN CON ESPÁRRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BIZCOCHITOS DE ALMENDRA AL COÑAC
-
 categories:
 - Postres y dulces
 personas: 6 

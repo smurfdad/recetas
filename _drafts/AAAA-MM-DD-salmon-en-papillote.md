@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMON EN PAPILLOTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

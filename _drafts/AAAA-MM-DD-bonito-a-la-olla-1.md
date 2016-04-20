@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO A LA OLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

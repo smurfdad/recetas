@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA FRÍA PHILADELPHIA
-
 categories:
 - Postres y dulces
 personas: 6 

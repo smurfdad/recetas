@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDÍN DE ESPARRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

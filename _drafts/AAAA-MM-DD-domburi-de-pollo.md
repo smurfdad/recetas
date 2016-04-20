@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DOMBURI DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

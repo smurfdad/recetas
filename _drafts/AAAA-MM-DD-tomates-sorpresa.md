@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOMATES SORPRESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE CONFIT DE PAVO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

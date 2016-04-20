@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CIVET DE CONEJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

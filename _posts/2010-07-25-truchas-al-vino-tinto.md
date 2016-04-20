@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TRUCHAS AL VINO TINTO
-
 categories:
 - Pescados
 ---

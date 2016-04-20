@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO AL VINO CHABLÍS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

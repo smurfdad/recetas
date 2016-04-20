@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE PIMIENTOS DEL PIQUILLO CON JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETE DE HUELVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

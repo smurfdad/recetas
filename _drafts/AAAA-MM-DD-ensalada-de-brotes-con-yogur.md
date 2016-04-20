@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE BROTES CON YOGUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

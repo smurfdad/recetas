@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENDIVIAS RELLENAS
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

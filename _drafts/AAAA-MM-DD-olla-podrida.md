@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OLLA PODRIDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

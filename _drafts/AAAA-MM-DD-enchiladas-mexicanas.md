@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENCHILADAS MEXICANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

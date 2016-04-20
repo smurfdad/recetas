@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE ZANCARRÓN Y PIQUILLOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

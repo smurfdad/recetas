@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJALDRE DE PISTO CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

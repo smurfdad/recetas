@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRÉCOLES YAJNI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

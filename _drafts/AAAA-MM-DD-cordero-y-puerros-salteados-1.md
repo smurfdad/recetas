@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO Y PUERROS SALTEADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

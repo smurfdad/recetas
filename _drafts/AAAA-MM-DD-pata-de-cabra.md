@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATA DE CABRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

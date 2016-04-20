@@ -1,7 +1,6 @@
 ---
 layout: post
 title: OMELETTE DE CHAMPIÑONES CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

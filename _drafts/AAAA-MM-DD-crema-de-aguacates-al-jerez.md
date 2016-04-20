@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE AGUACATES AL JEREZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

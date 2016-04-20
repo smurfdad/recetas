@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUANILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

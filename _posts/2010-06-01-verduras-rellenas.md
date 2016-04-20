@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: VERDURAS RELLENAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

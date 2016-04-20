@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA TEMPLADA DE PRIMAVERA
-
 categories:
 - Ensaladas
 ---

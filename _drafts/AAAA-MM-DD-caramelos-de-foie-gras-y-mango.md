@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARAMELOS DE FOIE-GRAS Y MANGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

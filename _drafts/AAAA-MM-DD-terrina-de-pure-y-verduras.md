@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERRINA DE PURÉ Y VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

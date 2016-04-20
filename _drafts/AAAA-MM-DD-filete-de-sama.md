@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE DE SAMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

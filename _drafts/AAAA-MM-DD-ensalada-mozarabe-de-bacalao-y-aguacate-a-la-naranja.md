@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA MOZARABE DE BACALAO Y AGUACATE A LA NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

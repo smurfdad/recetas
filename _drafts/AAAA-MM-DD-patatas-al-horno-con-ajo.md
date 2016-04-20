@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS AL HORNO CON AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

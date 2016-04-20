@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHORICITOS AL ALBARIÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

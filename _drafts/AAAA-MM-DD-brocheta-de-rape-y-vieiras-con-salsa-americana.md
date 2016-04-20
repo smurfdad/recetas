@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE RAPE Y VIEIRAS CON SALSA AMERICANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES GUISADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

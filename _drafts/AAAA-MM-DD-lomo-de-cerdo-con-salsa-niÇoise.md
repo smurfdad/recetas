@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CERDO CON SALSA NIÇOISE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

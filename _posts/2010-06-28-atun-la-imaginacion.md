@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ATÚN A LA IMAGINACIÓN
-
 categories:
 - Pescados
 personas: 4 

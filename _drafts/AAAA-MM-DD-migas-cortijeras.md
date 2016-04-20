@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MIGAS CORTIJERAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

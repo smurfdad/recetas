@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLICHES GUISADOS A LA ANTIGUA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

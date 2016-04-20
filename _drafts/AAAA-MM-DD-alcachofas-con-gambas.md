@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCACHOFAS CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLAS MEXICANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

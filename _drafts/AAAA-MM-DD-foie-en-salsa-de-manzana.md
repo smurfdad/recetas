@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FOIE EN SALSA DE MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

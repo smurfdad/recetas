@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE CANGREJOS DE RIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

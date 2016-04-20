@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MACARRONES CON PATÉ
-
 categories:
 - Pastas
 personas: 4 

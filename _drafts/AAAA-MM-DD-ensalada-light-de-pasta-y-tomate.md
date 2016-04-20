@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA LIGHT DE PASTA Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

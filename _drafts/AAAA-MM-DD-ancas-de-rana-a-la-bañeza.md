@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANCAS DE RANA A LA BAÑEZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

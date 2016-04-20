@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FABA PELADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

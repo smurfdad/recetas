@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO AL ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FRICANDÓ DE TERNERA
-
 categories:
 - Carnes y derivados
 personas: 4 

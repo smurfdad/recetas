@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NAVARÍN DE CORDERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

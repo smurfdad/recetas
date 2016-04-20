@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA A LA NATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

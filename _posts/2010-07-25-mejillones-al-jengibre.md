@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MEJILLONES AL JENGIBRE
-
 categories:
 - Mariscos y moluscos
 personas: 4 

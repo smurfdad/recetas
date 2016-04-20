@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE TOMATES CON LEGUMBRES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

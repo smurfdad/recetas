@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PLUM CAKE DE MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS A LA MADRILEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

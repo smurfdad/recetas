@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHUCRUT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

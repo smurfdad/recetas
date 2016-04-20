@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TUMBET MALLORQUÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

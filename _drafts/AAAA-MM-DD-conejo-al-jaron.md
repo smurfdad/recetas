@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO AL JARÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISANTES A LA CREMA DE BERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FOIE-GRAS DE CERDO
-
 categories:
 - Carnes y derivados
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTE MARINERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

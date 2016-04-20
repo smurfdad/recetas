@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA EXOTICA DE ATUN CON FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALTEADO DE BUEY A LA CREMA
-
 categories:
 - Carnes y derivados
 personas: 4 

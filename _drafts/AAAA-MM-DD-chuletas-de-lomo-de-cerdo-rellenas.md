@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS DE LOMO DE CERDO RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

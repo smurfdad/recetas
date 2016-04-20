@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA ROQUEFORT
-
 categories:
 - Salsas
 personas: 6 

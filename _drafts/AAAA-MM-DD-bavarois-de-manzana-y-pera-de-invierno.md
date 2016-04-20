@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BAVAROIS DE MANZANA Y PERA DE INVIERNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MORENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

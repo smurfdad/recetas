@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "ÑOQUIS ROMANOS"
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

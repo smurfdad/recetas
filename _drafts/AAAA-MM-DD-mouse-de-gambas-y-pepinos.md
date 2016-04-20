@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSE DE GAMBAS Y PEPINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

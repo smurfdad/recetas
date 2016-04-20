@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERLUZA RELLENA
-
 categories:
 - Pescados
 personas: 6 

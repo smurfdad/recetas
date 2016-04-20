@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DELICIAS DE MERLUZA A LOS TRES SABORES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

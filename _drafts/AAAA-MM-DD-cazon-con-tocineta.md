@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZÓN CON TOCINETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

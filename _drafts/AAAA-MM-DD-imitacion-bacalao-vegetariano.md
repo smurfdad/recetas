@@ -1,7 +1,6 @@
 ---
 layout: post
 title: IMITACION BACALAO VEGETARIANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

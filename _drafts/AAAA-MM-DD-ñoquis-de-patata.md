@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "ÑOQUIS DE PATATA"
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

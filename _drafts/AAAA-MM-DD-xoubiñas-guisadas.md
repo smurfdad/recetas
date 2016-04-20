@@ -1,7 +1,6 @@
 ---
 layout: post
 title: XOUBIÑAS GUISADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

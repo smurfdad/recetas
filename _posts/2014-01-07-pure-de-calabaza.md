@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PURÉ DE CALABAZA
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

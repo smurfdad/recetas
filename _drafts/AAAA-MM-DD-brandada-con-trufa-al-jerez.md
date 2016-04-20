@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRANDADA CON TRUFA AL JEREZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

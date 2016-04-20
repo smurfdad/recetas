@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MORCILLA DE CALDERETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

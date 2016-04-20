@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTOS RELLENOS CON HOJALDRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

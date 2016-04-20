@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BAVARESA DE FRESAS PHILADELPHIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

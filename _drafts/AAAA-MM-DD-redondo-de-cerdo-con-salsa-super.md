@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REDONDO DE CERDO CON SALSA SUPER
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

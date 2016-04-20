@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUDING DE ATÚN
-
 categories:
 - Pescados
 - Huevos y lacteos

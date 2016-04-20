@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALOPINES AL LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

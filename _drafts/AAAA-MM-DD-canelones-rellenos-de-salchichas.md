@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELONES RELLENOS DE SALCHICHAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

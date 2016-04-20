@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO A LA MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

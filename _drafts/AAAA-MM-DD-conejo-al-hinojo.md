@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO AL HINOJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALMÓN EN PAPILLOTE
-
 categories:
 - Pescados
 personas: 6 

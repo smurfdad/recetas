@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ARROZ CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

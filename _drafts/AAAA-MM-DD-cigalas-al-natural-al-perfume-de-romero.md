@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CIGALAS AL NATURAL AL PERFUME DE ROMERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESILLO EXQUISITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

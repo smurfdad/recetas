@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COQUINAS DE LA ISLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

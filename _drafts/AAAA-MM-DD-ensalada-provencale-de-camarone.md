@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA PROVENCALE DE CAMARONE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

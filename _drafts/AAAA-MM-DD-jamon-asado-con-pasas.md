@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAMÓN ASADO CON PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

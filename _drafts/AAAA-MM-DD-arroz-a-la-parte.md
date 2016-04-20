@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ A LA PARTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

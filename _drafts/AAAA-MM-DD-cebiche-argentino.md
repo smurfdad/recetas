@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CEBICHE ARGENTINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

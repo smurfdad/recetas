@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SEPIA EN ROSTIDERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

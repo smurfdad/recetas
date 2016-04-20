@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACINES AL GRATÉN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLONES DE CALABAZA A LA CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

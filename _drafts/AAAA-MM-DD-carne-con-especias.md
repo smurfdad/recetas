@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE CON ESPECIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

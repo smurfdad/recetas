@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO MESTRAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

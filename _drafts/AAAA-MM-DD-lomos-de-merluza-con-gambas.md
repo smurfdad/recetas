@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMOS DE MERLUZA CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

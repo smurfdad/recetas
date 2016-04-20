@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GNOCCHI A LA ROMANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

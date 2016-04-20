@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISADO DE PAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

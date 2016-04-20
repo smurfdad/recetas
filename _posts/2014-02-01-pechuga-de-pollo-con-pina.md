@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PECHUGA DE POLLO CON PIÑA
-
 categories:
 - Ensaladas
 - Carnes y derivados

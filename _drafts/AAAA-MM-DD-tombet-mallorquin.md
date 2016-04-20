@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOMBET MALLORQUÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

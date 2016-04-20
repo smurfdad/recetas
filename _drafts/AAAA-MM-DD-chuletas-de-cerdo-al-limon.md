@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS DE CERDO AL LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

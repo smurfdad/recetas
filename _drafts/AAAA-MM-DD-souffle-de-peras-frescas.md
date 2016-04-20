@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOUFFLÉ DE PERAS FRESCAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

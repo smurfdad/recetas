@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGA DE PAVO CON SALSA DE ALBARICOQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

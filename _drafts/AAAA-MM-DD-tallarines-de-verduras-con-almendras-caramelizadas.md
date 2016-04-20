@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES DE VERDURAS CON ALMENDRAS CARAMELIZADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

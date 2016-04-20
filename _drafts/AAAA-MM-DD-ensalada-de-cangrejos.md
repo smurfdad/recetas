@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE CANGREJOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

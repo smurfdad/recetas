@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA WALDORF CON POLLO Y CARABINEROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE PATATAS CON CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

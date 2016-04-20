@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERLUZA AL HORNO
-
 categories:
 - Pescados
 personas: 6 

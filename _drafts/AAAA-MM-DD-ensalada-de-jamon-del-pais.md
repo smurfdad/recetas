@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE JAMÓN DEL PAÍS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

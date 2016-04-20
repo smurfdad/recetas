@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERZA DE APIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

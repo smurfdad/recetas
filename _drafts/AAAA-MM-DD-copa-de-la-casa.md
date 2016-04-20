@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COPA DE LA CASA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

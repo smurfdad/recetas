@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COLIFLOR A LA NAPOLITANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTALETAS DE MARISCO
-
 categories:
 - Mariscos y moluscos
 personas: 6 

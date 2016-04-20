@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS CON AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

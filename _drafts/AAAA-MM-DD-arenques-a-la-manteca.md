@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARENQUES A LA MANTECA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

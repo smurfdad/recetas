@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JURELILLOS A LA MORUNA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

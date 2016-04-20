@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LASAÑA AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

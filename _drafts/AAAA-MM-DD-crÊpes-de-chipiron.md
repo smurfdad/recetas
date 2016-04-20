@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CRÊPES DE CHIPIRÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

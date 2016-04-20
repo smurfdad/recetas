@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO DE MELÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

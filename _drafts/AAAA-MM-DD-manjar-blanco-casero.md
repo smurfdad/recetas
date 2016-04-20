@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANJAR BLANCO CASERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

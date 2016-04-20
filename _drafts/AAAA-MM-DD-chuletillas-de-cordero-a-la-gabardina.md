@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETILLAS DE CORDERO A LA GABARDINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

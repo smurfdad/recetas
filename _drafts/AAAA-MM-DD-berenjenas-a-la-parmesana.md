@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS A LA PARMESANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

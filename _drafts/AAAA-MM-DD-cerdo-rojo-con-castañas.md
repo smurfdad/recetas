@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO ROJO CON CASTAÑAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

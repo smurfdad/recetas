@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAWAN-MUSHI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

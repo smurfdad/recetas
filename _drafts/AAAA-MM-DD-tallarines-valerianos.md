@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES VALERIANOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAS EN SALSA AGRIDULCE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

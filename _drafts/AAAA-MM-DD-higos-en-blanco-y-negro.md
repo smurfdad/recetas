@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HIGOS EN BLANCO Y NEGRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

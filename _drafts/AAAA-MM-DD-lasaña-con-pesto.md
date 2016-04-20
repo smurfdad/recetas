@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LASAÑA CON PESTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

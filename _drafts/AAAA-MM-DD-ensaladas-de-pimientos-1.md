@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADAS DE PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: UDABERRI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

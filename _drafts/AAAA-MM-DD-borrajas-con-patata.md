@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BORRAJAS CON PATATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

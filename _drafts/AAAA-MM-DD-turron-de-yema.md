@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TURRÓN DE YEMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

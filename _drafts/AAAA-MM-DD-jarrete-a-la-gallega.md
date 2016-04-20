@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JARRETE A LA GALLEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

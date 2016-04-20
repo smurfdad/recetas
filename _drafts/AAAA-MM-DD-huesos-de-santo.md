@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUESOS DE SANTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

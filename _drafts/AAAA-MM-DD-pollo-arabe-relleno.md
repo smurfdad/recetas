@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO ÁRABE RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

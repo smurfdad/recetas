@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MELON CON LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITURA A LA JAPONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

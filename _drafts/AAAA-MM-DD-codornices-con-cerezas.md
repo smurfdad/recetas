@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES CON CEREZAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

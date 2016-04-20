@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTA AL VINO
-
 categories:
 - Pastas
 personas: 2 

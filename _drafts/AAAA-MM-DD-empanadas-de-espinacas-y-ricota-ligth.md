@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADAS DE ESPINACAS Y RICOTA LIGTH
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

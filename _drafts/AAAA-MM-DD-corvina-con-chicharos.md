@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORVINA CON CHÍCHAROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CRUMBLE DE MANZANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

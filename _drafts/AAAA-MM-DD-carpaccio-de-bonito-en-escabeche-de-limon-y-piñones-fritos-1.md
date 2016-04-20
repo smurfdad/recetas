@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARPACCIO DE BONITO EN ESCABECHE DE LIMÓN Y PIÑONES FRITOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

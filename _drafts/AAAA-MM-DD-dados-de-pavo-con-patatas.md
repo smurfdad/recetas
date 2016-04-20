@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DADOS DE PAVO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

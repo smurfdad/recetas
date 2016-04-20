@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS Y FIDEOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

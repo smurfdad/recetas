@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MELÓN ADOBADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

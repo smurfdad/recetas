@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS A LA YERBABUENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES CON COL A LA MENORQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

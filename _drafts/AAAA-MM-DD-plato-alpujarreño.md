@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PLATO ALPUJARREÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

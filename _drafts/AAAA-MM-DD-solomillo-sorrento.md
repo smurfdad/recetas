@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO SORRENTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

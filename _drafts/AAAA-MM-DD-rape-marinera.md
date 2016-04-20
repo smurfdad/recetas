@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAPE MARINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

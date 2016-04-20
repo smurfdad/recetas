@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARRUÉCANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

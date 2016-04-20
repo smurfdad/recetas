@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO HISPANIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

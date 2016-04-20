@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO VASCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

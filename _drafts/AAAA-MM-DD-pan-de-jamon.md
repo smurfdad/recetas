@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAN DE JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

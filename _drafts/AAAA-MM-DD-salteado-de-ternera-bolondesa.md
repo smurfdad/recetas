@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALTEADO DE TERNERA BOLONDESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

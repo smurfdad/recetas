@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO FRESCO CON SALSA DE MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

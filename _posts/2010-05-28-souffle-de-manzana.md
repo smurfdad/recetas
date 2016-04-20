@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOUFFLÉ DE MANZANA
-
 categories:
 - Postres y dulces
 - Frutas

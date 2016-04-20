@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATA EN CALDO MOJETILLO EN ACABANDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

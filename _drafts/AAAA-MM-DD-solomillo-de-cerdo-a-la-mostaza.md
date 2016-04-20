@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO A LA MOSTAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

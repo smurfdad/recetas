@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA CON SALSA DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CALDERETA DE BOGAVANTE Y RAPE
-
 categories:
 - Pescados
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENDIBIAS Y PUERROS ESTOFADOS AL ESTRAGÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

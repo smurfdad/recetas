@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA CON TRUCHA MARINADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

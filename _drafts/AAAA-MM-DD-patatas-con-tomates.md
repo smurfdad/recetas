@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS CON TOMATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

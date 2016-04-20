@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FARFALLE AL CAVIAR DE MÚJOL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

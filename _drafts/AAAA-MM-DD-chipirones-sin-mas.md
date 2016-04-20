@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHIPIRONES SIN MÁS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

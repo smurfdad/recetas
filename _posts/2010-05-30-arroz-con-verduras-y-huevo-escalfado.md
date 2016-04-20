@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ CON VERDURAS Y HUEVO ESCALFADO
-
 categories:
 - Verduras y legumbres
 - Arroces

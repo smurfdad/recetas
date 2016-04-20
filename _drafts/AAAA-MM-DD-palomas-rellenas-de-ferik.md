@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALOMAS RELLENAS DE FERIK
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

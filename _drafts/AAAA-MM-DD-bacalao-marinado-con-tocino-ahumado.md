@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO MARINADO CON TOCINO AHUMADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

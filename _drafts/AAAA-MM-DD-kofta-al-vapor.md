@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KOFTA AL VAPOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

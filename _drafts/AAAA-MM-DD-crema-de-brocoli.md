@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE BROCOLI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

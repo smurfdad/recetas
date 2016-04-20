@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS EN SALMORREJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

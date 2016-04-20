@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PESCADO AL HORNO
-
 categories:
 - Pescados
 personas: 2 

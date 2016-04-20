@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE CARNE, BACON Y PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

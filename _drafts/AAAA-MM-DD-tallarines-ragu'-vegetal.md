@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES RAGU' VEGETAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

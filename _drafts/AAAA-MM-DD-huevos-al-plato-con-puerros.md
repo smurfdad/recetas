@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS AL PLATO CON PUERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

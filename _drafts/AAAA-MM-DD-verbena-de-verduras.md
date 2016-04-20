@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VERBENA DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

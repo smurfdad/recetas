@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MUSLOS DE PAVO ESTOFADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

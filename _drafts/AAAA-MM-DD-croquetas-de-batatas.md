@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CROQUETAS DE BATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

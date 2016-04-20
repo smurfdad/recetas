@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: POLLO A LA SÁBILA
-
 categories:
 - Carnes y derivados
 personas: 4 

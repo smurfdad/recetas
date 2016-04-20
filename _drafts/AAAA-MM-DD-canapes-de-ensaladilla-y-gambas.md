@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANAPÉS DE ENSALADILLA Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

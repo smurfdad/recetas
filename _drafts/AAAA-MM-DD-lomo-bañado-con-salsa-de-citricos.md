@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO BAÑADO CON SALSA DE CÍTRICOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

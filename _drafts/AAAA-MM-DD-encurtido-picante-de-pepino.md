@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENCURTIDO PICANTE DE PEPINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

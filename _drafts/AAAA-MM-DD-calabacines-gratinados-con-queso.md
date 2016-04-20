@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACINES GRATINADOS CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

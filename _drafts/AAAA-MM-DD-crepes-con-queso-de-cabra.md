@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CRÉPES CON QUESO DE CABRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

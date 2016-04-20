@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO DE ROQUEFORT CON NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

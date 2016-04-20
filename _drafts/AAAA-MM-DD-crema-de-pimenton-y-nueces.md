@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE PIMENTÓN Y NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

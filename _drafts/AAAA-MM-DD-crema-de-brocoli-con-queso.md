@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE BRÓCOLI CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

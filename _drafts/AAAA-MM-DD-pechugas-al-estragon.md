@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS AL ESTRAGÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

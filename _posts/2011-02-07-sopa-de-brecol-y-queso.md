@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA DE BRECOL Y QUESO
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

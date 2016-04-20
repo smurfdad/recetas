@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHOTO DEL PIRINEO AL AJILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

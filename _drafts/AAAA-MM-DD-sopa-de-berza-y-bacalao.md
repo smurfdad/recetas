@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE BERZA Y BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

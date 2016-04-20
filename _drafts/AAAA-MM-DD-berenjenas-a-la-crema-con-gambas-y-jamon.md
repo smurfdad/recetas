@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS A LA CREMA CON GAMBAS Y JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

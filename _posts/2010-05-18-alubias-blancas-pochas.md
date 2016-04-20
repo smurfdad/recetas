@@ -1,11 +1,8 @@
 ---
 layout: post
-
 title: ALUBIAS BLANCAS - POCHAS
-
 categories:
 - Verduras y legumbres
-
 tags:
 - alubias blancas
 - pimienta negra

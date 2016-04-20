@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOMATES RELLENOS DE ARROZ Y GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

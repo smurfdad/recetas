@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDIZ A LA TOLEDANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

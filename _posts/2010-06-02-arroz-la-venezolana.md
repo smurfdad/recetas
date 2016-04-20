@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ A LA VENEZOLANA
-
 categories:
 - Arroces
 personas: 4 

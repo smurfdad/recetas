@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS EMPANADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

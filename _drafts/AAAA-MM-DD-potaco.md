@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTACO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

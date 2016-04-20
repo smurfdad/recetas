@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMOS DE BACALAO A LA CREMA DE ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADA CHILENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

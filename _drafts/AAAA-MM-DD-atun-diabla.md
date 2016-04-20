@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN DIABLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUDING DE BERENJENAS
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

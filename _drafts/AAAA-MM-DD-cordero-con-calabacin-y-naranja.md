@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO CON CALABACÍN Y NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

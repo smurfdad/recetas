@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERO CON PISTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

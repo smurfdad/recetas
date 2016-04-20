@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE JUDÍAS VERDES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

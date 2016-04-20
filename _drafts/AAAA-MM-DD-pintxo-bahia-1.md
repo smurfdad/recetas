@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO BAHÍA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

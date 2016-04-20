@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES GRATINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

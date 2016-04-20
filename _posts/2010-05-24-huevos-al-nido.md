@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HUEVOS AL NIDO
-
 categories:
 - Huevos y lacteos
 personas: 6 

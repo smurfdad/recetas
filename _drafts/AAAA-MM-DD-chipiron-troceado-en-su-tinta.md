@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHIPIRÓN TROCEADO EN SU TINTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

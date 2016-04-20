@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HONGOS PI-PI CU-CU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO MUSLOS DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

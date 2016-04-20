@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE ESPÁRRAGOS CON MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

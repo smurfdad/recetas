@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA A LA RIOJANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO FRÍO DE QUESO DE BURGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

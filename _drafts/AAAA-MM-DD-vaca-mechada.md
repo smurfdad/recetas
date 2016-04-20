@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VACA MECHADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

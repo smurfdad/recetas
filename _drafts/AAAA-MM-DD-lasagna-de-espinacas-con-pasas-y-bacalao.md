@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LASAGNA DE ESPINACAS CON PASAS Y BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

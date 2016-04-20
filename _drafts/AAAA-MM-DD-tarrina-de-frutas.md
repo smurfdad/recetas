@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARRINA DE FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

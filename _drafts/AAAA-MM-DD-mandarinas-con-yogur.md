@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANDARINAS CON YOGUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

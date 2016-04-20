@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOMATES AL GRATEN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CLARICO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

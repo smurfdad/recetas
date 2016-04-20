@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE CAMARON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

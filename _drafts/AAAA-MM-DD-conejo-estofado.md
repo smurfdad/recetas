@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO ESTOFADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

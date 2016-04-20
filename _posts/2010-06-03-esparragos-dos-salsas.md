@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPÁRRAGOS DOS SALSAS
-
 categories:
 - Verduras y legumbres
 personas: 4 

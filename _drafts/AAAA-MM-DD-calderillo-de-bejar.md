@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERILLO DE BÉJAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

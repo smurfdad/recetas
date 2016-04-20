@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALCACHOFAS RELLENAS
-
 categories:
 - Verduras y legumbres
 - Arroces

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEMBRILLOS EN DULCE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

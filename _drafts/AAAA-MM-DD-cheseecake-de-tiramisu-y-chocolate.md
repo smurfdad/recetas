@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHESEECAKE DE TIRAMISU Y CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

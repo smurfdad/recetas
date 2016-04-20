@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POCHAS CON PANCETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANAPE DE MERMELADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOLOMILLO TIPO ROAST-BEEF
-
 categories:
 - Carnes y derivados
 personas: 6 

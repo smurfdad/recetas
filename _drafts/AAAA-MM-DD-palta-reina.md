@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PALTA REINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

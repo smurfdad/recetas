@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE CERDO CON BERENJENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LANGOSTINOS AL OLOROSO SEVILLANO
-
 categories:
 - Mariscos y moluscos
 personas: 4 

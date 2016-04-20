@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTOS RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

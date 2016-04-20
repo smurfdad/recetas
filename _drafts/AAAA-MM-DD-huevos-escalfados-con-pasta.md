@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS ESCALFADOS CON PASTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

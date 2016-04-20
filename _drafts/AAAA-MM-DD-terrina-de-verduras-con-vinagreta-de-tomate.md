@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERRINA DE VERDURAS CON VINAGRETA DE TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

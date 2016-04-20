@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO SEGUREÑO ASADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

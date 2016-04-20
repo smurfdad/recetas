@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS EN SALSA VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIÑA RELLENA DE CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CIERVO EN SALSA DE SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

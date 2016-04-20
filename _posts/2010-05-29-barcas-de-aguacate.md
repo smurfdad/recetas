@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BARCAS DE AGUACATE
-
 categories:
 - Frutas
 personas: 4 

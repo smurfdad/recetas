@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LASAÑA DE CARNE PICADA Y ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

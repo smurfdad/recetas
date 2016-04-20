@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE GARBANZOS O DE ALUBIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAMÓN Y MELÓN AL BRANDY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO DE VENADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

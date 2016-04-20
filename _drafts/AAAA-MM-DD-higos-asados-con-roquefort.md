@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HIGOS ASADOS CON ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

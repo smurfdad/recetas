@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO A LA CREMA JEREZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

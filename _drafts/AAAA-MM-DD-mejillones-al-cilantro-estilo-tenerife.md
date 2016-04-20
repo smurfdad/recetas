@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLONES AL CILANTRO ESTILO TENERIFE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

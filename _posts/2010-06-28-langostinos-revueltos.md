@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LANGOSTINOS REVUELTOS
-
 categories:
 - Mariscos y moluscos
 personas: 10 

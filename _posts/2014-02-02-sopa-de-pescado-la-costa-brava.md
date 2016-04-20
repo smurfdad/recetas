@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA DE PESCADO A LA COSTA BRAVA
-
 categories:
 - Pescados
 - Sopas y cremas

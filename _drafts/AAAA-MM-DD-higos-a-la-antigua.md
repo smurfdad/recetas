@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HIGOS A LA ANTIGUA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

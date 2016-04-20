@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NUTRIPAN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

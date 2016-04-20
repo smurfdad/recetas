@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOCADILLOS DE ESPINACAS Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARRINA DE VERDURAS CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

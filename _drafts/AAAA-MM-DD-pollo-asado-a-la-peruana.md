@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO ASADO A LA PERUANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

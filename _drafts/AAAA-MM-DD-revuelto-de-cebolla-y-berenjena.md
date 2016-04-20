@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE CEBOLLA Y BERENJENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHAMPIÑONES MARINADOS
-
 categories:
 - Setas y hongos
 ---

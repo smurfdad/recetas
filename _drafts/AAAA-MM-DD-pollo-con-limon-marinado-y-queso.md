@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON LIMÓN MARINADO Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

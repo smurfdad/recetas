@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDIZ DEL PASTOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

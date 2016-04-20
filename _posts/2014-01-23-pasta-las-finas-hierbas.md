@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTA A LAS FINAS HIERBAS
-
 categories:
 - Pastas
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO RELLENO DE CIRUELAS PASAS AL VINO TINTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

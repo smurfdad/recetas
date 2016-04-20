@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COLES DE BRUSELAS SALTEADAS
-
 categories:
 - Verduras y legumbres
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE COLES A LA HÚNGARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

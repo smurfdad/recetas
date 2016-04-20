@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE AJO CON HUEVO ESCALFADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

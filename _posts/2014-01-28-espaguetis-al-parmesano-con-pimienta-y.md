@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS AL PARMESANO CON PIMIENTA Y CURRY
-
 categories:
 - Pastas
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MENESTRA DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

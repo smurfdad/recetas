@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS MULTICOLOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

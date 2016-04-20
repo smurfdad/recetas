@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

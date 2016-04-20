@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO CON ESPECIAS E HIGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

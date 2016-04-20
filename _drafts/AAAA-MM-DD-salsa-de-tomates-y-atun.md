@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE TOMATES Y ATÚN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA FU CHI FU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

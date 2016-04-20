@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE HABAS TIERNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

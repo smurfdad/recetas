@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LOMO DE CERDO A LA NARANJA
-
 categories:
 - Carnes y derivados
 personas: 6 

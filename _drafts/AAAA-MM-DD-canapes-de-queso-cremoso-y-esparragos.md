@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANAPÉS DE QUESO CREMOSO Y ESPÁRRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

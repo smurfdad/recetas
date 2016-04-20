@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE PATATA
-
 categories:
 - Ensaladas
 personas: 4 

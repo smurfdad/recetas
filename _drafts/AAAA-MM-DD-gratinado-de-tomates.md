@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRATINADO DE TOMATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

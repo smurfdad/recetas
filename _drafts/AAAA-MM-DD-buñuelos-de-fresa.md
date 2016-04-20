@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUÑUELOS DE FRESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

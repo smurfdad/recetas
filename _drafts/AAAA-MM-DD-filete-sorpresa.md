@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE SORPRESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

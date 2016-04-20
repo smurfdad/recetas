@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANDARINAS AL CARAMELO CALIENTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

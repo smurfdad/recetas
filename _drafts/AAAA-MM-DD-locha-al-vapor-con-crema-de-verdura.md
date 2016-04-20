@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOCHA AL VAPOR CON CREMA DE VERDURA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

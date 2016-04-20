@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE DE SALMÓN CAROLINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

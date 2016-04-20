@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA ARAGONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

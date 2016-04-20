@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONGRIO EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

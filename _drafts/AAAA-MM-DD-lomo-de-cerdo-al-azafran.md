@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CERDO AL AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON GUISANTES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

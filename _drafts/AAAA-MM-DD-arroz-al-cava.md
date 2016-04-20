@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ AL CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

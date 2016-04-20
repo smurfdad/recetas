@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FRITOS DE JAMÓN Y QUESO
-
 categories:
 - Entrantes y bocadillos
 ---

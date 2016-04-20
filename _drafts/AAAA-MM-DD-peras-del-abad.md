@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERAS DEL ABAD
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

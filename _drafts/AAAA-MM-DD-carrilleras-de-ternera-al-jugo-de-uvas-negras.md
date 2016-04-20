@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARRILLERAS DE TERNERA AL JUGO DE UVAS NEGRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

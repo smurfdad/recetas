@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAR DE CABRITO A LA MOSTAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

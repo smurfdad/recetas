@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COQUITOS SUPREMOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

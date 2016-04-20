@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALTEADO DE ANCHOAS Y SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

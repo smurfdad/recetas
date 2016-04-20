@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FONDANT DE CHOCOLATE AL MICROONDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

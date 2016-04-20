@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HOJALDRE DE CHAMPIÑÓN
-
 categories:
 - Verduras y legumbres
 - Setas y hongos

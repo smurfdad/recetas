@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BIZCOCHO ELENA
-
 categories:
 - Postres y dulces
 personas: 6 

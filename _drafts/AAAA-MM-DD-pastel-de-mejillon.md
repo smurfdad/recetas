@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE MEJILLÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

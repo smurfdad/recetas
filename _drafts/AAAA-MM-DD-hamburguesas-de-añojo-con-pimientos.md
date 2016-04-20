@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HAMBURGUESAS DE AÑOJO CON PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

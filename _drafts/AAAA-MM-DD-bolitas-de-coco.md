@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLITAS DE COCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTEL DE ESPINACAS
-
 categories:
 - Verduras y legumbres
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS EN VERANILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

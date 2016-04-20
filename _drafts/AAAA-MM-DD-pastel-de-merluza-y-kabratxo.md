@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE MERLUZA Y KABRATXO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

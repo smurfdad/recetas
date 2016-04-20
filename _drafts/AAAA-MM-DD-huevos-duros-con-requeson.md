@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS DUROS CON REQUESÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

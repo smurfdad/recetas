@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GACHAMIGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO ROSADO DE TERNERA GALLEGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

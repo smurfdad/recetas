@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE QUESO CON SALMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

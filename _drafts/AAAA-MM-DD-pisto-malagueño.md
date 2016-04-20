@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PISTO MALAGUEÑO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

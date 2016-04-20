@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOMATES SECOS REBOZADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

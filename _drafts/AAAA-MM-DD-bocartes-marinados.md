@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOCARTES MARINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

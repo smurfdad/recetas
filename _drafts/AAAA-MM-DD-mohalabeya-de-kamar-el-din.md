@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOHALABEYA DE KAMAR EL DIN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA DE ZANAHORIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

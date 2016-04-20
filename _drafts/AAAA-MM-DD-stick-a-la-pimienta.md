@@ -1,7 +1,6 @@
 ---
 layout: post
 title: STICK A LA PIMIENTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUERROS EN VINAGRETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

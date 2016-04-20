@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PERAS Y NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

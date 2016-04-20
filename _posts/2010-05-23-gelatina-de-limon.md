@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: GELATINA DE LIMÓN
-
 categories:
 - Postres y dulces
 personas: 6 

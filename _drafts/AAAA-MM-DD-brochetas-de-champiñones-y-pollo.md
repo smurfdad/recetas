@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE CHAMPIÑONES Y POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

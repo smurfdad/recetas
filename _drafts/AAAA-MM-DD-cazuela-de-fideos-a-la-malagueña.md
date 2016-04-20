@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELA DE FIDEOS A LA MALAGUEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

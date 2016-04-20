@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGA DE PATO CON MOSCATEL Y PURÉ DE OREJONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

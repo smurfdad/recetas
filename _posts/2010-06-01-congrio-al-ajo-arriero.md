@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CONGRIO AL AJO ARRIERO
-
 categories:
 - Pescados
 personas: 4 

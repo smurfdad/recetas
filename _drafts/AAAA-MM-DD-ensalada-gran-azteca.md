@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA GRAN AZTECA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

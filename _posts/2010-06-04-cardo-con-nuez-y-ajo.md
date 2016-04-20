@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CARDO CON NUEZ Y AJO
-
 categories:
 - Verduras y legumbres
 personas: 4 

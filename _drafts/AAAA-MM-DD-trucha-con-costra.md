@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHA CON COSTRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RATATOUILLE EN BROCHETAS A LA PARRILLA
-
 categories:
 - Verduras y legumbres
 personas: 4 

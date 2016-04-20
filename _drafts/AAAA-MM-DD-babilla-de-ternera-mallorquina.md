@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BABILLA DE TERNERA MALLORQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

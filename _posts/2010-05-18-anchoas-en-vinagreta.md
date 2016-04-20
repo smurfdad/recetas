@@ -1,11 +1,8 @@
 ---
 layout: post
-
 title: ANCHOAS EN VINAGRETA
-
 categories:
 - Pescados
-
 tags:
 - anchoas
 personas: 6 

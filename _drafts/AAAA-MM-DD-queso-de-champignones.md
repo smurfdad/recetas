@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESO DE CHAMPIGNONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

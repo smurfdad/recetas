@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAPAS DEL DIABLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

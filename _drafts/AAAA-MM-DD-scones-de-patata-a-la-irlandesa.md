@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SCONES DE PATATA A LA IRLANDESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

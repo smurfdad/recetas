@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO AL AJILLO CON SALSA DULCE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAPRICHO DE BACALAO BUEY DE MAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

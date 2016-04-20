@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MIGAS SERRANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO CON LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FRUTAS EN PAPILLOTE
-
 categories:
 - Frutas
 personas: 4 

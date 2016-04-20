@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO LECHADO A LA RAQUEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

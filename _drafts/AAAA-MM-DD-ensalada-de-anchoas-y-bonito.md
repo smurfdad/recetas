@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ANCHOAS Y BONITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

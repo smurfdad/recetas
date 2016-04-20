@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SORBO DE GIN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

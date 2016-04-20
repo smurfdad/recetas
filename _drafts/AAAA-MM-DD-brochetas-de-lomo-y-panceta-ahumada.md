@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE LOMO Y PANCETA AHUMADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

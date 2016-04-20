@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA DE MOSTAZA
-
 categories:
 - Salsas
 personas: 6 

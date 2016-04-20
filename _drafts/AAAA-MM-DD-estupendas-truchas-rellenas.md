@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTUPENDAS TRUCHAS RELLENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

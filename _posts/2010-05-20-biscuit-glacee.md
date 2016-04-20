@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BISCUIT GLACÉE
-
 categories:
 - Postres y dulces
 personas: 6 

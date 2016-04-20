@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POSTRE PAU CASALS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POCHAS BLANCAS DE NAVARRA CON CODORNICES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

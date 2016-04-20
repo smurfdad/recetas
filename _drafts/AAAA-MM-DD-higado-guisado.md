@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HÍGADO GUISADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

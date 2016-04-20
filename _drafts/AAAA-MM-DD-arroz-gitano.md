@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ GITANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

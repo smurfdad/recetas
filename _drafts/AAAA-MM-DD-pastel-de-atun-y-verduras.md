@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE ATÚN Y VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS POCHAS CON PERDIZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

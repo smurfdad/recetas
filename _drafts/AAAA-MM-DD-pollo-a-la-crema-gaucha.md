@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO A LA CREMA GAUCHA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

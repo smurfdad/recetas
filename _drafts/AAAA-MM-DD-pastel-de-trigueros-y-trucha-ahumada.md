@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE TRIGUEROS Y TRUCHA AHUMADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COLIFLOR CON QUESO Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO AGRIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

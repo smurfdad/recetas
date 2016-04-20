@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SUQUET DE PEIX A LA COSTA BRAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

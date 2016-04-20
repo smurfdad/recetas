@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE ESPINACAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

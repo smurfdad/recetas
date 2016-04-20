@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LLANDETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

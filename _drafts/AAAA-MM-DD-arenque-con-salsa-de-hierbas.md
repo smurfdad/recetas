@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARENQUE CON SALSA DE HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

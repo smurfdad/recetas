@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS EN PAPILLOTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

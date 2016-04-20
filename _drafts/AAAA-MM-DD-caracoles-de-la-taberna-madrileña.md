@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARACOLES DE LA TABERNA MADRILEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

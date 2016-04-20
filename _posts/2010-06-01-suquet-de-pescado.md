@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SUQUET DE PESCADO
-
 categories:
 - Pescados
 - Sopas y cremas

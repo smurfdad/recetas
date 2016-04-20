@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BRANDADA DE BACALAO
-
 categories:
 - Pescados
 ---

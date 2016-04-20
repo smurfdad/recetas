@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PANIZAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

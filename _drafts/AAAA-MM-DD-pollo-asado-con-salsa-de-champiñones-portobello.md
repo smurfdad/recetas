@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO ASADO CON SALSA DE CHAMPIÑONES PORTOBELLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

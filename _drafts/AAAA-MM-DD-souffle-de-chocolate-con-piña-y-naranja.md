@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOUFFLÉ DE CHOCOLATE CON PIÑA Y NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

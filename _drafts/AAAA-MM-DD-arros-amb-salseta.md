@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARRÓS AMB SALSETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

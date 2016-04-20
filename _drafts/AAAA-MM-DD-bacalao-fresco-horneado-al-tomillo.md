@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO FRESCO HORNEADO AL TOMILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

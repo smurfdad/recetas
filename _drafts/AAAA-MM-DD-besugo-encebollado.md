@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BESUGO ENCEBOLLADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

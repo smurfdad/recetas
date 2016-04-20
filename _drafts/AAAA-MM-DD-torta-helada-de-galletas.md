@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA HELADA DE GALLETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

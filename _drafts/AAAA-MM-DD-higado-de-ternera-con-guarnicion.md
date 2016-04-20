@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HIGADO DE TERNERA CON GUARNICIÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: KOFTA A LA BARBACOA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

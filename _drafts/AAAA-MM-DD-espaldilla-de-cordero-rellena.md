@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPALDILLA DE CORDERO RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

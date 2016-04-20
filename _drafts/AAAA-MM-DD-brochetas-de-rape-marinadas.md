@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE RAPE MARINADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

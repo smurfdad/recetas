@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA GUAPA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

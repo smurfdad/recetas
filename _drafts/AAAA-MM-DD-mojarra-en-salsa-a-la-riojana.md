@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOJARRA EN SALSA A LA RIOJANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

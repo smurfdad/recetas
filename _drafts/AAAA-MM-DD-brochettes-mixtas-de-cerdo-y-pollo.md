@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETTES MIXTAS DE CERDO Y POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

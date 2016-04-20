@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO DE CONEJO Y MOSTAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

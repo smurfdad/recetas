@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO EN HOJALDRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

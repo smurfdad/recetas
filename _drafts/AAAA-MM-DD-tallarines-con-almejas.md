@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TALLARINES CON ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

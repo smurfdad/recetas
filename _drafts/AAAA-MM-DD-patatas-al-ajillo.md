@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS AL AJILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

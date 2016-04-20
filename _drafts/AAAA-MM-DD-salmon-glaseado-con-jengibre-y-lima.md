@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMON GLASEADO CON JENGIBRE Y LIMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE GALLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLENTA DE PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

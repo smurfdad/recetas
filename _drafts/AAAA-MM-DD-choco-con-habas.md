@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHOCO CON HABAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

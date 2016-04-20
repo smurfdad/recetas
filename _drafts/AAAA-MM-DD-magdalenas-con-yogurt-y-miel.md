@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MAGDALENAS CON YOGURT Y MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO DE FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LOMO DE JABALI EN ADOBO, A LA PARRILLA CON CALABACIN
-
 categories:
 - Carnes y derivados
 personas: 6 

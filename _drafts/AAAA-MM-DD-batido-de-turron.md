@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BATIDO DE TURRON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

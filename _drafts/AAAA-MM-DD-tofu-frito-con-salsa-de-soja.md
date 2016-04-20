@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOFU FRITO CON SALSA DE SOJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

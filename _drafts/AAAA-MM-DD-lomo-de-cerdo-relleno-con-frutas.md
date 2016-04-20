@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CERDO RELLENO CON FRUTAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

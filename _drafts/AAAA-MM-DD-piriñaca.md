@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIRIÑACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

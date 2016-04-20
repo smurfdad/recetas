@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FONDO OSCURO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

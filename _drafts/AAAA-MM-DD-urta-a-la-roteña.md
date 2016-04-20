@@ -1,7 +1,6 @@
 ---
 layout: post
 title: URTA A LA ROTEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

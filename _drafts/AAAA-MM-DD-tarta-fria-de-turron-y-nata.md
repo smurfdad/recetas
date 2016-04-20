@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA FRÍA DE TURRÓN Y NATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

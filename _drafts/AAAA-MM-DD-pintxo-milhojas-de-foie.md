@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO MILHOJAS DE FOIE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

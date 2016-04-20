@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO A LA EXTREMEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

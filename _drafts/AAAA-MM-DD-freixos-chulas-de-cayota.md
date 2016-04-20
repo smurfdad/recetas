@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FREIXÓS CHULAS DE CAYOTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

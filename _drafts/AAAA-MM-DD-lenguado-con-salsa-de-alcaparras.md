@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO CON SALSA DE ALCAPARRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

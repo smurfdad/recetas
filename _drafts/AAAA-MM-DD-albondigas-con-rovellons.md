@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS CON ROVELLONS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

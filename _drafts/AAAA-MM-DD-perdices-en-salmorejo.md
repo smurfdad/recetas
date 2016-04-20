@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES EN SALMOREJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DIPLOMÁTICO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

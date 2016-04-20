@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BÚHO AGUACATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

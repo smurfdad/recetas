@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS MARINEROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

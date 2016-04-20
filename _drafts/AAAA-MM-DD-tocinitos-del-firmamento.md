@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOCINITOS DEL FIRMAMENTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

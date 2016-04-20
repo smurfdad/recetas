@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RIGATONI A LOS 4 QUESOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

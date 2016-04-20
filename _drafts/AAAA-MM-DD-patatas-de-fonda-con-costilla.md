@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS DE FONDA CON COSTILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

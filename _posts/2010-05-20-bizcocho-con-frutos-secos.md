@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BIZCOCHO CON FRUTOS SECOS
-
 categories:
 - Postres y dulces
 personas: 8 

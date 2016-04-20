@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE SETAS CON PATATAS Y CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

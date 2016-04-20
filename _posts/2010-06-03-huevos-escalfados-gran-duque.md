@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HUEVOS ESCALFADOS GRAN DUQUE
-
 categories:
 - Huevos y lacteos
 personas: 4 

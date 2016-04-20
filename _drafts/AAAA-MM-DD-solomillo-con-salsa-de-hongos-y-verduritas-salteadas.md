@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO CON SALSA DE HONGOS Y VERDURITAS SALTEADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

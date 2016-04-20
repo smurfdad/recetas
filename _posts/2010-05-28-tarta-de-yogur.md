@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA DE YOGUR
-
 categories:
 - Postres y dulces
 personas: 8 

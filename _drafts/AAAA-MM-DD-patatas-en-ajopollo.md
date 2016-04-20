@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS EN AJOPOLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

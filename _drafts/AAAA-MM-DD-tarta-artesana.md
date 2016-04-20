@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA ARTESANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

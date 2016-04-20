@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARDO A LA BECHAMEL CON PIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

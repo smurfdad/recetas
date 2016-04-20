@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE MANZANA CON MERMERLADA DE MELOCOTÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

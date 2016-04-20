@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO TRUFADO EN COSTRA DE SAL CON SALSA DE OPORTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

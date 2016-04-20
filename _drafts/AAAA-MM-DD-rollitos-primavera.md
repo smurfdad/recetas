@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS PRIMAVERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

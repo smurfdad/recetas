@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PARFAIT CROCANTTI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

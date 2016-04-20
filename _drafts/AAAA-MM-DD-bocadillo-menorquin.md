@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOCADILLO MENORQUÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

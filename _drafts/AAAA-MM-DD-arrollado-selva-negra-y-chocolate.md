@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROLLADO SELVA NEGRA Y CHOCOLATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE VAINAS DE GUISANTES
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

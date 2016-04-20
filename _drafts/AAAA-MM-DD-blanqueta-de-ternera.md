@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BLANQUETA DE TERNERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

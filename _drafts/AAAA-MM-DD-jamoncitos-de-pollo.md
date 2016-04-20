@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JAMONCITOS DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCABECHE DE TRUCHA CON VINAGRETA DE PUERRO Y CEBOLLETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

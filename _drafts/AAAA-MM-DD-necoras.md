@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NÉCORAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

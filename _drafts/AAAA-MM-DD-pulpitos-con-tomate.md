@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PULPITOS CON TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

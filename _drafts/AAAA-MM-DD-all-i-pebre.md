@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALL I PEBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

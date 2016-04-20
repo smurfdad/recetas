@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS CON SALMÓN
-
 categories:
 - Pescados
 - Pastas

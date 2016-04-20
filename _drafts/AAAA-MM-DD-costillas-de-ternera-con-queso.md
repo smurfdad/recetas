@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLAS DE TERNERA CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

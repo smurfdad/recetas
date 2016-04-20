@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSCO DE ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PAN Y PARMESANO.
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

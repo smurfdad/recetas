@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO DE MONTE EN MENESTRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

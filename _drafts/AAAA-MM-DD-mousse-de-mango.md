@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE MANGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

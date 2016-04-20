@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FAISÁN CON SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

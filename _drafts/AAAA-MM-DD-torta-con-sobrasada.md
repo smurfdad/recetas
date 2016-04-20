@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA CON SOBRASADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

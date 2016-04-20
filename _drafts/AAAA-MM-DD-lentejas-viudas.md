@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS VIUDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

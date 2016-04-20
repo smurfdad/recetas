@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TORTILLA DE PATATA
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos

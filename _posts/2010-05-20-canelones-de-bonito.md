@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CANELONES DE BONITO
-
 categories:
 - Pescados
 - Pastas

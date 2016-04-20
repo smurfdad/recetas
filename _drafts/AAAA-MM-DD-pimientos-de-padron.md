@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIMIENTOS DE PADRÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

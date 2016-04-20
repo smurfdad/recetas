@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUDIN DE CHATKA
-
 categories:
 - Pescados
 personas: 6 

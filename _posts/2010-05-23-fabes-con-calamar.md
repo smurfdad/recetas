@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FABES CON CALAMAR
-
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos

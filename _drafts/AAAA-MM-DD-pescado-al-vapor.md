@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADO AL VAPOR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

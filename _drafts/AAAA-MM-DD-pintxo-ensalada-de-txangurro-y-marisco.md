@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO ENSALADA DE TXANGURRO Y MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

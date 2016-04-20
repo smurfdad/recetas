@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJALDRITOS DE SALMÓN FRESCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

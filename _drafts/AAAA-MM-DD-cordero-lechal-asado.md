@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO LECHAL ASADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

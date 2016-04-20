@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE BACALAO RELLENO DE SALMON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

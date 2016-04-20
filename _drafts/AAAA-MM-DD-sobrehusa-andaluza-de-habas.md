@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOBREHUSA ANDALUZA DE HABAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

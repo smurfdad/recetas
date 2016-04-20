@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALPICÓN DE MARISCO
-
 categories:
 - Pescados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSQUILLAS SEGOVIANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

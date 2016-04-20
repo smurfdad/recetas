@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGA DE POLLO A LA CEBOLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

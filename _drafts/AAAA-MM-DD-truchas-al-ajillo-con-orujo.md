@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS AL AJILLO CON ORUJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

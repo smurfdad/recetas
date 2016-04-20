@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GURULLOS CON CONEJO DE ROCEIPON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

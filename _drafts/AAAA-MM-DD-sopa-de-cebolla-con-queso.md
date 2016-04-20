@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE CEBOLLA CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

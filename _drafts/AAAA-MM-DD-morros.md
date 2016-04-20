@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MORROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

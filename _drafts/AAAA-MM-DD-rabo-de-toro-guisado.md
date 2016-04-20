@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RABO DE TORO GUISADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

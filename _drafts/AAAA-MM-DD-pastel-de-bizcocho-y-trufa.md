@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE BIZCOCHO Y TRUFA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

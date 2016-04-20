@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO YECLANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

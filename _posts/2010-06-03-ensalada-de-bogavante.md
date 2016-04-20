@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE BOGAVANTE
-
 categories:
 - Ensaladas
 - Mariscos y moluscos

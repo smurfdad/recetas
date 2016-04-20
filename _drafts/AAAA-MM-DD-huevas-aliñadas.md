@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVAS ALIÑADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

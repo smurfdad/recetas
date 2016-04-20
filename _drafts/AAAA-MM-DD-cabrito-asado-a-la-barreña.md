@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CABRITO ASADO A LA BARREÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

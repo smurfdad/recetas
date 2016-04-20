@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ANGULAS-GULAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

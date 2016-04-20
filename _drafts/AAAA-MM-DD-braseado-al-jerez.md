@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRASEADO AL JEREZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

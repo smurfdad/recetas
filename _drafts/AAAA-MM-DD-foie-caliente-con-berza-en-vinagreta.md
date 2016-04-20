@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FOIE CALIENTE CON BERZA EN VINAGRETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

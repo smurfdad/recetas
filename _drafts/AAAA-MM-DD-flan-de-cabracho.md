@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAN DE CABRACHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA REINA
-
 categories:
 - Sopas y cremas
 personas: 6 

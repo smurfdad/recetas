@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENTRECOT CAFÉ DE PARÍS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

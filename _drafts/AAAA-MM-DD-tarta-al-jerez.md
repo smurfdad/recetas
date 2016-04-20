@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA AL JEREZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

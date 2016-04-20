@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE ESTOFADO DE ZANAHORIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

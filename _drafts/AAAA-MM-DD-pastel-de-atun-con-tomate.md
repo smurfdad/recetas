@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE ATÚN CON TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETE DE LOMO DE CERDO CON HIGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

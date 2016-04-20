@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOLLEJAS CON AJETES Y HUEVOS ESCALFADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

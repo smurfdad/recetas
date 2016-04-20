@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESTOFADO DE MORCILLO
-
 categories:
 - Carnes y derivados
 ---

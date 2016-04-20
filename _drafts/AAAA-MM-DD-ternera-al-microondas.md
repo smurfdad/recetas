@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA AL MICROONDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

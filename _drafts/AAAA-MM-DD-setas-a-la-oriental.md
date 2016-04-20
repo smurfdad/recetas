@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SETAS A LA ORIENTAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

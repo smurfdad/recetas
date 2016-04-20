@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA EN SARTÉN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

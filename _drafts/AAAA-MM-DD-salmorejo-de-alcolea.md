@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMOREJO DE ALCOLEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

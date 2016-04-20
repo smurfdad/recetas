@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE PAVO CON PIÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

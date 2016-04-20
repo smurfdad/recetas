@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BATIDO DE PLÁTANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

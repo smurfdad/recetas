@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACINES SIRIOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

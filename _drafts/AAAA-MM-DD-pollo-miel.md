@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

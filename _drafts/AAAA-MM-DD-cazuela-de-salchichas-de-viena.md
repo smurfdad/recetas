@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELA DE SALCHICHAS DE VIENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

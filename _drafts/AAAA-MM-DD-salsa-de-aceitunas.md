@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE ACEITUNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

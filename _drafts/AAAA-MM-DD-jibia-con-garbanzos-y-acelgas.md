@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JIBIA CON GARBANZOS Y ACELGAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

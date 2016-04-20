@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA DE TOMATE
-
 categories:
 - Salsas
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODILLO ASADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

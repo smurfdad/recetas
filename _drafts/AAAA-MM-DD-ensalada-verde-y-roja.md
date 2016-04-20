@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA VERDE Y ROJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

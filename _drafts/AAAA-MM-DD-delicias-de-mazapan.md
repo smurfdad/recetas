@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DELICIAS DE MAZAPAN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

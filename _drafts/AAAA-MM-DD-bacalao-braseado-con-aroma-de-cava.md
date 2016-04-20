@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO BRASEADO CON AROMA DE CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

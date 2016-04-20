@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES CON CEBOLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

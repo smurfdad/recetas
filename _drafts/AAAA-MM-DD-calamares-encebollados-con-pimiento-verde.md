@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES ENCEBOLLADOS CON PIMIENTO VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE MEJILLONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

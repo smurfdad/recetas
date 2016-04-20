@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHURRASCO AL HORNO
-
 categories:
 - Carnes y derivados
 personas: 4 

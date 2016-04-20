@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CERDO IBERICO EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANDRAJOS CON LIEBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

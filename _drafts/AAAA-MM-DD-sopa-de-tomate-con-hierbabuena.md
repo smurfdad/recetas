@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE TOMATE CON HIERBABUENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

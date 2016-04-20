@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON CANGREJOS A LA RIOJANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

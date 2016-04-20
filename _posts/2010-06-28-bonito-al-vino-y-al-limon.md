@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BONITO AL VINO Y AL LIMÓN
-
 categories:
 - Pescados
 personas: 2 

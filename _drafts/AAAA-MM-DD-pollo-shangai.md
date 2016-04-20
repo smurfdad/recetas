@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO SHANGAI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

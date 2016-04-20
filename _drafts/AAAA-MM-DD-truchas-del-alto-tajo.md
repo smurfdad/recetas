@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS DEL ALTO TAJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

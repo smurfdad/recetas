@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PICHONES LA RUA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

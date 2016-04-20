@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOTILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

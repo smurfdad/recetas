@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARNE CON COMINO -KAMMUNIYA-
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

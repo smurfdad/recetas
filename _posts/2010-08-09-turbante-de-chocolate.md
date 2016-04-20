@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TURBANTE DE CHOCOLATE
-
 categories:
 - Postres y dulces
 personas: 6 

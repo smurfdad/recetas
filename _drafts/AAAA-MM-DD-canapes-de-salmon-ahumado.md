@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANAPÉS DE SALMÓN AHUMADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

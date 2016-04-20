@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCACHOFAS FRITAS CON LECHECILLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO EN ESCABECHE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

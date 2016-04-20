@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE QUESO PHILADELPHIA Y LIMÓN
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

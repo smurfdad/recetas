@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LASAÑA DE ANGUILAS AL PEDRO XIMÉNEZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZURRUKUTUNA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUA DE TERNERA CON SALSA DE BERROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

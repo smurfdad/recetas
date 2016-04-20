@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TRUCHA FLORENTINE
-
 categories:
 - Pescados
 personas: 2 

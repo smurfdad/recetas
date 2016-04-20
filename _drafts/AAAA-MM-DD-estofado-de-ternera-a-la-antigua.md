@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO DE TERNERA A LA ANTIGUA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

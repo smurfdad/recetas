@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAMPIÑÓN RELLENO Y REBOZADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

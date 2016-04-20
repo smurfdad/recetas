@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE AJETES CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

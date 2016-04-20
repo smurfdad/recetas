@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARDOS CON HUEVOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

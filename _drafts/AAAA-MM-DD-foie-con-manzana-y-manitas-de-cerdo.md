@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FOIE CON MANZANA Y MANITAS DE CERDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESCADILLA LA HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

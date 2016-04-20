@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CODORNICES EN SALSA CAZADORA CON UVAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

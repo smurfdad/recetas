@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHILES EN FRIO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

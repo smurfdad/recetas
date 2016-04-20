@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALL I PEBRE D ANGUILES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMITO AROMATICO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

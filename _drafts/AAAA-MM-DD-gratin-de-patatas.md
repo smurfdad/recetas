@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRATÍN DE PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

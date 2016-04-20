@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETAS DE SALCHICHAS Y DÁTILES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

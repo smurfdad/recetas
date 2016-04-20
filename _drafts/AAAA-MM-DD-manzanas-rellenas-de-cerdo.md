@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANZANAS RELLENAS DE CERDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

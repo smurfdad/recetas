@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERZA MALAGUEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

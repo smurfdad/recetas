@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUTIFARRÓN DULCE DEL AMPURDÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALDERETE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

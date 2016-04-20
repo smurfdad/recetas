@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPÁRRAGOS CON HUEVOS DE CODORNIZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

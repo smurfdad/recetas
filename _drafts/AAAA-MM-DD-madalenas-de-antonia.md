@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MADALENAS DE ANTONIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

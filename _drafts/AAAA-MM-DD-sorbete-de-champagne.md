@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SORBETE DE CHAMPAGNE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

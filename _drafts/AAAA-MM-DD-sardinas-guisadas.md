@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SARDINAS GUISADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

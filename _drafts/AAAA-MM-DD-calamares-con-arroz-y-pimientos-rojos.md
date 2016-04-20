@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES CON ARROZ Y PIMIENTOS ROJOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

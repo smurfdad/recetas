@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEOS A BANDA CON ANGULAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

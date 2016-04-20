@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BISTEC DE AVESTRUZ AL CABRALES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

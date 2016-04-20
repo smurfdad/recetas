@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORRIJAS AL MOSCATEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

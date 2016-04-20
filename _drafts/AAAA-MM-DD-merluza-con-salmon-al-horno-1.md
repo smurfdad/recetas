@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA CON SALMÓN AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

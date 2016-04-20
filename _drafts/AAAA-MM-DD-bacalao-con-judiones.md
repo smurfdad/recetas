@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON JUDIONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHA CON CEBOLLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

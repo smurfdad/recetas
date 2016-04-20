@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOGAVANTE CON VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTELÓN DE PAN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

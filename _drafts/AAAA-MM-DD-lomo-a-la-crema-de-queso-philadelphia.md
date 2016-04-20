@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO A LA CREMA DE QUESO PHILADELPHIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

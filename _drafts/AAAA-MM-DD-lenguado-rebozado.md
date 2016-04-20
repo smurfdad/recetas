@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO REBOZADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

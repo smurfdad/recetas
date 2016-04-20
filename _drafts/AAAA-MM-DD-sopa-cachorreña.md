@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA CACHORREÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

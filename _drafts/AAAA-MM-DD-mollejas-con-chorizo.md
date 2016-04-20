@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOLLEJAS CON CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

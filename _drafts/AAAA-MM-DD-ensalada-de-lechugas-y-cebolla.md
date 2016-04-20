@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE LECHUGAS Y CEBOLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

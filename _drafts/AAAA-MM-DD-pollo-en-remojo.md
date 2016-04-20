@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO EN REMOJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

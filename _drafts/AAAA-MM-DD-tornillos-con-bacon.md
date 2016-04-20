@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORNILLOS CON BACON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

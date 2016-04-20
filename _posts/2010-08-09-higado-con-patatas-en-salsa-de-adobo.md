@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: HÍGADO CON PATATAS EN SALSA DE ADOBO
-
 categories:
 - Carnes y derivados
 personas: 4 

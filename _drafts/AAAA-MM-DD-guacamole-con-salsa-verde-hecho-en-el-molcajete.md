@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUACAMOLE CON SALSA VERDE HECHO EN EL MOLCAJETE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

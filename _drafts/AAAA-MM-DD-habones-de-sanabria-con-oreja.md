@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABONES DE SANABRIA CON OREJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

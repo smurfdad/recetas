@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE GRELOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

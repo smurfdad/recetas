@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO DE PIMIENTO CON ANCHOA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

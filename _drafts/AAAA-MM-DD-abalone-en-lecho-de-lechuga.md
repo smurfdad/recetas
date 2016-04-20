@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ABALONE EN LECHO DE LECHUGA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

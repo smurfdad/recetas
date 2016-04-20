@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA NAVARRA
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

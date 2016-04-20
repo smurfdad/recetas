@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACINES RELLENOS DE SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

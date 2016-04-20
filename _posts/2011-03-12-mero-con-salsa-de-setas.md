@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERO CON SALSA DE SETAS
-
 categories:
 - Pescados
 - Setas y hongos

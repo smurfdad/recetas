@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JALEA DE MANGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

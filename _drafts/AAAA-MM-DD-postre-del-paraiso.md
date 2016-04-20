@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POSTRE DEL PARAÍSO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

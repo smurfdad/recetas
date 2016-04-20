@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE QUESO Y YOGUR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

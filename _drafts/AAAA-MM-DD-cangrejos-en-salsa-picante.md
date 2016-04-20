@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANGREJOS EN SALSA PICANTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

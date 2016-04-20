@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA CON ALBARICOQUES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

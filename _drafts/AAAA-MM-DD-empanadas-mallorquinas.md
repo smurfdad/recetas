@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADAS MALLORQUINAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

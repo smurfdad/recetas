@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRAMPÓ  (PIZZA MALLORQUINA)
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE MANZANA, NUEZ Y APIOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

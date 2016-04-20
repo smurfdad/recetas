@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELONES CON POLLO Y HONGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

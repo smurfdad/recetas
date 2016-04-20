@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE CERDO A LA CERVEZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

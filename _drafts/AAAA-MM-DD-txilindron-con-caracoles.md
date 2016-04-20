@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TXILINDRON CON CARACOLES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

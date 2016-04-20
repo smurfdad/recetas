@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATORRILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

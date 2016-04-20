@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ABADEJO CONFITADO CON PIL-PIL DE HONGOS Y BORRAJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

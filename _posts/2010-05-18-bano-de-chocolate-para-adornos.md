@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BAÑO DE CHOCOLATE PARA ADORNOS
-
 categories:
 - Postres y dulces
 ---

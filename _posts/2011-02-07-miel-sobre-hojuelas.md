@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MIEL SOBRE HOJUELAS
-
 categories:
 - Postres y dulces
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE DE ESPINACAS CON AVELLANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

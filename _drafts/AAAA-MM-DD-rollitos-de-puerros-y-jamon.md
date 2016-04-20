@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS DE PUERROS Y JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

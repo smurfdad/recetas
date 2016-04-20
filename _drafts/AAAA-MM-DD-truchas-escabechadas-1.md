@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS ESCABECHADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

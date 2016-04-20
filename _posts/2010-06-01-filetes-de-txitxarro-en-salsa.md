@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FILETES DE TXITXARRO EN SALSA
-
 categories:
 - Pescados
 personas: 4 

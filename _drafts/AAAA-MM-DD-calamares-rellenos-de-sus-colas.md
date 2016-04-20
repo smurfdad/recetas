@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES RELLENOS DE SUS COLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

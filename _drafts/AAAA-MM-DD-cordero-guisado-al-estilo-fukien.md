@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO GUISADO AL ESTILO FUKIEN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

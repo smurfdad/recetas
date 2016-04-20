@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CARNE ASADA AL VINAGRE
-
 categories:
 - Carnes y derivados
 personas: 6 

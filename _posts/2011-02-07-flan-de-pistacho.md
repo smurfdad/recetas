@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FLAN DE PISTACHO
-
 categories:
 - Postres y dulces
 tiempo_minutos: 90 

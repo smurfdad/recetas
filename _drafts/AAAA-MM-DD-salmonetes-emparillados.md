@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMONETES EMPARILLADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

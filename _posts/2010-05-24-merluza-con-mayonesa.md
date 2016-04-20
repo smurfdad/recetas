@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERLUZA CON MAYONESA
-
 categories:
 - Pescados
 personas: 6 

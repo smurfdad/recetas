@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS AL PESTO
-
 categories:
 - Pastas
 personas: 6 

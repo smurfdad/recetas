@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CÓCTEL DE GAMBAS CON PIÑA
-
 categories:
 - Mariscos y moluscos
 ---

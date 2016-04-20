@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REDONDILLO A LA CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

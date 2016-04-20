@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE NUECES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

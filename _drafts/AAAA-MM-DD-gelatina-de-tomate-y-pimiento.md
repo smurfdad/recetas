@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GELATINA DE TOMATE Y PIMIENTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

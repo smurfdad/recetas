@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA FRIA CON QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

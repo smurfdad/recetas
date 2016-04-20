@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGUETTI CON TOMATES, ANCHOAS Y ACEITUNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

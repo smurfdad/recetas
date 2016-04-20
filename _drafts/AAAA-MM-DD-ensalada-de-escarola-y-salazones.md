@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ESCAROLA Y SALAZONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

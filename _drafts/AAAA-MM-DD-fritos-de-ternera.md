@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRITOS DE TERNERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

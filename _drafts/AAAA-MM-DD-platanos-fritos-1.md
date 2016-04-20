@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PLÁTANOS FRITOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

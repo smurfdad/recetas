@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS GRATINADAS CON QUESO GRUYERE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

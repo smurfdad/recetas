@@ -1,7 +1,6 @@
 ---
 layout: post
 title: NAVAJAS AL BRANDY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

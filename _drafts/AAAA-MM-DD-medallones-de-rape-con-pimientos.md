@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLONES DE RAPE CON PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

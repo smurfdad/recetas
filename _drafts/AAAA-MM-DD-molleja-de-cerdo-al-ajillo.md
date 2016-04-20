@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOLLEJA DE CERDO AL AJILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

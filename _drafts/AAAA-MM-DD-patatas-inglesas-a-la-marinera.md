@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS INGLESAS A LA MARINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

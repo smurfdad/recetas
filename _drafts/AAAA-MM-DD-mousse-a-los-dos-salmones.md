@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE A LOS DOS SALMONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

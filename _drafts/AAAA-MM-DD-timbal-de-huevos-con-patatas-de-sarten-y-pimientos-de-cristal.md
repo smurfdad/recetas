@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIMBAL DE HUEVOS CON PATATAS DE SARTEN Y PIMIENTOS DE CRISTAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

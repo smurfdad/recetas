@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON PULPO DE LA CHANCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

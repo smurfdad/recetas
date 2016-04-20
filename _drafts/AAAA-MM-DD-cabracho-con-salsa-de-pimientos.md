@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CABRACHO CON SALSA DE PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

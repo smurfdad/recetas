@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS ESTOFADAS CON CHORIZO DE JABALÍ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

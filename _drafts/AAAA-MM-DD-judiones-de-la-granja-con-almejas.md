@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDIONES DE LA GRANJA CON ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

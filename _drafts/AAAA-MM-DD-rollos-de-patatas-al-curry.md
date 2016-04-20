@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLOS DE PATATAS AL CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

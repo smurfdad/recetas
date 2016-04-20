@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TRUCHAS CON BACÓN
-
 categories:
 - Pescados
 personas: 6 

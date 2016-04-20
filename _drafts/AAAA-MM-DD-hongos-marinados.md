@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HONGOS MARINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

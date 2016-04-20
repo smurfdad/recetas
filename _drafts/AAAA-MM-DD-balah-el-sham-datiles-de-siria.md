@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BALAH EL SHAM DÁTILES DE SIRIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

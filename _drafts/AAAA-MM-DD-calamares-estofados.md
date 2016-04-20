@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES ESTOFADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

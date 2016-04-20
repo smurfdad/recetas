@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA DE COLORES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

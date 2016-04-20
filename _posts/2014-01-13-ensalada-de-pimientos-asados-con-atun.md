@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE PIMIENTOS ASADOS CON ATÚN
-
 categories:
 - Pescados
 - Verduras y legumbres

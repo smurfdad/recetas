@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERAM DE PERDICES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

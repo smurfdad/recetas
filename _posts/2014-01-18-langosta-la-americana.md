@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LANGOSTA A LA AMERICANA
-
 categories:
 - Mariscos y moluscos
 personas: 4 

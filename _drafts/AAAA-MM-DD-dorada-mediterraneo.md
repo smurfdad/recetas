@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA MEDITERRÁNEO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

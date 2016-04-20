@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACINES RELLENOS DE BRANDADA DE BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

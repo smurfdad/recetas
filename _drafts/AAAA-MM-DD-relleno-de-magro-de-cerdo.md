@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RELLENO DE MAGRO DE CERDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

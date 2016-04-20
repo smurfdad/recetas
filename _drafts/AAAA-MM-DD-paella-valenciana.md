@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAELLA VALENCIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

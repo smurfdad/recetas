@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAYA A LA SANLUQUEÑA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

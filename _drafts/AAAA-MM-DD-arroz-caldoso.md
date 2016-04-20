@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CALDOSO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABAZA ESPARRAGADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

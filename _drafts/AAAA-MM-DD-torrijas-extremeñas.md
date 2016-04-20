@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORRIJAS EXTREMEÑAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON MANZANAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

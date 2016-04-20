@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ CON CHORIZOS A LA PUMAROLA
-
 categories:
 - Arroces
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA DE MANTEQUILLA DE LIMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

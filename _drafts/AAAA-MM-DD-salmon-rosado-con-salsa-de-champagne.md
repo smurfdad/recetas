@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALMON ROSADO CON SALSA DE CHAMPAGNE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENTRECOT A LA CREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

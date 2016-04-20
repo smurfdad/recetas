@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE BACALAO Y NARANJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

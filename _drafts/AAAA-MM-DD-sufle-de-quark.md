@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SUFLÉ DE QUARK
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

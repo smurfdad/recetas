@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSSE DE NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

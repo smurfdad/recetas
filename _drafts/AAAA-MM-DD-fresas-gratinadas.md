@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRESAS GRATINADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

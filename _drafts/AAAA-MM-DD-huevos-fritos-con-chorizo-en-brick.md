@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS FRITOS CON CHORIZO EN BRICK
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

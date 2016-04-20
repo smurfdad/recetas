@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RABO DE TORO ESTOFADO AL VINO TINTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

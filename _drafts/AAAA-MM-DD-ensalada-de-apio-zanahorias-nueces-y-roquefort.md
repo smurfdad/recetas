@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE APIO, ZANAHORIAS, NUECES Y ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

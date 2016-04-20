@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLO CON SETAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

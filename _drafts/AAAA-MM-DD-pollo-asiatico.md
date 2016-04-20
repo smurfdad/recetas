@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO ASIATICO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

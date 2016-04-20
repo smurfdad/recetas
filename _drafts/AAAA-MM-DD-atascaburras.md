@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATASCABURRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

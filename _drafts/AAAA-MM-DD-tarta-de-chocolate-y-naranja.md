@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA DE CHOCOLATE Y NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

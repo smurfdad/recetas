@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MENESTRA DE INVIERNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

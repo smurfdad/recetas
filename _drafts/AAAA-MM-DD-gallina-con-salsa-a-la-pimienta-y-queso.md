@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLINA CON SALSA A LA PIMIENTA Y QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

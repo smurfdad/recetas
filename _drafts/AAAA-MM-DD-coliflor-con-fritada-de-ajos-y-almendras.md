@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COLIFLOR CON FRITADA DE AJOS Y ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

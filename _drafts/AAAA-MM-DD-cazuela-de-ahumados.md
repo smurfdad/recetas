@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELA DE AHUMADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

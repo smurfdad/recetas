@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS CON SALSA BRETONA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

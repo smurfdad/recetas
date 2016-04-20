@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMOS DE FANECA AL HINOJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

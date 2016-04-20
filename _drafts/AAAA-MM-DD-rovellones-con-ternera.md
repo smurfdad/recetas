@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROVELLONES CON TERNERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ Y LANGOSTA
-
 categories:
 - Arroces
 - Mariscos y moluscos

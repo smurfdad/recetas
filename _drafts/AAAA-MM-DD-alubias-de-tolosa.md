@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS DE TOLOSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADILLA DE CUARESMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

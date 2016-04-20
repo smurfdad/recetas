@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HALLACAS CARAQUEÑAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

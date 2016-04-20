@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALERA DE RAPE Y MELOCOTÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

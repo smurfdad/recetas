@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: GALIANOS MANCHEGOS
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados

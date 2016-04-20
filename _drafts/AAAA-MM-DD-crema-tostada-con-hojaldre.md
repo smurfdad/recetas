@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA TOSTADA CON HOJALDRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAPA A LA HUANCINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

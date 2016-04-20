@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REDONDO DE POLLO CON MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PICANTE DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

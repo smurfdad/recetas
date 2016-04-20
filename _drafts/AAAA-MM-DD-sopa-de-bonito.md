@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE BONITO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

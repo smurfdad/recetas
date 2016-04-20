@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE CANGREJO, AGUACATE Y KIWI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERAS CON PHILADELPHIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

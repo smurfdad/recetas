@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO CON GAMBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

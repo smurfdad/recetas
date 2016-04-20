@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE PASTA TROPICAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

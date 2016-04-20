@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLA DE TERNERA BRASEADA CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

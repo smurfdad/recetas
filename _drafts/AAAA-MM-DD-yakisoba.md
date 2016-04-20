@@ -1,7 +1,6 @@
 ---
 layout: post
 title: YAKISOBA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

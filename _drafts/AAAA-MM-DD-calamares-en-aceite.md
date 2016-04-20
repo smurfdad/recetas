@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES EN ACEITE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

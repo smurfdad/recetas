@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: GRATINADO DE VERDURAS
-
 categories:
 - Verduras y legumbres
 personas: 4 

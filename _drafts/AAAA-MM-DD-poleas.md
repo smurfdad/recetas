@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLEÁS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

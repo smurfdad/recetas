@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE MANZANAS, NUECES Y MELÓN
-
 categories:
 - Ensaladas
 - Frutas

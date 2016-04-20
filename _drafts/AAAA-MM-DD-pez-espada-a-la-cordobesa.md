@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PEZ ESPADA A LA CORDOBESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

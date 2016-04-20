@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PASTEL DE LIMÓN
-
 categories:
 - Postres y dulces
 personas: 4 

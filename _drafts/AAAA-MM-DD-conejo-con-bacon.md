@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO CON BACÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

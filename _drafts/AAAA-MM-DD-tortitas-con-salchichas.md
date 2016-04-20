@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTITAS CON SALCHICHAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

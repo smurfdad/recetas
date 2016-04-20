@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CUS CUS CON CARNE
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados

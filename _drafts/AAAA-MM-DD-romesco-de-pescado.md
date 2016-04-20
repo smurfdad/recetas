@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROMESCO DE PESCADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

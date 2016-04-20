@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONCHA DE CALAMARES GRATINADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

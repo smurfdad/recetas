@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MILHOJAS DE MANGO Y PERA RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

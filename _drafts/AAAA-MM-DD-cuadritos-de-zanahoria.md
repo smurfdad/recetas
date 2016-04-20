@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CUADRITOS DE ZANAHORIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

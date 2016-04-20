@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA SALTEADA CON FRUTOS SECOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

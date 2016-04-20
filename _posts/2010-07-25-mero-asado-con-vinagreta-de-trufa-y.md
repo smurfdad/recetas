@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERO ASADO CON VINAGRETA DE TRUFA Y CEBOLLETA
-
 categories:
 - Pescados
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO EN SALSA DE CHORICEROS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANCHOAS EN VINAGRETA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

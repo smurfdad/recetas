@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO CON CALABACÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ GRATINADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

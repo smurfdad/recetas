@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCA DE ALBARICOQUE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

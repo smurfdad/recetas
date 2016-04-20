@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA PRIMAVERA RITZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

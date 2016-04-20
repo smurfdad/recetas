@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNASCO A LA BILBILITANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

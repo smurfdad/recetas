@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MAGRET DE PATO CON FRAMBUESAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

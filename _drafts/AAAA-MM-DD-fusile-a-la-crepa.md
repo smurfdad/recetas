@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FUSILE A LA CREPA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

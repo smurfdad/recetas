@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO DE LIEBRE A LAS HIERBAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

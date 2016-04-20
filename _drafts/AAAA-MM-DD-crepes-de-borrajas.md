@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CRÉPES DE BORRAJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

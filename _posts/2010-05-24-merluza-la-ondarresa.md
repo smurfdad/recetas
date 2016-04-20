@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MERLUZA A LA ONDARRESA
-
 categories:
 - Pescados
 personas: 6 

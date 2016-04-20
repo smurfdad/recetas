@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA AL AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

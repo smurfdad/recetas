@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARRÉ DE CERDO CON SALSA DE MORAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

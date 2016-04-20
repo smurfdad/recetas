@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPONJOSO BOLLO MAIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRONCO DE NAVIDAD
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

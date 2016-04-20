@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PECHUGA EN SALSA MEDITERRÁNEA ACOMPAÑADA DE POLENTA CLÁSICA
-
 categories:
 - Carnes y derivados
 ---

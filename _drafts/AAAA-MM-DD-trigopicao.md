@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRIGOPICAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

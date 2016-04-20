@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA AL VINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

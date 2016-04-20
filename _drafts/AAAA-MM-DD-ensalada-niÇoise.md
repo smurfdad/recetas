@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA NIÇOISE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMBINADO DE MARISCOS Y PESCADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

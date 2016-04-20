@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHIPIRONES EN COMPOTA DE CEBOLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

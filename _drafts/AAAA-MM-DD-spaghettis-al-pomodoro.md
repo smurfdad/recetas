@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGHETTIS AL POMODORO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

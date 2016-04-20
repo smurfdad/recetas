@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LIEBRE ESCABECHADA CON TRUFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

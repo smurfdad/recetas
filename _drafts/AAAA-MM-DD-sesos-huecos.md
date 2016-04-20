@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SESOS HUECOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

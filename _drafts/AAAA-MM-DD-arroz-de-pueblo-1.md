@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ DE PUEBLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

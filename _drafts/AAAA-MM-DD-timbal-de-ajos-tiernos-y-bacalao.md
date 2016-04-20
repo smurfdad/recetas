@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIMBAL DE AJOS TIERNOS Y BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

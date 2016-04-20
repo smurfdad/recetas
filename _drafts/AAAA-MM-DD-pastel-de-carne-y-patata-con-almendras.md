@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE CARNE Y PATATA CON ALMENDRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

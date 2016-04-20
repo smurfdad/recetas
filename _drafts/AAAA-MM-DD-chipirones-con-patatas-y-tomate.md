@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHIPIRONES CON PATATAS Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

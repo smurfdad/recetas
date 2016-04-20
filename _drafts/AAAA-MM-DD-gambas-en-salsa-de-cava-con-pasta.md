@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAMBAS EN SALSA DE CAVA CON PASTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

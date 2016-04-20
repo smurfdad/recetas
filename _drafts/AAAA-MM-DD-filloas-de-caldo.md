@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILLOAS DE CALDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

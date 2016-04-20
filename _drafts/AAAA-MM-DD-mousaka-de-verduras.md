@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOUSAKA DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROCHETA DE GAMBAS, VINAGRETA Y AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

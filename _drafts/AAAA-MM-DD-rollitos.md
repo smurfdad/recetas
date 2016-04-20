@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

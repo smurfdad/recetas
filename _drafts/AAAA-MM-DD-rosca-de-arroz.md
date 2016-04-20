@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROSCA DE ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

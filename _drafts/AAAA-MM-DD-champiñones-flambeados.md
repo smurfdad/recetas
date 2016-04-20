@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHAMPIÑONES FLAMBEADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON PATATAS Y PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

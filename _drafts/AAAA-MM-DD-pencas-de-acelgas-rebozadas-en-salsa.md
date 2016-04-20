@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PENCAS DE ACELGAS REBOZADAS EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

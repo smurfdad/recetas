@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO AL HOJALDRE CON ROQUEFORT Y CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

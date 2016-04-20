@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO ASADO DE SOAK
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

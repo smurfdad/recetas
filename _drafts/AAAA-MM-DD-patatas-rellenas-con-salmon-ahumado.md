@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS RELLENAS CON SALMÓN AHUMADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

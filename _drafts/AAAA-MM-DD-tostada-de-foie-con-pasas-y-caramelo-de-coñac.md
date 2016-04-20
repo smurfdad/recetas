@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TOSTADA DE FOIE CON PASAS Y CARAMELO DE COÑAC
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

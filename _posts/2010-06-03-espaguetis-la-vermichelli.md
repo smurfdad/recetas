@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ESPAGUETIS A LA VERMICHELLI
-
 categories:
 - Pastas
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA DE PAN RALLADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

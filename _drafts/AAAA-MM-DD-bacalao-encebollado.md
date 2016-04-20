@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO ENCEBOLLADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

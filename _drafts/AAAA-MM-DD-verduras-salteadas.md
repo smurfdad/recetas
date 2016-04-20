@@ -1,7 +1,6 @@
 ---
 layout: post
 title: VERDURAS SALTEADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALCACHOFAS GRATINADAS
-
 categories:
 - Verduras y legumbres
 personas: 4 

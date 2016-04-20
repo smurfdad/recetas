@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO A LA PHILADELPHIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

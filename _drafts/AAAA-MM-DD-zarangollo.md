@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZARANGOLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

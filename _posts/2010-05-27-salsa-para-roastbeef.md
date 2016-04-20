@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALSA PARA ROASTBEEF
-
 categories:
 - Salsas
 - Setas y hongos

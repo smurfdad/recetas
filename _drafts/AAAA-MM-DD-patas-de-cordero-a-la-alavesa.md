@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATAS DE CORDERO A LA ALAVESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

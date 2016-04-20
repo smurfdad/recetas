@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUA EN SALSA DE CIRUELAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POMMES DE TERRE FARCIES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

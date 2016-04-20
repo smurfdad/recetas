@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETITOS DE LOMO CON SALSA ROQUEFORT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

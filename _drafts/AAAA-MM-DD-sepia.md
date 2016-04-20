@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SEPIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

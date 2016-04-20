@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA AL HORNO CON VINO Y LECHE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

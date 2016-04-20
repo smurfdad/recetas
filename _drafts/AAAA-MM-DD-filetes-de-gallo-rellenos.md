@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE GALLO RELLENOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

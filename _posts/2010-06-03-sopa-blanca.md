@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA BLANCA
-
 categories:
 - Pescados
 - Sopas y cremas

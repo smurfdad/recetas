@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE CARNE PICADA CON PATATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

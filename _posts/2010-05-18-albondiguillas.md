@@ -1,11 +1,8 @@
 ---
 layout: post
-
 title: ALBONDIGUILLAS
-
 categories:
 - Carnes y derivados
-
 tags:
 - carne
 - sal

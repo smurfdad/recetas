@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE QUESO Y NARANJA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

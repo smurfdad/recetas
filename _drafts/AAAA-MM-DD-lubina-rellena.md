@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LUBINA RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CANELONES AL ESTILO DE ALCOLEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

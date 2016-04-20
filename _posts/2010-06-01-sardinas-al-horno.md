@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SARDINAS AL HORNO
-
 categories:
 - Pescados
 ---

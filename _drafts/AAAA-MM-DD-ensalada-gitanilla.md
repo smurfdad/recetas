@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA GITANILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

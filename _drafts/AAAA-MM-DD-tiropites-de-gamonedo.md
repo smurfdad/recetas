@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIRÓPITES DE GAMONEDO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

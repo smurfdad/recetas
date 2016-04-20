@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO ROYAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

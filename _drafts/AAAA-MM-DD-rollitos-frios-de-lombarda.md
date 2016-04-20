@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS FRÍOS DE LOMBARDA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

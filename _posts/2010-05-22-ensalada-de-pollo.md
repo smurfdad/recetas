@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE POLLO
-
 categories:
 - Ensaladas
 personas: 8 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA CON CALABACINES Y ZANAHORIAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

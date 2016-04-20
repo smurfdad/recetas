@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SORBETE DE LICHIS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

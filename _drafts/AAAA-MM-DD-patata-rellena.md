@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATA RELLENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA CON CHAMPIÑONES Y POLLO KAENG KAI KAP HET
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO A LA CHIMAY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

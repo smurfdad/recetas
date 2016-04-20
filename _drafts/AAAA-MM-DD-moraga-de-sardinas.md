@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MORAGA DE SARDINAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PESTIÑOS MOZÁRABES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

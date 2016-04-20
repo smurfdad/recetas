@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ACELGAS CON ALMENDRAS
-
 categories:
 - Verduras y legumbres
 personas: 4 

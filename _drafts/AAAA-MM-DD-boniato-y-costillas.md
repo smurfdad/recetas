@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONIATO Y COSTILLAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

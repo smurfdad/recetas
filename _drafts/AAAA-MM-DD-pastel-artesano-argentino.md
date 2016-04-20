@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL ARTESANO ARGENTINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

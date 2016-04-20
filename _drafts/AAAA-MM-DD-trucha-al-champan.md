@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHA AL CHAMPAN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

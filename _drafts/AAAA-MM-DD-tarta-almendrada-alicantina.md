@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA ALMENDRADA ALICANTINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

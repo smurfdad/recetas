@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE CERDO ASADOS EN SALSA MOSTAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

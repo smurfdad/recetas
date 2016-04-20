@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUAS DE GATO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

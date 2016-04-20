@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAVIOLIS MARINARA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

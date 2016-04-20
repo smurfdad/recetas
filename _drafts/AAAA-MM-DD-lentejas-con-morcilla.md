@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS CON MORCILLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

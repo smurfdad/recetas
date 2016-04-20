@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PEZ ESPADA A LA MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

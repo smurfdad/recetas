@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON COLIFLOR Y PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

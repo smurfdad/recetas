@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPÁRRAGOS CON SALSA SURPREMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

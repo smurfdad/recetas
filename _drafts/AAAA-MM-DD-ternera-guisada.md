@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA GUISADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

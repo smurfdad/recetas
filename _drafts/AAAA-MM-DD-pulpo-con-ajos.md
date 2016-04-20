@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PULPO CON AJOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

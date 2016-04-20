@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BERENJENAS AL HORNO
-
 categories:
 - Verduras y legumbres
 personas: 4 

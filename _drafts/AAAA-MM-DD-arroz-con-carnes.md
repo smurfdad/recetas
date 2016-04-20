@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON CARNES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

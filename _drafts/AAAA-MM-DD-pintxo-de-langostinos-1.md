@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO DE LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

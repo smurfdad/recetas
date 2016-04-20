@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADA DE MAÍZ CON CROQUES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

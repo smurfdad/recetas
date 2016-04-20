@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALPICÓN DE CANGREJO
-
 categories:
 - Mariscos y moluscos
 personas: 4 

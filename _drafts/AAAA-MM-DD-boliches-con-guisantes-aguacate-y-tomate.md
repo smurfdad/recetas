@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLICHES CON GUISANTES, AGUACATE Y TOMATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

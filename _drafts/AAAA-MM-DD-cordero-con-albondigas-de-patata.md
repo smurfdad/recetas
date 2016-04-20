@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO CON ALBÓNDIGAS DE PATATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

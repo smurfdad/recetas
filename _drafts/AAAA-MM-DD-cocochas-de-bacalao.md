@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCOCHAS DE BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA BLANCA O AJIACEITE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

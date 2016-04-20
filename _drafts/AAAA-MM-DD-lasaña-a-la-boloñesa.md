@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LASAÑA A LA BOLOÑESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

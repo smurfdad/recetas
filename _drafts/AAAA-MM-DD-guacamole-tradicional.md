@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUACAMOLE TRADICIONAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

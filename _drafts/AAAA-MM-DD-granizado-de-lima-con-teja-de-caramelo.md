@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRANIZADO DE LIMA CON TEJA DE CARAMELO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

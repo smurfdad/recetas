@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENGUADO AL QUESO DE ARZÚA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

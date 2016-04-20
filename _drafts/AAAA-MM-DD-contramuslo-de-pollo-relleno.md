@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONTRAMUSLO DE POLLO RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

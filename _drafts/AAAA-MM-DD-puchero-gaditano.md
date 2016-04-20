@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUCHERO GADITANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

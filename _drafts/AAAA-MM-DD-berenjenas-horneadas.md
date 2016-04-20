@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS HORNEADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

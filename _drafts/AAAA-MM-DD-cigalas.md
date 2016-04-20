@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CIGALAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

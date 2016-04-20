@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENSALADA DE TOMATE
-
 categories:
 - Ensaladas
 personas: 4 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ CON BROCHETAS DE POLLO Y LOMO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

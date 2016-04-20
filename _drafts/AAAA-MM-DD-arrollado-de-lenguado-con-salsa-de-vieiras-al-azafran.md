@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROLLADO DE LENGUADO CON SALSA DE VIEIRAS AL AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

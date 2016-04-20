@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PATATAS EN SALSA VERDE
-
 categories:
 - Verduras y legumbres
 personas: 6 

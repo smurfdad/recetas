@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRICASÉ DE POLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

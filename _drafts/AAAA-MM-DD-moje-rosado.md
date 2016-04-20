@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOJE ROSADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

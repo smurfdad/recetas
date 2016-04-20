@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAZPACHO A LA ANTIGUA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

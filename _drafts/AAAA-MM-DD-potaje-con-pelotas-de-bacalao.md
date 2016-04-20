@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE CON PELOTAS DE BACALAO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FIDEOS CON TOMATES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

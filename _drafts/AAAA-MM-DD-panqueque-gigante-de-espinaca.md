@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PANQUEQUE GIGANTE DE ESPINACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

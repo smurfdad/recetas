@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RAPE CURRITO
-
 categories:
 - Pescados
 personas: 4 

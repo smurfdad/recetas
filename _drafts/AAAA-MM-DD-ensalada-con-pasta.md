@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA CON PASTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

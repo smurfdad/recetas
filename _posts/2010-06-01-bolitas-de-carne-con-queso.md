@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BOLITAS DE CARNE, CON QUESO
-
 categories:
 - Huevos y lacteos
 - Carnes y derivados

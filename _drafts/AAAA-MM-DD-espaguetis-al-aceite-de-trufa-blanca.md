@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS AL ACEITE DE TRUFA BLANCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

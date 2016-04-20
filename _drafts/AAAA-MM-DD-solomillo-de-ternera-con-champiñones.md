@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO DE TERNERA CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

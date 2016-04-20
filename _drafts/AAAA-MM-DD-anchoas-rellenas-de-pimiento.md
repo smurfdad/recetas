@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ANCHOAS RELLENAS DE PIMIENTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

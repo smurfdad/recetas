@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO A LA MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

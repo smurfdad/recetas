@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRONCO DE NATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

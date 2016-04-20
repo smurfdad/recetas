@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO AL OREGANATO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

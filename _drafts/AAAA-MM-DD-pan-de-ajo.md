@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAN DE AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS EXTREMEÑAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

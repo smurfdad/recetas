@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA GOLF
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

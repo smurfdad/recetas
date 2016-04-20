@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATÉ DE HÍGADO DE POLLO AL ORÉGANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE POLLO Y POMELO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

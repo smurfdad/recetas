@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAPÓN ASADO EN SU JUGO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

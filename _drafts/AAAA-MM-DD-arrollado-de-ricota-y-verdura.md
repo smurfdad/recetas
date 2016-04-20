@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROLLADO DE RICOTA Y VERDURA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RABO DE TERNERA JARDINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA SHARKASIYA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

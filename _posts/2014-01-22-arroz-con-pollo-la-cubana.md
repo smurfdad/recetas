@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ CON POLLO A LA CUBANA
-
 categories:
 - Arroces
 - Carnes y derivados

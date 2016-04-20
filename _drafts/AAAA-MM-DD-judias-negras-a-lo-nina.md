@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDIAS NEGRAS A LO NINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

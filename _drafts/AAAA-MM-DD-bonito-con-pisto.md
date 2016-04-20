@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO CON PISTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

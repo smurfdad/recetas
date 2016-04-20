@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DORADA AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

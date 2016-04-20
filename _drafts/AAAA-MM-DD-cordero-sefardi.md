@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO SEFARDÍ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

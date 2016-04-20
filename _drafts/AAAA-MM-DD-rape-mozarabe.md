@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RAPE MOZARABE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

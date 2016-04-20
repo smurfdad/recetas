@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA MURCIANA DE ATÚN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

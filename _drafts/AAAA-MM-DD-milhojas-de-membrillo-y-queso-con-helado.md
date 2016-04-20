@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MILHOJAS DE MEMBRILLO Y QUESO CON HELADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

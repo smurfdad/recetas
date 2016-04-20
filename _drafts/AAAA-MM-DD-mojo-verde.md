@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOJO VERDE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

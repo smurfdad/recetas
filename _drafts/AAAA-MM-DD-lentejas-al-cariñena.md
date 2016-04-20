@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LENTEJAS AL CARIÑENA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

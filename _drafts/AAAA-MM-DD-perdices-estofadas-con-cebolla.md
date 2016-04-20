@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES ESTOFADAS CON CEBOLLA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

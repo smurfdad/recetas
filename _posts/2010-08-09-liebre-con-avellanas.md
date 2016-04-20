@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: LIEBRE CON AVELLANAS
-
 categories:
 - Carnes y derivados
 personas: 4 

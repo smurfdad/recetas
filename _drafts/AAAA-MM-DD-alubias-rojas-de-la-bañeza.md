@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS ROJAS DE LA BAÑEZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS A LA JARDINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AGUACATES AL ESTILO ISRAELÍ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

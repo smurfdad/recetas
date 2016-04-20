@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONEJO CON VINO AL AJILLO NEGRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

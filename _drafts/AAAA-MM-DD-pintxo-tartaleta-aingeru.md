@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO TARTALETA AINGERU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

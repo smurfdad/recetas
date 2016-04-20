@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHORIZOS CON PATATAS Y HUEVOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

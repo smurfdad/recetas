@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORDERO GUISADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

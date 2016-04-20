@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ACELGA SALTEADA CON AJO, OSTRAS Y AROMÁTICOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

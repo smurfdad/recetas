@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEDALLONES DE TERNERA GALLEGA CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

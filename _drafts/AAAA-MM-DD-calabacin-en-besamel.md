@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALABACIN EN BESAMEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

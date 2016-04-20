@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOLDE FRÍO DE PURÉ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

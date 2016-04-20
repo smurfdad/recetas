@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AREPAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

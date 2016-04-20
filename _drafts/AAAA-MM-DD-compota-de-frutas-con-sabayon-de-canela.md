@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMPOTA DE FRUTAS CON SABAYÓN DE CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON LEGUMBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

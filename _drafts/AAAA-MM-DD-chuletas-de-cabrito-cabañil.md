@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS DE CABRITO CABAÑIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

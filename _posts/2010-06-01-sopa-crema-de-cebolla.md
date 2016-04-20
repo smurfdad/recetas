@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOPA-CREMA DE CEBOLLA
-
 categories:
 - Sopas y cremas
 personas: 6 

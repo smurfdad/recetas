@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ENDIVIAS CON YEMAS DE ESPÁRRAGO
-
 categories:
 - Ensaladas
 ---

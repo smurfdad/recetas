@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TRUCHAS CON JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

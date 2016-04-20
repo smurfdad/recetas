@@ -1,7 +1,6 @@
 ---
 layout: post
 title: RIÑONES DE CORDERO AL JEREZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

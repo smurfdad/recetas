@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ A LA ALICANTINA
-
 categories:
 - Arroces
 personas: 4 

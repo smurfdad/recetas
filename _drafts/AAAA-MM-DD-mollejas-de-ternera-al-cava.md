@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MOLLEJAS DE TERNERA AL CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

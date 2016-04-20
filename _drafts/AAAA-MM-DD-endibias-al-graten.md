@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENDIBIAS AL GRATÉN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

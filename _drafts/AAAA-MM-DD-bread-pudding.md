@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BREAD PUDDING
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

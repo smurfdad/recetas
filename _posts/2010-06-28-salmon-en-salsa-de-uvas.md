@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SALMÓN EN SALSA DE UVAS
-
 categories:
 - Pescados
 personas: 4 

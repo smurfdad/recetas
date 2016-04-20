@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CALAMARES RELLENOS EN SALSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

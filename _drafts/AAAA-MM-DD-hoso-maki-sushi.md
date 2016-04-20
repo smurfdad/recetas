@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOSO MAKI SUSHI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

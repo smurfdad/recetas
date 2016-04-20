@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA CREMA DE AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

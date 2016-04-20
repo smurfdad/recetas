@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS RELLENAS DE QUESO Y CEBOLLINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

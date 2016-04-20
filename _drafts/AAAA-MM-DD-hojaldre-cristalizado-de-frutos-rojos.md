@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJALDRE CRISTALIZADO DE FRUTOS ROJOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

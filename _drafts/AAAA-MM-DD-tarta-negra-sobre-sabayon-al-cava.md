@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA NEGRA SOBRE SABAYÓN AL CAVA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

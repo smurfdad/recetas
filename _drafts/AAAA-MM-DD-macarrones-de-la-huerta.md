@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MACARRONES DE LA HUERTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

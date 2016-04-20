@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE ENDIVIAS CON QUESO AZUL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

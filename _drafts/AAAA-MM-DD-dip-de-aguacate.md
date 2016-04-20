@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DIP DE AGUACATE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

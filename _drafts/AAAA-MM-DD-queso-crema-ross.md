@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESO CREMA ROSS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

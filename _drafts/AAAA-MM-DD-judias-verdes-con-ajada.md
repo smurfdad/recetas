@@ -1,7 +1,6 @@
 ---
 layout: post
 title: JUDÍAS VERDES CON AJADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

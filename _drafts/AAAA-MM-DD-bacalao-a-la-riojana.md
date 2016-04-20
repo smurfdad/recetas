@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO A LA RIOJANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

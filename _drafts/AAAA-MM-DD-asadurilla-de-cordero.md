@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ASADURILLA DE CORDERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

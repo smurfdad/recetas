@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MEJILLÓN CON ESPINACA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

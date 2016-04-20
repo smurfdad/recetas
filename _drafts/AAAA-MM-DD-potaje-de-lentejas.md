@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE DE LENTEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA CON MAYONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

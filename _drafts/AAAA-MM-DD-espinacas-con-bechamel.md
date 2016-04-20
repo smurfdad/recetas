@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPINACAS CON BECHAMEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

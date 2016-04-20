@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENDIBIAS ASADAS RELLENAS DE QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMBARDA CON MANZANA Y PASAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

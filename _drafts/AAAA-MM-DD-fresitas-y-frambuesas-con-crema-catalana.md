@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FRESITAS Y FRAMBUESAS CON CREMA CATALANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

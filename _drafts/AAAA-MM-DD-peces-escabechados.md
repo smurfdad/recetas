@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECES ESCABECHADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

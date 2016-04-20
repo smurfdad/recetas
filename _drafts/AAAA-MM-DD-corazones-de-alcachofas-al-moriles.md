@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CORAZONES DE ALCACHOFAS AL MORILES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

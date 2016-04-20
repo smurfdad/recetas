@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BIZCOCHO DOS SABORES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

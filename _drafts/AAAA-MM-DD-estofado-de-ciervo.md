@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESTOFADO DE CIERVO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

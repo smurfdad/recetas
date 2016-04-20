@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADAS A LA GRIEGA LIGTH
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCIDO COMPLETO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

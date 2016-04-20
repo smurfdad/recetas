@@ -1,7 +1,6 @@
 ---
 layout: post
 title: QUESO NAPOLITANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

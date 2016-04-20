@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTA CON TOMATE, ANCHOAS Y ACEITUNAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

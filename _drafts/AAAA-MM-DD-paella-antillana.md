@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAELLA ANTILLANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

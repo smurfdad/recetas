@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PESCADO A LA SAL
-
 categories:
 - Pescados
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MORCILLA ENVUELTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

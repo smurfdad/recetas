@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ABAJAO SERRANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

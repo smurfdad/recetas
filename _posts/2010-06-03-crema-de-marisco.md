@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE MARISCO
-
 categories:
 - Pescados
 - Sopas y cremas

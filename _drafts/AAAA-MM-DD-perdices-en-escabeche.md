@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES EN ESCABECHE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBÓNDIGAS DE BACALO CASERAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE GAMBAS Y AJOS FRESCOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

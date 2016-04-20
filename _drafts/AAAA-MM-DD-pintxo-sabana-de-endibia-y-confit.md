@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXO SÁBANA DE ENDIBIA Y CONFIT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

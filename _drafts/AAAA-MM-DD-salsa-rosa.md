@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALSA ROSA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

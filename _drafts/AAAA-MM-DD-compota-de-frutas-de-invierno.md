@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COMPOTA DE FRUTAS DE INVIERNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

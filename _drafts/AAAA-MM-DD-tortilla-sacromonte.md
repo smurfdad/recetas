@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTILLA SACROMONTE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

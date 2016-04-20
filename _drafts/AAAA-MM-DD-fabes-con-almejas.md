@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FABES CON ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

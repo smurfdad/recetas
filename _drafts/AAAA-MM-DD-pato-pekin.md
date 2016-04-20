@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATO PEKÍN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

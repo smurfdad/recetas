@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: EMPANADAS DE ESPINACAS Y RICOTTA
-
 categories:
 - Verduras y legumbres
 personas: 4 

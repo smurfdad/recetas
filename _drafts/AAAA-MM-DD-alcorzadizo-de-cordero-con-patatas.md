@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCORZADIZO DE CORDERO CON PATATAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

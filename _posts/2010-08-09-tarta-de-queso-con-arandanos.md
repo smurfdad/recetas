@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA DE QUESO CON ARÁNDANOS
-
 categories:
 - Postres y dulces
 personas: 4 

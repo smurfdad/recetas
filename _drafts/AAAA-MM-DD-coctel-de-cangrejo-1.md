@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CÓCTEL DE CANGREJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

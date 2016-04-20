@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPAGUETIS FRUTOS DE MAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

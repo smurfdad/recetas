@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AJI DE GALLINA PERUANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

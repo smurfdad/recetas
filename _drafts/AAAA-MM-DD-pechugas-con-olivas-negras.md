@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS CON OLIVAS NEGRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PIMIENTOS RELLENOS DE CHATKA
-
 categories:
 - Pescados
 - Verduras y legumbres

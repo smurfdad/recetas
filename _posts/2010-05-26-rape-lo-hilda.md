@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RAPE A LO HILDA
-
 categories:
 - Pescados
 personas: 6 

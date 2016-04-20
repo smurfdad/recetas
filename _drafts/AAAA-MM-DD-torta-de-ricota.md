@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA DE RICOTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

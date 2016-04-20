@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PULARDA A LAS HIERBAS
-
 categories:
 - Carnes y derivados
 ---

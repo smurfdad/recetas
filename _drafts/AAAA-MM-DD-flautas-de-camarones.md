@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAUTAS DE CAMARONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN ESTILO JÁVEA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

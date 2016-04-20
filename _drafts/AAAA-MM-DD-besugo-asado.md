@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BESUGO ASADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

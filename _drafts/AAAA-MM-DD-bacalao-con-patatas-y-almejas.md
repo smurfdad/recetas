@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON PATATAS Y ALMEJAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PINTXOS DE KRABARROCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

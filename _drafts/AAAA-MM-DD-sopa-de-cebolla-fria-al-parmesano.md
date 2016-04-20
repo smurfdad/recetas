@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE CEBOLLA FRÍA AL PARMESANO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

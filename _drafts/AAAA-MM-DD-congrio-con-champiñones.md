@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONGRIO CON CHAMPIÑONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

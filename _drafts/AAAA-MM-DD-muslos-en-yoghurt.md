@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MUSLOS EN YOGHURT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

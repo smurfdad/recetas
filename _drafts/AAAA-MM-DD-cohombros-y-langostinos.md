@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COHOMBROS Y LANGOSTINOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

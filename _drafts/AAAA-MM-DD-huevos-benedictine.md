@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS BENEDICTINE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLLOS DE ACEITE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAPARRONES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

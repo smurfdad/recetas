@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CREMA DE CALABAZA
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas

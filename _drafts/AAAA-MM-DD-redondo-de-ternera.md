@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REDONDO DE TERNERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

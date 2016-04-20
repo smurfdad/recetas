@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FALSOS CHIPIRONES EN SALSA NEGRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

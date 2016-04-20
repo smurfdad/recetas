@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALUBIAS CON ZANCARRÓN DE CORDERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

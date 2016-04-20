@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIZZETAS DE FRUTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

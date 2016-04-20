@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA PLUMA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

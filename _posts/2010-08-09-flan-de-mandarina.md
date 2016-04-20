@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: FLAN DE MANDARINA
-
 categories:
 - Huevos y lacteos
 - Postres y dulces

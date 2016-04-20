@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: BECHAMEL PARA CROQUETAS
-
 categories:
 - Salsas
 - Huevos y lacteos

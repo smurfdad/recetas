@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GARBANZOS AL AZAFRÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

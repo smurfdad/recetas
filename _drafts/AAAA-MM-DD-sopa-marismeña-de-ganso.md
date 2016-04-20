@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA MARISMEÑA DE GANSO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

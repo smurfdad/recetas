@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGUETTIS JAPONESES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

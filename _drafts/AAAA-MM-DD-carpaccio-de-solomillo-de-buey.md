@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CARPACCIO DE SOLOMILLO DE BUEY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

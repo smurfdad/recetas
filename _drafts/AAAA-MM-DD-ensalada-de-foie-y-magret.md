@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE FOIE Y MAGRET
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

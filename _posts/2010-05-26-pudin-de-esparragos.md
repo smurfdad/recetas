@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PUDIN DE ESPÁRRAGOS
-
 categories:
 - Verduras y legumbres
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SPAGHETTIS CON BROCOLI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

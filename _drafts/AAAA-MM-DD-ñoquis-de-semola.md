@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "ÑOQUIS DE SÉMOLA"
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

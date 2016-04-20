@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA FRÍA DE PIÑA CON HELADO DE CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

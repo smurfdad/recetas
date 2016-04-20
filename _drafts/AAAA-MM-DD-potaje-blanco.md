@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POTAJE BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

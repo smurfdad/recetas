@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: VIEIRAS Y OSTRAS AL CURRY
-
 categories:
 - Mariscos y moluscos
 personas: 4 

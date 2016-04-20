@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GARBANZOS CON BERZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

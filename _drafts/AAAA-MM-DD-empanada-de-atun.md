@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADA DE ATÚN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

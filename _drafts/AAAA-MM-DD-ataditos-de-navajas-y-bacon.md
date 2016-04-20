@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATADITOS DE NAVAJAS Y BACON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ROLLITOS DE LENGUADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

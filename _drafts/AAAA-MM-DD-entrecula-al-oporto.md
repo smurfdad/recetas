@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENTRECULA AL OPORTO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

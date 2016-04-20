@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLDADITOS DE PAVÍA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

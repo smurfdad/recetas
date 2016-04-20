@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS SALTIMBOCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

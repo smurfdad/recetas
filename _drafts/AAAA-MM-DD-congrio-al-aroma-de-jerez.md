@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CONGRIO AL AROMA DE JEREZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

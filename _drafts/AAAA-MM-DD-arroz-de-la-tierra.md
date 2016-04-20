@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ DE LA TIERRA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

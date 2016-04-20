@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GELATINA DE NARANJA Y MANDARINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

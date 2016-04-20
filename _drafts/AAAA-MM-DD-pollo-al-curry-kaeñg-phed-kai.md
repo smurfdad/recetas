@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO AL CURRY KAEÑG PHED KAI
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

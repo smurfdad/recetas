@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ARROZ FRITO A LA CANTONESA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

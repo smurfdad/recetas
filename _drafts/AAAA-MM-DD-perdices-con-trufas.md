@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES CON TRUFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

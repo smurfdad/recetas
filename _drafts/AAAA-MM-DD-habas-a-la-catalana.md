@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HABAS A LA CATALANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

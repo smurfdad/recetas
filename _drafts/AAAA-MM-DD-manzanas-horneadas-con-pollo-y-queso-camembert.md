@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANZANAS HORNEADAS CON POLLO Y QUESO CAMEMBERT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

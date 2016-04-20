@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE AVE AL CURRY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

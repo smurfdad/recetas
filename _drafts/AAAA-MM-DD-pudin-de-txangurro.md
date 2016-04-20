@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUDIN DE TXANGURRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

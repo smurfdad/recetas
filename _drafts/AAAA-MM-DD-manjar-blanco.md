@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MANJAR BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

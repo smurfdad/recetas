@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ATÚN CON MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

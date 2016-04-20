@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CABRACHO AL VINO BLANCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

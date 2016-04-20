@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GALLOS A LA MOLINERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHULETA DE CERDO CON PANCETA Y QUESO
-
 categories:
 - Carnes y derivados
 personas: 4 

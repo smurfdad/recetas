@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BREAK DE LIEBRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

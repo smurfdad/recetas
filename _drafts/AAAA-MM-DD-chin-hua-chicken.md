@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHIN-HUA CHICKEN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

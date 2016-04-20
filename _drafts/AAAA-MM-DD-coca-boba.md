@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COCA BOBA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

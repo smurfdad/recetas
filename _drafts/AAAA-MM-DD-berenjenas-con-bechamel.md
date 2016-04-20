@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BERENJENAS CON BECHAMEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

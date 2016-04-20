@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS FRITOS CON PATATAS Y CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

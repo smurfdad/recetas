@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: EMPANADAS DE PICADILLO
-
 categories:
 - Carnes y derivados
 ---

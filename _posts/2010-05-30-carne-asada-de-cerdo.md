@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CARNE ASADA DE CERDO
-
 categories:
 - Carnes y derivados
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ZANAHORIA CON DIP DE QUESO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

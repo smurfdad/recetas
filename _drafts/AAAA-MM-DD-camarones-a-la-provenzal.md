@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAMARONES A LA PROVENZAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: REVUELTO DE LECHUGA DE MAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

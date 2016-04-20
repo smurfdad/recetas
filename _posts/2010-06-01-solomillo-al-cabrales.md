@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOLOMILLO AL CABRALES
-
 categories:
 - Carnes y derivados
 personas: 4 

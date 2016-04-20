@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA CON TOMATES Y PIMIENTOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

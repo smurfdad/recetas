@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DEQUEYA DE REPOLLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

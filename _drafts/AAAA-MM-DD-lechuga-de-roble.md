@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LECHUGA DE ROBLE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

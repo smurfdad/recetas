@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TRUCHAS ASALMONADAS AL HORNO
-
 categories:
 - Pescados
 personas: 6 

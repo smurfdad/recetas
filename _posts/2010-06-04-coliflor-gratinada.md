@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COLIFLOR GRATINADA
-
 categories:
 - Verduras y legumbres
 personas: 4 

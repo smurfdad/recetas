@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LOMO EN MANTECA BLANCA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

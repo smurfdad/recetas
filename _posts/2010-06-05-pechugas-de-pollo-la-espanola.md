@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PECHUGAS DE POLLO A LA ESPAÑOLA
-
 categories:
 - Carnes y derivados
 personas: 4 

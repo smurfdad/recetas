@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAQUETITOS JAPONESES
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

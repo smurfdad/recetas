@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: PATATAS VIUDAS A LA RIOJANA
-
 categories:
 - Verduras y legumbres
 personas: 4 

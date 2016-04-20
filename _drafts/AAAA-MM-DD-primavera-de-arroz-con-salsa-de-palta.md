@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PRIMAVERA DE ARROZ CON SALSA DE PALTA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOQUERONES EN VINAGRE
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CANGREJOS CHURRUSCADITOS
-
 categories:
 - Mariscos y moluscos
 personas: 4 

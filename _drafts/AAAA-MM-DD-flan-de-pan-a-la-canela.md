@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLAN DE PAN A LA CANELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTA LIGHT DE QUESO, ZANAHORIA Y COCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: MELÓN AL LIMÓN
-
 categories:
 - Frutas
 personas: 6 

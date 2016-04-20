@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GRATINADO DE TOMATE Y PATATA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

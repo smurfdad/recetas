@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALTEADO DE VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

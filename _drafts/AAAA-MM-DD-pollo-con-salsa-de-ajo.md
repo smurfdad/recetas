@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO CON SALSA DE AJO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

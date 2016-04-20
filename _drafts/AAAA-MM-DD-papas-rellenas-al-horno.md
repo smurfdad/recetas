@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAPAS RELLENAS AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

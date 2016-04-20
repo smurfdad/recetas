@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PECHUGAS DE POLLO AL WHISKY
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

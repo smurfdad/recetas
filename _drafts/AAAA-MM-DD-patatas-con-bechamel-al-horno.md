@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS CON BECHAMEL AL HORNO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE LUBINA A LA DENIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

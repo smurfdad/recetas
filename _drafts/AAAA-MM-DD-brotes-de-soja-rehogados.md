@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BROTES DE SOJA REHOGADOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

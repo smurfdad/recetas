@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PAVO RELLENO DE FRUTOS SECOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDÍN DE MERLUZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

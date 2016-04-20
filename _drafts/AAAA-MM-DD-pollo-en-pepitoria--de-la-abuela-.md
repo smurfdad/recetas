@@ -1,7 +1,6 @@
 ---
 layout: post
 title: POLLO EN PEPITORIA -DE LA ABUELA-
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

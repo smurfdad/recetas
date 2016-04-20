@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA CON LEVADURA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

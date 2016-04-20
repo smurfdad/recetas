@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA XATÓ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

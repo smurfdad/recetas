@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TARTALETA AINGERU
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

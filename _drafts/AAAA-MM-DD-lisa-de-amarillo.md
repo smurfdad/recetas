@@ -1,7 +1,6 @@
 ---
 layout: post
 title: LISA DE AMARILLO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

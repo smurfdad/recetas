@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESCALIVADA CATALANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

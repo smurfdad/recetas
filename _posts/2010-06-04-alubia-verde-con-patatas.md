@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALUBIA VERDE CON PATATAS
-
 categories:
 - Verduras y legumbres
 personas: 6 

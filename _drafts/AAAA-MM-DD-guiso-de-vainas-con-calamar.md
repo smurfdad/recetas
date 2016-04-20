@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE VAINAS CON CALAMAR
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

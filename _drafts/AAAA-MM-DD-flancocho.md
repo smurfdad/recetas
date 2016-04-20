@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FLANCOCHO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CHULETAS ESTOFADAS
-
 categories:
 - Carnes y derivados
 personas: 6 

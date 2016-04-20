@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TIMBAL DE MACARRONES
-
 categories:
 - Pastas
 personas: 6 

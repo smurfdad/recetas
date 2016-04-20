@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHORIZOS DE ARRIATE AL VINO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

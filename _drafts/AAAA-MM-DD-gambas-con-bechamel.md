@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GAMBAS CON BECHAMEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

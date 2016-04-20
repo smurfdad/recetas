@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS A LA MOZZARELA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

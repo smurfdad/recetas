@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FILETES DE FANECA AL LIMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

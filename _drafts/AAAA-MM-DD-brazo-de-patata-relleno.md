@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BRAZO DE PATATA RELLENO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MELOCOTONES Y GUINDAS EN VINO DE MOSCATEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

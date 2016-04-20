@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPALDA DE TERNASCO EN SALSA DE TRUFAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

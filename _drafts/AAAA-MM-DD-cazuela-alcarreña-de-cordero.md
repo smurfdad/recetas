@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CAZUELA ALCARREÑA DE CORDERO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

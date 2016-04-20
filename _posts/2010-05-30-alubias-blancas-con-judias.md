@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ALUBIAS BLANCAS CON JUDÍAS
-
 categories:
 - Verduras y legumbres
 ---

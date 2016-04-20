@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FONDUE DE ESPÁRRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

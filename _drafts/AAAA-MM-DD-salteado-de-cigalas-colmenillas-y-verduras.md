@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SALTEADO DE CIGALAS, COLMENILLAS Y VERDURAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

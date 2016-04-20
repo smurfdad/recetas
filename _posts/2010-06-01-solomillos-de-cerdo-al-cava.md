@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: SOLOMILLOS DE CERDO AL CAVA
-
 categories:
 - Carnes y derivados
 personas: 4 

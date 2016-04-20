@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PERDICES CON COLES A LA CATALANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

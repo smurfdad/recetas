@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE AJO PROVENZAL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

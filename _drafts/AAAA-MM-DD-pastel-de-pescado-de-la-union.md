@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL DE PESCADO DE LA UNIÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

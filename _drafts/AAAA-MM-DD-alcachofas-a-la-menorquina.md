@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALCACHOFAS A LA MENORQUINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

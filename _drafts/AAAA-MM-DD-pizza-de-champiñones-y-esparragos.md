@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PIZZA DE CHAMPIÑONES Y ESPÁRRAGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

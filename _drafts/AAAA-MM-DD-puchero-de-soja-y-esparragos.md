@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PUCHERO DE SOJA Y ESPARRÁGOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

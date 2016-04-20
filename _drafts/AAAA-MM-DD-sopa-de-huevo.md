@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE HUEVO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

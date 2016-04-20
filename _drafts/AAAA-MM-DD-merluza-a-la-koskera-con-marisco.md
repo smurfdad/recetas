@@ -1,7 +1,6 @@
 ---
 layout: post
 title: MERLUZA A LA KOSKERA CON MARISCO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

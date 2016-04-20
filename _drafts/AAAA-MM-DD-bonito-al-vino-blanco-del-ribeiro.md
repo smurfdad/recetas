@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BONITO AL VINO BLANCO DEL RIBEIRO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

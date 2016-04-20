@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: CAKE DE PASAS
-
 categories:
 - Postres y dulces
 personas: 6 

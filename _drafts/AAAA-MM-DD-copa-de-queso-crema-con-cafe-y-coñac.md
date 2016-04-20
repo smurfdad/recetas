@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COPA DE QUESO CREMA CON CAFÉ Y COÑAC
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

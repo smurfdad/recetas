@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ALBORONIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

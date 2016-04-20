@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EMPANADAS DE BERENJENAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

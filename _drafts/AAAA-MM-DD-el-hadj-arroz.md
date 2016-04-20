@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EL HADJ ARROZ
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

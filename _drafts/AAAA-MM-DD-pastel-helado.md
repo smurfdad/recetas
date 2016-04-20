@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL HELADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

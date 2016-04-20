@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FARFALE PRIMAVERA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

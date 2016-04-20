@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BOLLO O TORTA DE CALABAZA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

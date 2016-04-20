@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATATAS MICROONDAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

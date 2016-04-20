@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA DE HOJALDRE Y PESCADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

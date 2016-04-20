@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMA DE FRIJOL CON CHORIZO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

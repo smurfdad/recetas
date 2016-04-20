@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HOJALDRES DE GUARROMÁN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PASTEL ALMENDRADO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

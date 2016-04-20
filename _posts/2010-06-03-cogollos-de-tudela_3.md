@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COGOLLOS DE TUDELA
-
 categories:
 - Ensaladas
 personas: 4 

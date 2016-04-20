@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO CON ALCACHOFAS Y PHILADELPHIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

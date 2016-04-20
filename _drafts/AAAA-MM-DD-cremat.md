@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CREMAT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

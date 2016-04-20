@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BACALAO A LA CREMA DE AJOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PULPO AFERIA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

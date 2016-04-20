@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TERNERA GALLEGA ASADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

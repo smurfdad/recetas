@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: TARTA DE NATA
-
 categories:
 - Postres y dulces
 ---

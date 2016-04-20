@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DÁTILES DE MAR A LA PLANCHA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

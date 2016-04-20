@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: ARROZ NEGRO
-
 categories:
 - Arroces
 personas: 4 

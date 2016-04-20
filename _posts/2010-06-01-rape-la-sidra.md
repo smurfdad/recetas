@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: RAPE A LA SIDRA
-
 categories:
 - Pescados
 personas: 6 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TORTA REAL DE MOTRIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

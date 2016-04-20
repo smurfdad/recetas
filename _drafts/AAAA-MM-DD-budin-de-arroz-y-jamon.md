@@ -1,7 +1,6 @@
 ---
 layout: post
 title: BUDÍN DE ARROZ Y JAMÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

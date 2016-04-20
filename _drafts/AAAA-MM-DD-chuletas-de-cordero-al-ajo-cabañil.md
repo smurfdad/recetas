@@ -1,7 +1,6 @@
 ---
 layout: post
 title: CHULETAS DE CORDERO AL AJO CABAÑIL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GUISO DE VEGETALES LIGHT
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

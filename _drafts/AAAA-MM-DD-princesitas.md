@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PRINCESITAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: PATO AL MELOCOTÓN
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ESPINACAS DISFRAZADAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

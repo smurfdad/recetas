@@ -1,8 +1,6 @@
 ---
 layout: post
-
 title: COLA DE MERLUZA AL HORNO
-
 categories:
 - Pescados
 personas: 6 

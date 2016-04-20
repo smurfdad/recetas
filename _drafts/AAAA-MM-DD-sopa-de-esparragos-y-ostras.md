@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOPA DE ESPÁRRAGOS Y OSTRAS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

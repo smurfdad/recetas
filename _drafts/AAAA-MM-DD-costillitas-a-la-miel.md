@@ -1,7 +1,6 @@
 ---
 layout: post
 title: COSTILLITAS A LA MIEL
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

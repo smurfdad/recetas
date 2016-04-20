@@ -1,7 +1,6 @@
 ---
 layout: post
 title: FAINA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

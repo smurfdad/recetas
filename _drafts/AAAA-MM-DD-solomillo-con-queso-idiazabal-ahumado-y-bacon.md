@@ -1,7 +1,6 @@
 ---
 layout: post
 title: SOLOMILLO CON QUESO IDIAZABAL AHUMADO Y BACON
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

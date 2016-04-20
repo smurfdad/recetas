@@ -1,7 +1,6 @@
 ---
 layout: post
 title: HUEVOS EN COCOTTE, CON SALSA DE BERBERECHOS
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: XATONADA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

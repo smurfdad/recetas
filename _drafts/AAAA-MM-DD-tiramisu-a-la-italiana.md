@@ -1,7 +1,6 @@
 ---
 layout: post
 title: TIRAMISÚ A LA ITALIANA
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: ENSALADA DE MARISCO CON POMELO
-
 categories:
 - Carnes y derivados
 - Mariscos y moluscos
