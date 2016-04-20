@@ -5,7 +5,6 @@ title: ALUBIAS BLANCAS CON JUDÍAS
 
 categories:
 - Verduras y legumbres
-
 ---
 <h3>Ingredientes</h3>
 

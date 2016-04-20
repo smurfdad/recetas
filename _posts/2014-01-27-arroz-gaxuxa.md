@@ -5,7 +5,6 @@ title: ARROZ GAXUXA
 
 categories:
 - Arroces
-
 ---
 Para 8 personas.
 

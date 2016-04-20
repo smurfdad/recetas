@@ -5,7 +5,6 @@ title: BOCADOS DE SALMÓN AHUMADO CON QUINOA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

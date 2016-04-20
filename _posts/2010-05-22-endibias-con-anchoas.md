@@ -6,7 +6,6 @@ title: ENDIBIAS CON ANCHOAS
 categories:
 - Pescados
 - Ensaladas
-
 ---
 Para 6 personas.
 

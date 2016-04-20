@@ -5,7 +5,6 @@ title: COGOLLOS DE TUDELA
 
 categories:
 - Ensaladas
-
 ---
 Para 4 personas.
 

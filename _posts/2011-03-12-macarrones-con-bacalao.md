@@ -6,7 +6,6 @@ title: MACARRONES CON BACALAO
 categories:
 - Pescados
 - Pastas
-
 ---
 Para 4 personas.
 

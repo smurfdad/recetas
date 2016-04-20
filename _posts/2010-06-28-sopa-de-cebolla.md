@@ -5,7 +5,6 @@ title: SOPA DE CEBOLLA
 
 categories:
 - Sopas y cremas
-
 ---
 Para 4 personas.
 

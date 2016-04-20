@@ -5,7 +5,6 @@ title: TXANGURRO DE BERMEO
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

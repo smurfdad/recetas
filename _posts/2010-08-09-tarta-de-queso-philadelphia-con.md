@@ -5,7 +5,6 @@ title: TARTA DE QUESO PHILADELPHIA CON BIZCOCHOS
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

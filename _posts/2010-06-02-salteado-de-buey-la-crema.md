@@ -5,7 +5,6 @@ title: SALTEADO DE BUEY A LA CREMA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

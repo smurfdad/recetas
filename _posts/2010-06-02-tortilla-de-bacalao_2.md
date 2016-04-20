@@ -6,7 +6,6 @@ title: TORTILLA DE BACALAO
 categories:
 - Pescados
 - Huevos y lacteos
-
 ---
 Para 2 personas.
 

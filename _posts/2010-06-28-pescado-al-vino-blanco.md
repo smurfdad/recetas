@@ -5,7 +5,6 @@ title: PESCADO AL VINO BLANCO
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

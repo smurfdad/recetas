@@ -6,7 +6,6 @@ title: ARROZ AL BUGS BUNNY
 categories:
 - Arroces
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

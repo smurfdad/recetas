@@ -5,7 +5,6 @@ title: ARROZ A LO PIEDMONT
 
 categories:
 - Arroces
-
 ---
 Para 4 personas.
 

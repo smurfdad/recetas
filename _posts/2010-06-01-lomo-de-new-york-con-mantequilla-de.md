@@ -5,7 +5,6 @@ title: LOMO DE NEW YORK CON MANTEQUILLA DE QUESO STILTON
 
 categories:
 - Carnes y derivados
-
 ---
 Para 2 personas.
 

@@ -5,7 +5,6 @@ title: SOLOMILLO AL CABRALES
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

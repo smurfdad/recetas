@@ -5,7 +5,6 @@ title: SOPA DE AJO
 
 categories:
 - Sopas y cremas
-
 ---
 Para 6 personas.
 

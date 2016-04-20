@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 - Arroces
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

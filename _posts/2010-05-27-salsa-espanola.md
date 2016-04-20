@@ -5,7 +5,6 @@ title: SALSA ESPAÑOLA
 
 categories:
 - Salsas
-
 ---
 Para 6 personas.
 

@@ -6,7 +6,6 @@ title: ENSALADA DE MANZANAS, NUECES Y MELÓN
 categories:
 - Ensaladas
 - Frutas
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: ESPAGUETIS A LA VERMICHELLI
 
 categories:
 - Pastas
-
 ---
 Para 6 personas.
 

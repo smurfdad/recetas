@@ -5,7 +5,6 @@ title: OSTRAS AL CAVA
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

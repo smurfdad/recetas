@@ -5,7 +5,6 @@ title: PESCADO A LA SAL
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

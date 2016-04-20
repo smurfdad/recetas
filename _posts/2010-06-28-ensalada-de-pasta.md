@@ -6,7 +6,6 @@ title: ENSALADA DE PASTA
 categories:
 - Ensaladas
 - Pastas
-
 ---
 Para 6 personas.
 

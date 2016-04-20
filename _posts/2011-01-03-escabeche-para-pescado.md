@@ -5,7 +5,6 @@ title: ESCABECHE PARA PESCADO
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

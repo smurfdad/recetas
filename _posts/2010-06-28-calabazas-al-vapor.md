@@ -6,7 +6,6 @@ title: CALABAZAS AL VAPOR
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 3 personas.
 

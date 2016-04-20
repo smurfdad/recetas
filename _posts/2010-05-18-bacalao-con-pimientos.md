@@ -5,7 +5,6 @@ title: BACALAO CON PIMIENTOS
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

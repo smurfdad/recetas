@@ -6,7 +6,6 @@ title: ARROZ Y LANGOSTA
 categories:
 - Arroces
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

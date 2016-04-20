@@ -5,7 +5,6 @@ title: GUIARRA O LOMO DE CERDO CON LECHE
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

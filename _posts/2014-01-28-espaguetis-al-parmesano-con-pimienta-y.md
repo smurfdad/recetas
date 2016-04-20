@@ -5,7 +5,6 @@ title: ESPAGUETIS AL PARMESANO CON PIMIENTA Y CURRY
 
 categories:
 - Pastas
-
 ---
 Para 4 personas.
 

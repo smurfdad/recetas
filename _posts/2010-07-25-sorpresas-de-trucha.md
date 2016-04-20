@@ -5,7 +5,6 @@ title: SORPRESAS DE TRUCHA
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

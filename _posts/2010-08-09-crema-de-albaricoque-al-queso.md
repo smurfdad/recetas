@@ -7,7 +7,6 @@ categories:
 - Huevos y lacteos
 - Postres y dulces
 - Frutas
-
 ---
 Para 4 personas.
 

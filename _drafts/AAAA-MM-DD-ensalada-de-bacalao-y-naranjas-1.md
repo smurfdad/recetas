@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Ensaladas
-
 ---
 Para 1 personas.
 

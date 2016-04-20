@@ -6,7 +6,6 @@ title: ENSALADA DE ANGULAS
 categories:
 - Pescados
 - Ensaladas
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: CAKE DE PASAS
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

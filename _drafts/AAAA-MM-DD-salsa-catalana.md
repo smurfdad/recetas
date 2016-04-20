@@ -18,7 +18,6 @@ categories:
 - Ensaladas
 - Setas y hongos
  
-
 ---
 Para 25 personas.
 

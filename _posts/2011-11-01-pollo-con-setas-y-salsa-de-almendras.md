@@ -6,7 +6,6 @@ title: POLLO CON SETAS Y SALSA DE ALMENDRAS.
 categories:
 - Carnes y derivados
 - Setas y hongos
-
 ---
 Para 4 personas.
 

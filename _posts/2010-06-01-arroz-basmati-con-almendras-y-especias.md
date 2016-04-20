@@ -5,7 +5,6 @@ title: ARROZ BASMATI CON ALMENDRAS Y ESPECIAS
 
 categories:
 - Arroces
-
 ---
 Para 8 personas.
 

@@ -5,7 +5,6 @@ title: CONEJO AL VINO RANCIO CON SETAS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

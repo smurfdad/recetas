@@ -5,7 +5,6 @@ title: ARROZ VERDE
 
 categories:
 - Arroces
-
 ---
 <h3>Ingredientes</h3>
 

@@ -5,7 +5,6 @@ title: CIGALAS A LA CARIBEÑA
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

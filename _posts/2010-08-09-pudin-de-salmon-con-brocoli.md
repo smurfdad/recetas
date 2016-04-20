@@ -6,7 +6,6 @@ title: PUDIN DE SALMÓN CON BRÓCOLI
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

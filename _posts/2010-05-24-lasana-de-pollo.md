@@ -6,7 +6,6 @@ title: LASAÑA DE POLLO
 categories:
 - Carnes y derivados
 - Pastas
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: LOMOS DE BONITO ENCEBOLLADOS
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

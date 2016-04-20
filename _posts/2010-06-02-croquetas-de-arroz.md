@@ -6,7 +6,6 @@ title: CROQUETAS DE ARROZ
 categories:
 - Arroces
 - Entrantes y bocadillos
-
 ---
 Para 6 personas.
 

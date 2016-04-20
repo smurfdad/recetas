@@ -5,7 +5,6 @@ title: FALDA DE TERNERA RELLENA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

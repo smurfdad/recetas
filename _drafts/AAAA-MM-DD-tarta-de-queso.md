@@ -18,7 +18,6 @@ categories:
 - Ensaladas
 - Setas y hongos
  
-
 ---
 Para 10 personas.
 <b>Tiempo</b> 10 minutos.

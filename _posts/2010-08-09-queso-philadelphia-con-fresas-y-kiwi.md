@@ -6,7 +6,6 @@ title: QUESO PHILADELPHIA CON FRESAS Y KIWI
 categories:
 - Huevos y lacteos
 - Frutas
-
 ---
 Para 4 personas.
 

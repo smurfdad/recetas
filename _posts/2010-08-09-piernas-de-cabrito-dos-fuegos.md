@@ -5,7 +5,6 @@ title: PIERNAS DE CABRITO A DOS FUEGOS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

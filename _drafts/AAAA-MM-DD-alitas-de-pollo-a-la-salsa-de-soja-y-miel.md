@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
-
 ---
 Para 4 personas.
 <b>Tiempo</b> 1440 minutos.

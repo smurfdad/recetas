@@ -18,7 +18,6 @@ categories:
 - Ensaladas
 - Setas y hongos
  
-
 ---
 Para 2 personas.
 <b>Tiempo</b> 48 minutos.

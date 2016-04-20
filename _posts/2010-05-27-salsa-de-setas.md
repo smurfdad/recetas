@@ -6,7 +6,6 @@ title: SALSA DE SETAS
 categories:
 - Salsas
 - Setas y hongos
-
 ---
 Para 6 personas.
 

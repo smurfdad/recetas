@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
-
 ---
 <b>Tiempo</b> 120 minutos.
 

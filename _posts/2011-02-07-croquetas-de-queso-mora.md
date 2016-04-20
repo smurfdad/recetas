@@ -6,7 +6,6 @@ title: CROQUETAS DE QUESO MORA
 categories:
 - Huevos y lacteos
 - Entrantes y bocadillos
-
 ---
 <h3>Ingredientes</h3>
 

@@ -5,7 +5,6 @@ title: MEJILLONES AL AROMA DE PIMIENTA VERDE
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

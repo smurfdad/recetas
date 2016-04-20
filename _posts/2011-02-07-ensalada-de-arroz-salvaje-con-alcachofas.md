@@ -8,7 +8,6 @@ categories:
 - Arroces
 - Ensaladas
 - Frutas
-
 ---
 Para 4 personas.
 

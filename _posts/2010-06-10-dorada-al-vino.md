@@ -5,7 +5,6 @@ title: DORADA AL VINO
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>1 Dorada de 2 Kg.
 

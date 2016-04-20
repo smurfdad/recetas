@@ -5,7 +5,6 @@ title: CONGRIO EN SALSA DE PATATA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: PASTA AL VINO
 
 categories:
 - Pastas
-
 ---
 Para 2 personas.
 

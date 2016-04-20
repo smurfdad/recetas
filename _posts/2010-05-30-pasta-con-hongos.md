@@ -6,7 +6,6 @@ title: PASTA CON HONGOS
 categories:
 - Pastas
 - Setas y hongos
-
 ---
 Para 4 personas.
 

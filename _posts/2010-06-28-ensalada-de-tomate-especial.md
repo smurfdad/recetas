@@ -5,7 +5,6 @@ title: ENSALADA DE TOMATE ESPECIAL
 
 categories:
 - Ensaladas
-
 ---
 Para 6 personas.
 

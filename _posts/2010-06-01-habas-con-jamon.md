@@ -5,7 +5,6 @@ title: HABAS CON JAMÓN
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

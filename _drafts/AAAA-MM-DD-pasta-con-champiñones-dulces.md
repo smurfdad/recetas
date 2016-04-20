@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pastas
-
 ---
 Para 2 personas.
 <b>Tiempo</b> 20 minutos.

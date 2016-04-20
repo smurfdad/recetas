@@ -5,7 +5,6 @@ title: TRUCHAS CON BACÓN
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: CARN AL TOMBET
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

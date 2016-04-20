@@ -6,7 +6,6 @@ title: TARTA TEMPLADA DE QUESO IDIAZABAL
 categories:
 - Huevos y lacteos
 - Postres y dulces
-
 ---
 <h3>Ingredientes</h3>
 

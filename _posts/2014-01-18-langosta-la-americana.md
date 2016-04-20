@@ -5,7 +5,6 @@ title: LANGOSTA A LA AMERICANA
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

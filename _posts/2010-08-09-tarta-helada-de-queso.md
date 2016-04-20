@@ -6,7 +6,6 @@ title: TARTA HELADA DE QUESO
 categories:
 - Huevos y lacteos
 - Postres y dulces
-
 ---
 Para 6 personas.
 

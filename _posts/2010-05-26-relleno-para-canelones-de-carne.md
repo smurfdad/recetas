@@ -5,7 +5,6 @@ title: RELLENO PARA CANELONES DE CARNE
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

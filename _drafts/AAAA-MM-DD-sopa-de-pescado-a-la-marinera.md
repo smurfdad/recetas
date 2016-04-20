@@ -20,7 +20,6 @@ categories:
 
 - Pescados
 - Sopas y cremas
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: LANGOSTINOS REVUELTOS
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 10 personas.
 

@@ -5,7 +5,6 @@ title: POLLO AL AJILLO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

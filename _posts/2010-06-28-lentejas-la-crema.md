@@ -6,7 +6,6 @@ title: LENTEJAS A LA CREMA
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

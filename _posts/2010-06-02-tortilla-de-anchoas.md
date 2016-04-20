@@ -6,7 +6,6 @@ title: TORTILLA DE ANCHOAS
 categories:
 - Pescados
 - Huevos y lacteos
-
 ---
 Para 1 personas.
 

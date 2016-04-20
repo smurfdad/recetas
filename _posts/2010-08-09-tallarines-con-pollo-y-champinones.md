@@ -7,7 +7,6 @@ categories:
 - Carnes y derivados
 - Pastas
 - Setas y hongos
-
 ---
 <h3>Ingredientes</h3>
 

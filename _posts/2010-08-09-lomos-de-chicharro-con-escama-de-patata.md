@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Mariscos y moluscos
-
 ---
 <h3>Ingredientes</h3>
 

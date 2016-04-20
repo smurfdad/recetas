@@ -5,7 +5,6 @@ title: CARNE ASADA DE CERDO
 
 categories:
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

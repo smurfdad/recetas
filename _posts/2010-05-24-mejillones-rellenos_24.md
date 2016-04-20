@@ -5,7 +5,6 @@ title: MEJILLONES RELLENOS
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

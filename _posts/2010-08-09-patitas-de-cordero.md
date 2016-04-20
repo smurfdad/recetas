@@ -5,7 +5,6 @@ title: PATITAS DE CORDERO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

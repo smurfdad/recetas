@@ -5,7 +5,6 @@ title: COLIFLOR CON SALSA MORNAY
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

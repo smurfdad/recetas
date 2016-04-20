@@ -6,7 +6,6 @@ title: COMPOTA DE CEREZAS
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 Para 4 personas.
 

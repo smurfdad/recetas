@@ -5,7 +5,6 @@ title: CARNE GUISADA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

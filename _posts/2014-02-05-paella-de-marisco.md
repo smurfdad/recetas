@@ -6,7 +6,6 @@ title: PAELLA DE MARISCO
 categories:
 - Arroces
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

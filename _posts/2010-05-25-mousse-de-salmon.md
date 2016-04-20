@@ -5,7 +5,6 @@ title: MOUSSE DE SALMÓN
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

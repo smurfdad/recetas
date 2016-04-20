@@ -5,7 +5,6 @@ title: TERNERA PIZZAIOLA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

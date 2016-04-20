@@ -5,7 +5,6 @@ title: TARTALETAS DE MARISCO
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

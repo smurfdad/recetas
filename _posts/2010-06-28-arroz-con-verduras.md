@@ -6,7 +6,6 @@ title: ARROZ CON VERDURAS
 categories:
 - Verduras y legumbres
 - Arroces
-
 ---
 Para 4 personas.
 

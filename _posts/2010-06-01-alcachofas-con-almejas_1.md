@@ -6,7 +6,6 @@ title: ALCACHOFAS CON ALMEJAS
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

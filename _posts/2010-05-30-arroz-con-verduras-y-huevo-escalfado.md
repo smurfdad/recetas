@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 - Arroces
 - Huevos y lacteos
-
 ---
 <h3>Ingredientes</h3>
 

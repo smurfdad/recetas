@@ -5,7 +5,6 @@ title: ESPAGUETIS CON NATA
 
 categories:
 - Pastas
-
 ---
 Para 4 personas.
 

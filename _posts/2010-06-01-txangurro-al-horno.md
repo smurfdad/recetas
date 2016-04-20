@@ -5,7 +5,6 @@ title: TXANGURRO AL HORNO
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

@@ -6,7 +6,6 @@ title: BRUSELAS EN VINO BLANCO
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

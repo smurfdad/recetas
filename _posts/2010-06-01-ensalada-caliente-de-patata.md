@@ -5,7 +5,6 @@ title: ENSALADA CALIENTE DE PATATA
 
 categories:
 - Ensaladas
-
 ---
 Para 8 personas.
 

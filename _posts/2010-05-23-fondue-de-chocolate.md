@@ -5,7 +5,6 @@ title: FONDUE DE CHOCOLATE
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

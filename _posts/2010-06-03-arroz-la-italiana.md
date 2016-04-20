@@ -6,7 +6,6 @@ title: ARROZ A LA ITALIANA
 categories:
 - Arroces
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

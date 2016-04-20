@@ -5,7 +5,6 @@ title: ARROZ A LA VENEZOLANA
 
 categories:
 - Arroces
-
 ---
 Para 4 personas.
 

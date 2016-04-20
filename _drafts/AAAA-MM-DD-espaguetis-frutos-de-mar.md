@@ -20,7 +20,6 @@ categories:
 
 - Mariscos y moluscos
 - Pastas
-
 ---
 <h3>Ingredientes</h3>
 

@@ -6,7 +6,6 @@ title: SOPA DE CEBOLLA GRATINADA
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
 ---
 Para 4 personas.
 

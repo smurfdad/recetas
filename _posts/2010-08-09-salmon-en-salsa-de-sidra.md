@@ -5,7 +5,6 @@ title: SALMÓN EN SALSA DE SIDRA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

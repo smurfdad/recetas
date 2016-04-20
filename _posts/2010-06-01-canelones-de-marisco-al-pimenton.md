@@ -6,7 +6,6 @@ title: CANELONES DE MARISCO AL PIMENTÓN
 categories:
 - Mariscos y moluscos
 - Pastas
-
 ---
 Para 4 personas.
 

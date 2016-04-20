@@ -5,7 +5,6 @@ title: ROLLO DE PAVO SABROSO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

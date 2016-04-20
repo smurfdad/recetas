@@ -5,7 +5,6 @@ title: POLLO EN ESCABECHE
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

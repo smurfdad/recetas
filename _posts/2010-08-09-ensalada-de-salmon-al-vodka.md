@@ -6,7 +6,6 @@ title: ENSALADA DE SALMÓN AL VODKA
 categories:
 - Pescados
 - Ensaladas
-
 ---
 Para 4 personas.
 

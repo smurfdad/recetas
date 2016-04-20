@@ -6,7 +6,6 @@ title: LENGUA EN MENESTRA
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

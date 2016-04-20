@@ -6,7 +6,6 @@ title: ENSALADA DE COLIFLOR
 categories:
 - Verduras y legumbres
 - Ensaladas
-
 ---
 Para 4 personas.
 

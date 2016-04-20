@@ -5,7 +5,6 @@ title: PATATAS EN SALSA VERDE
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

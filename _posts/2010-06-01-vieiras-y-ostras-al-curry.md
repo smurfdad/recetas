@@ -5,7 +5,6 @@ title: VIEIRAS Y OSTRAS AL CURRY
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

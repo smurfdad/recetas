@@ -5,7 +5,6 @@ title: ENSALADA DE PATATA
 
 categories:
 - Ensaladas
-
 ---
 Para 4 personas.
 

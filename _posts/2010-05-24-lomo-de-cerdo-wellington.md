@@ -5,7 +5,6 @@ title: LOMO DE CERDO WELLINGTON
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

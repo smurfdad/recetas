@@ -6,7 +6,6 @@ title: BRAZO DE PATATA Y MERLUZA
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

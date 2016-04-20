@@ -5,7 +5,6 @@ title: CORDERO A LA SICILIANA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

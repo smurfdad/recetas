@@ -5,7 +5,6 @@ title: TRUCHAS AL VINO TINTO
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

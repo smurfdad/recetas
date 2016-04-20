@@ -5,7 +5,6 @@ title: ESPAGUETIS A LA BOLOÑESA
 
 categories:
 - Pastas
-
 ---
 Para 6 personas.
 

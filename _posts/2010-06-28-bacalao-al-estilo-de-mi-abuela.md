@@ -5,7 +5,6 @@ title: BACALAO AL ESTILO DE MI ABUELA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: COGOTE DE MERLUZA A LA VASCA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

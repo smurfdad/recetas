@@ -6,7 +6,6 @@ title: CANELONES FIORENTINA
 categories:
 - Verduras y legumbres
 - Pastas
-
 ---
 Para 5 personas.
 

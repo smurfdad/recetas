@@ -6,7 +6,6 @@ title: PIMIENTOS RELLENOS DE MERLUZA
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

@@ -7,7 +7,6 @@ categories:
 - Arroces
 - Carnes y derivados
 - Entrantes y bocadillos
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: MOUSSE DE CHOCOFRESA
 
 categories:
 - Postres y dulces
-
 ---
 Para 3 personas.
 

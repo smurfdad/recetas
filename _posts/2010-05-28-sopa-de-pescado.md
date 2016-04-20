@@ -6,7 +6,6 @@ title: SOPA DE PESCADO
 categories:
 - Pescados
 - Sopas y cremas
-
 ---
 Para 6 personas.
 

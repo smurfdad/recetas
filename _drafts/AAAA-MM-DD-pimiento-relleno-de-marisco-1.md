@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 <b>Tiempo</b> 120 minutos.

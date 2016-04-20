@@ -5,7 +5,6 @@ title: CROQUETAS
 
 categories:
 - Entrantes y bocadillos
-
 ---
 <h3>Ingredientes</h3>
 

@@ -5,7 +5,6 @@ title: ESCALOPES DE TERNERA O BUEY
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

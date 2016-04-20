@@ -5,7 +5,6 @@ title: SALPICÓN DE CANGREJO
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: CARBONADA FLAMENCA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

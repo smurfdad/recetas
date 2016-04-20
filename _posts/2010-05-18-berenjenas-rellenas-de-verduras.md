@@ -5,7 +5,6 @@ title: BERENJENAS RELLENAS DE VERDURAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

@@ -6,7 +6,6 @@ title: COULIS DE FRESA
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 <h3>Ingredientes</h3>
 

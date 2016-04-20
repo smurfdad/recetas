@@ -18,7 +18,6 @@ categories:
 - Ensaladas
 - Setas y hongos
  
-
 ---
 Para 12 personas.
 <b>Tiempo</b> 50 minutos.

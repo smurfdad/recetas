@@ -7,7 +7,6 @@ categories:
 - Sopas y cremas
 - Postres y dulces
 - Frutas
-
 ---
 <h3>Ingredientes</h3>
 

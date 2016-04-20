@@ -5,7 +5,6 @@ title: SALMÓN MARINADO
 
 categories:
 - Pescados
-
 ---
 Para 10 personas.
 

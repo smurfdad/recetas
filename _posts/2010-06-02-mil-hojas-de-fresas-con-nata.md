@@ -6,7 +6,6 @@ title: MIL HOJAS DE FRESAS CON NATA
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 Para 4 personas.
 

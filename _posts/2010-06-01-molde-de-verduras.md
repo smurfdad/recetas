@@ -5,7 +5,6 @@ title: MOLDE DE VERDURAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

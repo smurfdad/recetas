@@ -5,7 +5,6 @@ title: POLLO EN CHANFAINA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

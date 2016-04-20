@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

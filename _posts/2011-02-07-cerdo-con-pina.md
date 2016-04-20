@@ -6,7 +6,6 @@ title: CERDO CON PIÑA
 categories:
 - Carnes y derivados
 - Frutas
-
 ---
 <h3>Ingredientes</h3>
 

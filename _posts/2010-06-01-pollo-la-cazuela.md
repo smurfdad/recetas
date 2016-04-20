@@ -5,7 +5,6 @@ title: POLLO A LA CAZUELA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

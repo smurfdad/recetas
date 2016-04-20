@@ -5,7 +5,6 @@ title: CODITOS CON CARNE, CHAMPIÑONES Y PANCETA AHUMADA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

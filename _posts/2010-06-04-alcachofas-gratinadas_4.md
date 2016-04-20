@@ -5,7 +5,6 @@ title: ALCACHOFAS GRATINADAS
 
 categories:
 - Verduras y legumbres
-
 ---
 <h3>Ingredientes</h3>
 

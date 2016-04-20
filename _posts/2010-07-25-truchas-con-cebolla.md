@@ -5,7 +5,6 @@ title: TRUCHAS CON CEBOLLA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

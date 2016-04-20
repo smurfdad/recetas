@@ -5,7 +5,6 @@ title: FILETES RELLENOS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

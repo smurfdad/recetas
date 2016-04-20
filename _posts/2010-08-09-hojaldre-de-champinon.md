@@ -5,7 +5,6 @@ title: HOJALDRE DE CHAMPIÑÓN
 
 categories:
 - Setas y hongos
-
 ---
 <h3>Ingredientes</h3>
 

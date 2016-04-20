@@ -5,7 +5,6 @@ title: SOLOMILLO AL HORNO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

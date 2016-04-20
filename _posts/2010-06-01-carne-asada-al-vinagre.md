@@ -5,7 +5,6 @@ title: CARNE ASADA AL VINAGRE
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

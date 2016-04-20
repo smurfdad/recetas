@@ -6,7 +6,6 @@ title: ENSALADA ASADA
 categories:
 - Verduras y legumbres
 - Ensaladas
-
 ---
 Para 4 personas.
 

@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pastas
-
 ---
 <h3>Ingredientes</h3>
 

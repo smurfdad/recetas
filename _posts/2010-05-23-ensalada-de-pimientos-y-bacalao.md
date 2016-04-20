@@ -6,7 +6,6 @@ title: ENSALADA DE PIMIENTOS Y BACALAO
 categories:
 - Pescados
 - Ensaladas
-
 ---
 Para 8 personas.
 

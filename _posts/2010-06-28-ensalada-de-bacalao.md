@@ -6,7 +6,6 @@ title: ENSALADA DE BACALAO
 categories:
 - Pescados
 - Ensaladas
-
 ---
 Para 4 personas.
 

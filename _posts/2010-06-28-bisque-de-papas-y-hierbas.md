@@ -5,7 +5,6 @@ title: BISQUE DE PAPAS Y HIERBAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

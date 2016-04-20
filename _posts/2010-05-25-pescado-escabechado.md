@@ -5,7 +5,6 @@ title: PESCADO ESCABECHADO
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: ENSALADA DE PIMIENTOS ROJOS
 
 categories:
 - Ensaladas
-
 ---
 Para 6 personas.
 

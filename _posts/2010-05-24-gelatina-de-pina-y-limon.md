@@ -5,7 +5,6 @@ title: GELATINA DE PIÑA Y LIMÓN
 
 categories:
 - Postres y dulces
-
 ---
 Para 8 personas.
 

@@ -5,7 +5,6 @@ title: BIZCOCHO CON YOGUR
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

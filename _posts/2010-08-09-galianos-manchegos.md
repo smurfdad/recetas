@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 - Carnes y derivados
 - Setas y hongos
-
 ---
 Para 4 personas.
 

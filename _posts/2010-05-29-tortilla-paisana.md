@@ -6,7 +6,6 @@ title: TORTILLA PAISANA
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
-
 ---
 Para 10 personas.
 

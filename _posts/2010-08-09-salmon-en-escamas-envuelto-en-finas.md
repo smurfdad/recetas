@@ -6,7 +6,6 @@ title: SALMÓN EN ESCAMAS ENVUELTO EN FINAS RODAJAS DE PATATAS
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

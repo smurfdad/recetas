@@ -5,7 +5,6 @@ title: PATATAS VIUDAS A LA RIOJANA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

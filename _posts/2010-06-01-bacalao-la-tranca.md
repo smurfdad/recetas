@@ -5,7 +5,6 @@ title: BACALAO A LA TRANCA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

@@ -6,7 +6,6 @@ title: CREMA CASTELLANA
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
 ---
 Para 4 personas.
 

@@ -4,7 +4,6 @@ layout: post
 title: CHANTILLY ESPUMOSO
 
 categories: 
-
 ---
 <h3>Ingredientes</h3>
 

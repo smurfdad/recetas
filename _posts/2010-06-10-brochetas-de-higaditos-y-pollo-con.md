@@ -5,7 +5,6 @@ title: BROCHETAS DE HIGADITOS Y POLLO CON QUINOA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

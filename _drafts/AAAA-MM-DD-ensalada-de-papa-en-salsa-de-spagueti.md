@@ -20,7 +20,6 @@ categories:
 
 - Ensaladas
 - Pastas
-
 ---
 Para 4 personas.
 

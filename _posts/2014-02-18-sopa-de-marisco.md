@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Sopas y cremas
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

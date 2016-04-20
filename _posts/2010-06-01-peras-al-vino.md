@@ -6,7 +6,6 @@ title: PERAS AL VINO
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 Para 4 personas.
 

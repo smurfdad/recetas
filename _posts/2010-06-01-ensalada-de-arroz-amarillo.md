@@ -6,7 +6,6 @@ title: ENSALADA DE ARROZ AMARILLO
 categories:
 - Arroces
 - Ensaladas
-
 ---
 Para 4 personas.
 

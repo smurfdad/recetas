@@ -5,7 +5,6 @@ title: ALUBIA VERDE CON PATATAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: LOMO DE CERDO A LA NARANJA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

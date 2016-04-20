@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Arroces
-
 ---
 <h3>Ingredientes</h3>
 

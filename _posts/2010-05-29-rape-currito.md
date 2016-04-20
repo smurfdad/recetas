@@ -5,7 +5,6 @@ title: RAPE CURRITO
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: FRUTAS EN PAPILLOTE
 
 categories:
 - Frutas
-
 ---
 Para 4 personas.
 

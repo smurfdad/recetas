@@ -5,7 +5,6 @@ title: PECHUGAS DE POLLO EN SALSA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: PASTEL ALCARREÑO DE CORDERO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: ENSALADA CAPRESE
 
 categories:
 - Ensaladas
-
 ---
 Para 6 personas.
 

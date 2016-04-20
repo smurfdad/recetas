@@ -5,7 +5,6 @@ title: PISTO A LA BILBAÍNA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 8 personas.
 

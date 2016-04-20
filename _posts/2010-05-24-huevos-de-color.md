@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Huevos y lacteos
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: ALUBIAS ESTOFADAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

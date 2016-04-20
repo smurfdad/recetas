@@ -20,7 +20,6 @@ categories:
 
 - Mariscos y moluscos
 - Pastas
-
 ---
 Para 4 personas.
 

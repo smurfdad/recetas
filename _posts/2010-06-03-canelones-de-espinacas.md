@@ -6,7 +6,6 @@ title: CANELONES DE ESPINACAS
 categories:
 - Verduras y legumbres
 - Pastas
-
 ---
 Para 5 personas.
 

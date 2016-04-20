@@ -5,7 +5,6 @@ title: MELOCOTONES SABOYANOS
 
 categories:
 - Frutas
-
 ---
 Para 8 personas.
 

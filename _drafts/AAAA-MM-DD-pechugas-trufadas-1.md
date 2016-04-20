@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
-
 ---
 Para 8 personas.
 <b>Tiempo</b> 78 minutos.

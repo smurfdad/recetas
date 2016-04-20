@@ -5,7 +5,6 @@ title: PESCADO A LA CAZUELA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

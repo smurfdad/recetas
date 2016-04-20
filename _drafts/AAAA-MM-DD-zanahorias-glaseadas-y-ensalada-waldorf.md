@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Ensaladas
-
 ---
 <h3>Ingredientes</h3>
 

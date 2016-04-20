@@ -6,7 +6,6 @@ title: ENSALADA DE MACARRONES
 categories:
 - Ensaladas
 - Pastas
-
 ---
 Para 5 personas.
 

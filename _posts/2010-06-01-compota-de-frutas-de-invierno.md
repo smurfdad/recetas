@@ -5,7 +5,6 @@ title: COMPOTA DE FRUTAS DE INVIERNO
 
 categories:
 - Frutas
-
 ---
 Para 4 personas.
 

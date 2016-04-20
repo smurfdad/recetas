@@ -5,7 +5,6 @@ title: SALSA DE MANZANA
 
 categories:
 - Salsas
-
 ---
 Para 6 personas.
 

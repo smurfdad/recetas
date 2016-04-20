@@ -5,7 +5,6 @@ title: VOLOVÁN DE MEJILLONES Y LANGOSTINOS
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

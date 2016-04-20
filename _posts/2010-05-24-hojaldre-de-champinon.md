@@ -6,7 +6,6 @@ title: HOJALDRE DE CHAMPIÑÓN
 categories:
 - Verduras y legumbres
 - Setas y hongos
-
 ---
 Para 8 personas.
 

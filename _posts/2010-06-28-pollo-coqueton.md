@@ -5,7 +5,6 @@ title: POLLO COQUETON
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

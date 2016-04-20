@@ -5,7 +5,6 @@ title: BRANDADA DE BACALAO
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

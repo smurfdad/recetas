@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 - Carnes y derivados
 - Pastas
-
 ---
 Para 6 personas.
 

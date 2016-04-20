@@ -5,7 +5,6 @@ title: VICHYSSOISE CALIENTE
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

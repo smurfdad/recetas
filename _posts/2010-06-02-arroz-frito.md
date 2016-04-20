@@ -5,7 +5,6 @@ title: ARROZ FRITO
 
 categories:
 - Arroces
-
 ---
 <h3>Ingredientes</h3>
 

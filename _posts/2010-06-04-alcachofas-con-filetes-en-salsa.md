@@ -6,7 +6,6 @@ title: ALCACHOFAS CON FILETES EN SALSA
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

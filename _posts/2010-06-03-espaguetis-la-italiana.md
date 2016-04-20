@@ -5,7 +5,6 @@ title: ESPAGUETIS A LA ITALIANA
 
 categories:
 - Pastas
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: BERENJENAS REBOZADAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

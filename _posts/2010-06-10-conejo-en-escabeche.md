@@ -5,7 +5,6 @@ title: CONEJO EN ESCABECHE
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

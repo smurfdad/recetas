@@ -5,7 +5,6 @@ title: GAZPACHO ANDALUZ
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 5 personas.
 

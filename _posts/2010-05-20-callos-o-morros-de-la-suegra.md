@@ -5,7 +5,6 @@ title: CALLOS O MORROS DE LA SUEGRA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

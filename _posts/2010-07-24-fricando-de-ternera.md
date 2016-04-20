@@ -5,7 +5,6 @@ title: FRICANDÓ DE TERNERA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

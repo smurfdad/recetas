@@ -6,7 +6,6 @@ title: FILETES CON MANGO MANILA
 categories:
 - Pescados
 - Frutas
-
 ---
 Para 6 personas.
 

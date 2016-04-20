@@ -6,7 +6,6 @@ title: CAKE DE ARROZ
 categories:
 - Arroces
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

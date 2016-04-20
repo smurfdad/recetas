@@ -6,7 +6,6 @@ title: CANELONES ROSSINI
 categories:
 - Carnes y derivados
 - Pastas
-
 ---
 Para 5 personas.
 

@@ -5,7 +5,6 @@ title: ARROZ A LA ALICANTINA
 
 categories:
 - Arroces
-
 ---
 Para 4 personas.
 

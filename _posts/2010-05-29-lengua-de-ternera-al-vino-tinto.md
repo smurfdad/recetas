@@ -5,7 +5,6 @@ title: LENGUA DE TERNERA AL VINO TINTO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

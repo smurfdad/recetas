@@ -6,7 +6,6 @@ title: ENSALADA VERDE
 categories:
 - Verduras y legumbres
 - Ensaladas
-
 ---
 Para 4 personas.
 

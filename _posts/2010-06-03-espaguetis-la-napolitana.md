@@ -5,7 +5,6 @@ title: ESPAGUETIS A LA NAPOLITANA
 
 categories:
 - Pastas
-
 ---
 Para 6 personas.
 

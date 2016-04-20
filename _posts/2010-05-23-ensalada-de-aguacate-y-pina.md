@@ -6,7 +6,6 @@ title: ENSALADA DE AGUACATE Y PINA
 categories:
 - Ensaladas
 - Frutas
-
 ---
 Para 6 personas.
 

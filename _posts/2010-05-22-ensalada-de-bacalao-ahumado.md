@@ -6,7 +6,6 @@ title: ENSALADA DE BACALAO AHUMADO
 categories:
 - Pescados
 - Ensaladas
-
 ---
 Para 6 personas.
 

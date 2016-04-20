@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pescados
-
 ---
 Para 4 personas.
 <b>Tiempo</b> 60 minutos.

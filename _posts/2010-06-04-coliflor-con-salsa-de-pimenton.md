@@ -5,7 +5,6 @@ title: COLIFLOR CON SALSA DE PIMENTÓN
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

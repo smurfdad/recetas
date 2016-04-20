@@ -5,7 +5,6 @@ title: POLLO A LA SÁBILA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

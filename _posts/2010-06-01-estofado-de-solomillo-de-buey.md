@@ -5,7 +5,6 @@ title: ESTOFADO DE SOLOMILLO DE BUEY
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

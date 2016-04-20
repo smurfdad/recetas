@@ -5,7 +5,6 @@ title: ENSALADA DE TOMATE
 
 categories:
 - Ensaladas
-
 ---
 Para 4 personas.
 

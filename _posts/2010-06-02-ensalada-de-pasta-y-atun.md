@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Ensaladas
 - Pastas
-
 ---
 Para 4 personas.
 

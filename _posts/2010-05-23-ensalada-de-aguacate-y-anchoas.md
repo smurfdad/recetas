@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Ensaladas
 - Frutas
-
 ---
 Para 6 personas.
 

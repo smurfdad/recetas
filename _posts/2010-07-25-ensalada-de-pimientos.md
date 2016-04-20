@@ -6,7 +6,6 @@ title: ENSALADA DE PIMIENTOS
 categories:
 - Verduras y legumbres
 - Ensaladas
-
 ---
 Para 4 personas.
 

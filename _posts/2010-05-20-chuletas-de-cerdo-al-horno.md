@@ -5,7 +5,6 @@ title: CHULETAS DE CERDO AL HORNO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

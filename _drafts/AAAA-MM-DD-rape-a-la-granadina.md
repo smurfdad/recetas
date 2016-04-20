@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pescados
-
 ---
 Para 1 personas.
 

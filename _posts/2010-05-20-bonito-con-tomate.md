@@ -5,7 +5,6 @@ title: BONITO CON TOMATE
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

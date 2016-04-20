@@ -6,7 +6,6 @@ title: ENSALADA DE LENTEJAS
 categories:
 - Verduras y legumbres
 - Ensaladas
-
 ---
 Para 1 personas.
 

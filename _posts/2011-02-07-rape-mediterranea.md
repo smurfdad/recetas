@@ -5,7 +5,6 @@ title: RAPE MEDITERRÁNEA
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

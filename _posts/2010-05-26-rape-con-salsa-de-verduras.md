@@ -5,7 +5,6 @@ title: RAPE CON SALSA DE VERDURAS
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

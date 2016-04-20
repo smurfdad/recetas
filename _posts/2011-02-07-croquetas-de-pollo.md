@@ -6,7 +6,6 @@ title: CROQUETAS DE POLLO
 categories:
 - Carnes y derivados
 - Entrantes y bocadillos
-
 ---
 Para 4 personas.
 

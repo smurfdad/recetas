@@ -6,7 +6,6 @@ title: PIMIENTOS VERDES O ROJOS RELLENOS DE BACALAO
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

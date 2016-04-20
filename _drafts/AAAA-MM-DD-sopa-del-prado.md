@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Sopas y cremas
-
 ---
 <h3>Ingredientes</h3>
 

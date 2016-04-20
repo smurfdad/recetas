@@ -5,7 +5,6 @@ title: LACÓN AL VINO BLANCO
 
 categories:
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

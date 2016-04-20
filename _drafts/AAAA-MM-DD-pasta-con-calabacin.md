@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pastas
-
 ---
 Para 3 personas.
 <b>Tiempo</b> 20 minutos.

@@ -5,7 +5,6 @@ title: ARROZ FRITO CHINO
 
 categories:
 - Arroces
-
 ---
 <h3>Ingredientes</h3>
 

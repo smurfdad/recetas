@@ -5,7 +5,6 @@ title: ESPIRALES MULTICOLORES
 
 categories:
 - Pastas
-
 ---
 Para 4 personas.
 

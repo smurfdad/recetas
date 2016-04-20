@@ -6,7 +6,6 @@ title: ENSALADA DE POLLO
 categories:
 - Ensaladas
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

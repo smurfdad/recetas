@@ -5,7 +5,6 @@ title: GRATINADO DE POLLO CON VERDURA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 2 personas.
 

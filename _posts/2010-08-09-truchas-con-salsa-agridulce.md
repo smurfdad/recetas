@@ -5,7 +5,6 @@ title: TRUCHAS CON SALSA AGRIDULCE
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

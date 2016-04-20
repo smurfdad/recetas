@@ -5,7 +5,6 @@ title: CARDILLOS O PALITOS DE ACELGA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

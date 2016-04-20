@@ -20,7 +20,6 @@ categories:
 
 - Pescados
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

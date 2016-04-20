@@ -5,7 +5,6 @@ title: MEDALLONES DE RAPE AL ROMESCU
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

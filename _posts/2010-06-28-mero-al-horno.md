@@ -5,7 +5,6 @@ title: MERO AL HORNO
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

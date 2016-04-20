@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Carnes y derivados
-
 ---
 Para 2 personas.
 <b>Tiempo</b> 60 minutos.

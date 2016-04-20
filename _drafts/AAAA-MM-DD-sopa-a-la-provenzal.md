@@ -20,7 +20,6 @@ categories:
 
 - Pescados
 - Sopas y cremas
-
 ---
 <h3>Ingredientes</h3>
 

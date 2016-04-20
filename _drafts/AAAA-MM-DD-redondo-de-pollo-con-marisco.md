@@ -21,7 +21,6 @@ categories:
 - Pescados
 - Mariscos y moluscos
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

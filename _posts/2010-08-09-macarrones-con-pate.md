@@ -5,7 +5,6 @@ title: MACARRONES CON PATÉ
 
 categories:
 - Pastas
-
 ---
 Para 4 personas.
 

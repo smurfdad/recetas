@@ -5,7 +5,6 @@ title: CARACOLES EN SALSA
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

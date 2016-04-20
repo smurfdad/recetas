@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Arroces
-
 ---
 Para 7 personas.
 

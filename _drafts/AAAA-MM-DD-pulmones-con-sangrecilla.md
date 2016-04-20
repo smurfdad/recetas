@@ -17,7 +17,6 @@ categories:
 - Sopas y cremas
 - Ensaladas
 - Setas y hongos
-
 ---
 Para 4 personas.
 

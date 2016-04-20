@@ -6,7 +6,6 @@ title: ARROZ CON PASAS Y GARBANZOS
 categories:
 - Verduras y legumbres
 - Arroces
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: LIEBRE CON AVELLANAS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

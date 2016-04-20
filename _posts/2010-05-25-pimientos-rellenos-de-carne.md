@@ -6,7 +6,6 @@ title: PIMIENTOS RELLENOS DE CARNE
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

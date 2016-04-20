@@ -5,7 +5,6 @@ title: PUDIN DE ZANAHORIAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

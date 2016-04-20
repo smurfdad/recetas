@@ -5,7 +5,6 @@ title: CALAMARES CON PATATAS
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

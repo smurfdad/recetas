@@ -5,7 +5,6 @@ title: CARDO CON NUEZ Y AJO
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

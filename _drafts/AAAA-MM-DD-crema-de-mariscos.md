@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
-
 ---
 <h3>Ingredientes</h3>
 

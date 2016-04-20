@@ -6,7 +6,6 @@ title: MEDALLONES DE LOMITO EN VINO TINTO Y MILHOJAS DE PATATAS
 categories:
 - Carnes y derivados
 - Setas y hongos
-
 ---
 <h3>Ingredientes</h3>
 

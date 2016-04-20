@@ -5,7 +5,6 @@ title: SALSA DIABLA
 
 categories:
 - Salsas
-
 ---
 Para 6 personas.
 

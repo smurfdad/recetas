@@ -5,7 +5,6 @@ title: LANGOSTINOS AL OLOROSO SEVILLANO
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: ARROZ AL HORNO
 
 categories:
 - Arroces
-
 ---
 <h3>Ingredientes</h3>
 

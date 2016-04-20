@@ -6,7 +6,6 @@ title: PASTEL DE PUERROS Y GAMBAS
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

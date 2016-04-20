@@ -5,7 +5,6 @@ title: BOSCH A LA POLONESA
 
 categories:
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

@@ -5,7 +5,6 @@ title: PALOMETA CON TOMATE
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

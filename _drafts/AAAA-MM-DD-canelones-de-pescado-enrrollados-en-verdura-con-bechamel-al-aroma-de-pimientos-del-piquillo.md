@@ -20,7 +20,6 @@ categories:
 - Setas y hongos
 
 - Pescados
-
 ---
 Para 4 personas.
 

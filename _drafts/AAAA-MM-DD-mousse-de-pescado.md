@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pescados
-
 ---
 Para 7 personas.
 <b>Tiempo</b> 50 minutos.

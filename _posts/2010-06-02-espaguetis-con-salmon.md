@@ -6,7 +6,6 @@ title: ESPAGUETIS CON SALMÓN
 categories:
 - Pescados
 - Pastas
-
 ---
 Para 1 personas.
 

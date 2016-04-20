@@ -20,7 +20,6 @@ categories:
 
 - Sopas y cremas
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

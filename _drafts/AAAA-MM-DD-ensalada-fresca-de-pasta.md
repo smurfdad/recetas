@@ -20,7 +20,6 @@ categories:
 
 - Ensaladas
 - Pastas
-
 ---
 <h3>Ingredientes</h3>
 

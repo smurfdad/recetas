@@ -6,7 +6,6 @@ title: CANELONES DE MARISCO
 categories:
 - Mariscos y moluscos
 - Pastas
-
 ---
 Para 6 personas.
 

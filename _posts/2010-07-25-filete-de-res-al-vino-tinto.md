@@ -5,7 +5,6 @@ title: FILETE DE RES AL VINO TINTO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

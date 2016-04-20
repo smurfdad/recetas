@@ -6,7 +6,6 @@ title: PENCAS DE ACELGAS CON JAMÓN COCIDO
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 2 personas.
 

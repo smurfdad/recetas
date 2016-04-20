@@ -6,7 +6,6 @@ title: ENSALADA DE LENGUADO
 categories:
 - Pescados
 - Ensaladas
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: MINESTRONE
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

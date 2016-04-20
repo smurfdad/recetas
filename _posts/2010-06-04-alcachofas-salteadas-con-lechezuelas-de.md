@@ -6,7 +6,6 @@ title: ALCACHOFAS SALTEADAS CON LECHEZUELAS DE CORDERO
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

@@ -6,7 +6,6 @@ title: MACARRONES Y FIDEOS CON MEJILLONES
 categories:
 - Mariscos y moluscos
 - Pastas
-
 ---
 Para 6 personas.
 

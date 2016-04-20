@@ -6,7 +6,6 @@ title: CREMA DE VAINAS DE GUISANTES
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
 ---
 Para 6 personas.
 

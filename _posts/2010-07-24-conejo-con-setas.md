@@ -5,7 +5,6 @@ title: CONEJO CON SETAS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

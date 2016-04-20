@@ -6,7 +6,6 @@ title: PAELLA DE CARNE
 categories:
 - Arroces
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: PUDIN DE CHATKA
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

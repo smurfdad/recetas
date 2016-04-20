@@ -6,7 +6,6 @@ title: ARROZ CON MORRONES DE COLORES
 categories:
 - Verduras y legumbres
 - Arroces
-
 ---
 Para 4 personas.
 

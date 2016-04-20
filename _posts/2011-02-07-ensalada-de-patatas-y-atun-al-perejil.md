@@ -6,7 +6,6 @@ title: ENSALADA DE PATATAS Y ATÚN AL PEREJIL
 categories:
 - Pescados
 - Ensaladas
-
 ---
 <h3>Ingredientes</h3>
 

@@ -5,7 +5,6 @@ title: BERENJENAS AL HORNO
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

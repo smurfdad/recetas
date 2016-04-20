@@ -7,7 +7,6 @@ categories:
 - Verduras y legumbres
 - Pastas
 - Setas y hongos
-
 ---
 Para 6 personas.
 

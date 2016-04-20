@@ -5,7 +5,6 @@ title: SARDINAS AL HORNO
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

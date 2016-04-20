@@ -20,7 +20,6 @@ categories:
 
 - Arroces
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

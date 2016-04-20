@@ -6,7 +6,6 @@ title: CREMA DE MANZANA CON MENTA
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 Para 4 personas.
 

@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Mariscos y moluscos
-
 ---
 Para 2 personas.
 

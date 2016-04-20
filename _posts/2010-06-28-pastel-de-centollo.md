@@ -5,7 +5,6 @@ title: PASTEL DE CENTOLLO
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

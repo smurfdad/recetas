@@ -5,7 +5,6 @@ title: ARMORONÍA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

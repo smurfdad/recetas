@@ -5,7 +5,6 @@ title: BACON ESPECIAL
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: BARCAS DE AGUACATE
 
 categories:
 - Frutas
-
 ---
 Para 4 personas.
 

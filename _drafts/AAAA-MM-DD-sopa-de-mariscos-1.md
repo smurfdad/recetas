@@ -20,7 +20,6 @@ categories:
 
 - Sopas y cremas
 - Mariscos y moluscos
-
 ---
 Para 10 personas.
 

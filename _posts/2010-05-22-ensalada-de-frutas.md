@@ -6,7 +6,6 @@ title: ENSALADA DE FRUTAS
 categories:
 - Ensaladas
 - Frutas
-
 ---
 Para 6 personas.
 

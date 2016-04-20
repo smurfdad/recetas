@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pastas
-
 ---
 <b>Tiempo</b> 15 minutos.
 

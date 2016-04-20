@@ -5,7 +5,6 @@ title: HÍGADO CON PATATAS EN SALSA DE ADOBO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

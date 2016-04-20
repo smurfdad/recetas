@@ -5,7 +5,6 @@ title: ESPAGUETIS AL PESTO
 
 categories:
 - Pastas
-
 ---
 Para 6 personas.
 

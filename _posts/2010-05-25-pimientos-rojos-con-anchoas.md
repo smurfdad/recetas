@@ -6,7 +6,6 @@ title: PIMIENTOS ROJOS CON ANCHOAS
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

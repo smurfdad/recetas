@@ -6,7 +6,6 @@ title: CANELONES DE BONITO
 categories:
 - Pescados
 - Pastas
-
 ---
 Para 6 personas.
 

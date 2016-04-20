@@ -5,7 +5,6 @@ title: CONGRIO AL AJO ARRIERO
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

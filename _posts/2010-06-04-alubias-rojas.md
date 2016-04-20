@@ -5,7 +5,6 @@ title: ALUBIAS ROJAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

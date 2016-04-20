@@ -6,7 +6,6 @@ title: ENSALADA DE FRUTAS DE TIEMPO
 categories:
 - Ensaladas
 - Frutas
-
 ---
 Para 6 personas.
 

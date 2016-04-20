@@ -5,7 +5,6 @@ title: RAPE A LA AMERICANA
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Ensaladas
-
 ---
 Para 2 personas.
 

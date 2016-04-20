@@ -5,7 +5,6 @@ title: PATATAS RELLENAS AL HORNO
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

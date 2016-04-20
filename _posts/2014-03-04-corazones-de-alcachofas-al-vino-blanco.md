@@ -5,7 +5,6 @@ title: CORAZONES DE ALCACHOFAS AL VINO BLANCO
 
 categories:
 - Verduras y legumbres
-
 ---
 <h3>Ingredientes</h3>
 

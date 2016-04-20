@@ -5,7 +5,6 @@ title: TARTARE DE BACALAO
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

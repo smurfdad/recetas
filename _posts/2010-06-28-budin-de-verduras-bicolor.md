@@ -5,7 +5,6 @@ title: BUDÍN DE VERDURAS BICOLOR
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

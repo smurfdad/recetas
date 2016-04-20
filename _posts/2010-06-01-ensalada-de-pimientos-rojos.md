@@ -5,7 +5,6 @@ title: ENSALADA DE PIMIENTOS ROJOS
 
 categories:
 - Ensaladas
-
 ---
 <h3>Ingredientes</h3>
 

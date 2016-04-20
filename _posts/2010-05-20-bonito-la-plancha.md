@@ -5,7 +5,6 @@ title: BONITO A LA PLANCHA
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

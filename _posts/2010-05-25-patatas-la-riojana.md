@@ -5,7 +5,6 @@ title: PATATAS A LA RIOJANA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

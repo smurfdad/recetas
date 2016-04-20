@@ -6,7 +6,6 @@ title: SOPA DE MELÓN
 categories:
 - Sopas y cremas
 - Frutas
-
 ---
 Para 8 personas.
 

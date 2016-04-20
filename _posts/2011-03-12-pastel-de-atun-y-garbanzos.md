@@ -6,7 +6,6 @@ title: PASTEL DE ATÚN Y GARBANZOS
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 10 personas.
 

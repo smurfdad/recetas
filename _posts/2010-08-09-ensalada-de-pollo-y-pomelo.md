@@ -7,7 +7,6 @@ categories:
 - Ensaladas
 - Carnes y derivados
 - Frutas
-
 ---
 Para 2 personas.
 

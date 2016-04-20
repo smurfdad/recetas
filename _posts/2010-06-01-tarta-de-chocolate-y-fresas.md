@@ -6,7 +6,6 @@ title: TARTA DE CHOCOLATE Y FRESAS
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 Para 4 personas.
 

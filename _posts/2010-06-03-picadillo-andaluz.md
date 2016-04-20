@@ -6,7 +6,6 @@ title: PICADILLO ANDALUZ
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: SOLOMILLO TIPO ROAST-BEEF
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

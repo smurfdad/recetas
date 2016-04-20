@@ -5,7 +5,6 @@ title: COLES DE BRUSELAS CON CASTAÑAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

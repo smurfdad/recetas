@@ -6,7 +6,6 @@ title: ARROZ CON POLLO A LA CUBANA
 categories:
 - Arroces
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

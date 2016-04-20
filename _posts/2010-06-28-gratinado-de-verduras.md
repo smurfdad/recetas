@@ -5,7 +5,6 @@ title: GRATINADO DE VERDURAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

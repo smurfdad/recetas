@@ -5,7 +5,6 @@ title: POLLO AL CURRY
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

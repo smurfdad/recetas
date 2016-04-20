@@ -6,7 +6,6 @@ title: ENSALADA TROPICAL
 categories:
 - Ensaladas
 - Frutas
-
 ---
 Para 4 personas.
 

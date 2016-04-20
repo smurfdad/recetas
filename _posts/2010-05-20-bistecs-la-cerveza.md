@@ -5,7 +5,6 @@ title: BISTECS A LA CERVEZA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

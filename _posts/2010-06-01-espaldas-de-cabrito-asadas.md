@@ -5,7 +5,6 @@ title: ESPALDAS DE CABRITO ASADAS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

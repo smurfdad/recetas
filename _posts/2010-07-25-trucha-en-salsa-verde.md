@@ -5,7 +5,6 @@ title: TRUCHA EN SALSA VERDE
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Pastas
-
 ---
 Para 6 personas.
 

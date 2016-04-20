@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pescados
-
 ---
 <b>Tiempo</b> 25 minutos.
 

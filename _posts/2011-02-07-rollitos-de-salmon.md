@@ -5,7 +5,6 @@ title: ROLLITOS DE SALMÓN
 
 categories:
 - Pescados
-
 ---
 <h3>Ingredientes</h3>
 

@@ -5,7 +5,6 @@ title: BONITO AL VINO Y AL LIMÓN
 
 categories:
 - Pescados
-
 ---
 Para 2 personas.
 

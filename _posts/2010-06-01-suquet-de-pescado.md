@@ -6,7 +6,6 @@ title: SUQUET DE PESCADO
 categories:
 - Pescados
 - Sopas y cremas
-
 ---
 Para 6 personas.
 

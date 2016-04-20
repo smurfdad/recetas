@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Ensaladas
-
 ---
 Para 6 personas.
 <b>Tiempo</b> 36 minutos.

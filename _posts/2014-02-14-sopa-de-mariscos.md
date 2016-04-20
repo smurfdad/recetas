@@ -6,7 +6,6 @@ title: SOPA DE MARISCOS
 categories:
 - Sopas y cremas
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

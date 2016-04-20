@@ -6,7 +6,6 @@ title: SOPA DE PESCADO A LA COSTA BRAVA
 categories:
 - Pescados
 - Sopas y cremas
-
 ---
 Para 6 personas.
 

@@ -4,7 +4,6 @@ layout: post
 title: VERDEL O CHICHARRO AHUMADOS
 
 categories: 
-
 ---
 Para 6 personas.
 

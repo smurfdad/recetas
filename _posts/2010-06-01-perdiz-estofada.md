@@ -5,7 +5,6 @@ title: PERDIZ ESTOFADA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 2 personas.
 

@@ -5,7 +5,6 @@ title: CHULETAS DE CERDO DE SANDINIÉS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

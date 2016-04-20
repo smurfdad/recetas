@@ -5,7 +5,6 @@ title: MELÓN CON JAMÓN
 
 categories:
 - Frutas
-
 ---
 Para 4 personas.
 

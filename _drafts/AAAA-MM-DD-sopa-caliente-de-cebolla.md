@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Sopas y cremas
-
 ---
 Para 6 personas.
 

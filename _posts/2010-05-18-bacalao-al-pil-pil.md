@@ -5,7 +5,6 @@ title: BACALAO AL PIL-PIL
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

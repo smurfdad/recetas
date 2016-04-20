@@ -5,7 +5,6 @@ title: BOLITAS DE COCO
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

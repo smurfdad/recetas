@@ -5,7 +5,6 @@ title: POLLO A LA INDIA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

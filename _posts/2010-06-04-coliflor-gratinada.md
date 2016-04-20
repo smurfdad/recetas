@@ -5,7 +5,6 @@ title: COLIFLOR GRATINADA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

@@ -6,7 +6,6 @@ title: LASAÑA DE SALMÓN
 categories:
 - Pescados
 - Pastas
-
 ---
 Para 4 personas.
 

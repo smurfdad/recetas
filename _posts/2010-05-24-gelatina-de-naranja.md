@@ -5,7 +5,6 @@ title: GELATINA DE NARANJA
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

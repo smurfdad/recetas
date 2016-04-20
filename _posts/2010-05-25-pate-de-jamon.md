@@ -5,7 +5,6 @@ title: PATE DE JAMÓN
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

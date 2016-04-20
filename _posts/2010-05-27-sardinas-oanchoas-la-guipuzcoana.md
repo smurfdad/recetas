@@ -5,7 +5,6 @@ title: SARDINAS O ANCHOAS A LA GUIPUZCOANA
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

@@ -6,7 +6,6 @@ title: FABES CON CALAMAR
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

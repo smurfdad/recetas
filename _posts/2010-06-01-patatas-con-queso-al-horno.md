@@ -6,7 +6,6 @@ title: PATATAS CON QUESO AL HORNO
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
-
 ---
 <h3>Ingredientes</h3>
 

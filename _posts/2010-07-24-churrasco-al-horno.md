@@ -5,7 +5,6 @@ title: CHURRASCO AL HORNO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

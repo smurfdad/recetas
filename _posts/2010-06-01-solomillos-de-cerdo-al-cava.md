@@ -5,7 +5,6 @@ title: SOLOMILLOS DE CERDO AL CAVA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

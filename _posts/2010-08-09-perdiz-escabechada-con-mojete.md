@@ -5,7 +5,6 @@ title: PERDÍZ ESCABECHADA CON MOJETE
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

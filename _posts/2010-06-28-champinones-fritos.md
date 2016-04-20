@@ -5,7 +5,6 @@ title: CHAMPIÑONES FRITOS
 
 categories:
 - Setas y hongos
-
 ---
 Para 4 personas.
 

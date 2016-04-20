@@ -5,7 +5,6 @@ title: PATATAS GRATINADAS CON QUESO GRUYERE
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

@@ -6,7 +6,6 @@ title: BONITO SALTEADO CON SOPAKO
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

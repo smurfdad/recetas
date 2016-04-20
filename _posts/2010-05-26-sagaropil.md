@@ -5,7 +5,6 @@ title: SAGAROPIL
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

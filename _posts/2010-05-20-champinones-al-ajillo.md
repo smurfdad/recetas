@@ -5,7 +5,6 @@ title: CHAMPIÑONES AL AJILLO
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

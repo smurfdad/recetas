@@ -5,7 +5,6 @@ title: REDONDO DE CARNE PICADA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

@@ -6,7 +6,6 @@ title: TIMBAL DE AJOS TIERNOS Y BACALAO
 categories:
 - Pescados
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

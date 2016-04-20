@@ -6,7 +6,6 @@ title: PASTEL DE TOMATES
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

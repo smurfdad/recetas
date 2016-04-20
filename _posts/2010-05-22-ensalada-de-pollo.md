@@ -5,7 +5,6 @@ title: ENSALADA DE POLLO
 
 categories:
 - Ensaladas
-
 ---
 Para 8 personas.
 

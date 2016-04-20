@@ -5,7 +5,6 @@ title: HUEVOS ESCALFADOS FIORENTINA
 
 categories:
 - Huevos y lacteos
-
 ---
 Para 4 personas.
 

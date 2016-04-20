@@ -6,7 +6,6 @@ title: MOUSAKA DE ACELGAS
 categories:
 - Verduras y legumbres
 - Setas y hongos
-
 ---
 Para 6 personas.
 

@@ -20,7 +20,6 @@ categories:
 
 - Arroces
 - Ensaladas
-
 ---
 Para 4 personas.
 <b>Tiempo</b> 60 minutos.

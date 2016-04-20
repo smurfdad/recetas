@@ -6,7 +6,6 @@ title: PIMIENTOS RELLENOS DE MARISCO
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
-
 ---
 <h3>Ingredientes</h3>
 

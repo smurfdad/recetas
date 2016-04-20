@@ -6,7 +6,6 @@ title: SOPA FRÍA DE MEJILLONES
 categories:
 - Sopas y cremas
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

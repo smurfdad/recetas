@@ -5,7 +5,6 @@ title: FILETES DE TXITXARRO EN SALSA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

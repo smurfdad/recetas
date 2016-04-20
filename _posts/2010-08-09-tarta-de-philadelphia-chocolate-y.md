@@ -5,7 +5,6 @@ title: TARTA DE PHILADELPHIA, CHOCOLATE Y NARANJA
 
 categories:
 - Postres y dulces
-
 ---
 Para 4 personas.
 

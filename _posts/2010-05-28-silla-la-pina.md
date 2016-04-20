@@ -6,7 +6,6 @@ title: SILLA A LA PIÑA
 categories:
 - Carnes y derivados
 - Frutas
-
 ---
 Para 8 personas.
 

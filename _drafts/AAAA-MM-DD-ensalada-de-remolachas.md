@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Ensaladas
-
 ---
 <b>Tiempo</b> 25 minutos.
 

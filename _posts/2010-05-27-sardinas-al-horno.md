@@ -5,7 +5,6 @@ title: SARDINAS AL HORNO
 
 categories:
 - Pescados
-
 ---
 Para 8 personas.
 

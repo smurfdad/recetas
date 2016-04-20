@@ -5,7 +5,6 @@ title: CHIPIRONES EN SU TINTA
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

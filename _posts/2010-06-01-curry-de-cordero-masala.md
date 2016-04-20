@@ -5,7 +5,6 @@ title: CURRY DE CORDERO MASALA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 10 personas.
 

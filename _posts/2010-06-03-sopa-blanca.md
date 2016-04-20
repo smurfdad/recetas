@@ -6,7 +6,6 @@ title: SOPA BLANCA
 categories:
 - Pescados
 - Sopas y cremas
-
 ---
 Para 4 personas.
 

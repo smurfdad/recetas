@@ -5,7 +5,6 @@ title: POLLO A LA CREMA CON DÁTILES
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

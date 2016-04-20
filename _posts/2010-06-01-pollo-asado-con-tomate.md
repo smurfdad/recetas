@@ -5,7 +5,6 @@ title: POLLO ASADO CON TOMATE
 
 categories:
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

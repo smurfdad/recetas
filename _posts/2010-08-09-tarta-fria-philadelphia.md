@@ -5,7 +5,6 @@ title: TARTA FRÍA PHILADELPHIA
 
 categories:
 - Postres y dulces
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: CHARLOTA DE BERENJENAS Y QUESO
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

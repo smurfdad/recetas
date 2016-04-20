@@ -5,7 +5,6 @@ title: MARMITAKO
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

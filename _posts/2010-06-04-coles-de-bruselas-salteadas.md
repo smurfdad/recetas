@@ -5,7 +5,6 @@ title: COLES DE BRUSELAS SALTEADAS
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

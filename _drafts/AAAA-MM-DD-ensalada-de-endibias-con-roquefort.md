@@ -20,7 +20,6 @@ categories:
 
 - Ensaladas
 - Pastas
-
 ---
 Para 6 personas.
 

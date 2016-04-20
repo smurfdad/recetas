@@ -7,7 +7,6 @@ categories:
 - Pescados
 - Verduras y legumbres
 - Arroces
-
 ---
 Para 2 personas.
 

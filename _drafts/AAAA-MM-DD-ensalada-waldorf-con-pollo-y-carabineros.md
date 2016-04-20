@@ -20,7 +20,6 @@ categories:
 
 - Ensaladas
 - Carnes y derivados
-
 ---
 Para 4 personas.
 <b>Tiempo</b> 60 minutos.

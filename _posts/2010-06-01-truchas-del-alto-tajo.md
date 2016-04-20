@@ -5,7 +5,6 @@ title: TRUCHAS DEL ALTO TAJO
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

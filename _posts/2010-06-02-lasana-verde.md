@@ -6,7 +6,6 @@ title: LASAÑA VERDE
 categories:
 - Verduras y legumbres
 - Pastas
-
 ---
 Para 6 personas.
 

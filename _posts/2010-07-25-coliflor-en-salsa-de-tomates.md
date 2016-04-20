@@ -5,7 +5,6 @@ title: COLIFLOR EN SALSA DE TOMATES
 
 categories:
 - Verduras y legumbres
-
 ---
 <h3>Ingredientes</h3>
 

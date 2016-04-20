@@ -5,7 +5,6 @@ title: PUDIN DE VERDURAS DEL TIEMPO
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

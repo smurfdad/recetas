@@ -5,7 +5,6 @@ title: MERO ASADO CON VINAGRETA DE TRUFA Y CEBOLLETA
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

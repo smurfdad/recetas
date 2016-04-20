@@ -5,7 +5,6 @@ title: CHULETA DE CERDO CON PANCETA Y QUESO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

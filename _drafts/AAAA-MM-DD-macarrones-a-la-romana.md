@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pastas
-
 ---
 Para 5 personas.
 

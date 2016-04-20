@@ -5,7 +5,6 @@ title: TALLARINES AL AJILLO
 
 categories:
 - Pastas
-
 ---
 Para 6 personas.
 

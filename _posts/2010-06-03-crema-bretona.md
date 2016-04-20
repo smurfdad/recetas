@@ -5,7 +5,6 @@ title: CREMA BRETONA
 
 categories:
 - Sopas y cremas
-
 ---
 Para 4 personas.
 

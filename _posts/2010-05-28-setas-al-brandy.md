@@ -5,7 +5,6 @@ title: SETAS AL BRANDY
 
 categories:
 - Setas y hongos
-
 ---
 Para 8 personas.
 

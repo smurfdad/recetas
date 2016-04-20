@@ -5,7 +5,6 @@ title: CHORIZOS A LA PUMAROLA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

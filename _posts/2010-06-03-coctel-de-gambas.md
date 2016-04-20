@@ -5,7 +5,6 @@ title: CÓCTEL DE GAMBAS
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 4 personas.
 

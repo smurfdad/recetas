@@ -5,7 +5,6 @@ title: ENSALADA PRINCESA
 
 categories:
 - Ensaladas
-
 ---
 Para 4 personas.
 

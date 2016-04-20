@@ -6,7 +6,6 @@ title: MILANESAS DE PAVO CON CHAMPIÑONES
 categories:
 - Carnes y derivados
 - Setas y hongos
-
 ---
 Para 6 personas.
 

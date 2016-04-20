@@ -5,7 +5,6 @@ title: POLLO ESPACIAL
 
 categories:
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>1 pollo cortado en ocho
 

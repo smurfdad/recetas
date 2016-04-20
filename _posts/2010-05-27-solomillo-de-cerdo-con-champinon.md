@@ -6,7 +6,6 @@ title: SOLOMILLO DE CERDO CON CHAMPIÑÓN
 categories:
 - Carnes y derivados
 - Setas y hongos
-
 ---
 Para 6 personas.
 

@@ -6,7 +6,6 @@ title: PUDDING DE FRUTAS
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 Para 6 personas.
 

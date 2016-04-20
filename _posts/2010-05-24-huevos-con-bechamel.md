@@ -5,7 +5,6 @@ title: HUEVOS CON BECHAMEL
 
 categories:
 - Huevos y lacteos
-
 ---
 Para 6 personas.
 

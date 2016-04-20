@@ -6,7 +6,6 @@ title: CROQUETAS DE MANZANA
 categories:
 - Postres y dulces
 - Frutas
-
 ---
 Para 4 personas.
 

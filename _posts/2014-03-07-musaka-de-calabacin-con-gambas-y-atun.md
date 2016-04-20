@@ -8,7 +8,6 @@ categories:
 - Verduras y legumbres
 - Mariscos y moluscos
 - Setas y hongos
-
 ---
 Para 4 personas.
 

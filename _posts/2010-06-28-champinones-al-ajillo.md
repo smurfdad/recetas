@@ -5,7 +5,6 @@ title: CHAMPIÑONES AL AJILLO
 
 categories:
 - Setas y hongos
-
 ---
 Para 2 personas.
 

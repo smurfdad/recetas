@@ -5,7 +5,6 @@ title: LANGOSTINOS COCIDOS
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 12 personas.
 

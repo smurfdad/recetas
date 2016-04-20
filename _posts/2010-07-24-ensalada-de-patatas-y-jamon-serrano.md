@@ -5,7 +5,6 @@ title: ENSALADA DE PATATAS Y JAMÓN SERRANO
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

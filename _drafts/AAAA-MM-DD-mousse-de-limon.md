@@ -18,7 +18,6 @@ categories:
 - Ensaladas
 - Setas y hongos
  
-
 ---
 Para 4 personas.
 <b>Tiempo</b> 6 minutos.

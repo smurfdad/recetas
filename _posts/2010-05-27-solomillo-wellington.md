@@ -6,7 +6,6 @@ title: SOLOMILLO WELLINGTON
 categories:
 - Carnes y derivados
 - Setas y hongos
-
 ---
 Para 6 personas.
 

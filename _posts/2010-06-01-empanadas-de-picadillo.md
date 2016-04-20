@@ -5,7 +5,6 @@ title: EMPANADAS DE PICADILLO
 
 categories:
 - Carnes y derivados
-
 ---
 <h3>Ingredientes</h3>
 

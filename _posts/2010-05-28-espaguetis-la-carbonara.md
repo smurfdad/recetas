@@ -5,7 +5,6 @@ title: ESPAGUETIS A LA CARBONARA
 
 categories:
 - Pastas
-
 ---
 Para 8 personas.
 

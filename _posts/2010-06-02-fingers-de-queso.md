@@ -5,7 +5,6 @@ title: FINGERS DE QUESO
 
 categories:
 - Entrantes y bocadillos
-
 ---
 Para 4 personas.
 

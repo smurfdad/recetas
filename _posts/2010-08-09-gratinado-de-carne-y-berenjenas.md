@@ -6,7 +6,6 @@ title: GRATINADO DE CARNE Y BERENJENAS
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

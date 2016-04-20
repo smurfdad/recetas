@@ -5,7 +5,6 @@ title: SALMÓN EN PAPILLOTE
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 

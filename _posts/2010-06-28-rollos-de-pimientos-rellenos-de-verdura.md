@@ -5,7 +5,6 @@ title: ROLLOS DE PIMIENTOS RELLENOS DE VERDURA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

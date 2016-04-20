@@ -5,7 +5,6 @@ title: FILETES DE BACALAO RELLENO DE SALMON
 
 categories:
 - Pescados
-
 ---
 Para 4 personas.
 

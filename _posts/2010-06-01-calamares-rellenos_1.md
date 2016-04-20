@@ -6,7 +6,6 @@ title: CALAMARES RELLENOS
 categories:
 - Mariscos y moluscos
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

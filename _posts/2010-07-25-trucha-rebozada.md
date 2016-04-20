@@ -5,7 +5,6 @@ title: TRUCHA REBOZADA
 
 categories:
 - Pescados
-
 ---
 Para 2 personas.
 

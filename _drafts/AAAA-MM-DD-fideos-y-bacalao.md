@@ -20,7 +20,6 @@ categories:
 
 - Pescados
 - Pastas
-
 ---
 Para 2 personas.
 

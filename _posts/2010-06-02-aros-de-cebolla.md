@@ -5,7 +5,6 @@ title: AROS DE CEBOLLA
 
 categories:
 - Entrantes y bocadillos
-
 ---
 Para 4 personas.
 

@@ -5,7 +5,6 @@ title: ENSALADA ESCANDINAVIA TROPICAL
 
 categories:
 - Ensaladas
-
 ---
 Para 6 personas.
 

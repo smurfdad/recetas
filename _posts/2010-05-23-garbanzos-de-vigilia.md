@@ -5,7 +5,6 @@ title: GARBANZOS DE VIGILIA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

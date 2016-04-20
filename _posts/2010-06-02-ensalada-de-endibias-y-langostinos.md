@@ -6,7 +6,6 @@ title: ENSALADA DE ENDIBIAS Y LANGOSTINOS
 categories:
 - Ensaladas
 - Mariscos y moluscos
-
 ---
 Para 2 personas.
 

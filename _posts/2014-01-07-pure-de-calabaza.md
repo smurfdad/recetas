@@ -6,7 +6,6 @@ title: PURÉ DE CALABAZA
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
 ---
 <h3>Ingredientes</h3>
 

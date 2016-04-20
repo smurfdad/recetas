@@ -5,7 +5,6 @@ title: COCIDO DE ALUBIAS BLANCAS CON BRÉCOL
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

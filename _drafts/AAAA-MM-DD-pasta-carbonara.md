@@ -19,7 +19,6 @@ categories:
 - Setas y hongos
 
 - Pastas
-
 ---
 Para 4 personas.
 <b>Tiempo</b> 54 minutos.

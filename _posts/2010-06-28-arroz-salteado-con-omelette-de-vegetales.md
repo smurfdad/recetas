@@ -6,7 +6,6 @@ title: ARROZ SALTEADO CON OMELETTE DE VEGETALES
 categories:
 - Verduras y legumbres
 - Arroces
-
 ---
 Para 7 personas.
 

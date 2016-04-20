@@ -5,7 +5,6 @@ title: ALCACHOFAS EN SALSA BLANCA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

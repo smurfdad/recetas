@@ -6,7 +6,6 @@ title: CUS CUS CON CARNE
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
 ---
 Para 8 personas.
 

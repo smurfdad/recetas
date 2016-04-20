@@ -5,7 +5,6 @@ title: TRUCHA FLORENTINE
 
 categories:
 - Pescados
-
 ---
 Para 2 personas.
 

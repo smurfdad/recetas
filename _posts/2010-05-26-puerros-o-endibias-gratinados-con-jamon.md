@@ -5,7 +5,6 @@ title: PUERROS O ENDIBIAS GRATINADOS CON JAMÓN
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

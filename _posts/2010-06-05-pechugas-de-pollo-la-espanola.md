@@ -5,7 +5,6 @@ title: PECHUGAS DE POLLO A LA ESPAÑOLA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

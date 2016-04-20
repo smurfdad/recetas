@@ -6,7 +6,6 @@ title: CANAPÉS DE QUESO
 categories:
 - Huevos y lacteos
 - Entrantes y bocadillos
-
 ---
 Para 6 personas.
 

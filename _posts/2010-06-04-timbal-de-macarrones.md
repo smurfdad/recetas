@@ -5,7 +5,6 @@ title: TIMBAL DE MACARRONES
 
 categories:
 - Pastas
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: COCIDO MENTIROSO
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 3 personas.
 

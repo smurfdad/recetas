@@ -5,7 +5,6 @@ title: PASTEL DE ESPINACAS
 
 categories:
 - Verduras y legumbres
-
 ---
 <h3>Ingredientes</h3>
 

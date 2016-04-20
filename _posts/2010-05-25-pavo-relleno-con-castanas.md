@@ -5,7 +5,6 @@ title: PAVO RELLENO CON CASTAÑAS
 
 categories:
 - Carnes y derivados
-
 ---
 Para 8 personas.
 

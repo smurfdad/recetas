@@ -6,7 +6,6 @@ title: ENSALADA VERDE CON LANGOSTINOS
 categories:
 - Ensaladas
 - Mariscos y moluscos
-
 ---
 Para 1 personas.
 

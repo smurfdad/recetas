@@ -5,7 +5,6 @@ title: SALSA VINAGRETA
 
 categories:
 - Salsas
-
 ---
 Para 6 personas.
 

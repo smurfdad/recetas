@@ -5,7 +5,6 @@ title: ACELGAS AL NATURAL
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 6 personas.
 

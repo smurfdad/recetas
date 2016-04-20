@@ -5,7 +5,6 @@ title: MORCILLO DE TERNERA GRATINADO EN OLLA A PRESIÓN
 
 categories:
 - Carnes y derivados
-
 ---
 Para 4 personas.
 

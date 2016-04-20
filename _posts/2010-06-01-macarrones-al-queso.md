@@ -5,7 +5,6 @@ title: MACARRONES AL QUESO
 
 categories:
 - Pastas
-
 ---
 <h3>Ingredientes</h3>
 

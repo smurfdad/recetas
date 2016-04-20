@@ -5,7 +5,6 @@ title: PUERROS A LA VINAGRETA
 
 categories:
 - Verduras y legumbres
-
 ---
 Para 4 personas.
 

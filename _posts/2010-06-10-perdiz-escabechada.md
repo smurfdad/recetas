@@ -5,7 +5,6 @@ title: PERDIZ ESCABECHADA
 
 categories:
 - Carnes y derivados
-
 ---
 Para 6 personas.
 

@@ -5,7 +5,6 @@ title: LANGOSTINOS A LA PLANCHA
 
 categories:
 - Mariscos y moluscos
-
 ---
 Para 6 personas.
 

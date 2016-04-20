@@ -5,7 +5,6 @@ title: CANELONES SUPREMA
 
 categories:
 - Pastas
-
 ---
 Para 5 personas.
 

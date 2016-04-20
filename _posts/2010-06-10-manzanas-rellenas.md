@@ -6,7 +6,6 @@ title: MANZANAS RELLENAS
 categories:
 - Carnes y derivados
 - Frutas
-
 ---
 Para 6 personas.
 

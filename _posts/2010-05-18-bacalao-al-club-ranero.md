@@ -5,7 +5,6 @@ title: BACALAO AL CLUB RANERO
 
 categories:
 - Pescados
-
 ---
 Para 6 personas.
 
