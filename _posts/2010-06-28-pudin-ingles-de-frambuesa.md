@@ -9,9 +9,7 @@ date: '2010-06-28T04:30:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Postres y dulces
-
 - Frutas
 
 modified_time: '2016-03-16T01:53:05.371-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:05.371-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3433377196684852040
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pudin-ingles-de-frambuesa.html
-
 ---
 
 Para 3 personas.

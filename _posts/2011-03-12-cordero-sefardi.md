@@ -9,7 +9,6 @@ date: '2011-03-12T02:27:00.002-08:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:52:34.347-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:34.347-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-765446577719969545
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/cordero-sefardi.html
-
 ---
 
 <h3>Ingredientes</h3>

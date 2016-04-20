@@ -9,7 +9,6 @@ date: '2010-05-26T09:50:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:53:15.683-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:15.683-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2209553523570750213
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/pudin-de-carne-picada.html
-
 ---
 
 Para 6 personas.

@@ -9,11 +9,8 @@ date: '2014-02-09T02:25:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Arroces
-
 - Ensaladas
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:33.744-07:00'
@@ -21,7 +18,6 @@ modified_time: '2016-03-16T01:52:33.744-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1292287892841577557
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/ensalada-de-arroz-con-mejillones.html
-
 ---
 
 Para 4 personas.

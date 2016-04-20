@@ -9,9 +9,7 @@ date: '2011-11-01T15:09:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
-
 - Setas y hongos
 
 modified_time: '2016-03-16T01:52:34.153-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.153-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8846254881105628748
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/11/pollo-con-setas-y-salsa-de-almendras.html
-
 ---
 
 Para 4 personas.

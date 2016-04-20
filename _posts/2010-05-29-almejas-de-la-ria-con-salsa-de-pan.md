@@ -9,7 +9,6 @@ date: '2010-05-29T14:12:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:53:14.688-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:14.688-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1074959007194088431
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/almejas-de-la-ria-con-salsa-de-pan.html
-
 ---
 
 Para 4 personas.

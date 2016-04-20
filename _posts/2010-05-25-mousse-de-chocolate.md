@@ -9,7 +9,6 @@ date: '2010-05-25T13:22:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Postres y dulces
 
 modified_time: '2016-03-16T01:53:15.829-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:15.829-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6078925558657061976
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/mousse-de-chocolate.html
-
 ---
 
 Para 4 personas.

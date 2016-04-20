@@ -9,7 +9,6 @@ date: '2010-06-01T11:16:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:53:14.230-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:14.230-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-311972928571520479
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/lomo-de-new-york-con-mantequilla-de.html
-
 ---
 
 Para 2 personas.

@@ -9,9 +9,7 @@ date: '2010-06-28T04:39:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Arroces
 
 modified_time: '2016-03-16T01:53:05.280-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:05.280-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-575395340099269949
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/arroz-con-morrones-de-colores.html
-
 ---
 
 Para 4 personas.

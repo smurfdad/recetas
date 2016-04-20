@@ -9,9 +9,7 @@ date: '2011-02-07T14:55:00.001-08:00'
 author: Smurf Dad
 
 categories:
-
 - Arroces
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:52:34.678-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.678-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5029281998467187521
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/arroz-al-bugs-bunny.html
-
 ---
 
 Para 4 personas.

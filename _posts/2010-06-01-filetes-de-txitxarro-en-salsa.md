@@ -9,7 +9,6 @@ date: '2010-06-01T13:27:00.002-07:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
 
 modified_time: '2016-03-16T01:53:13.892-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:13.892-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6305060768044533993
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/filetes-de-txitxarro-en-salsa.html
-
 ---
 
 Para 4 personas.

@@ -14,7 +14,6 @@ tags:
 - Queso crema
 ---
 <h3>Ingredientes</h3>
-
 - Cuatro manzanas deliciosas
 - Ocho cucharadas de azúcar
 - La cáscara de una naranja rallada

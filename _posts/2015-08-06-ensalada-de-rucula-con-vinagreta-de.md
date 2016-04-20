@@ -20,7 +20,6 @@ Para 4 personas.
 - 16 tomates cherry.
 
 Para la vinagreta:
-
 - 30 gramos de nueces peladas.
 - 30 gramos de pasas sin pepitas.
 - 1 cucharada sopera de azúcar.

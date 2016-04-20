@@ -9,7 +9,6 @@ date: '2010-08-09T03:00:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
 
 modified_time: '2016-03-16T01:52:56.406-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:56.406-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7532716413290099611
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/truchas-con-salsa-agridulce.html
-
 ---
 
 Para 4 personas.

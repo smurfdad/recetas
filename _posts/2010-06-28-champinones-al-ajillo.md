@@ -9,7 +9,6 @@ date: '2010-06-28T04:05:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Setas y hongos
 
 modified_time: '2016-03-16T01:53:05.605-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:05.605-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1229470745940414648
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/champinones-al-ajillo.html
-
 ---
 
 Para 2 personas.

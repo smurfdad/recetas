@@ -9,9 +9,7 @@ date: '2010-06-28T04:24:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Arroces
 
 modified_time: '2016-03-16T01:53:05.440-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:05.440-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1578908119573140230
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/arroz-salteado-con-omelette-de-vegetales.html
-
 ---
 
 Para 7 personas.

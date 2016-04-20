@@ -5,27 +5,19 @@ layout: post
 title: ANCHOAS REBOZADAS
 
 categories:
-
 - Pescados
 
 tags:
-
 - anchoas
-
 - huevo
-
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 - 1 Kg. anchoas
-
 - sal
-
 - harina
-
 - huevo batido
 
 <h3>Preparación</h3>

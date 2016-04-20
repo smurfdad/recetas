@@ -9,11 +9,8 @@ date: '2010-08-09T02:42:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Huevos y lacteos
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:52:56.614-07:00'
@@ -21,7 +18,6 @@ modified_time: '2016-03-16T01:52:56.614-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8535614916007165170
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/rollitos-de-york.html
-
 ---
 
 Para 4 personas.

@@ -5,47 +5,29 @@ layout: post
 title: ALUBIAS ROJAS
 
 categories:
-
 - Verduras y legumbres
 
 tags:
-
 - alubias
-
 - cebolla
-
 - pimentón
-
 - oliva
-
 - morcilla
-
 - chorizo
-
 - tocino blanco
-
 - costilla
-
 ---
 
 Para 10 personas.
 
 <h3>Ingredientes</h3>
-
 - 1 Kg. alubias
-
 - 1 cebolla
-
 - pimentón
-
 - oliva
-
 - 10 trozos de morcilla
-
 - 10 trozos de chorizo
-
 - 300 grs. tocino blanco
-
 - 1/2 Kg. costilla
 
 <h3>Preparación</h3>

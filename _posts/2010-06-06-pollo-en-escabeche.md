@@ -9,7 +9,6 @@ date: '2010-06-06T01:00:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:53:11.874-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:11.874-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5356471565130548603
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pollo-en-escabeche.html
-
 ---
 
 Para 4 personas.

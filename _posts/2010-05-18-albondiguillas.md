@@ -5,57 +5,34 @@ layout: post
 title: ALBONDIGUILLAS
 
 categories:
-
 - Carnes y derivados
 
 tags:
-
 - carne
-
 - sal
-
 - coñac
-
 - vino blanco
-
 - pimienta molida
-
 - nuez moscada
-
 - cebollas
-
 - harina
-
 - huevo
-
 - caldo concentrado
-
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 - 1/2 Kg. de carne picada
-
 - 1 trozo de miga de pan
-
 - sal
-
 - un chorrito de coñac
-
 - un chorro de vino blanco
-
 - una pizca de pimienta molida
-
 - una pizca de nuez moscada
-
 - 2 cebollas
-
 - harina
-
 - 1 huevo
-
 - 1 pastilla de caldo concentrado
 
 <h3>Preparación</h3>

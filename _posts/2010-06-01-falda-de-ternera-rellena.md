@@ -9,7 +9,6 @@ date: '2010-06-01T10:21:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:53:14.480-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:14.480-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8866968852983712730
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/falda-de-ternera-rellena.html
-
 ---
 
 Para 4 personas.

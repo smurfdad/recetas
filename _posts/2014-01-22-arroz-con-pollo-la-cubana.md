@@ -9,9 +9,7 @@ date: '2014-01-22T02:25:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Arroces
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:52:33.958-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:33.958-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4336645107800310310
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/arroz-con-pollo-la-cubana.html
-
 ---
 
 Para 4 personas.

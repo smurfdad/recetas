@@ -9,7 +9,6 @@ date: '2010-06-28T04:17:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Sopas y cremas
 
 modified_time: '2016-03-16T01:53:05.513-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:05.513-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5380612734676143358
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/migas-la-murciana.html
-
 ---
 
 Para 4 personas.

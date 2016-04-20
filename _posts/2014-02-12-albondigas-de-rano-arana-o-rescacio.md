@@ -9,7 +9,6 @@ date: '2014-02-12T02:25:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
 
 modified_time: '2016-03-16T01:52:33.713-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:33.713-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8179106712810869886
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/albondigas-de-rano-arana-o-rescacio.html
-
 ---
 
 Para 4 personas.

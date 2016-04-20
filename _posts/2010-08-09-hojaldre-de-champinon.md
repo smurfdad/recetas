@@ -9,7 +9,6 @@ date: '2010-08-09T03:25:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Setas y hongos
 
 modified_time: '2016-03-16T01:52:55.846-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:55.846-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6275034057378254356
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/hojaldre-de-champinon.html
-
 ---
 
 <h3>Ingredientes</h3>

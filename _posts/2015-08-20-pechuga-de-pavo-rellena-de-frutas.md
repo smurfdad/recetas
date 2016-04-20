@@ -23,7 +23,6 @@ Para 4 personas.
 - 1 1/4 kg. de pechuga de pavo con hueso.
 
 Para el relleno:
-
 - 1 cucharada de aceite
 - 1 cebolla finamente picada
 - 1 diente de ajo triturado
@@ -34,7 +33,6 @@ Para el relleno:
 - 2 naranjas peladas y cortadas en cubitos.
 
 Para barnizar:
-
 - 2 cucharadas de jalea o mermelada de moras
 - 1 cucharada de agua.
 

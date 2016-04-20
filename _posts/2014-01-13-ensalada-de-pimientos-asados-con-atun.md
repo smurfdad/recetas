@@ -9,11 +9,8 @@ date: '2014-01-13T23:00:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Verduras y legumbres
-
 - Ensaladas
 
 modified_time: '2016-03-16T01:52:34.039-07:00'
@@ -21,7 +18,6 @@ modified_time: '2016-03-16T01:52:34.039-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3863796525277334538
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/ensalada-de-pimientos-asados-con-atun.html
-
 ---
 
 Para 2 personas.

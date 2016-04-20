@@ -9,9 +9,7 @@ date: '2010-08-09T03:19:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:56.303-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:56.303-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-101409941048414985
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/pimientos-rellenos-de-marisco.html
-
 ---
 
 <h3>Ingredientes</h3>

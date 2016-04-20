@@ -9,7 +9,6 @@ date: '2010-07-24T15:30:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:52:56.910-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:56.910-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1399480842371020987
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/chuleta-de-cerdo-con-panceta-y-queso.html
-
 ---
 
 Para 4 personas.

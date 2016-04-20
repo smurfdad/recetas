@@ -9,11 +9,8 @@ date: '2014-02-04T02:25:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Sopas y cremas
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:33.796-07:00'
@@ -21,7 +18,6 @@ modified_time: '2016-03-16T01:52:33.796-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6216443719520471469
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/sopa-de-pescado-y-marisco.html
-
 ---
 
 Para 8 personas.

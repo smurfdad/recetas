@@ -9,9 +9,7 @@ date: '2011-03-12T02:27:00.004-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Pastas
 
 modified_time: '2016-03-16T01:52:34.368-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.368-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4699879577261024715
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/macarrones-con-bacalao.html
-
 ---
 
 Para 4 personas.

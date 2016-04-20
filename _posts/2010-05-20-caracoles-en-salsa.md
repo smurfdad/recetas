@@ -9,7 +9,6 @@ date: '2010-05-20T15:59:00.015-07:00'
 author: Smurf Dad
 
 categories:
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:53:16.628-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:16.628-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5744845036696214495
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/caracoles-en-salsa.html
-
 ---
 
 Para 6 personas.

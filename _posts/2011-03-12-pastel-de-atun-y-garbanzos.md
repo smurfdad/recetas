@@ -9,9 +9,7 @@ date: '2011-03-12T02:28:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Verduras y legumbres
 
 modified_time: '2016-03-16T01:52:34.313-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.313-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7317298920120979904
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/pastel-de-atun-y-garbanzos.html
-
 ---
 
 Para 10 personas.

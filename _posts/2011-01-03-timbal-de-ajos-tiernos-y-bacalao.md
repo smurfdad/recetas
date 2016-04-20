@@ -9,9 +9,7 @@ date: '2011-01-03T09:53:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Verduras y legumbres
 
 modified_time: '2016-03-16T01:52:34.917-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.917-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4347381542681529010
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/01/timbal-de-ajos-tiernos-y-bacalao.html
-
 ---
 
 Para 4 personas.

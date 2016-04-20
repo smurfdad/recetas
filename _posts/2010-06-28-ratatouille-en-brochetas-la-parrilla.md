@@ -9,7 +9,6 @@ date: '2010-06-28T04:12:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
 
 modified_time: '2016-03-16T01:53:05.551-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:05.551-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4428403229152578068
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/ratatouille-en-brochetas-la-parrilla.html
-
 ---
 
 Para 4 personas.

@@ -9,9 +9,7 @@ date: '2011-02-07T14:41:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Frutas
 
 modified_time: '2016-03-16T01:52:34.835-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.835-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6231246613919852275
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/filetes-con-mango-manila.html
-
 ---
 
 Para 6 personas.

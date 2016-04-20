@@ -26,7 +26,6 @@ Para 4 personas.
 - aceite para freír
 
 Salsa escalibada:
-
 - 1 pimiento rojo
 - 1 pimiento verde
 - 1 cebolla

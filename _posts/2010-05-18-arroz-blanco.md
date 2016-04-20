@@ -5,35 +5,23 @@ layout: post
 title: ARROZ BLANCO
 
 categories:
-
 - Arroces
 
 tags:
-
 - arroz
-
 - cebolla
-
 - zanahoria
-
 - limón
-
 ---
 
 Para 5 personas.
 
 <h3>Ingredientes</h3>
-
 - 1/5 Kg. arroz
-
 - aceite
-
 - 1 cebolla
-
 - 2 zanahorias
-
 - 1 l. agua o caldo
-
 - unas gotas zumo limón
 
 <h3>Preparación</h3>

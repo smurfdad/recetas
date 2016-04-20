@@ -9,7 +9,6 @@ date: '2010-05-24T19:45:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
 
 modified_time: '2016-03-16T01:53:15.950-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:15.950-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7770952278575610885
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/merluza-con-mayonesa.html
-
 ---
 
 Para 6 personas.

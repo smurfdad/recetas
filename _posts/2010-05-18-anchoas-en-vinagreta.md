@@ -5,29 +5,20 @@ layout: post
 title: ANCHOAS EN VINAGRETA
 
 categories:
-
 - Pescados
 
 tags:
-
 - anchoas
-
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 - 1/2 Kg. anchoas
-
 - 2 ajos picados
-
 - 1/2 vasito vinagre
-
 - 1/2 vasito aceite
-
 - 1 ramo de perejil picado
-
 - Sal
 
 <h3>Preparación</h3>

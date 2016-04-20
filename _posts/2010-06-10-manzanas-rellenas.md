@@ -9,9 +9,7 @@ date: '2010-06-10T15:37:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
-
 - Frutas
 
 modified_time: '2016-03-16T01:53:10.777-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:10.777-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7168008228579487227
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/manzanas-rellenas.html
-
 ---
 
 Para 6 personas.

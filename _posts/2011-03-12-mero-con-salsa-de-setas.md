@@ -9,9 +9,7 @@ date: '2011-03-12T02:20:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Setas y hongos
 
 modified_time: '2016-03-16T01:52:34.378-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.378-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-11443780852885299
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/mero-con-salsa-de-setas.html
-
 ---
 
 Para 4 personas.

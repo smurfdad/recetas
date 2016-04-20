@@ -9,7 +9,6 @@ date: '2010-06-01T10:24:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:53:14.435-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:14.435-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-8484277659962113169
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pollo-la-cazuela.html
-
 ---
 
 Para 4 personas.

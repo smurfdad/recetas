@@ -20,7 +20,6 @@ Para 4 personas.
 - 1 kilo de coliflor.
 
 Para la bechamel:
-
 - 1/2 litro de leche.
 - 40 gramos de margarina.
 - 40 gramos de harina.

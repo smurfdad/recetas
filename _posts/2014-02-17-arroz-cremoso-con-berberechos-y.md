@@ -9,9 +9,7 @@ date: '2014-02-17T02:25:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Arroces
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:33.654-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:33.654-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2815033931783087230
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/02/arroz-cremoso-con-berberechos-y.html
-
 ---
 
 Para 4 personas.

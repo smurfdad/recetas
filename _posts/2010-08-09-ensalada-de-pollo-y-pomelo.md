@@ -9,11 +9,8 @@ date: '2010-08-09T03:43:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Ensaladas
-
 - Carnes y derivados
-
 - Frutas
 
 modified_time: '2016-03-16T01:52:55.739-07:00'
@@ -21,7 +18,6 @@ modified_time: '2016-03-16T01:52:55.739-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7990939039087550046
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/ensalada-de-pollo-y-pomelo.html
-
 ---
 
 Para 2 personas.

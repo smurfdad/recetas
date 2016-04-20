@@ -9,7 +9,6 @@ date: '2014-03-04T01:00:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
 
 modified_time: '2016-03-16T01:52:33.538-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:33.538-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3129304270444178271
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/03/corazones-de-alcachofas-al-vino-blanco.html
-
 ---
 
 <h3>Ingredientes</h3>

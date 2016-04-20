@@ -9,9 +9,7 @@ date: '2010-06-04T10:42:00.002-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:53:12.671-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:12.671-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5968184019835296381
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/alcachofas-salteadas-con-lechezuelas-de.html
-
 ---
 
 Para 4 personas.

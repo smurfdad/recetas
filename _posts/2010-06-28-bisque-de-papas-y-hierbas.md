@@ -9,7 +9,6 @@ date: '2010-06-28T04:06:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
 
 modified_time: '2016-03-16T01:53:05.596-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:05.596-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6076407344800776723
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/bisque-de-papas-y-hierbas.html
-
 ---
 
 Para 4 personas.

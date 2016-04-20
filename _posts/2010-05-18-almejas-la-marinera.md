@@ -5,41 +5,26 @@ layout: post
 title: ALMEJAS A LA MARINERA
 
 categories:
-
 - Mariscos y moluscos
 
 tags:
-
 - almeja
-
 - ajo
-
 - vino blanco
-
 - harina
-
 - aceite
-
 - perejil
-
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 - 1 Kg. almejas grandes
-
 - 3 dientes de ajo
-
 - 1 chorrito de vino blanco
-
 - 2 cucharadas de pan rallado
-
 - 1 cucharada de harina
-
 - aceite
-
 - perejil
 
 <h3>Preparación</h3>

@@ -5,39 +5,25 @@ layout: post
 title: ALUBIAS BLANCAS - POCHAS
 
 categories:
-
 - Verduras y legumbres
 
 tags:
-
 - alubias blancas
-
 - pimienta negra
-
 - cebolla
-
 - ajo
-
 - aceite
-
 - pimentón
-
 ---
 
 Para 6 personas.
 
 <h3>Ingredientes</h3>
-
 - 1/2 Kg. alubias blancas (o de la granja, grandes)
-
 - 3 granos de pimienta negra
-
 - 1/2 cebolla grande
-
 - 1 ajo con piel
-
 - un chorrito aceite
-
 - 1 cucharadita pimentón
 
 <h3>Preparación</h3>

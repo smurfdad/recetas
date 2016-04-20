@@ -9,7 +9,6 @@ date: '2010-07-24T20:00:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:52:56.880-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:56.880-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1186033457219858863
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/07/fricando-de-ternera.html
-
 ---
 
 Para 4 personas.

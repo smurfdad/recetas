@@ -9,7 +9,6 @@ date: '2011-11-01T15:09:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:52:34.164-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:34.164-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-933170265187018421
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/11/carbonada-flamenca.html
-
 ---
 
 Para 6 personas.

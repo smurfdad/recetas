@@ -9,9 +9,7 @@ date: '2014-01-07T23:00:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Sopas y cremas
 
 modified_time: '2016-03-16T01:52:34.101-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.101-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-7437760856642470533
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/pure-de-calabaza.html
-
 ---
 
 <h3>Ingredientes</h3>

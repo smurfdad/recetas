@@ -9,7 +9,6 @@ date: '2011-03-12T02:32:00.001-08:00'
 author: Smurf Dad
 
 categories:
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:34.184-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:34.184-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1646220154010156411
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/coctel-de-gambas-con-pina.html
-
 ---
 
 <h3>Ingredientes</h3>

@@ -9,9 +9,7 @@ date: '2010-06-01T10:28:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Verduras y legumbres
 
 modified_time: '2016-03-16T01:53:14.382-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:14.382-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4539516559791221008
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/pimientos-rellenos-de-merluza.html
-
 ---
 
 Para 6 personas.

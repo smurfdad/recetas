@@ -9,7 +9,6 @@ date: '2011-02-07T14:54:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Postres y dulces
 
 modified_time: '2016-03-16T01:52:34.709-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:34.709-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-334748603441968915
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/miel-sobre-hojuelas.html
-
 ---
 
 Para 4 personas.

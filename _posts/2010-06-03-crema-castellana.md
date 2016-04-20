@@ -9,9 +9,7 @@ date: '2010-06-03T13:27:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Sopas y cremas
 
 modified_time: '2016-03-16T01:53:13.085-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:13.085-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3602646647819121886
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/crema-castellana.html
-
 ---
 
 Para 4 personas.

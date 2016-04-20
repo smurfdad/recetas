@@ -9,7 +9,6 @@ date: '2011-03-12T02:31:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:34.206-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:34.206-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2213621499539356154
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/03/cigalas-la-caribena.html
-
 ---
 
 Para 4 personas.

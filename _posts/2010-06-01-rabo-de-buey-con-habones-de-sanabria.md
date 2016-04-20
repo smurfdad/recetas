@@ -9,9 +9,7 @@ date: '2010-06-01T10:29:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Verduras y legumbres
-
 - Carnes y derivados
 
 modified_time: '2016-03-16T01:53:14.358-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:53:14.358-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-4372085711840443405
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/06/rabo-de-buey-con-habones-de-sanabria.html
-
 ---
 
 Para 4 personas.

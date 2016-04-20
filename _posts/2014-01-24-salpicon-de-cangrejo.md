@@ -9,7 +9,6 @@ date: '2014-01-24T02:25:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:33.933-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:33.933-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-2094602054393764135
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2014/01/salpicon-de-cangrejo.html
-
 ---
 
 Para 4 personas.

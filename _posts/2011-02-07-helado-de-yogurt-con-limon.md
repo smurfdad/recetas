@@ -9,9 +9,7 @@ date: '2011-02-07T15:13:00.001-08:00'
 author: Smurf Dad
 
 categories:
-
 - Huevos y lacteos
-
 - Postres y dulces
 
 modified_time: '2016-03-16T01:52:34.460-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:34.460-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-1131281351790699783
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2011/02/helado-de-yogurt-con-limon.html
-
 ---
 
 <h3>Ingredientes</h3>

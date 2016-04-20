@@ -9,7 +9,6 @@ date: '2013-01-06T23:00:00.000-08:00'
 author: Smurf Dad
 
 categories:
-
 - Mariscos y moluscos
 
 modified_time: '2016-03-16T01:52:34.142-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:52:34.142-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-5493851999258891326
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2013/01/pastel-de-gambas-y-mejillones.html
-
 ---
 
 <h3>Ingredientes</h3>

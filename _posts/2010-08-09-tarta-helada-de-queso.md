@@ -9,9 +9,7 @@ date: '2010-08-09T02:59:00.000-07:00'
 author: Smurf Dad
 
 categories:
-
 - Huevos y lacteos
-
 - Postres y dulces
 
 modified_time: '2016-03-16T01:52:56.429-07:00'
@@ -19,7 +17,6 @@ modified_time: '2016-03-16T01:52:56.429-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-370298518048137970
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/tarta-helada-de-queso.html
-
 ---
 
 Para 6 personas.

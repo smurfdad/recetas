@@ -9,11 +9,8 @@ date: '2010-08-09T03:19:00.001-07:00'
 author: Smurf Dad
 
 categories:
-
 - Pescados
-
 - Verduras y legumbres
-
 - Arroces
 
 modified_time: '2016-03-16T01:52:56.312-07:00'
@@ -21,7 +18,6 @@ modified_time: '2016-03-16T01:52:56.312-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-3915359689624379415
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/08/salpicon-de-arroz-con-verduras-y-trucha.html
-
 ---
 
 Para 2 personas.

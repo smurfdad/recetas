@@ -9,7 +9,6 @@ date: '2010-05-28T09:36:00.002-07:00'
 author: Smurf Dad
 
 categories:
-
 - Pastas
 
 modified_time: '2016-03-16T01:53:15.302-07:00'
@@ -17,7 +16,6 @@ modified_time: '2016-03-16T01:53:15.302-07:00'
 blogger_id: tag:blogger.com,1999:blog-5299957599287034512.post-6947128018377450947
 
 blogger_orig_url: http://recetas-desa.blogspot.com/2010/05/espaguetis-la-carbonara.html
-
 ---
 
 Para 8 personas.
