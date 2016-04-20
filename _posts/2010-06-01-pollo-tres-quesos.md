@@ -4,18 +4,9 @@ layout: post
 
 title: POLLO TRES QUESOS
 
-
-
-
-
 categories:
 - Huevos y lacteos
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

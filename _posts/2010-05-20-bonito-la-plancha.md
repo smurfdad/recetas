@@ -4,17 +4,8 @@ layout: post
 
 title: BONITO A LA PLANCHA
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

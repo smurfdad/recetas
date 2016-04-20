@@ -4,18 +4,9 @@ layout: post
 
 title: RABO DE BUEY CON HABONES DE SANABRIA
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

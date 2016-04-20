@@ -4,17 +4,8 @@ layout: post
 
 title: ROLLITOS DE POLLO
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

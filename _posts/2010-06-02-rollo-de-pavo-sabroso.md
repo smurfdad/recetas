@@ -4,17 +4,8 @@ layout: post
 
 title: ROLLO DE PAVO SABROSO
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

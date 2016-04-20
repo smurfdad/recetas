@@ -4,18 +4,9 @@ layout: post
 
 title: ESPAGUETIS CON ALMEJAS Y MEJILLONES
 
-
-
-
-
 categories:
 - Mariscos y moluscos
 - Pastas
-
-
-
-
-
 
 ---
 

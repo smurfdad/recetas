@@ -4,17 +4,8 @@ layout: post
 
 title: SOPA DE CEBOLLA
 
-
-
-
-
 categories:
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

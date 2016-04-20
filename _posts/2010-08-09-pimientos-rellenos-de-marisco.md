@@ -4,18 +4,9 @@ layout: post
 
 title: PIMIENTOS RELLENOS DE MARISCO
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

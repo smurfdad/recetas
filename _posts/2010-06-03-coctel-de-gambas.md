@@ -4,17 +4,8 @@ layout: post
 
 title: CÓCTEL DE GAMBAS
 
-
-
-
-
 categories:
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

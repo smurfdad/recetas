@@ -4,17 +4,8 @@ layout: post
 
 title: POLLO ASADO AL LIMÓN
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

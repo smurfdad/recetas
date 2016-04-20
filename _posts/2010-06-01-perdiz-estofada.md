@@ -4,17 +4,8 @@ layout: post
 
 title: PERDIZ ESTOFADA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: LENTEJAS A LA CREMA
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

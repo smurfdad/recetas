@@ -4,18 +4,9 @@ layout: post
 
 title: FILETES CON MANGO MANILA
 
-
-
-
-
 categories:
 - Pescados
 - Frutas
-
-
-
-
-
 
 ---
 

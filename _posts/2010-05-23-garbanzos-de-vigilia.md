@@ -4,17 +4,8 @@ layout: post
 
 title: GARBANZOS DE VIGILIA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: BRAZO DE GITANO
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

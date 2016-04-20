@@ -4,17 +4,8 @@ layout: post
 
 title: ALCACHOFAS EN SALSA BLANCA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

@@ -4,19 +4,10 @@ layout: post
 
 title: TORRIJAS CON MANZANA SALTEADA Y HELADO DE MANZANA
 
-
-
-
-
 categories:
 - Huevos y lacteos
 - Postres y dulces
 - Frutas
-
-
-
-
-
 
 ---
 

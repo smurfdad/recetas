@@ -4,17 +4,8 @@ layout: post
 
 title: ALCACHOFAS AL AJILLO
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

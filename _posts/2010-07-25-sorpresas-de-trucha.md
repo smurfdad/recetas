@@ -4,17 +4,8 @@ layout: post
 
 title: SORPRESAS DE TRUCHA
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

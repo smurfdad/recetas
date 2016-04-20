@@ -4,19 +4,10 @@ layout: post
 
 title: MENESTRA DE CORDERO
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
 - Setas y hongos
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: PASTEL DE PUERROS Y GAMBAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

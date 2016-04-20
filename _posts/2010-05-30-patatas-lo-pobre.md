@@ -4,17 +4,8 @@ layout: post
 
 title: PATATAS A LO POBRE
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

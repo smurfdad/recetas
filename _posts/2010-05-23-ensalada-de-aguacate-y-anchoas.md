@@ -4,19 +4,10 @@ layout: post
 
 title: ENSALADA DE AGUACATE Y ANCHOAS
 
-
-
-
-
 categories:
 - Pescados
 - Ensaladas
 - Frutas
-
-
-
-
-
 
 ---
 

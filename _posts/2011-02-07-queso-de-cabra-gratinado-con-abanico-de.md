@@ -4,18 +4,9 @@ layout: post
 
 title: QUESO DE CABRA GRATINADO CON ABANICO DE JAMÓN DE PATO Y TOMATE CONFITADO
 
-
-
-
-
 categories:
 - Huevos y lacteos
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: BROCHETTES DE LOMO Y CIRUELAS
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

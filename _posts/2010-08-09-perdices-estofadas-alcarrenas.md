@@ -4,17 +4,8 @@ layout: post
 
 title: PERDICES ESTOFADAS ALCARREÑAS
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

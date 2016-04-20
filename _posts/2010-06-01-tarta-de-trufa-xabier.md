@@ -4,17 +4,8 @@ layout: post
 
 title: TARTA DE TRUFA XABIER
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

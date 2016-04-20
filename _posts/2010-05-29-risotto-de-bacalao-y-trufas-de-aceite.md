@@ -4,18 +4,9 @@ layout: post
 
 title: RISOTTO DE BACALAO Y TRUFAS DE ACEITE DE OLIVA VIRGEN
 
-
-
-
-
 categories:
 - Pescados
 - Arroces
-
-
-
-
-
 
 ---
 

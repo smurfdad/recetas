@@ -4,17 +4,8 @@ layout: post
 
 title: PERDIZ ESCABECHADA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

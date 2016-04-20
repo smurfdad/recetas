@@ -4,17 +4,8 @@ layout: post
 
 title: PECHUGAS CON NATA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

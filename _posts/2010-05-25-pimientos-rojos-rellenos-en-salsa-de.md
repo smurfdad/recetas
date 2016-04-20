@@ -4,18 +4,9 @@ layout: post
 
 title: PIMIENTOS ROJOS RELLENOS EN SALSA DE CHIPIRÓN
 
-
-
-
-
 categories:
 - Pescados
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

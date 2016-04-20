@@ -4,17 +4,8 @@ layout: post
 
 title: POLLO A LA CREMA CON DÁTILES
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: FALDA DE TERNERA RELLENA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

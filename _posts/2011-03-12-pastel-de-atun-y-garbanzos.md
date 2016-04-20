@@ -4,18 +4,9 @@ layout: post
 
 title: PASTEL DE ATÚN Y GARBANZOS
 
-
-
-
-
 categories:
 - Pescados
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

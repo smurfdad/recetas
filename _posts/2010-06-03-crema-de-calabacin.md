@@ -4,18 +4,9 @@ layout: post
 
 title: CREMA DE CALABACÍN
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

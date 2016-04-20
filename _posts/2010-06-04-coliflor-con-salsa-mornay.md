@@ -4,17 +4,8 @@ layout: post
 
 title: COLIFLOR CON SALSA MORNAY
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

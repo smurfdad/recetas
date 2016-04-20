@@ -4,18 +4,9 @@ layout: post
 
 title: ARROZ CON MORRONES DE COLORES
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Arroces
-
-
-
-
-
 
 ---
 

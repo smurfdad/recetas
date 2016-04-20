@@ -4,17 +4,8 @@ layout: post
 
 title: COLIFLOR EN SALSA DE TOMATES
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

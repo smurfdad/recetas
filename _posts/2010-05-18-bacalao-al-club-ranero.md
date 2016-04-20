@@ -4,17 +4,8 @@ layout: post
 
 title: BACALAO AL CLUB RANERO
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

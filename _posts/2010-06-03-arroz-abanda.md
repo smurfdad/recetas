@@ -4,17 +4,8 @@ layout: post
 
 title: ARROZ ABANDA
 
-
-
-
-
 categories:
 - Arroces
-
-
-
-
-
 
 ---
 

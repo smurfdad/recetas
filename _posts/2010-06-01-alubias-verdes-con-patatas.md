@@ -4,17 +4,8 @@ layout: post
 
 title: ALUBIAS VERDES CON PATATAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

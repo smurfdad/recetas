@@ -4,17 +4,8 @@ layout: post
 
 title: PERDÍZ ESCABECHADA CON MOJETE
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

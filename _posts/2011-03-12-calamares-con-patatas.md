@@ -4,17 +4,8 @@ layout: post
 
 title: CALAMARES CON PATATAS
 
-
-
-
-
 categories:
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

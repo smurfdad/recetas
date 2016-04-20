@@ -4,17 +4,8 @@ layout: post
 
 title: PAVO CON MANDARINAS
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

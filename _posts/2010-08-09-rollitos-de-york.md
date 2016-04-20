@@ -4,19 +4,10 @@ layout: post
 
 title: ROLLITOS DE YORK
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

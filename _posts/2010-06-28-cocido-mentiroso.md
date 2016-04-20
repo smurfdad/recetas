@@ -4,17 +4,8 @@ layout: post
 
 title: COCIDO MENTIROSO
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

@@ -4,19 +4,10 @@ layout: post
 
 title: ENSALADA DE POLLO Y POMELO
 
-
-
-
-
 categories:
 - Ensaladas
 - Carnes y derivados
 - Frutas
-
-
-
-
-
 
 ---
 

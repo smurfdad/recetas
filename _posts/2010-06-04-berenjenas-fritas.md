@@ -4,17 +4,8 @@ layout: post
 
 title: BERENJENAS FRITAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

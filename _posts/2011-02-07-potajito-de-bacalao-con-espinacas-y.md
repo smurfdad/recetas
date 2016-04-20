@@ -4,18 +4,9 @@ layout: post
 
 title: POTAJITO DE BACALAO CON ESPINACAS Y GARBANZOS
 
-
-
-
-
 categories:
 - Pescados
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

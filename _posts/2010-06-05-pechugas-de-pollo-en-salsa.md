@@ -4,17 +4,8 @@ layout: post
 
 title: PECHUGAS DE POLLO EN SALSA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

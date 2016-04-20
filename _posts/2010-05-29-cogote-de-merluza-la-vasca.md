@@ -4,17 +4,8 @@ layout: post
 
 title: COGOTE DE MERLUZA A LA VASCA
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

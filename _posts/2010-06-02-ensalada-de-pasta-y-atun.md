@@ -4,19 +4,10 @@ layout: post
 
 title: ENSALADA DE PASTA Y ATÚN
 
-
-
-
-
 categories:
 - Pescados
 - Ensaladas
 - Pastas
-
-
-
-
-
 
 ---
 

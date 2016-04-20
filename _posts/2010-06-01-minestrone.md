@@ -4,17 +4,8 @@ layout: post
 
 title: MINESTRONE
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

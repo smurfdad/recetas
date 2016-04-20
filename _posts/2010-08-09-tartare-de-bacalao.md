@@ -4,17 +4,8 @@ layout: post
 
 title: TARTARE DE BACALAO
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

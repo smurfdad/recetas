@@ -4,17 +4,8 @@ layout: post
 
 title: MANTECADAS
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

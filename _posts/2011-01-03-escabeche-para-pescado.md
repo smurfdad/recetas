@@ -4,17 +4,8 @@ layout: post
 
 title: ESCABECHE PARA PESCADO
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: ACELGAS REHOGADAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

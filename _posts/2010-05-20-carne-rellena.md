@@ -4,17 +4,8 @@ layout: post
 
 title: CARNE RELLENA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

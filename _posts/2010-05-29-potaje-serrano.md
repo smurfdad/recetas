@@ -4,18 +4,9 @@ layout: post
 
 title: POTAJE SERRANO
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: BISTECS A LA CERVEZA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

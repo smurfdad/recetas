@@ -4,17 +4,8 @@ layout: post
 
 title: COSTILLAR DE CERDO CON TOMILLO
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

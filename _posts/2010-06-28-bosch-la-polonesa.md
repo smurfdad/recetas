@@ -4,17 +4,8 @@ layout: post
 
 title: BOSCH A LA POLONESA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

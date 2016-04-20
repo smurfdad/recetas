@@ -4,18 +4,9 @@ layout: post
 
 title: ALCACHOFAS CON FILETES EN SALSA
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: POLLO EN CHILINDRÓN A LA NAVARRA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

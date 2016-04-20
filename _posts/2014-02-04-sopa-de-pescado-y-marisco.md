@@ -4,19 +4,10 @@ layout: post
 
 title: SOPA DE PESCADO Y MARISCO
 
-
-
-
-
 categories:
 - Pescados
 - Sopas y cremas
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

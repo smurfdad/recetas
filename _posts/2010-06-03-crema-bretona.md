@@ -4,17 +4,8 @@ layout: post
 
 title: CREMA BRETONA
 
-
-
-
-
 categories:
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

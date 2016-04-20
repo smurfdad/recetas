@@ -4,17 +4,8 @@ layout: post
 
 title: TARTA DE PLÁTANO Y TRUFA
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

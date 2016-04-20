@@ -4,18 +4,9 @@ layout: post
 
 title: FRITOS DE PIMIENTOS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

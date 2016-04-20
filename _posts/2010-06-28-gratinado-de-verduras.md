@@ -4,17 +4,8 @@ layout: post
 
 title: GRATINADO DE VERDURAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

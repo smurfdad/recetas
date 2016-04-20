@@ -4,17 +4,8 @@ layout: post
 
 title: CARDILLOS O PALITOS DE ACELGA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

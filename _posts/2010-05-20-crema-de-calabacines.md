@@ -4,18 +4,9 @@ layout: post
 
 title: CREMA DE CALABACINES
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

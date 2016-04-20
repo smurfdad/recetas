@@ -4,17 +4,8 @@ layout: post
 
 title: POLLO ESPACIAL
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

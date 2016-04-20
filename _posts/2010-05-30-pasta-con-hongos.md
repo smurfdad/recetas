@@ -4,18 +4,9 @@ layout: post
 
 title: PASTA CON HONGOS
 
-
-
-
-
 categories:
 - Pastas
 - Setas y hongos
-
-
-
-
-
 
 ---
 

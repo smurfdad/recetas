@@ -4,17 +4,8 @@ layout: post
 
 title: CÓCTEL DE MARISCO
 
-
-
-
-
 categories:
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

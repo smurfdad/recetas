@@ -4,17 +4,8 @@ layout: post
 
 title: ARROZ FRITO CHINO
 
-
-
-
-
 categories:
 - Arroces
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: GAZPACHO CORDOBÉS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

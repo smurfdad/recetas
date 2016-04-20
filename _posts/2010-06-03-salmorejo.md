@@ -4,18 +4,9 @@ layout: post
 
 title: SALMOREJO
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

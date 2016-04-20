@@ -4,17 +4,8 @@ layout: post
 
 title: REDONDO DE CARNE PICADA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

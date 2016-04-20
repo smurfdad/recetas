@@ -4,17 +4,8 @@ layout: post
 
 title: LENTEJAS POSADERAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

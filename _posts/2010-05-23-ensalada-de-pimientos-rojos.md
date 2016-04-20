@@ -4,17 +4,8 @@ layout: post
 
 title: ENSALADA DE PIMIENTOS ROJOS
 
-
-
-
-
 categories:
 - Ensaladas
-
-
-
-
-
 
 ---
 

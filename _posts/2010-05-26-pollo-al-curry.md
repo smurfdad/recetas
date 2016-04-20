@@ -4,17 +4,8 @@ layout: post
 
 title: POLLO AL CURRY
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

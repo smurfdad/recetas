@@ -4,17 +4,8 @@ layout: post
 
 title: SARDINAS O ANCHOAS A LA GUIPUZCOANA
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

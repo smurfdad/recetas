@@ -4,18 +4,9 @@ layout: post
 
 title: PATATAS CON QUESO AL HORNO
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
-
-
-
-
-
 
 ---
 

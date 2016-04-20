@@ -4,17 +4,8 @@ layout: post
 
 title: PATE DE JAMÓN
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

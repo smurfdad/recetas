@@ -4,17 +4,8 @@ layout: post
 
 title: CARDOS A LA NAVARRA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

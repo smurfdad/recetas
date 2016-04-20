@@ -4,17 +4,8 @@ layout: post
 
 title: HABAS CON JAMÓN
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

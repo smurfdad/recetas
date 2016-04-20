@@ -4,18 +4,9 @@ layout: post
 
 title: SOPA DE HIGADILLOS
 
-
-
-
-
 categories:
 - Sopas y cremas
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

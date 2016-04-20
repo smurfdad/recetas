@@ -4,17 +4,8 @@ layout: post
 
 title: SOPA DE AJO
 
-
-
-
-
 categories:
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

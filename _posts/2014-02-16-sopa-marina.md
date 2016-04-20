@@ -4,19 +4,10 @@ layout: post
 
 title: SOPA MARINA
 
-
-
-
-
 categories:
 - Pescados
 - Sopas y cremas
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

@@ -4,19 +4,10 @@ layout: post
 
 title: LASAÑA DE POLLO Y HONGOS PORTOBELLO
 
-
-
-
-
 categories:
 - Carnes y derivados
 - Pastas
 - Setas y hongos
-
-
-
-
-
 
 ---
 

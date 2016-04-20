@@ -4,17 +4,8 @@ layout: post
 
 title: TRUCHA A LA PIMIENTA VERDE CON VODKA
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: SOPA MINESTRONE
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

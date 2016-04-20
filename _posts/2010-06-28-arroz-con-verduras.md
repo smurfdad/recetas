@@ -4,18 +4,9 @@ layout: post
 
 title: ARROZ CON VERDURAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Arroces
-
-
-
-
-
 
 ---
 

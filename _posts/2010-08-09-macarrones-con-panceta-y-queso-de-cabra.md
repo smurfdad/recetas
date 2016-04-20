@@ -4,17 +4,8 @@ layout: post
 
 title: MACARRONES CON PANCETA Y QUESO DE CABRA
 
-
-
-
-
 categories:
 - Pastas
-
-
-
-
-
 
 ---
 

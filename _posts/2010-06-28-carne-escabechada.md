@@ -4,17 +4,8 @@ layout: post
 
 title: CARNE ESCABECHADA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

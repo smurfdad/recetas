@@ -4,18 +4,9 @@ layout: post
 
 title: SILLA A LA PIÑA
 
-
-
-
-
 categories:
 - Carnes y derivados
 - Frutas
-
-
-
-
-
 
 ---
 

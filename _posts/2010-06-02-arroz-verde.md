@@ -4,17 +4,8 @@ layout: post
 
 title: ARROZ VERDE
 
-
-
-
-
 categories:
 - Arroces
-
-
-
-
-
 
 ---
 

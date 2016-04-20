@@ -4,17 +4,8 @@ layout: post
 
 title: BISQUE DE PAPAS Y HIERBAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

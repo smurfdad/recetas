@@ -4,17 +4,8 @@ layout: post
 
 title: TARTA DE NUECES
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

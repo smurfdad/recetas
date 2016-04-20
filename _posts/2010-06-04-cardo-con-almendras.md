@@ -4,17 +4,8 @@ layout: post
 
 title: CARDO CON ALMENDRAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

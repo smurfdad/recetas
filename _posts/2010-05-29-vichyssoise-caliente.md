@@ -4,17 +4,8 @@ layout: post
 
 title: VICHYSSOISE CALIENTE
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

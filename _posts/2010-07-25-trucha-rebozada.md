@@ -4,17 +4,8 @@ layout: post
 
 title: TRUCHA REBOZADA
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

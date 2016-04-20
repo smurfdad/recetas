@@ -4,17 +4,8 @@ layout: post
 
 title: COSTILLA DE CERDO CON MANZANAS
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: ARROZ SALTEADO CON OMELETTE DE VEGETALES
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Arroces
-
-
-
-
-
 
 ---
 

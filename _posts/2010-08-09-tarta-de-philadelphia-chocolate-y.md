@@ -4,17 +4,8 @@ layout: post
 
 title: TARTA DE PHILADELPHIA, CHOCOLATE Y NARANJA
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

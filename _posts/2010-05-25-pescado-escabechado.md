@@ -4,17 +4,8 @@ layout: post
 
 title: PESCADO ESCABECHADO
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

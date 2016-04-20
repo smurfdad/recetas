@@ -4,17 +4,8 @@ layout: post
 
 title: HÍGADO DE BUEY AL PAPRIKA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

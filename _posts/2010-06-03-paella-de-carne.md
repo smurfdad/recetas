@@ -4,18 +4,9 @@ layout: post
 
 title: PAELLA DE CARNE
 
-
-
-
-
 categories:
 - Arroces
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

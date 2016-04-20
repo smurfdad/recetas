@@ -4,17 +4,8 @@ layout: post
 
 title: ROLLOS DE PIMIENTOS RELLENOS DE VERDURA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

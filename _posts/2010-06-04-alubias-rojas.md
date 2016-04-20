@@ -4,17 +4,8 @@ layout: post
 
 title: ALUBIAS ROJAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

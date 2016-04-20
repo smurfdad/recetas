@@ -4,17 +4,8 @@ layout: post
 
 title: HAMBURGUESA SORPRESA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,16 +4,7 @@ layout: post
 
 title: VERDEL O CHICHARRO AHUMADOS
 
-
-
-
-
 categories: 
-
-
-
-
-
 
 ---
 

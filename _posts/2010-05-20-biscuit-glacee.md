@@ -4,17 +4,8 @@ layout: post
 
 title: BISCUIT GLACÉE
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

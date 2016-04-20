@@ -4,18 +4,9 @@ layout: post
 
 title: GRATINADO DE CARNE Y BERENJENAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

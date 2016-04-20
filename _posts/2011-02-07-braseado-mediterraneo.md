@@ -4,17 +4,8 @@ layout: post
 
 title: BRASEADO MEDITERRÁNEO
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

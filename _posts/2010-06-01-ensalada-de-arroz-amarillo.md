@@ -4,18 +4,9 @@ layout: post
 
 title: ENSALADA DE ARROZ AMARILLO
 
-
-
-
-
 categories:
 - Arroces
 - Ensaladas
-
-
-
-
-
 
 ---
 

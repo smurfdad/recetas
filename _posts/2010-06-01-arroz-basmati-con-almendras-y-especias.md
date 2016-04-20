@@ -4,17 +4,8 @@ layout: post
 
 title: ARROZ BASMATI CON ALMENDRAS Y ESPECIAS
 
-
-
-
-
 categories:
 - Arroces
-
-
-
-
-
 
 ---
 

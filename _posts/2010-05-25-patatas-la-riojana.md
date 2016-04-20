@@ -4,17 +4,8 @@ layout: post
 
 title: PATATAS A LA RIOJANA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

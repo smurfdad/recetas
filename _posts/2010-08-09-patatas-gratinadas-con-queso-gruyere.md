@@ -4,17 +4,8 @@ layout: post
 
 title: PATATAS GRATINADAS CON QUESO GRUYERE
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

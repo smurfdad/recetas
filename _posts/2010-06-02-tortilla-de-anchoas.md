@@ -4,18 +4,9 @@ layout: post
 
 title: TORTILLA DE ANCHOAS
 
-
-
-
-
 categories:
 - Pescados
 - Huevos y lacteos
-
-
-
-
-
 
 ---
 

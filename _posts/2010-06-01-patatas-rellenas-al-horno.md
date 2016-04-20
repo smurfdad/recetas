@@ -4,17 +4,8 @@ layout: post
 
 title: PATATAS RELLENAS AL HORNO
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

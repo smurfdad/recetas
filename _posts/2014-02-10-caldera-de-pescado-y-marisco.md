@@ -4,18 +4,9 @@ layout: post
 
 title: CALDERA DE PESCADO Y MARISCO
 
-
-
-
-
 categories:
 - Pescados
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

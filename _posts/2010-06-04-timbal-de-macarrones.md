@@ -4,17 +4,8 @@ layout: post
 
 title: TIMBAL DE MACARRONES
 
-
-
-
-
 categories:
 - Pastas
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: ALCACHOFAS CON ALMEJAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

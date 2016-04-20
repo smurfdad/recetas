@@ -4,16 +4,7 @@ layout: post
 
 title: CHANTILLY ESPUMOSO
 
-
-
-
-
 categories: 
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: BONITO SALTEADO CON SOPAKO
 
-
-
-
-
 categories:
 - Pescados
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

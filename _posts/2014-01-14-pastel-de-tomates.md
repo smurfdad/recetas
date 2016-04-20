@@ -4,18 +4,9 @@ layout: post
 
 title: PASTEL DE TOMATES
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

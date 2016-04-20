@@ -4,18 +4,9 @@ layout: post
 
 title: POLLO CON SETAS Y SALSA DE ALMENDRAS.
 
-
-
-
-
 categories:
 - Carnes y derivados
 - Setas y hongos
-
-
-
-
-
 
 ---
 

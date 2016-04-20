@@ -4,19 +4,10 @@ layout: post
 
 title: TALLARINES CON VERDURAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Pastas
 - Setas y hongos
-
-
-
-
-
 
 ---
 

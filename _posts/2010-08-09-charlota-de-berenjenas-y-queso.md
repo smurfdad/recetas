@@ -4,17 +4,8 @@ layout: post
 
 title: CHARLOTA DE BERENJENAS Y QUESO
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

@@ -4,19 +4,10 @@ layout: post
 
 title: ENSALADA DE MACARRONES CON SALCHICHAS
 
-
-
-
-
 categories:
 - Ensaladas
 - Carnes y derivados
 - Pastas
-
-
-
-
-
 
 ---
 

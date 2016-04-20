@@ -4,18 +4,9 @@ layout: post
 
 title: GRATINADO DE BACALAO FRESCO
 
-
-
-
-
 categories:
 - Pastas
 - Setas y hongos
-
-
-
-
-
 
 ---
 

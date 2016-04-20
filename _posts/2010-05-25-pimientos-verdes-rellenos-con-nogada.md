@@ -4,19 +4,10 @@ layout: post
 
 title: PIMIENTOS VERDES RELLENOS CON NOGADA
 
-
-
-
-
 categories:
 - Pescados
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

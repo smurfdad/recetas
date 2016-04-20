@@ -4,17 +4,8 @@ layout: post
 
 title: PASTEL DE JALEA
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

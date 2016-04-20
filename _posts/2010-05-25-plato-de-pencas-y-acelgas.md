@@ -4,17 +4,8 @@ layout: post
 
 title: PLATO DE PENCAS Y ACELGAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

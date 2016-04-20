@@ -4,18 +4,9 @@ layout: post
 
 title: CALABAZAS AL VAPOR
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

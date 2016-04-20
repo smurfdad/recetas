@@ -4,18 +4,9 @@ layout: post
 
 title: QUESO PHILADELPHIA CON FRESAS Y KIWI
 
-
-
-
-
 categories:
 - Huevos y lacteos
 - Frutas
-
-
-
-
-
 
 ---
 

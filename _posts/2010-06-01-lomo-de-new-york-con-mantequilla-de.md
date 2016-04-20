@@ -4,17 +4,8 @@ layout: post
 
 title: LOMO DE NEW YORK CON MANTEQUILLA DE QUESO STILTON
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

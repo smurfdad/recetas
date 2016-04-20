@@ -4,17 +4,8 @@ layout: post
 
 title: SOPA PORTUGUESA
 
-
-
-
-
 categories:
 - Sopas y cremas
-
-
-
-
-
 
 ---
 

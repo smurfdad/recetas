@@ -4,18 +4,9 @@ layout: post
 
 title: PASTEL DE MANZANA AL COULIS DE FRAMBUESAS
 
-
-
-
-
 categories:
 - Postres y dulces
 - Frutas
-
-
-
-
-
 
 ---
 

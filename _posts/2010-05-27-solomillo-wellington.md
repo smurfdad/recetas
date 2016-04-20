@@ -4,18 +4,9 @@ layout: post
 
 title: SOLOMILLO WELLINGTON
 
-
-
-
-
 categories:
 - Carnes y derivados
 - Setas y hongos
-
-
-
-
-
 
 ---
 

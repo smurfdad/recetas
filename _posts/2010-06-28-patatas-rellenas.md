@@ -4,17 +4,8 @@ layout: post
 
 title: PATATAS RELLENAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

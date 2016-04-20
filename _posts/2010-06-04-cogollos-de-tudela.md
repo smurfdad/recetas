@@ -4,17 +4,8 @@ layout: post
 
 title: COGOLLOS DE TUDELA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: CANELONES DE MARISCO AL PIMENTÓN
 
-
-
-
-
 categories:
 - Mariscos y moluscos
 - Pastas
-
-
-
-
-
 
 ---
 

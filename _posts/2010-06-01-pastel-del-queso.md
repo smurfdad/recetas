@@ -4,18 +4,9 @@ layout: post
 
 title: PASTEL DEL QUESO
 
-
-
-
-
 categories:
 - Huevos y lacteos
 - Postres y dulces
-
-
-
-
-
 
 ---
 

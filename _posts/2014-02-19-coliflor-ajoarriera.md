@@ -4,17 +4,8 @@ layout: post
 
 title: COLIFLOR AJOARRIERA
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

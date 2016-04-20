@@ -4,18 +4,9 @@ layout: post
 
 title: PICADILLO ANDALUZ
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Huevos y lacteos
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: FILETES DE TXITXARRO EN SALSA
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

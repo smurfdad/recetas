@@ -4,18 +4,9 @@ layout: post
 
 title: CROQUETAS DE POLLO
 
-
-
-
-
 categories:
 - Carnes y derivados
 - Entrantes y bocadillos
-
-
-
-
-
 
 ---
 

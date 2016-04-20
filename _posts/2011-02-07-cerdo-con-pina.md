@@ -4,18 +4,9 @@ layout: post
 
 title: CERDO CON PIÑA
 
-
-
-
-
 categories:
 - Carnes y derivados
 - Frutas
-
-
-
-
-
 
 ---
 

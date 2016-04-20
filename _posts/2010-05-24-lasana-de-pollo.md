@@ -4,18 +4,9 @@ layout: post
 
 title: LASAÑA DE POLLO
 
-
-
-
-
 categories:
 - Carnes y derivados
 - Pastas
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: PAELLA DE MARISCO
 
-
-
-
-
 categories:
 - Arroces
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

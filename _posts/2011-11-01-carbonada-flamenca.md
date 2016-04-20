@@ -4,17 +4,8 @@ layout: post
 
 title: CARBONADA FLAMENCA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

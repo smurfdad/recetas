@@ -4,17 +4,8 @@ layout: post
 
 title: MOUSSE DE CHOCOFRESA
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

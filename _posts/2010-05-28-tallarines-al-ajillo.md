@@ -4,17 +4,8 @@ layout: post
 
 title: TALLARINES AL AJILLO
 
-
-
-
-
 categories:
 - Pastas
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: SALSA DIABLA
 
-
-
-
-
 categories:
 - Salsas
-
-
-
-
-
 
 ---
 

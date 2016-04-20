@@ -4,18 +4,9 @@ layout: post
 
 title: BIZCOCHO DE MANZANA
 
-
-
-
-
 categories:
 - Postres y dulces
 - Frutas
-
-
-
-
-
 
 ---
 

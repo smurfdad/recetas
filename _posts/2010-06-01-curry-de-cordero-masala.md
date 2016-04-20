@@ -4,17 +4,8 @@ layout: post
 
 title: CURRY DE CORDERO MASALA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

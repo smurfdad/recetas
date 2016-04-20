@@ -4,17 +4,8 @@ layout: post
 
 title: ARROZ FRITO
 
-
-
-
-
 categories:
 - Arroces
-
-
-
-
-
 
 ---
 

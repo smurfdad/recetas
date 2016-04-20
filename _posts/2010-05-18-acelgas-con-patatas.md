@@ -4,10 +4,6 @@ layout: post
 
 title: ACELGAS CON PATATAS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 

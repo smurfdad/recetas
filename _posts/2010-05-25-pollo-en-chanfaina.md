@@ -4,17 +4,8 @@ layout: post
 
 title: POLLO EN CHANFAINA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: BROCHETAS DE POLLO Y PANCETA
 
-
-
-
-
 categories:
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

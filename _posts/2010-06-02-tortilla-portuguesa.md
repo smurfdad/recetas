@@ -4,17 +4,8 @@ layout: post
 
 title: TORTILLA PORTUGUESA
 
-
-
-
-
 categories:
 - Huevos y lacteos
-
-
-
-
-
 
 ---
 

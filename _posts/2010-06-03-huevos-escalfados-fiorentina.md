@@ -4,17 +4,8 @@ layout: post
 
 title: HUEVOS ESCALFADOS FIORENTINA
 
-
-
-
-
 categories:
 - Huevos y lacteos
-
-
-
-
-
 
 ---
 

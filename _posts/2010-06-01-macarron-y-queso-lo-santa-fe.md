@@ -4,17 +4,8 @@ layout: post
 
 title: MACARRÓN Y QUESO A LO SANTA FE
 
-
-
-
-
 categories:
 - Pastas
-
-
-
-
-
 
 ---
 

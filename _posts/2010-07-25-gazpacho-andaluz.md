@@ -4,17 +4,8 @@ layout: post
 
 title: GAZPACHO ANDALUZ
 
-
-
-
-
 categories:
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

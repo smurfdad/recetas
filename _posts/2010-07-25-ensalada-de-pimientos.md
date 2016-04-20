@@ -4,18 +4,9 @@ layout: post
 
 title: ENSALADA DE PIMIENTOS
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Ensaladas
-
-
-
-
-
 
 ---
 

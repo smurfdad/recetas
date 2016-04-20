@@ -4,19 +4,10 @@ layout: post
 
 title: ESPAGHETTI CON GUISANTES, SETAS Y CALABAZA
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Pastas
 - Setas y hongos
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: CREMA DE MANZANA CON MENTA
 
-
-
-
-
 categories:
 - Postres y dulces
 - Frutas
-
-
-
-
-
 
 ---
 

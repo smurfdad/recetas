@@ -4,17 +4,8 @@ layout: post
 
 title: ROLLITOS DE SALMÓN AHUMADO
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

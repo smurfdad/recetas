@@ -4,17 +4,8 @@ layout: post
 
 title: TARTA DE QUESO PHILADELPHIA CON BIZCOCHOS
 
-
-
-
-
 categories:
 - Postres y dulces
-
-
-
-
-
 
 ---
 

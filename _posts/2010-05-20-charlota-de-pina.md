@@ -4,18 +4,9 @@ layout: post
 
 title: CHARLOTA DE PIÑA
 
-
-
-
-
 categories:
 - Postres y dulces
 - Frutas
-
-
-
-
-
 
 ---
 

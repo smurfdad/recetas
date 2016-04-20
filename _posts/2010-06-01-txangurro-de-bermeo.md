@@ -4,17 +4,8 @@ layout: post
 
 title: TXANGURRO DE BERMEO
 
-
-
-
-
 categories:
 - Mariscos y moluscos
-
-
-
-
-
 
 ---
 

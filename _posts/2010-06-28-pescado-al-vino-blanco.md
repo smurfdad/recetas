@@ -4,17 +4,8 @@ layout: post
 
 title: PESCADO AL VINO BLANCO
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 

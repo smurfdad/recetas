@@ -4,17 +4,8 @@ layout: post
 
 title: CROQUETAS
 
-
-
-
-
 categories:
 - Entrantes y bocadillos
-
-
-
-
-
 
 ---
 

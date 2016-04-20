@@ -4,18 +4,9 @@ layout: post
 
 title: PIMIENTOS VERDES O ROJOS RELLENOS DE BACALAO
 
-
-
-
-
 categories:
 - Pescados
 - Verduras y legumbres
-
-
-
-
-
 
 ---
 

@@ -4,18 +4,9 @@ layout: post
 
 title: PIMIENTOS RELLENOS DE CARNE
 
-
-
-
-
 categories:
 - Verduras y legumbres
 - Carnes y derivados
-
-
-
-
-
 
 ---
 

@@ -4,17 +4,8 @@ layout: post
 
 title: MARMITAKO
 
-
-
-
-
 categories:
 - Pescados
-
-
-
-
-
 
 ---
 
