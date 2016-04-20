@@ -9,6 +9,8 @@ categories:
 tags:
 - Acelga
 - Patata
+- ajo
+- aceite de oliva
 ---
 <h3>Ingredientes</h3>
 - 1 1/2 Kg. acelgas
