@@ -6,7 +6,7 @@ title: PIMIENTOS RELLENOS DE ARROZ
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

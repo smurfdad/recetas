@@ -6,7 +6,7 @@ title: FILETES DE PAVO CON SALSA DE MANGO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

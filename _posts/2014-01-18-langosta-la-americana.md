@@ -6,7 +6,7 @@ title: LANGOSTA A LA AMERICANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

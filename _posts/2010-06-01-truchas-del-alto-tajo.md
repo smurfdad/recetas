@@ -6,7 +6,7 @@ title: TRUCHAS DEL ALTO TAJO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

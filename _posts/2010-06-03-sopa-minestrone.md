@@ -6,7 +6,7 @@ title: SOPA MINESTRONE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

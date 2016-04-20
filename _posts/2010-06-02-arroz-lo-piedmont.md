@@ -6,7 +6,7 @@ title: ARROZ A LO PIEDMONT
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

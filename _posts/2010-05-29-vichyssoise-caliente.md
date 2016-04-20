@@ -6,7 +6,7 @@ title: VICHYSSOISE CALIENTE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

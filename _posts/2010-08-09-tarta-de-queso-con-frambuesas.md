@@ -6,7 +6,7 @@ title: TARTA DE QUESO CON FRAMBUESAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

@@ -6,7 +6,7 @@ title: FRUTAS EN PAPILLOTE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Frutas

@@ -6,7 +6,7 @@ title: BERENJENAS FRITAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: REVUELTO MANCHEGO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: MERLUZA EN SALSA VERDE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: FILETES RELLENOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

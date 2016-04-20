@@ -6,7 +6,7 @@ title: TARTA DE CHOCOLATE Y FRESAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

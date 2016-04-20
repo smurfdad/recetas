@@ -6,7 +6,7 @@ title: ESPALDAS DE CABRITO ASADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: PUDÍN INGLÉS DE FRAMBUESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

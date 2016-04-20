@@ -6,7 +6,7 @@ title: ENSALADA DE JAMÓN SERRANO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

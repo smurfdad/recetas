@@ -6,7 +6,7 @@ title: MOUSSE DE CHOCOFRESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

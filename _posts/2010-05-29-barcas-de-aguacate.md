@@ -6,7 +6,7 @@ title: BARCAS DE AGUACATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Frutas

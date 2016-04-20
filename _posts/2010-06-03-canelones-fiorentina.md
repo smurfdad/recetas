@@ -6,7 +6,7 @@ title: CANELONES FIORENTINA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

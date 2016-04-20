@@ -6,7 +6,7 @@ title: PESCADILLA RELLENA DE CHAMPIÑONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

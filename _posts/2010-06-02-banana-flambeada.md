@@ -6,7 +6,7 @@ title: BANANA FLAMBEADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

@@ -6,7 +6,7 @@ title: ARROZ CON LECHE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

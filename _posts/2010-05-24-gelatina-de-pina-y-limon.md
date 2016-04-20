@@ -6,7 +6,7 @@ title: GELATINA DE PIÑA Y LIMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

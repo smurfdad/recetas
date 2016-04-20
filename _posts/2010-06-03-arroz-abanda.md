@@ -6,7 +6,7 @@ title: ARROZ ABANDA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

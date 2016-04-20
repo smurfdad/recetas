@@ -6,7 +6,7 @@ title: RODABALLO CON LANGOSTINOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

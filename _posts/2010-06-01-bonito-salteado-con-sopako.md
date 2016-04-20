@@ -6,7 +6,7 @@ title: BONITO SALTEADO CON SOPAKO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

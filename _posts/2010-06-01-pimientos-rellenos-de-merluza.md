@@ -6,7 +6,7 @@ title: PIMIENTOS RELLENOS DE MERLUZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

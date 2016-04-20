@@ -6,7 +6,7 @@ title: TRUCHAS LYLDIA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

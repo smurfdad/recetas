@@ -6,7 +6,7 @@ title: PERAS AL VINO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

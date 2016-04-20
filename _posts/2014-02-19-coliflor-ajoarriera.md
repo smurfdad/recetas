@@ -6,7 +6,7 @@ title: COLIFLOR AJOARRIERA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

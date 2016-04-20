@@ -6,7 +6,7 @@ title: RAPE CURRITO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: ESPAGUETIS CON SALMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

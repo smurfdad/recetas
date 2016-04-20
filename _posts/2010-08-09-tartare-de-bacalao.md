@@ -6,7 +6,7 @@ title: TARTARE DE BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: ESPAGUETIS A LA NAPOLITANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

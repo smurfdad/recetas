@@ -6,7 +6,7 @@ title: FILETES DE LUBINA A LA DENIA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

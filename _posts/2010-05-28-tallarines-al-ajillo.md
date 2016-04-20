@@ -6,7 +6,7 @@ title: TALLARINES AL AJILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

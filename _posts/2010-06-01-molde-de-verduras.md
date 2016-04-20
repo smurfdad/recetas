@@ -6,7 +6,7 @@ title: MOLDE DE VERDURAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

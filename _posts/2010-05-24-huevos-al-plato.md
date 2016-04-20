@@ -6,7 +6,7 @@ title: HUEVOS AL PLATO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

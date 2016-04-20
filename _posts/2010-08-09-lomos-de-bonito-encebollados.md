@@ -6,7 +6,7 @@ title: LOMOS DE BONITO ENCEBOLLADOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: COLES DE BRUSELAS CON CASTAÑAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

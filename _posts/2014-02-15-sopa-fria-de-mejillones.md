@@ -6,7 +6,7 @@ title: SOPA FRÍA DE MEJILLONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

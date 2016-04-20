@@ -6,7 +6,7 @@ title: PIMIENTOS RELLENOS DE CARNE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

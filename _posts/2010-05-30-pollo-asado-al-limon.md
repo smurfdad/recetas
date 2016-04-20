@@ -6,7 +6,7 @@ title: POLLO ASADO AL LIMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

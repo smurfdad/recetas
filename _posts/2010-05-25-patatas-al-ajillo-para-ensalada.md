@@ -6,7 +6,7 @@ title: PATATAS AL AJILLO PARA ENSALADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

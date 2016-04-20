@@ -6,7 +6,7 @@ title: FILETES DE TERNERA A LA CREMA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

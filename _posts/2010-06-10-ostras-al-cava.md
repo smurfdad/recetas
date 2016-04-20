@@ -6,7 +6,7 @@ title: OSTRAS AL CAVA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

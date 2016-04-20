@@ -6,7 +6,7 @@ title: PASTEL DEL QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

@@ -6,7 +6,7 @@ title: CONEJO CON ARROZ Y TRUFAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

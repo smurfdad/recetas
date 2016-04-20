@@ -6,7 +6,7 @@ title: ARROZ CON MORRONES DE COLORES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

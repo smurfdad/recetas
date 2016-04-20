@@ -6,7 +6,7 @@ title: MACARRONES CON BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

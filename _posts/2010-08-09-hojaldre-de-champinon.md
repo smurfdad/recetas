@@ -6,7 +6,7 @@ title: HOJALDRE DE CHAMPIÑÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Setas y hongos

@@ -6,7 +6,7 @@ title: CHULETAS DE CERDO AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: ACELGAS REHOGADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

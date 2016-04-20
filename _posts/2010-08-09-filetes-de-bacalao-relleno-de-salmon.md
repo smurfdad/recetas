@@ -6,7 +6,7 @@ title: FILETES DE BACALAO RELLENO DE SALMON
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

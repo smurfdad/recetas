@@ -6,7 +6,7 @@ title: PECHUGA EN SALSA MEDITERRÁNEA ACOMPAÑADA DE POLENTA CLÁSICA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

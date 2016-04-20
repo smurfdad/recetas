@@ -6,7 +6,7 @@ title: CHULETAS DE CERDO DE SANDINIÉS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

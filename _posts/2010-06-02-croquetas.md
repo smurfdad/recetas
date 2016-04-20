@@ -6,7 +6,7 @@ title: CROQUETAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Entrantes y bocadillos

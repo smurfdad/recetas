@@ -6,7 +6,7 @@ title: ESPAGUETIS AL PARMESANO CON PIMIENTA Y CURRY
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

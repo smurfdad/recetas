@@ -6,7 +6,7 @@ title: AROS DE CEBOLLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Entrantes y bocadillos

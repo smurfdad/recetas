@@ -6,7 +6,7 @@ title: CONEJO CON ALMENDRAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

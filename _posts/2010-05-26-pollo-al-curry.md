@@ -6,7 +6,7 @@ title: POLLO AL CURRY
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: PIMIENTOS ROJOS CON ANCHOAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

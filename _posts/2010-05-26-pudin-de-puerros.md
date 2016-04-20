@@ -6,7 +6,7 @@ title: PUDIN DE PUERROS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

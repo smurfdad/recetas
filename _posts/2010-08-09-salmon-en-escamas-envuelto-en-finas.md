@@ -6,7 +6,7 @@ title: SALMÓN EN ESCAMAS ENVUELTO EN FINAS RODAJAS DE PATATAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

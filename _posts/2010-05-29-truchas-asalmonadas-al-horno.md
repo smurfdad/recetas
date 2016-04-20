@@ -6,7 +6,7 @@ title: TRUCHAS ASALMONADAS AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

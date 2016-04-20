@@ -6,7 +6,7 @@ title: DORADA AL VINO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

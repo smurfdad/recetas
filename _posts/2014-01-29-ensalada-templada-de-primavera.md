@@ -6,7 +6,7 @@ title: ENSALADA TEMPLADA DE PRIMAVERA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

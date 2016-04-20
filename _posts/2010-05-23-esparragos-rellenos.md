@@ -6,7 +6,7 @@ title: ESPÁRRAGOS RELLENOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

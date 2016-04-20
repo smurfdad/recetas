@@ -6,7 +6,7 @@ title: PATATAS VIUDAS A LA RIOJANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

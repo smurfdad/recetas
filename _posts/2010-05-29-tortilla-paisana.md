@@ -6,7 +6,7 @@ title: TORTILLA PAISANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

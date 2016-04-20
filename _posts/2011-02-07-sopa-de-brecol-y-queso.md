@@ -6,7 +6,7 @@ title: SOPA DE BRECOL Y QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

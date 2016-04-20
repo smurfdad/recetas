@@ -6,7 +6,7 @@ title: MOUSSE DE AGUACATE CON NUECES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Frutas

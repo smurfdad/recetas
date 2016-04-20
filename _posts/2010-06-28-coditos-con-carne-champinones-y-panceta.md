@@ -6,7 +6,7 @@ title: CODITOS CON CARNE, CHAMPIÑONES Y PANCETA AHUMADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: CANELONES DE ATÚN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

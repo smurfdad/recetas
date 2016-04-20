@@ -6,7 +6,7 @@ title: CARDILLOS O PALITOS DE ACELGA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

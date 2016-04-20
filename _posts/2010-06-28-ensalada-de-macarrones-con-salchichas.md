@@ -6,7 +6,7 @@ title: ENSALADA DE MACARRONES CON SALCHICHAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

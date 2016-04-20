@@ -6,7 +6,7 @@ title: MUSAKA DE CALABACÍN CON GAMBAS Y ATÚN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

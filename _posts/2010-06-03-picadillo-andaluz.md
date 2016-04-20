@@ -6,7 +6,7 @@ title: PICADILLO ANDALUZ
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

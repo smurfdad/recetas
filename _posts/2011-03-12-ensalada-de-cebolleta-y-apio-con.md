@@ -6,7 +6,7 @@ title: ENSALADA DE CEBOLLETA Y APIO CON VINAGRETA DE MOSTAZA.
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

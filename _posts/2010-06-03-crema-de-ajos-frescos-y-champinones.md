@@ -6,7 +6,7 @@ title: CREMA DE AJOS FRESCOS Y CHAMPIÑONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

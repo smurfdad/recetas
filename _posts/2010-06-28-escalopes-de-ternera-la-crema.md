@@ -6,7 +6,7 @@ title: ESCALOPES DE TERNERA A LA CREMA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

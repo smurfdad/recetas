@@ -6,7 +6,7 @@ title: POLLO ESPACIAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: PATATAS A LO POBRE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

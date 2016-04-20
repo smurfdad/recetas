@@ -6,7 +6,7 @@ title: ALCACHOFAS CON ALMEJAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

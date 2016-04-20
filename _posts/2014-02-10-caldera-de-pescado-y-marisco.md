@@ -6,7 +6,7 @@ title: CALDERA DE PESCADO Y MARISCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

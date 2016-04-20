@@ -6,7 +6,7 @@ title: CANGREJOS DE RIO EN SALSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

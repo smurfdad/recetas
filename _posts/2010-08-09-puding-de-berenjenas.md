@@ -6,7 +6,7 @@ title: PUDING DE BERENJENAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

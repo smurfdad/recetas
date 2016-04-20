@@ -6,7 +6,7 @@ title: FUSSILLI CON AHUMADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

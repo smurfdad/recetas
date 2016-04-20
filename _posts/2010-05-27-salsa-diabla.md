@@ -6,7 +6,7 @@ title: SALSA DIABLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

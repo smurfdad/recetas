@@ -6,7 +6,7 @@ title: GRATINADO DE BACALAO FRESCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

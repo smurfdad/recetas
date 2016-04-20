@@ -6,7 +6,7 @@ title: MIL HOJAS DE FRESAS CON NATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

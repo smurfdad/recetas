@@ -6,7 +6,7 @@ title: BACALAO AL ESTILO DE MI ABUELA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

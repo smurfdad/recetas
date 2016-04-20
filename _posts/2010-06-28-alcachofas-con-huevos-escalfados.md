@@ -6,7 +6,7 @@ title: ALCACHOFAS CON HUEVOS ESCALFADOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

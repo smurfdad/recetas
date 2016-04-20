@@ -6,7 +6,7 @@ title: LASAÑA DE POLLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

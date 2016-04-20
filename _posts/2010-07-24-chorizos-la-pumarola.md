@@ -6,7 +6,7 @@ title: CHORIZOS A LA PUMAROLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

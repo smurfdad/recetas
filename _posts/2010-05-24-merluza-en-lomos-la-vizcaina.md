@@ -6,7 +6,7 @@ title: MERLUZA EN LOMOS A LA VIZCAÍNA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: PATATAS A LA RIOJANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

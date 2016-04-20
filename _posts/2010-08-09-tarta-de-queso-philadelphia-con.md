@@ -6,7 +6,7 @@ title: TARTA DE QUESO PHILADELPHIA CON BIZCOCHOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

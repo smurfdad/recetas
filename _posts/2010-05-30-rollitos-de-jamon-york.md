@@ -6,7 +6,7 @@ title: ROLLITOS DE JAMÓN YORK
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

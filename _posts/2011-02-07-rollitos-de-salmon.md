@@ -6,7 +6,7 @@ title: ROLLITOS DE SALMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

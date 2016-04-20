@@ -6,7 +6,7 @@ title: ALCACHOFAS GRATINADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

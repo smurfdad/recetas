@@ -6,7 +6,7 @@ title: SOLOMILLO AL CABRALES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

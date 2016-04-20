@@ -6,7 +6,7 @@ title: BUÑUELOS DE MANZANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

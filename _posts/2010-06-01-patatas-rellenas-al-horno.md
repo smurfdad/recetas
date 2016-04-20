@@ -6,7 +6,7 @@ title: PATATAS RELLENAS AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

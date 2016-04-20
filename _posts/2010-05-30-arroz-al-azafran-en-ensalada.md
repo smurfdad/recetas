@@ -6,7 +6,7 @@ title: ARROZ AL AZAFRÁN EN ENSALADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

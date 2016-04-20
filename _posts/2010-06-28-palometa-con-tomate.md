@@ -6,7 +6,7 @@ title: PALOMETA CON TOMATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

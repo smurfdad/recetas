@@ -6,7 +6,7 @@ title: POLLO A LA INDIA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

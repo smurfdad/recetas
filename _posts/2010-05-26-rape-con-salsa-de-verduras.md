@@ -6,7 +6,7 @@ title: RAPE CON SALSA DE VERDURAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

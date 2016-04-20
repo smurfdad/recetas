@@ -6,7 +6,7 @@ title: LOMOS DE MERLUZA RELLENOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

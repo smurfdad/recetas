@@ -6,7 +6,7 @@ title: BISQUE DE PAPAS Y HIERBAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

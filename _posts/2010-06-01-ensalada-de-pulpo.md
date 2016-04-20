@@ -6,7 +6,7 @@ title: ENSALADA DE PULPO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

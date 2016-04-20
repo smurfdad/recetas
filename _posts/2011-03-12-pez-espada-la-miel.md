@@ -6,7 +6,7 @@ title: PEZ ESPADA A LA MIEL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: CERDO CON PIÑA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

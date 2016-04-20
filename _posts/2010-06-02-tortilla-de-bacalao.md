@@ -6,7 +6,7 @@ title: TORTILLA DE BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

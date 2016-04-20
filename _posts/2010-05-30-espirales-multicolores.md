@@ -6,7 +6,7 @@ title: ESPIRALES MULTICOLORES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

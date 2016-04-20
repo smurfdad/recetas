@@ -6,7 +6,7 @@ title: FILETES DE TXITXARRO EN SALSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

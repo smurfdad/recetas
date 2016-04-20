@@ -6,7 +6,7 @@ title: MEJILLONES AL AROMA DE PIMIENTA VERDE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

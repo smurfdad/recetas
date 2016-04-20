@@ -6,7 +6,7 @@ title: POLLO A LA CAZUELA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

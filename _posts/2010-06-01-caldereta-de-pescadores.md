@@ -6,7 +6,7 @@ title: CALDERETA DE PESCADORES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

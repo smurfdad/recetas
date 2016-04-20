@@ -6,7 +6,7 @@ title: CREMA NAVARRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

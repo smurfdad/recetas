@@ -6,7 +6,7 @@ title: ROLLITOS DE JAMÓN CON ESPÁRRAGOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Entrantes y bocadillos

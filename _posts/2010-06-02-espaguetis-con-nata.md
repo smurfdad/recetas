@@ -6,7 +6,7 @@ title: ESPAGUETIS CON NATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

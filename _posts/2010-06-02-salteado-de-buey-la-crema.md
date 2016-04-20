@@ -6,7 +6,7 @@ title: SALTEADO DE BUEY A LA CREMA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

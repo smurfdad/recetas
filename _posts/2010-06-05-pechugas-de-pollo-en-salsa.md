@@ -6,7 +6,7 @@ title: PECHUGAS DE POLLO EN SALSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: ROLLITOS DE MERLUZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: BITOQUES DE TERNERA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

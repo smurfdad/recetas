@@ -6,7 +6,7 @@ title: ALBONDIGAS DE BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

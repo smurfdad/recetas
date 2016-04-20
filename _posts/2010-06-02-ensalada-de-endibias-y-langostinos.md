@@ -6,7 +6,7 @@ title: ENSALADA DE ENDIBIAS Y LANGOSTINOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

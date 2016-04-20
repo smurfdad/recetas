@@ -6,7 +6,7 @@ title: CÓCTEL DE GAMBAS CON PIÑA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

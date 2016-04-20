@@ -6,7 +6,7 @@ title: ENSALADA CALIENTE DE PATATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

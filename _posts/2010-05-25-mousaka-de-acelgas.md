@@ -6,7 +6,7 @@ title: MOUSAKA DE ACELGAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

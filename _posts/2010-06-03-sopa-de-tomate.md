@@ -6,7 +6,7 @@ title: SOPA DE TOMATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

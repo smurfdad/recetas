@@ -6,7 +6,7 @@ title: SOPA DE MELÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

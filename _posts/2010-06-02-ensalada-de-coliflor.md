@@ -6,7 +6,7 @@ title: ENSALADA DE COLIFLOR
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

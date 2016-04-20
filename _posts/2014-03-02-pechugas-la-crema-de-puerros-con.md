@@ -6,7 +6,7 @@ title: PECHUGAS A LA CREMA DE PUERROS CON PATATAS DORE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

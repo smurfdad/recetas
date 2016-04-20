@@ -6,7 +6,7 @@ title: ACELGAS AL NATURAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

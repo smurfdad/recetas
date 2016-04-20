@@ -6,7 +6,7 @@ title: CONEJO CON SETAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

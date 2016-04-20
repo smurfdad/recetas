@@ -6,7 +6,7 @@ title: EMPANADAS DE PICADILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

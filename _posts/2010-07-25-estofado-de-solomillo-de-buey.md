@@ -6,7 +6,7 @@ title: ESTOFADO DE SOLOMILLO DE BUEY
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

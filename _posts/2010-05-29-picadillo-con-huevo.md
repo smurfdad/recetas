@@ -6,7 +6,7 @@ title: PICADILLO CON HUEVO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

@@ -6,7 +6,7 @@ title: VIEIRAS Y OSTRAS AL CURRY
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

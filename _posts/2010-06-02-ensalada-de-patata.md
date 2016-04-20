@@ -6,7 +6,7 @@ title: ENSALADA DE PATATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

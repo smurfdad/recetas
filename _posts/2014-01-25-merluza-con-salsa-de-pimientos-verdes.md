@@ -6,7 +6,7 @@ title: MERLUZA CON SALSA DE PIMIENTOS VERDES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

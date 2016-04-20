@@ -6,7 +6,7 @@ title: PECHUGAS DE POLLO A LA ESPAÑOLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

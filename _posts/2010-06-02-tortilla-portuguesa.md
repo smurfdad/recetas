@@ -6,7 +6,7 @@ title: TORTILLA PORTUGUESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

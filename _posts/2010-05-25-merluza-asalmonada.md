@@ -6,7 +6,7 @@ title: MERLUZA ASALMONADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

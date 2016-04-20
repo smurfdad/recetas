@@ -6,7 +6,7 @@ title: EMPANADAS DE ESPINACAS Y RICOTTA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

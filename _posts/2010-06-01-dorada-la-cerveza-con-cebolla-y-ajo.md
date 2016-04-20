@@ -6,7 +6,7 @@ title: DORADA A LA CERVEZA, CON CEBOLLA Y AJO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

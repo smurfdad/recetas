@@ -6,7 +6,7 @@ title: CHEESECAKE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

@@ -6,7 +6,7 @@ title: ARROZ A LA CUBANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

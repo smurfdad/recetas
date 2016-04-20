@@ -6,7 +6,7 @@ title: ENDIVIAS CON ROQUEFORT Y  NUECES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

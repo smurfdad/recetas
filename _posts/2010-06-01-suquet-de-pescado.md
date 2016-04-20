@@ -6,7 +6,7 @@ title: SUQUET DE PESCADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

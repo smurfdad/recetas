@@ -6,7 +6,7 @@ title: LUBINA AL HORNO SOBRE CREMA DE VERDURAS Y REFRITO DE LIMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

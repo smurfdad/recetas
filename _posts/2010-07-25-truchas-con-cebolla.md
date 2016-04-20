@@ -6,7 +6,7 @@ title: TRUCHAS CON CEBOLLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

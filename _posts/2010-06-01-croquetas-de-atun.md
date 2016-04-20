@@ -6,7 +6,7 @@ title: CROQUETAS DE ATÚN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

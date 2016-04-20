@@ -6,7 +6,7 @@ title: GAZPACHO CORDOBÉS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

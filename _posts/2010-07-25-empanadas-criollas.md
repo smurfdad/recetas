@@ -6,7 +6,7 @@ title: EMPANADAS CRIOLLAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

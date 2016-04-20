@@ -6,7 +6,7 @@ title: ENSALADA DE ANGULAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

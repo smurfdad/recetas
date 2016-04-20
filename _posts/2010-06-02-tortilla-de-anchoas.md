@@ -6,7 +6,7 @@ title: TORTILLA DE ANCHOAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

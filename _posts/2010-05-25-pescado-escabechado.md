@@ -6,7 +6,7 @@ title: PESCADO ESCABECHADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

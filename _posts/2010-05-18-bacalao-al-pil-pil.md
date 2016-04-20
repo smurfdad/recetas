@@ -6,7 +6,7 @@ title: BACALAO AL PIL-PIL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

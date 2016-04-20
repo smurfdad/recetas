@@ -6,7 +6,7 @@ title: CUS CUS CON CARNE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: GUISANTES AL NATURAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: MARMITAKO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: SALSA ESPAÑOLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

@@ -6,7 +6,7 @@ title: PAVO RELLENO CON CASTAÑAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

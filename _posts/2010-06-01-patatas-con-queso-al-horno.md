@@ -6,7 +6,7 @@ title: PATATAS CON QUESO AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

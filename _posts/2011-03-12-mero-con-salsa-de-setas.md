@@ -6,7 +6,7 @@ title: MERO CON SALSA DE SETAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

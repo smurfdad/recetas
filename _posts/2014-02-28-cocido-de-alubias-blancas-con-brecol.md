@@ -6,7 +6,7 @@ title: COCIDO DE ALUBIAS BLANCAS CON BRÉCOL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

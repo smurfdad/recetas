@@ -6,7 +6,7 @@ title: HELADO DE TIRAMISÚ
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

@@ -6,7 +6,7 @@ title: LENGUA DE TERNERA AL VINO TINTO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

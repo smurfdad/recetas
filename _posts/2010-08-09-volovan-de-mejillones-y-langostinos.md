@@ -6,7 +6,7 @@ title: VOLOVÁN DE MEJILLONES Y LANGOSTINOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

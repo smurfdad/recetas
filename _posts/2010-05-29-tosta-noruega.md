@@ -6,7 +6,7 @@ title: TOSTA NORUEGA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: GAZPACHO EXTREMEÑO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

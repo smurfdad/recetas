@@ -6,7 +6,7 @@ title: FILETES CON MANGO MANILA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

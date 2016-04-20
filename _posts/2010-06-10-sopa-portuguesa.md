@@ -6,7 +6,7 @@ title: SOPA PORTUGUESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

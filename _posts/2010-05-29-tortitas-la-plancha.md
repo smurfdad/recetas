@@ -6,7 +6,7 @@ title: TORTITAS A LA PLANCHA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

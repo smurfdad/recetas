@@ -6,7 +6,7 @@ title: CIGALAS A LA CARIBEÑA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

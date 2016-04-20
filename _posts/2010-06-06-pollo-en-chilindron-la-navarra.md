@@ -6,7 +6,7 @@ title: POLLO EN CHILINDRÓN A LA NAVARRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

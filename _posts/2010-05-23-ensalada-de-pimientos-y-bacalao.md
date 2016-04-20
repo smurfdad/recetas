@@ -6,7 +6,7 @@ title: ENSALADA DE PIMIENTOS Y BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

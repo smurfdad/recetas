@@ -6,7 +6,7 @@ title: RABO DE BUEY EN SALSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

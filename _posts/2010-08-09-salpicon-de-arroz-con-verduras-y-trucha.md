@@ -6,7 +6,7 @@ title: SALPICÓN DE ARROZ CON VERDURAS Y TRUCHA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

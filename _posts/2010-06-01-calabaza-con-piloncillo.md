@@ -6,7 +6,7 @@ title: CALABAZA CON PILONCILLO.
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

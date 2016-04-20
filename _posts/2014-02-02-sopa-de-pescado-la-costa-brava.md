@@ -6,7 +6,7 @@ title: SOPA DE PESCADO A LA COSTA BRAVA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

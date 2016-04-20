@@ -6,7 +6,7 @@ title: BISTECS A LA CERVEZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

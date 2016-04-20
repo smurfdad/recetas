@@ -6,7 +6,7 @@ title: CREMA DE ESPINACAS CON HUEVOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

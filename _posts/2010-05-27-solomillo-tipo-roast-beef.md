@@ -6,7 +6,7 @@ title: SOLOMILLO TIPO ROAST-BEEF
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

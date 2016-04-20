@@ -6,7 +6,7 @@ title: BISCUIT GLACÉE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

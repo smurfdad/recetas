@@ -6,7 +6,7 @@ title: BROCHETTES DE LOMO Y CIRUELAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

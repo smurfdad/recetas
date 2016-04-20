@@ -6,7 +6,7 @@ title: ZANAHORIA MORUNA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

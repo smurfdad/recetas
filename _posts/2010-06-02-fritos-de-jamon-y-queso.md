@@ -6,7 +6,7 @@ title: FRITOS DE JAMÓN Y QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Entrantes y bocadillos

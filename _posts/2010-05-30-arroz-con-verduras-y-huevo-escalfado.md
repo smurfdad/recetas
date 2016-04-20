@@ -6,7 +6,7 @@ title: ARROZ CON VERDURAS Y HUEVO ESCALFADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

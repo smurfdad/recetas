@@ -6,7 +6,7 @@ title: TORRIJAS CON MANZANA SALTEADA Y HELADO DE MANZANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

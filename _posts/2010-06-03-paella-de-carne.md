@@ -6,7 +6,7 @@ title: PAELLA DE CARNE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

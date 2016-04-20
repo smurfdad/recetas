@@ -6,7 +6,7 @@ title: CHURRASCO AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: ARROZ CON MAGRO Y VERDURAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

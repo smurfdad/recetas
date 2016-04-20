@@ -6,7 +6,7 @@ title: SOPA DE RAPE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

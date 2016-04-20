@@ -6,7 +6,7 @@ title: BACON ESPECIAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

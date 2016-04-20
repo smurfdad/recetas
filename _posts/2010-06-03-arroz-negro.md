@@ -6,7 +6,7 @@ title: ARROZ NEGRO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

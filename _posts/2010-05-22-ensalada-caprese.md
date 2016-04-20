@@ -6,7 +6,7 @@ title: ENSALADA CAPRESE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

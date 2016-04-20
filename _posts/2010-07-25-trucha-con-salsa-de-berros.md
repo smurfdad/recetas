@@ -6,7 +6,7 @@ title: TRUCHA CON SALSA DE BERROS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

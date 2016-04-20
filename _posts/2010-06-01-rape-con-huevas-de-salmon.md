@@ -6,7 +6,7 @@ title: RAPE CON HUEVAS DE SALMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

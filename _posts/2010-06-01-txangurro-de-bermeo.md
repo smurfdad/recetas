@@ -6,7 +6,7 @@ title: TXANGURRO DE BERMEO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

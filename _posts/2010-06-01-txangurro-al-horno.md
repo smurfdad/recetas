@@ -6,7 +6,7 @@ title: TXANGURRO AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

@@ -6,7 +6,7 @@ title: HÍGADO DE BUEY AL PAPRIKA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

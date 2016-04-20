@@ -6,7 +6,7 @@ title: TORTILLA DE PATATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

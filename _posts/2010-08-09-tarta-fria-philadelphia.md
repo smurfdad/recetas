@@ -6,7 +6,7 @@ title: TARTA FRÍA PHILADELPHIA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

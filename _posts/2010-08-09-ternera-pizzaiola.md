@@ -6,7 +6,7 @@ title: TERNERA PIZZAIOLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

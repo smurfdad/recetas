@@ -6,7 +6,7 @@ title: COLES DE BRUSELAS SALTEADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

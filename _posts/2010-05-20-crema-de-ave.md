@@ -6,7 +6,7 @@ title: CREMA DE AVE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

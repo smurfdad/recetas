@@ -6,7 +6,7 @@ title: ENSALADA VERDE CON LANGOSTINOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

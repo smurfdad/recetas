@@ -6,7 +6,7 @@ title: HUEVOS REVUELTOS CON BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

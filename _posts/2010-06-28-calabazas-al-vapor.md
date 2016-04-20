@@ -6,7 +6,7 @@ title: CALABAZAS AL VAPOR
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

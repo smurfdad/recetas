@@ -6,7 +6,7 @@ title: RAPE EN SALSA DE PUERROS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

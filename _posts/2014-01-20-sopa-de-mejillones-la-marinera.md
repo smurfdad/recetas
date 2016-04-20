@@ -6,7 +6,7 @@ title: SOPA DE MEJILLONES A LA MARINERA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

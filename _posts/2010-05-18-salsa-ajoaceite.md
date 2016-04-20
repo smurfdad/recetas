@@ -6,7 +6,7 @@ title: SALSA AJOACEITE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

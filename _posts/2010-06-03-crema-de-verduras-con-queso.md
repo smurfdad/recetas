@@ -6,7 +6,7 @@ title: CREMA DE VERDURAS CON QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

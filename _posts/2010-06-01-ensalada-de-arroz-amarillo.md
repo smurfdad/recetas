@@ -6,7 +6,7 @@ title: ENSALADA DE ARROZ AMARILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

@@ -6,7 +6,7 @@ title: MERLUZA FRITA A LA BILBAÍNA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: SARDINAS AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

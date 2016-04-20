@@ -6,7 +6,7 @@ title: COMIDA DEL DIABLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

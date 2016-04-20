@@ -6,7 +6,7 @@ title: MOUSSE DE SALMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

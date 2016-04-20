@@ -6,7 +6,7 @@ title: PIPERRADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: SALMÓN EN PAPILLOTE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

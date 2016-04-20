@@ -6,7 +6,7 @@ title: CREMA DE CALABACINES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

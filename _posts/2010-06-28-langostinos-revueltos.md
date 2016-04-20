@@ -6,7 +6,7 @@ title: LANGOSTINOS REVUELTOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

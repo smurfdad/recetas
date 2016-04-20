@@ -6,7 +6,7 @@ title: ARROZ BASMATI CON ALMENDRAS Y ESPECIAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

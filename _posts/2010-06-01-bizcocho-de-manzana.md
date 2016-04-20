@@ -6,7 +6,7 @@ title: BIZCOCHO DE MANZANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

@@ -6,7 +6,7 @@ title: CREMA DE FRESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

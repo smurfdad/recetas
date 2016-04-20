@@ -6,7 +6,7 @@ title: CANELONES DE MARISCO AL PIMENTÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

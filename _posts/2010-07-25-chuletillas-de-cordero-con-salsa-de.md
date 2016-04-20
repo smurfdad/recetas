@@ -6,7 +6,7 @@ title: CHULETILLAS DE CORDERO CON SALSA DE MENTA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

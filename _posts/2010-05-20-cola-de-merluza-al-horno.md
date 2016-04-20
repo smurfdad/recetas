@@ -6,7 +6,7 @@ title: COLA DE MERLUZA AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

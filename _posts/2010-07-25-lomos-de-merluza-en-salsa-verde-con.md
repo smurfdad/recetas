@@ -6,7 +6,7 @@ title: LOMOS DE MERLUZA EN SALSA VERDE CON ALMEJAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

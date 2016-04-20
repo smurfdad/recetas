@@ -6,7 +6,7 @@ title: GELATINA DE NARANJA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

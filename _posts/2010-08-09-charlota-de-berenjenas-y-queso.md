@@ -6,7 +6,7 @@ title: CHARLOTA DE BERENJENAS Y QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

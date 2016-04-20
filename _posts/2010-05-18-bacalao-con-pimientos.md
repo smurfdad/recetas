@@ -6,7 +6,7 @@ title: BACALAO CON PIMIENTOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

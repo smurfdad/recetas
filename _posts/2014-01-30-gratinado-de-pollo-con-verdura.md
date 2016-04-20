@@ -6,7 +6,7 @@ title: GRATINADO DE POLLO CON VERDURA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: CONEJO AL VINO RANCIO CON SETAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

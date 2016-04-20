@@ -6,7 +6,7 @@ title: ESTOFADO DE MORCILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

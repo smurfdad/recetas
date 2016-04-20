@@ -6,7 +6,7 @@ title: PASTA A LAS FINAS HIERBAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

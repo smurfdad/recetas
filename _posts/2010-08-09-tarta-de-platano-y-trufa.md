@@ -6,7 +6,7 @@ title: TARTA DE PLÁTANO Y TRUFA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

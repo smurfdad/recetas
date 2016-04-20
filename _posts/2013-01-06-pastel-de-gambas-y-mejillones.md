@@ -6,7 +6,7 @@ title: PASTEL DE GAMBAS Y MEJILLONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

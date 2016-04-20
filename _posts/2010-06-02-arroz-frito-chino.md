@@ -6,7 +6,7 @@ title: ARROZ FRITO CHINO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

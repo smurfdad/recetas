@@ -6,7 +6,7 @@ title: BACALAO FRESCO CON ANCHOAS EN SALAZÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

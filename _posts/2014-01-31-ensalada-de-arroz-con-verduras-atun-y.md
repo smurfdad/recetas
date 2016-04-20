@@ -6,7 +6,7 @@ title: ENSALADA DE ARROZ CON VERDURAS, ATÚN Y JAMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

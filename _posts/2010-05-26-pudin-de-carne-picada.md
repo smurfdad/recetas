@@ -6,7 +6,7 @@ title: PUDIN DE CARNE PICADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

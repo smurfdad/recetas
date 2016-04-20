@@ -6,7 +6,7 @@ title: CORAZONES DE ALCACHOFAS AL VINO BLANCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: MUSLO DE POLLO RELLENO DE JAMÓN Y QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

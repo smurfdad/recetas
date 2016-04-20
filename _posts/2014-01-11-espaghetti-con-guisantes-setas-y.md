@@ -6,7 +6,7 @@ title: ESPAGHETTI CON GUISANTES, SETAS Y CALABAZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

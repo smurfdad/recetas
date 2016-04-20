@@ -6,7 +6,7 @@ title: COLIFLOR EN SALSA DE TOMATES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

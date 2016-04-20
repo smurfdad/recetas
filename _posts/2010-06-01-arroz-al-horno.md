@@ -6,7 +6,7 @@ title: ARROZ AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

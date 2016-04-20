@@ -6,7 +6,7 @@ title: SOPA DE AJO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

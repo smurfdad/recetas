@@ -6,7 +6,7 @@ title: CALAMARES CON PATATAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

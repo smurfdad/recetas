@@ -6,7 +6,7 @@ title: CARDOS A LA NAVARRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

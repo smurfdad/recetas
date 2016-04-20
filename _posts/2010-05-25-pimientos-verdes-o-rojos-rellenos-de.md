@@ -6,7 +6,7 @@ title: PIMIENTOS VERDES O ROJOS RELLENOS DE BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

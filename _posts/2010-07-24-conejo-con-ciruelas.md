@@ -6,7 +6,7 @@ title: CONEJO CON CIRUELAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

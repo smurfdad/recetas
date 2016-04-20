@@ -6,7 +6,7 @@ title: SALSA DE MANZANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

@@ -6,7 +6,7 @@ title: MERLUZA CON MAYONESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

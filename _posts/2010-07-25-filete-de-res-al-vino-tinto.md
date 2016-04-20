@@ -6,7 +6,7 @@ title: FILETE DE RES AL VINO TINTO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

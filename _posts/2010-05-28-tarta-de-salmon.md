@@ -6,7 +6,7 @@ title: TARTA DE SALMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

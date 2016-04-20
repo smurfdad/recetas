@@ -6,7 +6,7 @@ title: PECHUGAS DE POLLO AL ROQUEFORT
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

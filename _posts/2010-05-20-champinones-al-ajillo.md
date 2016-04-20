@@ -6,7 +6,7 @@ title: CHAMPIÑONES AL AJILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

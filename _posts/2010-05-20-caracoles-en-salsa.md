@@ -6,7 +6,7 @@ title: CARACOLES EN SALSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

@@ -6,7 +6,7 @@ title: BAÑO DE CHOCOLATE PARA ADORNOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

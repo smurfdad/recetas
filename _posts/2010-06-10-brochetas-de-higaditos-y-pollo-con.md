@@ -6,7 +6,7 @@ title: BROCHETAS DE HIGADITOS Y POLLO CON QUINOA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: TORTILLA SORPRESA (TORTILLA ALSAKA O SOUFFLÉ NORUEGO)
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

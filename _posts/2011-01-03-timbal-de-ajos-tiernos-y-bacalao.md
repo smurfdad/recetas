@@ -6,7 +6,7 @@ title: TIMBAL DE AJOS TIERNOS Y BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

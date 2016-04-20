@@ -6,7 +6,7 @@ title: SOPA DE CEBOLLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

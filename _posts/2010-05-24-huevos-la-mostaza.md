@@ -6,7 +6,7 @@ title: HUEVOS A LA MOSTAZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

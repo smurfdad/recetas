@@ -6,7 +6,7 @@ title: BUDÍN DE VERDURAS BICOLOR
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

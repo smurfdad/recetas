@@ -6,7 +6,7 @@ title: SOPA DE MARISCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

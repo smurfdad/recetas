@@ -6,7 +6,7 @@ title: VERDEL O CHICHARRO AHUMADOS
 
 
 
-author: Smurf Dad
+
 
 categories: 
 

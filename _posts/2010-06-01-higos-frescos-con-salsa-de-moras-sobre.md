@@ -6,7 +6,7 @@ title: HIGOS FRESCOS CON SALSA DE MORAS SOBRE BASE DE QUESO FRESCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Frutas

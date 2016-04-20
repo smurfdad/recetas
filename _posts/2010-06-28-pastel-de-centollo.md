@@ -6,7 +6,7 @@ title: PASTEL DE CENTOLLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

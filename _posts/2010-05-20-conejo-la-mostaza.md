@@ -6,7 +6,7 @@ title: CONEJO A LA MOSTAZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

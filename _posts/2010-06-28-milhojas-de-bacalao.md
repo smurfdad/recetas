@@ -6,7 +6,7 @@ title: MILHOJAS DE BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

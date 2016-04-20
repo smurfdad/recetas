@@ -6,7 +6,7 @@ title: PASTEL DE ATÚN Y GARBANZOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

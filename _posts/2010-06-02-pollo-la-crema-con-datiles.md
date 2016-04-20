@@ -6,7 +6,7 @@ title: POLLO A LA CREMA CON DÁTILES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

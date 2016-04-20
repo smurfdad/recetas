@@ -6,7 +6,7 @@ title: SOPA DE PESCADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: ROLLITOS DE JAMÓN RELLENOS DE ENSALADILLA RUSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

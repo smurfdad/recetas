@@ -6,7 +6,7 @@ title: CHULETA DE CERDO CON PANCETA Y QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

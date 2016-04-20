@@ -6,7 +6,7 @@ title: BRAZO DE GITANO RELLENO DE TRUFA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

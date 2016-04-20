@@ -6,7 +6,7 @@ title: SALMÓN EN SALSA DE UVAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

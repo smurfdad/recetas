@@ -6,7 +6,7 @@ title: ENSALADA DE MANZANAS, NUECES Y MELÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

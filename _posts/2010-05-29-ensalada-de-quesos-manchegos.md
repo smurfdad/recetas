@@ -6,7 +6,7 @@ title: ENSALADA DE QUESOS MANCHEGOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

@@ -6,7 +6,7 @@ title: ESPAGUETIS A LA VERMICHELLI
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

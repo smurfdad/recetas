@@ -6,7 +6,7 @@ title: CREMA SAN GERMAN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: TRUCHAS CON BACÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

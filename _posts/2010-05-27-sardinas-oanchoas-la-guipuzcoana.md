@@ -6,7 +6,7 @@ title: SARDINAS O ANCHOAS A LA GUIPUZCOANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

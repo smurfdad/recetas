@@ -6,7 +6,7 @@ title: BONITO A LA PLANCHA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

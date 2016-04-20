@@ -6,7 +6,7 @@ title: PESCADO A LA CAZUELA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

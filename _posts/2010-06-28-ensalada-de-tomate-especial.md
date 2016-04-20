@@ -6,7 +6,7 @@ title: ENSALADA DE TOMATE ESPECIAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

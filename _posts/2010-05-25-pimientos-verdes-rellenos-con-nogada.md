@@ -6,7 +6,7 @@ title: PIMIENTOS VERDES RELLENOS CON NOGADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

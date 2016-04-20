@@ -6,7 +6,7 @@ title: COGOTE DE MERLUZA A LA VASCA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

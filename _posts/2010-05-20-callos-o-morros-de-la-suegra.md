@@ -6,7 +6,7 @@ title: CALLOS O MORROS DE LA SUEGRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

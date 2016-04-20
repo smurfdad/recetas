@@ -6,7 +6,7 @@ title: BERZA ASADA CON JAMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

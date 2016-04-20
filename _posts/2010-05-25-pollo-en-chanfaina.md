@@ -6,7 +6,7 @@ title: POLLO EN CHANFAINA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

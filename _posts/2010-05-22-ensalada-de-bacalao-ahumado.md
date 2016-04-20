@@ -6,7 +6,7 @@ title: ENSALADA DE BACALAO AHUMADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

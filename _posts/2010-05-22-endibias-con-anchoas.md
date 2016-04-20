@@ -6,7 +6,7 @@ title: ENDIBIAS CON ANCHOAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

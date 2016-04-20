@@ -6,7 +6,7 @@ title: BIZCOCHO CON FRUTOS SECOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

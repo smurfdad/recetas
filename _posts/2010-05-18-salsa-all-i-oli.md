@@ -6,7 +6,7 @@ title: SALSA ALL-I-OLI
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

@@ -6,7 +6,7 @@ title: TOMATES RELLENOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

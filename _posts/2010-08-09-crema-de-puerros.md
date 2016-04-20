@@ -6,7 +6,7 @@ title: CREMA DE PUERROS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: LIEBRE CON AVELLANAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

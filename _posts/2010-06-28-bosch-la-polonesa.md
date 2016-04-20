@@ -6,7 +6,7 @@ title: BOSCH A LA POLONESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: MACARRONES CON PANCETA Y QUESO DE CABRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

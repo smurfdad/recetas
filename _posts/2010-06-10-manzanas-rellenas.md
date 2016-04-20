@@ -6,7 +6,7 @@ title: MANZANAS RELLENAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

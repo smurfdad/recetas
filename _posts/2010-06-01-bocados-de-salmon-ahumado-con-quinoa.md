@@ -6,7 +6,7 @@ title: BOCADOS DE SALMÓN AHUMADO CON QUINOA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

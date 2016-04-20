@@ -6,7 +6,7 @@ title: ROLLITOS DE YORK
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

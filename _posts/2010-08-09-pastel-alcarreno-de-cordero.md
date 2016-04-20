@@ -6,7 +6,7 @@ title: PASTEL ALCARREÑO DE CORDERO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

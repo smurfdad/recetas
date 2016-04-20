@@ -6,7 +6,7 @@ title: TRUCHA FLORENTINE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

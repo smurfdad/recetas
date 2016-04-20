@@ -6,7 +6,7 @@ title: CHIPIRONES EN SU TINTA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

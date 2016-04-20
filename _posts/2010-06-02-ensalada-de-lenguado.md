@@ -6,7 +6,7 @@ title: ENSALADA DE LENGUADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

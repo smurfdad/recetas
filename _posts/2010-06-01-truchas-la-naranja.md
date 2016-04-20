@@ -6,7 +6,7 @@ title: TRUCHAS A LA NARANJA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

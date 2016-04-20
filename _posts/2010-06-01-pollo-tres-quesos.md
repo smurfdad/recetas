@@ -6,7 +6,7 @@ title: POLLO TRES QUESOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

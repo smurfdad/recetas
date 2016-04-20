@@ -6,7 +6,7 @@ title: CANELONES DE BONITO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

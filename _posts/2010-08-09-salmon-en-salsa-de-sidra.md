@@ -6,7 +6,7 @@ title: SALMÓN EN SALSA DE SIDRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

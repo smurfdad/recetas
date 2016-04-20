@@ -6,7 +6,7 @@ title: PASTEL DE MANZANA AL COULIS DE FRAMBUESAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

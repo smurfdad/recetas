@@ -6,7 +6,7 @@ title: MERLUZA CON SALSA CHILI
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

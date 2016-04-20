@@ -6,7 +6,7 @@ title: PIMIENTOS RELLENOS DE CHATKA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

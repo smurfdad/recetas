@@ -6,7 +6,7 @@ title: ENSALADA PRINCESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

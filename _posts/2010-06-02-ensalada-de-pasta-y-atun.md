@@ -6,7 +6,7 @@ title: ENSALADA DE PASTA Y ATÚN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

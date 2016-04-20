@@ -6,7 +6,7 @@ title: PERDIZ ESTOFADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

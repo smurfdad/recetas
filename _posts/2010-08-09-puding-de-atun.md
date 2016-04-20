@@ -6,7 +6,7 @@ title: PUDING DE ATÚN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

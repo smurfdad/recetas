@@ -6,7 +6,7 @@ title: ENSALADA DE ARROZ SALVAJE CON ALCACHOFAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

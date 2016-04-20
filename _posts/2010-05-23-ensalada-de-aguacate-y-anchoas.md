@@ -6,7 +6,7 @@ title: ENSALADA DE AGUACATE Y ANCHOAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

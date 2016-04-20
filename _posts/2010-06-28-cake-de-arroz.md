@@ -6,7 +6,7 @@ title: CAKE DE ARROZ
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

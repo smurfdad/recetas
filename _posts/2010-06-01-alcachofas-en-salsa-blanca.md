@@ -6,7 +6,7 @@ title: ALCACHOFAS EN SALSA BLANCA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

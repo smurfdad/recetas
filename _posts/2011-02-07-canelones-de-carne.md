@@ -6,7 +6,7 @@ title: CANELONES DE CARNE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

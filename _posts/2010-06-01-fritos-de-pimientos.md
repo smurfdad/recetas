@@ -6,7 +6,7 @@ title: FRITOS DE PIMIENTOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

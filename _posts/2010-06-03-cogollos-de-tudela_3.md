@@ -6,7 +6,7 @@ title: COGOLLOS DE TUDELA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

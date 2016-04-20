@@ -6,7 +6,7 @@ title: MILANESAS DE PAVO CON CHAMPIÑONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

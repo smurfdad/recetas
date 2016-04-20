@@ -6,7 +6,7 @@ title: ENSALADA DE AGUACATE Y PINA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

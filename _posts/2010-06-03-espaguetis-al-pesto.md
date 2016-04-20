@@ -6,7 +6,7 @@ title: ESPAGUETIS AL PESTO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

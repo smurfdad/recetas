@@ -6,7 +6,7 @@ title: LANGOSTINOS AL OLOROSO SEVILLANO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

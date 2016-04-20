@@ -6,7 +6,7 @@ title: CARNE ESCABECHADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: TARTA TEMPLADA DE QUESO IDIAZABAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

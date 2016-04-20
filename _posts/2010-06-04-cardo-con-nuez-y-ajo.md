@@ -6,7 +6,7 @@ title: CARDO CON NUEZ Y AJO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

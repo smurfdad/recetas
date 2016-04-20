@@ -6,7 +6,7 @@ title: PECHUGAS DE POLLO RELLENAS DE FINAS HIERBAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

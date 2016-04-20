@@ -6,7 +6,7 @@ title: ARROZ FRITO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

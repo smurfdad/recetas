@@ -6,7 +6,7 @@ title: CREMA DE CALABAZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

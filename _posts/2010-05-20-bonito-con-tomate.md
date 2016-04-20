@@ -6,7 +6,7 @@ title: BONITO CON TOMATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

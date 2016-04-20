@@ -6,7 +6,7 @@ title: TARTA DE TRUFA XABIER
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

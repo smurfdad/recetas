@@ -6,7 +6,7 @@ title: COSTILLAR DE CERDO CON TOMILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

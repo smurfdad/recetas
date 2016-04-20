@@ -6,7 +6,7 @@ title: CREMA CASTELLANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

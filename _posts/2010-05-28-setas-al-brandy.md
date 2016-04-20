@@ -6,7 +6,7 @@ title: SETAS AL BRANDY
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Setas y hongos

@@ -6,7 +6,7 @@ title: GRATINADO DE CARNE Y BERENJENAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

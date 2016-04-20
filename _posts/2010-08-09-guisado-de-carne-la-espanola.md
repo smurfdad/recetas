@@ -6,7 +6,7 @@ title: GUISADO DE CARNE A LA ESPAÑOLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

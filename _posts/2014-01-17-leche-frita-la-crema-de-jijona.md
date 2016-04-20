@@ -6,7 +6,7 @@ title: LECHE FRITA A LA CREMA DE JIJONA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

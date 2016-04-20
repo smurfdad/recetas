@@ -6,7 +6,7 @@ title: ENSALADA DE PATATAS Y JAMÓN SERRANO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

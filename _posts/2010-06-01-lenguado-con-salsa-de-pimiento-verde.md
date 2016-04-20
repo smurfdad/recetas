@@ -6,7 +6,7 @@ title: LENGUADO CON SALSA DE PIMIENTO VERDE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

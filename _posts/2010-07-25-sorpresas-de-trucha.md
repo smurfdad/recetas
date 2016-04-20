@@ -6,7 +6,7 @@ title: SORPRESAS DE TRUCHA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

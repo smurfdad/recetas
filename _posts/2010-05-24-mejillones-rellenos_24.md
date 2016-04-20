@@ -6,7 +6,7 @@ title: MEJILLONES RELLENOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

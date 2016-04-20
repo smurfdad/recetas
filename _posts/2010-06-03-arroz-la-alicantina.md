@@ -6,7 +6,7 @@ title: ARROZ A LA ALICANTINA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

@@ -6,7 +6,7 @@ title: RATATOUILLE EN BROCHETAS A LA PARRILLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

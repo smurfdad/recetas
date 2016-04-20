@@ -6,7 +6,7 @@ title: ENSALADA DE PATATAS Y ATÚN AL PEREJIL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

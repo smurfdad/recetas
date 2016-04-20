@@ -6,7 +6,7 @@ title: COLIFLOR CON SALSA DE PIMENTÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

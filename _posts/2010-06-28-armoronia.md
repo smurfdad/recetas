@@ -6,7 +6,7 @@ title: ARMORONÍA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

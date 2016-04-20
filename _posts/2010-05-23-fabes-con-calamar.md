@@ -6,7 +6,7 @@ title: FABES CON CALAMAR
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

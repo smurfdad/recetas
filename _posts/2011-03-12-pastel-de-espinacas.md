@@ -6,7 +6,7 @@ title: PASTEL DE ESPINACAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

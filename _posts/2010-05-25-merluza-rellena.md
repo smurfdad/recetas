@@ -6,7 +6,7 @@ title: MERLUZA RELLENA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

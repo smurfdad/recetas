@@ -6,7 +6,7 @@ title: PUDIN DE ZANAHORIAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: QUESO PHILADELPHIA CON FRESAS Y KIWI
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

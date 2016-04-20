@@ -6,7 +6,7 @@ title: LASAÑA DE POLLO Y HONGOS PORTOBELLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

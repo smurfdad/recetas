@@ -6,7 +6,7 @@ title: FALDA DE TERNERA RELLENA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

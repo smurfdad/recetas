@@ -6,7 +6,7 @@ title: RAPE A LA SIDRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

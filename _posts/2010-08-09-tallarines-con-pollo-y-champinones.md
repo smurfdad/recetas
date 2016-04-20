@@ -6,7 +6,7 @@ title: TALLARINES CON POLLO Y CHAMPIÑONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

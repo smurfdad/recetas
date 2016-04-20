@@ -6,7 +6,7 @@ title: ENSALADA DE POLLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

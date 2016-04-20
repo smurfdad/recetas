@@ -6,7 +6,7 @@ title: ROLLITOS DE POLLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

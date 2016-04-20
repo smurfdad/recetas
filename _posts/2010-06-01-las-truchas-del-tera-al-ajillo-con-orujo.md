@@ -6,7 +6,7 @@ title: LAS TRUCHAS DEL TERA AL AJILLO CON ORUJO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

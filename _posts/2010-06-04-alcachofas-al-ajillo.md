@@ -6,7 +6,7 @@ title: ALCACHOFAS AL AJILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

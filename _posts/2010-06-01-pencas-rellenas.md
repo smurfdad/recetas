@@ -6,7 +6,7 @@ title: PENCAS RELLENAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

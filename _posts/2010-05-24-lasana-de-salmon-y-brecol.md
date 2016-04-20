@@ -6,7 +6,7 @@ title: LASAÑA DE SALMÓN Y BRÉCOL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

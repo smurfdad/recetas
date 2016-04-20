@@ -6,7 +6,7 @@ title: TRUCHAS CON SALSA AGRIDULCE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

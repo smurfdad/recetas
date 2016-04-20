@@ -6,7 +6,7 @@ title: ESPAGUETIS A LA BONGOLE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

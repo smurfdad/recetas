@@ -6,7 +6,7 @@ title: MERO ASADO CON VINAGRETA DE TRUFA Y CEBOLLETA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

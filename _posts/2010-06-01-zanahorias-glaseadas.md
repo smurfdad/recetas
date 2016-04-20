@@ -6,7 +6,7 @@ title: ZANAHORIAS GLASEADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: HUEVOS ESCALFADOS FIORENTINA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

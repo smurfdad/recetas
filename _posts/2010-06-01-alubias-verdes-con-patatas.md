@@ -6,7 +6,7 @@ title: ALUBIAS VERDES CON PATATAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

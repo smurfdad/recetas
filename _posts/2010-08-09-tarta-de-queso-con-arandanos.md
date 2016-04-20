@@ -6,7 +6,7 @@ title: TARTA DE QUESO CON ARÁNDANOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

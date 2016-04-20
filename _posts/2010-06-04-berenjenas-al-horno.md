@@ -6,7 +6,7 @@ title: BERENJENAS AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

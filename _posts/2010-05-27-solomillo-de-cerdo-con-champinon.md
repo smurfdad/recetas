@@ -6,7 +6,7 @@ title: SOLOMILLO DE CERDO CON CHAMPIÑÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

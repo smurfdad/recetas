@@ -6,7 +6,7 @@ title: HÍGADO CON PATATAS EN SALSA DE ADOBO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

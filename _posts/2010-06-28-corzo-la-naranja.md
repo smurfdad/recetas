@@ -6,7 +6,7 @@ title: CORZO A LA NARANJA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

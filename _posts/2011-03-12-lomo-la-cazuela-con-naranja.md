@@ -6,7 +6,7 @@ title: LOMO A LA CAZUELA CON NARANJA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

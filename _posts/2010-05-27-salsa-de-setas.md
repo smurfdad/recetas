@@ -6,7 +6,7 @@ title: SALSA DE SETAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

@@ -6,7 +6,7 @@ title: RAPE MEDITERRÁNEA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: ENDIVIAS CON YEMAS DE ESPÁRRAGO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

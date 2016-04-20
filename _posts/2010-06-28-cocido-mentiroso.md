@@ -6,7 +6,7 @@ title: COCIDO MENTIROSO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

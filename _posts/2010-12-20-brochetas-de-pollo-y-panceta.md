@@ -6,7 +6,7 @@ title: BROCHETAS DE POLLO Y PANCETA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

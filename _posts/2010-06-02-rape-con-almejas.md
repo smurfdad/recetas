@@ -6,7 +6,7 @@ title: RAPE CON ALMEJAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

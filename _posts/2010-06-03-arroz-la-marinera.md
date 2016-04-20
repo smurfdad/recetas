@@ -6,7 +6,7 @@ title: ARROZ A LA MARINERA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

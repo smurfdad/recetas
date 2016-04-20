@@ -6,7 +6,7 @@ title: PESCADO BLANCO AL VINO BLANCO O CAVA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

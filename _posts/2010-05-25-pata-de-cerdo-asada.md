@@ -6,7 +6,7 @@ title: PATA DE CERDO ASADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: CARNE ASADA AL VINAGRE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

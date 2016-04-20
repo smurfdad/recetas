@@ -6,7 +6,7 @@ title: ENSALADILLA RUSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

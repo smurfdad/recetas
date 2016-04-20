@@ -6,7 +6,7 @@ title: MACARRONES CON PATÉ
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

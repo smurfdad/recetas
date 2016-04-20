@@ -6,7 +6,7 @@ title: PECHUGA DE POLLO CON PIÑA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

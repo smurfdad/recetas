@@ -6,7 +6,7 @@ title: CORDERO A LA SICILIANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

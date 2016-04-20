@@ -6,7 +6,7 @@ title: TORTILLAS RELLENAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

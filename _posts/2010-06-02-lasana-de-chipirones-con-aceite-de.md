@@ -6,7 +6,7 @@ title: LASAÑA DE CHIPIRONES CON ACEITE DE CEBOLLINO Y CHIPIRÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

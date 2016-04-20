@@ -6,7 +6,7 @@ title: CURRY DE CORDERO MASALA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

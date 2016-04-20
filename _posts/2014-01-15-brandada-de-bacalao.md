@@ -6,7 +6,7 @@ title: BRANDADA DE BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

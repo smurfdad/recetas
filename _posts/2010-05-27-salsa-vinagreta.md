@@ -6,7 +6,7 @@ title: SALSA VINAGRETA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

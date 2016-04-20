@@ -6,7 +6,7 @@ title: CEBOLLAS A LA NIZARDA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

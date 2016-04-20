@@ -6,7 +6,7 @@ title: TRUCHAS RELLENAS DE REQUESÓN Y NUECES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

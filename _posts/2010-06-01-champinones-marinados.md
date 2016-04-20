@@ -6,7 +6,7 @@ title: CHAMPIÑONES MARINADOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Setas y hongos

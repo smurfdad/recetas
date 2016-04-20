@@ -6,7 +6,7 @@ title: FONDUE DE CHOCOLATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

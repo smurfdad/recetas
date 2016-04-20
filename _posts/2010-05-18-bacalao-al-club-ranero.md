@@ -6,7 +6,7 @@ title: BACALAO AL CLUB RANERO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

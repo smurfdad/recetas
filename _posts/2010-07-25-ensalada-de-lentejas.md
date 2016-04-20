@@ -6,7 +6,7 @@ title: ENSALADA DE LENTEJAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: TRUCHAS AL VINO TINTO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

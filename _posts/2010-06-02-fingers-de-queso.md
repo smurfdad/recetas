@@ -6,7 +6,7 @@ title: FINGERS DE QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Entrantes y bocadillos

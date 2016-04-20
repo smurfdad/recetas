@@ -6,7 +6,7 @@ title: COLIFLOR GRATINADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

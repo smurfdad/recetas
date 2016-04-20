@@ -6,7 +6,7 @@ title: ARROZ A LA AMERICANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

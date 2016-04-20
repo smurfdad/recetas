@@ -6,7 +6,7 @@ title: PIPIRRANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

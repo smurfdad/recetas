@@ -6,7 +6,7 @@ title: ENSALADA CON QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

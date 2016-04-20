@@ -6,7 +6,7 @@ title: ARROZ AL BUGS BUNNY
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

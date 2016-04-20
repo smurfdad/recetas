@@ -6,7 +6,7 @@ title: CONGRIO AL AJO ARRIERO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

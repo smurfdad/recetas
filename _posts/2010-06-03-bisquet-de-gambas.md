@@ -6,7 +6,7 @@ title: BISQUET DE GAMBAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

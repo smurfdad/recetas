@@ -6,7 +6,7 @@ title: BIZCOCHITOS DE ALMENDRA AL COÑAC
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

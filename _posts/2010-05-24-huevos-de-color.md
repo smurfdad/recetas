@@ -6,7 +6,7 @@ title: HUEVOS DE COLOR
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

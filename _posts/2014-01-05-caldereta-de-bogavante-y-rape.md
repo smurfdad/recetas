@@ -6,7 +6,7 @@ title: CALDERETA DE BOGAVANTE Y RAPE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

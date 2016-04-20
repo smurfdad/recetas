@@ -6,7 +6,7 @@ title: POLLO HORTELANO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

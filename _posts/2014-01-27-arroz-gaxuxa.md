@@ -6,7 +6,7 @@ title: ARROZ GAXUXA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

@@ -6,7 +6,7 @@ title: ALCACHOFAS CON FILETES EN SALSA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

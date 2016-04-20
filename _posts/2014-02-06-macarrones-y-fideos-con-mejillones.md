@@ -6,7 +6,7 @@ title: MACARRONES Y FIDEOS CON MEJILLONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

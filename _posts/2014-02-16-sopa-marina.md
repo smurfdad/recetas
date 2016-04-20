@@ -6,7 +6,7 @@ title: SOPA MARINA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

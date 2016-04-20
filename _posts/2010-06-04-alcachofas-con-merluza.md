@@ -6,7 +6,7 @@ title: ALCACHOFAS CON MERLUZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

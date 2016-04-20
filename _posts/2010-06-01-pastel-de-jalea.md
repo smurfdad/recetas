@@ -6,7 +6,7 @@ title: PASTEL DE JALEA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

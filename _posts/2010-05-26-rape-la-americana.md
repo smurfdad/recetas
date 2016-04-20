@@ -6,7 +6,7 @@ title: RAPE A LA AMERICANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: ENSALADA DE PIMIENTOS ROJOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

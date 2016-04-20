@@ -6,7 +6,7 @@ title: HUEVOS FRIOS ELENA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

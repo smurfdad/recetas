@@ -6,7 +6,7 @@ title: MILHOJAS DE BERENJENA CON BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

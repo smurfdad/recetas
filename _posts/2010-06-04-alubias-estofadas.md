@@ -6,7 +6,7 @@ title: ALUBIAS ESTOFADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

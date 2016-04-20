@@ -6,7 +6,7 @@ title: ALBÓNDIGAS DE RAÑO, ARAÑA O RESCACIO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

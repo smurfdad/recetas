@@ -6,7 +6,7 @@ title: CREMA DE ESPINACAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: CANELONES DE BACALAO Y AJOARRIERO CON VINAGRETA DE POCHAS Y LANGO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

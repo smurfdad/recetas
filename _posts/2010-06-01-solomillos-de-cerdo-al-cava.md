@@ -6,7 +6,7 @@ title: SOLOMILLOS DE CERDO AL CAVA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

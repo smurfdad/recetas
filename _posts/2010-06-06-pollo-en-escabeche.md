@@ -6,7 +6,7 @@ title: POLLO EN ESCABECHE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

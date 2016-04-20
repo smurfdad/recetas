@@ -6,7 +6,7 @@ title: TARTA DE PHILADELPHIA, CHOCOLATE Y NARANJA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

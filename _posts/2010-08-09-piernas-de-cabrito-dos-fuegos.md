@@ -6,7 +6,7 @@ title: PIERNAS DE CABRITO A DOS FUEGOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

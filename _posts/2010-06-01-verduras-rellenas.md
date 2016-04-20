@@ -6,7 +6,7 @@ title: VERDURAS RELLENAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

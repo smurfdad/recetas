@@ -6,7 +6,7 @@ title: CHAMPIÑONES FRITOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Setas y hongos

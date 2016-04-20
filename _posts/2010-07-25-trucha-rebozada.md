@@ -6,7 +6,7 @@ title: TRUCHA REBOZADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

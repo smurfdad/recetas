@@ -6,7 +6,7 @@ title: PENCAS DE ACELGAS CON JAMÓN COCIDO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

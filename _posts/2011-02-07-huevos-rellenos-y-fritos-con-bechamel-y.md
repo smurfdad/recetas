@@ -6,7 +6,7 @@ title: HUEVOS RELLENOS Y FRITOS CON BECHAMEL Y TOMATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

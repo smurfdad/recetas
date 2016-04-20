@@ -6,7 +6,7 @@ title: BERENJENAS RELLENAS DE VERDURAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

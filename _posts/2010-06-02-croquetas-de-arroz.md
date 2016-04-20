@@ -6,7 +6,7 @@ title: CROQUETAS DE ARROZ
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

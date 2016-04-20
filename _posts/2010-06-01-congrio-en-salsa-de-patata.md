@@ -6,7 +6,7 @@ title: CONGRIO EN SALSA DE PATATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

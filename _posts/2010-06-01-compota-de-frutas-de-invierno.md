@@ -6,7 +6,7 @@ title: COMPOTA DE FRUTAS DE INVIERNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Frutas

@@ -6,7 +6,7 @@ title: HUEVOS RELLENOS FRITOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

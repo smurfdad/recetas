@@ -6,7 +6,7 @@ title: PECHUGAS DE POLLO REBOZADAS DE CREMA DE ESPÁRRAGOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

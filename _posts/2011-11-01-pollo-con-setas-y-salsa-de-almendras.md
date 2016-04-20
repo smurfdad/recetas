@@ -6,7 +6,7 @@ title: POLLO CON SETAS Y SALSA DE ALMENDRAS.
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

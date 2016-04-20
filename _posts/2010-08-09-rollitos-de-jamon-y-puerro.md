@@ -6,7 +6,7 @@ title: ROLLITOS DE JAMÓN Y PUERRO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

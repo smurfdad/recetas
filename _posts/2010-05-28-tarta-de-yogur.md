@@ -6,7 +6,7 @@ title: TARTA DE YOGUR
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

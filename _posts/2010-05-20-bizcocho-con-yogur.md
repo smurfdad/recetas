@@ -6,7 +6,7 @@ title: BIZCOCHO CON YOGUR
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

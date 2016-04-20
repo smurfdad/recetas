@@ -6,7 +6,7 @@ title: MEDALLONES DE RAPE AL ROMESCU
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

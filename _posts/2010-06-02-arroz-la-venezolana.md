@@ -6,7 +6,7 @@ title: ARROZ A LA VENEZOLANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

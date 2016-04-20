@@ -6,7 +6,7 @@ title: PUERROS O ENDIBIAS GRATINADOS CON JAMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

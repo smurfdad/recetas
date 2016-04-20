@@ -6,7 +6,7 @@ title: MENESTRA DE CORDERO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

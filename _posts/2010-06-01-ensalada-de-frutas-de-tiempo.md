@@ -6,7 +6,7 @@ title: ENSALADA DE FRUTAS DE TIEMPO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

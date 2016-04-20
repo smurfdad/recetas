@@ -6,7 +6,7 @@ title: CARBONADA FLAMENCA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

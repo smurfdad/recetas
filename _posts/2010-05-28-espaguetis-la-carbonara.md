@@ -6,7 +6,7 @@ title: ESPAGUETIS A LA CARBONARA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

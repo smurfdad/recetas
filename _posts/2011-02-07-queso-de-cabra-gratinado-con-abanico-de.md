@@ -6,7 +6,7 @@ title: QUESO DE CABRA GRATINADO CON ABANICO DE JAMÓN DE PATO Y TOMATE CONFITADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

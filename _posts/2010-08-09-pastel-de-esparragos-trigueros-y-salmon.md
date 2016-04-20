@@ -6,7 +6,7 @@ title: PASTEL DE ESPÁRRAGOS TRIGUEROS Y SALMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

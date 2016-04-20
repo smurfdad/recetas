@@ -6,7 +6,7 @@ title: ROLLO DE PAVO SABROSO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

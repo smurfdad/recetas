@@ -6,7 +6,7 @@ title: ARROZ CON POLLO A LA CUBANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

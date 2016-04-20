@@ -6,7 +6,7 @@ title: BACALAO A LA TRANCA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

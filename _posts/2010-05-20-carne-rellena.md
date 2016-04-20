@@ -6,7 +6,7 @@ title: CARNE RELLENA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

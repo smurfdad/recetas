@@ -6,7 +6,7 @@ title: POLLO AL AJILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

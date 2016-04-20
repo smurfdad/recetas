@@ -6,7 +6,7 @@ title: ALUBIAS ROJAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

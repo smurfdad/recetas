@@ -6,7 +6,7 @@ title: LANGOSTINOS A LA PLANCHA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

@@ -6,7 +6,7 @@ title: QUICHE DE CHAMPIÑONES Y BRIE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

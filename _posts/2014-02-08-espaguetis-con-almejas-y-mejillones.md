@@ -6,7 +6,7 @@ title: ESPAGUETIS CON ALMEJAS Y MEJILLONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

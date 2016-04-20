@@ -6,7 +6,7 @@ title: CARN AL TOMBET
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

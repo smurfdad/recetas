@@ -6,7 +6,7 @@ title: ARROZ A LA ITALIANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

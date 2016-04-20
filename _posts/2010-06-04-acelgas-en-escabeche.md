@@ -6,7 +6,7 @@ title: ACELGAS EN ESCABECHE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

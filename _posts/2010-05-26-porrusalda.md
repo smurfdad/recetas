@@ -6,7 +6,7 @@ title: PORRUSALDA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

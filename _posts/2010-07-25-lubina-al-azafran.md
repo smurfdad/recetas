@@ -6,7 +6,7 @@ title: LUBINA AL AZAFRAN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

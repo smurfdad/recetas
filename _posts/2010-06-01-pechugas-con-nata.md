@@ -6,7 +6,7 @@ title: PECHUGAS CON NATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

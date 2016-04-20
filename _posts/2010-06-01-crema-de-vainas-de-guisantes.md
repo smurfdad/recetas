@@ -6,7 +6,7 @@ title: CREMA DE VAINAS DE GUISANTES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

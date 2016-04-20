@@ -6,7 +6,7 @@ title: BRAZO DE GITANO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

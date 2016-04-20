@@ -6,7 +6,7 @@ title: SALMÓN MARINADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

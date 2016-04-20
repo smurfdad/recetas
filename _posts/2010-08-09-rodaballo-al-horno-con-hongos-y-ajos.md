@@ -6,7 +6,7 @@ title: RODABALLO AL HORNO CON HONGOS Y AJOS CONFITADOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

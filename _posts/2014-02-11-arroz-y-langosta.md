@@ -6,7 +6,7 @@ title: ARROZ Y LANGOSTA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

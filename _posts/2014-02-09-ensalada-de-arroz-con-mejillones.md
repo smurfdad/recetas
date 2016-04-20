@@ -6,7 +6,7 @@ title: ENSALADA DE ARROZ CON MEJILLONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

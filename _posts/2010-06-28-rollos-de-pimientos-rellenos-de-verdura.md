@@ -6,7 +6,7 @@ title: ROLLOS DE PIMIENTOS RELLENOS DE VERDURA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

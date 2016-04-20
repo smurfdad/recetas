@@ -6,7 +6,7 @@ title: BOMBONES ALMENDRADOS (ERIZOS)
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

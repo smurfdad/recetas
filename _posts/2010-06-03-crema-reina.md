@@ -6,7 +6,7 @@ title: CREMA REINA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

@@ -6,7 +6,7 @@ title: TOMATES FRITOS CON PIMIENTOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

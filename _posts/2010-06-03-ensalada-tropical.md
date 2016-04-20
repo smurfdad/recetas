@@ -6,7 +6,7 @@ title: ENSALADA TROPICAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

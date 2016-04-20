@@ -6,7 +6,7 @@ title: ENSALADA DE BACALAO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

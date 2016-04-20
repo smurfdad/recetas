@@ -6,7 +6,7 @@ title: ENSALADA DE PASTA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

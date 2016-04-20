@@ -6,7 +6,7 @@ title: CROQUETAS DE POLLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

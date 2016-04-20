@@ -6,7 +6,7 @@ title: SALSA AMERICANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

@@ -6,7 +6,7 @@ title: CEBOLLITAS AL VINO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

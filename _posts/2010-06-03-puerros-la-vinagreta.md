@@ -6,7 +6,7 @@ title: PUERROS A LA VINAGRETA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: ARROZ SALTEADO CON OMELETTE DE VEGETALES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

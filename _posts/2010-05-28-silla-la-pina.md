@@ -6,7 +6,7 @@ title: SILLA A LA PIÑA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

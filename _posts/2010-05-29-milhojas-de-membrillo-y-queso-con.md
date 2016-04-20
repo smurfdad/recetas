@@ -6,7 +6,7 @@ title: MILHOJAS DE MEMBRILLO Y QUESO CON HELADO DE LECHE DE OVEJA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

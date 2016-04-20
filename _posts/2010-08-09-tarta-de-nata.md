@@ -6,7 +6,7 @@ title: TARTA DE NATA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

@@ -6,7 +6,7 @@ title: ABADEJO AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

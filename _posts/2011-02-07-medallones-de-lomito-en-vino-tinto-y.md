@@ -6,7 +6,7 @@ title: MEDALLONES DE LOMITO EN VINO TINTO Y MILHOJAS DE PATATAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

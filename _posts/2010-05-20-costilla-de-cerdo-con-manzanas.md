@@ -6,7 +6,7 @@ title: COSTILLA DE CERDO CON MANZANAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

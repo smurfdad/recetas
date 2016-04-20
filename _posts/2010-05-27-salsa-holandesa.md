@@ -6,7 +6,7 @@ title: SALSA HOLANDESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

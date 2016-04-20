@@ -6,7 +6,7 @@ title: PISTO A LA BILBAÍNA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

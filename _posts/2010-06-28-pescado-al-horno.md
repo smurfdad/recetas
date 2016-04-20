@@ -6,7 +6,7 @@ title: PESCADO AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: PESCADO A LA SAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

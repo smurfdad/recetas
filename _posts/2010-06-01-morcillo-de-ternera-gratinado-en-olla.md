@@ -6,7 +6,7 @@ title: MORCILLO DE TERNERA GRATINADO EN OLLA A PRESIÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

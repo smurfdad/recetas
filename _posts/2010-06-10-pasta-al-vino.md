@@ -6,7 +6,7 @@ title: PASTA AL VINO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

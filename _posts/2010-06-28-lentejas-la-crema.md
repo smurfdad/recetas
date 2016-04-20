@@ -6,7 +6,7 @@ title: LENTEJAS A LA CREMA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

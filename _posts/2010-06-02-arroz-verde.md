@@ -6,7 +6,7 @@ title: ARROZ VERDE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

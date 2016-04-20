@@ -6,7 +6,7 @@ title: BIZCOCHO DE PIÑA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

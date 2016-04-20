@@ -6,7 +6,7 @@ title: COLIFLOR CON PIÑONES GRATINADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

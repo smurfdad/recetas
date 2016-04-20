@@ -6,7 +6,7 @@ title: ARROZ CON CHORIZOS A LA PUMAROLA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

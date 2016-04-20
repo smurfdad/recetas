@@ -6,7 +6,7 @@ title: GUIARRA O LOMO DE CERDO CON LECHE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

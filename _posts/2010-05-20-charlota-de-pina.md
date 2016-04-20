@@ -6,7 +6,7 @@ title: CHARLOTA DE PIÑA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

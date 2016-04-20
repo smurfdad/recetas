@@ -6,7 +6,7 @@ title: ALMONDROC
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

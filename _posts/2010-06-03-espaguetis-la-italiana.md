@@ -6,7 +6,7 @@ title: ESPAGUETIS A LA ITALIANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

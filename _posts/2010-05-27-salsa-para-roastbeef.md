@@ -6,7 +6,7 @@ title: SALSA PARA ROASTBEEF
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

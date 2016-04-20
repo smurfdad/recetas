@@ -6,7 +6,7 @@ title: POTAJITO DE BACALAO CON ESPINACAS Y GARBANZOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

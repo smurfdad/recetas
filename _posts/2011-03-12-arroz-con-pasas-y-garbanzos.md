@@ -6,7 +6,7 @@ title: ARROZ CON PASAS Y GARBANZOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: PESCADO AL VINO BLANCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

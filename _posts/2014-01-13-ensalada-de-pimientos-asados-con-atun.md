@@ -6,7 +6,7 @@ title: ENSALADA DE PIMIENTOS ASADOS CON ATÚN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

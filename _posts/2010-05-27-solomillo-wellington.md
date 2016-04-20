@@ -6,7 +6,7 @@ title: SOLOMILLO WELLINGTON
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

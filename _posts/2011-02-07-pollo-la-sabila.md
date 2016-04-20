@@ -6,7 +6,7 @@ title: POLLO A LA SÁBILA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

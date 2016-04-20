@@ -6,7 +6,7 @@ title: PURÉ DE CALABAZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

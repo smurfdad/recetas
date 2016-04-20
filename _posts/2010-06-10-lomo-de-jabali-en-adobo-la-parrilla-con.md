@@ -6,7 +6,7 @@ title: LOMO DE JABALI EN ADOBO, A LA PARRILLA CON CALABACIN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

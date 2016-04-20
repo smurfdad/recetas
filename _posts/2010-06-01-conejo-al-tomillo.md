@@ -6,7 +6,7 @@ title: CONEJO AL TOMILLO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

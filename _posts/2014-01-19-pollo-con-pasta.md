@@ -6,7 +6,7 @@ title: POLLO CON PASTA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

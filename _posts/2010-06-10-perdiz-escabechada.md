@@ -6,7 +6,7 @@ title: PERDIZ ESCABECHADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: PIMIENTOS RELLENOS DE MARISCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

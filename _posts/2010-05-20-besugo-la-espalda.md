@@ -6,7 +6,7 @@ title: BESUGO A LA ESPALDA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

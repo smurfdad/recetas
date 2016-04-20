@@ -6,7 +6,7 @@ title: PIMIENTOS ROJOS RELLENOS EN SALSA DE CHIPIRÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

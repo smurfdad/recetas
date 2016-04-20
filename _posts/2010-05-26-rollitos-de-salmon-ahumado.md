@@ -6,7 +6,7 @@ title: ROLLITOS DE SALMÓN AHUMADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

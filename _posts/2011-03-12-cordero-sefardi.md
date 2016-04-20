@@ -6,7 +6,7 @@ title: CORDERO SEFARDÍ
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

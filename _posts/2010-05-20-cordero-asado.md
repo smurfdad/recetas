@@ -6,7 +6,7 @@ title: CORDERO ASADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

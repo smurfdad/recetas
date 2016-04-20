@@ -6,7 +6,7 @@ title: LACÓN AL VINO BLANCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

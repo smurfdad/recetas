@@ -6,7 +6,7 @@ title: ALUBIA VERDE CON TOMATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

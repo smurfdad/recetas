@@ -6,7 +6,7 @@ title: MOUSSE DE VIEIRAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

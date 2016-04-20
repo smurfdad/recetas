@@ -6,7 +6,7 @@ title: GUISO DE ARROZ CON PESCADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

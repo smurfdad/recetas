@@ -6,7 +6,7 @@ title: LOMOS DE CHICHARRO CON ESCAMA DE PATATA Y PERCEBES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

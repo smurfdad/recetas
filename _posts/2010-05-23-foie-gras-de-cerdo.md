@@ -6,7 +6,7 @@ title: FOIE-GRAS DE CERDO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

@@ -6,7 +6,7 @@ title: CANELONES SUPREMA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

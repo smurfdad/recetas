@@ -6,7 +6,7 @@ title: LANGOSTINOS COCIDOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

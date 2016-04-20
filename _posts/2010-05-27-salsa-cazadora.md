@@ -6,7 +6,7 @@ title: SALSA CAZADORA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Salsas

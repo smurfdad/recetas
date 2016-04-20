@@ -6,7 +6,7 @@ title: SAGAROPIL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

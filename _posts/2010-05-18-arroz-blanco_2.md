@@ -2,7 +2,7 @@
 ---
 layout: post
 title: ARROZ BLANCO
-author: Smurf Dad
+
 categories:
 - Arroces
 tags:

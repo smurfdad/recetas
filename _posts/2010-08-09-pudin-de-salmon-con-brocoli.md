@@ -6,7 +6,7 @@ title: PUDIN DE SALMÓN CON BRÓCOLI
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

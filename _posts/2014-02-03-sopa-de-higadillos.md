@@ -6,7 +6,7 @@ title: SOPA DE HIGADILLOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

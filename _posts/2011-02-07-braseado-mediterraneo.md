@@ -6,7 +6,7 @@ title: BRASEADO MEDITERRÁNEO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

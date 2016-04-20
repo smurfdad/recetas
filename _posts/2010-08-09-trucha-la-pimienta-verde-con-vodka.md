@@ -6,7 +6,7 @@ title: TRUCHA A LA PIMIENTA VERDE CON VODKA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

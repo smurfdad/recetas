@@ -6,7 +6,7 @@ title: SOPA BLANCA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

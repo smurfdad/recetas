@@ -6,7 +6,7 @@ title: ENSALADA DE FRUTAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

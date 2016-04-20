@@ -6,7 +6,7 @@ title: SOPA DE CEBOLLA GRATINADA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

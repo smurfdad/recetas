@@ -6,7 +6,7 @@ title: ENSALADA DE ESPINACAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

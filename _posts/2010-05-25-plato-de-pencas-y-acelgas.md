@@ -6,7 +6,7 @@ title: PLATO DE PENCAS Y ACELGAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

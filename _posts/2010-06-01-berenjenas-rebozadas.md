@@ -6,7 +6,7 @@ title: BERENJENAS REBOZADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

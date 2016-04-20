@@ -6,7 +6,7 @@ title: PERDÍZ ESCABECHADA CON MOJETE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

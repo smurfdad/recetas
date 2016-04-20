@@ -6,7 +6,7 @@ title: CÓCTEL DE GAMBAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

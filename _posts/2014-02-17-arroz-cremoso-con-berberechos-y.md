@@ -6,7 +6,7 @@ title: ARROZ CREMOSO CON BERBERECHOS Y MEJILLONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

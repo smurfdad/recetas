@@ -6,7 +6,7 @@ title: ACELGAS CON ALMENDRAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

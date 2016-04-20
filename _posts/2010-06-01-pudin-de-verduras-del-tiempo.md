@@ -6,7 +6,7 @@ title: PUDIN DE VERDURAS DEL TIEMPO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

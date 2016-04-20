@@ -6,7 +6,7 @@ title: CREMA BRETONA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

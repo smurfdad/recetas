@@ -6,7 +6,7 @@ title: PATATAS EN SALSA VERDE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

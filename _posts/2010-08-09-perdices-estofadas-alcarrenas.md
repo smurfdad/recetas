@@ -6,7 +6,7 @@ title: PERDICES ESTOFADAS ALCARREÑAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

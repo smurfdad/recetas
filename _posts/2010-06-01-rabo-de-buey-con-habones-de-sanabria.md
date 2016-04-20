@@ -6,7 +6,7 @@ title: RABO DE BUEY CON HABONES DE SANABRIA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

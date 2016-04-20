@@ -6,7 +6,7 @@ title: PUDIN DE CHATKA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

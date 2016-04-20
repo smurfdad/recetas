@@ -6,7 +6,7 @@ title: GRATINADO DE VERDURAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

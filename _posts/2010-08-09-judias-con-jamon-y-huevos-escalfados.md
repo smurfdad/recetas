@@ -6,7 +6,7 @@ title: JUDÍAS CON JAMÓN Y HUEVOS ESCALFADOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

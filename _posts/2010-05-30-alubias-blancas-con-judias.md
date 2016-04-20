@@ -6,7 +6,7 @@ title: ALUBIAS BLANCAS CON JUDÍAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

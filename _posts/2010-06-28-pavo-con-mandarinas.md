@@ -6,7 +6,7 @@ title: PAVO CON MANDARINAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

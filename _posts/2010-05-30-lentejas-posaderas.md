@@ -6,7 +6,7 @@ title: LENTEJAS POSADERAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

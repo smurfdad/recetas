@@ -6,7 +6,7 @@ title: LENGUA EN MENESTRA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

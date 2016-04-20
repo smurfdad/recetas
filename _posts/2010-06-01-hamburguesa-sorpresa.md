@@ -6,7 +6,7 @@ title: HAMBURGUESA SORPRESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

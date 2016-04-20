@@ -6,7 +6,7 @@ title: PAELLA CASERA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

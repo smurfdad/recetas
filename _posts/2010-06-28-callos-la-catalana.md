@@ -6,7 +6,7 @@ title: CALLOS A LA CATALANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

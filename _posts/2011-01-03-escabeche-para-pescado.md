@@ -6,7 +6,7 @@ title: ESCABECHE PARA PESCADO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

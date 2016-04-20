@@ -6,7 +6,7 @@ title: YEMAS DEL ERMITAÑO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

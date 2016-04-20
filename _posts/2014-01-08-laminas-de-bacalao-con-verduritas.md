@@ -6,7 +6,7 @@ title: LÁMINAS DE BACALAO CON VERDURITAS ASADAS Y VINAGRETA BALSÁMICA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

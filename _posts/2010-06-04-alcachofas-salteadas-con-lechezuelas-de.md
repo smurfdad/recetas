@@ -6,7 +6,7 @@ title: ALCACHOFAS SALTEADAS CON LECHEZUELAS DE CORDERO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

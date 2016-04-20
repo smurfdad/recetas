@@ -6,7 +6,7 @@ title: GALIANOS MANCHEGOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

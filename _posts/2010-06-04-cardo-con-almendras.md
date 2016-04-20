@@ -6,7 +6,7 @@ title: CARDO CON ALMENDRAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

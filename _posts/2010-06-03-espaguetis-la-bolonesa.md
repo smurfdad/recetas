@@ -6,7 +6,7 @@ title: ESPAGUETIS A LA BOLOÑESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

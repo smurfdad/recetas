@@ -6,7 +6,7 @@ title: PECHUGA DE POLLO A LA VALENCIANA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

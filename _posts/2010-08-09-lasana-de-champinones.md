@@ -6,7 +6,7 @@ title: LASAÑA DE CHAMPIÑONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pastas

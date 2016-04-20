@@ -6,7 +6,7 @@ title: PATE DE JAMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

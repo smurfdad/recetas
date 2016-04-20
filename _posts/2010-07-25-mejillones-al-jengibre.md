@@ -6,7 +6,7 @@ title: MEJILLONES AL JENGIBRE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Mariscos y moluscos

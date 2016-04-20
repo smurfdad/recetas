@@ -6,7 +6,7 @@ title: PATITAS DE CORDERO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

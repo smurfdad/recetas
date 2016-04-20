@@ -6,7 +6,7 @@ title: ENSALADA DE MACARRONES
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

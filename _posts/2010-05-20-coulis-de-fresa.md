@@ -6,7 +6,7 @@ title: COULIS DE FRESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

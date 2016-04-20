@@ -6,7 +6,7 @@ title: ENSALADA DE BOGAVANTE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

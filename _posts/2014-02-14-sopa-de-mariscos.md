@@ -6,7 +6,7 @@ title: SOPA DE MARISCOS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

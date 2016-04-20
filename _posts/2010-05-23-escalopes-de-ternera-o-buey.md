@@ -6,7 +6,7 @@ title: ESCALOPES DE TERNERA O BUEY
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

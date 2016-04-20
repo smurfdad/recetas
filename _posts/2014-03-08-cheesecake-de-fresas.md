@@ -6,7 +6,7 @@ title: CHEESECAKE DE FRESAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

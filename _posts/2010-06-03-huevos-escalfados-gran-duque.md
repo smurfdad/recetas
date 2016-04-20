@@ -6,7 +6,7 @@ title: HUEVOS ESCALFADOS GRAN DUQUE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

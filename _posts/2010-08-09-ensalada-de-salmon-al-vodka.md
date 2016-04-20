@@ -6,7 +6,7 @@ title: ENSALADA DE SALMÓN AL VODKA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

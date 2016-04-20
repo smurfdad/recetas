@@ -6,7 +6,7 @@ title: CREMA PASTELERA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Sopas y cremas

@@ -6,7 +6,7 @@ title: CANAPÉS DE QUESO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Huevos y lacteos

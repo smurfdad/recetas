@@ -6,7 +6,7 @@ title: PASTEL DE MERLUZA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

@@ -6,7 +6,7 @@ title: POLLO ASADO CON TOMATE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

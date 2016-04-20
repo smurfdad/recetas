@@ -6,7 +6,7 @@ title: BONITO AL VINO Y AL LIMÓN
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

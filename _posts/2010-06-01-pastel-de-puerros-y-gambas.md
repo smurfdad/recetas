@@ -6,7 +6,7 @@ title: PASTEL DE PUERROS Y GAMBAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

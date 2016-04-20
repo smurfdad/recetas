@@ -6,7 +6,7 @@ title: COLIFLOR POLONESA
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

@@ -6,7 +6,7 @@ title: PERDICES ESTOFADAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

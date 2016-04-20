@@ -6,7 +6,7 @@ title: POLLO COQUETON
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

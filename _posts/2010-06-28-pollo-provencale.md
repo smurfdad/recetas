@@ -6,7 +6,7 @@ title: POLLO PROVENCALE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

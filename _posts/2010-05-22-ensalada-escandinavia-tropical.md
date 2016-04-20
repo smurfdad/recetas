@@ -6,7 +6,7 @@ title: ENSALADA ESCANDINAVIA TROPICAL
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Ensaladas

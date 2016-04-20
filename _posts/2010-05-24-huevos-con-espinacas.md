@@ -6,7 +6,7 @@ title: HUEVOS CON ESPINACAS
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

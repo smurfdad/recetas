@@ -6,7 +6,7 @@ title: PATATAS GRATINADAS CON QUESO GRUYERE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

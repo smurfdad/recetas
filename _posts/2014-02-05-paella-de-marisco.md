@@ -6,7 +6,7 @@ title: PAELLA DE MARISCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Arroces

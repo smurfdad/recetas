@@ -6,7 +6,7 @@ title: BRUSELAS EN VINO BLANCO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Verduras y legumbres

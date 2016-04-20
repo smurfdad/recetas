@@ -6,7 +6,7 @@ title: BIZCOCHO DE CORTE
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Postres y dulces

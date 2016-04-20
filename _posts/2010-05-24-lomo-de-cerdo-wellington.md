@@ -6,7 +6,7 @@ title: LOMO DE CERDO WELLINGTON
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados

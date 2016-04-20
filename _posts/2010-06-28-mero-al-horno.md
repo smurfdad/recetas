@@ -6,7 +6,7 @@ title: MERO AL HORNO
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Pescados

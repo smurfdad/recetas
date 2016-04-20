@@ -6,7 +6,7 @@ title: LOMO DE NEW YORK CON MANTEQUILLA DE QUESO STILTON
 
 
 
-author: Smurf Dad
+
 
 categories:
 - Carnes y derivados
