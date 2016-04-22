@@ -33,7 +33,7 @@ RELLENO
 
 1 cebolla pequeña picada en ruedas muy delgadas
 
-1 ceboll&igrave;n cortado muy finamente
+1 cebollín cortado muy finamente
 
 1/2 pimentón rojo o verde, picado en tiritas
 
@@ -52,7 +52,7 @@ El jugo de 1 limón
 Pimienta negra recién molida, al gusto
 
 <h3>Preparación</h3>
-Se cortan las lisas de la cabeza a la cola por la parte de abajo, se limpian (quitarles las v&igrave;sceras y las huevas), se lavan y se reservan.
+Se cortan las lisas de la cabeza a la cola por la parte de abajo, se limpian (quitarles las vísceras y las huevas), se lavan y se reservan.
 
 Se cocinan en agua hirviente la zanahoria y la papa hasta que ablanden (unos 8 minutos).
 
@@ -62,7 +62,7 @@ En recipiente aparte se unen los ingredientes del aderezo.
 
 Se introduce el relleno en las lisas y se baña con el aderezo.
 
-Se envuelve cada lisa con papel aluminio, formando con &egrave;ste una suerte de bolsa bastante holgada. Antes de cerrar la bolsa completamente, se agregan por un extremo unas 2 cucharadas de aderezo. Se colocan las lisas envueltas sobre una bandeja para hornear.
+Se envuelve cada lisa con papel aluminio, formando con éste una suerte de bolsa bastante holgada. Antes de cerrar la bolsa completamente, se agregan por un extremo unas 2 cucharadas de aderezo. Se colocan las lisas envueltas sobre una bandeja para hornear.
 
 Se hornea a 180&ordm;C unos 8 minutos por lado (igualmente se puede cocinar sobre brasas).
 

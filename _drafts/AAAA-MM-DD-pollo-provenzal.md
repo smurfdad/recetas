@@ -32,5 +32,5 @@ ajo y perejil picados, 3 cucharadas
 aceite de maiz, 2 cucharadas
 
 <h3>Preparación</h3>
-Acomodar las presas de pollo sobre una asadera cubierta de sal gruesa, cocinar en horno caliente hasta que el pollo est&egrave; casi cocido, retirar, calentar el caldo en un recipiente, agregar el ajo y perejil, cocinar 2 minutos, incorporar el pollo, rociar con el aceite y termianar la cocci&ograve;n moviendo las presas hasta que esten listas.
+Acomodar las presas de pollo sobre una asadera cubierta de sal gruesa, cocinar en horno caliente hasta que el pollo esté casi cocido, retirar, calentar el caldo en un recipiente, agregar el ajo y perejil, cocinar 2 minutos, incorporar el pollo, rociar con el aceite y termianar la cocción moviendo las presas hasta que esten listas.
 

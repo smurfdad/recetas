@@ -24,7 +24,7 @@ categories:
 
 2 chiles anaheim tatemados y limpios
 
-1 media crema Nestlé &ograve; crema agria
+1 media crema Nestlé ó crema agria
 
 1/2 cubito de pollo knorr suiza
 

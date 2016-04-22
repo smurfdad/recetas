@@ -30,11 +30,11 @@ personas: 6
 
 2 dientes de ajo
 
-1 lata de at&ugrave;n o 150 g de at&ugrave;n fresco cocinado
+1 lata de atún o 150 g de atún fresco cocinado
 
 chile serrano al gusto
 
-aceite para fre&igrave;r
+aceite para freír
 
 sal al gusto
 
@@ -43,5 +43,5 @@ pelar las papas,cortarlas en cuadritos y freir en abundante aceite hasta que se 
 
 Picar los tomates,la cebolla y el ajo, y freir en un sarten hasta obtener una salsa. agregar sal e incorporar las papas fritas y el atún desmenuzado y mezclar bien.
 
-seguidamente , batir los huevos con el chile cortado en trocitos.sazonar y agregar al sart&egrave;n,revolviendo hasta que cuajen. servir con tortillas
+seguidamente , batir los huevos con el chile cortado en trocitos.sazonar y agregar al sartén,revolviendo hasta que cuajen. servir con tortillas
 

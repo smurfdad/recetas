@@ -41,7 +41,7 @@ sal y pimienta al gusto
 1 1/2 taza de leche
 
 <h3>Preparación</h3>
-Mezclar todos los ingredientes menos las claras que se baten a nieve y se agregan al final a la preparaci&ograve;n en forma envolvente. Se vacea en un molde enmantequillado y espolvoreado con pan rallado o harina. Encima de la preparaíón se espolvorea queso parmesano y perjil picado
+Mezclar todos los ingredientes menos las claras que se baten a nieve y se agregan al final a la preparación en forma envolvente. Se vacea en un molde enmantequillado y espolvoreado con pan rallado o harina. Encima de la preparaíón se espolvorea queso parmesano y perjil picado
 
 Llevar al horno Microondas por 10 minutos o a Horno convencional por 120 minutos
 

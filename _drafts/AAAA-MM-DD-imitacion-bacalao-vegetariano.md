@@ -28,7 +28,7 @@ personas: 10
 
 4 jitomates pelados y sin semillas picados
 
-1 lata grande de pur&egrave; de tomate
+1 lata grande de puré de tomate
 
 6 zanahorias crudas ralladas
 
@@ -51,9 +51,9 @@ una lata de pimientos morrones en tiras
 sal y pimienta al gusto
 
 <h3>Preparación</h3>
-En el aceite de oliva , fr&igrave;a la cebolla y el ajo,integre las zanahorias y luego la col a que sancoche un poco.
+En el aceite de oliva , fría la cebolla y el ajo,integre las zanahorias y luego la col a que sancoche un poco.
 
-Agregue el jitomate,el pur&egrave; y deje hervir hasta que se cuezan bien la col y la zanahoria.
+Agregue el jitomate,el puré y deje hervir hasta que se cuezan bien la col y la zanahoria.
 
-Añada las aceitunas, alcaparras, chiles,almendras,pimientos con un poco de su jugo,las papas y el perejil,deje que hierva unos minutos m&agrave;s hasta que sazone,rectifique el sabor y listo.
+Añada las aceitunas, alcaparras, chiles,almendras,pimientos con un poco de su jugo,las papas y el perejil,deje que hierva unos minutos más hasta que sazone,rectifique el sabor y listo.
 

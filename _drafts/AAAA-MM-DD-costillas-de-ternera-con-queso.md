@@ -28,7 +28,7 @@ Sal
 
 Pimienta negra recién molida
 
-400 gr. de gruy&egrave;re rallado
+400 gr. de gruyére rallado
 
 2 huevos
 

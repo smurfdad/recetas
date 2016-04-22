@@ -32,7 +32,7 @@ categories:
 
 1 cucharada de perejil, picadito
 
-1/16 cucharadita de pimienta negra, reci&egrave;n molida
+1/16 cucharadita de pimienta negra, recién molida
 
 2 tazas de tomate, picadito grueso, sin piel y sin semillas
 
@@ -47,7 +47,7 @@ La pulpa picadita de 8 aceitunas negras y 8 aceitunas verdes
 <h3>Preparación</h3>
 En una olla, se pone el aceite a calentar. Se agregan la cabolla y el ajo y se cocinan hasta marchitar, unos 4 minutos.
 
-Se agregan las anchoas. Se cocina 1 minuto revolviendo constantemente con cuchara de madera y desmenuzando las anchoas. Se agregan la albahaca, el perejil, la pimienta, el tomate y las aceitunas y se cocina la salsa revolviendo por 3 &ograve; 4 minutos. Se retira del fuego y se pone aparte.
+Se agregan las anchoas. Se cocina 1 minuto revolviendo constantemente con cuchara de madera y desmenuzando las anchoas. Se agregan la albahaca, el perejil, la pimienta, el tomate y las aceitunas y se cocina la salsa revolviendo por 3 ó 4 minutos. Se retira del fuego y se pone aparte.
 
 Entretanto, se pone al fuego en una olla el agua con la sal para cocinar la pasta. Se lleva a un hervor. Se agrega la pasta. Se lleva de nuevo a un hervor y se cocina hasta estar
 

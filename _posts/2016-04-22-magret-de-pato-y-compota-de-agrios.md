@@ -16,26 +16,27 @@ categories:
 - Sopas y cremas
 - Ensaladas
 - Setas y hongos
- 
+tags:
+- magret de pato
+- vino de Oporto
+- sal
+- harina de maíz
+- manzana
+- naranja
+- limón
+- azúcar 
 personas: 2 
 tiempo_minutos: 90 
 ---
 <h3>Ingredientes</h3>
-1 magret de pato.
-
-1 decilitro de vino de Oporto.
-
-Sal.
-
-1 cucharadita de harina de maíz.
-
-50 gramos de manzana.
-
-50 gramos de naranja.
-
-50 gramos de limón.
-
-150 gramos de azúcar.
+- 1 magret de pato.
+- 1 decilitro de vino de Oporto.
+- Sal.
+- 1 cucharadita de harina de maíz.
+- 50 gramos de manzana.
+- 50 gramos de naranja.
+- 50 gramos de limón.
+- 150 gramos de azúcar.
 
 <h3>Preparación</h3>
 Pelamos la fruta y ponemos a cocer cada fruta por separado con su peso en azúcar a fuego suave.

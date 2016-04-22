@@ -26,7 +26,7 @@ categories:
 
 1 cebolla
 
-1 piment&ograve;n
+1 pimentón
 
 2 tomates
 
@@ -34,12 +34,12 @@ categories:
 
 100 gramos de calamares ya limpios y cortados en aros
 
-Azafr&agrave;n
+Azafrán
 
 Sal al gusto
 
 Aceite para sofreir
 
 <h3>Preparación</h3>
-Corta finamente la cebolla, el piment&ograve;n, los tomates y la chuleta, sofr&igrave;elos en una olla con aceite. Agrega sal al gusto, azafr&agrave;n, los calamares y el arroz. Coloca el agua y cocina a fuego lento por 30 minutos.
+Corta finamente la cebolla, el pimentón, los tomates y la chuleta, sofríelos en una olla con aceite. Agrega sal al gusto, azafrán, los calamares y el arroz. Coloca el agua y cocina a fuego lento por 30 minutos.
 

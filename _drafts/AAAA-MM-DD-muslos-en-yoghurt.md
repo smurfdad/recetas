@@ -34,13 +34,13 @@ personas: 4
 sal y pimienta al gusto.
 
 <h3>Preparación</h3>
-Coloque los muslos,ajo,cebolla y el yoghurt en un taz&ograve;n,dejelos sazonar.D&egrave;les vuelta para que se cubran por todas partes,marine en refrigeraci&ograve;n por unas 2 a 3 horas.
+Coloque los muslos,ajo,cebolla y el yoghurt en un tazón,dejelos sazonar.Déles vuelta para que se cubran por todas partes,marine en refrigeración por unas 2 a 3 horas.
 
-Caliente una sart&egrave;n y agregue el aceite.
+Caliente una sartén y agregue el aceite.
 
-Saque los muslos de la marinada y s&egrave;quelos con papel absorbente.Aselos por todos lados.
+Saque los muslos de la marinada y séquelos con papel absorbente.Aselos por todos lados.
 
-Ret&igrave;relos cuando al pincharlos con un tenedor salga el jugo.
+Retírelos cuando al pincharlos con un tenedor salga el jugo.
 
 ACOMPAñE CON FRIJOLES,GUACAMOLE O ARROZ AL VAPOR.
 

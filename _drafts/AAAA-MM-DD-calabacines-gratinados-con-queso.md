@@ -22,7 +22,7 @@ personas: 2
 <h3>Ingredientes</h3>
 2 Kg. de calabacines
 
-100 gr. de queso Gruy&egrave;re rallado
+100 gr. de queso Gruyére rallado
 
 3 ó 4 cucharadas soperas de pan rallado
 
