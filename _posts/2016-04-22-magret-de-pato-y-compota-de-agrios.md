@@ -3,19 +3,6 @@ layout: post
 title: MAGRET DE PATO Y COMPOTA DE AGRIOS
 categories:
 - Carnes y derivados
-- Mariscos y moluscos
-- Verduras y legumbres
-- Pescados
-- Arroces
-- Salsas
-- Postres y dulces
-- Huevos y lacteos
-- Pastas
-- Entrantes y bocadillos
-- Frutas
-- Sopas y cremas
-- Ensaladas
-- Setas y hongos
 tags:
 - magret de pato
 - vino de Oporto
@@ -41,13 +28,8 @@ tiempo_minutos: 90
 <h3>Preparación</h3>
 Pelamos la fruta y ponemos a cocer cada fruta por separado con su peso en azúcar a fuego suave.
 
-En una sartén hacemos a la plancha el magret, cuadriculando antes con un cuchillo la parte de la grasa.
+En una sartén hacemos a la plancha el magret, cuadriculando antes con un cuchillo la parte de la grasa. Una vez cocinado el magret, lo sacamos de la sartén y le quitamos el exceso de grasa que haya quedado.
 
-Una vez cocinado el magret, lo sacamos de la sartén y le quitamos el exceso de grasa que haya quedado.
-
-Ponemos de nuevo la sartén en el fuego, añadimos el Oporto, dejamos que se caliente, y echamos la harina de maíz diluida en un poco de agua.
-
-Dejamos reducir, ponemos a punto de sal y colamos por un colador chino la salsa.
+Ponemos de nuevo la sartén en el fuego, añadimos el Oporto, dejamos que se caliente, y echamos la harina de maíz diluida en un poco de agua. Dejamos reducir, ponemos a punto de sal y colamos por un colador chino la salsa.
 
 Fileteamos el magret y lo presentamos salseado con la salsa de Oporto, y decorado con las compotas de frutas.
-
