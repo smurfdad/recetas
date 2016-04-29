@@ -2,7 +2,7 @@ language: ruby
 rvm:
 - 2.1
 
-install: gem install jekyll html-proofer
+install: gem install jekyll jekyll-paginate jekyll-sitemap html-proofer
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
