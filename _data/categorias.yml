@@ -24,6 +24,6 @@
 - name: Sopas y cremas
   uri: sopas-y-cremas
 - name: Ensaladas
-  uri: ensaldas
+  uri: ensaladas
 - name: Setas y hongos
   uri: setas-y-hongos

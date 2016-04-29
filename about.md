@@ -31,10 +31,4 @@ permalink: /p/about.html
   <br />Por razones técnicas no puedo publicar todas las recetas de golpe y tendré que hacerlo en pequeños bloques periódicos (al menos este es el propósito que intentaré cumplir). </p>
 
 <h4>¿Quieres colaborar en el blog?</h4>
-Si te apetece colaborar con este blog, te lo agradecemos de todo corazón. Puedes hacerlo libremente con tus comentarios. 
-
-<br />Para ser más eficaces te pedimos un poco de orden al realizar los comentarios. 
-
-<br />Si quieres hacer una observación sobre el blog en general te agradecería que hicieses tu comentario en la sección <a href="http://recetas.smurfdad.es/p/colabora.html"><strong>Colabora</strong></a>. 
-
-<br />Sin embargo, si lo que quieres es hacer un apunte sobre una receta concreta, por favor, haz tu comentario en la página de la receta.
+Si te apetece colaborar con este sitio, te lo agradecemos de todo corazón. Puedes hacerlo libremente ya que tenemos todos publicado en [GitHub](https://github.com/smurfdad/recetas/)
