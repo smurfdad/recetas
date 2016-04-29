@@ -2,6 +2,8 @@ language: ruby
 rvm:
 - 2.1
 
+cache: bundle
+
 install: gem install jekyll jekyll-paginate jekyll-sitemap html-proofer
 
 # Assume bundler is being used, therefore
@@ -12,10 +14,14 @@ script: jekyll build && htmlproofer ./_site
 branches:
   only:
   - gh-pages     # test the gh-pages branch
-  - /pages-(.*)/ # test every branch which starts with "pages-"
 
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
 
+notifications:
+  email:
+    recipients:
+      - smurfdad@smurfdad.es
+      
 sudo: false # route your build to the container-based infrastructure for a faster build
