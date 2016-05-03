@@ -16,6 +16,7 @@ script:
 branches:
   only:
   - gh-pages     # test the gh-pages branch
+  - master
 
 env:
   global:
