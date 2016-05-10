@@ -3,18 +3,6 @@ layout: post
 title: LANGOSTINOS AL OPORTO
 categories:
 - Mariscos y moluscos
-- Verduras y legumbres
-- Pescados
-- Arroces
-- Salsas
-- Postres y dulces
-- Huevos y lacteos
-- Pastas
-- Entrantes y bocadillos
-- Frutas
-- Sopas y cremas
-- Ensaladas
-- Setas y hongos
 tags:
 - langostinos
 - vino de oporto
