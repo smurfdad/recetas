@@ -1,0 +1,11 @@
+---
+permalink: /data/buscador.json
+---
+{
+  "ingredientes":{
+    {% for tag in site.tags %}"{{tag[0]}}":{% assign posts = "" | split:"," %}{% for post in tag[1] %}{% assign posts = posts | push: post.id %}{% endfor %}{{ posts | jsonify}},
+    {% endfor %}"":[]},
+  "recetas":{
+    {% for post in site.posts %}"{{post.id}}":{"name": "{{post.title}}","url": "{{post.url}}"},
+    {% endfor %}"":[]}
+}
