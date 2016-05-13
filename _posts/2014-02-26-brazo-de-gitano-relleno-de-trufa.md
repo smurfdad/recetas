@@ -4,37 +4,37 @@ title: BRAZO DE GITANO RELLENO DE TRUFA
 categories:
 - Huevos y lacteos
 - Postres y dulces
+tags:
+- harina
+- azúcar
+- mantequilla
+- huevo
+- sal
+- limón
+- nata
+- mantequilla
+- azúcar
+- chocolate
 personas: 4 
 ---
 <h3>Ingredientes</h3>
 Para el bizcocho:
-
-140 gramos de harina.
-
-140 gramos de azúcar.
-
-35 gramos de mantequilla.
-
-5 yemas de huevo.
-
-5 claras de huevo.
-
-1 pizca de sal.
-
-Un poco de ralladura de limón.
+- 140 gramos de harina.
+- 140 gramos de azúcar.
+- 35 gramos de mantequilla.
+- 5 yemas de huevo.
+- 5 claras de huevo.
+- 1 pizca de sal.
+- Un poco de ralladura de limón.
 
 Para el relleno:
-
-150 gramos de nata.
-
-100 gramos de mantequilla.
-
-50 gramos de azúcar fino.
-
-100 gramos de chocolate al aroma de vainilla rallado.
+- 150 gramos de nata.
+- 100 gramos de mantequilla.
+- 50 gramos de azúcar fino.
+- 100 gramos de chocolate al aroma de vainilla rallado.
 
 <h3>Preparación</h3>
-Bizcocho
+<h4>Bizcocho</h4>
 
 Ponemos las yemas en un bol y añadimos el azúcar.
 
@@ -58,7 +58,7 @@ Espolvoreamos con un poco de harina la parte superior del bizcocho y cubrimos co
 
 Volcamos sobre el segundo papel y dejamos enfriar un poco.
 
-Relleno
+<h4>Relleno<h4>
 
 Fundimos el chocolate al baño María y la mantequilla. Una vez fundido, dejamos que se temple un poco antes de juntar con la nata.
 

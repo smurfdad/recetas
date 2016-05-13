@@ -11,7 +11,7 @@ tags:
 - curry
 - nuez
 - manzana
-- Sal
+- sal
 personas: 4 
 ---
 <h3>Ingredientes</h3>

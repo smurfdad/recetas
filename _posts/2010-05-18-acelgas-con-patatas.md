@@ -4,8 +4,8 @@ title: ACELGAS CON PATATAS
 categories:
 - Verduras y legumbres
 tags:
-- Acelga
-- Patata
+- acelga
+- patata
 ---
 <h3>Ingredientes</h3>
 - 1 1/2 Kg. acelgas

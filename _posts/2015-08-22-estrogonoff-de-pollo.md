@@ -5,7 +5,7 @@ categories:
 - Huevos y lacteos
 - Carnes y derivados
 tags:
-- Tomate
+- tomate
 - pechuga de pollo
 - cebolla
 - margarina

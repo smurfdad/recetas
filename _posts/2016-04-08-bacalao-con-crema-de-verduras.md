@@ -10,9 +10,9 @@ tags:
 - brécol
 - patata
 - cebolla
-- Zanahorias enanas
-- Aceite de oliva
-- Sal
+- zanahorias enanas
+- aceite de oliva
+- sal
 personas: 2 
 ---
 <h3>Ingredientes</h3>

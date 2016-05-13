@@ -4,28 +4,30 @@ title: PECHUGAS A LA CREMA DE PUERROS CON PATATAS DORE
 categories:
 - Verduras y legumbres
 - Carnes y derivados
+tags:
+- pollo
+- puerro
+- crema de leche
+- patata
+- vino de blanco
+- sal
+- pimienta
+- aceite
+- manteca
+- maicena
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-4 pechugas de pollo
-
-3 blancos de puerro
-
-crema de leche 250 cc.
-
-4 patatas medianas
-
-1/2 vino de blanco
-
-sal
-
-pimienta a gusto
-
-aceite
-
-manteca
-
-1 cucharada de maicena
+- 4 pechugas de pollo
+- 3 blancos de puerro
+- crema de leche 250 cc.
+- 4 patatas medianas
+- 1/2 vino de blanco
+- sal
+- pimienta a gusto
+- aceite
+- manteca
+- 1 cucharada de maicena
 
 <h3>Preparación</h3>
 Salpimentar las pechugas y dorarlas de ambos lados en aceite caliente, colocarlas en una fuente y cocinar a horno moderado.

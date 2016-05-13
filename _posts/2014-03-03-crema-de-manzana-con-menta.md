@@ -4,22 +4,22 @@ title: CREMA DE MANZANA CON MENTA
 categories:
 - Postres y dulces
 - Frutas
+tags:
+- manzana
+- azúcar
+- limón
+- nata
+- menta
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-6 manzanas golden.
-
-1 manzana royal gala.
-
-50 gramos de azúcar.
-
-1/2 limón.
-
-2 decilitros de nata para cocinar (con menos grasa)
-
-2 hojas de menta fresca.
-
-1 ramillete de menta para decorar.
+- 6 manzanas golden.
+- 1 manzana royal gala.
+- 50 gramos de azúcar.
+- 1/2 limón.
+- 2 decilitros de nata para cocinar (con menos grasa)
+- 2 hojas de menta fresca.
+- 1 ramillete de menta para decorar.
 
 <h3>Preparación</h3>
 Pelamos las manzanas golden y junto con el azúcar, unas hojas de menta y el zumo de medio limón, cocemos a fuego lento en una cazuela tapada a fuego lento durante 30 minutos.

@@ -3,20 +3,23 @@ layout: post
 title: BIZCOCHO CON YOGUR
 categories:
 - Postres y dulces
+tags:
+- yogur
+- limón
+- aceite de girasol
+- azúcar
+- harina
+- huevo
+- levadura
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1 yogur de limón(o natural con ralladura de limón)
-
-1 medida de yogur de aceite de girasol
-
-2 medida de azúcar
-
-3 medida de harina
-
-3 huevos
-
-1 sobre de royal (3 cucharadas rasas)
+- 1 yogur de limón(o natural con ralladura de limón)
+- 1 medida de yogur de aceite de girasol
+- 2 medida de azúcar
+- 3 medida de harina
+- 3 huevos
+- 1 sobre de royal (3 cucharadas rasas)
 
 <h3>Preparación</h3>
 Batir con la batidora el yogur, las yemas de los huevos, el aceite y el azúcar.

@@ -11,7 +11,7 @@ tags:
 - licor de naranja
 - canela
 - clavo
-- Queso crema
+- queso crema
 ---
 <h3>Ingredientes</h3>
 - Cuatro manzanas deliciosas

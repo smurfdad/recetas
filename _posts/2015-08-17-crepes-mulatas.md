@@ -7,13 +7,12 @@ categories:
 tags:
 - harina
 - azúcar
-- Cacao
+- cacao
 - huevos
 - leche
 - mantequilla
 - crema de leche
 - cerezas en licor
-- azúcar glass
 ---
 <h3>Ingredientes</h3>
 - 75 gr. de harina

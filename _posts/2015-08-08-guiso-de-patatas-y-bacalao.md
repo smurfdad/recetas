@@ -4,14 +4,14 @@ title: GUISO DE PATATAS Y BACALAO
 categories:
 - Pescados
 tags:
-- patatas.
+- patata
 - bacalao
 - pimiento rojo 
 - pimiento verde
 - cebolla
-- ajo.
+- ajo
 - pescado
-- perejil.
+- perejil
 - de oliva
 - Sal
 personas: 4 

@@ -3,22 +3,24 @@ layout: post
 title: BONITO CON TOMATE
 categories:
 - Pescados
+tags:
+- bonito
+- tomate
+- cebolla
+- pimiento verdes
+- ajo
+- sal
+- aceite de oliva
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1 kg. de bonito en rodajas
-
-1 kg. de tomate
-
-2 cebollas
-
-2 pimientos verdes
-
-1 ajo
-
-sal
-
-aceite de oliva
+- 1 kg. de bonito en rodajas
+- 1 kg. de tomate
+- 2 cebollas
+- 2 pimientos verdes
+- 1 ajo
+- sal
+- aceite de oliva
 
 <h3>Preparación</h3>
 Limpiar el bonito, lavarlo, secarlo y darle sal.

@@ -8,7 +8,6 @@ tags:
 - vino de oporto
 - aceite de oliva
 - tomate
-
 personas: 4 
 ---
 <h3>Ingredientes</h3>

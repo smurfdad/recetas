@@ -3,16 +3,18 @@ layout: post
 title: BACALAO AL PIL-PIL
 categories:
 - Pescados
+tags:
+- bacalao
+- ajo
+- aceite de oliva
+- guindilla
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1 y medio Kg. de bacalao
-
-6 dientes de ajo
-
-1/2 l de aceite virgen de oliva
-
-1 guindilla
+- 1 y medio Kg. de bacalao
+- 6 dientes de ajo
+- 1/2 l de aceite virgen de oliva
+- 1 guindilla
 
 <h3>Preparación</h3>
 Remojar el bacalao durante 48 horas, cambiando 4 veces de agua.

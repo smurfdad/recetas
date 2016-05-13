@@ -3,20 +3,22 @@ layout: post
 title: BIZCOCHO ELENA
 categories:
 - Postres y dulces
+tags:
+- huevo
+- mantequilla
+- harina
+- azúcar
+- almendra
+- levadura
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-6 huevos
-
-200 grs. mantequilla
-
-250 grs. harina
-
-300 grs. azúcar
-
-50 grs. almendras
-
-1 sobre royal (3 cucharadas)
+- 6 huevos
+- 200 grs. mantequilla
+- 250 grs. harina
+- 300 grs. azúcar
+- 50 grs. almendras
+- 1 sobre royal (3 cucharadas)
 
 <h3>Preparación</h3>
 Batir bien las yemas con el azúcar.

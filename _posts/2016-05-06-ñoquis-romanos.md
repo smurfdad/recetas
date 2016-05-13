@@ -9,7 +9,7 @@ tags:
 - manteca
 - queso
 - leche
-- Crema de leche
+- crema de leche
 personas: 6 
 ---
 <h3>Ingredientes</h3>

@@ -12,7 +12,7 @@ tags:
 - laurel
 - pimienta negra
 - tomillo
-- Sal
+- sal
 personas: 6 
 ---
 <h3>Ingredientes</h3>

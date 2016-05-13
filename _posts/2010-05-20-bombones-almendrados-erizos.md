@@ -3,14 +3,19 @@ layout: post
 title: BOMBONES ALMENDRADOS (ERIZOS)
 categories:
 - Postres y dulces
+tags:
+- chocolate
+- avellanas
+- nuez
+- almendra
+- crispis
+- trigo inflado
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1/2 kg. de cobertura de chocolate o sucedáneo
-
-250 grs. de avellanas, nueces o almendras troceadas
-
-100 grs. de crispis (trigo inflado)
+- 1/2 kg. de cobertura de chocolate o sucedáneo
+- 250 grs. de avellanas, nueces o almendras troceadas
+- 100 grs. de crispis (trigo inflado)
 
 <h3>Preparación</h3>
 Deshacer el chocolate al baño maría en fuego suave.

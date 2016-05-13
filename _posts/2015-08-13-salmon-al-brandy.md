@@ -4,11 +4,11 @@ title: SALMÓN AL BRANDY
 categories:
 - Pescados
 tags:
-- Salmón
-- Patata
-- Cebolla
-- Brandy
-- Comino
+- salmón
+- patata
+- cebolla
+- brandy
+- comino
 personas: 4 
 ---
 <h3>Ingredientes</h3>

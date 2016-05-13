@@ -9,9 +9,9 @@ tags:
 - nueces
 - pasas
 - azúcar
-- balsámico.
+- balsámico
 - aceite
-- Sal
+- sal
 personas: 4 
 ---
 <h3>Ingredientes</h3>

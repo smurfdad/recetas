@@ -8,7 +8,7 @@ tags:
 - berenjena
 - pimiento rojo
 - queso de cabra
-- Orégano
+- orégano
 ---
 <h3>Ingredientes</h3>
 - 250 gr. de escalibada (mitad berenjena asada y mitad pimiento rojo asado)

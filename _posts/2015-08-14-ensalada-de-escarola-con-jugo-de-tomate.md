@@ -7,7 +7,7 @@ tags:
 - escarola
 - tomate
 - ajo
-- Aceite
+- aceite
 - limón
 ---
 <h3>Ingredientes</h3>

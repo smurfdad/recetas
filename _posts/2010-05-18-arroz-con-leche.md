@@ -5,6 +5,11 @@ categories:
 - Arroces
 - Postres y dulces
 tags:
+- leche
+- arroz
+- azúcar
+- limón
+- canela
 personas: 8 
 ---
 <h3>Ingredientes</h3>
@@ -12,8 +17,7 @@ personas: 8
 - 150 grs. de arroz
 - 300 grs. de azúcar
 - 1 palo de canela
-- 1 trozo de corteza de
-- limón
+- 1 trozo de corteza de limón
 - canela para espolvorear
 
 <h3>Preparación</h3>

@@ -4,30 +4,25 @@ title: BECHAMEL PARA CROQUETAS
 categories:
 - Salsas
 - Huevos y lacteos
+tags:
+- leche
+- harina
+- mantequilla
+- aceite
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-1/4 l. de leche
-
-50 grs. de harina
-
-50 grs. mantequilla o 4 cucharadas de aceite
-
-(6 personas)
-
-1/2 l. de leche
-
-100 grs. de harina
-
-100 grs. mantequilla u 8 cucharadas de aceite
-
-(10 personas)
-
-1 l. de leche
-
-200 grs. harina
-
-200 grs. mantequilla o 16 cucharadas de aceite
+- 1/4 l. de leche
+- 50 grs. de harina
+- 50 grs. mantequilla o 4 cucharadas de aceite
+<h4>(6 personas)</h4>
+- 1/2 l. de leche
+- 100 grs. de harina
+- 100 grs. mantequilla u 8 cucharadas de aceite
+<h4>(10 personas)</h4>
+- 1 l. de leche
+- 200 grs. harina
+- 200 grs. mantequilla o 16 cucharadas de aceite
 
 <h3>Preparación</h3>
 En una cazuela plana poner la mantequilla a derretir. Si se utiliza aceite freírlo con unos cascos de cebolla, que luego se retiran.

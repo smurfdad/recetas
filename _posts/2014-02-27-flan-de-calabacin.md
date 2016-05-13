@@ -3,29 +3,30 @@ layout: post
 title: FLAN DE CALABACÍN
 categories:
 - Verduras y legumbres
+tags:
+- calabacin
+- huevo
+- nata
+- ajo
+- hierbabuena
+- perejil
+- perifollo
+- mantequilla
+- sal
+- pimienta
 ---
 <h3>Ingredientes</h3>
-1,5 Kg. de calabacines
-
-5 huevos
-
-250 g de nata líquida
-
-1 diente de ajo
-
-Hierbabuena
-
-perejil
-
-perifollo
-
-80 g de mantequilla
-
-sal gorda
-
-sal
-
-pimienta
+- 1,5 Kg. de calabacines
+- 5 huevos
+- 250 g de nata líquida
+- 1 diente de ajo
+- Hierbabuena
+- perejil
+- perifollo
+- 80 g de mantequilla
+- sal gorda
+- sal
+- pimienta
 
 <h3>Preparación</h3>
 Lavar y secar los calabacines.

@@ -4,10 +4,10 @@ title: CREMA FRESCA DE CHOCOLATE
 categories:
 - Postres y dulces
 tags:
-- Leche
-- Azúcar
-- Chocolate Cobertura
-- Nata
+- leche
+- azúcar
+- chocolate
+- nata
 - huevo
 ---
 <h3>Ingredientes</h3>
