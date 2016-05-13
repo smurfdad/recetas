@@ -3,22 +3,25 @@ layout: post
 title: BIZCOCHO DE PIÑA
 categories:
 - Postres y dulces
+tags:
+- huevo
+- mantequilla
+- harina
+- azúcar
+- levadura
+- piña
+- kirch
+- cointreau
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-3 huevos
-
-200 grs. de mantequilla
-
-1 taza (250 grs.) de harina
-
-1 taza (250 grs.) de azúcar
-
-3 cucharadas royal (1 sobre)
-
-1 lata mediana de piña
-
-1 copita de kirch o cointreau
+- 3 huevos
+- 200 grs. de mantequilla
+- 1 taza (250 grs.) de harina
+- 1 taza (250 grs.) de azúcar
+- 3 cucharadas royal (1 sobre)
+- 1 lata mediana de piña
+- 1 copita de kirch o cointreau
 
 <h3>Preparación</h3>
 Caramelizar un molde y cubrir el fondo con las rodajas de piña. Lo que sobre, se corta en pedacitos.

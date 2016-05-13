@@ -3,33 +3,37 @@ layout: post
 title: ARROZ A LA MARINERA
 categories:
 - Arroces
+tags:
+- arroz
+- rape
+- jibiones
+- langostinos
+- merluza
+- bacalao
+- almejas
+- mejillones
+- salsa de tomate
+- cebolla
+- ajo picado
+- aceite de oliva
+- colorante
+- azafrán
+- pimentón
 ---
 <h3>Ingredientes</h3>
-1 Kg. de arroz
-
-1 Kg. de rape con su cabeza, cortado en trozos
-
-1 Kg. de jibiones cortados a tiras
-
-1 Kg. de langostinos
-
-1 cabeza de merluza o bacalao
-
-1 Kg. de almejas o mejillones
-
-1 lata mediana de salsa de tomate
-
-1 cebolla grande, cortada en trocitos pequeños
-
-1 diente de ajo picado
-
-1/4 de litro de aceite de oliva
-
-2 sobres de colorante o azafrán
-
-1/2 cucharadita de pimentón
-
-2 1/2 l. de agua
+- 1 Kg. de arroz
+- 1 Kg. de rape con su cabeza, cortado en trozos
+- 1 Kg. de jibiones cortados a tiras
+- 1 Kg. de langostinos
+- 1 cabeza de merluza o bacalao
+- 1 Kg. de almejas o mejillones
+- 1 lata mediana de salsa de tomate
+- 1 cebolla grande, cortada en trocitos pequeños
+- 1 diente de ajo picado
+- 1/4 de litro de aceite de oliva
+- 2 sobres de colorante o azafrán
+- 1/2 cucharadita de pimentón
+- 2 1/2 l. de agua
 
 <h3>Preparación</h3>
 MODO DE HACER EL CALDO:

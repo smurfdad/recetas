@@ -3,24 +3,26 @@ layout: post
 title: BACALAO AL CLUB RANERO
 categories:
 - Pescados
+tags:
+- bacalao
+- cebolla
+- pimiento verde
+- pimiento rojo
+- ajo
+- perejil
+- tomates
+- aceite de oliva
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1 y 1/2 Kg. bacalao en tajadas no muy finas
-
-1 cebolla grande
-
-3 pimientos medianos verdes
-
-3 pimientos rojos de lata
-
-8 ajos
-
-perejil
-
-3 tomates de hacer
-
-1/4 aceite de oliva virgen
+- 1 y 1/2 Kg. bacalao en tajadas no muy finas
+- 1 cebolla grande
+- 3 pimientos medianos verdes
+- 3 pimientos rojos de lata
+- 8 ajos
+- perejil
+- 3 tomates de hacer
+- 1/4 aceite de oliva virgen
 
 <h3>Preparación</h3>
 Hacer primeramente el pisto:

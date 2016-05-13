@@ -3,28 +3,31 @@ layout: post
 title: BERENJENAS RELLENAS DE VERDURAS
 categories:
 - Verduras y legumbres
+tags:
+- berenjena
+- cebolla
+- puerro
+- zanahoria
+- champiñones
+- setas
+- coñac
+- bacon
+- nata
+- queso
+- pan rallado
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-3 berenjenas
-
-3 cebollas
-
-1 puerro
-
-1 zanahoria
-
-1/4 kg. champiñones o setas
-
-1 chorrito coñac
-
-3 lonchas de bacon
-
-nata (opcional)
-
-50 grs. queso rallado
-
-1 cucharada de pan rallado
+- 3 berenjenas
+- 3 cebollas
+- 1 puerro
+- 1 zanahoria
+- 1/4 kg. champiñones o setas
+- 1 chorrito coñac
+- 3 lonchas de bacon
+- nata (opcional)
+- 50 grs. queso rallado
+- 1 cucharada de pan rallado
 
 <h3>Preparación</h3>
 Cortar las berenjenas por la mitad, a lo largo.

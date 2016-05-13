@@ -3,22 +3,24 @@ layout: post
 title: BISTECS A LA CERVEZA
 categories:
 - Carnes y derivados
+tags:
+- filetes
+- sopa de cebolla
+- cerveza
+- guisantes
+- zanahoria
+- champiñon
+- patata
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1 1/2 kg. de filetes
-
-1 sobre de sopa de cebolla
-
-1 botellín de cerveza
-
-1/4 de kg. de guisantes
-
-2 zanahorias troceadas
-
-1/4 de kg. de champiñon
-
-3 patatas cascadas en trozos
+- 1 1/2 kg. de filetes
+- 1 sobre de sopa de cebolla
+- 1 botellín de cerveza
+- 1/4 de kg. de guisantes
+- 2 zanahorias troceadas
+- 1/4 de kg. de champiñon
+- 3 patatas cascadas en trozos
 
 <h3>Preparación</h3>
 Pasar los filetes por harina y dorarlos en aceite de oliva.

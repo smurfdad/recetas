@@ -3,14 +3,16 @@ layout: post
 title: BISCUIT GLACÉE
 categories:
 - Postres y dulces
+tags:
+- huevos
+- azúcar
+- nata
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-3 huevos
-
-4 cucharadas de azúcar
-
-250 grs. de nata batida
+- 3 huevos
+- 4 cucharadas de azúcar
+- 250 grs. de nata batida
 
 <h3>Preparación</h3>
 Batir las yemas con el azúcar hasta que estén en pomada.
