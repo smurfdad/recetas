@@ -3,25 +3,27 @@ layout: post
 title: CORAZONES DE ALCACHOFAS AL VINO BLANCO
 categories:
 - Verduras y legumbres
+tags:
+- alcachofas
+- ajo
+- caldo blanco
+- aceite de oliva
+- hierbabuena
+- vino blanco
+- pimienta blanca
+- maicena
+- sal
 ---
 <h3>Ingredientes</h3>
-2Kg de alcachofas
-
-4 dientes de ajo
-
-150 dl de caldo blanco
-
-1/4 litro de aceite de oliva
-
-2 cucharaditas de hierbabuena
-
-2 vaso de vino blanco
-
-2 cucharaditas de pimienta blanca
-
-80gr de maicena
-
-Sal
+- 2Kg de alcachofas
+- 4 dientes de ajo
+- 150 dl de caldo blanco
+- 1/4 litro de aceite de oliva
+- 2 cucharaditas de hierbabuena
+- 2 vaso de vino blanco
+- 2 cucharaditas de pimienta blanca
+- 80gr de maicena
+- Sal
 
 <h3>Preparación</h3>
 Limpiar las alcachofas y partir por la mitad. Poner los ajos en una cacerola con un poco de aceite, cuando estén dorados añadir las alcachofas salpimentadas rehogando unos minutos. Añadir el vino y después el caldo.

@@ -9,10 +9,10 @@ tags:
 - leche
 - margarina
 - harina
-- Sal 
+- sal 
 - nuez moscada
 - huevos
-- Aceite
+- aceite
 personas: 4 
 ---
 <h3>Ingredientes</h3>

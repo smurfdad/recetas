@@ -6,12 +6,12 @@ categories:
 tags:
 - bacalao
 - cebolla
-- Pasta de tomate
+- pasta de tomate
 - laurel
 - perejil
-- Aceite de oliva
-- Sal
-- Harina
+- aceite de oliva
+- sal
+- harina
 personas: 4 
 ---
 <h3>Ingredientes</h3>

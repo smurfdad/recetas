@@ -3,26 +3,28 @@ layout: post
 title: BERENJENAS RELLENAS
 categories:
 - Verduras y legumbres
+tags:
+- aceite de oliva
+- berenjena
+- cebolla
+- champiñon
+- pan
+- perejil
+- sal
+- salsa tomate
+- huevo
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-aceite de oliva
-
-4 berenjenas
-
-3 cebollas picadas
-
-150 gramos de champiñones
-
-100 gramos de miga de pan
-
-1 pizca de perejil picado
-
-1 pizca de sal
-
-3 cucharadas de salsa tomate
-
-2 huevo, yemas
+- aceite de oliva
+- 4 berenjenas
+- 3 cebollas picadas
+- 150 gramos de champiñones
+- 100 gramos de miga de pan
+- 1 pizca de perejil picado
+- 1 pizca de sal
+- 3 cucharadas de salsa tomate
+- 2 yemas de huevo
 
 <h3>Preparación</h3>
 Cortar a lo largo por la mitad las berenjenas y vaciarlas con cuidado.

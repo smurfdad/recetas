@@ -6,20 +6,22 @@ categories:
 - Verduras y legumbres
 - Mariscos y moluscos
 - Setas y hongos
+tags:
+- calabacín
+- bonito
+- gamba
+- seta
+- coñac
+- cebolla
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-200 g de calabacín.
-
-200 g de bonito fresco.
-
-200 g de gambas.
-
-100 g de setas.
-
-1 copa de coñac.
-
-50 g de cebolla.
+- 200 g de calabacín.
+- 200 g de bonito fresco.
+- 200 g de gambas.
+- 100 g de setas.
+- 1 copa de coñac.
+- 50 g de cebolla.
 
 <h3>Preparación</h3>
 Limpiamos las gambas y el bonito de espinas y cáscaras.

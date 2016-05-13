@@ -5,21 +5,22 @@ categories:
 - Arroces
 - Huevos y lacteos
 - Postres y dulces
+tags:
+- arroz
+- azúcar
+- mantequilla
+- leche
+- limón
+- canela
 ---
 <h3>Ingredientes</h3>
-200 g de arroz
-
-200 g de azúcar
-
-100 g de mantequilla
-
-3 d l de leche
-
-1 cáscara de limón
-
-1 rama de canela
-
-1 cucharada de canela en polvo
+- 200 g de arroz
+- 200 g de azúcar
+- 100 g de mantequilla
+- 3 d l de leche
+- 1 cáscara de limón
+- 1 rama de canela
+- 1 cucharada de canela en polvo
 
 <h3>Preparación</h3>
 Poner el arroz en una cazuela ancha con el doble de agua. Mientras tanto en otra cazuela hervir la leche con el azúcar, la cáscara de limón y la canela. Cuando el arroz esté casi seco agregar la leche poco a poco sin dejar de remover.

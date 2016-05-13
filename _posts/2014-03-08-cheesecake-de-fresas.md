@@ -4,35 +4,36 @@ title: CHEESECAKE DE FRESAS
 categories:
 - Huevos y lacteos
 - Postres y dulces
+tags:
+- fresa
+- gelatina
+- limón
+- queso mascarpone
+- azúcar
+- crema de leche
+- huevo
+- galleta
+- mantequilla
+- sal
 personas: 4 
 tiempo_minutos: 60 
 ---
 <h3>Ingredientes</h3>
-1 libra de fresas maduras
-
-100 gramos de azúcar
-
-1 sobre de gelatina sin sabor
+- 1/2 kg de fresas maduras
+- 100 gramos de azúcar
+- 1 sobre de gelatina sin sabor
 
 Para el relleno:
-
-El zumo de un limón
-
-500 gramos de queso mascarpone
-
-130 gramos de azúcar pulverizada
-
-500 gramos de crema de leche
-
-1 huevo
+- El zumo de un limón
+- 500 gramos de queso mascarpone
+- 130 gramos de azúcar pulverizada
+- 500 gramos de crema de leche
+- 1 huevo
 
 Para la base:
-
-galletas macarena paquete
-
-60 gramos de mantequilla derretida
-
-1 pizca de sal
+- galletas macarena paquete
+- 60 gramos de mantequilla derretida
+- 1 pizca de sal
 
 <h3>Preparación</h3>
 Mezclar la mantequilla derretida y las migas de galleta y cubrir un molde delgado para pie con una capa delgada de la mezcla.

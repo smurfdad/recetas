@@ -3,26 +3,28 @@ layout: post
 title: COCIDO DE ALUBIAS BLANCAS CON BRÉCOL
 categories:
 - Verduras y legumbres
+tags:
+- alubia blanca
+- brécol
+- cebolla
+- puerro
+- zanahoria
+- ajo
+- pimentón dulce
+- aceite de oliva
+- sal
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-400 gramos de alubias blancas.
-
-300 gramos de brécol.
-
-50 gramos de cebolla.
-
-50 gramos de puerro.
-
-50 gramos de zanahoria.
-
-2 dientes de ajos.
-
-1 cucharada de pimentón dulce.
-
-4 cucharadas de aceite de oliva virgen.
-
-Sal.
+- 400 gramos de alubias blancas.
+- 300 gramos de brécol.
+- 50 gramos de cebolla.
+- 50 gramos de puerro.
+- 50 gramos de zanahoria.
+- 2 dientes de ajos.
+- 1 cucharada de pimentón dulce.
+- 4 cucharadas de aceite de oliva virgen.
+- Sal
 
 <h3>Preparación</h3>
 Ponemos a remojo las alubias el día anterior.

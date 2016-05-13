@@ -4,16 +4,18 @@ title: INTXAURSALSA
 categories:
 - Huevos y lacteos
 - Postres y dulces
+tags:
+- leche
+- canela
+- nuez
+- azúcar
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-2 litros de leche.
-
-2 ramas de canela.
-
-300 gramos nueces troceadas.
-
-300 gramos de azúcar.
+- 2 litros de leche.
+- 2 ramas de canela.
+- 300 gramos nueces troceadas.
+- 300 gramos de azúcar.
 
 <h3>Preparación</h3>
 En una cazuela colocamos las nueces troceadas, la leche y los palos de canela.
