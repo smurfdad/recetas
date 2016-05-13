@@ -3,20 +3,23 @@ layout: post
 title: BACON ESPECIAL
 categories:
 - Carnes y derivados
+tags:
+- bacon
+- puré de patatas
+- huevo
+- pimienta
+- mantequilla
+- queso
 personas: 4 
 ---
 <h3>Ingredientes</h3>
-4 lonchas grandes de bacon
-
-1 paquete de puré de patatas
-
-1 yema de huevo
-
-sal, pimienta
-
-1 cucharada mantequilla
-
-queso rallado
+- 4 lonchas grandes de bacon
+- 1 paquete de puré de patatas
+- 1 yema de huevo
+- sal
+- pimienta
+- 1 cucharada mantequilla
+- queso rallado
 
 <h3>Preparación</h3>
 Hacer el puré de patatas como indica el paquete pero con menos líquido para que quede más seco.

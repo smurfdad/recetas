@@ -3,24 +3,27 @@ layout: post
 title: BIZCOCHO CON FRUTOS SECOS
 categories:
 - Postres y dulces
+tags:
+- yogur
+- limón
+- aceite de girasol
+- huevo
+- azúcar
+- harina
+- levadura
+- ciruela pasa
+- nuez
 personas: 8 
 ---
 <h3>Ingredientes</h3>
-1 yogur de limón(o natural con ralladura de limón)
-
-1 medida del yogur de aceite de girasol
-
-3 huevos
-
-2 medidas del yogur de azúcar
-
-3 medidas del yogur de harina
-
-1 sobre de royal (3 cucharadas rasas)
-
-10 ciruelas pasas
-
-15 nueces
+- 1 yogur de limón(o natural con ralladura de limón)
+- 1 medida del yogur de aceite de girasol
+- 3 huevos
+- 2 medidas del yogur de azúcar
+- 3 medidas del yogur de harina
+- 1 sobre de royal (3 cucharadas rasas)
+- 10 ciruelas pasas
+- 15 nueces
 
 <h3>Preparación</h3>
 Remojar de víspera las ciruelas en agua con un poco de licor o vino dulce.

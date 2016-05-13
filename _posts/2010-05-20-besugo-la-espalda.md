@@ -3,20 +3,22 @@ layout: post
 title: BESUGO A LA ESPALDA
 categories:
 - Pescados
+tags:
+- besugo
+- aceite de oliva
+- ajo
+- guindilla
+- sal
+- vinagre
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1 besugo de 1 1/2 kg.
-
-un poco de aceite de oliva
-
-4 dientes de ajo picados
-
-1 guindilla
-
-sal
-
-un chorrito de vinagre
+- 1 besugo de 1 1/2 kg.
+- un poco de aceite de oliva
+- 4 dientes de ajo picados
+- 1 guindilla
+- sal
+- un chorrito de vinagre
 
 <h3>Preparación</h3>
 Decir en la pescadería que preparen el pescado para asar.

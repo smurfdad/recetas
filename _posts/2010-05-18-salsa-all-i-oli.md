@@ -3,18 +3,21 @@ layout: post
 title: SALSA ALL-I-OLI
 categories:
 - Salsas
+tags:
+- ajo
+- huevo
+- sal
+- vinagre
+- limón
+- aceite
 personas: 8 
 ---
 <h3>Ingredientes</h3>
-4 dientes de ajo
-
-1 huevo entero
-
-1/2 cucharadita de sal
-
-1 cucharada de vinagre o limón
-
-250 grs. (una taza grande) de aceite
+- 4 dientes de ajo
+- 1 huevo entero
+- 1/2 cucharadita de sal
+- 1 cucharada de vinagre o limón
+- 250 grs. (una taza grande) de aceite
 
 <h3>Preparación</h3>
 Poner en el vaso de la batidora todos los ingredientes menos el aceite.

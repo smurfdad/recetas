@@ -3,24 +3,24 @@ layout: post
 title: BIZCOCHITOS DE ALMENDRA AL COÑAC
 categories:
 - Postres y dulces
+tags:
+- azúcar
+- mantequilla
+- huevo
+- harina
+- levadura
+- coñac
+- almendra
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-150 grs. de azúcar
-
-150 grs. de mantequilla
-
-4 huevos
-
-150 grs. de harina
-
-1 cucharada de royal
-
-2 copas de coñac
-
-100 grs de almendra
-
-tostada y picada
+- 150 grs. de azúcar
+- 150 grs. de mantequilla
+- 4 huevos
+- 150 grs. de harina
+- 1 cucharada de royal
+- 2 copas de coñac
+- 100 grs de almendra tostada y picada
 
 <h3>Preparación</h3>
 Batir los huevos enteros con el azúcar hasta que estén esponjosos.

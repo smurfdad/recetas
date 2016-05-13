@@ -3,22 +3,24 @@ layout: post
 title: BACALAO CON PIMIENTOS
 categories:
 - Pescados
+tags:
+- bacalao
+- pimiento del piquillo
+- tomate
+- cebolla
+- ajo
+- perejil
+- aceite
 personas: 6 
 ---
 <h3>Ingredientes</h3>
-1 y 1/2 Kg. bacalao desmigado
-
-1 lata de pimientos del piquillo
-
-1 lata mediana de tomate
-
-1 cebolla
-
-1 ajo
-
-perejil
-
-1/4 aceite
+- 1 y 1/2 Kg. bacalao desmigado
+- 1 lata de pimientos del piquillo
+- 1 lata mediana de tomate
+- 1 cebolla
+- 1 ajo
+- perejil
+- 1/4 aceite
 
 <h3>Preparación</h3>
 Remojar el bacalao 48 horas, cambiando de agua 4 veces. Escurrir bien el agua, poniéndolo sobre un trapo.
