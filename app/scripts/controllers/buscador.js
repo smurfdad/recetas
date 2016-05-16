@@ -41,29 +41,25 @@ app.controller("BuscadorCtrl", ["$scope","$http", function ($scope,$http) {
     self.recetas = res.data.recetas;    
   });
   
-  
-  
   //Cuando seleccionamos un ingrediente
   $scope.seleccionIngrediente = function(ingrediente){
-    //alert("Ingrediente seleccionado: "+ingrediente+" recetas: "+self.ingredientesObj[ingrediente]);
-    //var recetas = $scope.ingredientesObj[ingrediente];
-    
-    
-    
-    var index = $scope.ingredientes.indexOf(ingrediente);
-    if (index > -1) {
-      $scope.ingredientes.splice(index, 1);
-    }
-    
-    $scope.ingredientesSeleccionados.push(ingrediente);
-  }
-  //Cuando queremos quitar un ingrediente seleccionado
-  $scope.quitarSeleccionIngrediente = function(ingrediente){
-    //alert("Ingrediente a quitar seleccionado: "+ingrediente);
     var index = $scope.ingredientesSeleccionados.indexOf(ingrediente);
     if (index > -1) {
       $scope.ingredientesSeleccionados.splice(index, 1);
+    }else{
+      $scope.ingredientesSeleccionados.push(ingrediente);
     }
-    $scope.ingredientes.push(ingrediente);
-  };  
+    
+    
+  }
+  
+  $scope.seleccionado = function(ingrediente){
+    var index = $scope.ingredientesSeleccionados.indexOf(ingrediente);
+    if (index > -1) {
+      return "btn-success";
+    }else{
+      return "btn-danger";
+    }
+    
+  };
 }]);

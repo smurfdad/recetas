@@ -3,24 +3,15 @@ layout: page
 title: Buscador de Recetas por Ingredientes
 permalink: /ingredientes/index.html
 ---
-<div ng-controller="BuscadorCtrl">
+<div ng-controller="BuscadorCtrl" ng-cloak>
   <div class="alert alert-info">Pulsa sobre los ingredientes que quieras y buscaremos las recetas que tengan TODOS los ingredientes que has seleccionado.</div>
-  <div class="row">
-    <div id="filtroIngredientes" class="col-md-6">
-      <button class="btn btn-xs btn-danger btn-ingrediente" ng-repeat="ingrediente in ingredientes | orderBy" ng-click="seleccionIngrediente(ingrediente)">[[ingrediente | uppercase ]]</button>
-    </div>
-    <div id="ingredientesSeleccionados" class="col-md-6">
-      <button class="btn btn-xs btn-success btn-ingrediente" ng-repeat="ingrediente in ingredientesSeleccionados | orderBy" ng-click="quitarSeleccionIngrediente(ingrediente)">[[ingrediente | uppercase]]</button>
-    </div>
+  <div id="filtroIngredientes">
+    <button class="btn btn-xs btn-danger btn-ingrediente" ng-class="seleccionado(ingrediente)" ng-repeat="ingrediente in ingredientes | orderBy" ng-click="seleccionIngrediente(ingrediente)">[[ingrediente | uppercase ]]</button>
   </div>
   <hr>
-  <div class="row">
-    <div id="recetasResultado">
-      <ul class="list-group">
-      <li class="list-group-item" ng-repeat="receta in resultados">
-        <a ng-href="[[receta.url]]">[[receta.name]]</a>
-      </li>
-      </ul>
-    </div>  
+  <div id="recetasResultado">
+    <ul class="list-group">
+      <li class="list-group-item" ng-repeat="receta in resultados"><a href="[[receta.url]]">[[receta.name]]</a></li>
+    </ul>
   </div>
 </div>
