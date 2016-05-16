@@ -3,110 +3,24 @@ layout: page
 title: Buscador de Recetas por Ingredientes
 permalink: /ingredientes/index.html
 ---
-<div class="alert alert-info">Pulsa sobre los ingredientes que quieras y buscaremos las recetas que tengan TODOS los ingredientes que has seleccionado.</div>
-<div class="row">
-  <div id="filtroIngredientes" class="col-md-6"></div>
-  <div id="ingredientesSeleccionados" class="col-md-6"></div>
+<div ng-controller="BuscadorCtrl">
+  <div class="alert alert-info">Pulsa sobre los ingredientes que quieras y buscaremos las recetas que tengan TODOS los ingredientes que has seleccionado.</div>
+  <div class="row">
+    <div id="filtroIngredientes" class="col-md-6">
+      <button class="btn btn-xs btn-danger btn-ingrediente" ng-repeat="ingrediente in ingredientes | orderBy" ng-click="seleccionIngrediente(ingrediente)">[[ingrediente | uppercase ]]</button>
+    </div>
+    <div id="ingredientesSeleccionados" class="col-md-6">
+      <button class="btn btn-xs btn-success btn-ingrediente" ng-repeat="ingrediente in ingredientesSeleccionados | orderBy" ng-click="quitarSeleccionIngrediente(ingrediente)">[[ingrediente | uppercase]]</button>
+    </div>
+  </div>
+  <hr>
+  <div class="row">
+    <div id="recetasResultado">
+      <ul class="list-group">
+      <li class="list-group-item" ng-repeat="receta in resultados">
+        <a ng-href="[[receta.url]]">[[receta.name]]</a>
+      </li>
+      </ul>
+    </div>  
+  </div>
 </div>
-<hr>
-<div class="row">
-  <div id="recetasResultado"></div>  
-</div>
-<script>
-  var buscador = {};
-  var resultados = [];
-  jQuery(document).ready(function() {
-    console.log("Preparado");
-    //Cargamos los datos del buscador
-    jQuery.getJSON( "/data/buscador.json", {format: "json"})
-    .done(function(data) {
-      console.log( "second success" );
-      buscador = data;
-      cargaIngredientes()
-    })
-    .fail(function( jqxhr, textStatus, error ) {
-      var err = textStatus + ", " + error;
-      console.log( "Request Failed: " + err );
-    })
-    .always(function() {
-      console.log( "complete" );
-    });
-  });
-
-  //Creamos los checks de los ingredientes;
-  function cargaIngredientes(){
-    $filtroIngredientes = jQuery("#filtroIngredientes");
-    $ingredientesSeleccionados = jQuery("#ingredientesSeleccionados");
-
-    jQuery.each( buscador.ingredientes, function( key, val ) {
-      if (key !== ""){
-//        $input = jQuery("<input/>", {type:"checkbox", value: key, name: "ingredientes"});
-//        $divLabel = jQuery("<div></div>").addClass("checkbox");
-//        $label = jQuery("<label></label>");
-//        $label.append($input).append(key);
-//        $input.on("change", cambioSeleccion);
-//        $divLabel.append($label);
-//        jQuery("#filtroIngredientes").append($divLabel);
-        $label = jQuery("<button></button>", {value: key}).addClass("btn btn-xs btn-info").append(key);
-        $label.css({margin: "1px"});
-        jQuery("#filtroIngredientes").append($label);
-        $label.on("click", function(){
-          $this = jQuery(this);
-          if ($filtroIngredientes.attr('id') == $this.parent().attr('id')){
-            $this.removeClass("btn-info").addClass("btn-success");
-            $ingredientesSeleccionados.append($this);
-          }else{
-            $this.removeClass("btn-success").addClass("btn-info");
-            $filtroIngredientes.append($this);
-          }
-          cambioSeleccion();
-        });
-      }
-    });
-  }
-
-  function cambioSeleccion(){
-    console.log(jQuery('#ingredientesSeleccionados>button').serialize());
-    var resultados = [];
-
-    jQuery("#ingredientesSeleccionados>button").each(function() {
-      //console.log(this.value);
-      resultados.push(buscador.ingredientes[this.value]);
-    });
-    if (resultados.length !== 0) {
-      var result = resultados.shift().filter(function(v) {
-          return resultados.every(function(a) {
-              return a.indexOf(v) !== -1;
-          });
-      });
-      //console.log(JSON.stringify(result));
-      pintaResultado(result);
-    }else{
-      limpiaResultado();
-      jQuery("#recetasResultado").append("No hay resultados");
-    }
-  }
-  function limpiaResultado(){
-    jQuery("#recetasResultado").empty();
-  }
-
-  function pintaResultado(resultados){
-    limpiaResultado();
-    $resultadoDiv = jQuery("#recetasResultado");
-    //$resultadoDiv.append(JSON.stringify(resultados))
-
-  // <ul class="list-group">
-  //   <li class="">Cras justo odio</li>
-  // </ul>
-    $listaResultados = jQuery("<ul></ul>").addClass("list-group");
-    resultados.forEach(function(recetaId) {
-        receta = buscador.recetas[recetaId];
-        $li = jQuery("<li></li>").addClass("list-group-item");
-        $a = jQuery("<a></a>",{href: receta.url}).append(receta.name);
-        $li.append($a);
-        $listaResultados.append($li);
-        
-    });
-    $resultadoDiv.append($listaResultados);
-  }
-</script>
