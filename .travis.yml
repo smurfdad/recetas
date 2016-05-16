@@ -26,5 +26,7 @@ notifications:
   email:
     recipients:
       - smurfdad@smurfdad.es
-      
+    on_success: always
+    on_failure: always
+
 sudo: false # route your build to the container-based infrastructure for a faster build
