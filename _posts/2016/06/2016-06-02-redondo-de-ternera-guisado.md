@@ -3,42 +3,32 @@ layout: post
 title: REDONDO DE TERNERA GUISADO
 categories:
 - Carnes y derivados
-- Mariscos y moluscos
-- Verduras y legumbres
-- Pescados
-- Arroces
-- Salsas
-- Postres y dulces
-- Huevos y lacteos
-- Pastas
-- Entrantes y bocadillos
-- Frutas
-- Sopas y cremas
-- Ensaladas
-- Setas y hongos
- 
+tags:
+- redondo de ternera
+- cebolla
+- zanahoria
+- vino blanco
+- laurel
+- perejil
+- harina
+- sal 
+- aceite 
 ---
 <h3>Ingredientes</h3>
-un redondo de ternera
-
-una cebolla
-
-una zanahoria
-
-vino blanco
-
-una hoja de laurel
-
-perejil
-
-Harina, sal y aceite
+- un redondo de ternera
+- una cebolla
+- una zanahoria
+- vino blanco
+- una hoja de laurel
+- perejil
+- Harina, sal y aceite
 
 <h3>Preparación</h3>
 Se frota el redondo con sal y se reboza en harina
 
-Se pone aceite en la olla y, cuando está caliente, se pone la carne a dorar, dándole la vuelta. &iexcl;Ojo con que no se queme!.
+Se pone aceite en la olla y, cuando está caliente, se pone la carne a dorar, dándole la vuelta teniendo cuidado de que no se queme.
 
-Mientras tanto se corta cebolla en gajos finos y la zanahoria en rodajas, finas también.
+Mientras tanto se corta cebolla en gajos finos y la zanahoria en rodajas finas.
 
 Cuando el redondo casi está dorado, se echa la cebolla y la zanahoria, dejando que termine de dorarse.
 
@@ -53,4 +43,3 @@ Se saca la carne y se pone a enfriar para poder cortarla bien en rodajas finas.
 Se deja consumir la salsa a fuego lento, corrigiendo la sal si es necesario, hasta que quede sin apariencia de estar aguada.
 
 Se puede añadir un chorrito de vinagre a la salsa.
-
